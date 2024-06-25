@@ -36,8 +36,8 @@ a img{border:none;}
 .left{text-align:left;}
 .center{text-align:center;}
 .right{text-align:right;}
-.box-no-border,.box-no-border .inner,.box-no-border b{background-image:url(/nickjr20122015/assets/box-no-border.png);_background-image:none;}
-.box-border,.box-border .inner,.box-border b{background-image:url(/nickjr20122015/assets/box-border.png);_background-image:none;}
+.box-no-border,.box-no-border .inner,.box-no-border b{background-image:url(/nickjr2012-2015/assets/box-no-border.png);_background-image:none;}
+.box-border,.box-border .inner,.box-border b{background-image:url(/nickjr2012-2015/assets/box-border.png);_background-image:none;}
 .box-overlay,.box-overlay .inner,.box-border b{background-image:url(/nickjr20122015/images/flux/overlay.png);_background-image:none;}
 body.adFree .ad{display:none;}
 .ad{margin:0;}
