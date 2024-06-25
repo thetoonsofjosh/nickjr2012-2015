@@ -1,0 +1,19 @@
+.secondary .categories a{display:block;background:transparent url(/nickjr20122015/css/theme/kids-default.css) no-repeat 0 -138px;height:69px;}
+
+#navFamily{
+	background-image:url(/nickjr20122015/dynaboss/images/themes/neighborhood-2011/images/family.png);
+	width:106px;}
+#navShows{
+	background-image:url(/nickjr20122015/dynaboss/images/themes/neighborhood-2011/images/shows.png);
+	width:106px;}
+#navKids{
+	background-image:url(/nickjr20122015/dynaboss/images/themes/neighborhood-2011/images/kids.png);
+	width:106px;}
+#navBoost{
+	background-image:url(/nickjr20122015/dynaboss/images/themes/neighborhood-2011/images/boost.png);
+	width:106px;}
+
+.secondary .categories a:hover{background-position:0 -69px;}
+.secondary .categories .selected a{background-position:0 0;}
+
+
