@@ -4,7 +4,7 @@
 "loader":{"path":"/nickjr20122015/dynaboss/flash/kids/loaders/asset-loader.swf","position":{"x":"300","y":"30"}},
 "adFree":"false",
 
-"path":"/nickjr20122015/dynaboss/flash/kids/nav/kidsheadnav_adfree.swf",
+"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/nav/kidsheadnav_adfree.swf",
 
 "heads": [
 
@@ -15,7 +15,7 @@
 
 ,
 {
-"path":"/nickjr20122015/dynaboss/flash/kids/heads/dora-and-friends-head.swf",
+"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/heads/dora-and-friends-head.swf",
 "link":"/kids/dora-and-friends/"
 }
 
