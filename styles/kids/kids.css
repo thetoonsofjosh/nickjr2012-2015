@@ -1,5 +1,5 @@
 body {
-  background: url("/assets/repaint/kids-bg.jpg") no-repeat scroll 50% 0 #669400;
+  background: url("https://thetoonsofjosh.github.io/nickjr2012-2015/assets/repaint/kids-bg.jpg") no-repeat scroll 50% 0 #669400;
 }
 body#gs .bgCenter, body.wideAlternate .bgCenter {
   background: none;
