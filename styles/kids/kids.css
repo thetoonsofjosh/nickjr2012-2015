@@ -1,5 +1,5 @@
 body {
-  background: url("/nickjr20122015/assets/repaint/kids-bg.jpg") no-repeat scroll 50% 0 #669400;
+  background: url("/assets/repaint/kids-bg.jpg") no-repeat scroll 50% 0 #669400;
 }
 body#gs .bgCenter, body.wideAlternate .bgCenter {
   background: none;
@@ -7,9 +7,9 @@ body#gs .bgCenter, body.wideAlternate .bgCenter {
 .footer .ftrCarousel {
   background: none repeat scroll 0 0 #669400;
 }
-#body-top {background: url(/nickjr20122015/assets/repaint/top-white.jpg) no-repeat; height: 24px; width: 1014px; margin: 0 auto; }
-#body-middle {background: url(/nickjr20122015/assets/repaint/mid-white.jpg) repeat-y; padding: 0; width: 1014px; margin: 0 auto; }
-#body-bottom {background: url(/nickjr20122015/assets/repaint/bottom-white.png) no-repeat; height: 35px; width: 1014px; margin: 0 auto; }
+#body-top {background: url(/assets/repaint/top-white.jpg) no-repeat; height: 24px; width: 1014px; margin: 0 auto; }
+#body-middle {background: url(/assets/repaint/mid-white.jpg) repeat-y; padding: 0; width: 1014px; margin: 0 auto; }
+#body-bottom {background: url(/assets/repaint/bottom-white.png) no-repeat; height: 35px; width: 1014px; margin: 0 auto; }
 
 #game-outer{
 	text-align:left;
@@ -112,7 +112,7 @@ body#gs .bgCenter, body.wideAlternate .bgCenter {
 #kidsShadow{
 	margin:auto;
 	width:1002px;
-	background:url(/nickjr20122015/assets/kids/kids-shadow-middle.png) repeat-y;
+	background:url(/assets/kids/kids-shadow-middle.png) repeat-y;
 	position:relative;
 }
 #kidsShadowTop{
@@ -120,14 +120,14 @@ body#gs .bgCenter, body.wideAlternate .bgCenter {
 	margin-top:-10px;
 	width:1002px;
 	height:10px;
-	background:url(/nickjr20122015/assets/kids/kids-shadow-top.png) no-repeat;
+	background:url(/assets/kids/kids-shadow-top.png) no-repeat;
 }
 #kidsShadowBottom{
 	margin:auto;
 	margin-bottom:-30px;
 	width:1002px;
 	height:12px;
-	background:url(/nickjr20122015/assets/kids/kids-shadow-bottom.png) no-repeat;
+	background:url(/assets/kids/kids-shadow-bottom.png) no-repeat;
 }
 		
 #kidsTuneInContainer{
@@ -172,7 +172,7 @@ body#gs .bgCenter, body.wideAlternate .bgCenter {
 }
 
 #parentsBottomCap{
-/*	background:transparent url(/nickjr20122015/assets/kids/bottom-cap.png) no-repeat center bottom; */
+/*	background:transparent url(/assets/kids/bottom-cap.png) no-repeat center bottom; */
 	background: #fff;
 	width:970px;
 	margin:auto;
@@ -254,7 +254,7 @@ body#gs .bgCenter, body.wideAlternate .bgCenter {
 }
 
 .kids-video-info{
-	background:url("/nickjr20122015/images/kids/video_player_info.png") no-repeat scroll 0 0 transparent;
+	background:url("/images/kids/video_player_info.png") no-repeat scroll 0 0 transparent;
 	width:432px;
 	height:350px;
 	margin-left:10px;
@@ -275,7 +275,7 @@ body#gs .bgCenter, body.wideAlternate .bgCenter {
 }
 
 .slug {
-	background-image: url(/nickjr20122015/assets/ad_slug_middle_title.png);
+	background-image: url(/assets/ad_slug_middle_title.png);
 	background-repeat: no-repeat;
 	background-position: center;
 	background-color: white;
@@ -301,14 +301,14 @@ body#gs .bgCenter, body.wideAlternate .bgCenter {
 	z-index:999;
 }
 
-#topWrappingBanner .wrappingBannerLeft{background-image:url(/nickjr20122015/images/kids/kids-top-banner-left.png);}
-#topWrappingBanner .wrappingBannerRight{background-image:url(/nickjr20122015/images/kids/kids-top-banner-right.png);}
-#topWrappingBanner .wrappingBannerInner{background-image:url(/nickjr20122015/images/kids/kids-top-banner-bg.png);}
+#topWrappingBanner .wrappingBannerLeft{background-image:url(http://www.nickjr.com/images/kids/kids-top-banner-left.png);}
+#topWrappingBanner .wrappingBannerRight{background-image:url(http://www.nickjr.com/images/kids/kids-top-banner-right.png);}
+#topWrappingBanner .wrappingBannerInner{background-image:url(http://www.nickjr.com/images/kids/kids-top-banner-bg.png);}
 
-#bottomWrappingBanner .wrappingBannerLeft{background-image:url(/nickjr20122015/images/kids/kids-bottom-banner-left.png);}
-#bottomWrappingBanner .wrappingBannerRight{background-image:url(/nickjr20122015/images/kids/kids-bottom-banner-right.png);}
+#bottomWrappingBanner .wrappingBannerLeft{background-image:url(http://www.nickjr.com/images/kids/kids-bottom-banner-left.png);}
+#bottomWrappingBanner .wrappingBannerRight{background-image:url(http://www.nickjr.com/images/kids/kids-bottom-banner-right.png);}
 #bottomWrappingBanner .wrappingBannerInner{
-	background-image:url(/nickjr20122015/images/kids/kids-bottom-banner-bg.png);
+	background-image:url(http://www.nickjr.com/images/kids/kids-bottom-banner-bg.png);
 	padding-left:20px;
 	padding-right:20px;
 	width:930px;
