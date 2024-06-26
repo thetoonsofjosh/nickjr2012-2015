@@ -1,0 +1,92 @@
+#playtime-player-wrapper {
+	width: 404px;
+	height: 382px;
+	margin-top: 32px;
+	margin-left: 31px;
+	text-align:left;
+}
+#playtime-player-frame {
+	width: 382px;
+	height: 367px;
+	margin-left: 0px;
+	text-align:left;
+}
+#playtime-player {
+	margin-left:15px;
+	margin-top:3px;
+}
+#playtime-player-info {
+	width: 355px;
+	height: 30px;
+	padding-left:14px;
+	padding-top:10px;
+	font-size:12px;
+	color: #6cb213;
+	text-align:center;
+}
+#playtime-player-info-title {
+	font-weight:bold;
+	text-align:center;
+}
+#playtime-player-info-message {
+}
+#video-player-divider {
+	position:relative;
+	top:-103px;
+	left:12px;;
+	width:358px;
+	height:3px;
+}
+
+.tuneInContainer{
+    background-color: none;
+    height: 28px;
+    margin: 0; 
+    bottom: 0; 
+    text-align:center;
+}
+	.tuneInContainer img{
+	    display:inline;
+	    vertical-align: middle;
+	    margin-left: 5px;
+	}
+	.tuneInContainer .tuneInHeader {
+		color:#0EAEC0;
+		font-size:18px;
+		font-style:italic;
+		font-weight:bold;
+		letter-spacing:-1px;	
+	}
+	.tuneInContainer .tuneInText{
+	    color:#2e2e2e;
+	    font-size: 13px;
+	    letter-spacing:-1px;
+	    margin-left: 5px;  
+	}
+
+.tuneInContainerGames {
+	background-color: none;
+	margin-top:10px;
+	margin-bottom:-10px;
+	height:23px;
+	text-align:center;
+}
+	.tuneInContainerGames .tuneInHeader, .tuneInContainerGames .tuneInText {
+		font-family:"omnes-pro",Arial,Helvetica,sans-serif;		
+	}
+	.tuneInContainerGames .tuneInHeader {
+		color:#0EAEC0;
+		font-size:18px;
+		font-weight: bold;
+	}
+	.tuneInContainerGames .tuneInText{
+	    color:#2e2e2e;	    
+	    font-size:16px;	    
+	    margin-left: 5px;
+	    font-weight: normal;
+	}
+	.tuneInContainerGames img{
+	    display:inline;
+	    vertical-align: middle;
+	    margin-left: 5px;
+	}

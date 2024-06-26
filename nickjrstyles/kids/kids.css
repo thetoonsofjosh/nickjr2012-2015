@@ -1,0 +1,316 @@
+body {
+  background: url("/assets/repaint/kids-bg.jpg") no-repeat scroll 50% 0 #669400;
+}
+body#gs .bgCenter, body.wideAlternate .bgCenter {
+  background: none;
+}
+.footer .ftrCarousel {
+  background: none repeat scroll 0 0 #669400;
+}
+#body-top {background: url(/assets/repaint/top-white.jpg) no-repeat; height: 24px; width: 1014px; margin: 0 auto; }
+#body-middle {background: url(/assets/repaint/mid-white.jpg) repeat-y; padding: 0; width: 1014px; margin: 0 auto; }
+#body-bottom {background: url(/assets/repaint/bottom-white.png) no-repeat; height: 35px; width: 1014px; margin: 0 auto; }
+
+#game-outer{
+	text-align:left;
+	visibility:hidden;
+	margin: 0 auto;
+}
+#contentWrapper .game .single{
+	width:970px;	
+}
+
+#ad-bg{
+	position:absolute;
+	z-index:100;
+}
+
+#ad-content{
+	position:absolute;
+	z-index:200;
+}
+#game-game{
+	position:absolute;
+	z-index:0;
+}
+
+#game-ad-inner{
+	width:300px;
+	height:250px;
+	padding-top:32px;			
+}
+
+#ad-bg-inner{
+	 width:740px;
+	 height:320px;
+}
+
+#kidsTopAdWrapper{
+	margin: auto;
+}
+
+#kidsheadnavswf{
+	margin-top:-14px;
+}
+
+#kidsPromoWrapper{
+	display: inline;
+}
+
+#kidsSeoText{
+	visibility: hidden
+}
+
+#contentWrapper{
+	position:relative;
+	z-index:1;
+	top:0px;
+	left:0px;
+	width:970px;
+	margin:-6px auto auto;
+}
+
+#kidsGameContainer {
+	width:760px;
+}
+
+#kidsGameContainerTd {
+	vertical-align:middle;
+}
+
+#games-player-game{
+	margin:auto;
+}
+
+#game-ad-preloader{
+	margin-left:220px;
+	margin-top:-270px;
+	position:absolute;
+	text-align:center;
+	width:300px;
+	z-index:10;
+}
+
+#game-video-preloader{
+	margin:auto;
+}
+
+#headNavWrapper{
+	position:relative;
+	z-index:10;
+	top:0px;
+	left:-3px;
+	width:1009px;
+	margin:auto;
+}
+#kidsContainer{
+	position: relative;
+	width:997px;
+	margin:auto;
+}
+
+#kidsShadow{
+	margin:auto;
+	width:1002px;
+	background:url(/assets/kids/kids-shadow-middle.png) repeat-y;
+	position:relative;
+}
+#kidsShadowTop{
+	margin:auto;
+	margin-top:-10px;
+	width:1002px;
+	height:10px;
+	background:url(/assets/kids/kids-shadow-top.png) no-repeat;
+}
+#kidsShadowBottom{
+	margin:auto;
+	margin-bottom:-30px;
+	width:1002px;
+	height:12px;
+	background:url(/assets/kids/kids-shadow-bottom.png) no-repeat;
+}
+		
+#kidsTuneInContainer{
+	margin-top:14px;
+}
+
+#familyBarContainer{
+	margin-top:18px;
+}
+#kidsBottom {
+  background-color: #FFFFFF;
+  border-radius: 0 0 12px 12px;
+  margin: 0 auto;
+  padding: 10px 0 20px;
+  width: 970px;
+}
+
+#parentsContentWrapper{
+	background: #eee;
+	border: 3px solid #ddd;
+	border-width: 3px 1px 1px 3px;
+	border-radius: 12px;
+	color: #2e2e2e;
+	margin:10px auto;
+	padding: 10px 0;
+	width:940px;
+/*	border-bottom:1px dotted #703821; */
+}
+#parentsContentWrapper h2.catHeader {
+	background: none;
+	font: 500 24px 'omnes-pro', Arial, Helvetica, sans-serif;
+	padding: 0 15px;
+}
+#parentsAdContentWrapper{
+	margin:auto;
+	width:970px;
+/*	border-bottom:1px dotted #703821; */
+}
+
+.yahoo-sponsored {
+	margin-top:0px;
+}
+
+#parentsBottomCap{
+/*	background:transparent url(/assets/kids/bottom-cap.png) no-repeat center bottom; */
+	background: #fff;
+	width:970px;
+	margin:auto;
+	margin-top: 0;
+	height:17px;
+}
+
+.bgCenter{
+	position:relative;
+	z-index:100;
+}
+
+.ankle{
+	position:relative;
+	z-index:10;
+	margin-left:auto;
+	margin-right:auto;
+	overflow:visible;
+	display: none;
+}
+
+.wrappingBanner{
+	width:988px;
+	position:relative;
+	z-index:11;
+	padding:0px;
+	margin:-8px auto;
+	height:56px;
+	display: none;
+}
+.wrappingBannerEnd{
+	width:9px;
+	padding:0px;
+	margin:0px auto;
+	height:56px;
+	float:left;
+	margin-bottom:-8px;
+}
+.wrappingBannerInner{
+	width:970px;
+	float:left;
+	height:56px;
+	margin-bottom:-8px;
+}
+
+.sponsor_ad_client {
+	font-size:13px;
+	color:#28c5d7;
+	border-bottom:1px dotted #28c5d7;
+}
+
+.sponsor_ad_client:hover {
+	color:#28c5d7;
+	border-bottom:1px solid #28c5d7;
+}
+
+/* the next few are for the parents nav */
+.dropdown a {
+	color:white;
+	text-transform:lowercase;
+	font-size:16px;
+}
+
+.dropdown a:hover {
+	color:#80492e;
+}
+
+.menu li {
+	margin:0 15px;
+}
+
+/* moves the Sponsored Links text up a bit to fit better above the parents nav */
+.yahoo-sponsored h4 {
+	bottom:-23px;
+}
+
+.bgBottom {
+	padding-bottom: 20px;
+}
+
+.kids-video-info{
+	background:url("/images/kids/video_player_info.png") no-repeat scroll 0 0 transparent;
+	width:432px;
+	height:350px;
+	margin-left:10px;
+	padding:63px 0 0 83px;
+	color:#000000;
+}
+
+.kids-video-info-title{
+	font-weight:bold;
+	padding-bottom:3px;
+	width:328px;
+	font-size: 14px;
+}
+
+.kids-video-info-description{
+	font-size:12px;
+	width:328px;
+}
+
+.slug {
+	background-image: url(/assets/ad_slug_middle_title.png);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-color: white;
+	border: 1px solid #c3c3c3;
+	width: 11px;
+	padding: 0px;
+}
+
+#adOPA {
+	border-spacing: 0px;
+}
+
+#ad-728x90Div {
+	padding: 0px;
+}
+
+#kids88x31Logo {
+	position:absolute;
+	top:25px;
+	right:30px;
+	width:88px;
+	height:31px;
+	z-index:999;
+}
+
+#topWrappingBanner .wrappingBannerLeft{background-image:url(http://www.nickjr.com/images/kids/kids-top-banner-left.png);}
+#topWrappingBanner .wrappingBannerRight{background-image:url(http://www.nickjr.com/images/kids/kids-top-banner-right.png);}
+#topWrappingBanner .wrappingBannerInner{background-image:url(http://www.nickjr.com/images/kids/kids-top-banner-bg.png);}
+
+#bottomWrappingBanner .wrappingBannerLeft{background-image:url(http://www.nickjr.com/images/kids/kids-bottom-banner-left.png);}
+#bottomWrappingBanner .wrappingBannerRight{background-image:url(http://www.nickjr.com/images/kids/kids-bottom-banner-right.png);}
+#bottomWrappingBanner .wrappingBannerInner{
+	background-image:url(http://www.nickjr.com/images/kids/kids-bottom-banner-bg.png);
+	padding-left:20px;
+	padding-right:20px;
+	width:930px;
+}
+.ftrColLeft, .ftrColRight { display: none; }
