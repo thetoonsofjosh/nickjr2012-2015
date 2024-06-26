@@ -38,7 +38,7 @@ a img{border:none;}
 .right{text-align:right;}
 .box-no-border,.box-no-border .inner,.box-no-border b{background-image:url(https://thetoonsofjosh.github.io/nickjr2012-2015/assets/box-no-border.png);_background-image:none;}
 .box-border,.box-border .inner,.box-border b{background-image:url(https://thetoonsofjosh.github.io/nickjr2012-2015/assets/box-border.png);_background-image:none;}
-.box-overlay,.box-overlay .inner,.box-border b{background-image:url(https://thetoonsofjosh.github.io/nickjr2012-2015/images/flux/overlay.png);_background-image:none;}
+.box-overlay,.box-overlay .inner,.box-border b{background-image:url(https://thetoonsofjosh.github.io/nickjr2012-2015/kids/images/flux/overlay.png);_background-image:none;}
 body.adFree .ad{display:none;}
 .ad{margin:0;}
 .pushdown{margin:6px 0;}
@@ -139,7 +139,7 @@ cite{display:block;text-align:left;padding-top:10px;font-size:14px;color:#81cfd8
 .footer .about h4{height:27px;font-size:18px;color:#4A2709;font-weight:bold;}
 .footer .about a{color:#2e2e2e;font-size:10px;font-weight:bold;border-bottom:1px dotted #2e2e2e;}
 .footer .about .page div{padding:0 0 25px 0;color:#2e2e2e;}
-.footer .nai-link{background:url(https://thetoonsofjosh.github.io/nickjr2012-2015/images/icons/footer/nai-logo.png) no-repeat top right;padding:0 14px 0 0;}
+.footer .nai-link{background:url(https://thetoonsofjosh.github.io/nickjr2012-2015/kids/images/icons/footer/nai-logo.png) no-repeat top right;padding:0 14px 0 0;}
 .copyrightLogo{margin:10px auto;}
 .footer .legal{font-size:12px;}
 .footer .ftrCarousel{background:none #12c0d9;margin:0 auto;width:100%;}
@@ -199,14 +199,14 @@ body .header{background:none;}
 #fluxlogin .usernameLink{border-bottom:1px dotted #28C5D7;}
 #fluxlogin .profileLinks{margin-top:8px;}
 #signinUser,#userProfile,#interimUser,#logoutUser{text-transform:uppercase;color:#2e2e2e;margin-left:7px;font-size:11px;border-bottom:1px dotted #80492E;}
-#fluxlogin .signupMenuIcon{display:block;float:right;width:88px;height:35px;background:transparent url(https://thetoonsofjosh.github.io/nickjr2012-2015/images/flux/signup-btn.png) no-repeat 0 -34px;}
+#fluxlogin .signupMenuIcon{display:block;float:right;width:88px;height:35px;background:transparent url(https://thetoonsofjosh.github.io/nickjr2012-2015/kids/images/flux/signup-btn.png) no-repeat 0 -34px;}
 #fluxlogin .signupMenuIcon:hover{background-position:0 0;}
 .primary .menu a{padding-left:10px;margin-right:0!important;letter-spacing:-1px;}
 .primary .menu .first{margin-left:0!important;}
 .ui-widget-overlay{position:absolute;top:0;left:0;background:#000;opacity:.5;filter:alpha(opacity = 50);}
 .add-child-dialog{width:600px;}
 .ui-dialog-titlebar-close{display:block;position:absolute;top:35px;right:20px;color:#000;font-weight:bold;font-size:14px;z-index:99999999;*width:23px;*height:23px;}
-.box-overlay,.box-overlay .inner,.box-overlay b{background-image:url(https://thetoonsofjosh.github.io/nickjr2012-2015/images/flux/overlay.png);_background-image:none;}
+.box-overlay,.box-overlay .inner,.box-overlay b{background-image:url(https://thetoonsofjosh.github.io/nickjr2012-2015/kids/images/flux/overlay.png);_background-image:none;}
 #nickjrOverlay .box-overlay .inner,#addChild .box-overlay .inner{right:-20px;bottom:-20px;padding-bottom:20px;}
 #nickjrOverlay .box-overlay .tr,#addChild .box-overlay .tr{right:-20px;}
 #nickjrOverlay .box-overlay .tl,#nickjrOverlay .box-overlay .tr,#nickjrOverlay .box-overlay .bl,#nickjrOverlay .box-overlay .br,#addChild .box-overlay .tl,#addChild .box-overlay .tr,#addChild .box-overlay .bl,#addChild .box-overlay .br{width:20px;height:20px;}
@@ -226,8 +226,8 @@ body .header{background:none;}
 #share-finder-link{background-image:url("https://thetoonsofjosh.github.io/nickjr2012-2015/assets/share/finder/share-finder-button.png");}
 #share-finder-container{background-image:url("https://thetoonsofjosh.github.io/nickjr2012-2015/assets/share/finder/share-finder.png");width:244px;height:122px;margin-left:0;margin-top:-122px;}
 #share-quiz-bar{margin-top:-16px;float:left;position:relative;cursor:pointer;}
-#share-quiz-link{width:60px;background-image:url("https://thetoonsofjosh.github.io/nickjr2012-2015/images/shows/dora/beyond-the-backpack/kindergarten-quiz/share-quiz-button.png");}
-#share-quiz-container{background-image:url("https://thetoonsofjosh.github.io/nickjr2012-2015/images/shows/dora/beyond-the-backpack/kindergarten-quiz/share-quiz.png");width:268px;height:148px;margin-left:-194px;margin-top:-47px;}
+#share-quiz-link{width:60px;background-image:url("https://thetoonsofjosh.github.io/nickjr2012-2015/kids/images/shows/dora/beyond-the-backpack/kindergarten-quiz/share-quiz-button.png");}
+#share-quiz-container{background-image:url("https://thetoonsofjosh.github.io/nickjr2012-2015/kids/images/shows/dora/beyond-the-backpack/kindergarten-quiz/share-quiz.png");width:268px;height:148px;margin-left:-194px;margin-top:-47px;}
 #share-finder-container .share-container-right-col{float:left;margin-top:6px;margin-left:14px;}
 #share-finder-container .share-container-left-col{float:left;margin-top:6px;margin-left:10px;}
 body .fluxWidget .share-icon{width:100px;height:20px;margin-bottom:7px;cursor:pointer;}
