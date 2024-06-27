@@ -50,7 +50,7 @@ KIDS.ads.refresh.placeAd = function(adDivId){
 							else
 								rate=Math.round(rate);
 						}
-						var fn = "/nickjr20122015/ads/ads.html";
+						var fn = "https://thetoonsofjosh.github.io/nickjr2012-2015/ads/ads.html";
 						mtvn.btg.Controller.placeIFrameAd(
 							fn,
 							{
