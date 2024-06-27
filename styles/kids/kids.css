@@ -301,14 +301,14 @@ body#gs .bgCenter, body.wideAlternate .bgCenter {
 	z-index:999;
 }
 
-#topWrappingBanner .wrappingBannerLeft{background-image:url(http://www.nickjr.comhttps://thetoonsofjosh.github.io/nickjr2012-2015/kids/images/kids/kids-top-banner-left.png);}
-#topWrappingBanner .wrappingBannerRight{background-image:url(http://www.nickjr.comhttps://thetoonsofjosh.github.io/nickjr2012-2015/kids/images/kids/kids-top-banner-right.png);}
-#topWrappingBanner .wrappingBannerInner{background-image:url(http://www.nickjr.comhttps://thetoonsofjosh.github.io/nickjr2012-2015/kids/images/kids/kids-top-banner-bg.png);}
+#topWrappingBanner .wrappingBannerLeft{background-image:url(https://thetoonsofjosh.github.io/nickjr2012-2015/kids/images/kids/kids-top-banner-left.png);}
+#topWrappingBanner .wrappingBannerRight{background-image:url(https://thetoonsofjosh.github.io/nickjr2012-2015/kids/images/kids/kids-top-banner-right.png);}
+#topWrappingBanner .wrappingBannerInner{background-image:url(https://thetoonsofjosh.github.io/nickjr2012-2015/kids/images/kids/kids-top-banner-bg.png);}
 
-#bottomWrappingBanner .wrappingBannerLeft{background-image:url(http://www.nickjr.comhttps://thetoonsofjosh.github.io/nickjr2012-2015/kids/images/kids/kids-bottom-banner-left.png);}
-#bottomWrappingBanner .wrappingBannerRight{background-image:url(http://www.nickjr.comhttps://thetoonsofjosh.github.io/nickjr2012-2015/kids/images/kids/kids-bottom-banner-right.png);}
+#bottomWrappingBanner .wrappingBannerLeft{background-image:url(https://thetoonsofjosh.github.io/nickjr2012-2015/kids/images/kids/kids-bottom-banner-left.png);}
+#bottomWrappingBanner .wrappingBannerRight{background-image:url(https://thetoonsofjosh.github.io/nickjr2012-2015/kids/images/kids/kids-bottom-banner-right.png);}
 #bottomWrappingBanner .wrappingBannerInner{
-	background-image:url(http://www.nickjr.comhttps://thetoonsofjosh.github.io/nickjr2012-2015/kids/images/kids/kids-bottom-banner-bg.png);
+	background-image:url(https://thetoonsofjosh.github.io/nickjr2012-2015/kids/images/kids/kids-bottom-banner-bg.png);
 	padding-left:20px;
 	padding-right:20px;
 	width:930px;
