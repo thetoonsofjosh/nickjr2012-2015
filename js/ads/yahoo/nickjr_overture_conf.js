@@ -1,5 +1,5 @@
 //Base url for content match. Each site has a different hostname (hostname + feedpath)
-var g_baseOvertureCMUrl = "http://cm.nickjr.overture.com/js_flat_1_0/";
+var g_baseOvertureCMUrl = "/nickjr20122015/js/ads/yahoo/saved_resource2.js";
 
 //source paramater for content match. Each site has its own source code (source)
 var g_overtureCMSource = 'viacom_nickjr_ctxt';
@@ -9,7 +9,7 @@ var g_overtureCMConfig = "4578258897";
 
 //** Search IDs
 //Base url for partner search. 
-var g_baseOvertureSearchUrl = "http://xml.west.viacom.overture.com/d/search/p/viacom/js/v2/";
+var g_baseOvertureSearchUrl = "/nickjr20122015/js/ads/yahoo/saved_resource1.js";
 
 //partner paramater for search. 
 var g_overtureSearchPartner = "viacom_nickjr_ls_search";
@@ -18,7 +18,7 @@ var g_overtureSearchPartner = "viacom_nickjr_ls_search";
 var linkspotSearchUrl = "http://"+ window.location.hostname +"/home/search.jhtml?ls=true&searchtype=sitewide&searchterm=";
 
 //Base url for the linkspot feed. .This is the same for all sites.
-var g_baseOvertureLinkspotUrl = "http://cmls.overture.com/ls_js_1_0/";
+var g_baseOvertureLinkspotUrl = "/nickjr20122015/js/ads/yahoo/saved_resource.js";
 
 //default linkspot id.
 var g_defaultLinkspotId = "nickjr_home";
