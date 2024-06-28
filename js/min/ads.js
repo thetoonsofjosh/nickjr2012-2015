@@ -276,7 +276,7 @@ if(typeof MTVN=="undefined"){MTVN={};
 }if(typeof MTVN.config.btg=="undefined"){MTVN.config.btg={};
 }if(typeof MTVN.config.btg.DoubleClick=="undefined"){MTVN.config.btg.DoubleClick={};
 }MTVN.config.btg.DoubleClick.sections=KIDS.ads.pageLevelAdConfig.zone;
-if(location.pathname.indexOf("/kids/")==0||location.pathname.indexOf("/kids-games/")==0||location.pathname.indexOf("/kids-videos/")==0||location.pathname.indexOf("/kids-create/")==0){MTVN.config.btg.DoubleClick.dartSite="nickjr.playtime.nol";
+if(location.pathname.indexOf("https://thetoonsofjosh.github.io/nickjr2012-2015/kids/")==0||location.pathname.indexOf("https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/")==0||location.pathname.indexOf("https://thetoonsofjosh.github.io/nickjr2012-2015/kids-videos/")==0||location.pathname.indexOf("https://thetoonsofjosh.github.io/nickjr2012-2015/kids-create/")==0){MTVN.config.btg.DoubleClick.dartSite="nickjr.playtime.nol";
 }if(typeof MTVN.config.btg.DoubleClick.keyValues=="string"){MTVN.config.btg.DoubleClick.keyValues+=KIDS.ads.pageLevelAdConfig.keyValues;
 }else{MTVN.config.btg.DoubleClick.keyValues=KIDS.ads.pageLevelAdConfig.keyValues;
 }}catch(f){KIDS.utils.doLog("pageLevelAdSettings failed:"+f);
