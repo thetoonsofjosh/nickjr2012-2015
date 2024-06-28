@@ -372,7 +372,7 @@ if(KIDS.get("preloaderSetting")!=""){this.setting.eVar40=KIDS.get("preloaderSett
 KIDS.reporting.init=function(){KIDS.reporting.qs=btg.String.queryStringToObject(location.href);
 KIDS.reporting.config=new Configuration();
 KIDS.reporting.config.initialize();
-if(location.pathname.indexOf("/nickjr20122015/kids/")>-1||location.pathname.indexOf("/nickjr20122015/kids-games/")>-1||location.pathname.indexOf("/nickjr20122015/kids-videos/")>-1||location.pathname.indexOf("/nickjr20122015/kids-create/")>-1){KIDS.reporting.config.setProp(11,"kids");
+if(location.pathname.indexOf("https://thetoonsofjosh.github.io/nickjr2012-2015/kids/")>-1||location.pathname.indexOf("https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/")>-1||location.pathname.indexOf("https://thetoonsofjosh.github.io/nickjr2012-2015/kids-videos/")>-1||location.pathname.indexOf("https://thetoonsofjosh.github.io/nickjr2012-2015/kids-create/")>-1){KIDS.reporting.config.setProp(11,"kids");
 }else{KIDS.reporting.config.setProp(11,"grownups");
 }btg.Controller.init();
 KIDS.reporting.config.setProp(9,KIDS.reporting.qs.partner);
@@ -383,7 +383,7 @@ KIDS.reporting.config.setProp(17,KIDS.reporting.config.getEVar(2));
 KIDS.reporting.firePageLoad=function(){if(location.href.indexOf("ad-entry")<0){KIDS.reporting.omnifunctions.sendReportingCall();
 }};
 
-if(location.pathname.indexOf("/nickjr20122015/kids/")==0||location.pathname.indexOf("/nickjr20122015/kids-games/")==0||location.pathname.indexOf("/nickjr20122015/kids-videos/")==0||location.pathname.indexOf("/nickjr20122015/kids-create/")==0){btg.config.DoubleClick.dartSite="nickjr.playtime.nol";
+if(location.pathname.indexOf("https://thetoonsofjosh.github.io/nickjr2012-2015/kids/")==0||location.pathname.indexOf("https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/")==0||location.pathname.indexOf("https://thetoonsofjosh.github.io/nickjr2012-2015/kids-videos/")==0||location.pathname.indexOf("https://thetoonsofjosh.github.io/nickjr2012-2015/kids-create/")==0){btg.config.DoubleClick.dartSite="nickjr.playtime.nol";
 }else{btg.config.DoubleClick.dartSite="nickjr.nol";
 }btg.config.DoubleClick.positionThreshold=3;
 
