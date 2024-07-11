@@ -1,14 +1,3 @@
-{ "config":{
-"headnavSounds":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/nav/kidsheadnavsounds.swf",
-"headnav":{
-"loader":{"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/loaders/asset-loader.swf","position":{"x":"300","y":"30"}},
-"adFree":"false",
-
-"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/nav/kidsheadnav_adfree.swf",
-
-"heads": [
-
-{
 "path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/heads/tallulah-head.swf",
 "link":"/kids/tickety-toc/"
 }
@@ -39,26 +28,14 @@
 
 ,
 {
-"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/heads/bot-head.swf",
+"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/heads/milli-head.swf",
 "link":"/kids/team-umizoomi/"
-}
-
-,
-{
-"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/heads/peppaBTN.swf",
-"link":"/kids/peppa-pig/"
 }
 
 ,
 {
 "path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/heads/miaandme-head.swf",
 "link":"/kids/mia-and-me/"
-}
-
-,
-{
-"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/heads/blaze-head.swf",
-"link":"/kids/blaze-and-the-monster-machines/"
 }
 
 ,
@@ -183,12 +160,6 @@
 
 ,
 {
-"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/heads/explorergirl-head.swf",
-"link":"/doragirls/game.jhtml"
-}
-
-,
-{
 "path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/heads/jacks-head.swf",
 "link":"/kids/jacks-big-music-show/"
 }
@@ -231,14 +202,26 @@
 
 ,
 {
-"path":"/nickjr20122015/dynaboss/flash/kids/heads/wubbzy-head.swf",
-"link":"/kids/wow-wow-wubbzy/"
+"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/heads/catchall-head.swf",
+"link":"/kids-games/nick-jr-assorted/"
 }
 
 ,
 {
-"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/heads/catchall-head.swf",
-"link":"/kids-games/nick-jr-assorted/"
+"path":"/dynaboss",
+"link":"/kids/valentines-day/"
+}
+
+,
+{
+"path":"/dynaboss",
+"link":"/kids/holidays/"
+}
+
+,
+{
+"path":"/dynaboss",
+"link":"/kids/halloween/"
 }
 
 ]
