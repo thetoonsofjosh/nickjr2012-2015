@@ -21,22 +21,7 @@
 {
 "localConnectionId":"ShowLogo",
 "path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/showlogos/YoGabbaGabba.swf"
-}
-
-,
-{
-"localConnectionId":"LargePromoButton",
-"path":"/game/assets/yoga_magic_word/show-landing-promo.swf",
-"link":"/kids-games/yo-gabba-gabba-magic-word.html",
-"position":{"x":"564","y":"2"}
-}
-
-],
-"promoSounds":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/promos/global-promo-sounds.swf",
-"promos":[
-
-{
-"loader":{"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/loaders/asset-loader.swf","position":{"x":"75","y":"35"}},
+} ], "promoSounds":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/promos/global-promo-sounds.swf", "promos":[ { "loader":{"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/loaders/asset-loader.swf","position":{"x":"75","y":"35"}},
 "classId":"SinglePromo",
 "localConnectionId":"GamePromo",
 "urlAlias":"kids-yo-gabba-gabba",
@@ -68,7 +53,7 @@
 "classId":"SinglePromo",
 "localConnectionId":"VideoPromo",
 "urlAlias":"kids-toot-and-puddle",
-"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/flash/kids/promos/small/smallVideoPromo.swf",
+"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/flash/kids/dynaboss/promos/small/smallVideoPromo.swf",
 
 "position":{"x":"754","y":"120"},
 
