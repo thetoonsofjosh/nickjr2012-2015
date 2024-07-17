@@ -1,13 +1,13 @@
 {
 "config":{
 "music":{
-"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/music/silent-loop.swf",
+"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/music/yogabbagabba-show-loop.swf",
 "volume":"0.3",
 "fadeAfter":"30"
 },
 "animation":{
 "loader":{"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/loaders/general-loader.swf"},
-"urlAlias":"kids-toot-and-puddle",
+"urlAlias":"kids-yo-gabba-gabba",
 "path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/main-content/yogabbagabba-show-landing.swf",
 "classId":"LandingPageAnimation"
 },
@@ -67,12 +67,12 @@
 "loader":{"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/loaders/asset-loader.swf","position":{"x":"75","y":"35"}},
 "classId":"SinglePromo",
 "localConnectionId":"VideoPromo",
-"urlAlias":"kids-yo-gabba-gabba",
-"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/promos/small/smallVideoPromo.swf",
+"urlAlias":"kids-toot-and-puddle",
+"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/flash/kids/promos/small/smallVideoPromo.swf",
 
-"position":{"x":"564","y":"120"},
+"position":{"x":"754","y":"120"},
 
-"allLink":"/kids-videos/toot-and-puddle-kids-videos.html",
+"allLink":"/kids-videos/yo-gabba-gabba-kids-videos.html",
 "items":[
 
 {
