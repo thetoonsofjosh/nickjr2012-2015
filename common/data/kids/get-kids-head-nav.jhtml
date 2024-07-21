@@ -8,11 +8,6 @@
 
 "heads": [
 
-{
-"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/heads/tallulah-head.swf",
-"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids/tickety-toc/"
-}
-
 ,
 {
 "path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/heads/dora-and-friends-head.swf",
@@ -215,6 +210,12 @@
 {
 "path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/heads/catchall-head.swf",
 "link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/nick-jr-assorted/"
+} 
+
+,
+{
+"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/heads/tallulah-head.swf",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids/tickety-toc/"
 }
 
 ]
