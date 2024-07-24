@@ -1,0 +1,50 @@
+.secondary .categories a{display:block;background:transparent url(https://thetoonsofjosh.github.io/nickjr2012-2015/css/theme/kids-theme-oobi.css) no-repeat 0 -138px;height:69px;}
+
+#navFamily{
+	background-image:url(/web/20141113173802im_/http://www.nickjr.com/dynaboss/images/themes/neighborhood-2011/images/family.png);
+	width:106px;}
+#navShows{
+	background-image:url(/web/20141113173802im_/http://www.nickjr.com/dynaboss/images/themes/neighborhood-2011/images/shows.png);
+	width:106px;}
+#navKids{
+	background-image:url(/web/20141113173802im_/http://www.nickjr.com/dynaboss/images/themes/neighborhood-2011/images/kids.png);
+	width:106px;}
+#navBoost{
+	background-image:url(/web/20141113173802im_/http://www.nickjr.com/dynaboss/images/themes/neighborhood-2011/images/boost.png);
+	width:106px;}
+
+.secondary .categories a:hover{background-position:0 -69px;}
+.secondary .categories .selected a{background-position:0 0;}
+
+
+body, .footer .ftrCarousel {background-color: #33196f;}
+body {background-image:none;}
+
+.bgBottom {background: transparent url('https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/images/themes/kids-themes/oobi-kids-theme/ankle-bg.jpg') repeat-x bottom;}
+
+.ankle {background: transparent url('https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/images/themes/kids-themes/oobi-kids-theme/ankle.png') no-repeat bottom; height: 250px;}
+
+body#gs .bgBottom div.bgCenter {background: transparent url('https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/images/themes/kids-themes/oobi-kids-theme/page-outcrop.jpg') no-repeat top center;}
+
+.footer .ftrCarousel {background: #10a807;} 
+
+.footer .siteLinks h4 {background: transparent url('https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/images/themes/kids-themes/oobi-kids-theme/ftr-row-2.jpg') repeat-x top;}
+
+.footer .siteLinks {background: #33196f;}
+.footer .siteLinks .page {width: 98%;}
+
+.footer .about h4 {background: #eaad9b;}
+
+body#gs .footer .about {background: #eaad9b;}
+.footer .about .page {width: 98%;}
+
+.footer .copyright {background: #ffb320;}
+
+.ftrColLeft {background: transparent url('https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/images/themes/kids-themes/oobi-kids-theme/ftr-col-left.png') no-repeat; height:570px; margin-left:-180px; margin-top:-622px; position:absolute; width:170px; z-index:100;}
+
+.ftrColRight {background: transparent url('https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/images/themes/kids-themes/oobi-kids-theme/ftr-col-right.png') no-repeat; float:right;	height:570px; margin-top:-622px; width:170px; z-index:100;}
+
+.wrapper, #contentContainer, #cap, .wrapper2 {background-color: transparent} 
+
+
+/*
