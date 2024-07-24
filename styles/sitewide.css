@@ -74,9 +74,9 @@ body {
   box-shadow: 10px 10px #aaa; */
 }
 
-#body-top {background: url(/assets/repaint/top-white.jpg) no-repeat; height: 24px; width: 1014px;}
-#body-middle {background: url(/assets/repaint/mid-white.jpg) repeat-y; padding: 0 25px 0 10px; width: 979px;}
-#body-bottom {background: url(/assets/repaint/bottom-white.png) no-repeat; height: 35px; width: 1014px;}
+#body-top {background: url(https://thetoonsofjosh.github.io/nickjr2012-2015/assets/repaint/top-white.jpg) no-repeat; height: 24px; width: 1014px;}
+#body-middle {background: url(https://thetoonsofjosh.github.io/nickjr2012-2015/assets/repaint/mid-white.jpg) repeat-y; padding: 0 25px 0 10px; width: 979px;}
+#body-bottom {background: url(https://thetoonsofjosh.github.io/nickjr2012-2015/assets/repaint/bottom-white.png) no-repeat; height: 35px; width: 1014px;}
 
 #body-middle div.solid {
 	margin: 0 auto 10px; }
