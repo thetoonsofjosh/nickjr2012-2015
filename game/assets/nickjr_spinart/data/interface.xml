@@ -1,0 +1,22 @@
+<interface>
+	<element 
+		handle="CanvasOverlay"
+		classHandle="com.nickjr.app.creativity_center.view.gui.BaseInterfaceObject"
+		location="ui/CanvasOverlay.swf"
+	/>
+	<element  
+		handle="MenuColor"
+		classHandle="com.nickjr.app.creativity_center.view.gui.BrushColorMenu"
+		location="ui/BrushColorMenu.swf"
+	/>
+	<element 
+		handle="MenuSpin"
+		classHandle="com.nickjr.app.creativity_center.view.gui.SpinMenu"
+		location="ui/SpinMenu.swf"
+	/>
+	<element 
+		handle="MenuOptions"
+		classHandle="com.nickjr.app.creativity_center.view.gui.SpinArtOptionMenu"
+		location="ui/OptionMenu.swf"
+	/>
+</interface>

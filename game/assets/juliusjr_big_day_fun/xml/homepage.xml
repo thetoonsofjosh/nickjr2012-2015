@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="iso-8859-1"?> 
+<pageResources>
+	<GAtracker><![CDATA[UA-55943373-1]]></GAtracker>
+	<printableLocation>/game/assets/juliusjr_big_day_fun/printables/Julius_Jr_BDOF.pdf</printableLocation>
+	<localText>
+		<common>
+			<skipButton fontClassName="TitleFont" width="100" size="24" color="0xFFFFFF" centered="true" xOffset="0" yOffset="-10">Skip</skipButton>
+			<letsBegin fontClassName="TitleFont" width="200" size="24" color="0xFFFFFF" centered="true" xOffset="0" yOffset="0">LET'S BEGIN!</letsBegin>
+			<timerFont fontClassName="TitleFont" width="60" size="18" color="0xFFFFFF" xOffset="0" yOffset="0">0</timerFont>
+		</common>
+		<titleScreen>
+			<banner fontClassName="TitleFont" width="300" size="38" color="0xFFFFFF" centered="true">Big Day of Fun</banner>
+			<playText fontClassName="TitleFont" width="100" size="24" color="0xFFFFFF" centered="true" xOffset="0" yOffset="-10">PLAY</playText>
+		</titleScreen>
+		<levelOneGame>
+			<help fontClassName="TitleFont" width="350" size="22" color="0x000000" centered="true">Tap the tiles to rotate them</help>
+		</levelOneGame>
+		<levelOneOutro>
+			<didIt fontClassName="TitleFont" width="300" size="32" color="0xFF2222" centered="true">You did it!</didIt>
+			<fixed fontClassName="TitleFont" width="300" size="24" color="0x000000" centered="true">You fixed the slide!</fixed>
+			<replayButton fontClassName="TitleFont" width="100" size="22" color="0xFFFFFF" centered="true" xOffset="35" yOffset="-25">Slide Again</replayButton>
+			<nextButton fontClassName="TitleFont" width="160" size="22" color="0xFFFFFF" centered="true" xOffset="30" yOffset="-7">Go Dancing</nextButton>
+		</levelOneOutro>
+		<levelTwoGame>
+			<help fontClassName="TitleFont" width="350" size="22" color="0x000000" centered="true">Move left and right to catch the smooshberries</help>
+			<scoreFont fontClassName="TitleFont" width="60" size="18" color="0xFFFFFF" centered="true">0</scoreFont>
+		</levelTwoGame>
+		<levelTwoOutro>
+			<didIt fontClassName="TitleFont" width="300" size="32" color="0xFF2222" centered="true">Berry Good!</didIt>
+			<caughtOne fontClassName="TitleFont" width="500" size="24" color="0x000000" centered="true">You caught </caughtOne>
+			<caughtTwo fontClassName="TitleFont" width="300" size="24" color="0x000000" centered="true"> smooshberries!</caughtTwo>
+			<replayButton fontClassName="TitleFont" width="100" size="22" color="0xFFFFFF" centered="true" xOffset="35" yOffset="-25">Catch Again</replayButton>
+			<nextButton fontClassName="TitleFont" width="160" size="16" color="0xFFFFFF" centered="true" xOffset="37" yOffset="-16">Go to Twirl-a-World Amusement Park</nextButton>
+		</levelTwoOutro>
+		<levelThreeGame>
+			<help fontClassName="TitleFont" width="350" size="22" color="0x000000" centered="true">Press on the dance floor tiles in the order they light up!</help>
+		</levelThreeGame>
+		<levelThreeOutro>
+			<didIt fontClassName="TitleFont" width="300" size="32" color="0xFF2222" centered="true">Wow!</didIt>
+			<caughtOne fontClassName="TitleFont" width="500" size="24" color="0x000000" centered="true">Great dancing! You learned </caughtOne>
+			<caughtTwo fontClassName="TitleFont" width="300" size="24" color="0x000000" centered="true"> steps!</caughtTwo>
+			<replayButton fontClassName="TitleFont" width="100" size="22" color="0xFFFFFF" centered="true" xOffset="35" yOffset="-25">Dance Again</replayButton>
+			<nextButton fontClassName="TitleFont" width="150" size="24" color="0xFFFFFF" centered="true" xOffset="-5" yOffset="-10">Next</nextButton>
+		</levelThreeOutro>
+		<finalScreen>
+			<didIt fontClassName="TitleFont" width="400" size="32" color="0xFFFFFF" centered="true">Thanks for joining Julius Jr.'s big day of fun!</didIt>
+			<replayButton fontClassName="TitleFont" width="140" size="22" color="0xFFFFFF" centered="true" xOffset="15" yOffset="-10">Play Again</replayButton>
+			<nextButton fontClassName="TitleFont" width="150" size="24" color="0xFFFFFF" centered="true" xOffset="30" yOffset="-12">Print</nextButton>
+		</finalScreen>
+	</localText>
+
+	<resources>
+
+		<resource id="timer_bg" URL="/game/assets/juliusjr_big_day_fun/images/common/timer_counter.png" type="image"/>
+		<resource id="timer_tick" URL="/game/assets/juliusjr_big_day_fun/audio/sfx/SFX_Clock.mp3" type="sound"/>
+		<resource id="lets_begin" URL="/game/assets/juliusjr_big_day_fun/audio/vo/pickups/lets_begin.mp3" type="sound"/>
+		<resource id="lets_begin_banner" URL="/game/assets/juliusjr_big_day_fun/images/common/letsbegin_banner.png" type="image"/>
+		<resource id="mouse_icon_press" URL="/game/assets/juliusjr_big_day_fun/images/common/mouse_icon_press.png" type="image"/>
+
+		<resource id="skip_button" URL="/game/assets/juliusjr_big_day_fun/images/common/buttons/skip_btn.png" type="image"/>
+		<resource id="skip_button_hover" URL="/game/assets/juliusjr_big_day_fun/images/common/buttons/skip_btn_hover.png" type="image"/>
+		<resource id="skip_vo" URL="/game/assets/juliusjr_big_day_fun/audio/vo/jr_jbdof_VO_04.mp3" type="sound"/>
+		
+		<resource id="fonts" URL="/game/assets/juliusjr_big_day_fun/swfs/Fonts.swf" type="movieclip"/>
+		<resource id="titlescreen" URL="/game/assets/juliusjr_big_day_fun/swfs/TitleScreen.swf" type="movieclip"/>
+		<resource id="introscreen" URL="/game/assets/juliusjr_big_day_fun/swfs/IntroScreen.swf" type="movieclip"/>
+		<resource id="levelone" URL="/game/assets/juliusjr_big_day_fun/swfs/LevelOne.swf" type="movieclip"/>
+		<resource id="leveltwo" URL="/game/assets/juliusjr_big_day_fun/swfs/LevelTwo.swf" type="movieclip"/>
+		<resource id="levelthree" URL="/game/assets/juliusjr_big_day_fun/swfs/LevelThree.swf" type="movieclip"/>
+		<resource id="finalscreen" URL="/game/assets/juliusjr_big_day_fun/swfs/FinalScreen.swf" type="movieclip"/>
+		
+		<resource id="sound_btn" URL="/game/assets/juliusjr_big_day_fun/images/common/buttons/sound_btn.png" type="image"/>
+		<resource id="sound_btn_off" URL="/game/assets/juliusjr_big_day_fun/images/common/buttons/sound_btn_off.png" type="image"/>
+		<resource id="music_on" URL="/game/assets/juliusjr_big_day_fun/audio/vo/jr_jbdof_VO_01.mp3" type="sound"/>
+		<resource id="music_off" URL="/game/assets/juliusjr_big_day_fun/audio/vo/jr_jbdof_VO_02.mp3" type="sound"/>
+
+		<resource id="help_btn" URL="/game/assets/juliusjr_big_day_fun/images/common/buttons/help_btn.png" type="image"/>
+		<resource id="help_btn_snd" URL="/game/assets/juliusjr_big_day_fun/audio/vo/jr_jbdof_VO_03.mp3" type="sound"/>
+		<resource id="help_closebutton" URL="/game/assets/juliusjr_big_day_fun/images/common/help/help_close_btn.png" type="image"/>
+		<resource id="help_close_snd" URL="/game/assets/juliusjr_big_day_fun/audio/vo/jr_jbdof_VO_19.mp3" type="sound"/>
+		<resource id="help_overlay" URL="/game/assets/juliusjr_big_day_fun/images/common/help/help_overlay.png" type="image"/>
+
+
+		<resource id="01_title_logo" URL="/game/assets/juliusjr_big_day_fun/images/01_title/01_logo.png" type="image"/>
+		<resource id="01_title_play" URL="/game/assets/juliusjr_big_day_fun/images/01_title/play.png" type="image"/>
+		<resource id="01_title_play_over" URL="/game/assets/juliusjr_big_day_fun/images/01_title/play_over.png" type="image"/>
+		<resource id="01_bg_music" URL="/game/assets/juliusjr_big_day_fun/audio/bg/JULIS_JR_THEME_MASTER_RSVD_LOOP.mp3" type="sound"/>
+		<resource id="intro" URL="/game/assets/juliusjr_big_day_fun/audio/vo/jr_jbdof_VO_06.mp3" type="sound"/>
+		<resource id="play_prompt" URL="/game/assets/juliusjr_big_day_fun/audio/vo/jr_jbdof_VO_07.mp3" type="sound"/>
+		<resource id="play_roll" URL="/game/assets/juliusjr_big_day_fun/audio/vo/jr_jbdof_VO_08.mp3" type="sound"/>
+
+
+		<resource id="chars_intro" URL="/game/assets/juliusjr_big_day_fun/audio/vo/jr_jbdof_VO_09.mp3" type="sound"/>
+		<resource id="chars_intro_begin" comment="begin" URL="/game/assets/juliusjr_big_day_fun/audio/vo/jr_jbdof_VO_09_truncated.mp3" type="sound"/>
+		<resource id="chars_intro_0" comment="julius" URL="/game/assets/juliusjr_big_day_fun/audio/vo/jr_jbdof_VO_10.mp3" type="sound"/>
+		<resource id="chars_intro_1" comment="clancy" URL="/game/assets/juliusjr_big_day_fun/audio/vo/jr_jbdof_VO_11.mp3" type="sound"/>
+		<resource id="chars_intro_2" comment="sheree" URL="/game/assets/juliusjr_big_day_fun/audio/vo/jr_jbdof_VO_12.mp3" type="sound"/>
+		<resource id="chars_intro_3" comment="worry" URL="/game/assets/juliusjr_big_day_fun/audio/vo/jr_jbdof_VO_13.mp3" type="sound"/>
+		<resource id="chars_intro_4" comment="chachi" URL="/game/assets/juliusjr_big_day_fun/audio/vo/jr_jbdof_VO_14.mp3" type="sound"/>
+		<resource id="chars_intro_5" comment="ping" URL="/game/assets/juliusjr_big_day_fun/audio/vo/jr_jbdof_VO_15.mp3" type="sound"/>
+		<resource id="chars_intro_end" comment="end" URL="/game/assets/juliusjr_big_day_fun/audio/vo/jr_jbdof_VO_16.mp3" type="sound"/>
+
+		
+		<resource id="hey_bg_music" URL="/game/assets/juliusjr_big_day_fun/audio/bg/JULIS_JR_HEYHEYHEY_LOOP.mp3" type="sound"/>
+		<resource id="level_one_intro" URL="/game/assets/juliusjr_big_day_fun/audio/vo/pickups/twirl_intro.mp3" type="sound"/>
+
+		<resource id="blueprint" URL="/game/assets/juliusjr_big_day_fun/images/04_game_01/blueprint.png" type="image"/>
+		<resource id="blueprint1" URL="/game/assets/juliusjr_big_day_fun/images/04_game_01/solve_03.png" type="image"/>
+		<resource id="blueprint2" URL="/game/assets/juliusjr_big_day_fun/images/04_game_01/solve_01.png" type="image"/>
+		<resource id="blueprint3" URL="/game/assets/juliusjr_big_day_fun/images/04_game_01/solve_04.png" type="image"/>
+		<resource id="blueprint4" URL="/game/assets/juliusjr_big_day_fun/images/04_game_01/solve_02.png" type="image"/>
+		<resource id="curved_tile" URL="/game/assets/juliusjr_big_day_fun/images/04_game_01/curve_tile.png" type="image"/>
+		<resource id="straight_tile" URL="/game/assets/juliusjr_big_day_fun/images/04_game_01/flat_tile.png" type="image"/>
+		<resource id="curved_tile_empty" URL="/game/assets/juliusjr_big_day_fun/images/04_game_01/curve_tile_empty.png" type="image"/>
+		<resource id="straight_tile_empty" URL="/game/assets/juliusjr_big_day_fun/images/04_game_01/flat_tile_empty.png" type="image"/>
+		<resource id="tile_rotate" URL="/game/assets/juliusjr_big_day_fun/audio/sfx/SFX_SlideBuilding.mp3" type="sound"/>
+		<resource id="tile_prompt" URL="/game/assets/juliusjr_big_day_fun/audio/vo/pickups/slide_hint.mp3" type="sound"/>
+		<resource id="whooshing_water" URL="/game/assets/juliusjr_big_day_fun/audio/sfx/SFX_WOOSHING_WATER.mp3" type="sound"/>
+		<resource id="level_one_help" URL="/game/assets/juliusjr_big_day_fun/audio/vo/jr_jbdof_VO_18.mp3" type="sound"/>
+
+
+		<resource id="01_play_again" URL="/game/assets/juliusjr_big_day_fun/images/05_outro_01/again_btn.png" type="image"/>
+		<resource id="01_play_again_over" URL="/game/assets/juliusjr_big_day_fun/images/05_outro_01/again_btn_hover.png" type="image"/>
+		<!--<resource id="01_next" URL="/game/assets/juliusjr_big_day_fun/images/05_outro_01/sagebrush_next_btn.png" type="image"/>
+		<resource id="01_next_over" URL="/game/assets/juliusjr_big_day_fun/images/05_outro_01/sagebrush_next_btn_hover.png" type="image"/>-->
+		<resource id="01_next" URL="/game/assets/juliusjr_big_day_fun/images/08_outro_02/08_dance_next_btn.png" type="image"/>
+		<resource id="01_next_over" URL="/game/assets/juliusjr_big_day_fun/images/08_outro_02/08_dance_next_btn_hover.png" type="image"/>
+		<resource id="01_success" URL="/game/assets/juliusjr_big_day_fun/audio/vo/jr_jbdof_VO_21.mp3" type="sound"/>
+		<resource id="01_success_prompt" URL="/game/assets/juliusjr_big_day_fun/audio/vo/jr_jbdof_VO_22.mp3" type="sound"/>
+		<resource id="slide_again" URL="/game/assets/juliusjr_big_day_fun/audio/vo/jr_jbdof_VO_23.mp3" type="sound"/>
+		<resource id="go_dance" URL="/game/assets/juliusjr_big_day_fun/audio/vo/jr_jbdof_VO_43.mp3" type="sound"/>
+
+
+		<resource id="honesty_bg_music" URL="/game/assets/juliusjr_big_day_fun/audio/bg/JULIS_JR_HONESTY_LOOP.mp3" type="sound"/>
+		<resource id="level_two_intro" URL="/game/assets/juliusjr_big_day_fun/audio/vo/pickups/farm_intro.mp3" type="sound"/>
+
+
+		
+		<resource id="berry_counter" URL="/game/assets/juliusjr_big_day_fun/images/common/berry_counter.png" type="image"/>
+		<resource id="mouse_icon" URL="/game/assets/juliusjr_big_day_fun/images/07_game_02/mouse.png" type="image"/>
+		<resource id="berry" URL="/game/assets/juliusjr_big_day_fun/images/07_game_02/08_berry.png" type="image"/>
+		<resource id="leaf" URL="/game/assets/juliusjr_big_day_fun/images/07_game_02/08_leaf.png" type="image"/>
+		<resource id="twig" URL="/game/assets/juliusjr_big_day_fun/images/07_game_02/08_twig.png" type="image"/>
+		<resource id="trees" URL="/game/assets/juliusjr_big_day_fun/images/07_game_02/trees.png" type="image"/>
+		<resource id="chicken" URL="/game/assets/juliusjr_big_day_fun/audio/sfx/SFX_CHICKEN_CLUCKS.mp3" type="sound"/>
+		<resource id="catch_berry" URL="/game/assets/juliusjr_big_day_fun/audio/sfx/SFX_SMOOSHBERRY_BASKET_PLOP.mp3" type="sound"/>
+		<resource id="missed_berry" URL="/game/assets/juliusjr_big_day_fun/audio/sfx/SFX_SMOOSHBERRY_GROUND_PLOP.mp3" type="sound"/>
+		<resource id="bad_catch" URL="/game/assets/juliusjr_big_day_fun/audio/sfx/chtsg_sfx_whoops.mp3" type="sound"/>
+		<resource id="smoosh_shower" URL="/game/assets/juliusjr_big_day_fun/audio/vo/jr_jbdof_VO_31.mp3" type="sound"/>
+		<resource id="good_1" URL="/game/assets/juliusjr_big_day_fun/audio/vo/jr_jbdof_VO_32.mp3" type="sound"/>
+		<resource id="good_2" URL="/game/assets/juliusjr_big_day_fun/audio/vo/jr_jbdof_VO_33.mp3" type="sound"/>
+		<resource id="good_3" URL="/game/assets/juliusjr_big_day_fun/audio/vo/jr_jbdof_VO_34.mp3" type="sound"/>
+		<resource id="good_4" URL="/game/assets/juliusjr_big_day_fun/audio/vo/jr_jbdof_VO_35.mp3" type="sound"/>
+		<resource id="bad_1" URL="/game/assets/juliusjr_big_day_fun/audio/vo/jr_jbdof_VO_36.mp3" type="sound"/>
+		<resource id="bad_2" URL="/game/assets/juliusjr_big_day_fun/audio/vo/jr_jbdof_VO_37.mp3" type="sound"/>
+		<resource id="bad_3" URL="/game/assets/juliusjr_big_day_fun/audio/vo/jr_jbdof_VO_38.mp3" type="sound"/>
+		<resource id="shower_end" URL="/game/assets/juliusjr_big_day_fun/audio/vo/jr_jbdof_VO_39.mp3" type="sound"/>
+		<resource id="level_two_help" URL="/game/assets/juliusjr_big_day_fun/audio/vo/jr_jbdof_VO_27.mp3" type="sound"/>
+
+		<resource id="02_play_again" URL="/game/assets/juliusjr_big_day_fun/images/08_outro_02/again_btn.png" type="image"/>
+		<resource id="02_play_again_over" URL="/game/assets/juliusjr_big_day_fun/images/08_outro_02/again_btn_hover.png" type="image"/>
+		<resource id="02_next" URL="/game/assets/juliusjr_big_day_fun/images/08_outro_02/twirl_btn.png" type="image"/>
+		<resource id="02_next_over" URL="/game/assets/juliusjr_big_day_fun/images/08_outro_02/twirl_btn_hover.png" type="image"/>
+		<resource id="02_success" URL="/game/assets/juliusjr_big_day_fun/audio/vo/jr_jbdof_VO_40.mp3" type="sound"/>
+		<resource id="02_success_prompt" URL="/game/assets/juliusjr_big_day_fun/audio/vo/jr_jbdof_VO_41.mp3" type="sound"/>
+		<resource id="catch_again" URL="/game/assets/juliusjr_big_day_fun/audio/vo/jr_jbdof_VO_42.mp3" type="sound"/>
+		<resource id="go_slide" URL="/game/assets/juliusjr_big_day_fun/audio/vo/pickups/go_twirl.mp3" type="sound"/>
+
+		<resource id="jump_bg_music" URL="/game/assets/juliusjr_big_day_fun/audio/bg/JULIS_JR_JUMP_UP_JUMP_DOWN_LOOP.mp3" type="sound"/>
+		<resource id="level_three_intro" URL="/game/assets/juliusjr_big_day_fun/audio/vo/jr_jbdof_VO_44.mp3" type="sound"/>
+
+		
+		<resource id="blue" URL="/game/assets/juliusjr_big_day_fun/images/10_game_03/12_blue_tile.png" type="image"/>
+		<resource id="blue_light" URL="/game/assets/juliusjr_big_day_fun/images/10_game_03/12_blue_tile_light.png" type="image"/>
+		<resource id="purple" URL="/game/assets/juliusjr_big_day_fun/images/10_game_03/12_purple_tile.png" type="image"/>
+		<resource id="purple_light" URL="/game/assets/juliusjr_big_day_fun/images/10_game_03/12_purple_tile_light.png" type="image"/>
+		<resource id="red" URL="/game/assets/juliusjr_big_day_fun/images/10_game_03/12_red_tile.png" type="image"/>
+		<resource id="red_light" URL="/game/assets/juliusjr_big_day_fun/images/10_game_03/12_red_tile_light.png" type="image"/>
+		<resource id="yellow" URL="/game/assets/juliusjr_big_day_fun/images/10_game_03/12_yellow_tile.png" type="image"/>
+		<resource id="yellow_light" URL="/game/assets/juliusjr_big_day_fun/images/10_game_03/12_yellow_tile_light.png" type="image"/>
+		<resource id="wrong_tile" URL="/game/assets/juliusjr_big_day_fun/audio/sfx/SFX_WRONG_TILE.mp3" type="sound"/>
+		<resource id="tile_1_sfx" URL="/game/assets/juliusjr_big_day_fun/audio/sfx/SFX_BLUE_TILE.mp3" type="sound"/>
+		<resource id="tile_2_sfx" URL="/game/assets/juliusjr_big_day_fun/audio/sfx/SFX_GREEN_TILE.mp3" type="sound"/>
+		<resource id="tile_3_sfx" URL="/game/assets/juliusjr_big_day_fun/audio/sfx/SFX_RED_TILE.mp3" type="sound"/>
+		<resource id="tile_4_sfx" URL="/game/assets/juliusjr_big_day_fun/audio/sfx/SFX_YELLOW_TILE.mp3" type="sound"/>
+		<resource id="level_three_game_idle" URL="/game/assets/juliusjr_big_day_fun/audio/vo/jr_jbdof_VO_47.mp3" type="sound"/>
+		<resource id="good_dance_1" URL="/game/assets/juliusjr_big_day_fun/audio/vo/jr_jbdof_VO_48.mp3" type="sound"/>
+		<resource id="good_dance_2" URL="/game/assets/juliusjr_big_day_fun/audio/vo/jr_jbdof_VO_49.mp3" type="sound"/>
+		<resource id="good_dance_3" URL="/game/assets/juliusjr_big_day_fun/audio/vo/jr_jbdof_VO_50.mp3" type="sound"/>
+		<resource id="bad_dance" URL="/game/assets/juliusjr_big_day_fun/audio/vo/pickups/try_again.mp3" type="sound"/>
+		<resource id="end_dance" URL="/game/assets/juliusjr_big_day_fun/audio/vo/jr_jbdof_VO_51.mp3" type="sound"/>
+		<resource id="level_three_help" URL="/game/assets/juliusjr_big_day_fun/audio/vo/jr_jbdof_VO_47.mp3" type="sound"/>
+
+		<resource id="dance_0" URL="/game/assets/juliusjr_big_day_fun/images/10_game_03/dance_00.png" type="image"/>
+		<resource id="dance_1" URL="/game/assets/juliusjr_big_day_fun/images/10_game_03/dance_01.png" type="image"/>
+		<resource id="dance_2" URL="/game/assets/juliusjr_big_day_fun/images/10_game_03/dance_02.png" type="image"/>
+		<resource id="dance_3" URL="/game/assets/juliusjr_big_day_fun/images/10_game_03/dance_03.png" type="image"/>
+
+
+
+		<resource id="03_play_again" URL="/game/assets/juliusjr_big_day_fun/images/11_outro_03/again_btn.png" type="image"/>
+		<resource id="03_play_again_over" URL="/game/assets/juliusjr_big_day_fun/images/11_outro_03/again_btn_hover.png" type="image"/>
+		<resource id="03_next" URL="/game/assets/juliusjr_big_day_fun/images/11_outro_03/12_next_btn.png" type="image"/>
+		<resource id="03_next_over" URL="/game/assets/juliusjr_big_day_fun/images/11_outro_03/12_next_btn_hover.png" type="image"/>
+		<resource id="03_success" URL="/game/assets/juliusjr_big_day_fun/audio/vo/jr_jbdof_VO_52.mp3" type="sound"/>
+		<resource id="03_success_prompt" URL="/game/assets/juliusjr_big_day_fun/audio/vo/jr_jbdof_VO_53.mp3" type="sound"/>
+		<resource id="dance_again" URL="/game/assets/juliusjr_big_day_fun/audio/vo/jr_jbdof_VO_54.mp3" type="sound"/>
+		<resource id="go_next" URL="/game/assets/juliusjr_big_day_fun/audio/vo/jr_jbdof_VO_55.mp3" type="sound"/>
+
+		<resource id="cmon_bg_music" URL="/game/assets/juliusjr_big_day_fun/audio/bg/JULIS_JR_CMON_CMON_LOOP.mp3" type="sound"/>
+
+		<resource id="final_play_again" URL="/game/assets/juliusjr_big_day_fun/images/12_ending/startover_btn.png" type="image"/>
+		<resource id="final_play_again_over" URL="/game/assets/juliusjr_big_day_fun/images/12_ending/startover_btn_hover.png" type="image"/>
+		<resource id="final_print" URL="/game/assets/juliusjr_big_day_fun/images/12_ending/15_print_btn.png" type="image"/>
+		<resource id="final_print_over" URL="/game/assets/juliusjr_big_day_fun/images/12_ending/15_print_btn_hover.png" type="image"/>
+		<resource id="final_success" URL="/game/assets/juliusjr_big_day_fun/audio/vo/jr_jbdof_VO_56.mp3" type="sound"/>
+		<resource id="final_success_prompt" URL="/game/assets/juliusjr_big_day_fun/audio/vo/jr_jbdof_VO_57.mp3" type="sound"/>
+		<resource id="start_over" URL="/game/assets/juliusjr_big_day_fun/audio/vo/jr_jbdof_VO_58.mp3" type="sound"/>
+		<resource id="print" URL="/game/assets/juliusjr_big_day_fun/audio/vo/jr_jbdof_VO_59.mp3" type="sound"/>
+
+
+
+
+	</resources>
+	
+	
+</pageResources>

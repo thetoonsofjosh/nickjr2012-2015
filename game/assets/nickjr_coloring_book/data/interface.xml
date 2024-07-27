@@ -1,0 +1,28 @@
+<interface>
+	<element 
+		handle="MenuOptions"
+		classHandle="com.nickjr.app.creativity_center.view.gui.OptionMenu"
+		location="ui/OptionMenu.swf"
+	/>
+	<element  
+		handle="MenuColor"
+		classHandle="com.nickjr.app.creativity_center.view.gui.BrushColorMenu"
+		location="ui/BrushColorMenu.swf"
+	/>
+	<element  
+		handle="MenuSize"
+		classHandle="com.nickjr.app.creativity_center.view.gui.BrushSizeMenu"
+		location="ui/BrushSizeMenu.swf"
+	/>
+	<element 
+		handle="BackgroundsMenu"
+		classHandle="com.nickjr.app.creativity_center.view.gui.ColoringMenu"
+		location="ui/BackgroundsMenu.swf"
+	/>		
+	<element 
+		handle="menuTools"
+		classHandle="com.nickjr.app.creativity_center.view.gui.ToolsMenu"
+		location="ui/ToolsMenu.swf"
+	/>
+</interface>
+	

@@ -1,0 +1,281 @@
+﻿<?xml version="1.0"?>
+<!--config file for Wonderpets Dress Up Game-->
+<config>
+	<display_name>Wonderpets Dress Up Game</display_name>
+	<version>0.001</version>
+	<quality>MEDIUM</quality>	<!-- LOW MEDIUM HIGH -->
+	<scale_mode>noScale</scale_mode>  <!-- noScale showAll -->
+	<allowedInactivityTime>12000</allowedInactivityTime> <!-- milliseconds -->
+	<pointTarget>1</pointTarget> <!-- milliseconds -->
+	 <!-- Audio settings -->
+	<audio>
+		<!-- audioChannels, dynamic movieclips that sound objects attached to -->
+		<!-- flash8 can support up to 32 simultaneous audio channels -->
+		<audioChannels>
+			<audioChannel id="VO"/>
+			<audioChannel id="SFX"/>
+			<audioChannel id="BG_MUSIC"/>
+			<audioChannel id="MISC"/>
+			<audioChannel id="MISC2"/>
+		</audioChannels>
+		<!-- audioChannels, dynamic movieclips that sound objects attached to -->
+		<audioItems>
+			<audioItem id="wp_animalscreen_m.aif" loc="embedded" type="vo" channelID="VO" handle="audioInstructionVoID" callback="onCompleteInstructionSequence" offset="0" loops="0" duration="100%"/>
+			<audioItem id="wp_instruct_music_end01.aif" loc="embedded" type="sfx"  channelID="SFX" handle="audioInterstitialMusicID" callback="onCompleteInterstitialMusic" offset="0" loops="0" duration="100%"/>
+			<audioItem id="dressupgameloop01.aif" loc="embedded" type="bg_music"  channelID="BG_MUSIC" handle="audioBackgroundMusicID" callback="null" offset="0" loops="500" duration="100%"/>
+			<audioItem id="beach music end.aif" loc="embedded" type="bg_music"  channelID="BG_MUSIC" handle="audioBackgroundMusicEndID" callback="null" offset="0" loops="0" duration="100%"/>	
+			<audioItem id="fanfare 01.aif" loc="embedded" type="sfx"  channelID="SFX" handle="audioSfxSuccess" callback="null" offset="0" loops="0" duration="100%"/>			
+			<audioItem id="select_04.aif" loc="embedded" type="sfx"  channelID="SFX" handle="audioSfxOnDragClothingItem" callback="null" offset="0" loops="0" duration="100%"/>			
+			<audioItem id="Place_01.aif" loc="embedded" type="sfx"  channelID="SFX" handle="audioSfxOnDropClothingItem" callback="null" offset="0" loops="0" duration="100%"/>		
+			<audioItem id="vo_pickoutfit_01.aif" loc="embedded" type="vo"  channelID="MISC" handle="audioVoInactivityPrompt" callback="null" offset="0" loops="0" duration="100%"/>		
+			<audioItem id="select_04.aif" loc="embedded" type="sfx"  channelID="SFX" handle="audioSfxOnButtonClick" callback="null" offset="0" loops="0" duration="100%"/>		
+		</audioItems>
+	</audio>
+	
+	
+	<!-- Game settings -->
+	<items>
+		<!-- item start depth is determined by order in xml, but can be overridden if explicitly defined in "start" node  depth="35" || depth="null"  -->
+		<item linkage="antennae_mc" type="embedded">
+		 <!-- type="embedded" || "external" -->
+			<hitarea type="shape"/>
+			<!-- type="shape" || "bounding_box" || "point"[x,y,w,h] -->
+			<!-- <anim event="onRollOver" style="com.nickonline.games.wond_mission.behaviors.BounceGlow" filter="glow" />-->
+			<anims>
+				<anim event="onRollOver" anim_style="Bounce" filter="glow" />
+				<anim event="onStartDrag" anim_style="Bounce" filter="shadow"/>
+				<anim event="onStopDrag" anim_style="Bounce" filter="glow" />				
+				<anim event="onPress" anim_style="null" filter="null" />
+				<anim event="onRelease" anim_style="null" filter="null"/>
+			</anims>
+			<start x="258" y="214" scale="100" rotation="0" depth="null" />
+			<targets>
+				<target x="176.6" y="45" frame="2" stackOrderVertical="2" />
+				<target x="328.3" y="28.4" frame="3" stackOrderVertical="2" />
+				<target x="452.4" y="36.8" frame="4" stackOrderVertical="2" />
+			</targets>
+		</item>
+
+		<item linkage="ballerina_mc" type="embedded">
+		 <!-- type="embedded" || "external" -->
+			<hitarea type="shape"/>
+			<!-- type="shape" || "bounding_box" || "point"[x,y,w,h] -->
+			<!-- <anim event="onRollOver" style="com.nickonline.games.wond_mission.behaviors.BounceGlow" filter="glow" />-->
+			<anims>
+				<anim event="onRollOver" anim_style="Bounce" filter="glow" />
+				<anim event="onStartDrag" anim_style="Bounce" filter="shadow"/>
+				<anim event="onStopDrag" anim_style="Bounce" filter="glow" />				
+				<anim event="onPress" anim_style="null" filter="null" />
+				<anim event="onRelease" anim_style="null" filter="null"/>
+			</anims>
+			<start x="192" y="245" scale="100" rotation="0" depth="null" />
+			<targets>
+				<target x="152.1" y="112.1" frame="2" stackOrderVertical="1" />
+				<target x="284.6" y="110.8" frame="3" stackOrderVertical="1" />
+				<target x="429.6" y="95.8" frame="4" stackOrderVertical="1" />
+			</targets>
+		</item>
+
+		<item linkage="belt_mc" type="embedded">
+		 <!-- type="embedded" || "external" -->
+			<hitarea type="shape"/>
+			<!-- type="shape" || "bounding_box" || "point"[x,y,w,h] -->
+			<!-- <anim event="onRollOver" style="com.nickonline.games.wond_mission.behaviors.BounceGlow" filter="glow" />-->
+			<anims>
+				<anim event="onRollOver" anim_style="Bounce" filter="glow" />
+				<anim event="onStartDrag" anim_style="Bounce" filter="shadow"/>
+				<anim event="onStopDrag" anim_style="Bounce" filter="glow" />				
+				<anim event="onPress" anim_style="null" filter="null" />
+				<anim event="onRelease" anim_style="null" filter="null"/>
+			</anims>
+			<start x="402" y="228" scale="100" rotation="0" depth="null" />
+			<targets>
+				<target x="186.2" y="157.8" frame="2" stackOrderVertical="1" />
+				<target x="314.4" y="154.4" frame="3" stackOrderVertical="1" />
+				<target x="467.9" y="157.3" frame="4" stackOrderVertical="1" />
+			</targets>
+		</item>
+
+		<item linkage="egypt_mc" type="embedded">
+		 <!-- type="embedded" || "external" -->
+			<hitarea type="shape"/>
+			<!-- type="shape" || "bounding_box" || "point"[x,y,w,h] -->
+			<!-- <anim event="onRollOver" style="com.nickonline.games.wond_mission.behaviors.BounceGlow" filter="glow" />-->
+			<anims>
+				<anim event="onRollOver" anim_style="Bounce" filter="glow" />
+				<anim event="onStartDrag" anim_style="Bounce" filter="shadow"/>
+				<anim event="onStopDrag" anim_style="Bounce" filter="glow" />				
+				<anim event="onPress" anim_style="null" filter="null" />
+				<anim event="onRelease" anim_style="null" filter="null"/>
+			</anims>
+			<start x="224" y="230" scale="100" rotation="0" depth="null" />
+			<targets>
+				<target x="168.3" y="47.1" frame="2" stackOrderVertical="2" />
+				<target x="295.2" y="28.1" frame="3" stackOrderVertical="2" />
+				<target x="452.0" y="35.9" frame="4" stackOrderVertical="2" />
+			</targets>
+		</item>
+
+		<item linkage="firemanhat_mc" type="embedded">
+		 <!-- type="embedded" || "external" -->
+			<hitarea type="shape"/>
+			<!-- type="shape" || "bounding_box" || "point"[x,y,w,h] -->
+			<!-- <anim event="onRollOver" style="com.nickonline.games.wond_mission.behaviors.BounceGlow" filter="glow" />-->
+			<anims>
+				<anim event="onRollOver" anim_style="Bounce" filter="glow" />
+				<anim event="onStartDrag" anim_style="Bounce" filter="shadow"/>
+				<anim event="onStopDrag" anim_style="Bounce" filter="glow" />				
+				<anim event="onPress" anim_style="null" filter="null" />
+				<anim event="onRelease" anim_style="null" filter="null"/>
+			</anims>
+			<start x="124" y="257" scale="100" rotation="0" depth="null" />
+			<targets>
+				<target x="180.8" y="43.8" frame="2" stackOrderVertical="2" />
+				<target x="304.6" y="8.8" frame="3" stackOrderVertical="2" />
+				<target x="457.1" y="26.6" frame="4" stackOrderVertical="2" />
+			</targets>
+		</item>
+
+		<item linkage="grass_mc" type="embedded">
+		 <!-- type="embedded" || "external" -->
+			<hitarea type="shape"/>
+			<!-- type="shape" || "bounding_box" || "point"[x,y,w,h] -->
+			<!-- <anim event="onRollOver" style="com.nickonline.games.wond_mission.behaviors.BounceGlow" filter="glow" />-->
+			<anims>
+				<anim event="onRollOver" anim_style="Bounce" filter="glow" />
+				<anim event="onStartDrag" anim_style="Bounce" filter="shadow"/>
+				<anim event="onStopDrag" anim_style="Bounce" filter="glow" />				
+				<anim event="onPress" anim_style="null" filter="null" />
+				<anim event="onRelease" anim_style="null" filter="null"/>
+			</anims>
+			<start x="439" y="207" scale="100" rotation="0" depth="null" />
+			<targets>
+				<target x="170.4" y="164.8" frame="2" stackOrderVertical="1" />
+				<target x="296.1" y="165.7" frame="3" stackOrderVertical="1" />
+				<target x="453.2" y="155.9" frame="4" stackOrderVertical="1" />
+			</targets>
+		</item>
+
+		<item linkage="pig_mc" type="embedded">
+		 <!-- type="embedded" || "external" -->
+			<hitarea type="shape"/>
+			<!-- type="shape" || "bounding_box" || "point"[x,y,w,h] -->
+			<!-- <anim event="onRollOver" style="com.nickonline.games.wond_mission.behaviors.BounceGlow" filter="glow" />-->
+			<anims>
+				<anim event="onRollOver" anim_style="Bounce" filter="glow" />
+				<anim event="onStartDrag" anim_style="Bounce" filter="shadow"/>
+				<anim event="onStopDrag" anim_style="Bounce" filter="glow" />				
+				<anim event="onPress" anim_style="null" filter="null" />
+				<anim event="onRelease" anim_style="null" filter="null"/>
+			</anims>
+			<start x="339" y="211" scale="100" rotation="0" depth="null" />
+			<targets>
+				<target x="171.6" y="33.5" frame="2" stackOrderVertical="2" />
+				<target x="298.9" y="12.8" frame="3" stackOrderVertical="2" />
+				<target x="449.6" y="13.2" frame="4" stackOrderVertical="2" />
+			</targets>
+		</item>
+
+		<item linkage="pirateHat_mc" type="embedded">
+		 <!-- type="embedded" || "external" -->
+			<hitarea type="shape"/>
+			<!-- type="shape" || "bounding_box" || "point"[x,y,w,h] -->
+			<!-- <anim event="onRollOver" style="com.nickonline.games.wond_mission.behaviors.BounceGlow" filter="glow" />-->
+			<anims>
+				<anim event="onRollOver" anim_style="Bounce" filter="glow" />
+				<anim event="onStartDrag" anim_style="Bounce" filter="shadow"/>
+				<anim event="onStopDrag" anim_style="Bounce" filter="glow" />				
+				<anim event="onPress" anim_style="null" filter="null" />
+				<anim event="onRelease" anim_style="null" filter="null"/>
+			</anims>
+			<start x="24" y="245" scale="100" rotation="0" depth="null" />
+			<targets>
+				<target x="162.1" y="34.5" frame="2" stackOrderVertical="2" />
+				<target x="311.2" y="28" frame="3" stackOrderVertical="2" />
+				<target x="439.6" y="22.1" frame="4" stackOrderVertical="2" />
+			</targets>
+		</item>
+
+		<item linkage="police_mc" type="embedded">
+		 <!-- type="embedded" || "external" -->
+			<hitarea type="shape"/>
+			<!-- type="shape" || "bounding_box" || "point"[x,y,w,h] -->
+			<!-- <anim event="onRollOver" style="com.nickonline.games.wond_mission.behaviors.BounceGlow" filter="glow" />-->
+			<anims>
+				<anim event="onRollOver" anim_style="Bounce" filter="glow" />
+				<anim event="onStartDrag" anim_style="Bounce" filter="shadow"/>
+				<anim event="onStopDrag" anim_style="Bounce" filter="glow" />				
+				<anim event="onPress" anim_style="null" filter="null" />
+				<anim event="onRelease" anim_style="null" filter="null"/>
+			</anims>
+			<start x="295" y="234" scale="100" rotation="0" depth="null" />
+			<targets>
+				<target x="171.9" y="106.2" frame="2" stackOrderVertical="1" />
+				<target x="311.7" y="124.3" frame="3" stackOrderVertical="1" />
+				<target x="454.9" y="102.3" frame="4" stackOrderVertical="1" />
+			</targets>
+		</item>
+
+		<item linkage="policehat_mc" type="embedded">
+		 <!-- type="embedded" || "external" -->
+			<hitarea type="shape"/>
+			<!-- type="shape" || "bounding_box" || "point"[x,y,w,h] -->
+			<!-- <anim event="onRollOver" style="com.nickonline.games.wond_mission.behaviors.BounceGlow" filter="glow" />-->
+			<anims>
+				<anim event="onRollOver" anim_style="Bounce" filter="glow" />
+				<anim event="onStartDrag" anim_style="Bounce" filter="shadow"/>
+				<anim event="onStopDrag" anim_style="Bounce" filter="glow" />				
+				<anim event="onPress" anim_style="null" filter="null" />
+				<anim event="onRelease" anim_style="null" filter="null"/>
+			</anims>
+			<start x="411" y="216" scale="100" rotation="0" depth="null" />
+			<targets>
+				<target x="191.2" y="31.5" frame="2" stackOrderVertical="2" />
+				<target x="337.7" y="7.8" frame="3" stackOrderVertical="2" />
+				<target x="470.6" y="21.6" frame="4" stackOrderVertical="2" />
+			</targets>
+		</item>
+
+		<item linkage="spider_mc" type="embedded">
+		 <!-- type="embedded" || "external" -->
+			<hitarea type="shape"/>
+			<!-- type="shape" || "bounding_box" || "point"[x,y,w,h] -->
+			<!-- <anim event="onRollOver" style="com.nickonline.games.wond_mission.behaviors.BounceGlow" filter="glow" />-->
+			<anims>
+				<anim event="onRollOver" anim_style="Bounce" filter="glow" />
+				<anim event="onStartDrag" anim_style="Bounce" filter="shadow"/>
+				<anim event="onStopDrag" anim_style="Bounce" filter="glow" />				
+				<anim event="onPress" anim_style="null" filter="null" />
+				<anim event="onRelease" anim_style="null" filter="null"/>
+			</anims>
+			<start x="156" y="211" scale="100" rotation="0" depth="null" />
+			<targets>
+				<target x="164.4" y="100.6" frame="2" stackOrderVertical="1" />
+				<target x="280.1" y="112.8" frame="3" stackOrderVertical="1" />
+				<target x="437.7" y="96.1" frame="4" stackOrderVertical="1" />
+			</targets>
+		</item>
+
+		<item linkage="toga_mc" type="embedded">
+		 <!-- type="embedded" || "external" -->
+			<hitarea type="shape"/>
+			<!-- type="shape" || "bounding_box" || "point"[x,y,w,h] -->
+			<!-- <anim event="onRollOver" style="com.nickonline.games.wond_mission.behaviors.BounceGlow" filter="glow" />-->
+			<anims>
+				<anim event="onRollOver" anim_style="Bounce" filter="glow" />
+				<anim event="onStartDrag" anim_style="Bounce" filter="shadow"/>
+				<anim event="onStopDrag" anim_style="Bounce" filter="glow" />				
+				<anim event="onPress" anim_style="null" filter="null" />
+				<anim event="onRelease" anim_style="null" filter="null"/>
+			</anims>
+			<start x="87" y="209" scale="100" rotation="0" depth="null" />
+			<targets>
+				<target x="168.8" y="89.4" frame="2" stackOrderVertical="1" />
+				<target x="299.3" y="114.5" frame="3" stackOrderVertical="1" />
+				<target x="449.2" y="68.5" frame="4" stackOrderVertical="1" />
+			</targets>
+		</item>
+		
+
+	</items>
+</config>

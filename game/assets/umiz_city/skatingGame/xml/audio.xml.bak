@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data dir="mp3/">
+
+	<vo channel="vo">
+		<non_level><!-- or all levels -->
+			<sound file="UZCS_1.mp3" id="titleVO" />
+			<sound file="UZCS_2.mp3" id="playButtonCallout" />
+			<sound file="UZCS_3.mp3" id="playButtonRollover" />
+			<sound file="UZCS_115.mp3" id="playAgainButtonRollover" />
+			
+			<sound file="UZCS_164.mp3" id="printButtonRollover" />
+			<sound file="UZCS_5.mp3" id="skipButtonRollover" />
+			
+			<sound file="Silence" inLibrary="true" id="endGameDelayPrompt" />
+		</non_level>
+		
+		
+		<level_1>
+			<sound file="UZCS_19.mp3" id="puffball_hit_first"/>
+			
+			<sound file="UZCS_20.mp3" id="level_right_approach_first"/>
+			<sound file="UZCS_124.mp3" id="level_right_approach_first"/>
+			
+			<sound file="UZCS_22.mp3" id="level_right_approach_second"/>
+			
+			<sound file="UZCS_42.mp3" id="level_right_approach_last"/>
+			
+			<sound file="UZCS_22a.mp3" id="level_right_approach"/>
+			
+			<!--<sound file="UZCS_26_e.mp3" id="level_right_approach_retry"/>-->
+			<!--<sound file="silence.mp3" id="level_right_approach_retry"/>-->
+			
+			<sound file="UZCS_22.mp3" id="level_right_approach_retry" repeatChoice="true" />
+			
+			
+			<sound file="UZCS_21a.mp3" id="level_triangle_approach"/>
+			<sound file="UZCS_21b.mp3" id="level_square_approach"/>
+			<sound file="UZCS_21c.mp3" id="level_rectangle_approach"/>
+			<sound file="UZCS_21d.mp3" id="level_circle_approach"/>
+			<sound file="UZCS_21e.mp3" id="level_oval_approach"/>
+			<sound file="UZCS_21f.mp3" id="level_semicircle_approach"/>
+			<sound file="UZCS_21g.mp3" id="level_pentagon_approach"/>
+			<sound file="UZCS_21h.mp3" id="level_octagon_approach"/>
+			<sound file="UZCS_21i.mp3" id="level_diamond_approach"/>
+			
+			
+			<sound file="UZCS_24.mp3" id="level_right_hit_first" repeatChoice="false" />
+			<sound file="UZCS_25.mp3" id="level_right_hit_first" repeatChoice="false" />
+			
+			<sound file="UZCS_25b.mp3" id="level_right_hit" repeatChoice="false" />
+			<sound file="UZCS_25c.mp3" id="level_right_hit" repeatChoice="false" />
+			<sound file="UZCS_25d.mp3" id="level_right_hit" repeatChoice="false" />
+			
+			<sound file="UZCS_26.mp3" id="level_right_miss_first" repeatChoice="false" />
+			<!--<sound file="UZCS_27.mp3" id="level_right_miss_first" repeatChoice="true" />-->
+
+			
+			
+			<sound file="UZCS_26a.mp3" id="level_right_miss_second" repeatChoice="false"/>
+			
+			<sound file="UZCS_26.mp3" id="level_right_miss" repeatChoice="false" highlightChoice="true"/>
+
+			
+			<sound file="UZCS_26.mp3" id="level_right_miss_completely_first" repeatChoice="false"/>
+			<!--<sound file="UZCS_27.mp3" id="level_right_miss_completely_first" repeatChoice="true"/>-->
+			
+			<sound file="UZCS_26a.mp3" id="level_right_miss_completely_second" repeatChoice="false"/>
+			<sound file="UZCS_26.mp3" id="level_right_miss_completely_third" repeatChoice="false"/>
+			<sound file="UZCS_26a.mp3" id="level_right_miss_completely" repeatChoice="false"/>
+			
+			<sound file="UZCS_29.mp3" id="ramp_approach_first"/>
+			
+			
+			<sound file="UZCS_31.mp3" id="ramp_trick_success_first"/>
+			
+			<sound file="UZCS_32.mp3" id="ramp_trick_success"/>
+			<sound file="UZCS_33.mp3" id="ramp_trick_success"/>
+			<sound file="UZCS_34.mp3" id="ramp_trick_success"/>
+			<sound file="UZCS_35.mp3" id="ramp_trick_success"/>
+			<sound file="UZCS_130.mp3" id="ramp_trick_success"/>
+			<sound file="UZCS_131.mp3" id="ramp_trick_success"/>
+			<!--<sound file="UZCS_132.mp3" id="ramp_trick_success"/>-->
+			<!--<sound file="UZCS_133.mp3" id="ramp_trick_success"/>-->
+			
+			<sound file="UZCS_36.mp3" id="puddle_approach_first"/>
+			<sound file="UZCS_37.mp3" id="puddle_hit"/>
+			
+			<sound file="UZCS_38.mp3" id="banana_approach_first"/>
+			
+			<sound file="UZCS_39.mp3" id="banana_hit"/>
+			<sound file="UZCS_39a.mp3" id="banana_hit"/>
+			<sound file="UZCS_39_b.mp3" id="banana_hit"/>
+			
+			
+			<sound file="UZCS_125.mp3" id="morePuffballs"/>
+			<sound file="UZCS_126.mp3" id="morePuffballs"/>
+			<sound file="UZCS_127.mp3" id="morePuffballs"/>
+			
+			<sound file="UZCS_171.mp3" id="endLevel"/>
+			
+			
+			
+		</level_1>
+		
+		<level_2>
+			
+			<sound file="UZCS_181.mp3" id="level_right_approach_first" />
+			<sound file="UZCS_200.mp3" id="level_right_approach_second"/>
+			<sound file="UZCS_198.mp3" id="level_right_approach_last"  />
+			<sound file="UZCS_197.mp3" id="level_right_approach" />
+			
+			<sound file="UZCS_187.mp3" id="level_right_miss_first"/>
+			<sound file="UZCS_188.mp3" id="level_right_miss_second"/>
+			<sound file="UZCS_187.mp3" id="level_right_miss_third" highlightChoice="true"/>
+			<sound file="UZCS_188.mp3" id="level_right_miss" highlightChoice="true"/>
+			
+			<sound file="UZCS_200.mp3" id="level_right_approach_retry_first" repeatChoice="true" />
+			<sound file="UZCS_201.mp3" id="level_right_approach_retry_second" repeatNumber="true" />
+			<sound file="UZCS_201.mp3" id="level_right_approach_retry_third" repeatNumber="true" />
+			<sound file="UZCS_201.mp3" id="level_right_approach_retry" repeatNumber="true" />
+			
+			
+			<sound file="silence.mp3" id="level_more_approach"/>
+			<sound file="silence.mp3" id="level_less_approach"/>
+
+
+			<sound file="UZCS_165.mp3" id="morePuffballs"/>
+			<sound file="UZCS_166.mp3" id="morePuffballs"/>
+			<sound file="UZCS_167.mp3" id="morePuffballs"/>
+			
+			<sound file="UZCS_137.mp3" id="n_1"/>
+			<sound file="UZCS_138.mp3" id="n_2"/>
+			<sound file="UZCS_139.mp3" id="n_3"/>
+			<sound file="UZCS_140.mp3" id="n_4"/>
+			<sound file="UZCS_141.mp3" id="n_5"/>
+			<sound file="UZCS_142.mp3" id="n_6"/>
+			<sound file="UZCS_143.mp3" id="n_7"/>
+			<sound file="UZCS_144.mp3" id="n_8"/>
+			<sound file="UZCS_145.mp3" id="n_9"/>
+			<sound file="UZCS_146.mp3" id="n_10"/>
+			<sound file="UZCS_190.mp3" id="n_11"/>
+			<sound file="UZCS_191.mp3" id="n_12"/>
+			<sound file="UZCS_192.mp3" id="n_13"/>
+			<sound file="UZCS_193.mp3" id="n_14"/>
+			<sound file="UZCS_194.mp3" id="n_15"/>
+			
+			
+			
+			<sound file="UZCS_205.mp3" id="great_job"/>
+			
+			<sound file="UZCS_56e_a.mp3" id="n2_1"/>
+			<sound file="UZCS_56e_b.mp3" id="n2_2"/>
+			<sound file="UZCS_56e_c.mp3" id="n2_3"/>
+			<sound file="UZCS_56e_d.mp3" id="n2_4"/>
+			<sound file="UZCS_56e_e.mp3" id="n2_5"/>
+			<sound file="UZCS_56e_f.mp3" id="n2_6"/>
+			<sound file="UZCS_56e_g.mp3" id="n2_7"/>
+			<sound file="UZCS_56e_h.mp3" id="n2_8"/>
+			<sound file="UZCS_56e_i.mp3" id="n2_9"/>
+			<sound file="UZCS_56e_j.mp3" id="n2_10"/>
+			
+			<sound file="UZCS_184.mp3" id="level_right_hit" repeatChoice="false" />
+			<sound file="UZCS_185.mp3" id="level_right_hit" repeatChoice="false" />
+			<sound file="UZCS_186.mp3" id="level_right_hit" repeatChoice="false" />
+			
+			
+			<sound file="UZCS_56c.mp3" id="level_right_hit" repeatChoice="false" />
+			<sound file="UZCS_56d.mp3" id="level_right_hit" repeatChoice="false" />
+			
+			<sound file="silence.mp3" id="level_right_hit" n2="true"/>
+			
+			
+
+			
+			
+
+
+			
+			<!--<sound file="UZCS_57a.mp3" id="level_right_miss_completely_first" />
+			<sound file="UZCS_57a.mp3" id="level_right_miss_completely" />-->
+
+			
+			
+			<sound file="UZCS_59.mp3" id="ramp_approach_first"/>
+			
+			<sound file="UZCS_61.mp3" id="ramp_trick_success"/>
+			<sound file="UZCS_62.mp3" id="ramp_trick_success"/>
+			<sound file="UZCS_63.mp3" id="ramp_trick_success"/>
+			<sound file="UZCS_64.mp3" id="ramp_trick_success"/>
+			
+			<sound file="UZCS_67.mp3" id="puddle_approach_first"/>
+			<sound file="UZCS_68.mp3" id="puddle_hit"/>
+			
+			<sound file="UZCS_203.mp3" id="puffball_rolling_approach_first"/>
+			<sound file="UZCS_204.mp3" id="puffball_rolling_approach"/>
+			
+			<sound file="UZCS_166a.mp3" id="puffball_rolling_hit"/>
+			<sound file="UZCS_167.mp3" id="puffball_rolling_hit"/>
+			
+			<sound file="UZCS_65.mp3" id="banana_approach_first"/>
+			<sound file="UZCS_66.mp3" id="banana_hit"/>
+			<sound file="UZCS_147.mp3" id="banana_hit"/>
+			<sound file="UZCS_119a_c.mp3" id="banana_hit"/>
+			
+			<sound file="UZCS_172.mp3" id="endLevel"/>
+			
+		</level_2>
+		
+		<level_3>
+			
+			<sound file="UZCS_170.mp3" id="level_right_approach_first"/>
+			<sound file="UZCS_108.mp3" id="level_right_approach_last"/>
+			
+			
+			<sound file="UZCS_86.mp3" id="level_right_approach"/>
+			
+			
+			<sound file="UZCS_87a.mp3" id="level_rbrbrb_approach"/>
+			<sound file="UZCS_87b.mp3" id="level_ygygyg_approach"/>
+			<sound file="UZCS_87c.mp3" id="level_PpPpPp_approach"/>
+			<sound file="UZCS_87d.mp3" id="level_rryrry_approach"/>
+			<sound file="UZCS_87e.mp3" id="level_bbgbbg_approach"/>
+			<sound file="UZCS_87f.mp3" id="level_pyypyy_approach"/>
+			<sound file="UZCS_87g.mp3" id="level_oggogg_approach"/>
+			<sound file="UZCS_87h.mp3" id="level_PPoPPo_approach"/>
+			<sound file="UZCS_87i.mp3" id="level_bbybby_approach"/>
+	
+			
+			<sound file="UZCS_88.mp3" id="what_comes_next"/>
+			
+			<sound file="UZCS_150.mp3" id="color_r"/>
+			<sound file="UZCS_151.mp3" id="color_b"/>
+			<sound file="UZCS_152.mp3" id="color_g"/>
+			<sound file="UZCS_153.mp3" id="color_y"/>
+			<sound file="UZCS_154.mp3" id="color_p"/>
+			<sound file="UZCS_155.mp3" id="color_P"/>
+			<sound file="UZCS_156.mp3" id="color_o"/>
+			
+		
+			<sound file="UZCS_150.mp3" id="color_re" channel="sfx"/>
+			<sound file="UZCS_151.mp3" id="color_bl" channel="sfx"/>
+			<sound file="UZCS_152.mp3" id="color_gr" channel="sfx"/>
+			<sound file="UZCS_153.mp3" id="color_ye" channel="sfx"/>
+			<sound file="UZCS_154.mp3" id="color_pi" channel="sfx"/>
+			<sound file="UZCS_155.mp3" id="color_pu" channel="sfx"/>
+			<sound file="UZCS_156.mp3" id="color_or" channel="sfx"/>
+			
+			
+			<sound file="UZCS_91.mp3" id="level_right_hit"/>
+			<sound file="UZCS_159.mp3" id="level_right_hit"/>
+			<sound file="UZCS_160.mp3" id="level_right_hit"/>
+			
+			<sound file="UZCS_161.mp3" id="morePuffballs"/>
+			
+			<sound file="UZCS_89d.mp3" id="level_right_miss_first"/>
+			<sound file="UZCS_157.mp3" id="level_right_miss_second"  />
+			<sound file="UZCS_158.mp3" id="level_right_miss_third" repeatChoice="true" highlightChoice="true" />
+			<sound file="UZCS_158.mp3" id="level_right_miss" repeatChoice="true" highlightChoice="true"/>
+
+			
+			<sound file="UZCS_89e.mp3" id="level_right_approach_retry"/>
+			
+			<sound file="UZCS_89c.mp3" id="level_right_miss_completely_first"  />
+			<!--<sound file="UZCS_202.mp3" id="level_right_miss_completely_first"  />-->
+			
+			<sound file="UZCS_158.mp3" id="level_right_miss_completely_second" repeatChoice="true" />
+			
+			<sound file="UZCS_158.mp3" id="level_right_miss_completely_third" repeatChoice="true" />
+			
+			<sound file="UZCS_158.mp3" id="level_right_miss_completely" repeatChoice="true" />
+			
+			
+			
+			<sound file="UZCS_92.mp3" id="ramp_approach_first"/>
+			
+			<sound file="UZCS_94.mp3" id="ramp_trick_success"/>
+			<sound file="UZCS_95.mp3" id="ramp_trick_success"/>
+			<sound file="UZCS_96.mp3" id="ramp_trick_success"/>
+			<sound file="UZCS_97.mp3" id="ramp_trick_success"/>
+			
+			<sound file="UZCS_103.mp3" id="puddle_approach_first"/>
+			<sound file="UZCS_104.mp3" id="puddle_hit"/>
+			
+			<sound file="UZCS_101.mp3" id="banana_approach_first"/>
+			<sound file="UZCS_102.mp3" id="banana_hit"/>
+			<sound file="UZCS_117.mp3" id="banana_hit"/>
+			
+			<sound file="UZCS_98.mp3" id="balloon_approach_first"/>
+			<sound file="UZCS_100.mp3" id="balloon_hit_first"/>
+			
+			<sound file="UZCS_161a.mp3" id="puffball_rolling_hit"/>
+			<sound file="UZCS_161b.mp3" id="puffball_rolling_hit"/>
+			
+			<sound file="UZCS_173.mp3" id="endLevel"/>
+			
+		</level_3>
+		
+	</vo>
+	
+	<sfx channel="sfx">
+			
+		<non_level><!-- or all levels -->
+			
+			<sound file="Silence" volume="0" inLibrary="true" id="silence" />
+			
+			<sound file="balloon" volume="50" inLibrary="true" id="balloon_hit_sfx" />
+			
+			<sound file="Banana1" volume="50" inLibrary="true" id="banana_hit_sfx" />
+			<sound file="Banana2" volume="50" inLibrary="true" id="banana_hit_sfx" />
+			<sound file="Banana3" volume="50" inLibrary="true" id="banana_hit_sfx" />
+		
+			
+
+			<sound file="nPuffBall8.mp3" volume="30" id="puffball_hit_sfx" />
+
+			
+			<sound file="mudPuddle" volume="50" inLibrary="true" id="puddle_hit_sfx" />
+			
+			<sound file="MultiplePuffBalls" volume="50" inLibrary="true" id="puffball_rolling_hit_sfx" />
+			
+			<sound file="MultiplePuffBalls" volume="50" inLibrary="true" id="trick_score_sfx" />
+			
+			<sound file="JumpUpShort" volume="50" inLibrary="true" id="ramp_0_hit_sfx" />
+			<sound file="JumpUpShort" volume="50" inLibrary="true" id="ramp_1_hit_sfx" />
+			<sound file="JumpUpShort" volume="50" inLibrary="true" id="ramp_2_hit_sfx" />
+			<sound file="JumpUpShort" volume="50" inLibrary="true" id="ramp_3_hit_sfx" />
+			<sound file="JumpUpShort" volume="50" inLibrary="true" id="ramp_4_hit_sfx" />
+			
+			
+			<sound file="trick1" id="trick" volume="50" inLibrary="true" />
+			<sound file="trick2" id="trick" volume="50" inLibrary="true" />
+			<sound file="trick3" id="trick" volume="50" inLibrary="true" />
+			<sound file="trick4" id="trick" volume="50" inLibrary="true" />
+			<sound file="trick5" id="trick" volume="50" inLibrary="true" />
+			
+			<sound file="SkatesDown" volume="50" inLibrary="true" />
+			
+			
+			<sound file="level1Gate.mp3" volume="100" id="level1Gate" />
+			<sound file="level2Gate.mp3" volume="100" id="level2Gate" />
+			<sound file="level3Gate.mp3" volume="100" id="level3Gate" />
+			
+			
+			<sound file="bounceOff" volume="50" inLibrary="true" />
+			<sound file="characterJump" volume="50" inLibrary="true" />
+			
+			<sound file="Skid.mp3" volume="50" id="skid" />
+			
+			<sound file="newShape" inLibrary="true" volume="50" id="newShape" />
+			
+			
+		</non_level>
+		<level_1></level_1>
+		<level_2></level_2>
+		<level_3></level_3>
+	</sfx>
+	
+	<music channel="music">
+		<non_level><!-- or all levels -->
+			<sound file="sting" volume="50" inLibrary="true" />
+			<sound file="introLoop" volume="35" inLibrary="true" />
+		</non_level>
+		<level_1>
+			<sound id="level1Music" file="level1and3" volume="50" inLibrary="true" />
+		</level_1>
+		<level_2>
+			<sound id="level2Music" file="level2" volume="40" inLibrary="true" />
+		</level_2>
+		<level_3>
+			<sound id="level3Music" file="level1and3" volume="50" inLibrary="true" />
+		</level_3>
+	</music>
+	
+</data>

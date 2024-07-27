@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<games>
+		<game path="/game/assets/umiz_city/skatingGame/SkatingGame.swf" available="true" id="crazySkates" reportingID="crazySkates"/>
+		<game path="/game/assets/umiz_city/blueMermaid/BlueMermaidLoader.swf" available="true" id="blueMermaid" reportingID="rescueTheBlueMermaid"/>
+		<game path="/game/assets/umiz_city/aquarium/Aquarium_Loader.swf" available="true" id="aquarium" reportingID="aquariumAdventure"/>
+		<game path="/game/assets/umiz_city/firetruckGame/Firetruck_Loader.swf" available="true" id="firetruck" reportingID="firetruckRescue"/>
+		<game path="/game/assets/umiz_city/kingOfNumbers/KingOfNumbersLoader.swf" available="true" id="kingOfNumbers" reportingID="kingOfNumbersGame" />
+		<game path="/game/assets/umiz_city/toyStoreGame/ToyStore_Loader.swf" available="true" id="toyStore" reportingID="umi-toy-store-adventure"/>
+	</games>
+</data>

@@ -1,0 +1,41 @@
+﻿<?xml version="1.0"?>
+<!--config file for Wonderpets Game Picker -->
+<config>
+	<display_name>Wonderpets Build Ship Game</display_name>
+	<version>0.001</version>
+	<quality>HIGH</quality>	<!-- LOW MEDIUM HIGH -->
+	<scale_mode>noScale</scale_mode>  <!-- noScale showAll -->
+	<intro_anim id="PHONE_scene" x="0" y="0" />
+	<allowedInactivityTime>15000</allowedInactivityTime> <!-- milliseconds -->	
+	
+	
+	 <!-- Audio settings -->
+	<audio>
+		<!-- audioChannels, dynamic movieclips that sound objects attached to -->
+		<!-- flash8 can support up to 32 simultaneous audio channels -->
+		<audioChannels>
+			<audioChannel id="VO"/>
+			<audioChannel id="SFX"/>
+			<audioChannel id="BG_MUSIC"/>
+			<audioChannel id="MISC"/>
+			<audioChannel id="MISC2"/>
+		</audioChannels>
+		<audioItems>
+			<audioItem id="wpL_04.aif" loc="embedded" type="vo" channelID="VO" handle="audioVoOutro01ID" callback="audioVoOutro02ID" offset="0" loops="0" duration="100%"/>
+			<audioItem id="wpL_05.aif" loc="embedded" type="vo" channelID="VO" handle="audioVoOutro02ID" callback="onCompleteVoOutro02ID" offset="0" loops="0" duration="100%"/>
+			<audioItem id="L_animalscreen_s01alt.aif" loc="embedded" type="vo" channelID="VO" handle="audioInstructionVoID" callback="onCompleteVoOutro02ID" offset="0" loops="0" duration="100%"/>
+			<audioItem id="pickone_musicloop_01.aif" loc="embedded" type="bg_music"  channelID="BG_MUSIC" handle="audioBackgroundMusicID" callback="null" offset="0" loops="500" duration="100%"/>
+			<audioItem id="vo_clicktopick_01.aif" loc="embedded" type="bg_music"  channelID="MISC" handle="audioVoInactivityPrompt" callback="null" offset="0" loops="500" duration="100%"/>
+			<audioItem id="wpL_clickthearrow.aif" loc="embedded" type="bg_music"  channelID="MISC" handle="audioVoInactivityPromptClick" callback="null" offset="0" loops="500" duration="100%"/>
+			<audioItem id="select_04.aif" loc="embedded" type="sfx"  channelID="SFX" handle="audioSfxOnButtonClick" callback="null" offset="0" loops="0" duration="100%"/>
+			<audioItem id="Place_01.aif" loc="embedded" type="sfx"  channelID="SFX" handle="audioSfxOnButtonSelection" callback="null" offset="0" loops="0" duration="100%"/>
+		</audioItems>
+	</audio>
+	
+<end_game_items>
+	<end_game_item id="SaveDolphinGame" iconID="dolphin_button_mc" x="177.3" y="146.6" scale="40" soundID="L_boatflys_s03.aif"  gameID="scenes/wonderpets_save_dolphin_game.swf" printableID="scenes/wonderpets_dolphin_printable_trans.swf"/>
+	<end_game_item id="SavePenguinGame"  iconID="penguin_button_mc"  x="240" y="34" scale="40" soundID="L_boatflys_s02.aif" gameID="scenes/wonderpets_save_penguin_game.swf" printableID="scenes/wonderpets_penguin_printable_trans.swf"/>
+	<end_game_item id="SavePigeonGame" iconID="pigeon_button_mc"  x="310" y="143" scale="40" soundID="L_boatflys_s04.aif" gameID="scenes/wonderpets_save_pigeon_game.swf" printableID="scenes/wonderpets_pigeon_printable_trans.swf"/>
+</end_game_items>
+
+</config>

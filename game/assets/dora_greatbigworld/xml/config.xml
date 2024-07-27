@@ -1,0 +1,267 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Settings>
+	
+	<SwfsToLoad>
+		
+		<SwfToLoad id="intro" path="intro.swf" target="none" />
+		
+		<SwfToLoad id="news" path="monthlyUpdate_full.swf" />
+		
+		<SwfToLoad id="nickProxy" path="ProxyModule.swf" target="none" />
+		
+		<SwfToLoad id="fontLibrary" path="font/fontEnglish.swf" target="none" />
+		
+		
+		
+		<!--
+		<SwfToLoad id="fontLibrary" path="font/fontKorean.swf" target="none" />
+		<SwfToLoad id="fontLibrary" path="font/fontPolish.swf" target="none" />
+		<SwfToLoad id="fontLibrary" path="font/fontArabic.swf" target="none" />
+		<SwfToLoad id="fontLibrary" path="font/fontHebrew.swf" target="none" />
+		<SwfToLoad id="fontLibrary" path="font/fontRussian.swf" target="none" />
+		<SwfToLoad id="fontLibrary" path="font/fontChinese.swf" target="none" />
+		-->
+		
+		<SwfToLoad id="music" path="music_rainforest.swf" target="none" />
+	</SwfsToLoad>
+
+	<StickerStages>
+		<StickerStage id="rainforest" path="stickerRainforest.swf" settingsXML="xml/rainforest.xml" localizationPath ="xml/translation.xml" playgroundName="rainforest"  />
+		<StickerStage id="garden" path="stickerIsa.swf" settingsXML="xml/garden.xml" localizationPath ="xml/translation.xml" playgroundName="garden"  />
+		<StickerStage id="crystal" path="stickerCrystal.swf" settingsXML="xml/crystal.xml" localizationPath ="xml/translation.xml" playgroundName="crystal"  />
+		<StickerStage id="mermaid" path="stickerMermaid.swf" settingsXML="xml/mermaid.xml" localizationPath ="xml/translation.xml" playgroundName="mermaid"  />
+		<StickerStage id="star" path="stickerStarMountain.swf" settingsXML="xml/starmountain.xml" localizationPath ="xml/translation.xml" playgroundName="star"  />
+		<StickerStage id="wizzle" path="stickerDoraBirthday.swf" settingsXML="xml/dorabirthday.xml" localizationPath ="xml/translation.xml" playgroundName="wizzle"  />
+		<StickerStage id="school" path="stickerDoraSchool.swf" settingsXML="xml/doraschool.xml" localizationPath ="xml/translation.xml" playgroundName="school"  />
+		<StickerStage id="purple" path="stickerPurplePlanet.swf" settingsXML="xml/purpleplanet.xml" localizationPath ="xml/translation.xml" playgroundName="purple"  />
+		<StickerStage id="fairytale" path="stickerFairytaleLand.swf" settingsXML="xml/fairytale.xml" localizationPath ="xml/translation.xml" playgroundName="fairytale"  />
+		<StickerStage id="snowforest" path="stickerWinteryForest.swf" settingsXML="xml/winteryforest.xml" localizationPath ="xml/translation.xml" playgroundName="snowforest"  />
+	</StickerStages>
+		
+	<SwfsToLoadInBG>
+		
+	</SwfsToLoadInBG>
+	
+	<SoundsToLoad dir="mp3/">		
+		
+		<!-- rollover vo -->
+		<sound path="DW_17.mp3"  list="skip_btn" />
+		
+		<!-- sticker scene rollover vo -->
+		
+		<sound path="DW_82.mp3"  list="roll_mappy_btn" />
+		<sound path="DW_83.mp3"  list="roll_print_btn" />
+		<sound path="DW_84.mp3"  list="roll_help_btn" />
+		<sound path="DW_84b.mp3"  list="roll_clearAll_btn" />
+		<sound path="DW_95.mp3"  list="roll_closebutton" />
+		<sound path="DW_142.mp3"  list="roll_rainforest_closebutton" />
+		<sound path="DW_143.mp3"  list="roll_garden_closebutton" />
+		<sound path="DW_144.mp3"  list="roll_crystal_closebutton" />
+		<sound path="DW_145.mp3"  list="roll_mermaid_closebutton" />
+		<sound path="DW_146.mp3"  list="roll_star_closebutton" />
+		<sound path="DW_147.mp3"  list="roll_wizzle_closebutton" />
+		<sound path="DW_148.mp3"  list="roll_school_closebutton" />
+		<sound path="DW_149.mp3"  list="roll_purple_closebutton" />
+		<sound path="DW_150.mp3"  list="roll_fairytale_closebutton" />
+		<sound path="DW_151.mp3"  list="roll_snowforest_closebutton" />
+		<sound path="DW_85.mp3"  list="roll_objects_tab" />
+		<sound path="DW_86.mp3"  list="roll_characters_tab" />
+		<sound path="DW_87.mp3"  list="roll_scale" />
+		<sound path="DW_88.mp3"  list="roll_animate" />
+		<sound path="DW_89.mp3"  list="roll_binoculars_mc" />
+		<sound path="DW_90.mp3"  list="roll_magnifying_mc" />
+		<sound path="DW_91c.mp3"  list="roll_flashlight_mc" />
+		<sound path="DW_91d.mp3"  list="roll_shovel_mc" />
+		<sound path="DW_91e.mp3"  list="roll_watercan_mc" />		
+		<sound path="DW_92.mp3"  list="roll_minigame_mc" />
+		<sound path="DW_91h.mp3"  list="roll_underwaterflashlight_mc" />
+		<sound path="DW_91g.mp3"  list="roll_necklace_mc" />
+		
+		<sound path="DW_23.mp3"  list="roll_loginRegister_btn" />
+		<sound path="DW_24.mp3"  list="roll_freeplay_btn" />
+		<sound path="DW_24a.mp3"  list="roll_adduser_mc" />
+		<sound path="DW_104.mp3"  list="roll_yes_mc" />
+		<sound path="DW_105.mp3"  list="roll_no_mc" />
+		<sound path="DW_3.mp3"  list="roll_startButton_mc" />
+		
+		<sound path="DW_35.mp3"  list="roll_rainforest_btn"  meta="map_rainforest" />
+		<sound path="DW_36.mp3"  list="roll_garden_btn"  meta="map_isas_garden" />
+		<sound path="DW_37.mp3"  list="roll_crystal_btn"  meta="map_crystal_kingdom" />
+		<sound path="DW_38.mp3"  list="roll_mermaid_btn"  meta="map_mermaid_kingdom" />
+		<sound path="DW_39.mp3"  list="roll_star_btn"  meta="map_star_mountain" />
+		<sound path="sg_1.mp3"  list="roll_wizzle_btn"  meta="map_wizzle_world" />
+		<sound path="DW_42.mp3"  list="roll_school_btn"  meta="map_doras_school" />
+		<sound path="DW_43.mp3"  list="roll_purple_btn"  meta="map_purple_planet" />
+		<sound path="DW_44.mp3"  list="roll_fairytale_btn"  meta="map_fairytale_land" />
+		<sound path="DW_45.mp3"  list="roll_snowforest_btn"  meta="map_snowy_forest" />
+		
+		<!-- clicking an unavailable destination -->
+		<sound path="DW_34b.mp3"  list="click_noGo_btn" meta="click_noGo_btn" />
+		
+	
+		
+		
+		<sound path="DW_1.mp3"  list="DoraWorld_Title_Sentence_0"  meta="" />
+		<sound path="DW_2.mp3"  list="DoraWorld_Title_Sentence_0"  meta="throb_play_btn" />
+		<sound path="DW_2.mp3"  list="DoraWorld_TitleDelay_Sentence_0"  meta="throb_play_btn" />
+		
+		
+		
+		
+		<!-- loggedin dialogue -->
+		<sound path="DW_18.mp3"  list="DoraWorld_Loggedin_Sentence_0"  meta="clickName" />
+		<sound path="DW_19.mp3"  list="DoraWorld_Loggedin_Sentence_0"  meta="clickAdd" />
+		
+		<!-- not loggedin dialogue -->
+		<sound path="DW_20.mp3"  list="DoraWorld_NotLoggedin_Sentence_0"  meta="" />
+		<sound path="DW_21.mp3"  list="DoraWorld_NotLoggedin_Sentence_1"  meta="clickLogin" />
+		<sound path="DW_22.mp3"  list="DoraWorld_NotLoggedin_Sentence_1"  meta="clickFreeplay" />
+		
+		<!-- map screen dialoge -->
+		<!--
+		<sound path="DW_30.mp3"  list="DoraWorld_MapScreen_Sentence_0"  meta="map_help_1" />
+		-->
+		<sound path="DW_32a.mp3"  list="DoraWorld_MapScreen_Sentence_0"  meta="map_intro_2" />
+		
+		<!-- map screen delay -->
+		<!--
+		<sound path="DW_34.mp3"  list="DoraWorld_MapDelay_Sentence_0"  meta="map_intro_1" />
+		-->
+		<sound path="DW_34a.mp3"  list="DoraWorld_MapDelay_Sentence_0"  meta="map_intro_2" />
+		
+		
+		<!-- sticker tutorial dialogue -->
+		<sound path="DW_46a.mp3"  list="DoraSticker_Tut_Sentence_0"  meta="tut_stickers" />
+		<sound path="DW_46d.mp3"  list="DoraSticker_Tut_Sentence_0"  meta="" />
+		<sound path="DW_46e.mp3"  list="DoraSticker_Tut_Sentence_0"  meta="" />
+		<sound path="DW_50a.mp3"  list="DoraSticker_Tut_Sentence_1"  meta="tut_arrows" />
+		<sound path="DW_50b.mp3"  list="DoraSticker_Tut_Sentence_1"  meta="" />
+		<sound path="DW_51.mp3"  list="DoraSticker_Tut_Sentence_2"  meta="" />
+		<sound path="DW_52.mp3"  list="DoraSticker_Tut_Sentence_3"  meta="tut_get_sticker" />
+		<sound path="DW_53.mp3"  list="DoraSticker_Tut_Sentence_4"  meta="tut_put_sticker" />
+		<sound path="DW_54.mp3"  list="DoraSticker_Tut_Sentence_5"  meta="tut_magico" />
+		<sound path="DW_55a.mp3"  list="DoraSticker_Tut_Sentence_6"  meta="tut_scale_sticker" />
+		<sound path="DW_56.mp3"  list="DoraSticker_Tut_Sentence_7"  meta="tut_get_moviestar" />
+		<sound path="DW_57a.mp3"  list="DoraSticker_Tut_Sentence_7"  meta="" />
+		<sound path="DW_58.mp3"  list="DoraSticker_Tut_Sentence_8"  meta="" />
+		<sound path="DW_59c.mp3"  list="DoraSticker_Tut_Sentence_9"  meta="tut_tools" />
+		<sound path="DW_60c.mp3"  list="DoraSticker_Tut_Sentence_9"  meta="tut_pick_up_binoculars" />
+		<sound path="DW_62c.mp3"  list="DoraSticker_Tut_Sentence_10"  meta="" />
+		<sound path="DW_64.mp3"  list="DoraSticker_Tut_Sentence_11"  meta="tut_minigame" />
+		<sound path="DW_66.mp3"  list="DoraSticker_Tut_Sentence_12"  meta="tut_print" />
+		<sound path="DW_67.mp3"  list="DoraSticker_Tut_Sentence_13"  meta="tut_map" />
+		<sound path="DW_67a.mp3"  list="DoraSticker_Tut_Sentence_14"  meta="tut_eraser" />
+		
+		<!-- sticker help vo -->
+		<sound path="DW_70.mp3"  list="DoraSticker_Help_Sentence_0"  meta="hel_stickers" />
+		<sound path="DW_71.mp3"  list="DoraSticker_Help_Sentence_0"  meta="hel_getSticker" />
+		<sound path="DW_72.mp3"  list="DoraSticker_Help_Sentence_0"  meta="hel_object_tab" />
+		<sound path="DW_73.mp3"  list="DoraSticker_Help_Sentence_0"  meta="hel_character_tab" />
+		<sound path="DW_74.mp3"  list="DoraSticker_Help_Sentence_0"  meta="hel_arrows" />
+		<sound path="DW_75.mp3"  list="DoraSticker_Help_Sentence_0"  meta="hel_magico" />
+		<sound path="DW_75a.mp3"  list="DoraSticker_Help_Sentence_0"  meta="" />
+		<sound path="DW_76.mp3"  list="DoraSticker_Help_Sentence_0"  meta="hel_moviestar" />
+		<sound path="DW_76a.mp3"  list="DoraSticker_Help_Sentence_0"  meta="" />
+		<sound path="DW_77a.mp3"  list="DoraSticker_Help_Sentence_1"  meta="hel_exploretools" />
+		<sound path="DW_78c.mp3"  list="DoraSticker_Help_Sentence_2"  meta="hel_animate_tool" />
+		<sound path="DW_79.mp3"  list="DoraSticker_Help_Sentence_3"  meta="hel_minigame" />
+		<sound path="DW_80.mp3"  list="DoraSticker_Help_Sentence_4"  meta="hel_print" />
+		<sound path="DW_80a.mp3"  list="DoraSticker_Help_Sentence_4"  meta="" />
+		<sound path="DW_81.mp3"  list="DoraSticker_Help_Sentence_4"  meta="hel_map" />
+		
+		
+		<!-- map help -->
+		<!--
+		<sound path="DW_34.mp3"  list="DoraWorld_MapHelp_Sentence_0"  meta="map_intro_1" />
+		<sound path="DW_30.mp3"  list="DoraWorld_MapHelp_Sentence_0"  meta="map_help_1" />
+		-->
+		<sound path="DW_32a.mp3"  list="DoraWorld_MapHelp_Sentence_0"  meta="map_help_2" />
+		
+		
+		
+		<!-- sticker delay prompt -->
+		<sound path="DW_68.mp3"  list="DoraSticker_Delay_Sentence_0"  meta="dly_help" />
+		<sound path="DW_69.mp3"  list="DoraSticker_Delay_Sentence_0"  meta="" />
+		<sound path="DW_69a.mp3"  list="DoraSticker_Delay_Sentence_0"  meta="" />
+		
+		<!-- erase everything -->
+		<sound path="DW_103.mp3"  list="DoraSticker_ConfirmClear_Sentence_0"  meta="" />
+		
+		<!-- print menu -->
+		<sound path="DW_93.mp3"  list="DoraSticker_PrintMenu_Sentence_0"  meta="print_color" />
+		<sound path="DW_94.mp3"  list="DoraSticker_PrintMenu_Sentence_0"  meta="print_bw" />
+		
+		
+		<!-- first tool gotten & dora onscreen -->
+		<sound path="DW_129b.mp3"  list="dora_toolpickup_flashlight" />
+		<sound path="DW_127b.mp3"  list="dora_toolpickup_binoculars" />
+		<sound path="DW_128b.mp3"  list="dora_toolpickup_magnifying" />
+		<sound path="DW_130.mp3"  list="dora_toolpickup_shovel" />
+		<sound path="DW_131.mp3"  list="dora_toolpickup_watercan" />
+		
+		<!-- dora not onscreen -->
+		<sound path="DW_126a.mp3"  list="noDora_toolpickup_flashlight" />
+		<sound path="DW_126b.mp3"  list="noDora_toolpickup_binoculars" />
+		<sound path="DW_126c.mp3"  list="noDora_toolpickup_magnifying" />
+		<sound path="DW_126d.mp3"  list="noDora_toolpickup_shovel" />
+		<sound path="DW_126e.mp3"  list="noDora_toolpickup_watercan" />
+		
+		
+		
+		
+		
+		
+		<!-- sticker reward vo -->
+		
+		<sound path="DoraChorusChunkNew.mp3"  list="sticker_dora1garden"  meta="sticker" />
+		<sound path="DW_96.mp3"  list="Reward_0"  meta="" />
+		<sound path="DW_97.mp3"  list="Reward_1"  meta="" />
+		<sound path="DW_98.mp3"  list="Reward_2"  meta="" />
+		<sound path="DW_99.mp3"  list="Reward_3"  meta="" />
+		<sound path="DW_100.mp3"  list="Reward_4"  meta="" />
+		<sound path="DW_101.mp3"  list="Reward_5"  meta="" />
+		<sound path="DW_102.mp3"  list="Reward_6"  meta="" />
+		
+	</SoundsToLoad>	
+	
+	<Configs>
+		<!-- values
+			"true"  - any other value - app will show login/select.
+			any other value- app will skip the entire login/select sequence and go straigt to map.			
+		-->
+		<Config name="requireLogin" value="true" />
+		
+		
+		<!-- the flash proxy xml config location -->		
+		<Config name="nickProxyPropsURL" value="xml/props.xml" />
+				
+		
+		<!-- enable links in map screen here. 
+			"true"  - the map link will light up.
+			Any other value- the map link will remain inactive.
+		-->
+		<Config name="rainforest" value="true" />
+		<Config name="garden" value="true" />
+		<Config name="crystal" value="true" />
+		<Config name="mermaid" value="true" />
+		<Config name="star" value="true" />
+		<Config name="wizzle" value="true" />
+		<Config name="school" value="true" />
+	  <Config name="purple" value="true" />
+		<Config name="fairytale" value="true" />
+		<Config name="snowforest" value="true" />
+		
+		
+		<!-- enable debug messages 
+			"true" - to enable messages.
+			Any other value to disable messages.
+		-->
+		<Config name="debugThrows" value="false" />
+		
+		
+		
+		<!--
+		<Config name="unexpectedTools" value="shovel_mc,watercan_mc,crystals_mc,necklace_mc,underwaterflashlight_mc,wand_mc" />
+		-->
+	</Configs>
+</Settings>

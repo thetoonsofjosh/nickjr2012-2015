@@ -1,0 +1,521 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<NapeLayout Scale="4" Width="4608" Height="768">
+  <Chains>
+    <Chain>
+      <Verts>
+        <Vert X="0" Y="224">
+        </Vert>
+        <Vert X="4335" Y="224">
+        </Vert>
+        <Vert X="4335" Y="415">
+        </Vert>
+        <Vert X="3344" Y="415">
+        </Vert>
+        <Vert X="3343" Y="351">
+        </Vert>
+        <Vert X="2992" Y="351">
+        </Vert>
+        <Vert X="2991" Y="319">
+        </Vert>
+        <Vert X="2880" Y="319">
+        </Vert>
+        <Vert X="2879" Y="255">
+        </Vert>
+        <Vert X="2208" Y="255">
+        </Vert>
+        <Vert X="2207" Y="351">
+        </Vert>
+        <Vert X="1376" Y="351">
+        </Vert>
+        <Vert X="1375" Y="415">
+        </Vert>
+        <Vert X="32" Y="415">
+        </Vert>
+        <Vert X="31" Y="751">
+        </Vert>
+        <Vert X="255" Y="752">
+        </Vert>
+        <Vert X="318" Y="720">
+        </Vert>
+        <Vert X="415" Y="720">
+        </Vert>
+        <Vert X="416" Y="752">
+        </Vert>
+        <Vert X="863" Y="752">
+        </Vert>
+        <Vert X="926" Y="720">
+        </Vert>
+        <Vert X="1219" Y="720">
+        </Vert>
+        <Vert X="1282" Y="688">
+        </Vert>
+        <Vert X="1375" Y="688">
+        </Vert>
+        <Vert X="1376" Y="656">
+        </Vert>
+        <Vert X="1759" Y="656">
+        </Vert>
+        <Vert X="1760" Y="624">
+        </Vert>
+        <Vert X="1823" Y="624">
+        </Vert>
+        <Vert X="1824" Y="592">
+        </Vert>
+        <Vert X="2271" Y="592">
+        </Vert>
+        <Vert X="2272" Y="752">
+        </Vert>
+        <Vert X="2559" Y="752">
+        </Vert>
+        <Vert X="2560" Y="384">
+        </Vert>
+        <Vert X="2623" Y="384">
+        </Vert>
+        <Vert X="2624" Y="608">
+        </Vert>
+        <Vert X="2879" Y="608">
+        </Vert>
+        <Vert X="2880" Y="576">
+        </Vert>
+        <Vert X="3233" Y="576">
+        </Vert>
+        <Vert X="3296" Y="608">
+        </Vert>
+        <Vert X="3617" Y="608">
+        </Vert>
+        <Vert X="3776" Y="688">
+        </Vert>
+        <Vert X="3937" Y="688">
+        </Vert>
+        <Vert X="4064" Y="752">
+        </Vert>
+        <Vert X="4351" Y="752">
+        </Vert>
+        <Vert X="4352" Y="0">
+        </Vert>
+        <Vert X="4383" Y="0">
+        </Vert>
+        <Vert X="4383" Y="767">
+        </Vert>
+        <Vert X="0" Y="767">
+        </Vert>
+        <Vert X="0" Y="225">
+        </Vert>
+      </Verts>
+    </Chain>
+  </Chains>
+  <Platforms>
+    <Platform PassThrough="true" Cleanable="false">
+      <Verts>
+        <Vert X="448" Y="672">
+        </Vert>
+        <Vert X="543" Y="672">
+        </Vert>
+        <Vert X="543" Y="687">
+        </Vert>
+        <Vert X="448" Y="687">
+        </Vert>
+      </Verts>
+    </Platform>
+    <Platform PassThrough="true" Cleanable="false">
+      <Verts>
+        <Vert X="544" Y="624">
+        </Vert>
+        <Vert X="767" Y="624">
+        </Vert>
+        <Vert X="767" Y="639">
+        </Vert>
+        <Vert X="544" Y="639">
+        </Vert>
+      </Verts>
+    </Platform>
+    <Platform PassThrough="true" Cleanable="false">
+      <Verts>
+        <Vert X="768" Y="672">
+        </Vert>
+        <Vert X="863" Y="672">
+        </Vert>
+        <Vert X="863" Y="687">
+        </Vert>
+        <Vert X="768" Y="687">
+        </Vert>
+      </Verts>
+    </Platform>
+    <Platform PassThrough="true" Cleanable="false">
+      <Verts>
+        <Vert X="2368" Y="384">
+        </Vert>
+        <Vert X="2559" Y="384">
+        </Vert>
+        <Vert X="2559" Y="399">
+        </Vert>
+        <Vert X="2368" Y="399">
+        </Vert>
+      </Verts>
+    </Platform>
+    <Platform PassThrough="true" Cleanable="false">
+      <Verts>
+        <Vert X="2368" Y="464">
+        </Vert>
+        <Vert X="2559" Y="464">
+        </Vert>
+        <Vert X="2559" Y="479">
+        </Vert>
+        <Vert X="2368" Y="479">
+        </Vert>
+      </Verts>
+    </Platform>
+    <Platform PassThrough="true" Cleanable="false">
+      <Verts>
+        <Vert X="2368" Y="544">
+        </Vert>
+        <Vert X="2559" Y="544">
+        </Vert>
+        <Vert X="2559" Y="559">
+        </Vert>
+        <Vert X="2368" Y="559">
+        </Vert>
+      </Verts>
+    </Platform>
+    <Platform PassThrough="true" Cleanable="false">
+      <Verts>
+        <Vert X="2624" Y="384">
+        </Vert>
+        <Vert X="2687" Y="384">
+        </Vert>
+        <Vert X="2687" Y="399">
+        </Vert>
+        <Vert X="2624" Y="399">
+        </Vert>
+      </Verts>
+    </Platform>
+    <Platform PassThrough="true" Cleanable="false">
+      <Verts>
+        <Vert X="2624" Y="480">
+        </Vert>
+        <Vert X="2687" Y="480">
+        </Vert>
+        <Vert X="2687" Y="495">
+        </Vert>
+        <Vert X="2624" Y="495">
+        </Vert>
+      </Verts>
+    </Platform>
+    <Platform PassThrough="true" Cleanable="false">
+      <Verts>
+        <Vert X="2624" Y="560">
+        </Vert>
+        <Vert X="2687" Y="560">
+        </Vert>
+        <Vert X="2687" Y="575">
+        </Vert>
+        <Vert X="2624" Y="575">
+        </Vert>
+      </Verts>
+    </Platform>
+  </Platforms>
+  <Placements>
+    <Placement X="103" Y="727" PlacementType="StartPoint">
+    </Placement>
+    <Placement X="4327" Y="735" PlacementType="EndPoint">
+    </Placement>
+    <Placement X="367" Y="711" PlacementType="Tissue">
+    </Placement>
+    <Placement X="479" Y="743" PlacementType="Tissue">
+    </Placement>
+    <Placement X="511" Y="743" PlacementType="Tissue">
+    </Placement>
+    <Placement X="583" Y="583" PlacementType="Tissue">
+    </Placement>
+    <Placement X="591" Y="615" PlacementType="Tissue">
+    </Placement>
+    <Placement X="623" Y="559" PlacementType="Tissue">
+    </Placement>
+    <Placement X="639" Y="615" PlacementType="Tissue">
+    </Placement>
+    <Placement X="639" Y="743" PlacementType="Tissue">
+    </Placement>
+    <Placement X="655" Y="535" PlacementType="Tissue">
+    </Placement>
+    <Placement X="671" Y="615" PlacementType="Tissue">
+    </Placement>
+    <Placement X="671" Y="743" PlacementType="Tissue">
+    </Placement>
+    <Placement X="679" Y="559" PlacementType="Tissue">
+    </Placement>
+    <Placement X="719" Y="615" PlacementType="Tissue">
+    </Placement>
+    <Placement X="727" Y="583" PlacementType="Tissue">
+    </Placement>
+    <Placement X="799" Y="743" PlacementType="Tissue">
+    </Placement>
+    <Placement X="831" Y="743" PlacementType="Tissue">
+    </Placement>
+    <Placement X="1007" Y="647" PlacementType="Tissue">
+    </Placement>
+    <Placement X="1039" Y="631" PlacementType="Tissue">
+    </Placement>
+    <Placement X="1063" Y="647" PlacementType="Tissue">
+    </Placement>
+    <Placement X="1143" Y="663" PlacementType="Tissue">
+    </Placement>
+    <Placement X="1239" Y="679" PlacementType="Tissue">
+    </Placement>
+    <Placement X="1311" Y="615" PlacementType="Tissue">
+    </Placement>
+    <Placement X="1311" Y="679" PlacementType="Tissue">
+    </Placement>
+    <Placement X="1343" Y="615" PlacementType="Tissue">
+    </Placement>
+    <Placement X="1343" Y="679" PlacementType="Tissue">
+    </Placement>
+    <Placement X="1431" Y="647" PlacementType="Tissue">
+    </Placement>
+    <Placement X="1455" Y="615" PlacementType="Tissue">
+    </Placement>
+    <Placement X="1479" Y="647" PlacementType="Tissue">
+    </Placement>
+    <Placement X="1495" Y="591" PlacementType="Tissue">
+    </Placement>
+    <Placement X="1527" Y="567" PlacementType="Tissue">
+    </Placement>
+    <Placement X="1551" Y="591" PlacementType="Tissue">
+    </Placement>
+    <Placement X="1575" Y="647" PlacementType="Tissue">
+    </Placement>
+    <Placement X="1599" Y="615" PlacementType="Tissue">
+    </Placement>
+    <Placement X="1623" Y="647" PlacementType="Tissue">
+    </Placement>
+    <Placement X="1655" Y="647" PlacementType="Tissue">
+    </Placement>
+    <Placement X="1663" Y="599" PlacementType="Tissue">
+    </Placement>
+    <Placement X="1839" Y="583" PlacementType="Tissue">
+    </Placement>
+    <Placement X="1855" Y="487" PlacementType="Tissue">
+    </Placement>
+    <Placement X="1855" Y="519" PlacementType="Tissue">
+    </Placement>
+    <Placement X="1855" Y="551" PlacementType="Tissue">
+    </Placement>
+    <Placement X="1871" Y="583" PlacementType="Tissue">
+    </Placement>
+    <Placement X="1927" Y="471" PlacementType="Tissue">
+    </Placement>
+    <Placement X="1999" Y="487" PlacementType="Tissue">
+    </Placement>
+    <Placement X="1999" Y="519" PlacementType="Tissue">
+    </Placement>
+    <Placement X="1999" Y="551" PlacementType="Tissue">
+    </Placement>
+    <Placement X="2159" Y="583" PlacementType="Tissue">
+    </Placement>
+    <Placement X="2191" Y="487" PlacementType="Tissue">
+    </Placement>
+    <Placement X="2191" Y="519" PlacementType="Tissue">
+    </Placement>
+    <Placement X="2191" Y="551" PlacementType="Tissue">
+    </Placement>
+    <Placement X="2207" Y="583" PlacementType="Tissue">
+    </Placement>
+    <Placement X="2255" Y="535" PlacementType="Tissue">
+    </Placement>
+    <Placement X="2295" Y="743" PlacementType="Tissue">
+    </Placement>
+    <Placement X="2319" Y="503" PlacementType="Tissue">
+    </Placement>
+    <Placement X="2327" Y="743" PlacementType="Tissue">
+    </Placement>
+    <Placement X="2391" Y="743" PlacementType="Tissue">
+    </Placement>
+    <Placement X="2415" Y="375" PlacementType="Tissue">
+    </Placement>
+    <Placement X="2415" Y="455" PlacementType="Tissue">
+    </Placement>
+    <Placement X="2415" Y="535" PlacementType="Tissue">
+    </Placement>
+    <Placement X="2423" Y="743" PlacementType="Tissue">
+    </Placement>
+    <Placement X="2431" Y="615" PlacementType="Tissue">
+    </Placement>
+    <Placement X="2431" Y="647" PlacementType="Tissue">
+    </Placement>
+    <Placement X="2463" Y="599" PlacementType="Tissue">
+    </Placement>
+    <Placement X="2463" Y="631" PlacementType="Tissue">
+    </Placement>
+    <Placement X="2463" Y="663" PlacementType="Tissue">
+    </Placement>
+    <Placement X="2495" Y="615" PlacementType="Tissue">
+    </Placement>
+    <Placement X="2495" Y="647" PlacementType="Tissue">
+    </Placement>
+    <Placement X="2511" Y="375" PlacementType="Tissue">
+    </Placement>
+    <Placement X="2511" Y="455" PlacementType="Tissue">
+    </Placement>
+    <Placement X="2511" Y="535" PlacementType="Tissue">
+    </Placement>
+    <Placement X="2639" Y="599" PlacementType="Tissue">
+    </Placement>
+    <Placement X="2671" Y="599" PlacementType="Tissue">
+    </Placement>
+    <Placement X="3055" Y="503" PlacementType="Tissue">
+    </Placement>
+    <Placement X="3055" Y="567" PlacementType="Tissue">
+    </Placement>
+    <Placement X="3079" Y="535" PlacementType="Tissue">
+    </Placement>
+    <Placement X="3103" Y="503" PlacementType="Tissue">
+    </Placement>
+    <Placement X="3103" Y="567" PlacementType="Tissue">
+    </Placement>
+    <Placement X="3319" Y="599" PlacementType="Tissue">
+    </Placement>
+    <Placement X="3351" Y="599" PlacementType="Tissue">
+    </Placement>
+    <Placement X="3767" Y="599" PlacementType="Tissue">
+    </Placement>
+    <Placement X="3791" Y="567" PlacementType="Tissue">
+    </Placement>
+    <Placement X="3807" Y="679" PlacementType="Tissue">
+    </Placement>
+    <Placement X="3815" Y="599" PlacementType="Tissue">
+    </Placement>
+    <Placement X="3831" Y="543" PlacementType="Tissue">
+    </Placement>
+    <Placement X="3863" Y="519" PlacementType="Tissue">
+    </Placement>
+    <Placement X="3887" Y="543" PlacementType="Tissue">
+    </Placement>
+    <Placement X="3911" Y="599" PlacementType="Tissue">
+    </Placement>
+    <Placement X="3935" Y="567" PlacementType="Tissue">
+    </Placement>
+    <Placement X="3959" Y="599" PlacementType="Tissue">
+    </Placement>
+    <Placement X="4103" Y="655" PlacementType="Tissue">
+    </Placement>
+    <Placement X="4122" Y="551" PlacementType="Tissue">
+    </Placement>
+    <Placement X="4127" Y="623" PlacementType="Tissue">
+    </Placement>
+    <Placement X="4151" Y="655" PlacementType="Tissue">
+    </Placement>
+    <Placement X="4154" Y="551" PlacementType="Tissue">
+    </Placement>
+    <Placement X="4167" Y="599" PlacementType="Tissue">
+    </Placement>
+    <Placement X="4186" Y="551" PlacementType="Tissue">
+    </Placement>
+    <Placement X="4199" Y="575" PlacementType="Tissue">
+    </Placement>
+    <Placement X="4218" Y="551" PlacementType="Tissue">
+    </Placement>
+    <Placement X="4223" Y="599" PlacementType="Tissue">
+    </Placement>
+    <Placement X="4247" Y="655" PlacementType="Tissue">
+    </Placement>
+    <Placement X="4250" Y="551" PlacementType="Tissue">
+    </Placement>
+    <Placement X="4271" Y="623" PlacementType="Tissue">
+    </Placement>
+    <Placement X="4282" Y="551" PlacementType="Tissue">
+    </Placement>
+    <Placement X="4295" Y="655" PlacementType="Tissue">
+    </Placement>
+    <Placement X="599" Y="719" PlacementType="Enemy">
+    </Placement>
+    <Placement X="711" Y="719" PlacementType="Enemy">
+    </Placement>
+    <Placement X="983" Y="687" PlacementType="Enemy">
+    </Placement>
+    <Placement X="1031" Y="687" PlacementType="Enemy">
+    </Placement>
+    <Placement X="1079" Y="687" PlacementType="Enemy">
+    </Placement>
+    <Placement X="1919" Y="559" PlacementType="Enemy">
+    </Placement>
+    <Placement X="2583" Y="351" PlacementType="Enemy">
+    </Placement>
+    <Placement X="2711" Y="575" PlacementType="Enemy">
+    </Placement>
+    <Placement X="2975" Y="543" PlacementType="Enemy">
+    </Placement>
+    <Placement X="3559" Y="575" PlacementType="Enemy">
+    </Placement>
+    <Placement X="3855" Y="655" PlacementType="Enemy">
+    </Placement>
+    <Placement X="4175" Y="719" PlacementType="Enemy">
+    </Placement>
+    <Placement X="4263" Y="719" PlacementType="Enemy">
+    </Placement>
+    <Placement X="1327" Y="647" PlacementType="DoubleTissue">
+    </Placement>
+    <Placement X="1527" Y="647" PlacementType="DoubleTissue">
+    </Placement>
+    <Placement X="2359" Y="743" PlacementType="DoubleTissue">
+    </Placement>
+    <Placement X="2463" Y="375" PlacementType="DoubleTissue">
+    </Placement>
+    <Placement X="2463" Y="455" PlacementType="DoubleTissue">
+    </Placement>
+    <Placement X="2463" Y="535" PlacementType="DoubleTissue">
+    </Placement>
+    <Placement X="3079" Y="423" PlacementType="DoubleTissue">
+    </Placement>
+    <Placement X="3079" Y="471" PlacementType="DoubleTissue">
+    </Placement>
+    <Placement X="3335" Y="567" PlacementType="DoubleTissue">
+    </Placement>
+    <Placement X="3863" Y="599" PlacementType="DoubleTissue">
+    </Placement>
+    <Placement X="4199" Y="655" PlacementType="DoubleTissue">
+    </Placement>
+    <Placement X="815" Y="711" PlacementType="Juice">
+    </Placement>
+    <Placement X="1127" Y="711" PlacementType="Juice">
+    </Placement>
+    <Placement X="1159" Y="711" PlacementType="Juice">
+    </Placement>
+    <Placement X="1983" Y="583" PlacementType="Juice">
+    </Placement>
+    <Placement X="2015" Y="583" PlacementType="Juice">
+    </Placement>
+    <Placement X="2655" Y="375" PlacementType="Juice">
+    </Placement>
+    <Placement X="2799" Y="599" PlacementType="Juice">
+    </Placement>
+    <Placement X="3023" Y="567" PlacementType="Juice">
+    </Placement>
+    <Placement X="3135" Y="567" PlacementType="Juice">
+    </Placement>
+    <Placement X="3479" Y="599" PlacementType="Juice">
+    </Placement>
+    <Placement X="3511" Y="599" PlacementType="Juice">
+    </Placement>
+    <Placement X="3911" Y="679" PlacementType="Juice">
+    </Placement>
+    <Placement X="4295" Y="743" PlacementType="Juice">
+    </Placement>
+    <Placement X="151" Y="711" PlacementType="RunningNose">
+    </Placement>
+    <Placement X="2079" Y="551" PlacementType="RunningNose">
+    </Placement>
+    <Placement X="2927" Y="535" PlacementType="RunningNose">
+    </Placement>
+    <Placement X="3415" Y="567" PlacementType="RunningNose">
+    </Placement>
+    <Placement X="495" Y="663" PlacementType="Soup">
+    </Placement>
+    <Placement X="815" Y="663" PlacementType="Soup">
+    </Placement>
+    <Placement X="1527" Y="615" PlacementType="Soup">
+    </Placement>
+    <Placement X="2463" Y="695" PlacementType="Soup">
+    </Placement>
+    <Placement X="2799" Y="567" PlacementType="Soup">
+    </Placement>
+  </Placements>
+</NapeLayout>

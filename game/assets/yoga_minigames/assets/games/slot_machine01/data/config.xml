@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?> 
+<!-- slots game Scenes -->
+<!-- 
+	scenes
+	
+-->	
+<game>
+	<!-- Sequence of Scenes in the game -->	
+	<scenes id="sl_gameSequence" className="com.nickjr.gamedev.game.SceneSequence" >	
+		<!-- Intro before the game -->	
+		<scene id="sl_gameIntro" className="com.nickjr.display.scene.SceneView">
+			<media_source id="media_source" value="assets/games/slot_machine01/assets/scenes/intro.swf"/>
+			<data_source  id="data_source" value="data/intro_animation.xml"/>
+			<display_name id="display_name" value="Intro Screen" />
+			<!-- <duration id="duration" value="30" /> -->	
+		</scene>			
+		<!-- minigame <scene id="bh_gameScene" className="com.nickjr.display.scene.SceneView">  -->		
+		<scene id="sl_gameScene" className="com.nickjr.app.metaGameEngine.view.scene.GameView">
+			<!-- <media_source id="media_source" value="assets/games/brobees_hungry/assets/scenes/game.swf"/> -->	
+			<media_source id="media_source" value="assets/games/slot_machine01/game.swf"/>
+			<data_source  id="data_source" value="data/intro_animation.xml"/>
+			<display_name id="display_name" value="slots game" />
+			<!-- <duration id="duration" value="30" /> -->	
+		</scene>
+		<!-- bh_outro Scene ... -->	
+		<scene id="sl_outro" className="com.nickjr.display.scene.SceneView">
+			<media_source id="media_source" value="assets/games/slot_machine01/assets/scenes/outro.swf"/>
+			<data_source  id="data_source" value="data/intro_animation.xml"/>
+			<display_name id="display_name" value="bh_outro" />
+			<!-- <duration id="duration" value="30" /> -->	
+		</scene>		
+	</scenes>
+</game>

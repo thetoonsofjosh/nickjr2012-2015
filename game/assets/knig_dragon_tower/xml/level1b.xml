@@ -1,0 +1,82 @@
+<data>
+  <parameters sdf="hello"/>
+  <cameraLevels>
+    <level y="805.4"/>
+    <level y="698"/>
+    <level y="590.6"/>
+    <level y="483.3"/>
+    <level y="376"/>
+    <level y="268.6"/>
+    <level y="161.3"/>
+    <level y="54"/>
+    <level y="0"/>
+  </cameraLevels>
+  <gameObjects>
+    <gameObject type="Ladder" x="716" y="696.65" id="0"/>
+    <gameObject type="wall" x="981" y="613.5" id="1"/>
+    <gameObject type="level1challenge" x="353" y="501.5" id="2"/>
+    <gameObject type="Ladder" x="131" y="587" id="3"/>
+    <gameObject type="Ladder" x="254" y="372" id="4"/>
+    <gameObject type="wall" x="98" y="395.5" id="5"/>
+    <gameObject type="Ladder" x="1033" y="267.2" id="6"/>
+    <gameObject type="wall" x="799" y="285.5" id="7"/>
+    <gameObject type="Ladder" x="740" y="267.2" id="8"/>
+    <gameObject type="level1challenge" x="217" y="179.5" id="9"/>
+    <gameObject type="Ladder" x="66" y="159.9" id="10"/>
+    <gameObject type="Ladder" x="946" y="52.6" id="11"/>
+    <gameObject type="L1dragon50" x="324" y="625.5" id="12"/>
+    <gameObject type="lockedDoor" x="16" y="733" id="13"/>
+    <gameObject type="L1dragon0" x="811" y="625.5" id="14"/>
+    <gameObject type="L1dragon50" x="815.85" y="410.5" id="15"/>
+    <gameObject type="L1dragon0" x="496.4" y="410.5" id="16"/>
+    <gameObject type="L1dragon100" x="877.9" y="196.5" id="17"/>
+    <gameObject type="L1dragon0" x="192.4" y="88.5" id="18"/>
+    <gameObject type="L1dragon50" x="144.85" y="303.5" id="19"/>
+    <gameObject type="potion" x="516" y="652.5" id="20"/>
+    <gameObject type="potion" x="77" y="652.5" id="21"/>
+    <gameObject type="potion" x="1024.9" y="652.5" id="22"/>
+    <gameObject type="potion" x="1089.9" y="760.5" id="23"/>
+    <gameObject type="potion" x="522.9" y="544.5" id="24"/>
+    <gameObject type="potion" x="30.9" y="545.5" id="25"/>
+    <gameObject type="potion" x="155.9" y="438.5" id="26"/>
+    <gameObject type="potion" x="58.9" y="330.5" id="27"/>
+    <gameObject type="potion" x="750.4" y="437.5" id="28"/>
+    <gameObject type="potion" x="1094.4" y="437.5" id="29"/>
+    <gameObject type="potion" x="920.4" y="330.5" id="30"/>
+    <gameObject type="potion" x="398.9" y="224.5" id="31"/>
+    <gameObject type="potion" x="416.9" y="330.5" id="32"/>
+    <gameObject type="potion" x="154.4" y="117.5" id="33"/>
+    <gameObject type="potion" x="637.4" y="116.5" id="34"/>
+    <gameObject type="potion" x="895.4" y="117.5" id="35"/>
+    <gameObject type="potion" x="1101.9" y="223.5" id="36"/>
+    <gameObject type="light" x="254" y="602.4" id="37"/>
+    <gameObject type="light" x="881" y="709" id="38"/>
+    <gameObject type="light" x="1091" y="496.25" id="39"/>
+    <gameObject type="light" x="373.75" y="280.1" id="40"/>
+    <gameObject type="light" x="709.9" y="387" id="41"/>
+    <gameObject type="light" x="1096.9" y="280.15" id="42"/>
+    <gameObject type="light" x="406.4" y="65.65" id="43"/>
+    <gameObject type="light" x="566.9" y="172.15" id="44"/>
+    <gameObject type="Ladder" x="946" y="-54.8" id="45"/>
+    <gameObject type="level1challenge" x="752" y="71.6" id="46"/>
+    <gameObject type="L1dragon0" x="621" y="518.5" id="47"/>
+    <gameObject type="decor005" x="256" y="740.4" id="48"/>
+    <gameObject type="decor002" x="648.15" y="627" id="49"/>
+    <gameObject type="decor004" x="810" y="524.6" id="50"/>
+    <gameObject type="decor005" x="200.5" y="519.6" id="51"/>
+    <gameObject type="decor002" x="394" y="415.3" id="52"/>
+    <gameObject type="decor005" x="979.5" y="413.3" id="53"/>
+    <gameObject type="decor004" x="650" y="198" id="54"/>
+    <gameObject type="decor005" x="1066.5" y="90.6" id="55"/>
+    <gameObject type="L1endScreen" x="922.5" y="-19.7" id="56"/>
+    <gameObject type="light" x="1033.5" y="173.3" id="57"/>
+    <gameObject type="light" x="626.5" y="709.4" id="58"/>
+    <gameObject type="level1challenge" x="431.5" y="717.4" id="59"/>
+    <gameObject type="L1dragon100" x="956" y="734.4" id="60"/>
+    <gameObject type="potion" x="932" y="651.4" id="61"/>
+    <gameObject type="Ladder" x="966.5" y="482" id="62"/>
+    <gameObject type="level1challenge" x="553.5" y="286" id="63"/>
+    <gameObject type="L1dragon0" x="507.5" y="90.3" id="64"/>
+    <gameObject type="Ladder" x="1100.5" y="587" id="65"/>
+  </gameObjects>
+</data>

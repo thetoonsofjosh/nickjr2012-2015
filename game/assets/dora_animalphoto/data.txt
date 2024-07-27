@@ -1,0 +1,1 @@
+&adUrl=http://ad.doubleclick.net/ad/nickjr.nol/;sec=_playtime_dora_photo_preloader;sz=300x250&adDelay=15&game_name=/game/assets/dora_animalphoto/game.swf&scalex=100&scaley=100&eof=1

@@ -1,0 +1,197 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Settings>
+	
+	<BonusStickers>
+		<!-- 
+			name	: The stickerID returned from the server
+			value	: A frame label in the bonus sticker.  Should be all lower case.
+			type	: "character" if the sticker appears in the characters tab.  "environment" if the character appears in the environments tab.
+		-->
+		
+		<Sticker name="142176" value="benny" type="character" />
+		<Sticker name="142177" value="doraandboots" type="character" />
+		<Sticker name="142178" value="doraanddaisies" type="character" />
+		<Sticker name="142180" value="isahoe" type="character" />
+		<Sticker name="142179" value="isaflowerstand" type="character" />
+	</BonusStickers>
+	
+	<SwfsToLoad>		
+		<SwfToLoad id="coreStickers" path="chr_isa.swf" target="none" />
+		<SwfToLoad id="environmentStickers" path="env_isa.swf" target="none" />
+		<SwfToLoad id="fontLibrary" path="font/fontEnglish.swf" target="none" />
+		
+		<SwfToLoad id="music" path="music_garden.swf" target="none" />
+	</SwfsToLoad>
+	
+	<SwfsToLoadInBG>
+		
+	</SwfsToLoadInBG>
+	
+	<SoundsToLoad dir="mp3/">		
+		
+		<!-- rollover vo 
+		<sound path="DW_17.mp3"  list="skip_btn" />
+		-->
+		<!-- sticker scene rollover vo 
+		
+		<sound path="DW_82.mp3"  list="roll_mappy_btn" />
+		<sound path="DW_83.mp3"  list="roll_print_btn" />
+		<sound path="DW_84.mp3"  list="roll_help_btn" />
+		<sound path="DW_84b.mp3"  list="roll_clearAll_btn" />
+		<sound path="DW_95.mp3"  list="roll_closebutton" />
+		<sound path="DW_85.mp3"  list="roll_objects_tab" />
+		<sound path="DW_86.mp3"  list="roll_characters_tab" />
+		<sound path="DW_87.mp3"  list="roll_scale" />
+		<sound path="DW_88.mp3"  list="roll_animate" />
+		
+		<sound path="DW_89.mp3"  list="roll_binoculars_mc" />
+		<sound path="DW_90.mp3"  list="roll_magnifying_mc" />
+		<sound path="DW_91c.mp3"  list="roll_flashlight_mc" />
+		<sound path="DW_91d.mp3"  list="roll_shovel_mc" />
+		<sound path="DW_91e.mp3"  list="roll_watercan_mc" />
+		
+		
+		
+		<sound path="DW_92.mp3"  list="roll_minigame_mc" />
+		<sound path="DW_23.mp3"  list="roll_loginRegister_btn" />
+		<sound path="DW_24.mp3"  list="roll_freeplay_btn" />
+		<sound path="DW_24a.mp3"  list="roll_adduser_mc" />
+		<sound path="DW_104.mp3"  list="roll_yes_mc" />
+		<sound path="DW_105.mp3"  list="roll_no_mc" />
+		<sound path="DW_3.mp3"  list="roll_startButton_mc" />
+		
+		
+		-->
+		
+		
+		<!--sticker tutorial dialogue 
+		<sound path="DW_46a.mp3"  list="DoraSticker_Tut_Sentence_0"  meta="tut_stickers" />
+		<sound path="DW_46d.mp3"  list="DoraSticker_Tut_Sentence_0"  meta="" />
+		<sound path="DW_46e.mp3"  list="DoraSticker_Tut_Sentence_0"  meta="" />
+		<sound path="DW_50a.mp3"  list="DoraSticker_Tut_Sentence_1"  meta="tut_arrows" />
+		<sound path="DW_50b.mp3"  list="DoraSticker_Tut_Sentence_1"  meta="" />
+		<sound path="DW_51.mp3"  list="DoraSticker_Tut_Sentence_2"  meta="" />
+		<sound path="DW_52.mp3"  list="DoraSticker_Tut_Sentence_3"  meta="tut_get_sticker" />
+		<sound path="DW_53.mp3"  list="DoraSticker_Tut_Sentence_4"  meta="tut_put_sticker" />
+		<sound path="DW_54.mp3"  list="DoraSticker_Tut_Sentence_5"  meta="tut_magico" />
+		<sound path="DW_55a.mp3"  list="DoraSticker_Tut_Sentence_6"  meta="tut_scale_sticker" />
+		<sound path="DW_56.mp3"  list="DoraSticker_Tut_Sentence_7"  meta="tut_get_moviestar" />
+		<sound path="DW_57a.mp3"  list="DoraSticker_Tut_Sentence_7"  meta="" />
+		<sound path="DW_58.mp3"  list="DoraSticker_Tut_Sentence_8"  meta="" />
+		<sound path="DW_59c.mp3"  list="DoraSticker_Tut_Sentence_9"  meta="tut_tools" />
+		<sound path="DW_60c.mp3"  list="DoraSticker_Tut_Sentence_9"  meta="tut_pick_up_binoculars" />
+		<sound path="DW_62c.mp3"  list="DoraSticker_Tut_Sentence_10"  meta="" />
+		<sound path="DW_64.mp3"  list="DoraSticker_Tut_Sentence_11"  meta="tut_minigame" />
+		<sound path="DW_66.mp3"  list="DoraSticker_Tut_Sentence_12"  meta="tut_print" />
+		<sound path="DW_67.mp3"  list="DoraSticker_Tut_Sentence_13"  meta="tut_map" />
+		<sound path="DW_67a.mp3"  list="DoraSticker_Tut_Sentence_14"  meta="tut_eraser" />
+		-->
+		<!--sticker help vo 
+		<sound path="DW_70.mp3"  list="DoraSticker_Help_Sentence_0"  meta="hel_stickers" />
+		<sound path="DW_71.mp3"  list="DoraSticker_Help_Sentence_0"  meta="hel_getSticker" />
+		<sound path="DW_72.mp3"  list="DoraSticker_Help_Sentence_0"  meta="hel_object_tab" />
+		<sound path="DW_73.mp3"  list="DoraSticker_Help_Sentence_0"  meta="hel_character_tab" />
+		<sound path="DW_74.mp3"  list="DoraSticker_Help_Sentence_0"  meta="hel_arrows" />
+		<sound path="DW_75.mp3"  list="DoraSticker_Help_Sentence_0"  meta="hel_magico" />
+		<sound path="DW_75a.mp3"  list="DoraSticker_Help_Sentence_0"  meta="" />
+		<sound path="DW_76.mp3"  list="DoraSticker_Help_Sentence_0"  meta="hel_moviestar" />
+		<sound path="DW_76a.mp3"  list="DoraSticker_Help_Sentence_0"  meta="" />
+		<sound path="DW_77a.mp3"  list="DoraSticker_Help_Sentence_1"  meta="hel_exploretools" />
+		<sound path="DW_78c.mp3"  list="DoraSticker_Help_Sentence_2"  meta="hel_animate_tool" />
+		<sound path="DW_79.mp3"  list="DoraSticker_Help_Sentence_3"  meta="hel_minigame" />
+		<sound path="DW_80.mp3"  list="DoraSticker_Help_Sentence_4"  meta="hel_print" />
+		<sound path="DW_80a.mp3"  list="DoraSticker_Help_Sentence_4"  meta="" />
+		<sound path="DW_81.mp3"  list="DoraSticker_Help_Sentence_4"  meta="hel_map" />
+		-->
+		
+		
+		<!--sticker delay prompt 
+		<sound path="DW_68.mp3"  list="DoraSticker_Delay_Sentence_0"  meta="dly_help" />
+		<sound path="DW_69.mp3"  list="DoraSticker_Delay_Sentence_0"  meta="" />
+		<sound path="DW_69a.mp3"  list="DoraSticker_Delay_Sentence_0"  meta="" />
+		-->
+			
+		<!-- erase everything 
+		<sound path="DW_103.mp3"  list="DoraSticker_ConfirmClear_Sentence_0"  meta="" />
+		-->
+		<!-- print menu 
+		<sound path="DW_93.mp3"  list="DoraSticker_PrintMenu_Sentence_0"  meta="print_color" />
+		<sound path="DW_94.mp3"  list="DoraSticker_PrintMenu_Sentence_0"  meta="print_bw" />
+		-->
+		
+		<!-- first tool gotten 
+		<sound path="DW_129b.mp3"  list="dora_toolpickup_flashlight" />
+		<sound path="DW_127b.mp3"  list="dora_toolpickup_binoculars" />
+		<sound path="DW_128b.mp3"  list="dora_toolpickup_magnifying" />
+		<sound path="DW_130.mp3"  list="dora_toolpickup_shovel" />
+		<sound path="DW_131.mp3"  list="dora_toolpickup_watercan" />
+		
+		
+		<sound path="DW_126a.mp3"  list="noDora_toolpickup_flashlight" />
+		<sound path="DW_126b.mp3"  list="noDora_toolpickup_binoculars" />
+		<sound path="DW_126c.mp3"  list="noDora_toolpickup_magnifying" />
+		<sound path="DW_126d.mp3"  list="noDora_toolpickup_shovel" />
+		<sound path="DW_126e.mp3"  list="noDora_toolpickup_watercan" />
+		-->
+		
+		
+		
+		
+		<!-- sticker reward vo -->
+		
+		<sound path="DoraChorusChunkNew.mp3"  list="sticker_dora1"  meta="sticker" />
+		<sound path="DW_96.mp3"  list="Reward_0"  meta="" />
+		<sound path="DW_97.mp3"  list="Reward_1"  meta="" />
+		<sound path="DW_98.mp3"  list="Reward_2"  meta="" />
+		<sound path="DW_99.mp3"  list="Reward_3"  meta="" />
+		<sound path="DW_100.mp3"  list="Reward_4"  meta="" />
+		<sound path="DW_101.mp3"  list="Reward_5"  meta="" />
+		<sound path="DW_102.mp3"  list="Reward_6"  meta="" />
+		
+		
+		<sound path="DW_306ex.mp3"  list="isagardenhoe_sticker"  meta="sticker" />
+		<sound path="DW_309ex.mp3"  list="dora_dandelion"  meta="sticker" />
+		<sound path="DW_307aex.mp3"  list="sticker_gardeningGloves"  meta="sticker" />
+			
+			
+		<!-- explore tools localization VO -->
+		<sound path="DW_308ex.mp3" list="Isa_Watercan_Inset_0" meta="explore" />
+		<sound path="DW_307ex.mp3" list="Isa_Magnifying_Inset_2" meta="explore" />
+		
+		
+	</SoundsToLoad>	
+	
+	<Configs>
+		<!-- values are...
+			"always" - Always show the minigame button.
+			"never" - Never show the minigame button.
+			"normal" - Show or do not show the button by the normal rules.
+		-->
+		<Config name="showMinigameOverride" value="always" />
+		<Config name="showToolsOverride" value="always" />
+ 		<!--
+			'always' - Always show bonus stickers.
+			'normal' - Only show bonus stickers if they're logged in.
+		-->
+		<Config name="showBonusStickersOverride" value="always" />
+		
+		<Config name="minigameURL" value="/game/assets/dora_isa_garden/game.swf" />		
+		<Config name="minigameCMSID" value="dora-isa-garden" />
+		
+		<!--
+		<Config name="standalone" value="true" />
+		-->
+		
+		<!--  
+		
+			Debug setting.  If the tools are visible, set this "true" to make them non-clickable 
+		
+		<Config name="exploreToolsClickable" value="false" />-->
+			
+			
+		<Config name="unexpectedTools" value="shovel_mc,watercan_mc" />
+		
+		<Config name="enableDatabaseCalls" value="true" />
+	</Configs>
+
+</Settings>

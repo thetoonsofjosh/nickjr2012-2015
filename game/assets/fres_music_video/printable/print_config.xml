@@ -1,0 +1,38 @@
+<config>
+
+	<templates>
+	
+		<!-- Default Template: Required -->
+		<template id="default" fitPrintable="true" printWidth="571" printHeight="739">
+			<printTracker urlAlias="defaultUrlAlias" type="game" showId="defaultShow"/>
+			<templatePath>printable/assets/print_templates/template_default.swf</templatePath>
+			<background>printable/assets/print_frame.swf</background>
+			<leftIcon>printable/assets/logo.jpg</leftIcon>
+			<rightIcon>printable/assets/dora.swf</rightIcon>
+			<showName>Dora the Explorer</showName>
+			<year>2010</year>
+			<copy><![CDATA[© {year} Viacom International Inc. All Rights Reserved. Nick Jr., {showName}, and all related titles, logos and characters are trademarks of Viacom International Inc.]]></copy>
+			<tuneInCopy><![CDATA[Watch {showName} every day on Nick & Nick Jr.]]></tuneInCopy>
+		</template>
+
+
+	
+
+		<!-- Named Template: Inherits undefinded values from Default Template -->
+		<template id="fbb" fitPrintable="false" printWidth="612" printHeight="792">
+			<printTracker urlAlias="fres_music_video" type="game" showId="defaultShow"/>
+			<!--templatePath>printable/assets/print_templates/FBB_MusicVideoMixer_template.swf</templatePath-->
+			<templatePath>http://static.nickjr.com/game/assets/fres_music_video/printable/assets/print_templates/FBB_MusicVideoMixer_template.swf</templatePath>
+			<!--background>printable/assets/print_frame_fbb.swf</background-->
+			<background>http://static.nickjr.com/game/assets/fres_music_video/printable/assets/print_frame_fbb.swf</background>
+			<printTracker urlAlias="fbb_musicvideomixer" type="game" showId="Fresh Beat Band"/>
+			<leftIcon>http://static.nickjr.com/game/assets/fres_music_video/printable/assets/logo.jpg</leftIcon>
+			<!--rightIcon>printable/assets/fbb.swf</rightIcon-->
+			<rightIcon>http://static.nickjr.com/game/assets/fres_music_video/printable/assets/fbb.swf</rightIcon>
+			<showName><![CDATA[The Fresh Beat Band]]></showName>
+		</template>		
+			
+
+	</templates>
+	
+</config>

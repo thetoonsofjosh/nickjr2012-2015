@@ -1,0 +1,543 @@
+<backgrounds>
+
+	<!-- dora -->
+	<background displayName="dora_fairytale"
+			handle="dora_fairytale" 
+			iconHandle="backgrounds/bw/dora_fairytale/thumb.jpg"
+			imageHandle="backgrounds/bw/dora_fairytale/printable.swf"
+			show="dora"
+	/>
+	<background displayName="dora_horse"
+			handle="dora_horse" 
+			iconHandle="backgrounds/bw/dora_horse/thumb.jpg"
+			imageHandle="backgrounds/bw/dora_horse/printable.swf"
+			show="dora"
+	/>
+	<background displayName="dora_mermaid"
+			handle="dora_mermaid" 
+			iconHandle="backgrounds/bw/dora_mermaid/thumb.jpg"
+			imageHandle="backgrounds/bw/dora_mermaid/printable.swf"
+			show="dora"
+	/>
+	<background displayName="dora_ridingincar"
+			handle="dora_ridingincar" 
+			iconHandle="backgrounds/bw/dora_ridingincar/thumb.jpg"
+			imageHandle="backgrounds/bw/dora_ridingincar/printable.swf"
+			show="dora"
+	/>
+	<background displayName="dora_world"
+			handle="dora_world" 
+			iconHandle="backgrounds/bw/dora_world/thumb.jpg"
+			imageHandle="backgrounds/bw/dora_world/printable.swf"
+			show="dora"
+	/>
+
+	<!-- PP -->
+	<background displayName="PP_01"
+			handle="PP_01"
+			iconHandle="backgrounds/bw/PP_01/thumb.jpg"
+			imageHandle="backgrounds/bw/PP_01/printable.swf"
+			show="PP"
+	/>
+	<background displayName="PP_02"
+			handle="PP_02"
+			iconHandle="backgrounds/bw/PP_02/thumb.jpg"
+			imageHandle="backgrounds/bw/PP_02/printable.swf"
+			show="PP"
+	/>
+	<background displayName="PP_03"
+			handle="PP_03"
+			iconHandle="backgrounds/bw/PP_03/thumb.jpg"
+			imageHandle="backgrounds/bw/PP_03/printable.swf"
+			show="PP"
+	/>
+	<background displayName="PP_04"
+			handle="PP_04"
+			iconHandle="backgrounds/bw/PP_04/thumb.jpg"
+			imageHandle="backgrounds/bw/PP_04/printable.swf"
+			show="PP"
+	/>
+	<background displayName="PP_05"
+			handle="PP_05"
+			iconHandle="backgrounds/bw/PP_05/thumb.jpg"
+			imageHandle="backgrounds/bw/PP_05/printable.swf"
+			show="PP"
+	/>
+
+	<!-- Julius Jr. -->
+    <background displayName="JJ_01"
+            handle="JJ_01"
+            iconHandle="backgrounds/bw/JJ_01/thumb.jpg"
+            imageHandle="backgrounds/bw/JJ_01/printable.swf"
+            show="JJ"
+            />
+            
+    <background displayName="JJ_02"
+            handle="JJ_02"
+            iconHandle="backgrounds/bw/JJ_02/thumb.jpg"
+            imageHandle="backgrounds/bw/JJ_02/printable.swf"
+            show="JJ"
+            />
+            
+    <background displayName="JJ_03"
+            handle="JJ_03"
+            iconHandle="backgrounds/bw/JJ_03/thumb.jpg"
+            imageHandle="backgrounds/bw/JJ_03/printable.swf"
+            show="JJ"
+            />
+            
+    <background displayName="JJ_04"
+            handle="JJ_04"
+            iconHandle="backgrounds/bw/JJ_04/thumb.jpg"
+            imageHandle="backgrounds/bw/JJ_04/printable.swf"
+            show="JJ"
+            />
+            
+    <background displayName="JJ_05"
+            handle="JJ_05"
+            iconHandle="backgrounds/bw/JJ_05/thumb.jpg"
+            imageHandle="backgrounds/bw/JJ_05/printable.swf"
+            show="JJ"
+            />
+            
+    <background displayName="JJ_06"
+            handle="JJ_06"
+            iconHandle="backgrounds/bw/JJ_06/thumb.jpg"
+            imageHandle="backgrounds/bw/JJ_06/printable.swf"
+            show="JJ"
+            />
+            
+    <background displayName="JJ_07"
+            handle="JJ_07"
+            iconHandle="backgrounds/bw/JJ_07/thumb.jpg"
+            imageHandle="backgrounds/bw/JJ_07/printable.swf"
+            show="JJ"
+            />
+    
+    <!-- dora and friends -->
+	<background displayName="dahf_01"
+            handle="dahf_01"
+            iconHandle="backgrounds/bw/dahf_01/thumb.jpg"
+            imageHandle="backgrounds/bw/dahf_01/printable.swf"
+            show="dahf"
+	/>
+	<background displayName="dahf_02"
+            handle="dahf_02"
+            iconHandle="backgrounds/bw/dahf_02/thumb.jpg"
+            imageHandle="backgrounds/bw/dahf_02/printable.swf"
+            show="dahf"
+	/>
+	<background displayName="dahf_03"
+            handle="dahf_03"
+            iconHandle="backgrounds/bw/dahf_03/thumb.jpg"
+            imageHandle="backgrounds/bw/dahf_03/printable.swf"
+            show="dahf"
+	/>
+	<background displayName="dahf_04"
+            handle="dahf_04"
+            iconHandle="backgrounds/bw/dahf_04/thumb.jpg"
+            imageHandle="backgrounds/bw/dahf_04/printable.swf"
+            show="dahf"
+	/>
+	<background displayName="dahf_05"
+            handle="dahf_05"
+            iconHandle="backgrounds/bw/dahf_05/thumb.jpg"
+            imageHandle="backgrounds/bw/dahf_05/printable.swf"
+            show="dahf"
+	/>			
+    
+
+
+	<!-- prab -->
+	<background displayName="prab_01"
+			handle="prab_01" 
+			iconHandle="backgrounds/bw/prab_01/thumb.jpg"
+			imageHandle="backgrounds/bw/prab_01/printable.swf"
+			show="prab"
+	/>
+	<background displayName="prab_02"
+			handle="prab_02" 
+			iconHandle="backgrounds/bw/prab_02/thumb.jpg"
+			imageHandle="backgrounds/bw/prab_02/printable.swf"
+			show="prab"
+	/>
+	<background displayName="prab_03"
+			handle="prab_03" 
+			iconHandle="backgrounds/bw/prab_03/thumb.jpg"
+			imageHandle="backgrounds/bw/prab_03/printable.swf"
+			show="prab"
+	/>
+	<background displayName="prab_04"
+			handle="prab_04" 
+			iconHandle="backgrounds/bw/prab_04/thumb.jpg"
+			imageHandle="backgrounds/bw/prab_04/printable.swf"
+			show="prab"
+	/>
+	<background displayName="prab_05"
+			handle="prab_05" 
+			iconHandle="backgrounds/bw/prab_05/thumb.jpg"
+			imageHandle="backgrounds/bw/prab_05/printable.swf"
+			show="prab"
+	/>
+
+
+
+	<!-- dieg -->
+	<background displayName="dieg_dino"
+			handle="dieg_dino" 
+			iconHandle="backgrounds/bw/dieg_dino/thumb.jpg"
+			imageHandle="backgrounds/bw/dieg_dino/printable.swf"
+			show="dieg"
+	/>
+	<background displayName="dieg_surf"
+			handle="dieg_surf" 
+			iconHandle="backgrounds/bw/dieg_surf/thumb.jpg"
+			imageHandle="backgrounds/bw/dieg_surf/printable.swf"
+			show="dieg"
+	/>
+	<background displayName="dieg_doradiegoraft"
+			handle="dieg_doradiegoraft" 
+			iconHandle="backgrounds/bw/dieg_doradiegoraft/thumb.jpg"
+			imageHandle="backgrounds/bw/dieg_doradiegoraft/printable.swf"
+			show="dieg"
+	/>
+	<background displayName="dieg_swing"
+			handle="dieg_swing" 
+			iconHandle="backgrounds/bw/dieg_swing/thumb.jpg"
+			imageHandle="backgrounds/bw/dieg_swing/printable.swf"
+			show="dieg"
+	/>
+	<background displayName="dieg_jaguar"
+			handle="dieg_jaguar" 
+			iconHandle="backgrounds/bw/dieg_jaguar/thumb.jpg"
+			imageHandle="backgrounds/bw/dieg_jaguar/printable.swf"
+			show="dieg"
+	/>
+	
+	<!-- wonderpets -->
+	<background displayName="wond_linny"
+			handle="wond_linny" 
+			iconHandle="backgrounds/bw/wond_linny/thumb.jpg"
+			imageHandle="backgrounds/bw/wond_linny/printable.swf"
+			show="wond"
+	/>
+	<background displayName="wond_mingming"
+			handle="wond_mingming" 
+			iconHandle="backgrounds/bw/wond_mingming/thumb.jpg"
+			imageHandle="backgrounds/bw/wond_mingming/printable.swf"
+			show="wond"
+	/>
+	<background displayName="wond_tuck"
+			handle="wond_tuck" 
+			iconHandle="backgrounds/bw/wond_tuck/thumb.jpg"
+			imageHandle="backgrounds/bw/wond_tuck/printable.swf"
+			show="wond"
+	/>
+	<background displayName="wond_wonder"
+			handle="wond_wonder" 
+			iconHandle="backgrounds/bw/wond_wonder/thumb.jpg"
+			imageHandle="backgrounds/bw/wond_wonder/printable.swf"
+			show="wond"
+	/>
+
+	<background displayName="wond_ship"
+			handle="wond_ship" 
+			iconHandle="backgrounds/bw/wond_ship/thumb.jpg"
+			imageHandle="backgrounds/bw/wond_ship/printable.swf"
+			show="wond"
+	/>
+
+	<!-- yoga -->
+	<background displayName="yoga_muno"
+			handle="yoga_muno" 
+			iconHandle="backgrounds/bw/yoga_muno/thumb.jpg"
+			imageHandle="backgrounds/bw/yoga_muno/printable.swf"
+			show="yoga"
+	/>
+	<background displayName="yoga_brobee"
+			handle="yoga_brobee" 
+			iconHandle="backgrounds/bw/yoga_brobee/thumb.jpg"
+			imageHandle="backgrounds/bw/yoga_brobee/printable.swf"
+			show="yoga"
+	/>
+	<background displayName="yoga_foofa"
+			handle="yoga_foofa" 
+			iconHandle="backgrounds/bw/yoga_foofa/thumb.jpg"
+			imageHandle="backgrounds/bw/yoga_foofa/printable.swf"
+			show="yoga"
+	/>
+	<background displayName="yoga_todee"
+			handle="yoga_todee" 
+			iconHandle="backgrounds/bw/yoga_todee/thumb.jpg"
+			imageHandle="backgrounds/bw/yoga_todee/printable.swf"
+			show="yoga"
+	/>
+	<background displayName="yoga_plex"
+			handle="yoga_plex" 
+			iconHandle="backgrounds/bw/yoga_plex/thumb.jpg"
+			imageHandle="backgrounds/bw/yoga_plex/printable.swf"
+			show="yoga"
+	/>
+
+	<!-- wubb -->
+	<!---
+	<background displayName="wubb_all"
+			handle="wubb_all" 
+			iconHandle="backgrounds/bw/wubb_all/thumb.jpg"
+			imageHandle="backgrounds/bw/wubb_all/printable.swf"
+			show="wubb"
+	/>
+	<background displayName="wubb_fly"
+			handle="wubb_fly" 
+			iconHandle="backgrounds/bw/wubb_fly/thumb.jpg"
+			imageHandle="backgrounds/bw/wubb_fly/printable.swf"
+			show="wubb"
+	/>
+	<background displayName="wubb_hair"
+			handle="wubb_hair" 
+			iconHandle="backgrounds/bw/wubb_hair/thumb.jpg"
+			imageHandle="backgrounds/bw/wubb_hair/printable.swf"
+			show="wubb"
+	/>
+	<background displayName="wubb_walden"
+			handle="wubb_walden" 
+			iconHandle="backgrounds/bw/wubb_walden/thumb.jpg"
+			imageHandle="backgrounds/bw/wubb_walden/printable.swf"
+			show="wubb"
+	/>
+	<background displayName="wubb_widget"
+			handle="wubb_widget" 
+			iconHandle="backgrounds/bw/wubb_widget/thumb.jpg"
+			imageHandle="backgrounds/bw/wubb_widget/printable.swf"
+			show="wubb"
+	/>
+	--->
+
+	<!-- blue -->
+	<background displayName="blue_sprinkles"
+			handle="blue_sprinkles" 
+			iconHandle="backgrounds/bw/blue_sprinkles/thumb.jpg"
+			imageHandle="backgrounds/bw/blue_sprinkles/printable.swf"
+			show="blue"
+	/>
+	<background displayName="blue_room"
+			handle="blue_room" 
+			iconHandle="backgrounds/bw/blue_room/thumb.jpg"
+			imageHandle="backgrounds/bw/blue_room/printable.swf"
+			show="blue"
+	/>
+	<background displayName="blue_read"
+			handle="blue_read" 
+			iconHandle="backgrounds/bw/blue_read/thumb.jpg"
+			imageHandle="backgrounds/bw/blue_read/printable.swf"
+			show="blue"
+	/>
+	<background displayName="blue_dog"
+			handle="blue_read" 
+			iconHandle="backgrounds/bw/blue_dog/thumb.jpg"
+			imageHandle="backgrounds/bw/blue_dog/printable.swf"
+			show="blue"
+	/>	
+	<background displayName="blue_sleigh"
+			handle="blue_sleigh" 
+			iconHandle="backgrounds/bw/blue_sleigh/thumb.jpg"
+			imageHandle="backgrounds/bw/blue_sleigh/printable.swf"
+			show="blue"
+	/>	
+	
+	<!-- niha -->
+	<background displayName="niha_dragon"
+			handle="niha_dragon" 
+			iconHandle="backgrounds/bw/niha_dragon/thumb.jpg"
+			imageHandle="backgrounds/bw/niha_dragon/printable.swf"
+			show="niha"
+	/>
+	<background displayName="niha_grandpa"
+			handle="niha_grandpa" 
+			iconHandle="backgrounds/bw/niha_grandpa/thumb.jpg"
+			imageHandle="backgrounds/bw/niha_grandpa/printable.swf"
+			show="niha"
+	/>
+	<background displayName="niha_group"
+			handle="niha_group" 
+			iconHandle="backgrounds/bw/niha_group/thumb.jpg"
+			imageHandle="backgrounds/bw/niha_group/printable.swf"
+			show="niha"
+	/>
+	<background displayName="niha_halloween"
+			handle="niha_halloween" 
+			iconHandle="backgrounds/bw/niha_halloween/thumb.jpg"
+			imageHandle="backgrounds/bw/niha_halloween/printable.swf"
+			show="niha"
+	/>
+	<background displayName="niha_sleigh"
+			handle="niha_sleigh" 
+			iconHandle="backgrounds/bw/niha_sleigh/thumb.jpg"
+			imageHandle="backgrounds/bw/niha_sleigh/printable.swf"
+			show="niha"
+	/>
+	<!-- back -->
+	<background displayName="back_clowns"
+			handle="back_clowns" 
+			iconHandle="backgrounds/bw/back_clowns/thumb.jpg"
+			imageHandle="backgrounds/bw/back_clowns/printable.swf"
+			show="back"
+	/>
+	<background displayName="back_dragon"
+			handle="back_dragon" 
+			iconHandle="backgrounds/bw/back_dragon/thumb.jpg"
+			imageHandle="backgrounds/bw/back_dragon/printable.swf"
+			show="back"
+	/>
+	<background displayName="back_sleigh"
+			handle="back_sleigh" 
+			iconHandle="backgrounds/bw/back_sleigh/thumb.jpg"
+			imageHandle="backgrounds/bw/back_sleigh/printable.swf"
+			show="back"
+	/>
+	<background displayName="back_spy"
+			handle="back_spy" 
+			iconHandle="backgrounds/bw/back_spy/thumb.jpg"
+			imageHandle="backgrounds/bw/back_spy/printable.swf"
+			show="back"
+	/>
+	<background displayName="back_uniqua"
+			handle="back_uniqua" 
+			iconHandle="backgrounds/bw/back_uniqua/thumb.jpg"
+			imageHandle="backgrounds/bw/back_uniqua/printable.swf"
+			show="back"
+	/>
+	<!-- oliv -->
+	<background displayName="oliv_bike"
+			handle="oliv_bike" 
+			iconHandle="backgrounds/bw/oliv_bike/thumb.jpg"
+			imageHandle="backgrounds/bw/oliv_bike/printable.swf"
+			show="oliv"
+	/>
+	<background displayName="oliv_cat"
+			handle="oliv_cat" 
+			iconHandle="backgrounds/bw/oliv_cat/thumb.jpg"
+			imageHandle="backgrounds/bw/oliv_cat/printable.swf"
+			show="oliv"
+	/>
+	<background displayName="oliv_family"
+			handle="oliv_family" 
+			iconHandle="backgrounds/bw/oliv_family/thumb.jpg"
+			imageHandle="backgrounds/bw/oliv_family/printable.swf"
+			show="oliv"
+	/>
+	<background displayName="oliv_friends"
+			handle="oliv_friends" 
+			iconHandle="backgrounds/bw/oliv_friends/thumb.jpg"
+			imageHandle="backgrounds/bw/oliv_friends/printable.swf"
+			show="oliv"
+	/>
+	<background displayName="oliv_roses"
+			handle="oliv_roses" 
+			iconHandle="backgrounds/bw/oliv_roses/thumb.jpg"
+			imageHandle="backgrounds/bw/oliv_roses/printable.swf"
+			show="oliv"
+	/>
+	<!-- nogg -->
+	<!--<background displayName="nogg_ants"
+			handle="nogg_ants" 
+			iconHandle="backgrounds/bw/nogg_ants/thumb.jpg"
+			imageHandle="backgrounds/bw/nogg_ants/printable.swf"
+			show="nogg"
+	/>
+	<background displayName="nogg_cop"
+			handle="nogg_cop" 
+			iconHandle="backgrounds/bw/nogg_cop/thumb.jpg"
+			imageHandle="backgrounds/bw/nogg_cop/printable.swf"
+			show="nogg"
+	/>
+	<background displayName="nogg_ics"
+			handle="nogg_ics" 
+			iconHandle="backgrounds/bw/nogg_ics/thumb.jpg"
+			imageHandle="backgrounds/bw/nogg_ics/printable.swf"
+			show="nogg"
+	/>
+	<background displayName="nogg_moving"
+			handle="nogg_moving" 
+			iconHandle="backgrounds/bw/nogg_moving/thumb.jpg"
+			imageHandle="backgrounds/bw/nogg_moving/printable.swf"
+			show="nogg"
+	/>
+	<background displayName="nogg_trash"
+			handle="nogg_trash" 
+			iconHandle="backgrounds/bw/nogg_trash/thumb.jpg"
+			imageHandle="backgrounds/bw/nogg_trash/printable.swf"
+			show="nogg"
+	/> -->
+	<!-- bubb -->
+	<background displayName="bubb_01"
+			handle="bubb_01" 
+			iconHandle="backgrounds/bw/bubb_01/thumb.jpg"
+			imageHandle="backgrounds/bw/bubb_01/printable.swf"
+			show="bubb"
+	/>
+	<background displayName="bubb_02"
+			handle="bubb_02" 
+			iconHandle="backgrounds/bw/bubb_02/thumb.jpg"
+			imageHandle="backgrounds/bw/bubb_02/printable.swf"
+			show="bubb"
+	/>
+	<background displayName="bubb_03"
+			handle="bubb_03" 
+			iconHandle="backgrounds/bw/bubb_03/thumb.jpg"
+			imageHandle="backgrounds/bw/bubb_03/printable.swf"
+			show="bubb"
+	/>
+	<background displayName="bubb_04"
+			handle="bubb_04" 
+			iconHandle="backgrounds/bw/bubb_04/thumb.jpg"
+			imageHandle="backgrounds/bw/bubb_04/printable.swf"
+			show="bubb"
+	/>
+	<background displayName="bubb_05"
+			handle="bubb_05" 
+			iconHandle="backgrounds/bw/bubb_05/thumb.jpg"
+			imageHandle="backgrounds/bw/bubb_05/printable.swf"
+			show="bubb"
+	/>
+	<background displayName="bubb_06"
+			handle="bubb_06"
+			iconHandle="backgrounds/bw/bubb_06/thumb.jpg"
+			imageHandle="backgrounds/bw/bubb_06/printable.swf"
+			show="bubb"
+	/>
+
+
+	<!-- uzi -->
+	<background displayName="uzi_01"
+			handle="uzi_01" 
+			iconHandle="backgrounds/bw/uzi_01/thumb.jpg"
+			imageHandle="backgrounds/bw/uzi_01/printable.swf"
+			show="uzi"
+	/>
+	<background displayName="uzi_02"
+			handle="uzi_02" 
+			iconHandle="backgrounds/bw/uzi_02/thumb.jpg"
+			imageHandle="backgrounds/bw/uzi_02/printable.swf"
+			show="uzi"
+	/>
+	<background displayName="uzi_03"
+			handle="uzi_03" 
+			iconHandle="backgrounds/bw/uzi_03/thumb.jpg"
+			imageHandle="backgrounds/bw/uzi_03/printable.swf"
+			show="uzi"
+	/>
+	<background displayName="uzi_04"
+			handle="uzi_04" 
+			iconHandle="backgrounds/bw/uzi_04/thumb.jpg"
+			imageHandle="backgrounds/bw/uzi_04/printable.swf"
+			show="uzi"
+	/>
+	<background displayName="uzi_05"
+			handle="uzi_05" 
+			iconHandle="backgrounds/bw/uzi_05/thumb.jpg"
+			imageHandle="backgrounds/bw/uzi_05/printable.swf"
+			show="uzi"
+	/>
+	
+</backgrounds>

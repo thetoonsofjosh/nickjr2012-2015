@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	
+	<engine>
+		<!-- Tune in messaging for end screen -->
+		<tunein swf="TuneInFBB_02.swf" />
+		
+		<!-- Sound library used within the game -->
+		<audio swf="game_audio.swf" />
+		
+		<!-- Printable library used within the game -->
+		<printable swf="game_printable.swf">
+			<item asset="nickjr.games.fbb.mie.printable.Page1Asset" />
+			<item asset="nickjr.games.fbb.mie.printable.Page2Asset" />
+		</printable>
+		
+		<!-- boundries of where items can be placed -->
+		<bounds top="100" bottom="260" />
+		
+		<!-- Scroll speed for normal and speed boost -->
+		<scroll minSpeed="150" maxSpeed="300" boostSpeed="400" boostTime="5000" slowSpeed="75" slowTime="3000" />
+		
+		<!-- Asset library used within the game -->
+		<assets swf="game_assets.swf" >	
+			
+			<frame asset="nickjr.games.fbb.mie.assets.GameFrame" />
+			<loader asset="nickjr.games.fbb.mie.assets.LoaderClip" />
+			<background asset="nickjr.games.fbb.mie.assets.BackgroundClip" speedModifier="0.6" yOffset="-3" />
+			<foreground asset="nickjr.games.fbb.mie.assets.ForegroundClip" speedModifier="1.2" yOffset="249" />
+			<floor asset="nickjr.games.fbb.mie.assets.FloorClip" speedModifier="1" yOffset="391.6" />
+			
+			<!-- Handle pickups -->
+			<pickups asset="nickjr.games.fbb.mie.assets.PickupsClip" 
+				 dropRangeNormal="600,1100" dropRangeSpecial="1000,2000" dropRangeObstacle="1200,2000" hitTestBoundry="275" speedModifier="1"
+			/>
+			
+			<!-- Attributes about the vehicle mechanics -->
+			<vehicle asset="nickjr.games.fbb.mie.assets.VehicleClip">
+				<start x="130" y="230" />
+				<bounds top="120" bottom="305" />
+				<mouseTrail offset="0" speed="160" snapToBuffer="6" />
+			</vehicle>
+			
+		</assets>
+		
+		<hud asset="nickjr.games.fbb.mie.ui.HudClip" x="-90" y="271.4" >
+			<hudItem asset="nickjr.games.fbb.mie.ui.HudItemClip" />
+		</hud>
+		
+		<screens>
+			<intro asset="nickjr.games.fbb.mie.screens.IntroScreenClip" />
+			<splash asset="nickjr.games.fbb.mie.screens.SplashScreenClip" />
+			<demo asset="nickjr.games.fbb.mie.screens.DemoScreenClip" />
+			<end asset="nickjr.games.fbb.mie.screens.EndScreenClip" />
+		</screens>
+		
+		<popups>
+			<startPrompt asset="nickjr.games.fbb.mie.popups.StartPromptPopupClip" x="292" y="75" />
+			<slowPrompt asset="nickjr.games.fbb.mie.popups.SlowPromptPopupClip" x="300" y="150" />
+			<boostPrompt asset="nickjr.games.fbb.mie.popups.BoostPromptPopupClip" x="300" y="150" />
+			<pointsPrompt asset="nickjr.games.fbb.mie.popups.PointsPromptPopupClip" x="0" y="0" />
+			<printPrompt asset="nickjr.games.fbb.mie.popups.PrintPopupClip" x="0" y="0" />
+		</popups>
+		
+		<loops>
+			<item asset="loop_backpack1" />
+			<item asset="loop_backpack2" />
+			<item asset="loop_backpack3" />
+			<item asset="loop_backpack4" />
+			<item asset="loop_balloon" />
+			<item asset="loop_basketball" />
+			<item asset="loop_blender" />
+			<item asset="loop_bucket" />
+			<item asset="loop_clock" />
+			<item asset="loop_duckshoes" />
+			<item asset="loop_fountain" />
+			<item asset="loop_hydrant" />
+			<item asset="loop_icecreamcart" />
+			<item asset="loop_mailbox" />
+			<item asset="loop_merrygoround" />
+			<item asset="loop_milkcrate" />
+			<item asset="loop_monkey" />
+			<item asset="loop_phonebooth" />
+			<item asset="loop_swingset" />
+			<item asset="loop_trashcan" />
+		</loops>
+	
+	</engine>
+	
+	<localization>
+		<loader_header><![CDATA[LOADING]]></loader_header>
+		<hud_score><![CDATA[SCORE]]></hud_score>
+		<hud_final_score><![CDATA[FINAL SCORE]]></hud_final_score>
+		<splash_title><![CDATA[Music is<br>Everywhere!]]></splash_title>
+		<popup_adagio><![CDATA[Adagio!]]></popup_adagio>
+		<popup_allegro><![CDATA[Allegro!]]></popup_allegro>
+		<popup_print><![CDATA[Are you sure you<br>want to print?]]></popup_print>
+		<popup_ready><![CDATA[READY?]]></popup_ready>
+		<popup_set><![CDATA[STEADY!]]></popup_set>
+		<popup_go><![CDATA[GO!]]></popup_go>
+		<btn_play><![CDATA[Play!]]></btn_play>
+		<btn_skip><![CDATA[skip]]></btn_skip>
+		<btn_play_again><![CDATA[Play aGain]]></btn_play_again>
+		<btn_encore><![CDATA[ENCORE!]]></btn_encore>
+		<btn_print><![CDATA[PRINT]]></btn_print>
+		<btn_yes><![CDATA[yes]]></btn_yes>
+		<btn_no><![CDATA[no]]></btn_no>
+	</localization>
+	
+</data>

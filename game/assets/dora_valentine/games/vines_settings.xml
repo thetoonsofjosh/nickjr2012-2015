@@ -1,0 +1,202 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Settings>
+  <!-- relative paths -->
+  <!--
+  <SwfsToLoad>
+    <SwfToLoad id="music" path="/game/assets/dora_valentine/music/VinesMusic.swf" target="none" />
+  </SwfsToLoad>
+  -->
+
+  <!-- absolute paths -->
+  <SwfsToLoad>
+    <SwfToLoad id="music" path="/game/assets/dora_valentine/music/VinesMusic.swf" target="none" />
+  </SwfsToLoad>
+
+  <!-- show the debug tracer window -->
+  <ShowTracer>false</ShowTracer> 
+  
+  <Debug>false</Debug>
+
+  <!-- turn off custom trace messages -->
+  <Quiet>true</Quiet> 
+  
+  <!-- Colors -->
+  <Colors>
+    <Color name="red" sound="DLV_23.mp3" altSound="DLV_23.mp3" />
+    <Color name="blue" sound="DLV_24.mp3" altSound="DLV_24.mp3" />
+    <Color name="yellow" sound="DLV_25.mp3" altSound="DLV_25.mp3" />
+    <Color name="white" sound="DLV_26.mp3" altSound="DLV_26.mp3" />
+    <!-- <Color name="pink" sound="DLV_27.mp3" altSound="DLV_27.mp3" /> -->
+    <!-- <Color name="purple" sound="DLV_28.mp3" altSound="DLV_28.mp3" /> -->
+    <!-- <Color name="orange" sound="DLV_29.mp3" altSound="DLV_29.mp3" /> -->
+    <Color name="green" sound="DLV_30.mp3" altSound="DLV_30.mp3" />
+    <!-- <Color name="black" sound="TMB_105.mp3" /> -->
+  </Colors>
+  
+  <!-- Problem sets -->
+  <!-- Patterns with 2, 3, and 4 vines are supported -->
+  <!-- There should be no more than three unique colors per pattern (not enforced) -->
+  <!-- Use "v<n>" attributes for the vine colors.  
+       Use "missing" attribute with a number 1-n to force the missing vine for a set-->
+  <ProblemSets>
+
+    <!-- <VinePattern set="1" v1="red" v2="yellow" /> -->
+    <VinePattern set="1" v1="blue" v2="white" audioBase="DLV_55.mp3" />
+    <VinePattern set="1" v1="yellow" v2="blue" audioBase="DLV_56.mp3" />
+
+    <VinePattern set="2" v1="red" v2="blue" v3="yellow" missing="3" audioBase="DLV_57.mp3" />
+    <VinePattern set="2" v1="yellow" v2="blue" v3="white" missing="2" audioBase="DLV_58.mp3" />
+    <VinePattern set="2" v1="blue" v2="yellow" v3="red" missing="3" audioBase="DLV_59.mp3" />
+
+    <VinePattern set="3" v1="white" v2="white" v3="blue" missing="2" audioBase="DLV_60.mp3" />
+    <VinePattern set="3" v1="yellow" v2="blue" v3="yellow" missing="3" audioBase="DLV_61.mp3" />
+    <VinePattern set="3" v1="yellow" v2="red" v3="red" missing="2" audioBase="DLV_62.mp3" />
+    
+    <!--
+    <VinePattern v1="red" v2="green" />
+    <VinePattern v1="blue" v2="yellow" />
+    <VinePattern v1="orange" v2="black" missing="1"/>
+    <VinePattern v1="black" v2="white" v3="pink" />
+    <VinePattern v1="pink" v2="green" v3="purple" />
+    <VinePattern v1="blue" v2="blue" v3="pink" missing="2" />
+    <VinePattern v1="red" v2="orange" v3="yellow" v4="red" missing="4"/>
+    <VinePattern v1="green" v2="purple" v3="green" v4="orange" />
+    <VinePattern v1="orange" v2="green" v3="yellow" v4="yellow" />
+    -->
+  </ProblemSets>
+  
+  <!-- Problem set order -->
+  <!-- This describes how many problems are presented, 
+       and which problem group (set) they come from -->
+  <ProblemSetOrder>1, 2, 3</ProblemSetOrder>
+
+  <!-- These sounds are only used for the standalone app -->
+  
+  <!-- relative path -->
+  <!-- <SoundRoot path="/game/assets/dora_valentine/sounds/" /> -->
+
+  <!-- absolute path -->
+  <SoundRoot path="/game/assets/dora_valentine/sounds/" />
+  <SoundsToLoad>
+    <sound path="DLV_12.mp3" />
+    <sound path="DLV_13.mp3" />
+    <sound path="DLV_14.mp3" />
+    <sound path="DLV_15.mp3" />
+    <sound path="DLV_16.mp3" />
+    <sound path="DLV_17.mp3" />
+    <sound path="DLV_18.mp3" />
+    <sound path="DLV_19.mp3" />
+    <sound path="DLV_20.mp3" />
+    <sound path="DLV_21.mp3" />
+    <sound path="DLV_22.mp3" />
+    <sound path="DLV_23.mp3" />
+    <sound path="DLV_24.mp3" />
+    <sound path="DLV_25.mp3" />
+    <sound path="DLV_26.mp3" />
+    <sound path="DLV_27.mp3" />
+    <sound path="DLV_28.mp3" />
+    <sound path="DLV_29.mp3" />
+    <sound path="DLV_30.mp3" />
+    <sound path="DLV_31.mp3" />
+    <sound path="DLV_32.mp3" />
+    <sound path="DLV_33.mp3" />
+    <sound path="DLV_34.mp3" />
+    <sound path="DLV_35.mp3" />
+    <sound path="DLV_36.mp3" />
+    <sound path="DLV_37.mp3" />
+    <sound path="DLV_38.mp3" />
+    <sound path="DLV_39.mp3" />
+    <sound path="DLV_40.mp3" />
+    <sound path="DLV_41.mp3" />
+    <sound path="DLV_42.mp3" />
+    <sound path="DLV_43.mp3" />
+    <sound path="DLV_44.mp3" />
+    <sound path="DLV_45.mp3" />
+    <sound path="DLV_46.mp3" />
+    <sound path="DLV_47.mp3" />
+    <sound path="DLV_48.mp3" />
+    <sound path="DLV_49.mp3" />
+    <sound path="DLV_50.mp3" />
+    <sound path="DLV_51.mp3" />
+    <sound path="DLV_52.mp3" />
+    <sound path="DLV_53.mp3" />
+    <sound path="DLV_54.mp3" />
+    <sound path="DLV_55.mp3" />
+    <sound path="DLV_56.mp3" />
+    <sound path="DLV_57.mp3" />
+    <sound path="DLV_58.mp3" />
+    <sound path="DLV_59.mp3" />
+    <sound path="DLV_60.mp3" />
+    <sound path="DLV_61.mp3" />
+    <sound path="DLV_62.mp3" />
+    <sound path="DLV_63.mp3" />
+    <sound path="DLV_64.mp3" />
+    <sound path="DLV_65.mp3" />
+    <sound path="DLV_66.mp3" />
+    <sound path="DLV_67.mp3" />
+    <sound path="DLV_68.mp3" />
+    <sound path="DLV_69.mp3" />
+    <sound path="DLV_70.mp3" />
+    <sound path="DLV_71.mp3" />
+    <sound path="DLV_72.mp3" />
+    <sound path="DLV_73.mp3" />
+    <sound path="VineColorSFX.mp3" />
+    
+    <sound path="DLV_55a.mp3" />
+    <sound path="DLV_55b.mp3" />
+    <sound path="DLV_55c.mp3" />
+    <sound path="DLV_55d.mp3" />
+    <sound path="DLV_55e.mp3" />
+    <sound path="DLV_56a.mp3" />
+    <sound path="DLV_56b.mp3" />
+    <sound path="DLV_56c.mp3" />
+    <sound path="DLV_56d.mp3" />
+    <sound path="DLV_56e.mp3" />
+    <sound path="DLV_57a.mp3" />
+    <sound path="DLV_57b.mp3" />
+    <sound path="DLV_57c.mp3" />
+    <sound path="DLV_57d.mp3" />
+    <sound path="DLV_57e.mp3" />
+    <sound path="DLV_57f.mp3" />
+    <sound path="DLV_57g.mp3" />
+    <sound path="DLV_57h.mp3" />
+    <sound path="DLV_58a.mp3" />
+    <sound path="DLV_58b.mp3" />
+    <sound path="DLV_58c.mp3" />
+    <sound path="DLV_58d.mp3" />
+    <sound path="DLV_58e.mp3" />
+    <sound path="DLV_58f.mp3" />
+    <sound path="DLV_58g.mp3" />
+    <sound path="DLV_59a.mp3" />
+    <sound path="DLV_59b.mp3" />
+    <sound path="DLV_59c.mp3" />
+    <sound path="DLV_59d.mp3" />
+    <sound path="DLV_59e.mp3" />
+    <sound path="DLV_59f.mp3" />
+    <sound path="DLV_59g.mp3" />
+    <sound path="DLV_59h.mp3" />
+    <sound path="DLV_60a.mp3" />
+    <sound path="DLV_60b.mp3" />
+    <sound path="DLV_60c.mp3" />
+    <sound path="DLV_60d.mp3" />
+    <sound path="DLV_60e.mp3" />
+    <sound path="DLV_60f.mp3" />
+    <sound path="DLV_60g.mp3" />
+    <sound path="DLV_61a.mp3" />
+    <sound path="DLV_61b.mp3" />
+    <sound path="DLV_61c.mp3" />
+    <sound path="DLV_61d.mp3" />
+    <sound path="DLV_61e.mp3" />
+    <sound path="DLV_61f.mp3" />
+    <sound path="DLV_61g.mp3" />
+    <sound path="DLV_61h.mp3" />
+    <sound path="DLV_62a.mp3" />
+    <sound path="DLV_62b.mp3" />
+    <sound path="DLV_62c.mp3" />
+    <sound path="DLV_62d.mp3" />
+    <sound path="DLV_62e.mp3" />
+    <sound path="DLV_62f.mp3" />
+    <sound path="DLV_62g.mp3" />
+  </SoundsToLoad>
+
+</Settings>

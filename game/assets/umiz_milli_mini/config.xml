@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content>
+
+	<game>
+		<levels>
+			<level id="level1">
+				<!-- [ LEVEL 1 ] -->
+				<assetID><![CDATA[nickUmizoomiMiniGame.milli.game.Level1]]></assetID>
+				<hidingSpot id="a2">
+					<descriptionPrefix id="hidingSomewhere" />
+					<descriptionSuffix id="blueStripes" />
+					<positionPrefix id="nextTo" />
+					<positionSuffix id="pinkAndPurplePinwheel" />	
+					<alternateId id="a1" />
+				</hidingSpot>
+				<hidingSpot id="a1">
+					<descriptionPrefix id="hidingSomewhere" />
+					<descriptionSuffix id="blueStripes" />
+					<positionPrefix id="nextTo" />
+					<positionSuffix id="boat" />	
+					<alternateId id="a2" />
+				</hidingSpot>
+				<hidingSpot id="b2">
+					<descriptionPrefix id="hidingSomewhere" />
+					<descriptionSuffix id="yellowPolkaDots" />
+					<positionPrefix id="nextTo" />
+					<positionSuffix id="orangeSoccerBall" />
+					<alternateId id="b1" />
+				</hidingSpot>
+				<hidingSpot id="b1">
+					<descriptionPrefix id="hidingSomewhere" />
+					<descriptionSuffix id="yellowPolkaDots" />
+					<positionPrefix id="onThe" />
+					<positionSuffix id="boat" />
+					<alternateId id="b2" />
+				</hidingSpot>
+			</level>
+			
+			<level id="level2">
+				<assetID><![CDATA[nickUmizoomiMiniGame.milli.game.Level2]]></assetID>
+				<!-- [ LEVEL 2 ] -->
+				<hidingSpot id="a2">
+					<descriptionPrefix id="hidingSomewhere" />
+					<descriptionSuffix id="purplePolkaDots" />
+					<positionPrefix id="onThe" />
+					<positionSuffix id="redBridge" />
+					<alternateId id="a1" />
+				</hidingSpot>
+				<hidingSpot id="a1">
+					<descriptionPrefix id="hidingSomewhere" />
+					<descriptionSuffix id="purplePolkaDots" />
+					<positionPrefix id="nextTo" />
+					<positionSuffix id="orangeLilyPad" />
+					<alternateId id="a2" />
+				</hidingSpot>
+				<hidingSpot id="b2">
+					<descriptionPrefix id="hidingSomewhere" />
+					<descriptionSuffix id="redStripes" />
+					<positionPrefix id="under" />
+					<positionSuffix id="bush" />
+					<alternateId id="b1" />
+				</hidingSpot>
+				<hidingSpot id="b1">
+					<descriptionPrefix id="hidingSomewhere" />
+					<descriptionSuffix id="redStripes" />
+					<positionPrefix id="nextTo" />
+					<positionSuffix id="redBridge" />
+					<alternateId id="b2" />
+				</hidingSpot>
+			</level>
+			
+			<level id="level3">
+				<assetID><![CDATA[nickUmizoomiMiniGame.milli.game.Level3]]></assetID>
+				<!-- [ LEVEL 3 ] -->
+				<hidingSpot id="a2">
+					<descriptionPrefix id="hidingSomewhere" />
+					<descriptionSuffix id="pinkPolkaDots" />
+					<positionPrefix id="nextTo" />
+					<positionSuffix id="orangeBasketball" />
+					<alternateId id="a1" />
+				</hidingSpot>
+				<hidingSpot id="a1">
+					<descriptionPrefix id="hidingSomewhere" />
+					<descriptionSuffix id="pinkPolkaDots" />
+					<positionPrefix id="nextTo" />
+					<positionSuffix id="mushrooms" />
+					<alternateId id="a2" />
+				</hidingSpot>
+				<hidingSpot id="b2">
+					<descriptionPrefix id="hidingSomewhere" />
+					<descriptionSuffix id="pinkStripes" />
+					<positionPrefix id="nextTo" />
+					<positionSuffix id="lampPost" />
+					<alternateId id="b1" />
+				</hidingSpot>
+				<hidingSpot id="b1">
+					<descriptionPrefix id="hidingSomewhere" />
+					<descriptionSuffix id="pinkStripes" />
+					<positionPrefix id="nextTo" />
+					<positionSuffix id="bush" />
+					<alternateId id="b2" />
+				</hidingSpot>
+			</level>
+		</levels>
+
+	</game>
+	
+	<audioAssets>
+		<!-- audio assets are embedded in the FLA library.  Update them in the FLA -->
+		<!-- strings within the CDATA tags are the sound class names -->	
+			
+		<audio id="endLevelFanFare"><![CDATA[endLevelFanFare]]></audio>
+		
+		<!-- i'm hiding again (after first level only) -->
+		<audio id="hidingAgain1"><![CDATA[Milli_054.mp3]]></audio>
+		<audio id="hidingAgain2"><![CDATA[Milli_055.mp3]]></audio>
+		<audio id="hidingAgain3"><![CDATA[Milli_056.mp3]]></audio>
+		
+		<!-- here's the first clue -->
+		<audio id="firstClue"><![CDATA[Milli_012.mp3]]></audio>
+		
+		<!-- i'm hiding somewhere (insert description after this) -->
+		<audio id="hidingSomewhere"><![CDATA[Milli_013.mp3]]></audio>
+		
+		<!-- random 'find me' prompt -->
+		<audio id="findMe1"><![CDATA[Milli_045.mp3]]></audio>
+		<audio id="findMe2"><![CDATA[Milli_046.mp3]]></audio>
+		<audio id="findMe3"><![CDATA[Milli_047.mp3]]></audio>
+
+		<!-- randomized 'oops' variations -->
+		<audio id="oops1"><![CDATA[Milli_057.mp3]]></audio>
+		<audio id="oops3"><![CDATA[Milli_059.mp3]]></audio>
+		<audio id="oops4"><![CDATA[Milli_060.mp3]]></audio>
+		
+
+		<!-- randomized 'almost correct' variations -->
+		<audio id="almost1"><![CDATA[Milli_057alt.mp3]]></audio>
+		<audio id="almost3"><![CDATA[Milli_059alt.mp3]]></audio>
+		<audio id="almost4"><![CDATA[Milli_060alt3.mp3]]></audio>
+		
+		<!-- let's play again (follows reward for all but last level) -->
+		<audio id="letsPlayAgain"><![CDATA[Milli_053.mp3]]></audio>
+		
+		<!-- audio to play with or before peak animation -->
+		<audio id="peak1"><![CDATA[Milli_143.mp3]]></audio>
+		
+		<!-- audio to play when milli jumps out (viewer didn't find her) -->
+		<audio id="reveal1"><![CDATA[Milli_144.mp3]]></audio>
+		<audio id="reveal2"><![CDATA[Milli_145.mp3]]></audio>	
+		
+		<!-- pattern descriptions -->
+		<audio id="pinkPolkaDots"><![CDATA[Milli_041.mp3]]></audio>
+		<audio id="blueStripes"><![CDATA[Milli_029.mp3]]></audio>
+		<audio id="yellowPolkaDots"><![CDATA[Milli_042.mp3]]></audio>
+		<audio id="purplePolkaDots"><![CDATA[Milli_039.mp3]]></audio>
+		<audio id="redStripes"><![CDATA[Milli_026.mp3]]></audio>
+		<audio id="pinkStripes"><![CDATA[Milli_030.mp3]]></audio>
+		
+		<!-- nearby objects -->
+		<audio id="pinkAndPurplePinwheel"><![CDATA[Milli_116.mp3]]></audio>
+		<audio id="orangeBasketball"><![CDATA[Milli_084.mp3]]></audio>
+		<audio id="orangeSoccerBall"><![CDATA[Milli_108.mp3]]></audio>
+		<audio id="redBridge"><![CDATA[Milli_070.mp3]]></audio>
+		<audio id="bush"><![CDATA[Milli_103.mp3]]></audio>
+		<audio id="lampPost"><![CDATA[Milli_076.mp3]]></audio>
+		<audio id="orangeLilyPad"><![CDATA[Milli_094.mp3]]></audio>
+		<audio id="mushrooms"><![CDATA[Milli_110.mp3]]></audio>
+		<audio id="boat"><![CDATA[Milli_118.mp3]]></audio>
+		
+		<!-- relative position (under, next to, etc) -->
+		<audio id="nextTo"><![CDATA[Milli_061.mp3]]></audio>
+		<audio id="onThe"><![CDATA[Milli_068.mp3]]></audio>
+		<audio id="under"><![CDATA[Milli_062.mp3]]></audio>		
+		
+		<!-- you found me -->
+		<audio id="foundMe1"><![CDATA[Milli_048.mp3]]></audio>
+		<audio id="foundMe2"><![CDATA[Milli_049.mp3]]></audio>
+		<audio id="foundMe3"><![CDATA[Milli_050.mp3]]></audio>
+		<audio id="foundMe4"><![CDATA[Milli_051.mp3]]></audio>
+		<audio id="foundMe5"><![CDATA[Milli_052.mp3]]></audio>
+		
+	</audioAssets>
+	
+</content>

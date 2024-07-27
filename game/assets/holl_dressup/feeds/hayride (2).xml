@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+
+<clothes>
+	<location>hayride</location>
+	<tops>/game/assets/holl_dressup/clothes/tops.swf</tops>
+	<bottoms>/game/assets/holl_dressup/clothes/bottoms.swf</bottoms>
+	<accessories>/game/assets/holl_dressup/clothes/purses.swf</accessories>
+	<shoes>/game/assets/holl_dressup/clothes/shoes.swf</shoes>
+	<hats>/game/assets/holl_dressup/clothes/hats.swf</hats>
+	<endscreen model_x="224.3" model_y="63.1" >/game/assets/holl_dressup/endscreens/endscreen_hayride.swf</endscreen>
+</clothes>

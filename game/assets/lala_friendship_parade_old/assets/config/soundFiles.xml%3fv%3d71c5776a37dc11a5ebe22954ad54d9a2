@@ -1,0 +1,290 @@
+<data dir="primary/">
+	<music channel="music" volume="50">
+		
+		<sound file="FP_Music_02sting" id="titleSting" volume="50" loops="0" inLibrary="false" packName="primary"/>
+		<sound file="FP_Music_01intro" id="introLoop" volume="50" loops="9999" inLibrary="false" packName="primary"/>
+		<sound file="FP_Music_01" id="builderLoop" volume="50" loops="9999" inLibrary="false" packName="primary"/>
+		<sound file="FP_Music_02" id="mainLoop" volume="50" loops="9999" inLibrary="false" packName="primary"/>
+		
+	</music>
+	
+	<sfx channel="sfx" volume="50" muteable="true">
+		<sound file="silence" id="silence"  volume="50" inLibrary="false" packName="primary" />
+
+		<sound file="clickFloat1" id="floatToss" volume="40" inLibrary="false" packName="primary" />
+		<sound file="clickFloat2" id="floatToss" volume="40" inLibrary="false" packName="primary" />
+		<sound file="clickFloat3" id="floatToss" volume="40" inLibrary="false" packName="primary" />
+		<sound file="clickFloat4" id="floatToss" volume="40" inLibrary="false" packName="primary" />
+		<sound file="clickFloat5" id="floatToss" volume="40" inLibrary="false" packName="primary" />
+		<sound file="endCrowd" id="floatToss" volume="45" inLibrary="false" packName="primary" />
+
+		<sound file="noArrow" volume="30" inLibrary="false" packName="primary" />
+		<sound file="crowd" volume="25" inLibrary="false" packName="primary" />
+		<sound file="drop" volume="50" inLibrary="false" packName="primary" />
+		
+		<!-- TITLE SCREEN -->
+		<sound file="click1" id="playBtnClick"  volume="20" inLibrary="false" packName="primary" />
+		<sound file="ro1" id="playBtnRO" volume="30" inLibrary="false" packName="primary" />
+		
+		<!-- INTRO -->
+		<sound file="click1" id="btn_skipClick"  volume="30" inLibrary="false" packName="primary" />
+		<sound file="ro1" id="btn_skipRO" volume="20" inLibrary="false" packName="primary" />
+		
+		<!-- CHARACTER SELECTION MENU -->
+		<sound file="click1" id="btn_continue_characterClick"  volume="20" inLibrary="false" packName="primary" />
+		<sound file="ro1" id="btn_continue_characterRO" volume="30" inLibrary="false" packName="primary" />
+		
+		<sound file="click3" id="btn_character1Click"  volume="20" inLibrary="false" packName="primary" />
+		<sound file="ro3" id="btn_character1RO" volume="30" inLibrary="false" packName="primary" />
+		<sound file="click3" id="btn_character2Click"  volume="20" inLibrary="false" packName="primary" />
+		<sound file="ro3" id="btn_character2RO" volume="30" inLibrary="false" packName="primary" />
+		<sound file="click3" id="btn_character3Click"  volume="20" inLibrary="false" packName="primary" />
+		<sound file="ro3" id="btn_character3RO" volume="30" inLibrary="false" packName="primary" />
+		<sound file="click3" id="btn_character4Click"  volume="20" inLibrary="false" packName="primary" />
+		<sound file="ro3" id="btn_character4RO" volume="30" inLibrary="false" packName="primary" />
+		<sound file="click3" id="btn_character5Click"  volume="20" inLibrary="false" packName="primary" />
+		<sound file="ro3" id="btn_character5RO" volume="30" inLibrary="false" packName="primary" />
+		<sound file="click3" id="btn_character6Click"  volume="20" inLibrary="false" packName="primary" />
+		<sound file="ro3" id="btn_character6RO" volume="30" inLibrary="false" packName="primary" />
+		<sound file="click3" id="btn_character7Click"  volume="20" inLibrary="false" packName="primary" />
+		<sound file="ro3" id="btn_character7RO" volume="30" inLibrary="false" packName="primary" />
+		
+		<!-- CARRIAGE SELECTION MENU -->
+		<sound file="click1" id="btn_continue_carriageClick"  volume="20" inLibrary="false" packName="primary" />
+		<sound file="ro1" id="btn_continue_carriageRO" volume="30" inLibrary="false" packName="primary" />
+		<sound file="click1" id="btn_backClick"  volume="20" inLibrary="false" packName="primary" />
+		<sound file="ro1" id="btn_backRO" volume="30" inLibrary="false" packName="primary" />
+		<sound file="click3" id="btn_carriage1Click"  volume="20" inLibrary="false" packName="primary" />
+		<sound file="ro3" id="btn_carriage1RO" volume="30" inLibrary="false" packName="primary" />
+		<sound file="click3" id="btn_carriage2Click"  volume="20" inLibrary="false" packName="primary" />
+		<sound file="ro3" id="btn_carriage2RO" volume="30" inLibrary="false" packName="primary" />
+		<sound file="click3" id="btn_carriage3Click"  volume="20" inLibrary="false" packName="primary" />
+		<sound file="ro3" id="btn_carriage3RO" volume="30" inLibrary="false" packName="primary" />
+		<sound file="click3" id="btn_carriage4Click"  volume="20" inLibrary="false" packName="primary" />
+		<sound file="ro3" id="btn_carriage4RO" volume="30" inLibrary="false" packName="primary" />
+		<sound file="click3" id="btn_carriage5Click"  volume="20" inLibrary="false" packName="primary" />
+		<sound file="ro3" id="btn_carriage5RO" volume="30" inLibrary="false" packName="primary" />
+
+		
+		<!-- BUILDER -->
+		<sound file="click1" id="btn_backClick"  volume="20" inLibrary="false" packName="primary" />
+		<sound file="ro1" id="btn_backRO" volume="30" inLibrary="false" packName="primary" />
+		<sound file="click1" id="btn_goClick"  volume="20" inLibrary="false" packName="primary" />
+		<sound file="ro1" id="btn_goRO" volume="30" inLibrary="false" packName="primary" />
+		<sound file="click1" id="cartypeBtnClick"  volume="20" inLibrary="false" packName="primary" />
+		<sound file="ro1" id="cartypeBtnRO" volume="30" inLibrary="false" packName="primary" />
+		
+		<sound file="click5" id="type1Click"  volume="20" inLibrary="false" packName="primary" />
+		<sound file="ro5" id="type1RO" volume="30" inLibrary="false" packName="primary" />
+		<sound file="drop" id="type2Click"  volume="20" inLibrary="false" packName="primary" />
+		<sound file="ro5" id="type2RO" volume="30" inLibrary="false" packName="primary" />
+		<sound file="click5" id="type3Click"  volume="20" inLibrary="false" packName="primary" />
+		<sound file="ro5" id="type3RO" volume="30" inLibrary="false" packName="primary" />
+		<sound file="click5" id="type4Click"  volume="20" inLibrary="false" packName="primary" />
+		<sound file="ro5" id="type4RO" volume="30" inLibrary="false" packName="primary" />
+		
+		<sound file="upClick" id="btn_forwardScrollClick"  volume="20" inLibrary="false" packName="primary" />
+		<sound file="ro2" id="btn_forwardScrollRO" volume="30" inLibrary="false" packName="primary" />
+		<sound file="downClick" id="btn_backwardScrollClick"  volume="20" inLibrary="false" packName="primary" />
+		<sound file="ro2" id="btn_backwardScrollRO" volume="30" inLibrary="false" packName="primary" />
+		
+		<sound file="noArrow" id="btn_forwardDisabledClick"  volume="20" inLibrary="false" packName="primary" />
+		<sound file="noArrow" id="btn_backwardDisabledClick"  volume="20" inLibrary="false" packName="primary" />
+		
+		<sound file="click1" id="btn_trashClick"  volume="20" inLibrary="false" packName="primary" />
+		<sound file="ro1" id="btn_trashRO" volume="30" inLibrary="false" packName="primary" />
+		
+		<sound file="click4" id="level1_type2Click"  volume="20" inLibrary="false" packName="primary" />
+		<sound file="ro4" id="level1_type2RO" volume="30" inLibrary="false" packName="primary" />
+		<sound file="click4" id="level1_type3Click"  volume="20" inLibrary="false" packName="primary" />
+		<sound file="ro4" id="level1_type3RO" volume="30" inLibrary="false" packName="primary" />
+		<sound file="click4" id="level1_type4Click"  volume="20" inLibrary="false" packName="primary" />
+		<sound file="ro4" id="level1_type4RO" volume="30" inLibrary="false" packName="primary" />
+
+		
+		<sound file="click4" id="level2_type2Click"  volume="20" inLibrary="false" packName="primary" />
+		<sound file="ro4" id="level2_type2RO" volume="30" inLibrary="false" packName="primary" />
+		<sound file="click4" id="level2_type3Click"  volume="20" inLibrary="false" packName="primary" />
+		<sound file="ro4" id="level2_type3RO" volume="30" inLibrary="false" packName="primary" />
+		<sound file="click4" id="level2_type4Click"  volume="20" inLibrary="false" packName="primary" />
+		<sound file="ro4" id="level2_type4RO" volume="30" inLibrary="false" packName="primary" />
+
+		
+		<sound file="click4" id="level3_type2Click"  volume="20" inLibrary="false" packName="primary" />
+		<sound file="ro4" id="level3_type2RO" volume="30" inLibrary="false" packName="primary" />
+		<sound file="click4" id="level3_type3Click"  volume="20" inLibrary="false" packName="primary" />
+		<sound file="ro4" id="level3_type3RO" volume="30" inLibrary="false" packName="primary" />
+		<sound file="click4" id="level3_type4Click"  volume="20" inLibrary="false" packName="primary" />
+		<sound file="ro4" id="level3_type4RO" volume="30" inLibrary="false" packName="primary" />
+
+		<!-- END SCREEN -->
+		<sound file="click1" id="printBtnClick"  volume="20" inLibrary="false" packName="primary" />
+		<sound file="ro1" id="printBtnRO" volume="30" inLibrary="false" packName="primary" />
+		<sound file="click1" id="playAgainBtnClick"  volume="20" inLibrary="false" packName="primary" />
+		<sound file="ro1" id="playAgainBtnRO" volume="30" inLibrary="false" packName="primary" />
+		<sound file="click1" id="startOverBtnClick"  volume="20" inLibrary="false" packName="primary" />
+		<sound file="ro1" id="startOverBtnRO" volume="30" inLibrary="false" packName="primary" />
+		
+		<!-- CONFIRMATION POPUP -->
+		<sound file="yesClick" id="printYesClick"  volume="20" inLibrary="false" packName="primary" />
+		<sound file="ro2" id="printYesRO" volume="30" inLibrary="false" packName="primary" />
+		<sound file="yesClick" id="btn_yesClick"  volume="20" inLibrary="false" packName="primary" />
+		<sound file="ro2" id="btn_yesRO" volume="30" inLibrary="false" packName="primary" />
+		<sound file="yesClick" id="printYesBtnClick"  volume="20" inLibrary="false" packName="primary" />
+		<sound file="ro2" id="printYesBtnRO" volume="30" inLibrary="false" packName="primary" />
+		<sound file="click2" id="btn_noClick"  volume="20" inLibrary="false" packName="primary" />
+		<sound file="ro2" id="btn_noRO" volume="30" inLibrary="false" packName="primary" />
+		
+				
+	</sfx>
+	
+	<vo channel="vo" volume="50">
+		
+		<!-- TITLE SCREEN -->
+		<sound file="LFP_1" id="titleScreenVO" volume="100" inLibrary="false" packName="primary" />
+		<sound file="LFP_2" id="titleScreenDelay_mobile" volume="100" inLibrary="false" packName="primary" />
+		<sound file="LFP_3" id="titleScreenDelay" volume="100" inLibrary="false" packName="primary" />
+		
+		<!-- INTRO -->		
+		<sound file="LFP_14" id="introVO1" volume="100" inLibrary="false" packName="primary" />
+		<sound file="LFP_15" id="introVO2" volume="100" inLibrary="false" packName="primary" />
+		<sound file="LFP_16" id="introVO3" volume="100" inLibrary="false" packName="primary" />
+		
+		<!-- BUTTON VO -->		
+		<sound file="LFP_4" id="playBtnVO" volume="100" inLibrary="false" packName="primary" />
+		<sound file="LFP_5" id="btn_skipVO" volume="100" inLibrary="false" packName="primary" />
+		<sound file="LFP_6" id="btn_continue_carriageVO" volume="100" inLibrary="false" packName="primary" />
+		<sound file="LFP_6" id="btn_continue_characterVO" volume="100" inLibrary="false" packName="primary" />
+		<sound file="LFP_6" id="btn_goVO" volume="100" inLibrary="false" packName="primary" />
+		<sound file="LFP_7" id="btn_backVO" volume="100" inLibrary="false" packName="primary" />
+		<sound file="LFP_80" id="btn_trashVO" volume="100" inLibrary="false" packName="primary" />
+		<sound file="LFP_9" id="playAgainBtnVO" volume="100" inLibrary="false" packName="primary" />
+		<sound file="LFP_10" id="startOverBtnVO" volume="100" inLibrary="false" packName="primary" />
+		<sound file="LFP_11" id="printBtnVO" volume="100" inLibrary="false" packName="primary" />
+		<sound file="LFP_12" id="btn_yesVO" volume="100" inLibrary="false" packName="primary" />
+		<sound file="LFP_13" id="btn_noVO" volume="100" inLibrary="false" packName="primary" />
+		<sound file="LFP_11" id="printYesBtnVO" volume="100" inLibrary="false" packName="primary" />
+		<sound file="LFP_7" id="printNoBtnVO" volume="100" inLibrary="false" packName="primary" />
+		
+		<!-- CHARACTER SELECT -->		
+		<sound file="LFP_17" id="btn_character2Click" volume="100" inLibrary="false" packName="primary" />
+		<sound file="LFP_18" id="btn_character1Click" volume="100" inLibrary="false" packName="primary" />
+		<sound file="LFP_19" id="btn_character6Click" volume="100" inLibrary="false" packName="primary" />
+		<sound file="LFP_20" id="btn_character3Click" volume="100" inLibrary="false" packName="primary" />
+		<sound file="LFP_21" id="btn_character5Click" volume="100" inLibrary="false" packName="primary" />
+		<sound file="LFP_22" id="btn_character7Click" volume="100" inLibrary="false" packName="primary" />
+		<sound file="LFP_23" id="btn_character4Click" volume="100" inLibrary="false" packName="primary" />
+		
+		<sound file="LFP_25" id="charSelect_tablet" volume="100" inLibrary="false" packName="primary" />
+		<sound file="LFP_26" id="charSelect_browser" volume="100" inLibrary="false" packName="primary" />
+		
+		<sound file="LFP_24" id="charSelect1" volume="100" inLibrary="false" packName="primary" />
+		<sound file="LFP_27" id="charSelect1_reaction" volume="100" inLibrary="false" packName="primary" />
+		
+		<sound file="LFP_28" id="charSelect2" volume="100" inLibrary="false" packName="primary" />
+		<sound file="LFP_29" id="charSelect2_reaction" volume="100" inLibrary="false" packName="primary" />
+		
+		<sound file="LFP_30" id="charSelect3" volume="100" inLibrary="false" packName="primary" />
+		<sound file="LFP_31" id="charSelect3_reaction" volume="100" inLibrary="false" packName="primary" />
+		
+		<sound file="LFP_25" id="charSelect_delay_tablet" volume="100" inLibrary="false" packName="primary" />
+		<sound file="LFP_26" id="charSelect_delay_browser" volume="100" inLibrary="false" packName="primary" />
+		<sound file="LFP_32" id="charSelect_delay1_tablet" volume="100" inLibrary="false" packName="primary" />
+		<sound file="LFP_33" id="charSelect_delay1_browser" volume="100" inLibrary="false" packName="primary" />
+		
+		
+		<!-- FLOAT SELECT -->		
+		<sound file="LFP_34" id="floatSelect1" volume="100" inLibrary="false" packName="primary" />
+		<sound file="LFP_35" id="floatSelect1_tablet" volume="100" inLibrary="false" packName="primary" />
+		<sound file="LFP_36" id="floatSelect1_browser" volume="100" inLibrary="false" packName="primary" />
+		<sound file="LFP_37" id="floatSelect1_reaction" volume="100" inLibrary="false" packName="primary" />
+		
+		<sound file="LFP_38" id="floatSelect2" volume="100" inLibrary="false" packName="primary" />
+		<sound file="LFP_35" id="floatSelect2_tablet" volume="100" inLibrary="false" packName="primary" />
+		<sound file="LFP_36" id="floatSelect2_browser" volume="100" inLibrary="false" packName="primary" />
+		<sound file="LFP_41" id="floatSelect2_reaction" volume="100" inLibrary="false" packName="primary" />
+		
+		<sound file="LFP_42" id="floatSelect3" volume="100" inLibrary="false" packName="primary" />
+		<sound file="LFP_35" id="floatSelect3_tablet" volume="100" inLibrary="false" packName="primary" />
+		<sound file="LFP_36" id="floatSelect3_browser" volume="100" inLibrary="false" packName="primary" />
+		<sound file="LFP_43" id="floatSelect3_reaction" volume="100" inLibrary="false" packName="primary" />
+		
+		<sound file="LFP_44" id="floatSelect_next" volume="100" inLibrary="false" packName="primary" />
+		
+		<sound file="LFP_35" id="floatSelect_delay0_tablet" volume="100" inLibrary="false" packName="primary" />
+		<sound file="LFP_36" id="floatSelect_delay0_browser" volume="100" inLibrary="false" packName="primary" />
+		<sound file="LFP_44" id="floatSelect_delay1" volume="100" inLibrary="false" packName="primary" />
+
+		
+		
+		<!-- FLOAT DECORATION TUTORIAL -->	
+		<sound file="LFP_46" id="decoTut1" volume="100" inLibrary="false" packName="primary" />
+<!--	<sound file="LFP_47" id="decoTut2" volume="100" inLibrary="false" packName="primary" /> -->
+		<sound file="LFP_47alt" id="decoTut2" volume="100" inLibrary="false" packName="primary" />
+		<sound file="LFP_48" id="decoTut3" volume="100" inLibrary="false" packName="primary" />
+		<sound file="LFP_49" id="decoTut4_tablet" volume="100" inLibrary="false" packName="primary" />
+		<sound file="LFP_50" id="decoTut4" volume="100" inLibrary="false" packName="primary" />
+		<sound file="LFP_51" id="decoTut5" volume="100" inLibrary="false" packName="primary" />
+		<sound file="LFP_78" id="decoTut6_tablet" volume="100" inLibrary="false" packName="primary" />
+		<sound file="LFP_79" id="decoTut6" volume="100" inLibrary="false" packName="primary" />
+		
+		
+		<!-- FLOAT DECORATION -->	
+		<sound file="LFP_52" id="level1_type4VO" volume="100" inLibrary="false" packName="primary" />
+		<sound file="LFP_52" id="level2_type4VO" volume="100" inLibrary="false" packName="primary" />
+		<sound file="LFP_52" id="level3_type4VO" volume="100" inLibrary="false" packName="primary" />
+		<sound file="LFP_53a" id="level1_type3VO" volume="100" inLibrary="false" packName="primary" />
+		<sound file="LFP_53a" id="level2_type3VO" volume="100" inLibrary="false" packName="primary" />
+		<sound file="LFP_53a" id="level3_type3VO" volume="100" inLibrary="false" packName="primary" />
+		<sound file="LFP_54" id="level1_type2VO" volume="100" inLibrary="false" packName="primary" />
+		<sound file="LFP_54" id="level2_type2VO" volume="100" inLibrary="false" packName="primary" />
+		<sound file="LFP_54" id="level3_type2VO" volume="100" inLibrary="false" packName="primary" />
+		
+		<sound file="LFP_55" id="trashConfirmVO" volume="100" inLibrary="false" packName="primary" />
+		<sound file="LFP_56" id="backConfirmVO" volume="100" inLibrary="false" packName="primary" />
+		
+		<sound file="LFP_57" id="decoReaction" volume="100" inLibrary="false" packName="primary" />
+		<sound file="LFP_58" id="decoReaction" volume="100" inLibrary="false" packName="primary" />
+		<sound file="LFP_59" id="decoReaction" volume="100" inLibrary="false" packName="primary" />
+		<sound file="LFP_60" id="decoReaction" volume="100" inLibrary="false" packName="primary" />
+		<sound file="LFP_61" id="decoReaction" volume="100" inLibrary="false" packName="primary" />
+		<sound file="LFP_62" id="decoReaction" volume="100" inLibrary="false" packName="primary" />
+		<sound file="LFP_63" id="decoReaction" volume="100" inLibrary="false" packName="primary" />
+		<sound file="LFP_64" id="decoReaction" volume="100" inLibrary="false" packName="primary" />
+		<sound file="LFP_81" id="decoReaction" volume="100" inLibrary="false" packName="primary" />
+		
+		<sound file="LFP_65" id="nextPrompt1" volume="100" inLibrary="false" packName="primary" />
+		<sound file="LFP_66" id="floatComplete1" volume="100" inLibrary="false" packName="primary" />
+		
+		<sound file="LFP_67" id="nextPrompt2" volume="100" inLibrary="false" packName="primary" />
+		<sound file="LFP_68" id="floatComplete2" volume="100" inLibrary="false" packName="primary" />
+		
+		<sound file="LFP_69" id="nextPrompt3" volume="100" inLibrary="false" packName="primary" />
+		<sound file="LFP_70" id="nextPrompt3" volume="100" inLibrary="false" packName="primary" />
+		<sound file="LFP_71" id="floatComplete3" volume="100" inLibrary="false" packName="primary" />
+		
+		<sound file="LFP_49" id="decoDraggableDelay_tablet" volume="100" inLibrary="false" packName="primary" />
+		<sound file="LFP_50" id="decoDraggableDelay" volume="100" inLibrary="false" packName="primary" />
+		<sound file="LFP_65" id="nextDelay1" volume="100" inLibrary="false" packName="primary" />
+		<sound file="LFP_67" id="nextDelay2" volume="100" inLibrary="false" packName="primary" />
+		<sound file="LFP_70" id="nextDelay3" volume="100" inLibrary="false" packName="primary" />
+		
+		
+		<!-- PARADE SCENE -->
+		<sound file="LFP_72" id="paradeVO_tablet" volume="100" inLibrary="false" packName="primary" />
+		<sound file="LFP_73" id="paradeVO_browser" volume="100" inLibrary="false" packName="primary" />
+		
+		
+		<!-- END SCREEN -->
+		<sound file="LFP_74" id="endScreen" volume="100" inLibrary="false" packName="primary" />
+		<sound file="LFP_75" id="endScreen_new" volume="100" inLibrary="false" packName="primary" />
+		<sound file="LFP_76" id="endScreen_playAgain" volume="100" inLibrary="false" packName="primary" />
+		<sound file="LFP_77" id="endScreen_print" volume="100" inLibrary="false" packName="primary" />
+
+		<sound file="LFP_76" id="endScreen_delay1" volume="100" inLibrary="false" packName="primary" />
+		<sound file="LFP_75" id="endScreen_delay2" volume="100" inLibrary="false" packName="primary" />
+		<sound file="LFP_77" id="endScreen_delay3" volume="100" inLibrary="false" packName="primary" />
+		
+		
+	</vo>
+</data>

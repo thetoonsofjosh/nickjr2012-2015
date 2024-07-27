@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<NapeLayout Scale="4" Width="512" Height="256">
+  <Chains>
+    <Chain>
+      <Verts>
+        <Vert X="0" Y="0">
+        </Vert>
+        <Vert X="463" Y="0">
+        </Vert>
+        <Vert X="463" Y="15">
+        </Vert>
+        <Vert X="160" Y="15">
+        </Vert>
+        <Vert X="160" Y="144">
+        </Vert>
+        <Vert X="287" Y="144">
+        </Vert>
+        <Vert X="288" Y="112">
+        </Vert>
+        <Vert X="479" Y="112">
+        </Vert>
+        <Vert X="480" Y="0">
+        </Vert>
+        <Vert X="511" Y="0">
+        </Vert>
+        <Vert X="511" Y="255">
+        </Vert>
+        <Vert X="0" Y="255">
+        </Vert>
+        <Vert X="0" Y="1">
+        </Vert>
+      </Verts>
+    </Chain>
+  </Chains>
+  <Platforms>
+  </Platforms>
+  <Placements>
+    <Placement X="183" Y="119" PlacementType="StartPoint">
+    </Placement>
+    <Placement X="455" Y="95" PlacementType="EndPoint">
+    </Placement>
+    <Placement X="359" Y="79" PlacementType="Enemy">
+    </Placement>
+  </Placements>
+</NapeLayout>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<fontsLibrary>
+	<fontClass name="fntArialUnicode" />
+	<fontClass name="fntCheeseBurger" />
+	<fontClass name="fntVagRound" />
+	<fontClass name="fntVagRoundBT" />
+	<fontclass name="fntNickJrPreschoolA"/>
+	<fontclass name="fntMarshmallowRegular"/>
+</fontsLibrary>

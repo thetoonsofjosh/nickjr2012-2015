@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content>
+	<settings>
+		<soundSWF>assets/content/soundBank.swf</soundSWF>
+		<finaleSWF>assets/content/finale.swf</finaleSWF>
+		<printableColor>assets/printableColor.swf</printableColor>
+		<printableBW>assets/printableBW.swf</printableBW>
+	</settings>
+</content>

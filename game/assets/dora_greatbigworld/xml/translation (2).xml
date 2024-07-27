@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+	NOTES
+Certain fonts could not be embedded correctly using their precise font names.  In order to embed these fonts,
+the name had to be compiled with a leading underscore (or some other deformation).  The fonts in question are:
+
+  _Arial
+  _Coop Flaired
+  _Simple Arabic
+
+
+-->
+	
+	
+
+<root debugMode="false" debugString="!">
+	<strings>			
+		<!-- ======================= -->		
+		<!-- ======================= -->
+		<!-- ======================= -->
+		<!-- FONTS FOR THE MAIN APP. -->		
+		<!-- ======================= -->				
+		<!-- ======================= -->		
+		<!-- ======================= -->
+		
+		<!-- english text -->
+		<string id="play_title_txt" fontSize="17" fontName="_Coop Flaired" lineHeight="0.2" textAlign="center" instancename="play_title_txt"><![CDATA[Play]]></string>
+		<string id="introSkip_txt" fontSize="26" fontName="_Coop Flaired" lineHeight="0.8500000000000001" textAlign="center" instancename="introSkip_txt"><![CDATA[Skip]]></string>
+		
+			
+		<!-- non-english text 
+		<string id="play_title_txt" fontSize="17" fontName="Gulim" lineHeight="0.2" textAlign="center" instancename="play_title_txt"><![CDATA[시작]]></string>
+		<string id="introSkip_txt" fontSize="26" fontName="Gulim" lineHeight="0.8500000000000001" textAlign="center" instancename="introSkip_txt"><![CDATA[다음]]></string>
+		-->
+		
+		<!-- ENGLISH ONLY -- LOGIN/REGISTRATION PAGE --Font data for the "Select a child" screen in the main app (No default text.  Only formatting data. -->
+		<string id="childName_txt" fontSize="30" fontName="_Coop Flaired" lineHeight="0.1" textAlign="left" instancename="childName_txt"><![CDATA[]]></string>
+		
+		
+		<!-- ENGLISH ONLY -- LOGIN/REGISTRATION PAGE --Buttons on the main app Login Screen -->
+		<string id="freeplay_txt" fontSize="25" fontName="_Coop Flaired" lineHeight="0.15000000000000002" textAlign="center" instancename="freeplay_txt"><![CDATA[Play without saving]]></string>
+		<string id="registerLoginNow_txt" fontSize="30" fontName="_Coop Flaired" lineHeight="2" textAlign="center" instancename="registerLoginNow_txt"><![CDATA[Login or Register Now]]></string>
+		
+		
+		<!-- ENGLISH ONLY -- LOGIN/REGISTRATION PAGE --"change" link on the map screen -->
+		<string id="change_txt" fontSize="12" fontName="Gulim" lineHeight="0.1" textAlign="center" instancename="change_txt"><![CDATA[Change]]></string>
+
+		<!-- ENGLISH ONLY -- LOGIN/REGISTRATION PAGE --user name field on the map screen (No default text.  Only formatting data) -->
+		<string id="panelName_txt" fontSize="25" fontName="_Coop Flaired" lineHeight="0.1" textAlign="center" instancename="panelName_txt"><![CDATA[]]></string>
+		
+		
+		
+		<!-- =========================== -->		
+		<!-- =========================== -->
+		<!-- =========================== -->
+		<!-- FONTS FOR THE STICKER APPS. -->		
+		<!-- =========================== -->				
+		<!-- =========================== -->		
+		<!-- =========================== -->
+		
+		<!-- "Skip" button in the sticker app tutorial -->		
+		<!-- english text -->
+		<string id="skip_txt" fontSize="26" fontName="_Coop Flaired" lineHeight="0.8" textAlign="center" instancename="skip_txt"><![CDATA[Skip]]></string>
+		
+			
+		<!-- non-english text 
+		<string id="skip_txt" fontSize="26" fontName="Gulim" lineHeight="0.8" textAlign="center" instancename="skip_txt"><![CDATA[돌아가기]]></string>
+		-->
+		
+		<!-- "Back" button in the minigame wrapper -->
+		<!-- english text -->
+		<string id="back_txt" fontSize="17" fontName="_Coop Flaired" lineHeight="0.15" textAlign="center" instancename="back_txt"><![CDATA[Back]]></string>
+		
+			
+		<!-- non-english text 
+		<string id="back_txt" fontSize="17" fontName="Gulim" lineHeight="0.15" textAlign="center" instancename="back_txt"><![CDATA[계속 메뉴]]></string>
+		-->
+			
+			
+			
+		<!-- Text fields in the Print confirmation screen in sticker apps -->
+		
+		<!-- english text	-->		
+		<string id="print_txt" fontSize="30" fontName="_Coop Flaired" lineHeight="0.1" textAlign="center" instancename="print_txt"><![CDATA[Print your scene.]]></string>
+		<string id="color_txt" fontSize="30" fontName="_Coop Flaired" lineHeight="0.1" textAlign="center" instancename="color_txt"><![CDATA[COLOR]]></string>
+		<string id="bw_txt" fontSize="30" fontName="_Coop Flaired" lineHeight="0.1" textAlign="center" instancename="bw_txt"><![CDATA[B & W]]></string>
+		
+			
+		<!-- non-english text 
+		<string id="print_txt" fontSize="30" fontName="Gulim" lineHeight="0.1" textAlign="center" instancename="print_txt"><![CDATA[도움 소리켜기]]></string>
+		<string id="color_txt" fontSize="30" fontName="Gulim" lineHeight="0.1" textAlign="center" instancename="color_txt"><![CDATA[소리끄기]]></string>
+		<string id="bw_txt" fontSize="30" fontName="Gulim" lineHeight="0.1" textAlign="center" instancename="bw_txt"><![CDATA[다시 시작하기]]></string>
+		-->
+		
+		<!-- Confirmation popup for "Clear All Stickers" in the sticker apps -->
+		<!--  english text -->
+		<string id="confirmYes_txt" fontSize="25" fontName="_Coop Flaired" lineHeight="0.1" textAlign="center" instancename="confirmYes_txt"><![CDATA[Sí]]></string>
+		<string id="confirmNo_txt" fontSize="25" fontName="_Coop Flaired" lineHeight="0.1" textAlign="center" instancename="confirmNo_txt"><![CDATA[No]]></string>
+		<string id="confirmClearAll_txt" fontSize="30" fontName="_Coop Flaired" lineHeight="4" textAlign="center" instancename="confirmClearAll_txt"><![CDATA[Are you sure you want to erase all of your stickers and start over?]]></string>
+		
+		
+		<!-- non-english text 
+		<string id="confirmYes_txt" fontSize="25" fontName="Gulim" lineHeight="0.1" textAlign="center" instancename="confirmYes_txt"><![CDATA[예]]></string>
+		<string id="confirmNo_txt" fontSize="25" fontName="Gulim" lineHeight="0.1" textAlign="center" instancename="confirmNo_txt"><![CDATA[아니오]]></string>
+		<string id="confirmClearAll_txt" fontSize="30" fontName="Gulim" lineHeight="4" textAlign="center" instancename="confirmClearAll_txt"><![CDATA[재시작 다시 시작하기 로딩중]]></string>
+		-->
+	</strings>
+</root>
+

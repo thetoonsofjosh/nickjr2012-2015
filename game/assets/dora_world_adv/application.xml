@@ -1,0 +1,11 @@
+﻿<?xml version="1.0"?>
+<!-- Application Meta Data -->
+<!-- Sets Up Application -->
+<!-- Loads External Dynamic Class Libraries -->
+<!-- Loads External Media Libraries:  SWFs, RSLs or SWCs -->
+<!-- classes are instantiated dynamically from xml here-->
+<Application>
+	<VisualResourceLibrary>container.swf</VisualResourceLibrary>
+	<ApplicationClassLibrary>class_libraries/framework_classes.swf</ApplicationClassLibrary>
+	<ApplicationClassName>com.nick.gamedev.app.qbert.QbertGameLoader</ApplicationClassName>
+</Application>

@@ -1,0 +1,27 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Dora's Big Birthday Adventure</title>
+
+<script type="text/javascript" src="fo/swfobject.js"></script>
+
+</head>
+<body bgcolor="#FFFFFF">
+<div id="body" align="center">
+  	Body  
+		</div>
+		
+  <script type="text/javascript">
+      var params = location.search.substring(1, location.search.length);
+			
+      var fo = new SWFObject("DorasBirthdayAdventure.swf?"+params, "body", "740", "320", "9", "FFFFFF");
+      fo.addParam("allowScriptAccess", "sameDomain");
+      fo.addParam("quality", "high");
+      fo.addParam("scale", "noscale");
+      fo.addParam("loop", "false");
+      fo.addParam("menu", "false");
+      fo.write("body");
+  </script>
+
+</body>
+</html>

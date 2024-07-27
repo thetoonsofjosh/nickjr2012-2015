@@ -1,0 +1,86 @@
+<data>
+  <parameters sdf="hello"/>
+  <cameraLevels>
+    <level y="805.4"/>
+    <level y="698"/>
+    <level y="590.6"/>
+    <level y="483.3"/>
+    <level y="376"/>
+    <level y="268.6"/>
+    <level y="161.3"/>
+    <level y="54"/>
+    <level y="0"/>
+  </cameraLevels>
+  <gameObjects>
+	   <gameObject type="ladderHint" x="501.5" y="298" id="70"/>
+    <gameObject type="Ladder" x="362" y="696.5" id="0"/>
+    <gameObject type="wall" x="425" y="713.5" id="1"/>
+    <gameObject type="Ladder" x="753" y="590" id="2"/>
+    <gameObject type="level2challenge" x="221" y="513.5" id="3"/>
+    <gameObject type="wall" x="833" y="613.5" id="4"/>
+    <gameObject type="Ladder" x="945" y="696.5" id="5"/>
+    <gameObject type="Ladder" x="1005" y="590" id="6"/>
+    <gameObject type="Ladder" x="503" y="372" id="7"/>
+    <gameObject type="Ladder" x="1044" y="264.5" id="8"/>
+    <gameObject type="wall" x="757" y="290.5" id="9"/>
+    <gameObject type="wall" x="168" y="395.5" id="10"/>
+    <gameObject type="Ladder" x="47" y="372" id="11"/>
+    <gameObject type="Ladder" x="101" y="482" id="12"/>
+    <gameObject type="level2challenge" x="789" y="83.5" id="13"/>
+    <gameObject type="wall" x="336" y="-27.5" id="14"/>
+    <gameObject type="Ladder" x="108" y="696.5" id="15"/>
+    <gameObject type="L2dragon50" x="141" y="626.3" id="16"/>
+    <gameObject type="L2dragon100" x="810" y="733.5" id="17"/>
+    <gameObject type="L2dragon50" x="622.5" y="304.5" id="18"/>
+    <gameObject type="L2dragon0" x="234.05" y="89.5" id="19"/>
+    <gameObject type="light" x="66" y="708.85" id="20"/>
+    <gameObject type="light" x="446.5" y="496" id="21"/>
+    <gameObject type="light" x="1122" y="710" id="22"/>
+    <gameObject type="light" x="1058" y="389" id="23"/>
+    <gameObject type="light" x="575.5" y="387.4" id="24"/>
+    <gameObject type="light" x="506.5" y="280" id="25"/>
+    <gameObject type="light" x="547.9" y="173" id="26"/>
+    <gameObject type="light" x="186.9" y="281.95" id="27"/>
+    <gameObject type="light" x="980.4" y="64.7" id="28"/>
+    <gameObject type="light" x="163.9" y="66.25" id="29"/>
+    <gameObject type="potion" x="546" y="760.5" id="30"/>
+    <gameObject type="potion" x="75" y="652.5" id="31"/>
+    <gameObject type="potion" x="37" y="545.5" id="32"/>
+    <gameObject type="potion" x="694.5" y="544.5" id="33"/>
+    <gameObject type="potion" x="873.55" y="654.5" id="34"/>
+    <gameObject type="potion" x="1080.55" y="546.5" id="35"/>
+    <gameObject type="potion" x="717.05" y="330.5" id="36"/>
+    <gameObject type="potion" x="312.3" y="438.5" id="37"/>
+    <gameObject type="potion" x="109.3" y="328.5" id="38"/>
+    <gameObject type="potion" x="839.3" y="329.5" id="39"/>
+    <gameObject type="potion" x="1107.8" y="223.5" id="40"/>
+    <gameObject type="potion" x="687.8" y="115.5" id="41"/>
+    <gameObject type="decor004" x="764.5" y="519.6" id="42"/>
+    <gameObject type="decor005" x="642.5" y="737" id="43"/>
+    <gameObject type="decor002" x="1062" y="630" id="44"/>
+    <gameObject type="L2dragon100" x="1166" y="380.3" id="45"/>
+    <gameObject type="wall" x="635" y="-27.7" id="46"/>
+    <gameObject type="Ladder" x="93" y="159.9" id="47"/>
+    <gameObject type="decor005" x="383" y="413.3" id="48"/>
+    <gameObject type="decor004" x="164" y="200.6" id="49"/>
+    <gameObject type="decor002" x="916.5" y="309.6" id="50"/>
+    <gameObject type="decor005" x="585.5" y="89" id="51"/>
+    <gameObject type="decor004" x="244" y="629.4" id="52"/>
+    <gameObject type="level2challenge" x="557.5" y="619" id="53"/>
+    <gameObject type="L2dragon50" x="882.5" y="518.6" id="54"/>
+    <gameObject type="L2dragon100" x="537" y="520.6" id="55"/>
+    <gameObject type="level2challenge" x="284.5" y="296" id="56"/>
+    <gameObject type="L2dragon100" x="701" y="411" id="57"/>
+    <gameObject type="level2challenge" x="913" y="405.3" id="58"/>
+    <gameObject type="Ladder" x="1103.5" y="372" id="59"/>
+    <gameObject type="L2dragon50" x="876.5" y="196.6" id="60"/>
+    <gameObject type="L2dragon0" x="623" y="196.6" id="61"/>
+    <gameObject type="wall" x="359" y="181.6" id="62"/>
+    <gameObject type="Ladder" x="408" y="159.9" id="63"/>
+    <gameObject type="potion" x="271" y="223.3" id="64"/>
+    <gameObject type="Ladder" x="1063" y="49" id="65"/>
+    <gameObject type="potion" x="1001" y="116.3" id="66"/>
+    <gameObject type="L2endScreen" x="1036" y="-19.7" id="67"/>
+    <gameObject type="ladderHint" x="434.5" y="289" id="68"/>
+  </gameObjects>
+</data>

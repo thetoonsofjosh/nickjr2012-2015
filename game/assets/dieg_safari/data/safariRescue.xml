@@ -1,0 +1,106 @@
+<safariRescue>
+	<swf id="game" type="swf" url="swf/SafariRescue.swf" />
+	<mapVO>
+		<VO id="first_visit" type="audio" url="audio/vo/diego/dsr_map_1.mp3"/>
+		<VO id="visit" type="audio" url="audio/vo/diego/dsr_map_2.mp3"/>
+		<VO id="all_complete" type="audio" url="audio/vo/diego/dsr_map_3.mp3" />
+		<VO id="map_timeout" type="audio" url="audio/vo/diego/dsr_map_timeout.mp3" />
+		<VO id="forest" type="audio" url="audio/vo/diego/dsr_map_dryforest.mp3" />
+		<VO id="lake" type="audio" url="audio/vo/diego/dsr_map_lake.mp3" />
+		<VO id="rocks" type="audio" url="audio/vo/diego/dsr_map_giantrocks.mp3" />
+		<VO id="locked" type="audio" url="audio/vo/diego/dsr_map_locked.mp3" />
+		<VO id="selectLevel" type="audio" url="audio/vo/diego/dsr_map_unlocked.mp3" />
+	</mapVO>
+	<gameScreen_one>
+		<!-- level 1 -->
+		<!--VO id="scrollIntro_1" type="audio" url="audio/vo/diego/dsr_dryforest_load.mp3" /-->
+		<!--VO id="scrollOutro_1" type="audio" url="audio/vo/diego/dsr_dryforest_end.mp3" />
+		<!-- level 2 -->
+		<!--VO id="scrollIntro_2" type="audio" url="audio/vo/diego/dsr_lake_load.mp3" /-->
+		<!--VO id="scrollOutro_2" type="audio" url="audio/vo/diego/dsr_lake_end.mp3" />
+		<!-- level 3 -->
+		<!--VO id="scrollIntro_3" type="audio" url="audio/vo/diego/dsr_giantrocks_load.mp3" /-->
+		<!--VO id="scrollOutro_3" type="audio" url="audio/vo/diego/dsr_giantrocks_end.mp3" /-->
+		<!-- shared -->
+		<VO id="timeout" type="audio" url="audio/vo/diego/dsr_sidescroll_timeout.mp3" />
+		<VO id="journal" type="audio" url="audio/vo/diego/dsr_fj_rollover.mp3" />
+		<SFX id="trumpet" type="audio" url="audio/sfx/elephant_trump.mp3" />
+		<SFX id="object_rollover" type="audio" url="audio/sfx/rollover_object.mp3" />
+		<scroll_kudos>
+			<VO id="kudo1" type="audio" url="audio/vo/diego/dsr_kudos_1.mp3" />
+			<VO id="kudo2" type="audio" url="audio/vo/diego/dsr_kudos_2.mp3" />
+			<VO id="kudo3" type="audio" url="audio/vo/diego/dsr_kudos_3.mp3" />
+			<VO id="kudo4" type="audio" url="audio/vo/diego/dsr_kudos_4.mp3" />
+			<VO id="kudo5" type="audio" url="audio/vo/diego/dsr_kudos_5.mp3" />
+			<erin>
+				<!-- these all stream now in order to lip-sync
+				<VO id="erin_happy" type="audio" url="audio/vo/erin/dsr_e_happy.mp3" />
+				<VO id="erin_alright" type="audio" url="audio/vo/erin/dsr_e_alright.mp3" />
+				<!--VO id="erin_happy" type="audio" url="audio/vo/erin/dsr_e_happy.mp3" />
+				<VO id="erin_awesome" type="audio" url="audio/vo/erin/dsr_e_awesome.mp3" />
+				<VO id="erin_allaboard" type="audio" url="audio/vo/erin/dsr_e_allaboard.mp3" /-->
+			</erin>
+		</scroll_kudos>
+		<scroll_oops>
+			<VO id="oops1" type="audio" url="audio/vo/diego/dsr_oops_1.mp3" />
+			<VO id="oops2" type="audio" url="audio/vo/diego/dsr_oops_2.mp3" />
+			<VO id="oops3" type="audio" url="audio/vo/diego/dsr_oops_3.mp3" />
+			<VO id="oops4" type="audio" url="audio/vo/diego/dsr_oops_4.mp3" />
+		</scroll_oops>
+		<obstacles>
+			<VO id="obstacle_click1" type="audio" url="audio/vo/diego/dsr_obstacle_cleared_1.mp3" />
+			<VO id="obstacle_click2" type="audio" url="audio/vo/diego/dsr_obstacle_cleared_2.mp3" />
+			<VO id="help_erin" type="audio" url="audio/vo/diego/dsr_help_erin.mp3" />
+			<V0 id="obstacle_sfx_1" type="audio" url="audio/sfx/logs_away.mp3" />
+			<V0 id="obstacle_sfx_2" type="audio" url="audio/sfx/explosion_water02.mp3" />
+			<V0 id="obstacle_sfx_3" type="audio" url="audio/sfx/impact_14.mp3" />
+			<V0 id="obstacle_dummy" type="audio" url="audio/sfx/impact_11.mp3" />
+		</obstacles>
+	</gameScreen_one>
+	<gameScreen_two>
+		<!-- level 1 -->
+		<VO id="drumSplash_1" type="audio" url="audio/vo/diego/dsr_giraffes_spell.mp3" />
+		<VO id="drumIntro_1" type="audio" url="audio/vo/diego/dsr_drum_giraffes.mp3" />
+		<VO id="drumOutro_1" type="audio" url="audio/vo/diego/dsr_giraffes_saved.mp3" />
+		<!-- level 2 -->
+		<VO id="drumSplash_2" type="audio" url="audio/vo/diego/dsr_hippos_spell.mp3" />
+		<VO id="drumIntro_2" type="audio" url="audio/vo/diego/dsr_drum_hippos.mp3" />
+		<VO id="drumOutro_2" type="audio" url="audio/vo/diego/dsr_hippos_saved.mp3" />
+		<!-- level 3 -->
+		<VO id="drumSplash_3" type="audio" url="audio/vo/diego/dsr_elephants_spell.mp3" />
+		<VO id="drumIntro_3" type="audio" url="audio/vo/diego/dsr_drum_elephants.mp3" />
+		<VO id="drumOutro_3" type="audio" url="audio/vo/diego/dsr_elephants_saved.mp3" />
+		<drum_oops isGroup="true">
+			<VO id="drum_oops1" type="audio" url="audio/vo/diego/dsr_drum_oops_1.mp3" />
+			<VO id="drum_oops2" type="audio" url="audio/vo/diego/dsr_drum_oops_2.mp3" />
+		</drum_oops>
+		<drum_notes>
+			<drum id="drum1" type="audio" url="audio/sfx/drum1.mp3" />
+			<drum id="drum2" type="audio" url="audio/sfx/drum2.mp3" />
+			<drum id="drum3" type="audio" url="audio/sfx/drum3.mp3" />
+			<drum id="drum4" type="audio" url="audio/sfx/drum4.mp3" />
+		</drum_notes>
+		<payoff_sfx>
+			<transition id="transform" type="audio" url="audio/sfx/animaltransformation.mp3" />
+		</payoff_sfx>
+	</gameScreen_two>
+	<journal>
+		<VO id="fj_no_images" type="audio" url="audio/vo/diego/dsr_fj_load_1.mp3" />
+		<VO id="fj_images" type="audio" url="audio/vo/diego/dsr_fj_load_2.mp3" />
+		<VO id="fj_all" type="audio" url="audio/vo/diego/dsr_fj_load_3.mp3" />
+		<VO id="journal_close" type="audio" url="audio/vo/diego/dsr_fj_click_arrow.mp3" />
+	</journal>
+	<playAgain>
+			<VO id="playAgain" type="audio" url="audio/vo/diego/dsr_quit_confirm.mp3" />
+			<VO id="yes" type="audio" url="audio/vo/diego/dsr_yes.mp3" />
+			<VO id="no" type="audio" url="audio/vo/diego/dsr_no.mp3" />
+	</playAgain>
+	<practiceScreen>
+		<VO id="practice_instr" type="audio" url="audio/vo/diego/dsr_practice_load.mp3" />
+		<VO id="practice_end" type="audio" url="audio/vo/diego/dsr_practice_success.mp3" />
+	</practiceScreen>
+	<ui>
+		<VO id="x_button" type="audio" url="audio/sfx/sfx_x_rollover.mp3" />
+		<VO id="back_vo" type="audio" url="audio/vo/diego/dsr_back.mp3" />
+	</ui>
+</safariRescue>

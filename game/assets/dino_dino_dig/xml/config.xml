@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+	
+	<!-- Player maximum speed -->
+	<property name="nPLAYER_MAX_SPEED">			<![CDATA[5]]>		</property>
+	
+	<!-- Counter effect speed when displaying score in HUD-->
+	<property name="nHUD_SCORE_COUNTER_EFFECT_SPEED">	<![CDATA[25]]>		</property>
+
+	// VOLUME SETTING  //
+
+	<!-- Music category volume -->
+	<property name="nDEFAULT_CATEGORY_MUSIC">	<![CDATA[0.5]]>		</property>
+	
+	<!-- Music default volume -->
+	<property name="nDEFAULT_VOLUME_MUSIC">		<![CDATA[0.7]]>		</property>
+		
+	<!-- Sound default volume -->
+	<property name="nDEFAULT_VOLUME_SOUNDS">	<![CDATA[1]]>		</property>
+		
+	<!-- VOs default volume -->
+	<property name="nDEFAULT_VOLUME_VOS">	<![CDATA[1]]>		</property>
+	
+		<!-- Default AbstractView IN volume-->
+	<property name="nDEFAULT_POPUP_VOL_IN">	<![CDATA[1]]>		</property>
+	
+	<!-- Default AbstractView OUT volume-->
+	<property name="nDEFAULT_POPUP_VOL_OUT">	<![CDATA[1]]>		</property>
+
+	<!-- Default UI Button click volume-->
+	<property name="nDEFAULT_MOUSE_VOL_CLICK">	<![CDATA[1]]>		</property>
+	
+	<!-- Default UI Button rollOver volume-->
+	<property name="nDEFAULT_MOUSE_VOL_ROLL">	<![CDATA[1]]>		</property>
+
+	<!-- Default UI Transition IN volume -->
+	<property name="nDEFAULT_TRANSITION_VOL_IN"><![CDATA[0.3]]>		</property>
+	
+	<!-- Default UI Button rollOver volume-->
+	<property name="nDEFAULT_TRANSITION_VOL_OUT"><![CDATA[0.3]]>		</property>
+	
+	<!-- Coin sound's volume-->
+	<property name="nCOIN_VOLUME">				<![CDATA[1]]>		</property>
+	
+	<!-- Distance maximum between a dino and a food-->
+	<property name="nDIST_MIN_B_DINO_FOOD">		<![CDATA[15]]>		</property>
+	
+	<!-- Distance needed for zone 1-->
+	<property name="nDIST_ZONE_1">				<![CDATA[40]]>		</property>
+	
+	<!-- Frequence dog alert (in fps) for zone 1-->
+	<property name="nFREQ_ZONE_1">				<![CDATA[45]]>		</property>
+	
+	<!-- Distance needed for zone 2-->
+	<property name="nDIST_ZONE_2">				<![CDATA[60]]>		</property>
+	
+	<!-- Frequence dog alert (in fps) for zone 2-->
+	<property name="nFREQ_ZONE_2">				<![CDATA[75]]>		</property>
+	
+	<!-- Distance needed for zone 3-->
+	<property name="nDIST_ZONE_3">				<![CDATA[100]]>		</property>
+	
+	<!-- Frequence dog alert (in fps) for zone 3-->
+	<property name="nFREQ_ZONE_3">				<![CDATA[105]]>		</property>
+	
+	<!-- speed dino 1-->
+	<property name="nSPEED_DINO_1">				<![CDATA[0.4]]>		</property>
+	
+	<!-- speed dino 2-->
+	<property name="nSPEED_DINO_2">				<![CDATA[1.5]]>		</property>
+	
+	<!-- speed dino 3-->
+	<property name="nSPEED_DINO_3">				<![CDATA[1]]>		</property>
+	
+	<!-- speed dino 4-->
+	<property name="nSPEED_DINO_4">				<![CDATA[2]]>		</property>
+	
+	<!-- distance to snap with a drag obj-->
+	<property name="nDISTANCE_TO_SNAP">				<![CDATA[50]]>		</property>
+	
+	<!-- time before a prompts (in frame ) (for one second calculate 35 Frame)-->
+	<property name="nTIME_BEFORE_PROMPTS">				<![CDATA[525]]>		</property>
+	
+	<!-- time pause in intro and tutoriel (in frame) (for one second calculate 35 Frame)-->
+	<property name="nTIME_PAUSE_INTRO">				<![CDATA[20]]>		</property>
+	
+	<!-- time before an end step appear (in frame) (for one second calculate 35 Frame)-->
+	<property name="nTIME_BEFORE_END_VIVARIUM">				<![CDATA[500]]>		</property>
+	
+	<!-- time before an end step appear (in frame) (for one second calculate 35 Frame)-->
+	<property name="nTIME_BEFORE_END_GUIDE">				<![CDATA[1]]>		</property>
+	
+	<!-- time before skip button are visible in intro and tutoriel (in frame) (for one second calculate 35 Frame)-->
+	<property name="nTIME_BUTTON_INTRO">				<![CDATA[50]]>		</property>
+	
+	<!-- time before Dan talk because doug sprak (in frame) (for one second calculate 35 Frame)-->
+	<property name="nTIME_VOS_DOUG">				<![CDATA[250]]>		</property>
+	
+	<!-- time before Dan talk because a dino feed (in frame) (for one second calculate 35 Frame)-->
+	<property name="nTIME_VOS_FEEDING_FEEDBACK">				<![CDATA[200]]>		</property>
+	
+	
+	<!-- ***************************VOLUME SFX*************************** -->
+	
+	<!-- volume sfx_bone_found.mp3 -->
+	<property name="nDEFAULT_VOLUME_BONEFOUND">				<![CDATA[1]]>		</property>
+	
+	<!-- volume sfx_bone_HUD.mp3 -->
+	<property name="nDEFAULT_VOLUME_BONEHUD">				<![CDATA[1]]>		</property>
+	
+	<!-- volume sfx_bone_done.mp3 -->
+	<property name="nDEFAULT_VOLUME_BONEDONE">				<![CDATA[1]]>		</property>
+	
+	<!-- volume sfx_doug.mp3 -->
+	<property name="nDEFAULT_VOLUME_DOUG">					<![CDATA[1]]>		</property>
+	
+	<!-- volume sfx_bone_down.mp3 -->
+	<property name="nDEFAULT_VOLUME_BONEDOWN">				<![CDATA[1]]>		</property>
+	
+	<!-- volume sfx_bone_pickup.mp3 -->
+	<property name="nDEFAULT_VOLUME_BONEPICKUP">			<![CDATA[1]]>		</property>
+	
+	<!-- volume sfx_dino_appear.mp3 -->
+	<property name="nDEFAULT_VOLUME_DINOAPPEAR">			<![CDATA[1]]>		</property>
+	
+	<!-- volume sfx_icon_clic.mp3 -->
+	<property name="nDEFAULT_VOLUME_ICONCLICK">				<![CDATA[1]]>		</property>
+	
+	<!-- volume sfx_icon_rollover.mp3 -->
+	<property name="nDEFAULT_VOLUME_ICONROLL">				<![CDATA[1]]>		</property>
+	
+	<!-- volume walk dino -->
+	<property name="nDEFAULT_VOLUME_WALK">				<![CDATA[0.5]]>		</property>
+	
+	<!-- volume roar dino -->
+	<property name="nDEFAULT_VOLUME_ROAR">				<![CDATA[0.5]]>		</property>
+	
+	<!-- volume eat dino -->
+	<property name="nDEFAULT_VOLUME_EAT">				<![CDATA[0.5]]>		</property>
+	
+</config>

@@ -1,0 +1,173 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<gameSWF path="/game/assets/umiz_city/aquarium/Aquarium_Game.swf" />
+	<scenesSWF path="/game/assets/umiz_city/aquarium/Aquarium_Scenes.swf" />
+	<audioSWF path="/game/assets/umiz_city/aquarium/Aquarium_Audio.swf" files="/game/assets/umiz_city/aquarium/xml/soundFiles.xml" />
+	
+	<!--- 	
+		Each problem set container has three problem set groups.  Each problem set group has three problem sets(questions) htat are randomly served to the user.
+		Each question has one correct answer.  Answers are listed in position on screen top to bottom.  Each answer an id.  The answer id is used by sound engine to play matching sound on rollover
+	-->
+	<problemSetContainer id="milli">
+		<problemSetGroup id="A">
+			<problemSet id="1" correctAnswer="purple" ><!-- purple fish -->
+				<answer id="green" />
+				<answer id="purple" />
+				<answer id="green" />
+			</problemSet>
+			<problemSet id="2" correctAnswer="orange" ><!-- orange star -->
+				<answer id="orange" />
+				<answer id="blue" />
+				<answer id="blue" />
+			</problemSet>
+			<problemSet id="3" correctAnswer="red" ><!-- red seahorse -->
+				<answer id="red" />
+				<answer id="yellow" />
+				<answer id="yellow" />
+			</problemSet>
+		</problemSetGroup>
+		<problemSetGroup id="B">
+			<problemSet id="1" correctAnswer="greenStripes" ><!-- green striped fish-->
+				<answer id="blueStripes" />
+				<answer id="greenStripes" />
+				<answer id="blueStripes" />
+			</problemSet>
+			<problemSet id="2" correctAnswer="purpleFace" ><!-- purple faced fish -->
+				<answer id="yellowFace" />
+				<answer id="yellowFace" />
+				<answer id="purpleFace" />
+			</problemSet>
+			<problemSet id="3" correctAnswer="yellowDots" ><!-- yellow dotted seastar -->
+				<answer id="yellowDots" />
+				<answer id="redDots" />
+				<answer id="redDots" />
+			</problemSet>
+		</problemSetGroup>
+		<problemSetGroup id="C">
+			<problemSet id="1" correctAnswer="blueTail" ><!-- blue tail -->
+				<answer id="greenTail" />
+				<answer id="greenTail" />
+				<answer id="blueTail" />
+			</problemSet>
+			<problemSet id="2" correctAnswer="orangeFace" ><!-- orange face -->
+				<answer id="orangeFace" />
+				<answer id="purpleFace" />
+				<answer id="purpleFace" />
+			</problemSet>
+			<problemSet id="3" correctAnswer="purplePinchers" ><!-- no difference right now-->
+				<answer id="bluePinchers" />
+				<answer id="bluePinchers" />
+				<answer id="purplePinchers" />
+			</problemSet>
+		</problemSetGroup>
+	</problemSetContainer>
+	
+	<problemSetContainer id="geo">
+		<problemSetGroup id="A">
+			<problemSet id="1" correctAnswer="circle" ><!-- circle-->
+				<answer id="square" />
+				<answer id="triangle" />
+                                <answer id="circle" />
+			</problemSet>
+			<problemSet id="2" correctAnswer="oval" ><!-- oval -->
+				<answer id="oval" />
+				<answer id="triangle" />
+				<answer id="rectangle" />
+			</problemSet>
+			<problemSet id="3" correctAnswer="triangle" ><!-- triangle -->
+				<answer id="rectangle" />
+				<answer id="triangle" />
+				<answer id="circle" />
+			</problemSet>
+		</problemSetGroup>
+		<problemSetGroup id="B">
+			<problemSet id="1" correctAnswer="pentagon" ><!-- 5 sides-->
+				<answer id="pentagon" />
+				<answer id="hexagon" />
+				<answer id="octagon" />
+			</problemSet>
+			<problemSet id="2" correctAnswer="hexagon" ><!-- 6 sides -->
+				<answer id="octagon" />
+				<answer id="hexagon" />
+				<answer id="pentagon" />
+			</problemSet>
+			<problemSet id="3" correctAnswer="octagon" ><!-- 8 sides -->
+				<answer id="pentagon" />
+				<answer id="hexagon" />
+				<answer id="octagon" />
+			</problemSet>
+		</problemSetGroup>
+		<problemSetGroup id="C">
+			<problemSet id="1" correctAnswer="pentagon" ><!-- pentagon -->
+				<answer id="octagon" />
+				<answer id="circle" />
+				<answer id="pentagon" />
+
+			</problemSet>
+			<problemSet id="2" correctAnswer="hexagon" ><!-- hexagon -->
+				<answer id="hexagon" />
+				<answer id="triangle" />
+				<answer id="pentagon" />
+			</problemSet>
+			<problemSet id="3" correctAnswer="octagon" ><!-- octagon-->
+				<answer id="oval" />
+				<answer id="octagon" />
+				<answer id="pentagon" />
+			</problemSet>
+		</problemSetGroup>
+	</problemSetContainer>
+	
+	<problemSetContainer id="bot">
+		<problemSetGroup id="A">
+			<problemSet id="1" correctAnswer="two" ><!-- 2 starfish -->
+				<answer id="four" />
+				<answer id="two" />
+				<answer id="six" />
+			</problemSet>
+			<problemSet id="2" correctAnswer="three" ><!-- 3 clownfish -->
+				<answer id="five" />
+				<answer id="three" />
+				<answer id="one" />
+			</problemSet>
+			<problemSet id="3" correctAnswer="six" ><!-- 6 trianlge fish -->
+				<answer id="six" />
+				<answer id="four" />
+				<answer id="two" />
+			</problemSet>
+		</problemSetGroup>
+		<problemSetGroup id="B">
+			<problemSet id="1" correctAnswer="seven" ><!-- 7 starfish -->
+				<answer id="seven" />
+				<answer id="nine" />
+				<answer id="ten" />
+			</problemSet>
+			<problemSet id="2" correctAnswer="nine" ><!-- 9 clownfish -->
+				<answer id="six" />
+				<answer id="nine" />
+				<answer id="ten" />
+			</problemSet>
+			<problemSet id="3" correctAnswer="ten" ><!-- 10 trianlge fish -->
+				<answer id="seven" />
+				<answer id="ten" />
+				<answer id="eight" />
+			</problemSet>
+		</problemSetGroup>
+		<problemSetGroup id="C">
+			<problemSet id="1" correctAnswer="seven" ><!-- most starfish -->
+				<answer id="seven" />
+				<answer id="five" />
+				<answer id="three" />
+			</problemSet>
+			<problemSet id="2" correctAnswer="two" ><!-- least clownfish -->
+				<answer id="two" />
+				<answer id="eight" />
+				<answer id="four" />
+			</problemSet>
+			<problemSet id="3" correctAnswer="eight" ><!-- most trianlge fish -->
+				<answer id="eight" />
+				<answer id="six" />
+				<answer id="two" />
+			</problemSet>
+		</problemSetGroup>
+	</problemSetContainer>
+</data>

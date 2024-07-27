@@ -1,0 +1,36 @@
+<settings>
+    <application 
+		urlalias="nickjr_freedraw"
+		printframe="print/frame 724-364.swf" 
+		showFPS="false"
+	/>
+	<!--
+	printWidth, printHeight: the true size of the canvas, larger for better print quality.
+	displayWidth, displayHeight: the size of the canvas on screen.
+	-->
+	<canvas 
+		x="96" 
+		y="11"  
+		printWidth="608" 
+		printHeight="299" 
+		displayWidth="608" 
+		displayHeight="299" 
+	/>
+	<savePng
+		savePngRequestDebugMode="false"
+		savePngRequestURL="http://www.nickjr.com/common/gdc/saveImg.jhtml"
+		savePngRequestFieldName="name"
+		savePngRequestContentType="image/png"
+		childsNameFieldName="child_first_name" 
+		parentsEmailFieldName="parent_email" 
+		titleFieldName="title"
+		gdcCollectionIDFieldName="gdcCollectionID" 
+		gdcCollectionID="170"
+		friendNameFieldName1="friend_name_1"
+		friendEmailFieldName1="friend_email_1"
+		friendNameFieldName2="friend_name_2"
+		friendEmailFieldName2="friend_email_2"
+		friendNameFieldName3="friend_name_3"
+		friendEmailFieldName3="friend_email_3"
+	/>
+</settings>

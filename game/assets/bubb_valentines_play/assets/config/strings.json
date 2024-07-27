@@ -1,0 +1,30 @@
+{
+    "settings" : 
+    {
+        "useDeviceFonts" : false
+    },
+    "fonts" : [
+    ],
+    "strings" : [
+        {
+            "id" : "txt_loading",
+            "style" : 
+            {
+                "fontFamily" : "Arial Narrow Special G1",
+                "fontSize" : "15px",
+                "textAlign" : "center",
+                "lineSpacing" : "0px",
+                "color" : "#999999",
+                "rotation" : 0
+            },
+            "textMetrics" : 
+            {
+                "top" : 0,
+                "left" : 0,
+                "width" : 80.1,
+                "height" : 20.5
+            },
+            "text" : "LOADING"
+        }
+    ]
+}

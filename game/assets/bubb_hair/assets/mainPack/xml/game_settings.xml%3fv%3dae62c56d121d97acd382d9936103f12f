@@ -1,0 +1,53 @@
+<data>
+	<seat_positions>
+		<seat id="0" x="359" y="137">
+			<molly offset_x="0" offset_y="0" />
+			<gil offset_x="0" offset_y="0" />
+			<goby offset_x="0" offset_y="0" />
+			<deema offset_x="0" offset_y="0" />
+			<oona offset_x="0" offset_y="0" />
+			<nonny offset_x="0" offset_y="0" />
+		</seat>
+		<seat id="1" x="217" y="95">
+			<molly offset_x="0" offset_y="0" />
+			<gil offset_x="0" offset_y="0" />
+			<goby offset_x="0" offset_y="0" />
+			<deema offset_x="0" offset_y="0" />
+			<oona offset_x="0" offset_y="0" />
+			<nonny offset_x="0" offset_y="0" />
+		</seat>
+		<seat id="2" x="282" y="91">
+			<molly offset_x="0" offset_y="0" />
+			<gil offset_x="0" offset_y="0" />
+			<goby offset_x="0" offset_y="0" />
+			<deema offset_x="0" offset_y="0" />
+			<oona offset_x="0" offset_y="0" />
+			<nonny offset_x="0" offset_y="0" />
+		</seat>
+		<seat id="3" x="759" y="98">
+			<molly offset_x="0" offset_y="0" />
+			<gil offset_x="0" offset_y="0" />
+			<goby offset_x="0" offset_y="0" />
+			<deema offset_x="0" offset_y="0" />
+			<oona offset_x="0" offset_y="0" />
+			<nonny offset_x="0" offset_y="0" />
+		</seat>
+		<seat id="4" x="816" y="104">
+			<molly offset_x="0" offset_y="0" />
+			<gil offset_x="0" offset_y="0" />
+			<goby offset_x="0" offset_y="0" />
+			<deema offset_x="0" offset_y="0" />
+			<oona offset_x="0" offset_y="0" />
+			<nonny offset_x="0" offset_y="0" />
+		</seat>
+		<seat id="5" x="874" y="108">
+			<molly offset_x="0" offset_y="0" />
+			<gil offset_x="0" offset_y="0" />
+			<goby offset_x="0" offset_y="0" />
+			<deema offset_x="0" offset_y="0" />
+			<oona offset_x="0" offset_y="0" />
+			<nonny offset_x="0" offset_y="0" />
+		</seat>
+	</seat_positions>
+	<URL printableURL="assets/mainPack/pdf/printable.pdf"></URL>
+</data>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Scene Width="2048" Height="1024" Name="world_tutorial">
+  <ImageDefs>
+    <Image ImageName="gp_platform_town_top_l" X="1152" Y="448" ImageType="Image" PatternWidth="0" PatternHeight="0" />
+    <Image ImageName="gp_platform_town_middle" X="1280" Y="512" ImageType="Pattern" PatternWidth="768" PatternHeight="128" />
+    <Image ImageName="gp_platform_town_middle" X="0" Y="640" ImageType="Pattern" PatternWidth="2048" PatternHeight="384" />
+    <Image ImageName="gp_platform_town_middle_r" X="0" Y="0" ImageType="Pattern" PatternWidth="128" PatternHeight="576" />
+    <Image ImageName="gp_platform_town_middle_l" X="1920" Y="0" ImageType="Pattern" PatternWidth="128" PatternHeight="448" />
+    <Image ImageName="gp_platform_town_inner_top_r" X="1920" Y="448" ImageType="Image" PatternWidth="0" PatternHeight="0" />
+    <Image ImageName="gp_platform_town_top" X="1280" Y="448" ImageType="Pattern" PatternWidth="640" PatternHeight="64" />
+    <Image ImageName="gp_platform_town_middle_l" X="1152" Y="512" ImageType="Image" PatternWidth="0" PatternHeight="0" />
+    <Image ImageName="gp_platform_town_inner_top_r" X="1152" Y="576" ImageType="Image" PatternWidth="0" PatternHeight="0" />
+    <Image ImageName="gp_platform_town_inner_top_l" X="0" Y="576" ImageType="Image" PatternWidth="0" PatternHeight="0" />
+    <Image ImageName="gp_platform_town_top" X="128" Y="576" ImageType="Pattern" PatternWidth="1024" PatternHeight="64" />
+  </ImageDefs>
+</Scene>

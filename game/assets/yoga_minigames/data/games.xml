@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<!-- Sequence of Games -->
+<games>
+	<scenes id="gameSequence" className="com.nickjr.gamedev.game.GameSequence" >		
+		<!-- muno_catch -->	
+		<scene id="muno_catch" className="com.nickjr.app.metaGameEngine.view.scene.GameLoaderSceneView">
+			<media_source id="media_source" value="assets/games/muno_catch/assets/container.swf"/>
+			<data_source  id="data_source" value="assets/games/muno_catch/data/config.xml"/>
+			<display_name id="display_name" value="muno_catch" />
+		</scene>	
+		<!-- slot_machine01 -->	
+		<scene id="slot_machine01" className="com.nickjr.app.metaGameEngine.view.scene.GameLoaderSceneView">
+			<media_source id="media_source" value="assets/games/slot_machine01/assets/container.swf"/>
+			<data_source  id="data_source" value="assets/games/slot_machine01/data/config.xml"/>
+			<display_name id="display_name" value="slot_machine01" />
+		</scene>
+		<!-- Race to Finish -->	
+		<scene id="race_to_finish" className="com.nickjr.app.metaGameEngine.view.scene.GameLoaderSceneView">
+			<media_source id="media_source" value="assets/games/race_to_finish/assets/container.swf"/>
+			<data_source  id="data_source" value="assets/games/race_to_finish/data/config.xml"/>
+			<display_name id="display_name" value="race_to_finish" />
+		</scene>
+		
+		<!-- brobees_hungry -->	
+		<scene id="brobees_hungry" className="com.nickjr.app.metaGameEngine.view.scene.GameLoaderSceneView">
+			<media_source id="media_source" value="assets/games/brobees_hungry/assets/container.swf"/>
+			<data_source  id="data_source" value="assets/games/brobees_hungry/data/config.xml"/>
+			<display_name id="display_name" value="brobees_hungry" />
+		</scene>		
+		<!-- Tug of War  -->	
+		<scene id="tug_of_war" className="com.nickjr.app.metaGameEngine.view.scene.GameLoaderSceneView">
+			<media_source id="media_source" value="assets/games/tug_of_war/assets/container.swf"/>
+			<data_source  id="data_source" value="assets/games/tug_of_war/data/config.xml"/>
+			<display_name id="display_name" value="tug_of_war" />
+		</scene>	
+		
+		<!-- muno_vac -->	
+		<scene id="muno_vac" className="com.nickjr.app.metaGameEngine.view.scene.GameLoaderSceneView">
+			<media_source id="media_source" value="assets/games/muno_vac/assets/container.swf"/>
+			<data_source  id="data_source" value="assets/games/muno_vac/data/config.xml"/>
+			<display_name id="display_name" value="muno_vac" />
+		</scene>		
+	</scenes>
+</games>	

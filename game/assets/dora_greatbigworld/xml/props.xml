@@ -1,0 +1,34 @@
+<proxy>
+	<property name="loadDataUrl" enabled="true"><![CDATA[http://www.nickjr.com/load/data/url]]></property>
+	<property name="saveDataUrl" enabled="false"><![CDATA[http://www.nickjr.com/save/data/url]]></property>
+
+	<!-- Service structure still under development -->
+	<service name="isLoggedIn" type="external">
+		<request><![CDATA[isLoggedIn]]></request>
+		<response><![CDATA[response_isLoggedIn]]></response>
+	</service>
+	<service name="loginOverlay" type="external">
+		<request><![CDATA[loginOverlay]]></request>
+		<response><![CDATA[response_onLoginSuccess]]></response>
+	</service>
+	<service name="getCompletedActivities" type="external">
+		<request><![CDATA[getCompletedActivities]]></request>
+		<response><![CDATA[response_getCompletedActivities]]></response>
+	</service>
+	<service name="getChildren" type="external">
+		<request><![CDATA[getChildren]]></request>
+		<response><![CDATA[response_getChildren]]></response>
+	</service>
+	<service name="getChildGameData" type="external">
+		<request><![CDATA[getChildGameData]]></request>
+		<response><![CDATA[response_getChildGameData]]></response>
+	</service>
+	<service name="setChildGameData" type="external">
+		<request><![CDATA[setChildGameData]]></request>
+		<response><![CDATA[response_setChildGameData]]></response>
+	</service>
+	<service name="addChildOverlay" type="external">
+		<request><![CDATA[addChildOverlay]]></request>
+		<response><![CDATA[response_onAddChildClose]]></response>
+	</service>
+</proxy>

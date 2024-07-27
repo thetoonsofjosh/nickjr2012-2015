@@ -1,0 +1,142 @@
+<Settings>
+  <SwfsToLoad>
+				<SwfToLoad id="music" path="music.swf" target="none" />
+  </SwfsToLoad>
+	<GeneralSettings>
+	     <constant id="gamerounds" val="4" />
+	</GeneralSettings>
+	<SoundsToLoad dir="mp3/">
+	
+		<sound path="TOT_1.mp3" list="title" />
+		<sound path="TOT_2.mp3" list="title" />
+		<sound path="TOT_2.mp3" list="nextprompt" />
+		<sound path="TOT_3.mp3" list="" />
+		<sound path="TOT_4.mp3" list="TOT_4" />
+		<sound path="TOT_5.mp3" list="TOT_5" />
+		<sound path="TOT_6.mp3" list="TOT_6" />
+		<sound path="TOT_7.mp3" list="p1boxdetail" />
+		<sound path="TOT_7a.mp3" list="p1boxdetail" />
+		<sound path="TOT_7b.mp3" list="p1boxdetail" />
+		<sound path="TOT_8.mp3" list="p1question0" />
+		<sound path="TOT_9.mp3" list="p1question0" />
+		<sound path="TOT_10.mp3" list="p1question1" />
+		<sound path="TOT_11.mp3" list="p1question2" />
+		<sound path="TOT_12.mp3" list="p1wrong" />
+		<sound path="TOT_13.mp3" list="p1right0" />
+		<sound path="TOT_14.mp3" list="p1right1" />
+		<sound path="TOT_15.mp3" list="p1right2" />
+		<sound path="TOT_16.mp3" list="TOT_16" />
+		<sound path="TOT_17.mp3" list="TOT_17" />
+		<sound path="TOT_17a.mp3" list="TOT_17a" />
+		<sound path="TOT_18.mp3" list="TOT_18" />
+		<sound path="TOT_19.mp3" list="TOT_19" />
+		<sound path="TOT_20.mp3" list="TOT_20" />
+		<sound path="TOT_21.mp3" list="TOT_21" />
+		<sound path="TOT_22.mp3" list="TOT_22" />
+		<sound path="TOT_23.mp3" list="TOT_23" />
+		<sound path="TOT_24.mp3" list="TOT_24" />
+		<sound path="TOT_25.mp3" list="TOT_25" />
+		<sound path="TOT_26.mp3" list="TOT_26" />
+		<sound path="TOT_27.mp3" list="TOT_27" />
+		<sound path="TOT_28.mp3" list="TOT_28" />
+		<sound path="TOT_29.mp3" list="TOT_29" />
+		<!-- <sound path="TOT_30.mp3" list="" />
+		<sound path="TOT_31.mp3" list="" /> -->
+		<sound path="TOT_32.mp3" list="TOT_32" />
+		<sound path="TOT_33.mp3" list="TOT_33" />
+		<!-- <sound path="TOT_34.mp3" list="" /> -->
+		<sound path="TOT_35.mp3" list="" />
+		<sound path="TOT_36.mp3" list="TOT_36" />
+		<sound path="TOT_37.mp3" list="TOT_37" />
+		<sound path="TOT_38.mp3" list="TOT_38" />
+		<sound path="TOT_39.mp3" list="TOT_39" />
+		<sound path="TOT_40.mp3" list="p5intro" />
+		<sound path="TOT_41.mp3" list="p5intro" />
+		<sound path="TOT_42.mp3" list="p5prompt" />
+		<sound path="TOT_43.mp3" list="p5wrong" />
+		<sound path="TOT_44.mp3" list="p5right" />
+		<sound path="TOT_45.mp3" list="TOT_45" />
+		<sound path="TOT_46.mp3" list="TOT_46" />
+		<sound path="TOT_47.mp3" list="TOT_47" />
+		<sound path="TOT_48.mp3" list="TOT_48" />
+		<sound path="TOT_49.mp3" list="p7qintro" />
+		<sound path="TOT_50.mp3" list="p7qintro" />
+		<sound path="TOT_51.mp3" list="p7q1" />
+		<sound path="TOT_52.mp3" list="p7q2" />
+		<sound path="TOT_53.mp3" list="p7q3" />
+		<sound path="TOT_54.mp3" list="p7q4" />
+		<sound path="TOT_55.mp3" list="p7wrongA" />
+		<sound path="TOT_56.mp3" list="p7wrongB" />
+		<sound path="TOT_57.mp3" list="p7_1" />
+		<sound path="TOT_58.mp3" list="p7_2" />
+		<sound path="TOT_59.mp3" list="p7_3" />
+		<sound path="TOT_60.mp3" list="p7_4" />
+		<sound path="TOT_61.mp3" list="p7_5" />
+		<sound path="TOT_62.mp3" list="p7right1" />
+		<sound path="TOT_63.mp3" list="p7right2" />
+		<sound path="TOT_64.mp3" list="p7right3" />
+		<sound path="TOT_65.mp3" list="p7right4" />
+		<sound path="TOT_66.mp3" list="p7right5" />
+		<sound path="TOT_67.mp3" list="TOT_67" />
+		<sound path="TOT_68.mp3" list="TOT_68" />
+		<sound path="TOT_69.mp3" list="TOT_69" />
+		<sound path="TOT_70.mp3" list="TOT_70" />
+		<sound path="TOT_70A.mp3" list="TOT_70A" />
+		<sound path="TOT_71.mp3" list="TOT_71" />
+		<sound path="TOT_72.mp3" list="TOT_72" />
+		<sound path="TOT_73.mp3" list="p9intro1" />
+		<sound path="TOT_74.mp3" list="p9intro1" />
+		<sound path="TOT_75.mp3" list="TOT_75" />
+		<sound path="TOT_76.mp3" list="" />
+		<sound path="TOT_77.mp3" list="p9hitsnake" />
+		<sound path="TOT_78.mp3" list="p9intro2" />
+		<sound path="TOT_79.mp3" list="p9intro3" />
+		<sound path="TOT_80.mp3" list="p9end" />
+		<sound path="TOT_81.mp3" list="p9end" />
+		<sound path="TOT_82.mp3" list="TOT_82" />
+		<sound path="TOT_83.mp3" list="TOT_83" />
+		<sound path="TOT_84.mp3" list="TOT_84" />
+		<sound path="TOT_85.mp3" list="" />
+		<sound path="TOT_86.mp3" list="TOT_86" />
+		<sound path="TOT_87.mp3" list="TOT_87" />
+		<sound path="TOT_88.mp3" list="TOT_88" />
+		<sound path="TOT_89.mp3" list="TOT_89" />
+		<sound path="TOT_90.mp3" list="TOT_90" />
+		<sound path="TOT_91.mp3" list="TOT_91" />
+		<sound path="TOT_92.mp3" list="p11intro" />
+		<sound path="TOT_92a.mp3" list="p11intro" />
+		<sound path="TOT_93.mp3" list="p11q1" />
+		<sound path="TOT_94.mp3" list="" />
+		<sound path="TOT_95.mp3" list="p11wrong1" />
+		<sound path="TOT_96.mp3" list="p11right1" />
+		<sound path="TOT_97.mp3" list="p11q2" />
+		<sound path="TOT_98.mp3" list="" />
+		<sound path="TOT_99.mp3" list="p11wrong2" />
+		<sound path="TOT_100.mp3" list="p11right2" />
+		<sound path="TOT_101.mp3" list="TOT_101" />
+		<sound path="TOT_102.mp3" list="TOT_102" />
+		<sound path="TOT_103.mp3" list="TOT_103" />
+		<sound path="TOT_104.mp3" list="TOT_104" />
+		<sound path="TOT_105.mp3" list="TOT_105" />
+		<sound path="TOT_106.mp3" list="TOT_106" />
+		<sound path="TOT_107.mp3" list="TOT_107" />
+		<sound path="TOT_108.mp3" list="TOT_108" />
+		<sound path="TOT_109.mp3" list="TOT_109" />
+		<sound path="TOT_110.mp3" list="TOT_110" />
+		<sound path="TOT_111.mp3" list="TOT_111" />
+		<sound path="TOT_112.mp3" list="TOT_112" />
+		<sound path="TOT_113.mp3" list="TOT_113" />
+		<sound path="TOT_114.mp3" list="TOT_114" />
+		<sound path="TOT_115.mp3" list="TOT_115" />
+		<sound path="TOT_116.mp3" list="TOT_116" />
+		<sound path="TOT_117.mp3" list="TOT_117" />
+		<sound path="TOT_118.mp3" list="TOT_118" />
+		<sound path="TOT_119.mp3" list="TOT_119" />
+		<sound path="TOT_120.mp3" list="TOT_120" />
+		<sound path="TOT_121.mp3" list="TOT_121" />
+		
+		
+	</SoundsToLoad>
+		
+	
+</Settings>

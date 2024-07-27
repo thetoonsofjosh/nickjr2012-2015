@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>		
+	</assets>
+		
+		<!-- Categorize assets based on section names -->
+		<global>
+			<asset id="musicLoops" src="/game/assets/niha_ladybug/assets/audio/sounds.swf" />
+		</global>
+		<section id="preloader">
+			<asset id="main" src="/game/assets/niha_ladybug/main.swf" />
+		</section>
+		<section id="main">
+			<asset id="printable" src="/game/assets/niha_ladybug/assets/swf/printable.swf" />
+			<asset id="transition1" src="/game/assets/niha_ladybug/assets/swf/transition_flower.swf" />
+			<asset id="mouths" src="/game/assets/niha_ladybug/assets/swf/mouths.swf" />
+		</section>
+		
+		<!-- List of sound assets to load into the sound manager -->
+		<sounds base="/game/assets/niha_ladybug/assets/audio">
+			<pool id="sounds">
+				<asset id="click" src="/game/assets/niha_ladybug/assets/audio/sounds/button.mp3" maxVolume=".3"/>
+				<asset id="correct" src="/game/assets/niha_ladybug/assets/audio/sounds/correctanswer.mp3"/>
+			</pool>
+			<pool id="incorrect">
+				<asset id="wrong1" src="/game/assets/niha_ladybug/assets/audio/sounds/wronganswer.mp3" />
+				<asset id="wrong2" src="/game/assets/niha_ladybug/assets/audio/sounds/wronganswer2.mp3" />
+			</pool>
+			<pool id="music" >
+				<asset id="end1" src="/game/assets/niha_ladybug/assets/audio/music/kailan_theme_endstringLv1.mp3"/>
+				<asset id="end2" src="/game/assets/niha_ladybug/assets/audio/music/kialan_theme_endstingSv2.mp3" />
+				<!-- <asset id="theme1" src="music/kailan_themeloop_lv1.mp3" maxVolume=".3" /> -->
+				<asset id="themeTrans" src="/game/assets/niha_ladybug/assets/audio/music/kailan_themetransv1.mp3" />
+				<asset id="musicTrans" src="/game/assets/niha_ladybug/assets/audio/music/klmg_musictransv1.mp3" />
+				<!-- <asset id="level1" src="music/klmg_gamemusic_loop_level1.mp3" maxVolume=".3" />
+				<asset id="level2" src="music/klmg_gamemusicloop_level2.mp3" maxVolume=".3" />
+				<asset id="level3" src="music/klmg_gamemusic_loop_level3.mp3" maxVolume=".3" /> -->
+			</pool>						
+		</sounds>
+		
+	</assets>
+	
+	<levels>
+		<level questions="3">
+			<item mc="mcCarrot" target="true" sound="carrot" />
+			<item mc="mcCarrotDecoy" />
+			<item mc="mcPurpleFlower" target="true" sound="purpleFlower" />
+			<item mc="mcPurpleFlowerDecoy" />
+			<item mc="mcApple" target="true" sound="apple" />
+			<item mc="mcAppleDecoy" />
+			<item mc="mcEggplant" target="true" sound="eggplant" />
+			<item mc="mcEggplantDecoy" />
+			<item mc="mcPumpkin" target="true" sound="pumpkin" />
+			<item mc="mcPumpkinDecoy" />
+			<item mc="mcShovel" target="true" sound="shovel" />
+			<item mc="mcShovelDecoy" />
+		</level>
+		
+		<level questions="3">
+			<item mc="mcBunny" target="true" sound="bunny" />
+			<item mc="mcBunnyDecoy" />
+			<item mc="mcBunnyDecoy1" />
+			<item mc="mcBunnyDecoy2" />
+			<item mc="mcSquirrel" target="true" sound="squirrel" />
+			<item mc="mcSquirrelDecoy" />
+			<item mc="mcSquirrelDecoy1" />
+			<item mc="mcSquirrelDecoy2" />
+			<item mc="mcSquirrelDecoy3" />
+			<item mc="mcSquirrelDecoy4" />
+			<item mc="mcButterfly" target="true" sound="butterfly" />
+			<item mc="mcButterflyDecoy" />
+			<item mc="mcButterflyDecoy1" />
+			<item mc="mcButterflyDecoy2" />
+			<item mc="mcButterflyDecoy3" />
+			<item mc="mcButterflyDecoy4" />
+			<item mc="mcBee" target="true" sound="bee" />
+			<item mc="mcBeeDecoy" />
+			<item mc="mcBeeDecoy1" />
+			<item mc="mcBeeDecoy2" />
+			<item mc="mcBeeDecoy3" />
+			<item mc="mcBeeDecoy4" />
+			<item mc="mcBeeDecoy5" />
+			<item mc="mcChick" target="true" sound="chick" />
+			<item mc="mcChickDecoy" />
+			<item mc="mcBlueFlowers" target="true" sound="blueFlowers" />
+			<item mc="mcBlueFlowersDecoy" />
+			<item mc="mcBlueFlowersDecoy1" />
+		</level>
+		
+		<level questions="3">
+			<item mc="mcLadyBug" target="true" sound="ladyBug" />
+			<item mc="mcLadyBugDecoy" />
+			<item mc="mcFerrisWheel" target="true" sound="ferrisWheel" />
+			<item mc="mcFerrisWheelDecoy" />
+			<item mc="mcBumper" target="true" sound="bumper" />
+			<item mc="mcBumperDecoy" />
+			<item mc="mcBlueBird" target="true" sound="blueBird" />
+			<item mc="mcBlueBirdDecoy" />
+			<item mc="mcSeesaw" target="true" sound="seesaw" />
+			<item mc="mcSeesawDecoy" />
+			<item mc="mcBike" target="true" sound="bike" />
+			<item mc="mcBikeDecoy" />
+			
+			
+
+		</level>
+	</levels>
+</config>

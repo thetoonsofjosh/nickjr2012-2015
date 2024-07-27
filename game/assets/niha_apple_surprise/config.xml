@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content>
+	<settings>
+		<contentSWF>content.swf</contentSWF>
+		<tuneInSWF>TuneInNHKL_03.swf</tuneInSWF>
+	</settings>	
+	<level1>
+		<goodDropRate>100</goodDropRate>
+		<row1 min="4" max="5" color="red" 		goodRate="20"	badRate="20"></row1>
+		<row2 min="0" max="0" color="yellow" 	goodRate="0"	badRate="0"></row2>
+		<row3 min="0" max="0" color="green" 	goodRate="0"	badRate="0"></row3>
+	</level1>
+	<level2>
+		<goodDropRate>80</goodDropRate>
+		<row1 min="3" max="4" color="red" 		goodRate="20"	badRate="20"></row1>
+		<row2 min="4" max="5" color="yellow" 	goodRate="20"	badRate="20"></row2>
+		<row3 min="0" max="0" color="green" 	goodRate="0"	badRate="0"></row3>
+	</level2>
+	<level3>
+		<goodDropRate>70</goodDropRate>
+		<row1 min="2" max="3" color="red" 		goodRate="20"	badRate="20"></row1>
+		<row2 min="2" max="3" color="yellow" 	goodRate="20"	badRate="20"></row2>
+		<row3 min="3" max="4" color="green" 	goodRate="20"	badRate="20"></row3>
+	</level3>
+</content>

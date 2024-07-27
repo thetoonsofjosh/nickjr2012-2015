@@ -1,0 +1,13 @@
+<java>response.setContentType("text/xml");</java>
+<?xml version="1.0" ?>
+
+<importbean bean="/atg/dynamo/droplet/ForEach">
+<importbean bean="/atg/dynamo/droplet/Switch">
+<importbean bean="/com/nickonline/poll/Request">
+<setvalue bean="Request.pollName" value="dora_twins_game">
+<setvalue bean="Request.ballotName" value="todays_id">
+
+
+<xml>
+	<DoraTwinsGame todaysId="bean:Request.ballot.texts[0]"/>
+</xml>

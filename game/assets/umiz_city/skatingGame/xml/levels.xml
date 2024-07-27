@@ -1,0 +1,1352 @@
+<data>
+<level_1>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_2 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_0 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_2 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_4 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_1 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_2 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_0 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_2 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_4 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_3 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_2 symbol="item_ramp"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_2 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_2 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_2 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_2 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_4 symbol="item_level_wrong"/><item_0 symbol="item_level_right"/></tile><!--1-->
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_0 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_2 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_4 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_3 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_2 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_2 symbol="item_ramp"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_4 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_3 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_2 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_4 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_3 symbol="item_puddle"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_4 symbol="item_blank"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_4 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_2 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_0 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_4 symbol="item_level_wrong"/><item_0 symbol="item_level_right"/></tile><!--2-->
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_3 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_4 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_2 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_3 symbol="item_puddle"/><item_0 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_4 symbol="item_puddle"/><item_1 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_2 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_3 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_4 symbol="item_puddle"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_0 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_2 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_0 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_0 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_2 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_0 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_0 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_1 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_3 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_0 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_0 symbol="item_level_wrong"/><item_4 symbol="item_level_right"/></tile><!--3-->
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_4 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_3 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_1 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_2 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_0 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_4 symbol="item_ramp"/><item_0 symbol="item_ramp"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_2 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_3 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_4 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_2 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_0 symbol="item_banana"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_1 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_4 symbol="item_puffball"/><item_0 symbol="item_puddle"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_4 symbol="item_puffball"/><item_2 symbol="item_banana"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_4 symbol="item_puddle"/><item_2 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_3 symbol="item_banana"/><item_1 symbol="item_banana"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_1 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_2 symbol="item_banana"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_4 symbol="item_level_wrong"/><item_0 symbol="item_level_right"/></tile><!--4-->
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_2 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_0 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_4 symbol="item_ramp"/><item_0 symbol="item_ramp"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_4 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_3 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_2 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_2 symbol="item_banana"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_0 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_4 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_1 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_0 symbol="item_puffball"/><item_2 symbol="item_banana"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_3 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_3 symbol="item_puffball"/><item_1 symbol="item_puddle"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_2 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_4 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_0 symbol="item_banana"/><item_1 symbol="item_banana"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_1 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_3 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_1 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_4 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_3 symbol="item_banana"/><item_1 symbol="item_banana"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_2 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_0 symbol="item_level_wrong"/><item_4 symbol="item_level_right"/></tile><!--5-->
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_2 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_2 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_1 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_2 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_2 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_2 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_2 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+</level_1>
+<level_2>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_2 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_4 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_2 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_3 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_4 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_2 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_3 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_3 symbol="item_ramp"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_2 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_2 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_3 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_3 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_3 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_4 symbol="item_level_right"/><item_0 symbol="item_level_wrong"/></tile><!--1-->
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_1 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_2 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_3 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_2 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_3 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_2 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_1 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+
+<tile symbol="tile_2"><item_3 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_1 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<!-- -->
+<tile symbol="tile_2"><item_2 symbol="item_puffball_rolling"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_0 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_1 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_3 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_4 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_1 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_1 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_1 symbol="item_banana"/><item_3 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_3 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_0 symbol="item_level_right"/><item_4 symbol="item_level_wrong"/></tile><!--2-->
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_2 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_3 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_1 symbol="item_ramp"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_3 symbol="item_banana"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_1 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_1 symbol="item_banana"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_2 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_2 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_1 symbol="item_banana"/><item_0 symbol="item_banana"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_1 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_2 symbol="item_banana"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_0 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_0 symbol="item_ramp"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_0 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_1 symbol="item_banana"/><item_2 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_4 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_0 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_2 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_2 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_3 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_0 symbol="item_level_right"/><item_4 symbol="item_level_wrong"/></tile><!--3-->
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_3 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_2 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_1 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_1 symbol="item_banana"/><item_3 symbol="item_banana"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_3 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_0 symbol="item_banana"/><item_2 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_4 symbol="item_banana"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_1 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_1 symbol="item_banana"/><item_3 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<!-- -->
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_4 symbol="item_puffball_rolling"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_2 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_2 symbol="item_banana"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_3 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_3 symbol="item_ramp"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_4 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_2 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_2 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_2 symbol="item_puddle"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_2 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_4 symbol="item_level_right"/><item_0 symbol="item_level_wrong"/></tile><!--4-->
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_0 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_1 symbol="item_puddle"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_0 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_3 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_1 symbol="item_puddle"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_4 symbol="item_banana"/><item_0 symbol="item_banana"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_2 symbol="item_puddle"/><item_1 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_3 symbol="item_puffball"/><item_2 symbol="item_puddle"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_1 symbol="item_puffball"/><item_2 symbol="item_puddle"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_3 symbol="item_puffball"/><item_2 symbol="item_puddle"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_1 symbol="item_puffball"/><item_2 symbol="item_puddle"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_2 symbol="item_puffball"/><item_3 symbol="item_puddle"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_3 symbol="item_ramp"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_2 symbol="item_puddle"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_3 symbol="item_puffball"/><item_4 symbol="item_puddle"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_1 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_1 symbol="item_puddle"/><item_3 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_2 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_3 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_4 symbol="item_level_right"/><item_0 symbol="item_level_wrong"/></tile><!--5-->
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_4 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_2 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_2 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+</level_2>
+<level_3>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_2 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_2 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_3 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_1 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_3 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_1 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_3 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_1 symbol="item_banana"/><item_3 symbol="item_banana"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_2 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_1 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_4 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_1 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_1 symbol="item_balloon"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_3 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_2 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_1 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_3 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_2 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><!--pattern start--></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><!--blank--></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><!-- --></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><!-- --></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><!-- --></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><!--blank--></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><!-- --></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><!-- --></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_0 symbol="item_level_right"/><item_4 symbol="item_level_wrong"/></tile><!--1-->
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_3 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_3 symbol="item_banana"/><item_1 symbol="item_banana"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_2 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_0 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_2 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_3 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_1 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_2 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_2 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_1 symbol="item_puffball_rolling"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_3 symbol="item_ramp"/><item_1 symbol="item_ramp"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_3 symbol="item_puffball_rolling"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><!--pattern start--></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><!--blank--></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><!-- --></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><!-- --></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><!-- --></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><!--blank--></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><!-- --></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><!-- --></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_4 symbol="item_level_right"/><item_0 symbol="item_level_wrong"/></tile><!--2-->
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_3 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_1 symbol="item_puddle"/><item_3 symbol="item_puddle"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_0 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_4 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_0 symbol="item_puddle"/><item_4 symbol="item_puddle"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_4 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_1 symbol="item_puffball_rolling"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_3 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_3 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_3 symbol="item_balloon"/><item_1 symbol="item_puddle"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_2 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_2 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><!--pattern start--></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><!--blank--></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><!-- --></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><!-- --></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><!-- --></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><!--blank--></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><!-- --></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><!-- --></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_0 symbol="item_level_right"/><item_4 symbol="item_level_wrong"/></tile><!--3-->
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_3 symbol="item_balloon"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_1 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_2 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_4 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_2 symbol="item_balloon"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_1 symbol="item_puddle"/><item_3 symbol="item_puddle"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_2 symbol="item_banana"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_2 symbol="item_balloon"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_3 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_2 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_1 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_2 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><!--pattern start--></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><!--blank--></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><!-- --></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><!-- --></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><!-- --></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><!--blank--></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><!-- --></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><!-- --></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_4 symbol="item_level_right"/><item_0 symbol="item_level_wrong"/></tile><!--4-->
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_2 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_1 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_1 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_1 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_0 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_4 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_2 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_2 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_2 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_2 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><!--pattern start--></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><!--blank--></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><!-- --></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><!-- --></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><!-- --></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><!--blank--></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><!-- --></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><!-- --></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_4 symbol="item_level_right"/><item_0 symbol="item_level_wrong"/></tile><!--5-->
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_2 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_2 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"><item_2 symbol="item_puffball"/></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+<tile symbol="tile_2"></tile>
+</level_3></data>

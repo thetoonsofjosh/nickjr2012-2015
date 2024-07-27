@@ -1,0 +1,38 @@
+<xml>
+	<loadSchema preloader="preloader.swf" localizationXML="xml/strings.xml" fontSWF="swf/resources/fonts.swf" loader="loader.swf" audioXML="xml/soundFiles.xml" primaryBatch="primary" autoLoadQueue="emptyBatch" />
+	
+	<primary>
+		<!---- swf id="childswf" file="childswf.swf" -->
+		<!---- xml id="xml" file="xml.xml" -->
+		<!---- img id="img" file="img.jpg" -->
+		<!---- txtData id="childswf" file="txt.cvs" -->
+		
+		<audioLoadList groupIDQueue="music,sting,sfx,vo" />
+		<audioswf id="audioSWF" file="swf/resources/audioswf.swf" />
+		
+		<swf id="DRR_ArtLibrary" file="swf/resources/DRR_ArtLibrary.swf" />
+		
+		<swf id="DRR_Scene_Title" file="swf/scenes/DRR_Scene_Title.swf" />
+		<swf id="DRR_Scene_Intro" file="swf/scenes/DRR_Scene_Intro.swf" />
+		<swf id="DRR_Scene_Tutorial" file="swf/scenes/DRR_Scene_Tutorial.swf" />
+		<swf id="DRR_Scene_Iris" file="swf/scenes/DRR_Scene_Iris.swf" />
+		<swf id="DRR_Scene_MapSequence" file="swf/scenes/DRR_Scene_MapSequence.swf" />
+		<swf id="DRR_Scene_Malambruno" file="swf/scenes/DRR_Scene_Malambruno.swf" />
+		<swf id="DRR_Scene_EndAnimation" file="swf/scenes/DRR_Scene_EndAnimation.swf" />
+		
+		<swf id="DRR_GateChallenge" file="swf/minigames/DRR_GateChallenge.swf" />
+		<swf id="DRR_SequenceChallenge" file="swf/minigames/DRR_SequenceChallenge.swf" />
+		<swf id="DRR_EndScreen" file="swf/minigames/DRR_EndScreen.swf" />
+		
+		<xml id="booksXML" file="xml/books.xml" />
+		<xml id="prefabs" file ="xml/prefabs.xml" />
+		
+		<xml id="level_1" file ="xml/Level1_v04.64.xml" />
+		<xml id="level_2" file ="xml/Level2_v50.xml" />
+		<xml id="level_3" file ="xml/Level3_v01.39.xml" />
+	</primary>
+	
+	<emptyBatch>
+		
+	</emptyBatch>
+</xml>

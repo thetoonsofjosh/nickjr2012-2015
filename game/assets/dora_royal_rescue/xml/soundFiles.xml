@@ -1,0 +1,401 @@
+<data dir="mp3/">
+  <music channel="music" volume="50">
+    <sound file="musicTitle" volume="50" loops="1" inLibrary="true"/>
+    <sound file="musicChallenge" volume="50" inLibrary="true"/>
+    <sound file="musicLevels" volume="40" inLibrary="true"/>
+    <sound file="musicEndSeq" volume="50" inLibrary="true"/>
+    <sound file="breakdown1" volume="50" loops="1" inLibrary="true"/>
+    <sound file="breakdown2" volume="50" loops="1" inLibrary="true"/>
+    <sound file="stingChallenge1" volume="50" loops="1" inLibrary="true"/>
+    <sound file="stingChallenge2" volume="50" loops="1" inLibrary="true"/>
+    <sound file="stingChallenge3" volume="50" loops="1" inLibrary="true"/>
+  </music>
+  
+  <sting channel="sting" volume="50">
+	<sound file="musicEndLevel" volume="50" loops="1" inLibrary="true"/>
+    <sound file="musicEndLevel2-3" volume="50" loops="1" inLibrary="true"/>
+  </sting>
+  
+  <sfx channel="sfx" volume="50">
+    <sound file="click1" volume="20" inLibrary="true"/>
+
+    <sound file="ro1" volume="20" inLibrary="true"/>
+
+    <sound file="pageForward" volume="30" inLibrary="true"/>
+    <sound file="pageBack" volume="30" inLibrary="true"/>
+    <sound file="collectBook" volume="50" inLibrary="true"/>
+    <sound file="collectCrayon" volume="50" inLibrary="true"/>
+    <sound file="collectHorseshoe" volume="50" inLibrary="true"/>
+    <sound file="collectUmbrella" volume="50" inLibrary="true"/>
+    <sound file="horseWalkLoop" volume="50" loops="99999" inLibrary="true"/>
+    <sound file="horseWalkSlowLoop" volume="20" loops="99999" inLibrary="true"/>
+    <sound file="jump" volume="100" inLibrary="true"/>
+    <sound file="slide" volume="50" inLibrary="true"/>
+    <sound file="timeBlink" volume="10" inLibrary="true"/>
+    <sound file="bounceMushroom" volume="50" inLibrary="true"/>
+    <sound file="bounceBranch" volume="50" inLibrary="true"/>
+    <sound file="bounceOttoman" volume="50" inLibrary="true"/>
+    <sound file="web" volume="50" inLibrary="true"/>
+    <sound file="irisOpen" volume="30" inLibrary="true"/>
+    <sound file="irisClose" volume="30" inLibrary="true"/>
+    <sound file="underGood" volume="10" loops="99999" inLibrary="true"/>
+    <sound file="underBad" volume="10" loops="99999" inLibrary="true"/>
+
+    <sound file="color1" volume="50" inLibrary="true"/>
+	<sound file="color2" volume="50" inLibrary="true"/>
+    <sound file="color3" volume="50" inLibrary="true"/>
+    <sound file="color4" volume="50" inLibrary="true"/>
+    <sound file="color5" volume="50" inLibrary="true"/>
+    <sound file="door1" volume="60" inLibrary="true"/>
+    <sound file="door2and3" volume="60" inLibrary="true"/>
+    <sound file="mapHilite1" volume="50" inLibrary="true"/>
+    <sound file="mapHilite2" volume="50" inLibrary="true"/>
+    <sound file="mapHilite3" volume="50" inLibrary="true"/>
+    <sound file="fountain" volume="10" loop="99999" inLibrary="true"/>
+    <sound file="bookCA" volume="50" inLibrary="true"/>
+    <sound file="bookWA" volume="50" inLibrary="true"/>
+    <sound file="bookHilite" volume="30" inLibrary="true"/>
+    <sound file="riddleCA" volume="50" inLibrary="true"/>
+    <sound file="questionRo" volume="20" inLibrary="true"/>
+    <sound file="questionClick" volume="20" inLibrary="true"/>
+    <sound file="pageRo1" volume="20" inLibrary="true"/>
+    <sound file="pageRo2" volume="20" inLibrary="true"/>
+    <sound file="pageRo3" volume="20" inLibrary="true"/>
+    <sound file="pageRo4" volume="20" inLibrary="true"/>
+    <sound file="pageRo5" volume="20" inLibrary="true"/>
+    <sound file="pageRo6" volume="20" inLibrary="true"/>
+    <sound file="pageRo7" volume="20" inLibrary="true"/>
+    <sound file="pageRo8" volume="20" inLibrary="true"/>
+    <sound file="pageRo9" volume="20" inLibrary="true"/>
+    <sound file="pageRo10" volume="20" inLibrary="true"/>
+    <sound file="pageRo11" volume="20" inLibrary="true"/>
+    <sound file="pageCA1" volume="50" inLibrary="true"/>
+    <sound file="pageCA2" volume="50" inLibrary="true"/>
+    <sound file="pageCA3" volume="50" inLibrary="true"/>
+    <sound file="pageCA4" volume="50" inLibrary="true"/>
+    <sound file="pageCA5" volume="50" inLibrary="true"/>
+    <sound file="pageCA6" volume="50" inLibrary="true"/>
+    <sound file="roBook1" volume="20" inLibrary="true"/>
+    <sound file="roBook2" volume="20" inLibrary="true"/>
+    <sound file="roBook3" volume="20" inLibrary="true"/>
+    <sound file="roBook4" volume="20" inLibrary="true"/>
+    <sound file="roBook5" volume="20" inLibrary="true"/>
+    <sound file="roBook6" volume="20" inLibrary="true"/>
+
+	 <sound file="DRR_3.mp3" volume="100" inLibrary="false" id="skipBtnRO"/>
+	
+  </sfx>
+  <vo channel="vo" volume="50">
+	<!-- TITLE SCREEN -->
+    <sound volume="100" inLibrary="false" file="DRR_1.mp3" id="title_1"/>
+    <sound volume="100" inLibrary="false" file="DRR_2.mp3" id="title_2"/>
+	
+	<sound volume="100" inLibrary="false" file="DRR_2A.mp3" id="playBtnRO"/>
+	
+	<!-- ANIMATED INTRO -->
+   
+    <sound volume="100" inLibrary="false" file="DRR_4.mp3" id="DRR_4"/>
+    <sound volume="100" inLibrary="false" file="DRR_5.mp3" id="DRR_5"/>
+    <sound volume="100" inLibrary="false" file="DRR_6.mp3" id="DRR_6"/>
+    <sound volume="100" inLibrary="false" file="DRR_7.mp3" id="DRR_7"/>
+    <sound volume="100" inLibrary="false" file="DRR_8.mp3" id="DRR_8"/>
+    <sound volume="100" inLibrary="false" file="DRR_9.mp3" id="DRR_9"/>
+    <sound volume="100" inLibrary="false" file="DRR_10.mp3" id="DRR_10"/>
+    <sound volume="100" inLibrary="false" file="DRR_11.mp3" id="DRR_11"/>
+    <sound volume="100" inLibrary="false" file="DRR_12.mp3" id="DRR_12"/>
+    <sound volume="100" inLibrary="false" file="DRR_13.mp3" id="DRR_13"/>
+    <sound volume="100" inLibrary="false" file="DRR_14.mp3" id="DRR_14"/>
+    <sound volume="100" inLibrary="false" file="DRR_15.mp3" id="DRR_15"/>
+	
+	<!-- MAP SEQUENCE 1 -->
+    <sound volume="100" inLibrary="false" file="DRR_16.mp3" id="DRR_16"/>
+    <sound volume="100" inLibrary="false" file="DRR_17.mp3" id="DRR_17"/>
+    <sound volume="100" inLibrary="false" file="DRR_18.mp3" id="DRR_18"/>
+    <sound volume="100" inLibrary="false" file="DRR_19.mp3" id="DRR_19"/>
+    <sound volume="100" inLibrary="false" file="DRR_20.mp3" id="DRR_20"/>
+    <sound volume="100" inLibrary="false" file="DRR_21.mp3" id="DRR_21"/>
+	
+	<!-- TUTORIAL -->
+    <sound volume="100" inLibrary="false" file="DRR_22.mp3" id="DRR_22"/>
+    <sound volume="100" inLibrary="false" file="DRR_23.mp3" id="DRR_23"/>
+    <sound volume="100" inLibrary="false" file="DRR_24.mp3" id="DRR_24"/>
+    <sound volume="100" inLibrary="false" file="DRR_25.mp3" id="in_game_tutorial_2"/>
+    <sound volume="100" inLibrary="false" file="DRR_26.mp3" id="DRR_26"/>
+    <sound volume="100" inLibrary="false" file="DRR_27.mp3" id="DRR_27"/>
+    <sound volume="100" inLibrary="false" file="DRR_28.mp3" id="DRR_28"/>
+    <sound volume="100" inLibrary="false" file="DRR_29.mp3" id="DRR_29"/>
+	
+	<!-- LEVEL 1 -->
+    <sound volume="100" inLibrary="false" file="DRR_30.mp3" id="in_game_tutorial_1"/>
+    <sound volume="100" inLibrary="false" file="DRR_31.mp3" id="DRR_31"/>
+    <sound volume="100" inLibrary="false" file="DRR_31-ALT.mp3" id="DRR_31-ALT"/>
+    <sound volume="100" inLibrary="false" file="DRR_32.mp3" id="DRR_32"/>
+    <sound volume="100" inLibrary="false" file="DRR_32-ALT.mp3" id="DRR_32-ALT"/>
+    <sound volume="100" inLibrary="false" file="DRR_33.mp3" id="DRR_33"/>
+    <sound volume="100" inLibrary="false" file="DRR_34.mp3" id="slippery_hazard_1"/>
+    <sound volume="100" inLibrary="false" file="DRR_35-ALT2.mp3" id="slippery_hazard_2"/>
+    <sound volume="100" inLibrary="false" file="DRR_36.mp3" id="sticky_hazard_1"/>
+    <sound volume="100" inLibrary="false" file="DRR_36-ALT1.mp3" id="DRR_36-ALT1"/>
+    <sound volume="100" inLibrary="false" file="DRR_36-ALT2.mp3" id="DRR_36-ALT2"/>
+    <sound volume="100" inLibrary="false" file="DRR_36-ALT3.mp3" id="DRR_36-ALT3"/>
+    <sound volume="100" inLibrary="false" file="DRR_36-ALT4.mp3" id="DRR_36-ALT4"/>
+    <sound volume="100" inLibrary="false" file="DRR_36-ALT5.mp3" id="DRR_36-ALT5"/>
+    <sound volume="100" inLibrary="false" file="DRR_36-ALT6.mp3" id="DRR_36-ALT6"/>
+    <sound volume="100" inLibrary="false" file="DRR_36-ALT7.mp3" id="DRR_36-ALT7"/>
+    <sound volume="100" inLibrary="false" file="DRR_36-ALT8.mp3" id="DRR_36-ALT8"/>
+    <sound volume="100" inLibrary="false" file="DRR_37.mp3" id="DRR_37"/>
+    <sound volume="100" inLibrary="false" file="DRR_38.mp3" id="DRR_38"/>
+    <sound volume="100" inLibrary="false" file="DRR_38-ALT.mp3" id="DRR_38-ALT"/>
+    <sound volume="100" inLibrary="false" file="DRR_39.mp3" id="DRR_39"/>
+    <sound volume="100" inLibrary="false" file="DRR_39-ALT.mp3" id="DRR_39-ALT"/>
+    <sound volume="100" inLibrary="false" file="DRR_40.mp3" id="DRR_40"/>
+    <sound volume="100" inLibrary="false" file="DRR_41.mp3" id="book_pickup_1"/>
+    <sound volume="100" inLibrary="false" file="DRR_42.mp3" id="book_pickup_2"/>
+    <sound volume="100" inLibrary="false" file="DRR_43.mp3" id="book_pickup_3"/>
+    <sound volume="100" inLibrary="false" file="DRR_44.mp3" id="book_pickup_4"/>
+    <sound volume="100" inLibrary="false" file="DRR_45.mp3" id="book_pickup_5"/>
+    <sound volume="100" inLibrary="false" file="DRR_46.mp3" id="book_pickup_6"/>
+    <sound volume="100" inLibrary="false" file="DRR_47.mp3" id="book_pickup_7"/>
+    <sound volume="100" inLibrary="false" file="DRR_48.mp3" id="crayon_pickup_1"/>
+    <sound volume="100" inLibrary="false" file="DRR_49.mp3" id="crayon_pickup_2"/>
+    <sound volume="100" inLibrary="false" file="DRR_50.mp3" id="crayon_pickup_3"/>
+    <sound volume="100" inLibrary="false" file="DRR_51.mp3" id="crayon_pickup_4"/>
+    <sound volume="100" inLibrary="false" file="DRR_52.mp3" id="crayon_pickup_5"/>
+    <sound volume="100" inLibrary="false" file="DRR_53.mp3" id="level_end_1_1"/>
+    <sound volume="100" inLibrary="false" file="DRR_54.mp3" id="level_end_1_2"/>
+	
+	<!-- GATE CHALLENGE 1 -->
+    <sound volume="100" inLibrary="false" file="DRR_55.mp3" id="gate_challenge_start_1_1"/>
+    <sound volume="100" inLibrary="false" file="DRR_56.mp3" id="gate_challenge_start_1_2"/>
+	
+    <sound volume="100" inLibrary="false" file="DRR_57.mp3" id="question_1_1"/>
+    <sound volume="100" inLibrary="false" file="DRR_58.mp3" id="question_1_2"/>
+    <sound volume="100" inLibrary="false" file="DRR_59.mp3" id="question_1_3"/>
+    <sound volume="100" inLibrary="false" file="DRR_60.mp3" id="question_2_1"/>
+    <sound volume="100" inLibrary="false" file="DRR_61.mp3" id="question_2_2"/>
+    <sound volume="100" inLibrary="false" file="DRR_62.mp3" id="question_2_3"/>
+    <sound volume="100" inLibrary="false" file="DRR_63.mp3" id="question_3_1"/>
+    <sound volume="100" inLibrary="false" file="DRR_64.mp3" id="question_3_2"/>
+    <sound volume="100" inLibrary="false" file="DRR_65.mp3" id="question_3_3"/>
+    <sound volume="100" inLibrary="false" file="DRR_66.mp3" id="question_4_1"/>
+    <sound volume="100" inLibrary="false" file="DRR_67.mp3" id="question_4_2"/>
+    <sound volume="100" inLibrary="false" file="DRR_68.mp3" id="question_4_3"/>
+    <sound volume="100" inLibrary="false" file="DRR_69.mp3" id="question_5_1"/>
+    <sound volume="100" inLibrary="false" file="DRR_70.mp3" id="question_5_2"/>
+    <sound volume="100" inLibrary="false" file="DRR_71.mp3" id="question_5_3"/>
+    <sound volume="100" inLibrary="false" file="DRR_72.mp3" id="question_6_1"/>
+    <sound volume="100" inLibrary="false" file="DRR_73.mp3" id="question_6_2"/>
+    <sound volume="100" inLibrary="false" file="DRR_74.mp3" id="question_6_3"/>
+	
+    <sound volume="100" inLibrary="false" file="DRR_75.mp3" id="gate_challenge_hint_1"/>
+    <sound volume="100" inLibrary="false" file="DRR_76.mp3" id="gate_challenge_hint_2"/>
+	
+    <sound volume="100" inLibrary="false" file="DRR_77.mp3" id="topic_1_animals"/>
+    <sound volume="100" inLibrary="false" file="DRR_78.mp3" id="topic_2_colors"/>
+    <sound volume="100" inLibrary="false" file="DRR_79.mp3" id="topic_3_food"/>
+    <sound volume="100" inLibrary="false" file="DRR_80.mp3" id="topic_4_numbers"/>
+    <sound volume="100" inLibrary="false" file="DRR_81.mp3" id="topic_5_letters"/>
+    <sound volume="100" inLibrary="false" file="DRR_82.mp3" id="topic_6_shapes"/>
+	
+    <sound volume="100" inLibrary="false" file="DRR_83.mp3" id="gc_help_btn_click"/>
+	
+    <sound volume="100" inLibrary="false" file="DRR_84.mp3" id="topic_ro_start"/>
+    <sound volume="100" inLibrary="false" file="DRR_85.mp3" id="topic_ro_end"/>
+	
+    <sound volume="100" inLibrary="false" file="DRR_86.mp3" id="topic_1_animals_excl"/>
+    <sound volume="100" inLibrary="false" file="DRR_87.mp3" id="topic_2_colors_excl"/>
+    <sound volume="100" inLibrary="false" file="DRR_88.mp3" id="topic_3_food_excl"/>
+    <sound volume="100" inLibrary="false" file="DRR_89.mp3" id="topic_4_numbers_excl"/>
+    <sound volume="100" inLibrary="false" file="DRR_90.mp3" id="topic_5_letters_excl"/>
+    <sound volume="100" inLibrary="false" file="DRR_91.mp3" id="topic_6_shapes_excl"/>
+	
+    <sound volume="100" inLibrary="false" file="DRR_92.mp3" id="gc_help_btn_ro"/>
+	
+    <sound volume="100" inLibrary="false" file="DRR_93.mp3" id="stage_1_incorrect_1_1"/>
+    <sound volume="100" inLibrary="false" file="DRR_94.mp3" id="stage_1_incorrect_1_2"/>
+	
+    <sound volume="100" inLibrary="false" file="DRR_95.mp3" id="stage_1_incorrect_2"/>
+    <sound volume="100" inLibrary="false" file="DRR_96.mp3" id="stage_1_incorrect_2_1"/>
+    <sound volume="100" inLibrary="false" file="DRR_97.mp3" id="stage_1_incorrect_2_2"/>
+	
+    <sound volume="100" inLibrary="false" file="DRR_98.mp3" id="stage_1_incorrect_3_1"/>
+	<sound volume="100" inLibrary="false" file="DRR_107.mp3" id="stage_1_incorrect_3_2"/>
+	<sound volume="100" inLibrary="false" file="DRR_105.mp3" id="stage_1_incorrect_3end_1"/>
+    <!--<sound volume="100" inLibrary="false" file="DRR_106.mp3" id="DRR_106"/>-->
+    <sound volume="100" inLibrary="false" file="DRR_108.mp3" id="stage_1_incorrect_3end_2"/>
+	
+    <sound volume="100" inLibrary="false" file="DRR_99.mp3" id="topic_1_animals_ques"/>
+    <sound volume="100" inLibrary="false" file="DRR_100.mp3" id="topic_2_colors_ques"/>
+    <sound volume="100" inLibrary="false" file="DRR_101.mp3" id="topic_3_food_ques"/>
+    <sound volume="100" inLibrary="false" file="DRR_102.mp3" id="topic_4_numbers_ques"/>
+    <sound volume="100" inLibrary="false" file="DRR_103.mp3" id="topic_5_letters_ques"/>
+    <sound volume="100" inLibrary="false" file="DRR_104.mp3" id="topic_6_shapes_ques"/>
+	
+    <sound volume="100" inLibrary="false" file="DRR_109.mp3" id="stage_1_correct_1"/>
+    <sound volume="100" inLibrary="false" file="DRR_110.mp3" id="stage_1_correct_2"/>
+    <sound volume="100" inLibrary="false" file="DRR_111.mp3" id="stage_1_correct_end"/>
+	
+    <sound volume="100" inLibrary="false" file="DRR_112.mp3" id="stage_2_start"/>
+    <sound volume="100" inLibrary="false" file="DRR_113.mp3" id="stage_2_start_dprompt"/>
+	
+    <sound volume="100" inLibrary="false" file="DRR_114.mp3" id="answer_ro"/>
+    <sound volume="100" inLibrary="false" file="DRR_115.mp3" id="answer_1_1"/>
+    <sound volume="100" inLibrary="false" file="DRR_116.mp3" id="answer_1_2"/>
+    <sound volume="100" inLibrary="false" file="DRR_117.mp3" id="answer_1_3"/>
+    <sound volume="100" inLibrary="false" file="DRR_118.mp3" id="answer_2_1"/>
+    <sound volume="100" inLibrary="false" file="DRR_119.mp3" id="answer_2_2"/>
+    <sound volume="100" inLibrary="false" file="DRR_120.mp3" id="answer_2_3"/>
+    <sound volume="100" inLibrary="false" file="DRR_121.mp3" id="answer_3_1"/>
+    <sound volume="100" inLibrary="false" file="DRR_122.mp3" id="answer_3_2"/>
+    <sound volume="100" inLibrary="false" file="DRR_123.mp3" id="answer_3_3"/>
+    <sound volume="100" inLibrary="false" file="DRR_124-ALT.mp3" id="answer_4_1"/>
+    <sound volume="100" inLibrary="false" file="DRR_125-ALT.mp3" id="answer_4_2"/>
+    <sound volume="100" inLibrary="false" file="DRR_126-ALT.mp3" id="answer_4_3"/>
+    <sound volume="100" inLibrary="false" file="DRR_127-ALT.mp3" id="answer_5_1"/>
+    <sound volume="100" inLibrary="false" file="DRR_128-ALT.mp3" id="answer_5_2"/>
+    <sound volume="100" inLibrary="false" file="DRR_129-ALT.mp3" id="answer_5_3"/>
+    <sound volume="100" inLibrary="false" file="DRR_130.mp3" id="answer_6_1"/>
+    <sound volume="100" inLibrary="false" file="DRR_131.mp3" id="answer_6_2"/>
+    <sound volume="100" inLibrary="false" file="DRR_132.mp3" id="answer_6_3"/>
+	
+	<!--
+	<sound volume="100" inLibrary="false" file="DRR_124-ALT.mp3" id="answer_4_1_ro"/>
+    <sound volume="100" inLibrary="false" file="DRR_125-ALT.mp3" id="answer_4_2_ro"/>
+    <sound volume="100" inLibrary="false" file="DRR_126-ALT.mp3" id="answer_4_3_ro"/>
+	
+	<sound volume="100" inLibrary="false" file="DRR_127-ALT.mp3" id="answer_5_1_ro"/>
+    <sound volume="100" inLibrary="false" file="DRR_128-ALT.mp3" id="answer_5_2_ro"/>
+    <sound volume="100" inLibrary="false" file="DRR_129-ALT.mp3" id="answer_5_3_ro"/>
+	-->
+	
+    <sound volume="100" inLibrary="false" file="DRR_133.mp3" id="stage_2_incorrect_1_1"/>
+    <sound volume="100" inLibrary="false" file="DRR_134.mp3" id="stage_2_incorrect_1_2"/>
+    <sound volume="100" inLibrary="false" file="DRR_135.mp3" id="stage_2_incorrect_1_3"/>
+	
+    <sound volume="100" inLibrary="false" file="DRR_136.mp3" id="stage_2_incorrect_2_1"/>
+    <sound volume="100" inLibrary="false" file="DRR_137.mp3" id="stage_2_incorrect_2_2"/>
+    <sound volume="100" inLibrary="false" file="DRR_138.mp3" id="stage_2_incorrect_2_3"/>
+    <sound volume="100" inLibrary="false" file="DRR_139.mp3" id="stage_2_incorrect_2_end"/>
+    <!--<sound volume="100" inLibrary="false" file="DRR_140.mp3" id="DRR_140"/>-->
+	
+    <sound volume="100" inLibrary="false" file="DRR_141.mp3" id="stage_2_incorrect_3_1"/>
+    <sound volume="100" inLibrary="false" file="DRR_142.mp3" id="stage_2_incorrect_3_1_end"/>
+    <sound volume="100" inLibrary="false" file="DRR_143.mp3" id="stage_2_incorrect_3_2"/>
+    <sound volume="100" inLibrary="false" file="DRR_144.mp3" id="stage_2_incorrect_3_2_end"/>
+	
+    <sound volume="100" inLibrary="false" file="DRR_145.mp3" id="stage_2_correct_1_1"/>
+    <sound volume="100" inLibrary="false" file="DRR_146.mp3" id="stage_2_correct_1_2"/>
+    <sound volume="100" inLibrary="false" file="DRR_147.mp3" id="stage_2_correct_1_3"/>
+    <sound volume="100" inLibrary="false" file="DRR_148.mp3" id="stage_2_correct_2_1"/>
+    <sound volume="100" inLibrary="false" file="DRR_149.mp3" id="stage_2_correct_2_2"/>
+    <sound volume="100" inLibrary="false" file="DRR_150.mp3" id="stage_2_correct_2_3"/>
+    <sound volume="100" inLibrary="false" file="DRR_151.mp3" id="stage_2_correct_3_1"/>
+    <sound volume="100" inLibrary="false" file="DRR_152.mp3" id="stage_2_correct_3_2"/>
+    <sound volume="100" inLibrary="false" file="DRR_153.mp3" id="stage_2_correct_3_3"/>
+    <sound volume="100" inLibrary="false" file="DRR_154.mp3" id="stage_2_correct_4_1"/>
+    <sound volume="100" inLibrary="false" file="DRR_155.mp3" id="stage_2_correct_4_2"/>
+    <sound volume="100" inLibrary="false" file="DRR_156.mp3" id="stage_2_correct_4_3"/>
+    <sound volume="100" inLibrary="false" file="DRR_157.mp3" id="stage_2_correct_5_1"/>
+    <sound volume="100" inLibrary="false" file="DRR_158.mp3" id="stage_2_correct_5_2"/>
+    <sound volume="100" inLibrary="false" file="DRR_159.mp3" id="stage_2_correct_5_3"/>
+    <sound volume="100" inLibrary="false" file="DRR_160.mp3" id="stage_2_correct_6_1"/>
+    <sound volume="100" inLibrary="false" file="DRR_161.mp3" id="stage_2_correct_6_2"/>
+    <sound volume="100" inLibrary="false" file="DRR_162.mp3" id="stage_2_correct_6_3"/>
+	
+    <sound volume="100" inLibrary="false" file="DRR_164.mp3" id="gc_1_complete_1"/>
+	<!-- <sound volume="100" inLibrary="false" file="DRR_165.mp3" id="gc_1_complete_2"/> -->
+	<sound volume="100" inLibrary="false" file="DRR_165-ALT2.mp3" id="gc_1_complete_2"/>
+	<!-- <sound volume="100" inLibrary="false" file="DRR_166.mp3" id="gc_1_complete_2_alt"/> -->
+	
+	<!-- MAP SEQUENCE 2 -->
+    <sound volume="100" inLibrary="false" file="DRR_166a.mp3" id="DRR_166a"/>
+	
+	<!-- LEVEL 2 -->
+    <sound volume="100" inLibrary="false" file="DRR_166b.mp3" id="level_end_2"/>
+	
+	<!-- GATE CHALLENGE 2 -->
+    <sound volume="100" inLibrary="false" file="DRR_167.mp3" id="gate_challenge_start_2"/>
+    <sound volume="100" inLibrary="false" file="DRR_168.mp3" id="gc_2_complete_1"/>
+    <sound volume="100" inLibrary="false" file="DRR_169.mp3" id="gc_2_complete_2"/>
+	
+	<!-- MAP SEQUENCE 2 -->
+    <sound volume="100" inLibrary="false" file="DRR_170.mp3" id="DRR_170"/>
+	
+	<!-- LEVEL 3 -->
+    <sound volume="100" inLibrary="false" file="DRR_171.mp3" id="level_end_3"/>
+	
+	<!-- GATE CHALLENGE 3 -->
+    <sound volume="100" inLibrary="false" file="DRR_172.mp3" id="gate_challenge_start_3"/>
+    <sound volume="100" inLibrary="false" file="DRR_172a.mp3" id="gc_3_complete_1"/>
+	 <sound volume="100" inLibrary="false" file="DRR_173.mp3" id="gc_3_complete_2"/>
+	 
+	<!-- MALAMBRUNO -->
+    <sound volume="100" inLibrary="false" file="DRR_174.mp3" id="DRR_174"/>
+    <!--
+	<sound volume="100" inLibrary="false" file="DRR_175.mp3" id="DRR_175"/>
+    <sound volume="100" inLibrary="false" file="DRR_176.mp3" id="DRR_176"/>
+    <sound volume="100" inLibrary="false" file="DRR_177.mp3" id="DRR_177"/>
+    <sound volume="100" inLibrary="false" file="DRR_178.mp3" id="DRR_178"/>
+    <sound volume="100" inLibrary="false" file="DRR_179.mp3" id="DRR_179"/>
+	-->
+    <sound volume="100" inLibrary="false" file="DRR_180.mp3" id="DRR_180"/>
+	
+	<!-- SEQUENCE CHALLENGE -->
+    <sound volume="100" inLibrary="false" file="DRR_181.mp3" id="sc_start_1"/>
+    <sound volume="100" inLibrary="false" file="DRR_182.mp3" id="sc_start_2"/>
+    <sound volume="100" inLibrary="false" file="DRR_183.mp3" id="sc_start_3"/>
+    <sound volume="100" inLibrary="false" file="DRR_184.mp3" id="sc_start_4"/>
+	
+    <sound volume="100" inLibrary="false" file="DRR_185.mp3" id="sc_intro_1"/>
+    <sound volume="100" inLibrary="false" file="DRR_186.mp3" id="sc_intro_2"/>
+    <sound volume="100" inLibrary="false" file="DRR_187.mp3" id="sc_intro_3"/>
+	
+    <sound volume="100" inLibrary="false" file="DRR_188.mp3" id="sc_incorrect_1_3"/>
+	
+    <sound volume="100" inLibrary="false" file="DRR_189.mp3" id="sc_incorrect_2_1"/>
+    <sound volume="100" inLibrary="false" file="DRR_190.mp3" id="sc_incorrect_2_2"/>
+    <sound volume="100" inLibrary="false" file="DRR_191.mp3" id="sc_incorrect_2_3"/>
+    <sound volume="100" inLibrary="false" file="DRR_192.mp3" id="sc_incorrect_2_4"/>
+	
+    <sound volume="100" inLibrary="false" file="DRR_193.mp3" id="sc_incorrect_3_1"/>
+    <sound volume="100" inLibrary="false" file="DRR_194.mp3" id="sc_incorrect_3_2"/>
+    <sound volume="100" inLibrary="false" file="DRR_195.mp3" id="sc_incorrect_3_3"/>
+    <sound volume="100" inLibrary="false" file="DRR_196.mp3" id="sc_incorrect_3_4"/>
+    <sound volume="100" inLibrary="false" file="DRR_197.mp3" id="sc_incorrect_3_end"/>
+    <!--<sound volume="100" inLibrary="false" file="DRR_198.mp3" id="DRR_198"/> -->
+    <sound volume="100" inLibrary="false" file="DRR_199.mp3" id="sc_end"/>
+	
+	<!-- ENDING ANIMATION -->
+    <sound volume="100" inLibrary="false" file="DRR_200.mp3" id="DRR_200"/>
+    <!--<sound volume="100" inLibrary="false" file="DRR_201.mp3" id="DRR_201"/>-->
+    <sound volume="100" inLibrary="false" file="DRR_202.mp3" id="DRR_202"/>
+	<sound volume="100" inLibrary="false" file="DRR_203.mp3" id="DRR_203"/>
+	
+	<!-- REWARD SCREEN -->
+	<!--
+    <sound volume="100" inLibrary="false" file="DRR_204.mp3" id="DRR_204"/>
+    <sound volume="100" inLibrary="false" file="DRR_205.mp3" id="DRR_205"/>
+    <sound volume="100" inLibrary="false" file="DRR_206.mp3" id="DRR_206"/>
+    <sound volume="100" inLibrary="false" file="DRR_207.mp3" id="DRR_207"/>
+    <sound volume="100" inLibrary="false" file="DRR_208.mp3" id="DRR_208"/>
+    <sound volume="100" inLibrary="false" file="DRR_209.mp3" id="DRR_209"/>
+    <sound volume="100" inLibrary="false" file="DRR_210.mp3" id="DRR_210"/>
+	-->
+    <sound volume="100" inLibrary="false" file="DRR_211.mp3" id="rs_tutorial_1_1"/>
+    <!-- <sound volume="100" inLibrary="false" file="DRR_212.mp3" id="rs_tutorial_1_2"/> -->
+    <sound volume="100" inLibrary="false" file="DRR_213.mp3" id="rs_tutorial_2_1"/>
+    <sound volume="100" inLibrary="false" file="DRR_214.mp3" id="rs_tutorial_2_2"/>
+	<sound volume="100" inLibrary="false" file="DRR_214-ALT.mp3" id="DRR_214-ALT"/>
+    <!-- <sound volume="100" inLibrary="false" file="DRR_215.mp3" id="rs_already_used_crayon"/> -->
+    <!-- <sound volume="100" inLibrary="false" file="DRR_216.mp3" id="rs_print"/> -->
+    <sound volume="100" inLibrary="false" file="DRR_217.mp3" id="rs_after_crayon_play_again"/>
+    <sound volume="100" inLibrary="false" file="DRR_218.mp3" id="playAgain_btnRO"/>
+    <sound volume="100" inLibrary="false" file="DRR_218-ALT.mp3" id="print_btnRO"/>
+    <sound volume="100" inLibrary="false" file="DRR_219.mp3" id="rs_after_crayon"/>
+    <!-- <sound volume="100" inLibrary="false" file="DRR_220.mp3" id="rs_after_crayon_print"/> -->
+	<sound volume="100" inLibrary="false" file="DRR_220-ALT.mp3" id="DRR_220-ALT"/>
+   <!-- <sound volume="100" inLibrary="false" file="DRR_221.mp3" id="rs_after_crayon_play_again"/> -->
+    <sound volume="100" inLibrary="false" file="DRR_222.mp3" id="rs_out_of_crayons"/>
+	
+  </vo>
+</data>

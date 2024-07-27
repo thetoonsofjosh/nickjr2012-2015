@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content>
+	<level1>
+		<layers>
+			<layer>
+				<stats direction="-1" loc="130"/>
+				<difficulty speed ="2" />
+			</layer>
+			<layer>
+				<stats direction="-1" loc="260"/>
+				<difficulty speed ="2" />
+			</layer>
+		</layers>	
+	</level1>
+	<level2>
+		<patterns>
+			<pattern>
+				<piece>bumblebee</piece>	<piece>greenBeetle</piece>		<piece>bumblebee</piece>
+				<piece>greenBeetle</piece>	<piece>bumblebee</piece>		<piece>mystery</piece>
+				<stats name = "pattern1" type = "0" goal = "greenBeetle" delay="-550" diff="1" />
+			</pattern>
+			<pattern>
+				<piece>dragonfly</piece>	<piece>spider</piece>		<piece>dragonfly</piece>
+				<piece>spider</piece>		<piece>dragonfly</piece>	<piece>mystery</piece>
+				<stats name = "pattern2" type = "0" goal = "spider" delay="-750" diff="1" />
+			</pattern>
+			<pattern>
+				<piece>blueberry</piece>	<piece>strawberry</piece>	<piece>blueberry</piece>
+				<piece>strawberry</piece>	<piece>blueberry</piece>	<piece>mystery</piece>
+				<stats name = "pattern3" type = "0" goal = "strawberry" delay="-750" diff="1" />
+			</pattern>
+			<pattern>
+				<piece>acorn</piece>		<piece>blueFeather</piece>		<piece>acorn</piece>
+				<piece>blueFeather</piece>	<piece>acorn</piece>			<piece>mystery</piece>
+				<stats name = "pattern4" type = "0" goal = "blueFeather" delay="-100" diff="1" />
+			</pattern>
+			<pattern>
+				<piece>ladybug</piece>		<piece>dandelion</piece>		<piece>ladybug</piece>
+				<piece>dandelion</piece>	<piece>ladybug</piece>			<piece>mystery</piece>
+				<stats name = "pattern5" type = "0" goal = "dandelion" delay="-750" diff="1" />
+			</pattern>
+			<pattern>
+				<piece>greenLeaf</piece>	<piece>acorn</piece>			<piece>greenLeaf</piece>
+				<piece>acorn</piece>		<piece>greenLeaf</piece>		<piece>mystery</piece>
+				<stats name = "pattern6" type = "0" goal = "acorn" delay="-750" diff="1" />
+			</pattern>
+			<pattern>
+				<piece>daisy</piece>		<piece>sunflower</piece>		<piece>daisy</piece>
+				<piece>sunflower</piece>	<piece>daisy</piece>			<piece>mystery</piece>
+				<stats name = "pattern7" type = "0" goal = "sunflower" delay="-1000" diff="1" />
+			</pattern>
+			<pattern>
+				<piece>purpleBeetle</piece>	<piece>spider</piece>			<piece>purpleBeetle</piece>
+				<piece>spider</piece>		<piece>purpleBeetle</piece>		<piece>mystery</piece>
+				<stats name = "pattern8" type = "0" goal = "spider" delay="-1000" diff="1" />
+			</pattern>
+			<pattern>
+				<piece>redMushroom</piece>		<piece>purpleMushroom</piece>	<piece>redMushroom</piece>
+				<piece>purpleMushroom</piece>	<piece>redMushroom</piece>		<piece>mystery</piece>
+				<stats name = "pattern9" type = "1" goal = "purpleMushroom" delay="3000" diff="1" />
+			</pattern>
+			<pattern>
+				<piece>yellowLeaf</piece>		<piece>greenLeaf</piece>		<piece>yellowLeaf</piece>
+				<piece>greenLeaf</piece>		<piece>yellowLeaf</piece>		<piece>mystery</piece>
+				<stats name = "pattern10" type = "1" goal = "greenLeaf" delay="4000" diff="1" />
+			</pattern>
+			<pattern>
+				<piece>redFeather</piece>		<piece>blueFeather</piece>		<piece>redFeather</piece>
+				<piece>blueFeather</piece>		<piece>redFeather</piece>		<piece>mystery</piece>
+				<stats name = "pattern11" type = "1" goal = "blueFeather" delay="3000" diff="1" />
+			</pattern>
+			<pattern>
+				<piece>greenBeetle</piece>		<piece>purpleBeetle</piece>		<piece>greenBeetle</piece>
+				<piece>purpleBeetle</piece>		<piece>greenBeetle</piece>		<piece>mystery</piece>
+				<stats name = "pattern12" type = "1" goal = "purpleBeetle" delay="3500" diff="1" />
+			</pattern>
+			<pattern> <!-- Timing Correct -->
+				<piece>acorn</piece>			<piece>ladybug</piece>			<piece>yellowLeaf</piece>
+				<piece>acorn</piece>			<piece>ladybug</piece>			<piece>yellowLeaf</piece>
+				<piece>acorn</piece>			<piece>mystery</piece>			<piece>yellowLeaf</piece>
+				<stats name = "pattern2a" type = "0" goal = "ladybug" delay="-1500" diff="2" />
+			</pattern>
+			<pattern>
+				<piece>sunflower</piece>		<piece>bumblebee</piece>		<piece>ladybug</piece>
+				<piece>sunflower</piece>		<piece>bumblebee</piece>		<piece>ladybug</piece>
+				<piece>sunflower</piece>		<piece>mystery</piece>			<piece>ladybug</piece>
+				<stats name = "pattern2c" type = "0" goal = "bumblebee" delay="-750" diff="2" />
+			</pattern>
+			<pattern>
+				<piece>redTulip</piece>			<piece>yellowTulip</piece>		<piece>purpleTulip</piece>
+				<piece>redTulip</piece>			<piece>yellowTulip</piece>		<piece>purpleTulip</piece>
+				<piece>redTulip</piece>			<piece>mystery</piece>			<piece>purpleTulip</piece>
+				<stats name = "pattern2e" type = "1" goal = "yellowTulip" delay="1900" diff="2" />
+			</pattern>
+			<pattern>
+				<piece>acorn</piece>			<piece>daisy</piece>			<piece>daisy</piece>
+				<piece>acorn</piece>			<piece>daisy</piece>			<piece>daisy</piece>
+				<piece>acorn</piece>			<piece>mystery</piece>			<piece>daisy</piece>
+				<stats name = "pattern2h" type = "0" goal = "daisy" delay="-1500" diff="2" />
+			</pattern>
+			<pattern>
+				<piece>ladybug</piece>			<piece>strawberry</piece>		<piece>strawberry</piece>
+				<piece>ladybug</piece>			<piece>strawberry</piece>		<piece>strawberry</piece>
+				<piece>ladybug</piece>			<piece>mystery</piece>			<piece>strawberry</piece>
+				<stats name = "pattern2i" type = "0" goal = "strawberry" delay="-1000" diff="2" />
+			</pattern>
+			<pattern>
+				<piece>bumblebee</piece>		<piece>purpleTulip</piece>		<piece>bumblebee</piece>
+				<piece>purpleTulip</piece>		<piece>bumblebee</piece>		<piece>mystery</piece>
+				<piece>bumblebee</piece>
+				<stats name = "pattern3b" type = "0" goal = "purpleTulip" delay="-1250" diff="3" />
+			</pattern>
+			<pattern>
+				<piece>dandelion</piece>		<piece>redTulip</piece>			<piece>bumblebee</piece>
+				<piece>dandelion</piece>		<piece>redTulip</piece>			<piece>bumblebee</piece>
+				<piece>mystery</piece>			<piece>redTulip</piece>			<piece>bumblebee</piece>
+				<stats name = "pattern3f" type = "0" goal = "dandelion" delay="-1500" diff="3" />
+			</pattern>
+			<pattern>
+				<piece>acorn</piece>			<piece>brownMushroom</piece>	<piece>orangeLeaf</piece>
+				<piece>acorn</piece>			<piece>brownMushroom</piece>	<piece>orangeLeaf</piece>
+				<piece>mystery</piece>			<piece>brownMushroom</piece>	<piece>orangeLeaf</piece>
+				<stats name = "pattern3g" type = "0" goal = "acorn" delay="-2900" diff="3" />
+			</pattern>
+			<pattern>
+				<piece>sunflower</piece>		<piece>daisy</piece>			<piece>daisy</piece>
+				<piece>sunflower</piece>		<piece>daisy</piece>			<piece>daisy</piece>
+				<piece>mystery</piece>			<piece>daisy</piece>			<piece>daisy</piece>
+				<stats name = "pattern3k" type = "0" goal = "sunflower" delay="-1000" diff="3" />
+			</pattern>
+			<pattern>
+				<piece>spider</piece>		<piece>purpleBeetle</piece>			<piece>purpleBeetle</piece>
+				<piece>spider</piece>		<piece>purpleBeetle</piece>			<piece>purpleBeetle</piece>
+				<piece>spider</piece>		<piece>mystery</piece>				<piece>purpleBeetle</piece>
+				<stats name = "pattern3l" type = "0" goal = "purpleBeetle" delay="-1000" diff="3" />
+			</pattern>
+			<pattern>
+				<piece>bumblebee</piece>		<piece>bumblebee</piece>		<piece>greenBeetle</piece>
+				<piece>bumblebee</piece>		<piece>bumblebee</piece>		<piece>greenBeetle</piece>
+				<piece>mystery</piece>			<piece>bumblebee</piece>		<piece>greenBeetle</piece>
+				<stats name = "pattern3m" type = "0" goal = "bumblebee" delay="-1650" diff="3" />
+			</pattern>
+		</patterns>	
+	</level2>
+</content>

@@ -1,0 +1,55 @@
+<shows>	
+
+	<show displayName="Dora"
+			handle="dora" 
+			iconHandle="stickers/shows/dora_icon.jpg"
+			show="dora"
+	/>	
+	<show displayName="Diego"
+			handle="dieg" 
+			iconHandle="stickers/shows/dieg_icon.jpg"
+			show="dieg"
+	/>
+	<show displayName="Backyardigans"
+			handle="back" 
+			iconHandle="stickers/shows/back_icon.jpg"
+			show="back"
+	/>
+	<show displayName="WonderPets"
+			handle="wond" 
+			iconHandle="stickers/shows/wond_icon.jpg"
+			show="wond"
+	/>	
+	<show displayName="Yoga"
+			handle="yoga" 
+			iconHandle="stickers/shows/yoga_icon.jpg"
+			show="yoga"
+	/>
+	
+	<show displayName="Wubb"
+			handle="wubb" 
+			iconHandle="stickers/shows/wubb_icon.jpg"
+			show="wubb"
+	/>	
+	
+	<show displayName="Blue"
+			handle="blue" 
+			iconHandle="stickers/shows/blue_icon.jpg"
+			show="blue"
+	/>	
+	<show displayName="Nihao"
+			handle="niha" 
+			iconHandle="stickers/shows/kailan_icon.jpg"
+			show="niha"
+	/>	
+	<show displayName="Olivia"
+			handle="oliv" 
+			iconHandle="stickers/shows/oliv_icon.jpg"
+			show="oliv"
+	/>	
+
+
+
+
+	
+</shows>

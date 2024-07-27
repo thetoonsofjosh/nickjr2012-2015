@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	
+	<videos>
+		<tutorial src="assets/video/DFA_Video_Tutorial.flv" />
+	</videos>
+	
+	<assets>
+		
+		<global>
+			<asset id="character" src="assets/swfs/characters/diego.swf" />
+		</global>
+				
+		<section id="main">
+			<asset id="mainSection"		src="game.swf" />		
+		</section>
+		
+		
+		<sounds base="assets/audio">
+			<pool id="vo">
+				<!-- TITLE SCREEN -->
+				<asset id="game_title" src="vo/DFA_Diego_1a.mp3" maxVolume="1" overlap="noPlay" />
+				<asset id="click_play" src="vo/DFA_Diego_2.mp3" maxVolume="1" overlap="noPlay" />
+				<!-- INTRODUCTION SCREEN -->
+				<asset id="intro" src="vo/DFA_Diego_3.mp3" maxVolume="1" overlap="noPlay" />
+				<asset id="los_animales" src="vo/DFA_Diego_4.mp3" maxVolume="1" overlap="noPlay" />
+				<asset id="will_you_help" src="vo/DFA_Diego_5.mp3" maxVolume="1" overlap="noPlay" />
+				<asset id="help_gorilla" src="vo/DFA_Diego_6.mp3" maxVolume="1" overlap="noPlay" />
+				<asset id="help_gorilla2" src="vo/DFA_Diego_8.mp3" maxVolume="1" overlap="noPlay" />
+				<asset id="another_animal" src="vo/DFA_Diego_64.mp3" maxVolume="1" overlap="noPlay" />
+				<asset id="its_grizzly" src="vo/DFA_Diego_65.mp3" maxVolume="1" overlap="noPlay" />
+				<asset id="go_to_north" src="vo/DFA_Diego_66.mp3" maxVolume="1" overlap="noPlay" />
+				<asset id="to_the_rescue" src="vo/DFA_Diego_67.mp3" maxVolume="1" overlap="noPlay" />
+				<!-- INSTRUCTIONS SCREEN -->
+				<asset id="use_mouse" src="vo/DFA_Diego_9a.mp3" maxVolume="1" overlap="noPlay" />
+				<asset id="watch_out_for" src="vo/DFA_Diego_10.mp3" maxVolume="1" overlap="noPlay" />
+				<asset id="boosters" src="vo/DFA_Diego_11_ALT.mp3" maxVolume="1" overlap="noPlay" />
+				<asset id="patches" src="vo/DFA_Diego_12.mp3" maxVolume="1" overlap="noPlay" />
+				<asset id="ready_for_rescue" src="vo/DFA_Diego_13.mp3" maxVolume="1" overlap="noPlay" />
+				<!-- SCROLLING LEVELS -->
+				<asset id="use_mouse_to_help" src="vo/DFA_Diego_14a.mp3" maxVolume="1" overlap="noPlay" />
+				<asset id="use_mouse_to_grizzly" src="vo/DFA_Diego_68.mp3" maxVolume="1" overlap="noPlay" />
+				<asset id="get_rescue_patch" src="vo/DFA_Diego_15.mp3" maxVolume="1" overlap="noPlay" priority="2" />
+				<asset id="get_booster" src="vo/DFA_Diego_15a.mp3" maxVolume="1" overlap="noPlay" priority="2" />
+				<asset id="watch_out" src="vo/DFA_Diego_16.mp3" maxVolume="1" overlap="noPlay" />
+				<asset id="watch_stones" src="vo/DFA_Diego_17.mp3" maxVolume="1" overlap="noPlay" />
+				<asset id="look_logs" src="vo/DFA_Diego_18.mp3" maxVolume="1" overlap="noPlay" />
+				<asset id="go_around" src="vo/DFA_Diego_19.mp3" maxVolume="1" overlap="noPlay" />
+				<asset id="watch_bush" src="vo/DFA_Diego_20.mp3" maxVolume="1" overlap="noPlay" />
+				<asset id="follow_tracks" src="vo/DFA_Diego_21.mp3" maxVolume="1" overlap="noPlay" priority="2" />
+				<asset id="follow_tracks2" src="vo/DFA_Diego_22.mp3" maxVolume="1" overlap="noPlay" priority="2" />
+				<asset id="need_to_follow" src="vo/DFA_Diego_28.mp3" maxVolume="1" overlap="noPlay" priority="2" />
+				<asset id="which_way" src="vo/DFA_Diego_23.mp3" maxVolume="1" overlap="noPlay" />
+				<asset id="hurry_grizzly" src="vo/DFA_Diego_24.mp3" maxVolume="1" overlap="noPlay" />
+				<asset id="hurry_gorilla" src="vo/DFA_Diego_25.mp3" maxVolume="1" overlap="noPlay" />
+				<asset id="gorilla_tracks" src="vo/DFA_Diego_26.mp3" maxVolume="1" overlap="noPlay" priority="2" />
+				<asset id="grizzly_tracks" src="vo/DFA_Diego_27.mp3" maxVolume="1" overlap="noPlay" priority="2" />
+				<asset id="a_speed_boost" src="vo/DFA_Diego_37.mp3" maxVolume="1" overlap="noPlay" />			
+				<asset id="woo_hoo" src="vo/DFA_Diego_36.mp3" maxVolume="1" overlap="noPlay" />	
+				<asset id="i_see_grizzly" src="vo/DFA_Diego_46.mp3" maxVolume="1" overlap="noPlay" priority="2" />
+				<asset id="i_see_gorilla" src="vo/DFA_Diego_47.mp3" maxVolume="1" overlap="noPlay" priority="2" />
+				<asset id="almost_there" src="vo/DFA_Diego_39.mp3" maxVolume="1" overlap="noPlay" priority="2" />
+				<!-- RANDOM POSITIVE -->
+					<asset id="yeah" src="vo/DFA_Diego_29.mp3" maxVolume="1" overlap="noPlay" />				
+					<asset id="great_job" src="vo/DFA_Diego_30.mp3" maxVolume="1" overlap="noPlay" />				
+					<asset id="good_work" src="vo/DFA_Diego_31.mp3" maxVolume="1" overlap="noPlay" />				
+					<asset id="great" src="vo/DFA_Diego_32.mp3" maxVolume="1" overlap="noPlay" />				
+					<asset id="fantastico" src="vo/DFA_Diego_33.mp3" maxVolume="1" overlap="noPlay" />				
+					<asset id="perfecto" src="vo/DFA_Diego_34.mp3" maxVolume="1" overlap="noPlay" />				
+					<asset id="excelente" src="vo/DFA_Diego_35.mp3" maxVolume="1" overlap="noPlay" />				
+					<asset id="muy_bien" src="vo/DFA_Diego_38.mp3" maxVolume="1" overlap="noPlay" />	
+				<!-- RANDOM WARNINGS -->
+					<asset id="uh_oh" src="vo/DFA_Diego_40.mp3" maxVolume="1" overlap="noPlay" />				
+					<asset id="oops" src="vo/DFA_Diego_41.mp3" maxVolume="1" overlap="noPlay" />				
+					<asset id="watch_out2" src="vo/DFA_Diego_42.mp3" maxVolume="1" overlap="noPlay" />				
+					<asset id="cuidado" src="vo/DFA_Diego_43_ALT.mp3" maxVolume="1" overlap="noPlay" />				
+					<asset id="whoa" src="vo/DFA_Diego_44.mp3" maxVolume="1" overlap="noPlay" />				
+					<asset id="yikes" src="vo/DFA_Diego_45.mp3" maxVolume="1" overlap="noPlay" />		
+				<!-- GRIZZLY PUZZLE -->
+				<asset id="theres_grizzly" src="vo/DFA_Diego_48.mp3" maxVolume="1" overlap="noPlay" />
+				<asset id="she_has_a_thorn" src="vo/DFA_Diego_49.mp3" maxVolume="1" overlap="noPlay" />
+				<asset id="help_me_stone_path" src="vo/DFA_Diego_50.mp3" maxVolume="1" overlap="noPlay" />
+				<asset id="help_me_stone_shape1" src="vo/DFA_Diego_51.mp3" maxVolume="1" overlap="noPlay" />
+				<asset id="help_me_stone_shape2" src="vo/DFA_Diego_52.mp3" maxVolume="1" overlap="noPlay" />
+				<asset id="help_me_stone_shape3" src="vo/DFA_Diego_53.mp3" maxVolume="1" overlap="noPlay" />
+				<asset id="help_me_stone_shape4" src="vo/DFA_Diego_54.mp3" maxVolume="1" overlap="noPlay" />
+				<asset id="made_it_across" src="vo/DFA_Diego_55.mp3" maxVolume="1" overlap="noPlay" priority="2" />
+				<asset id="thats_it" src="vo/DFA_Diego_57.mp3" maxVolume="1" overlap="noPlay" />
+				<asset id="doesnt_fit" src="vo/DFA_Diego_59.mp3" maxVolume="1" overlap="noPlay" />
+				<asset id="try_again" src="vo/DFA_Diego_60.mp3" maxVolume="1" overlap="noPlay" />
+				<asset id="looking_try_again" src="vo/DFA_Diego_61.mp3" maxVolume="1" overlap="noPlay" />
+				<asset id="heres_the_stone" src="vo/DFA_Diego_62.mp3" maxVolume="1" overlap="noPlay" />
+				<asset id="its_this_one" src="vo/DFA_Diego_63.mp3" maxVolume="1" overlap="noPlay" />
+				<!-- GORILLA PUZZLE -->
+				<asset id="baby_gorilla_caught" src="vo/DFA_Diego_69.mp3" maxVolume="1" overlap="noPlay" />
+				<asset id="daddy_worried" src="vo/DFA_Diego_70.mp3" maxVolume="1" overlap="noPlay" />
+				<asset id="help_gorillas" src="vo/DFA_Diego_71.mp3" maxVolume="1" overlap="noPlay" />
+				<asset id="clear_ropes" src="vo/DFA_Diego_72.mp3" maxVolume="1" overlap="noPlay" />
+				<asset id="click_blue_rope_first" src="vo/DFA_Diego_73.mp3" maxVolume="1" overlap="noPlay" />
+				<asset id="click_blue_rope" src="vo/diego_73now.mp3" maxVolume="1" overlap="noPlay" />
+				<asset id="click_yellow_rope_first" src="vo/diego_74first.mp3" maxVolume="1" overlap="noPlay" />
+				<asset id="click_yellow_rope" src="vo/DFA_Diego_74.mp3" maxVolume="1" overlap="noPlay" />
+				<asset id="click_red_rope_first" src="vo/Diego_75first.mp3" maxVolume="1" overlap="noPlay" />
+				<asset id="click_red_rope" src="vo/DFA_Diego_75.mp3" maxVolume="1" overlap="noPlay" />
+				<asset id="click_leg_rope" src="vo/DFA_Diego_76.mp3" maxVolume="1" overlap="noPlay" />
+				<asset id="we_saved_baby_gorilla" src="vo/DFA_Diego_77.mp3" maxVolume="1" overlap="noPlay" priority="2" />
+				<asset id="need_blue" src="vo/DFA_Diego_83a.mp3" maxVolume="1" overlap="noPlay" />
+				<asset id="need_red" src="vo/DFA_Diego_83c.mp3" maxVolume="1" overlap="noPlay" />
+				<asset id="need_yellow" src="vo/DFA_Diego_83b.mp3" maxVolume="1" overlap="noPlay" />
+				<asset id="aqui_esta" src="vo/DFA_Diego_84a.mp3" maxVolume="1" overlap="noPlay" />
+				<asset id="this_one" src="vo/DFA_Diego_84b.mp3" maxVolume="1" overlap="noPlay" />
+				<!-- END SCREEN -->
+				<asset id="we_saved_gorilla" src="vo/DFA_Diego_85.mp3" maxVolume="1" overlap="noPlay" />
+				<asset id="and_helped_grizzly" src="vo/DFA_Diego_86.mp3" maxVolume="1" overlap="noPlay" />
+				<asset id="saved_the_day" src="vo/DFA_Diego_87.mp3" maxVolume="1" overlap="noPlay" />
+				<asset id="rescue_complete" src="vo/DFA_Diego_88.mp3" maxVolume="1" overlap="noPlay" />
+				<asset id="click_play_again" src="vo/DFA_Diego_89.mp3" maxVolume="1" overlap="noPlay" />
+				<asset id="click_print" src="vo/DFA_Diego_93.mp3" maxVolume="1" overlap="noPlay" />
+				<!-- BUTTONS -->
+				<asset id="play" src="vo/DFA_Diego_95.mp3" maxVolume="1" overlap="noPlay" />
+				<asset id="play_again" src="vo/DFA_Diego_96.mp3" maxVolume="1" overlap="noPlay" />
+				<asset id="skip" src="vo/DFA_Diego_97.mp3" maxVolume="1" overlap="noPlay" />
+				<asset id="print" src="vo/DFA_Diego_99.mp3" maxVolume="1" overlap="noPlay" />
+				<asset id="click_it" src="vo/DFA_Diego_76b.mp3" maxVolume="1" overlap="noPlay" />
+			</pool>
+			<pool id="sfx">
+				<!-- INTRODUCTIONS -->
+				<asset id="alarm" src="sfx/alarm.mp3" maxVolume="1" overlap="noPlay" />
+				<asset id="beep" src="sfx/beep.mp3" maxVolume="1" overlap="noPlay" />
+				<!-- SCROLLING GAME -->
+				<asset id="booster" src="sfx/speed_boost.mp3" maxVolume="1" overlap="noPlay" />
+				<asset id="badge" src="sfx/badge.mp3" maxVolume="1" overlap="playNew" />
+				<asset id="footprints_bear" src="sfx/footprints.mp3" maxVolume="1" overlap="noPlay" />
+				<asset id="footprints_gorilla" src="sfx/footprints.mp3" maxVolume="1" overlap="noPlay" />
+				<asset id="rock_hit" src="sfx/rock_hit.mp3" maxVolume="1" overlap="noPlay" />
+				<asset id="plant_hit" src="sfx/plant_hit.mp3" maxVolume="1" overlap="noPlay" />
+				<asset id="branch_hit" src="sfx/branch_hit.mp3" maxVolume="1" overlap="noPlay" />
+				<asset id="driving" src="sfx/driving.mp3" maxVolume="1" overlap="noPlay" />
+				<!-- GRIZZLY PUZZLE -->
+				<asset id="water_splash" src="sfx/water_splash.mp3" maxVolume="1" overlap="noPlay" />
+				<asset id="growl" src="sfx/bear.mp3" maxVolume="1" overlap="noPlay" />
+				<!-- GORILLA PUZZLE -->
+				<asset id="grunt" src="sfx/gorilla.mp3" maxVolume="1" overlap="noPlay" />
+				<asset id="rope_cut" src="sfx/rope_cut.mp3" maxVolume="1" overlap="noPlay" />
+				<!-- PUZZLES END STINGS -->
+				<asset id="puzzle_animSting" src="sfx/sting.mp3" maxVolume="1" overlap="noPlay" /> <!-- dfarg_drivingmusic_endstingv1 -->
+				<asset id="puzzle_endSting" src="sfx/puzzle_endSting.mp3" maxVolume="1" overlap="noPlay" /> <!-- dfarg_minigamemusic_endstingv1 -->
+			</pool>
+		</sounds>		
+		
+	</assets>
+	
+</config>

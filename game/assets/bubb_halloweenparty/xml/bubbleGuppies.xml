@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<config>
+
+<!--
+	Sounds used by bubble_guppies are listed below.
+	
+	"src" is the name of the file containing the sound asset.
+	"id" is the name used to reference the sound within actionscript.
+	"channel" is one of "sfx", "vo", "music"
+-->
+
+	<sounds dir="/game/assets/bubb_halloweenparty/mp3" id="my_mth">
+
+		<sound src="cloudToMoon.mp3"  id="cloudToMoon" volume="25" channel="sfx" />
+		<sound src="cloudToPumpkin.mp3"  id="cloudToPumpkin" volume="25" channel="sfx" />
+		<sound src="shipFall.mp3"  id="shipFall" volume="25" channel="sfx" />
+		<sound src="shipRise.mp3"  id="shipRise" volume="25" channel="sfx" />
+		<sound src="spider.mp3"  id="spider" volume="25" channel="sfx" />
+		<sound src="bats.mp3"  id="bats" volume="25" channel="sfx" />
+		<sound src="blink.mp3"  id="blink" volume="25" channel="sfx" />
+		<sound src="ghost.mp3"  id="ghost" volume="25" channel="sfx" />
+		<sound src="houseLights.mp3"  id="houseLights" volume="25" channel="sfx" />
+		<sound src="starDoorClose.mp3"  id="starDoorClose" volume="25" channel="sfx" />
+		<sound src="starDoorOpen.mp3"  id="starDoorOpen" volume="25" channel="sfx" />
+		<sound src="thunder.mp3"  id="thunder" volume="25" channel="sfx" />
+		<sound src="wind.mp3"  id="wind" volume="25" channel="sfx" />
+		<sound src="witch.mp3"  id="witch" volume="25" channel="sfx" />
+		<sound src="ro1.mp3"  id="ro1" volume="10" channel="sfx" />
+		<sound src="ro2.mp3"  id="ro2" volume="20" channel="sfx" />
+		<sound src="ro3.mp3"  id="ro3" volume="20" channel="sfx" />
+		<sound src="ro4.mp3"  id="ro4" volume="30" channel="sfx" />
+		<sound src="ro5.mp3"  id="ro5" volume="10" channel="sfx" />
+		<sound src="Click1.mp3"  id="Click1" volume="20" channel="sfx" />
+		<sound src="Click2.mp3"  id="Click2" volume="10" channel="sfx" />
+		<sound src="Click3.mp3"  id="Click3" volume="10" channel="sfx" />
+		<sound src="Click4.mp3"  id="Click4" volume="10" channel="sfx" />
+		<sound src="Click5.mp3"  id="Click5" volume="10" channel="sfx" />
+		<sound src="pickUp.mp3"  id="pickUp" volume="15" channel="sfx" />
+		<sound src="mag.mp3"  id="mag" volume="40" channel="sfx" />
+		<sound src="anim.mp3"  id="anim" volume="40" channel="sfx" />
+		<sound src="play.mp3"  id="play" volume="40" channel="sfx" />
+		<sound src="erase.mp3"  id="erase" volume="50" channel="sfx" />
+		<sound src="SpookySting.mp3" id="sting" volume="40" channel="music2" />
+		<sound src="SpookyLoop1.mp3" id="musicLoop" volume="40" channel="music" />
+
+		<sound src="BGHD_2.mp3"  id="title_screen" volume="100" channel="vo" />
+		<sound src="BGHD_3.mp3"  id="title_screen_2" volume="100" channel="vo" />
+		
+		<!-- background, character, costume piece, or prop picked up from the nav -->
+		<sound src="BGHD_43.mp3"  id="BTN_PlayMC" volume="100" channel="vo" />
+		<sound src="BGHD_44.mp3"  id="BTN_tab_BKG" volume="100" channel="vo" />
+		<sound src="BGHD_45.mp3"  id="BTN_tab_chars" volume="100" channel="vo" />
+		<sound src="BGHD_46.mp3"  id="BTN_tab_clothes" volume="100" channel="vo" />
+		<sound src="BGHD_47.mp3"  id="BTN_tab_props" volume="100" channel="vo" />
+		<sound src="BGHD_48.mp3"  id="BTN_Scale" volume="100" channel="vo" />
+		<sound src="BGHD_49.mp3"  id="unassigned" volume="100" channel="vo" />
+		<sound src="BGHD_50.mp3"  id="BTN_Play" volume="100" channel="vo" />
+		<sound src="BGHD_51.mp3"  id="unassigned" volume="100" channel="vo" />
+		<sound src="BGHD_52.mp3"  id="clearall_btn" volume="100" channel="vo" />
+		<sound src="BGHD_53.mp3"  id="unassigned" volume="100" channel="vo" />
+		<sound src="BGHD_54.mp3"  id="BTN_Next" volume="100" channel="vo" />
+		<sound src="BGHD_55.mp3"  id="unassigned" volume="100" channel="vo" />
+		
+		<!-- onIdle delay prompt helpful vo to accompany hilites -->
+		<sound src="BGHD_56.mp3"  id="delayPrompt_0" volume="100" channel="vo" />
+		<sound src="BGHD_57.mp3"  id="delayPrompt_1" volume="100" channel="vo" />
+		<sound src="BGHD_58.mp3"  id="delayPrompt_2" volume="100" channel="vo" />
+		<sound src="BGHD_225.mp3"  id="delayPrompt_3" volume="100" channel="vo" />
+		<sound src="BGHD_48.mp3"  id="delayPrompt_4" volume="100" channel="vo" />
+		
+		<sound src="BGHD_41.mp3"  id="nextButtonPrompt" volume="100" channel="vo" />
+
+		<!-- End/Print Screen helpful vo to accompany hilites -->
+		<sound src="BGHD_202.mp3"  id="printPrompt_0" volume="100" channel="vo" />
+		<sound src="BGHD_84.mp3"  id="printPrompt_1" volume="100" channel="vo" />
+		<sound src="BGHD_85.mp3"  id="printPrompt_2" volume="100" channel="vo" />
+		<sound src="BGHD_86.mp3"  id="printPrompt_3" volume="100" channel="vo" />
+		
+		<sound src="BGHD_59.mp3"  id="nonGuppieCostume" volume="100" channel="vo" />
+		
+		<!-- yes, no erase all dialog confirmation buttons -->
+		<sound src="BGHD_60.mp3"  id="BTN_EraseAll" volume="100" channel="vo" />
+		<sound src="BGHD_61.mp3"  id="yes_btn" volume="100" channel="vo" />
+		<sound src="BGHD_62.mp3"  id="no_btn" volume="100" channel="vo" />
+		
+		<sound src="BGHD_98.mp3"  id="BKG_MCAsBTNOverOut_1" volume="100" channel="vo" />
+		<sound src="BGHD_99.mp3"  id="BKG_MCAsBTNOverOut_2" volume="100" channel="vo" />
+		<sound src="BGHD_100.mp3"  id="BKG_MCAsBTNOverOut_3" volume="100" channel="vo" />
+		<sound src="BGHD_101.mp3"  id="BKG_MCAsBTNOverOut_6" volume="100" channel="vo" />
+		<sound src="BGHD_102.mp3"  id="BKG_MCAsBTNOverOut_4" volume="100" channel="vo" />
+		<sound src="BGHD_103.mp3"  id="BKG_MCAsBTNOverOut_5" volume="100" channel="vo" />
+		
+		<sound src="BGHD_11.mp3"  id="guppie_0" volume="100" channel="vo" />
+		<sound src="BGHD_9.mp3"  id="guppie_1" volume="100" channel="vo" />
+		<sound src="BGHD_16.mp3"  id="guppie_2" volume="100" channel="vo" />
+		<sound src="BGHD_13.mp3"  id="guppie_3" volume="100" channel="vo" />
+		<sound src="BGHD_14.mp3"  id="guppie_4" volume="100" channel="vo" />
+		<sound src="BGHD_15.mp3"  id="guppie_5" volume="100" channel="vo" />
+		<sound src="BGHD_215.mp3"  id="guppie_6" volume="100" channel="vo" />
+		<sound src="BGHD_216.mp3"  id="guppieSticker_7" volume="100" channel="vo" />
+		<sound src="BGHD_216.mp3"  id="guppie_7" volume="100" channel="vo" />
+		
+		<sound src="BGHD_110.mp3"  id="c7" volume="100" channel="vo" />
+		<sound src="BGHD_111.mp3"  id="c1" volume="100" channel="vo" />
+		<sound src="BGHD_112.mp3"  id="c2" volume="100" channel="vo" />
+		<sound src="BGHD_113.mp3"  id="c3" volume="100" channel="vo" />
+		<sound src="BGHD_114.mp3"  id="c17" volume="100" channel="vo" />
+		<sound src="BGHD_115.mp3"  id="c18" volume="100" channel="vo" />
+		<sound src="BGHD_116.mp3"  id="c19" volume="100" channel="vo" />
+		<sound src="BGHD_117.mp3"  id="c4" volume="100" channel="vo" />
+		<sound src="BGHD_118.mp3"  id="c5" volume="100" channel="vo" />
+		<sound src="BGHD_119.mp3"  id="c6" volume="100" channel="vo" />
+		<sound src="BGHD_120.mp3"  id="c11" volume="100" channel="vo" />
+		<sound src="BGHD_121.mp3"  id="c12" volume="100" channel="vo" />
+		<sound src="BGHD_122.mp3"  id="c13" volume="0" channel="vo" />
+		<sound src="BGHD_123.mp3"  id="c14" volume="100" channel="vo" />
+		<sound src="BGHD_124.mp3"  id="c15" volume="100" channel="vo" />
+		<sound src="BGHD_125.mp3"  id="c16" volume="0" channel="vo" />
+		<sound src="BGHD_126.mp3"  id="c8" volume="100" channel="vo" />
+		<sound src="BGHD_127.mp3"  id="c9" volume="100" channel="vo" />
+		<sound src="BGHD_128.mp3"  id="c10" volume="100" channel="vo" />
+		<sound src="BGHD_129.mp3"  id="customSticker_6" volume="100" channel="vo" />
+		<sound src="BGHD_130.mp3"  id="p4" volume="100" channel="vo" />
+		<sound src="BGHD_131.mp3"  id="customSticker_4" volume="100" channel="vo" />
+		<sound src="BGHD_132.mp3"  id="customSticker_16" volume="100" channel="vo" />
+		<sound src="BGHD_133.mp3"  id="customSticker_12" volume="100" channel="vo" />
+		<sound src="BGHD_134.mp3"  id="customSticker_13" volume="100" channel="vo" />
+		<sound src="BGHD_130.mp3"  id="customSticker_10" volume="100" channel="vo" />
+		<sound src="BGHD_136.mp3"  id="customSticker_2" volume="100" channel="vo" />
+		<sound src="BGHD_137.mp3"  id="customSticker_1" volume="100" channel="vo" />
+		<sound src="BGHD_138.mp3"  id="customSticker_8" volume="100" channel="vo" />
+		<sound src="BGHD_139.mp3"  id="customSticker_5" volume="100" channel="vo" />
+		<sound src="BGHD_140.mp3"  id="customSticker_11" volume="100" channel="vo" />
+		<sound src="BGHD_141.mp3"  id="customSticker_14" volume="100" channel="vo" />
+		<sound src="BGHD_142.mp3"  id="customSticker_9" volume="100" channel="vo" />
+		<sound src="BGHD_143.mp3"  id="customSticker_15" volume="100" channel="vo" />
+		
+		<sound src="BGHD_219.mp3"  id="customSticker_7" volume="100" channel="vo" />
+		<sound src="BGHD_55.mp3"  id="BTN_printMC" volume="100" channel="vo" />
+		<sound src="BGHD_90.mp3"  id="BTN_skipMC" volume="100" channel="vo" />
+
+		<sound src="BGHD_87.mp3"  id="BTN_BackMC" volume="100" channel="vo" />
+		<sound src="BGHD_88.mp3"  id="BTN_StartOver" volume="100" channel="vo" />
+		<sound src="BGHD_89.mp3"  id="BTN_Print" volume="100" channel="vo" />
+		
+		<!-- Streaming animation sounds -->
+		<sound src="BGHD_80.mp3"  id="BGHD_80" volume="100" channel="sfx" />
+		<sound src="BGHD_66.mp3"  id="BGHD_66" volume="100" channel="sfx" />
+		<sound src="BGHD_190.mp3"  id="BGHD_190" volume="100" channel="sfx" />
+		<sound src="BGHD_191.mp3"  id="BGHD_191" volume="100" channel="sfx" />
+		<sound src="BGHD_13.mp3"  id="BGHD_13" volume="100" channel="sfx" />
+		<sound src="BGHD_14.mp3"  id="BGHD_14" volume="100" channel="sfx" />
+		<sound src="BGHD_195.mp3"  id="BGHD_195" volume="100" channel="sfx" />
+		<sound src="BGHD_194.mp3"  id="BGHD_194" volume="100" channel="sfx" />
+		<sound src="BGHD_68.mp3"  id="BGHD_68" volume="100" channel="sfx" />
+		<sound src="BGHD_82.mp3"  id="BGHD_82" volume="100" channel="sfx" />
+		<sound src="BGHD_81.mp3"  id="BGHD_81" volume="100" channel="sfx" />
+		<sound src="BGHD_67.mp3"  id="BGHD_67" volume="100" channel="sfx" />
+		<sound src="BGHD_192.mp3"  id="BGHD_192" volume="100" channel="sfx" />
+		<sound src="BGHD_193.mp3"  id="BGHD_193" volume="100" channel="sfx" />
+		<sound src="BGHD_15.mp3"  id="BGHD_15" volume="100" channel="sfx" />
+		<sound src="BGHD_79.mp3"  id="BGHD_79" volume="100" channel="sfx" />
+		<sound src="BGHD_65.mp3"  id="BGHD_65" volume="100" channel="sfx" />
+		<sound src="BGHD_188.mp3"  id="BGHD_188" volume="100" channel="sfx" />
+		<sound src="BGHD_189.mp3"  id="BGHD_189" volume="100" channel="sfx" />
+		<sound src="BGHD_16.mp3"  id="BGHD_16" volume="100" channel="sfx" />
+		<sound src="BGHD_75.mp3"  id="BGHD_75" volume="100" channel="sfx" />
+		<sound src="BGHD_76.mp3"  id="BGHD_76" volume="100" channel="sfx" />
+		<sound src="BGHD_77.mp3"  id="BGHD_77" volume="100" channel="sfx" />
+		<sound src="BGHD_63.mp3"  id="BGHD_63" volume="100" channel="sfx" />
+		<sound src="BGHD_184.mp3"  id="BGHD_184" volume="100" channel="sfx" />
+		<sound src="BGHD_185.mp3"  id="BGHD_185" volume="100" channel="sfx" />
+		<sound src="BGHD_9.mp3"  id="BGHD_9" volume="100" channel="sfx" />
+		<sound src="BGHD_78.mp3"  id="BGHD_78" volume="100" channel="sfx" />
+		<sound src="BGHD_64.mp3"  id="BGHD_64" volume="100" channel="sfx" />
+		<sound src="BGHD_186.mp3"  id="BGHD_186" volume="100" channel="sfx" />
+		<sound src="BGHD_187.mp3"  id="BGHD_187" volume="100" channel="sfx" />
+		<sound src="BGHD_11.mp3"  id="BGHD_11" volume="100" channel="sfx" />
+		<sound src="BGHD_72.mp3"  id="BGHD_72" volume="100" channel="sfx" />
+		<sound src="BGHD_71.mp3"  id="BGHD_71" volume="100" channel="sfx" />
+		<sound src="BGHD_73.mp3"  id="BGHD_73" volume="100" channel="sfx" />
+		<sound src="BGHD_74.mp3"  id="BGHD_74" volume="100" channel="sfx" />
+		<sound src="BGHD_70.mp3"  id="BGHD_70" volume="100" channel="sfx" />
+		<sound src="BGHD_69.mp3"  id="BGHD_69" volume="100" channel="sfx" />
+	
+		<sound src="BGHD_97.mp3"  id="prop_0" volume="100" channel="vo" />
+		<sound src="BGHD_198.mp3"  id="prop_1" volume="100" channel="vo" />
+		<sound src="BGHD_199.mp3"  id="prop_2" volume="100" channel="vo" />
+
+		
+	</sounds>
+
+</config>

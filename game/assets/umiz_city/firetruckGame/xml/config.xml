@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<XMLLayout loadGroupOrder="globals,preload_0,preload,foreground,background,titleScreen">
+	
+	<preload_0>
+		<!--<SWF source="/game/assets/umiz_city/firetruckGame/swf/SoundPlayerModule_v200.swf"/>-->
+	</preload_0>
+	
+	<preload>
+		
+		<SoundPlayer id="audio" xmlURL="/game/assets/umiz_city/firetruckGame/xml/audio.xml" />
+		
+		<SWF source="/game/assets/umiz_city/firetruckGame/swf/audio.swf" id="audio_swf" />
+		
+		<SWF source="/game/assets/umiz_city/firetruckGame/swf/art.swf" id="art_swf" />
+		
+		<SWF source="/game/assets/umiz_city/firetruckGame/swf/intro1.swf" id="intro1_swf" />
+		<SWF source="/game/assets/umiz_city/firetruckGame/swf/outro1.swf" id="outro1_swf" />
+		<SWF source="/game/assets/umiz_city/firetruckGame/swf/outro2.swf" id="outro2_swf" />
+		<SWF source="/game/assets/umiz_city/firetruckGame/swf/outro_3.swf" id="outro3_swf" />
+		<SWF source="/game/assets/umiz_city/firetruckGame/swf/end_title.swf" id="endTitle_swf" />
+		
+		<Loop start="1" end="3">
+			<Data id="level_[#]" source="xml/level[#].xml"/>
+		</Loop>
+		
+	</preload>
+	
+	<globals script="Globals">
+		<Data id="unloadCode">
+			<outro><![CDATA[
+				Stop(outroMC,true);
+				if( globals.isLastLevel() ){
+					PlayTransition(hud.transition,out,in,'
+						UnloadGroup(outro);
+						LoadGroup(endTitle);
+					');
+				}else{
+					PlayTransition(hud.transition,out,in,'
+						UnloadGroup(outro);
+						globals.incrementLevel();
+						LoadGroup(tutorial);
+					');
+				}
+			]]></outro>
+			<intro><![CDATA[
+				Stop(introMC,true);
+				PlayTransition(hud.transition,out,in,'
+					UnloadGroup(intro);
+					LoadGroup(tutorial);
+				');
+			]]></intro>
+			<tutorial><![CDATA[
+				Stop(tutorialMC,true);
+				SetVisibility(hud,true);
+				GotoAndStop(hud,11);
+				SetText(hud.scoreContainer.score_mc.score_txt.score_txt,0);
+				PlayTransition(hud.transition,out,in,'
+					UnloadGroup(tutorial);
+					StopAllChannels();
+					LoadGroup(game);
+				');
+			]]></tutorial>
+			
+		</Data>
+		
+	</globals>
+		
+	<titleScreen>
+		<onLoad><![CDATA[
+			globals.setTestMode(%flashvar.testMode|false%);
+			if(IsSet(#globals.getTestMode()#)){
+				UnloadGroup(titleScreen);
+				LoadGroup(game);
+			}else{
+				StopAllChannels();
+				PlayLabel(+mc,1);
+				PlaySound(title,{overridable:false});
+				PlaySound('"introSting,silence,#InlineLoop(0,200,',musicHelp')#"');
+				SetDelayPrompt(titleDP,titleDelayPrompt,12);
+			}
+		]]></onLoad>
+		<onUnload><![CDATA[
+			RemoveDelayPrompt(titleDP);
+			StopAllChannels();
+		]]></onUnload>
+
+		<MC id="mc" ref="TitleScreen" childIndex="1" />
+		<Button target="-mc.playButton" onClick="PlayTransition(hud.transition,out,in,'UnloadGroup(titleScreen);LoadGroup(intro);');" callout="playButtonCallout" />
+
+	</titleScreen>
+	
+	<intro>
+		<onLoad><![CDATA[
+			SwapMC(introMC,'Intro_#globals.getLevel()#');
+			PlayLabel(introMC,1,'"%unloadCode.intro%"');
+			globals.setPauseMC(introMC);
+			if(IsNotSet('#IsChannelPlaying(music)#')){
+				PlaySound(musicHelp);
+			}
+		]]></onLoad>
+		
+		<MC id="introMC" ref="Blank" childIndex="1"/>
+		<Button target="-introMC.skipButton" callout="skipButtonCallout"><onClick><![CDATA[%unloadCode.intro%]]></onClick></Button>
+	</intro>
+	
+	<tutorial>
+		<onLoad><![CDATA[
+			SwapMC(tutorialMC,'Tutorial_#globals.getLevel()#');
+			PlayLabel(tutorialMC,1,'"%unloadCode.tutorial%"');
+			globals.setPauseMC(tutorialMC);
+			SetText(hud.scoreContainer.score_mc.score_txt.score_txt,0);
+			PlayLabel(hud,1);
+			DelayedCall(1,'SetVisibility(hud,false);SetVisibility(tutorialMC.skipButton,true);FadeIn(tutorialMC.skipButton,1);');
+			SetVisibility(tutorialMC.skipButton,false);
+		]]></onLoad>
+		
+		<onUnload><![CDATA[
+			
+			
+			
+		]]></onUnload>
+		
+		<MC id="tutorialMC" ref="Blank" childIndex="1"/>
+		<Button target="-tutorialMC.skipButton" callout="skipButtonCallout" ><onClick><![CDATA[%unloadCode.tutorial%]]></onClick></Button>
+	</tutorial>
+	
+	<game script="Main_Game">
+		<onLoad><![CDATA[
+			PlaySound('musicL#globals.getLevel()#');
+			GotoAndStop(hud,11);
+			
+		]]></onLoad>
+		
+		<!-- preUnload is triggered by Main_Game.as -->
+		<preUnload><![CDATA[
+			PlayTransition(hud.transition,out,in,'
+				UnloadGroup(game);
+				StopAllChannels();
+				GotoAndStop(hud,1);
+				LoadGroup(outro);
+			');
+		]]></preUnload>
+		
+		<MC id="gameMC" ref="Game" childIndex="1" />
+		
+	</game>
+	
+	<outro>
+		<onLoad><![CDATA[
+			SwapMC(outroMC,'Outro_#globals.getLevel()#');
+			PlayLabel(outroMC,1,'"%unloadCode.outro%"');
+			globals.setPauseMC(outroMC);
+			PlaySound(musicHelp);
+		]]></onLoad>
+		
+
+		
+		<MC id="outroMC" ref="Blank" childIndex="1"/>
+		<Button target="-outroMC.skipButton"  callout="skipButtonCallout"><onClick><![CDATA[%unloadCode.outro%]]></onClick></Button>
+	</outro>
+	
+	<endTitle>
+		<onLoad><![CDATA[
+			PlayLabel(endTitle,1,'globals.setEndTitleDelayPrompt();');
+			globals.setPauseMC(endTitle);
+		]]></onLoad>
+		<onUnload><![CDATA[
+			globals.clearEndTitleDelayPrompt();
+		]]></onUnload>
+		
+		<MC id="endTitle" ref="EndTitle" childIndex="1"/>
+		<Button target="endTitle.playAgainButton" callout="playAgainButtonCallout" onClick="globals.trackPlayAgain();PlayTransition(hud.transition,out,in,'globals.resetLevel();UnloadGroup(endTitle);LoadGroup(intro);');"/>
+		<Button target="endTitle.printButton" callout="printButtonCallout" onClick="globals.trackPrint();globals.printPic();"/>
+	
+	</endTitle>
+	
+	<background>
+		<MC ref="DefaultBackground" childIndex="0" />
+	</background>
+	
+	<foreground onLoad="GotoAndStop(hud.effects,1);GotoAndStop(hud.hint,blank);">
+		
+		<MC ref="HUD" id="hud" />
+		<!--<Button target="hud.togglePause" onClick="globals.togglePause();" ignoreDisabledState="true" />
+		<Button target="hud.restart" onClick="globals.restart();" ignoreDisabledState="true"  />-->
+	</foreground>
+	
+</XMLLayout>

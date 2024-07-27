@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+
+<game>
+
+	<stage_width>600</stage_width>
+	<stage_height>340</stage_height>
+
+	<num_of_levels>4</num_of_levels>
+	
+	<show_level_pause>1</show_level_pause>
+	<show_level_speed>200</show_level_speed>
+	
+	<player>
+		<asset_id>player</asset_id>
+		<max_jump_distance>200</max_jump_distance>
+		<jump_height>100</jump_height>
+		<correct_key_repeat_time>60</correct_key_repeat_time>
+		<idle_time>15</idle_time>
+	</player>
+	
+	<background>
+		<bg_width>600</bg_width>
+		<bg_height>340</bg_height>
+		<bg_scroll_factor>.75</bg_scroll_factor>
+		<window_object_scroll_factor>.15</window_object_scroll_factor>
+		<!-- <door_asset_id>doors</door_asset_id> -->
+	</background>
+	
+	
+	<platform>
+		<bounce>5</bounce>
+		<potion_off_time>12</potion_off_time>
+	</platform>
+	
+</game>

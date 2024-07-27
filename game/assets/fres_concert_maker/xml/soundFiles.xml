@@ -1,0 +1,226 @@
+<data dir="mp3/">
+	<music channel="music" volume="50">
+		
+		<sound file="fullTrack" volume="100" loops="1" inLibrary="true" />
+		<sound file="introSting" volume="50" loops="1" inLibrary="true" />
+		<sound file="introMusic" volume="50" loops="999" inLibrary="true" />
+		<sound file="HereWeGoInst" volume="70" loops="1" inLibrary="true" />
+		<sound file="HereWeGoInstP7" volume="70" loops="1" inLibrary="true" />
+		<sound file="HereWeGoVoc" volume="70" loops="1" inLibrary="true" />
+		<sound file="HereWeGoVocP7" volume="70" loops="1" inLibrary="true" />
+		<sound file="FriendLikeYouInst" volume="70" loops="1" inLibrary="true" />
+		<sound file="FriendLikeYouInstP7" volume="70" loops="1" inLibrary="true" />
+		<sound file="FriendLikeYouVoc" volume="70" loops="1" inLibrary="true" />
+		<sound file="FriendLikeYouVocP7" volume="70" loops="1" inLibrary="true" />
+		<sound file="GreatDayInst" volume="70" loops="1" inLibrary="true" />
+		<sound file="GreatDayInstP7" volume="70" loops="1" inLibrary="true" />
+		<sound file="GreatDayVoc" volume="70" loops="1" inLibrary="true" />
+		<sound file="GreatDayVocP7" volume="70" loops="1" inLibrary="true" />
+		<sound file="ReachForTheSkyInst" volume="70" loops="1" inLibrary="true" />
+		<sound file="ReachForTheSkyInstP7" volume="70" loops="1" inLibrary="true" />
+		<sound file="ReachForTheSkyVoc" volume="70" loops="1" inLibrary="true" />
+		<sound file="ReachForTheSkyVocP7" volume="70" loops="1" inLibrary="true" />
+		<sound file="RockStarInst" volume="70" loops="1" inLibrary="true" />
+		<sound file="RockStarInstP7" volume="70" loops="1" inLibrary="true" />
+		<sound file="RockStarVoc" volume="70" loops="1" inLibrary="true" />
+		<sound file="RockStarVocP7" volume="70" loops="1" inLibrary="true" />
+	</music>
+	
+	<sfx channel="sfx" volume="50">
+
+		<sound file="introSFX1" volume="100" inLibrary="true" />
+		<sound file="introSFX2" volume="100" inLibrary="true" />
+		<sound file="introSFX3" volume="80" inLibrary="true" />
+		<sound file="introSFX4" volume="80" inLibrary="true" />
+		<sound file="introSFX5" volume="80" inLibrary="true" />
+		<sound file="introSFX6" volume="100" inLibrary="true" />
+
+		<sound file="pic" volume="50" inLibrary="true" />
+		<sound file="roMusicReach" volume="100" inLibrary="true" />
+		<sound file="roMusicRock" volume="100" inLibrary="true" />
+		<sound file="roMusicHereWeGo" volume="100" inLibrary="true" />
+		<sound file="roMusicGreatDay" volume="100" inLibrary="true" />
+		<sound file="roMusicFriend" volume="100" inLibrary="true" />
+		<sound file="click1" volume="20" inLibrary="true" />
+		<sound file="click2" volume="20" inLibrary="true" />
+		<sound file="click4" volume="20" inLibrary="true" />
+		<sound file="clickConductor" volume="20" inLibrary="true" />
+		<sound file="clickCostume" volume="20" inLibrary="true" />
+		<sound file="clickDance" volume="20" inLibrary="true" />
+		<sound file="clickLight" volume="20" inLibrary="true" />
+		<sound file="clickSong" volume="20" inLibrary="true" />
+		<sound file="clickStage" volume="20" inLibrary="true" />
+		<sound file="Crowd1" volume="20" inLibrary="true" />
+		<sound file="Crowd2" volume="20" inLibrary="true" />
+		<sound file="riserDownClick" volume="20" inLibrary="true" />
+		<sound file="riserUpClick" volume="20" inLibrary="true" />
+		<sound file="ro1" volume="20" inLibrary="true" />
+		<sound file="ro2" volume="20" inLibrary="true" />
+		<sound file="ro3" volume="20" inLibrary="true" />
+		<sound file="ro4" volume="20" inLibrary="true" />
+		<sound file="ro5" volume="20" inLibrary="true" />
+
+		<sound volume="100" inLibrary="false" file="FBBCC_45.mp3"/>
+
+	</sfx>
+	
+	<vo channel="vo" volume="50">
+		<sound volume="100" inLibrary="false" file="FBBCC_1.mp3"/>
+		<sound volume="100" inLibrary="false" file="FBBCC_2.mp3"/>
+		<sound volume="100" inLibrary="false" file="FBBCC_3.mp3"/>
+		<sound volume="100" inLibrary="false" file="FBBCC_4.mp3"/>
+		<!-- <sound volume="100" inLibrary="false" file="FBBCC_5.mp3"/> -->
+		<!-- <sound volume="100" inLibrary="false" file="FBBCC_6.mp3"/> -->
+		<sound volume="100" inLibrary="false" file="FBBCC_7.mp3"/>
+		<sound volume="100" inLibrary="false" file="FBBCC_8.mp3"/>
+		<sound volume="100" inLibrary="false" file="FBBCC_9.mp3"/>
+		<sound volume="100" inLibrary="false" file="FBBCC_10.mp3"/>
+		<sound volume="100" inLibrary="false" file="FBBCC_11.mp3"/>
+		<sound volume="100" inLibrary="false" file="FBBCC_12.mp3"/>
+		<sound volume="100" inLibrary="false" file="FBBCC_13.mp3"/>
+		<sound volume="100" inLibrary="false" file="FBBCC_14.mp3"/>
+		<sound volume="100" inLibrary="false" file="FBBCC_15.mp3"/>
+		<sound volume="100" inLibrary="false" file="FBBCC_16.mp3"/>
+		<!-- <sound volume="100" inLibrary="false" file="FBBCC_17.mp3"/> -->
+		<sound volume="100" inLibrary="false" file="FBBCC_18.mp3"/>
+		<sound volume="100" inLibrary="false" file="FBBCC_19.mp3"/>
+		<sound volume="100" inLibrary="false" file="FBBCC_20.mp3"/>
+		<sound volume="100" inLibrary="false" file="FBBCC_21.mp3"/>
+		<sound volume="100" inLibrary="false" file="FBBCC_22.mp3"/>
+		<sound volume="100" inLibrary="false" file="FBBCC_23.mp3"/>
+		<sound volume="100" inLibrary="false" file="FBBCC_24.mp3"/>
+		<sound volume="100" inLibrary="false" file="FBBCC_25.mp3"/>
+		<sound volume="100" inLibrary="false" file="FBBCC_26.mp3"/>
+		<sound volume="100" inLibrary="false" file="FBBCC_27.mp3"/>
+		<sound volume="100" inLibrary="false" file="FBBCC_28.mp3"/>
+		<sound volume="100" inLibrary="false" file="FBBCC_29.mp3"/>
+		<sound volume="100" inLibrary="false" file="FBBCC_30.mp3"/>
+		<sound volume="100" inLibrary="false" file="FBBCC_31.mp3"/>
+		<sound volume="100" inLibrary="false" file="FBBCC_32.mp3"/>
+		<sound volume="100" inLibrary="false" file="FBBCC_33.mp3"/>
+		<sound volume="100" inLibrary="false" file="FBBCC_34.mp3"/>
+		<sound volume="100" inLibrary="false" file="FBBCC_35.mp3"/>
+		<sound volume="100" inLibrary="false" file="FBBCC_36.mp3"/>
+		<sound volume="100" inLibrary="false" file="FBBCC_37.mp3"/>
+		<sound volume="100" inLibrary="false" file="FBBCC_38.mp3"/>
+		<sound volume="100" inLibrary="false" file="FBBCC_39.mp3"/>
+		<sound volume="100" inLibrary="false" file="FBBCC_40.mp3"/>
+		<sound volume="100" inLibrary="false" file="FBBCC_41.mp3"/>
+		<sound volume="100" inLibrary="false" file="FBBCC_42.mp3"/>
+		<sound volume="100" inLibrary="false" file="FBBCC_43.mp3"/>
+		<sound volume="100" inLibrary="false" file="FBBCC_44.mp3"/>
+		<!-- <sound volume="100" inLibrary="false" file="FBBCC_45.mp3"/> --> <!---- Moving this to sfx channel -->
+		<sound volume="100" inLibrary="false" file="FBBCC_46.mp3"/>
+		<sound volume="100" inLibrary="false" file="FBBCC_47.mp3"/>
+		<sound volume="100" inLibrary="false" file="FBBCC_48.mp3"/>
+		<sound volume="100" inLibrary="false" file="FBBCC_49.mp3"/>
+		<sound volume="100" inLibrary="false" file="FBBCC_50.mp3"/>
+		<sound volume="100" inLibrary="false" file="FBBCC_51.mp3"/>
+		<sound volume="100" inLibrary="false" file="FBBCC_52.mp3"/>
+		<sound volume="100" inLibrary="false" file="FBBCC_53.mp3"/>
+		<!-- <sound volume="100" inLibrary="false" file="FBBCC_54.mp3"/> -->
+		<sound volume="100" inLibrary="false" file="FBBCC_55.mp3"/>
+		<sound volume="100" inLibrary="false" file="FBBCC_56.mp3"/>
+		<sound volume="100" inLibrary="false" file="FBBCC_57.mp3"/>
+		<sound volume="100" inLibrary="false" file="FBBCC_58.mp3"/>
+		<sound volume="100" inLibrary="false" file="FBBCC_59.mp3"/>
+		<sound volume="100" inLibrary="false" file="FBBCC_60.mp3"/>
+		<sound volume="100" inLibrary="false" file="FBBCC_61.mp3"/>
+		<sound volume="100" inLibrary="false" file="FBBCC_62.mp3"/>
+		<sound volume="100" inLibrary="false" file="FBBCC_63.mp3"/>
+		<sound volume="100" inLibrary="false" file="FBBCC_64.mp3"/>
+		<sound volume="100" inLibrary="false" file="FBBCC_65.mp3"/>
+		<sound volume="100" inLibrary="false" file="FBBCC_66.mp3"/>
+		<sound volume="100" inLibrary="false" file="FBBCC_67.mp3"/>
+		<sound volume="100" inLibrary="false" file="FBBCC_68.mp3"/>
+		<sound volume="100" inLibrary="false" file="FBBCC_69.mp3"/>
+		<sound volume="100" inLibrary="false" file="FBBCC_70.mp3"/>
+		<sound volume="100" inLibrary="false" file="FBBCC_71.mp3"/>
+		<sound volume="100" inLibrary="false" file="FBBCC_72.mp3"/>
+		<sound volume="100" inLibrary="false" file="FBBCC_73.mp3"/>
+		<sound volume="100" inLibrary="false" file="FBBCC_74.mp3"/>
+		<sound volume="100" inLibrary="false" file="FBBCC_75.mp3"/>
+		<sound volume="100" inLibrary="false" file="FBBCC_76.mp3"/>
+		<sound volume="100" inLibrary="false" file="FBBCC_77.mp3"/>
+		<sound volume="100" inLibrary="false" file="FBBCC_78.mp3"/>
+		<sound volume="100" inLibrary="false" file="FBBCC_79.mp3"/>
+		<sound volume="100" inLibrary="false" file="FBBCC_80.mp3"/>
+		<sound volume="100" inLibrary="false" file="FBBCC_81.mp3"/>
+		<sound volume="100" inLibrary="false" file="FBBCC_82.mp3"/>
+		<sound volume="100" inLibrary="false" file="FBBCC_83.mp3"/>
+		<sound volume="100" inLibrary="false" file="FBBCC_84.mp3"/>
+		<sound volume="100" inLibrary="false" file="FBBCC_85.mp3"/>
+		<sound volume="100" inLibrary="false" file="FBBCC_86.mp3"/>
+		<sound volume="100" inLibrary="false" file="FBBCC_87.mp3"/>
+		<sound volume="100" inLibrary="false" file="FBBCC_88.mp3"/>
+		<sound volume="100" inLibrary="false" file="FBBCC_89.mp3"/>
+		<sound volume="100" inLibrary="false" file="FBBCC_90.mp3"/>
+		<sound volume="100" inLibrary="false" file="FBBCC_91.mp3"/>
+		<sound volume="100" inLibrary="false" file="FBBCC_92.mp3"/>
+		<sound volume="100" inLibrary="false" file="FBBCC_93.mp3"/>
+		<sound volume="100" inLibrary="false" file="FBBCC_94.mp3"/>
+		<sound volume="100" inLibrary="false" file="FBBCC_95.mp3"/>
+		<sound volume="100" inLibrary="false" file="FBBCC_96.mp3"/>
+		<sound volume="100" inLibrary="false" file="FBBCC_97.mp3"/>
+		<sound volume="100" inLibrary="false" file="FBBCC_98.mp3"/>
+		<sound volume="100" inLibrary="false" file="FBBCC_99.mp3"/>
+		<sound volume="100" inLibrary="false" file="FBBCC_100.mp3"/>
+		<sound volume="100" inLibrary="false" file="FBBCC_101.mp3"/>
+		<sound volume="100" inLibrary="false" file="FBBCC_102.mp3"/>
+		<sound volume="100" inLibrary="false" file="FBBCC_103.mp3"/>
+		<sound volume="100" inLibrary="false" file="FBBCC_104.mp3"/>
+		<sound volume="100" inLibrary="false" file="FBBCC_105.mp3"/>
+		<sound volume="100" inLibrary="false" file="FBBCC_106.mp3"/>
+		<sound volume="100" inLibrary="false" file="FBBCC_107.mp3"/>
+		<sound volume="100" inLibrary="false" file="FBBCC_108.mp3"/>
+		<sound volume="100" inLibrary="false" file="FBBCC_109.mp3"/>
+		<sound volume="100" inLibrary="false" file="FBBCC_110.mp3"/>
+		<sound volume="100" inLibrary="false" file="FBBCC_111.mp3"/>
+		<sound volume="100" inLibrary="false" file="FBBCC_112.mp3"/>
+		<sound volume="100" inLibrary="false" file="FBBCC_113.mp3"/>
+		<sound volume="100" inLibrary="false" file="FBBCC_114.mp3"/>
+		<sound volume="100" inLibrary="false" file="FBBCC_115.mp3"/>
+		
+		<!-- Final Added VO -->
+		<sound volume="100" inLibrary="false" file="FBBCC_1a.mp3"/>
+		<sound volume="100" inLibrary="false" file="FBBCC_2a.mp3"/>
+		<sound volume="100" inLibrary="false" file="FBBCC_3a.mp3"/>
+		<sound volume="100" inLibrary="false" file="FBBCC_4a.mp3"/>
+		<sound volume="100" inLibrary="false" file="FBBCC_7a.mp3"/>
+		
+		
+		<sound volume="100" inLibrary="false" file="FBBCC_116.mp3"/>
+		<sound volume="100" inLibrary="false" file="FBBCC_117.mp3"/>
+		<sound volume="100" inLibrary="false" file="FBBCC_118.mp3"/>
+		<!-- <sound volume="100" inLibrary="false" file="FBBCC_119.mp3"/> -->
+		<sound volume="100" inLibrary="false" file="FBBCC_120.mp3"/>
+		<sound volume="100" inLibrary="false" file="FBBCC_121.mp3"/>
+		<sound volume="100" inLibrary="false" file="FBBCC_122.mp3"/>
+		<sound volume="100" inLibrary="false" file="FBBCC_123.mp3"/>
+		<sound volume="100" inLibrary="false" file="FBBCC_124.mp3"/>
+		<sound volume="100" inLibrary="false" file="FBBCC_125.mp3"/>
+		<sound volume="100" inLibrary="false" file="FBBCC_126.mp3"/>
+		<sound volume="100" inLibrary="false" file="FBBCC_127.mp3"/>
+		<sound volume="100" inLibrary="false" file="FBBCC_128.mp3"/>
+		<sound volume="100" inLibrary="false" file="FBBCC_129.mp3"/>
+		<sound volume="100" inLibrary="false" file="FBBCC_130.mp3"/>
+		<sound volume="100" inLibrary="false" file="FBBCC_131.mp3"/>
+		<sound volume="100" inLibrary="false" file="FBBCC_132.mp3"/>
+		<sound volume="100" inLibrary="false" file="FBBCC_133.mp3"/>
+		<sound volume="100" inLibrary="false" file="FBBCC_134.mp3"/>
+		<sound volume="100" inLibrary="false" file="FBBCC_135.mp3"/>
+		<sound volume="100" inLibrary="false" file="FBBCC_136.mp3"/>
+		<sound volume="100" inLibrary="false" file="FBBCC_137.mp3"/>
+		<sound volume="100" inLibrary="false" file="FBBCC_138.mp3"/>
+		<sound volume="100" inLibrary="false" file="FBBCC_139.mp3"/>
+		<sound volume="100" inLibrary="false" file="FBBCC_140.mp3"/>
+		<sound volume="100" inLibrary="false" file="FBBCC_141.mp3"/>
+		<sound volume="100" inLibrary="false" file="FBBCC_142.mp3"/>
+		<sound volume="100" inLibrary="false" file="FBBCC_144.mp3"/>
+		<sound volume="100" inLibrary="false" file="FBBCC_24a.mp3"/>
+		<sound volume="100" inLibrary="false" file="FBBCC_41a.mp3"/>
+		<sound volume="100" inLibrary="false" file="FBBCC_41b.mp3"/>
+		<sound volume="100" inLibrary="false" file="FBBCC_41d.mp3"/>
+		
+	</vo>
+</data>

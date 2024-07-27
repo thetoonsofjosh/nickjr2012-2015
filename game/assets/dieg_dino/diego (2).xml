@@ -1,0 +1,67 @@
+<!--
+	Diego Game XML 
+-->
+
+<activity>
+
+	<!-- 
+		Screens - logo, teaser, walkthrough, and entry
+		id : String // unique identifier used to reference the following values
+		path : String // relative path to the screen
+		active : Boolean // toggle to be loaded and shown 
+	-->
+	<screens>
+		<screen>
+			<id>logo</id>
+			<path>logo.swf</path>
+			<active>true</active>
+		</screen>
+		<screen>
+			<id>intro</id>
+			<path>intro.swf</path>
+			<active>true</active>
+		</screen>
+		<screen>
+			<id>walkthrough</id>
+			<path>walkthrough.swf</path>
+			<active>true</active>
+		</screen>
+		<screen>
+			<id>entry</id>
+			<path>entry.swf</path>
+			<active>true</active>
+		</screen>
+	</screens>
+	
+	<!-- 
+		Games - 5 games
+		id : String // unique identifier used to reference the following values - used to show particular in-game graphic on the books
+		path : String // relative path to game
+		active : Boolean // toggle to be loaded and shown 
+		name : String // Name displayed in the high score table
+		
+		// PRE: THERE MUST BE EXACTLY 5 GAME TAGS
+		// PRE: THE GAME ID TAGS MUST BE EXACTLY ONE OF THE FOLLOWING: eggpickup, microraptor, caregame, racegame, or mazegame
+	-->
+	<games>
+		<game>
+			<id>eggpickup</id>
+			<path>games/eggpickup.swf</path>
+			<active>true</active>
+			<name>Race Game</name>
+		</game>
+		<game>
+			<id>caregame</id>
+			<path>games/dinocare.swf</path>
+			<active>true</active>
+			<name>Care Game</name>
+		</game>
+		<game>
+			<id>mazegame</id>
+			<path>games/mazegame.swf</path>
+			<active>true</active>
+			<name>Maze Game</name>
+		</game>
+	</games>
+
+</activity>

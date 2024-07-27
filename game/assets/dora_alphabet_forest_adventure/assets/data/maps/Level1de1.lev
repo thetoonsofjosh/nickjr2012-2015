@@ -1,0 +1,1341 @@
+<GameState name="Untitled Level">
+  <CitrusObject name="Nuages" className="com.citrusengine.objects.CitrusSprite">
+    <Property name="x">1543</Property>
+    <Property name="y">142</Property>
+    <Property name="width">2714</Property>
+    <Property name="height">198</Property>
+    <Property name="parallax">0.5</Property>
+    <Property name="rotation">0</Property>
+    <Property name="group">1</Property>
+    <Property name="view">assets/images/pf_layer1_clouds.png</Property>
+    <Property name="offsetX">0</Property>
+    <Property name="offsetY">0</Property>
+    <Property name="registration">center</Property>
+  </CitrusObject>
+  <CitrusObject name="Background Niveau 2a" className="com.citrusengine.objects.CitrusSprite">
+    <Property name="x">1483</Property>
+    <Property name="y">150</Property>
+    <Property name="width">2957</Property>
+    <Property name="height">261</Property>
+    <Property name="parallax">0</Property>
+    <Property name="rotation">0</Property>
+    <Property name="group">2</Property>
+    <Property name="view">assets/images/Level 1_1/pf_layer2_background2.png</Property>
+    <Property name="offsetX">0</Property>
+    <Property name="offsetY">0</Property>
+    <Property name="registration">center</Property>
+  </CitrusObject>
+  <CitrusObject name="Gazon et plamier a" className="com.citrusengine.objects.CitrusSprite">
+    <Property name="x">1444</Property>
+    <Property name="y">161</Property>
+    <Property name="width">3032</Property>
+    <Property name="height">525</Property>
+    <Property name="parallax">0.75</Property>
+    <Property name="rotation">0</Property>
+    <Property name="group">4</Property>
+    <Property name="view">assets/images/Level 1_1/pf_level4_group1.png</Property>
+    <Property name="offsetX">0</Property>
+    <Property name="offsetY">0</Property>
+    <Property name="registration">center</Property>
+  </CitrusObject>
+  <CitrusObject name="Plancher" className="com.citrusengine.objects.platformer.Platform">
+    <Property name="oneWay">false</Property>
+    <Property name="gravity">1.6</Property>
+    <Property name="x">2956.5</Property>
+    <Property name="y">359</Property>
+    <Property name="parallax">1</Property>
+    <Property name="rotation">0</Property>
+    <Property name="group">5</Property>
+    <Property name="view"></Property>
+    <Property name="offsetX">0</Property>
+    <Property name="offsetY">0</Property>
+    <Property name="registration">center</Property>
+    <Property name="width">5915</Property>
+    <Property name="height">30</Property>
+  </CitrusObject>
+  <CitrusObject name="Roche 1" className="com.citrusengine.objects.platformer.Platform">
+    <Property name="oneWay">true</Property>
+    <Property name="gravity">1.6</Property>
+    <Property name="x">906</Property>
+    <Property name="y">314</Property>
+    <Property name="parallax">1</Property>
+    <Property name="rotation">0</Property>
+    <Property name="group">5</Property>
+    <Property name="view"></Property>
+    <Property name="offsetX">0</Property>
+    <Property name="offsetY">0</Property>
+    <Property name="registration">center</Property>
+    <Property name="width">130</Property>
+    <Property name="height">44</Property>
+  </CitrusObject>
+  <CitrusObject name="Bosse 1" className="com.citrusengine.objects.platformer.Platform">
+    <Property name="oneWay">true</Property>
+    <Property name="gravity">1.6</Property>
+    <Property name="x">1295</Property>
+    <Property name="y">316</Property>
+    <Property name="parallax">1</Property>
+    <Property name="rotation">0</Property>
+    <Property name="group">5</Property>
+    <Property name="view"></Property>
+    <Property name="offsetX">0</Property>
+    <Property name="offsetY">0</Property>
+    <Property name="registration">center</Property>
+    <Property name="width">240</Property>
+    <Property name="height">44</Property>
+  </CitrusObject>
+  <CitrusObject name="Branche 1" className="com.citrusengine.objects.platformer.Platform">
+    <Property name="oneWay">true</Property>
+    <Property name="gravity">1.6</Property>
+    <Property name="x">972</Property>
+    <Property name="y">212</Property>
+    <Property name="parallax">1</Property>
+    <Property name="rotation">0</Property>
+    <Property name="group">5</Property>
+    <Property name="view"></Property>
+    <Property name="offsetX">0</Property>
+    <Property name="offsetY">0</Property>
+    <Property name="registration">center</Property>
+    <Property name="width">150</Property>
+    <Property name="height">18</Property>
+  </CitrusObject>
+  <CitrusObject name="Bosse 2" className="com.citrusengine.objects.platformer.Platform">
+    <Property name="oneWay">true</Property>
+    <Property name="gravity">1.6</Property>
+    <Property name="x">1864</Property>
+    <Property name="y">310</Property>
+    <Property name="parallax">1</Property>
+    <Property name="rotation">0</Property>
+    <Property name="group">5</Property>
+    <Property name="view"></Property>
+    <Property name="offsetX">0</Property>
+    <Property name="offsetY">0</Property>
+    <Property name="registration">center</Property>
+    <Property name="width">312</Property>
+    <Property name="height">44</Property>
+  </CitrusObject>
+  <CitrusObject name="Bosse 3" className="com.citrusengine.objects.platformer.Platform">
+    <Property name="oneWay">true</Property>
+    <Property name="gravity">1.6</Property>
+    <Property name="x">1884.5</Property>
+    <Property name="y">265</Property>
+    <Property name="parallax">1</Property>
+    <Property name="rotation">0</Property>
+    <Property name="group">5</Property>
+    <Property name="view"></Property>
+    <Property name="offsetX">0</Property>
+    <Property name="offsetY">0</Property>
+    <Property name="registration">center</Property>
+    <Property name="width">153</Property>
+    <Property name="height">40</Property>
+  </CitrusObject>
+  <CitrusObject name="Bosse 5" className="com.citrusengine.objects.platformer.Platform">
+    <Property name="oneWay">true</Property>
+    <Property name="gravity">1.6</Property>
+    <Property name="x">2344.5</Property>
+    <Property name="y">312</Property>
+    <Property name="parallax">1</Property>
+    <Property name="rotation">0</Property>
+    <Property name="group">5</Property>
+    <Property name="view"></Property>
+    <Property name="offsetX">0</Property>
+    <Property name="offsetY">0</Property>
+    <Property name="registration">center</Property>
+    <Property name="width">313</Property>
+    <Property name="height">44</Property>
+  </CitrusObject>
+  <CitrusObject name="Branche 4" className="com.citrusengine.objects.platformer.Platform">
+    <Property name="oneWay">true</Property>
+    <Property name="gravity">1.6</Property>
+    <Property name="x">2285</Property>
+    <Property name="y">139</Property>
+    <Property name="parallax">1</Property>
+    <Property name="rotation">0</Property>
+    <Property name="group">5</Property>
+    <Property name="view"></Property>
+    <Property name="offsetX">0</Property>
+    <Property name="offsetY">0</Property>
+    <Property name="registration">center</Property>
+    <Property name="width">288</Property>
+    <Property name="height">18</Property>
+  </CitrusObject>
+  <CitrusObject name="Branche 5" className="com.citrusengine.objects.platformer.Platform">
+    <Property name="oneWay">true</Property>
+    <Property name="gravity">1.6</Property>
+    <Property name="x">2047</Property>
+    <Property name="y">208</Property>
+    <Property name="parallax">1</Property>
+    <Property name="rotation">0</Property>
+    <Property name="group">5</Property>
+    <Property name="view"></Property>
+    <Property name="offsetX">0</Property>
+    <Property name="offsetY">0</Property>
+    <Property name="registration">center</Property>
+    <Property name="width">268</Property>
+    <Property name="height">18</Property>
+  </CitrusObject>
+  <CitrusObject name="Background niveau 6a" className="com.citrusengine.objects.CitrusSprite">
+    <Property name="x">1465</Property>
+    <Property name="y">427</Property>
+    <Property name="width">3010</Property>
+    <Property name="height">454</Property>
+    <Property name="parallax">1.5</Property>
+    <Property name="rotation">0</Property>
+    <Property name="group">6</Property>
+    <Property name="view">assets/images/Level 1_1/pf_layer6_foreground.png</Property>
+    <Property name="offsetX">0</Property>
+    <Property name="offsetY">0</Property>
+    <Property name="registration">center</Property>
+  </CitrusObject>
+  <CitrusObject name="Nuage b" className="com.citrusengine.objects.CitrusSprite">
+    <Property name="x">4564</Property>
+    <Property name="y">142</Property>
+    <Property name="width">2714</Property>
+    <Property name="height">198</Property>
+    <Property name="parallax">0.5</Property>
+    <Property name="rotation">0</Property>
+    <Property name="group">1</Property>
+    <Property name="view">assets/images/pf_layer1_clouds.png</Property>
+    <Property name="offsetX">0</Property>
+    <Property name="offsetY">0</Property>
+    <Property name="registration">center</Property>
+  </CitrusObject>
+  <CitrusObject name="Montagne gazonB" className="com.citrusengine.objects.CitrusSprite">
+    <Property name="x">4440</Property>
+    <Property name="y">150</Property>
+    <Property name="width">2959</Property>
+    <Property name="height">260</Property>
+    <Property name="parallax">0</Property>
+    <Property name="rotation">0</Property>
+    <Property name="group">2</Property>
+    <Property name="view">assets/images/Dora_2.0/pf_layer2_background2A.png</Property>
+    <Property name="offsetX">0</Property>
+    <Property name="offsetY">0</Property>
+    <Property name="registration">center</Property>
+  </CitrusObject>
+  <CitrusObject name="Gazon et palmierb" className="com.citrusengine.objects.CitrusSprite">
+    <Property name="x">4397</Property>
+    <Property name="y">161</Property>
+    <Property name="width">3098</Property>
+    <Property name="height">572</Property>
+    <Property name="parallax">1</Property>
+    <Property name="rotation">0</Property>
+    <Property name="group">4</Property>
+    <Property name="view">assets/images/Dora_2.0/pf_level4_group1B.png</Property>
+    <Property name="offsetX">0</Property>
+    <Property name="offsetY">0</Property>
+    <Property name="registration">center</Property>
+  </CitrusObject>
+  <CitrusObject name="Foreground b" className="com.citrusengine.objects.CitrusSprite">
+    <Property name="x">3931</Property>
+    <Property name="y">433</Property>
+    <Property name="width">2970</Property>
+    <Property name="height">433</Property>
+    <Property name="parallax">1.5</Property>
+    <Property name="rotation">0</Property>
+    <Property name="group">6</Property>
+    <Property name="view">assets/images/Dora_2.0/pf_layer6_foregroundB.png</Property>
+    <Property name="offsetX">0</Property>
+    <Property name="offsetY">0</Property>
+    <Property name="registration">center</Property>
+  </CitrusObject>
+  <CitrusObject name="Branche 8" className="com.citrusengine.objects.platformer.Platform">
+    <Property name="oneWay">true</Property>
+    <Property name="gravity">1.6</Property>
+    <Property name="x">3228.5</Property>
+    <Property name="y">124</Property>
+    <Property name="parallax">1</Property>
+    <Property name="rotation">0</Property>
+    <Property name="group">5</Property>
+    <Property name="view"></Property>
+    <Property name="offsetX">0</Property>
+    <Property name="offsetY">0</Property>
+    <Property name="registration">center</Property>
+    <Property name="width">151</Property>
+    <Property name="height">18</Property>
+  </CitrusObject>
+  <CitrusObject name="Bosse9" className="com.citrusengine.objects.platformer.Platform">
+    <Property name="oneWay">true</Property>
+    <Property name="gravity">1.6</Property>
+    <Property name="x">4349.5</Property>
+    <Property name="y">311</Property>
+    <Property name="parallax">1</Property>
+    <Property name="rotation">0</Property>
+    <Property name="group">5</Property>
+    <Property name="view"></Property>
+    <Property name="offsetX">0</Property>
+    <Property name="offsetY">0</Property>
+    <Property name="registration">center</Property>
+    <Property name="width">513</Property>
+    <Property name="height">46</Property>
+  </CitrusObject>
+  <CitrusObject name="Bosse 11" className="com.citrusengine.objects.platformer.Platform">
+    <Property name="oneWay">true</Property>
+    <Property name="gravity">1.6</Property>
+    <Property name="x">4383</Property>
+    <Property name="y">266</Property>
+    <Property name="parallax">1</Property>
+    <Property name="rotation">0</Property>
+    <Property name="group">5</Property>
+    <Property name="view"></Property>
+    <Property name="offsetX">0</Property>
+    <Property name="offsetY">0</Property>
+    <Property name="registration">center</Property>
+    <Property name="width">192</Property>
+    <Property name="height">34</Property>
+  </CitrusObject>
+  <CitrusObject name="branche 11" className="com.citrusengine.objects.platformer.Platform">
+    <Property name="oneWay">true</Property>
+    <Property name="gravity">1.6</Property>
+    <Property name="x">4108</Property>
+    <Property name="y">221</Property>
+    <Property name="parallax">1</Property>
+    <Property name="rotation">0</Property>
+    <Property name="group">5</Property>
+    <Property name="view"></Property>
+    <Property name="offsetX">0</Property>
+    <Property name="offsetY">0</Property>
+    <Property name="registration">center</Property>
+    <Property name="width">146</Property>
+    <Property name="height">18</Property>
+  </CitrusObject>
+  <CitrusObject name="Branche 12" className="com.citrusengine.objects.platformer.Platform">
+    <Property name="oneWay">true</Property>
+    <Property name="gravity">1.6</Property>
+    <Property name="x">4263.5</Property>
+    <Property name="y">153</Property>
+    <Property name="parallax">1</Property>
+    <Property name="rotation">0</Property>
+    <Property name="group">5</Property>
+    <Property name="view"></Property>
+    <Property name="offsetX">0</Property>
+    <Property name="offsetY">0</Property>
+    <Property name="registration">center</Property>
+    <Property name="width">267</Property>
+    <Property name="height">18</Property>
+  </CitrusObject>
+  <CitrusObject name="Branche 13" className="com.citrusengine.objects.platformer.Platform">
+    <Property name="oneWay">true</Property>
+    <Property name="gravity">1.6</Property>
+    <Property name="x">4519</Property>
+    <Property name="y">208</Property>
+    <Property name="parallax">1</Property>
+    <Property name="rotation">0</Property>
+    <Property name="group">5</Property>
+    <Property name="view"></Property>
+    <Property name="offsetX">0</Property>
+    <Property name="offsetY">0</Property>
+    <Property name="registration">center</Property>
+    <Property name="width">288</Property>
+    <Property name="height">18</Property>
+  </CitrusObject>
+  <CitrusObject name="Branche 16" className="com.citrusengine.objects.platformer.Platform">
+    <Property name="oneWay">true</Property>
+    <Property name="gravity">1.6</Property>
+    <Property name="x">5159</Property>
+    <Property name="y">235</Property>
+    <Property name="parallax">1</Property>
+    <Property name="rotation">0</Property>
+    <Property name="group">5</Property>
+    <Property name="view"></Property>
+    <Property name="offsetX">0</Property>
+    <Property name="offsetY">0</Property>
+    <Property name="registration">center</Property>
+    <Property name="width">144</Property>
+    <Property name="height">18</Property>
+  </CitrusObject>
+  <CitrusObject name="Roche 2" className="com.citrusengine.objects.platformer.Platform">
+    <Property name="oneWay">true</Property>
+    <Property name="gravity">1.6</Property>
+    <Property name="x">5192</Property>
+    <Property name="y">313.5</Property>
+    <Property name="parallax">1</Property>
+    <Property name="rotation">0</Property>
+    <Property name="group">5</Property>
+    <Property name="view"></Property>
+    <Property name="offsetX">0</Property>
+    <Property name="offsetY">0</Property>
+    <Property name="registration">center</Property>
+    <Property name="width">130</Property>
+    <Property name="height">43</Property>
+  </CitrusObject>
+  <CitrusObject name="Roche 3" className="com.citrusengine.objects.platformer.Platform">
+    <Property name="oneWay">true</Property>
+    <Property name="gravity">1.6</Property>
+    <Property name="x">5475</Property>
+    <Property name="y">314</Property>
+    <Property name="parallax">1</Property>
+    <Property name="rotation">0</Property>
+    <Property name="group">5</Property>
+    <Property name="view"></Property>
+    <Property name="offsetX">0</Property>
+    <Property name="offsetY">0</Property>
+    <Property name="registration">center</Property>
+    <Property name="width">128</Property>
+    <Property name="height">46</Property>
+  </CitrusObject>
+  <CitrusObject name="Branche 17" className="com.citrusengine.objects.platformer.Platform">
+    <Property name="oneWay">true</Property>
+    <Property name="gravity">1.6</Property>
+    <Property name="x">5291</Property>
+    <Property name="y">165</Property>
+    <Property name="parallax">1</Property>
+    <Property name="rotation">0</Property>
+    <Property name="group">5</Property>
+    <Property name="view"></Property>
+    <Property name="offsetX">0</Property>
+    <Property name="offsetY">0</Property>
+    <Property name="registration">center</Property>
+    <Property name="width">316</Property>
+    <Property name="height">18</Property>
+  </CitrusObject>
+  <CitrusObject name="HeroDora59" className="net.odd1.Dora.platformer.HeroDora">
+    <Property name="useless"></Property>
+    <Property name="acceleration">1</Property>
+    <Property name="maxVelocity">6</Property>
+    <Property name="jumpHeight">11</Property>
+    <Property name="jumpAcceleration">0.8</Property>
+    <Property name="killVelocity">3</Property>
+    <Property name="enemySpringHeight">10</Property>
+    <Property name="enemySpringJumpHeight">12</Property>
+    <Property name="hurtDuration">1000</Property>
+    <Property name="hurtVelocityX">6</Property>
+    <Property name="hurtVelocityY">10</Property>
+    <Property name="canDuck">true</Property>
+    <Property name="enemyClass">com.citrusengine.objects.platformer.Baddy</Property>
+    <Property name="friction">0.75</Property>
+    <Property name="gravity">1.6</Property>
+    <Property name="x">102</Property>
+    <Property name="y">295</Property>
+    <Property name="parallax">1</Property>
+    <Property name="rotation">0</Property>
+    <Property name="group">5</Property>
+    <Property name="view">assets/images/DORA_platformer_dora_small.swf</Property>
+    <Property name="offsetX">0</Property>
+    <Property name="offsetY">20</Property>
+    <Property name="registration">center</Property>
+    <Property name="width">27.4</Property>
+    <Property name="height">86.4</Property>
+  </CitrusObject>
+  <CitrusObject name="endLevel" className="com.citrusengine.objects.platformer.Sensor">
+    <Property name="width">30</Property>
+    <Property name="gravity">1.6</Property>
+    <Property name="x">5724</Property>
+    <Property name="y">164</Property>
+    <Property name="parallax">1</Property>
+    <Property name="rotation">0</Property>
+    <Property name="group">5</Property>
+    <Property name="view"></Property>
+    <Property name="offsetX">0</Property>
+    <Property name="offsetY">0</Property>
+    <Property name="registration">center</Property>
+    <Property name="height">404</Property>
+  </CitrusObject>
+  <CitrusObject name="Plateformer 1a" className="com.citrusengine.objects.CitrusSprite">
+    <Property name="x">1480</Property>
+    <Property name="y">127</Property>
+    <Property name="width">2964</Property>
+    <Property name="height">499</Property>
+    <Property name="parallax">1</Property>
+    <Property name="rotation">0</Property>
+    <Property name="group">4</Property>
+    <Property name="view">assets/images/Level 1_1/pf_layer4b_platforms.png</Property>
+    <Property name="offsetX">0</Property>
+    <Property name="offsetY">0</Property>
+    <Property name="registration">center</Property>
+  </CitrusObject>
+  <CitrusObject name="plateformer 1b" className="com.citrusengine.objects.CitrusSprite">
+    <Property name="x">4405</Property>
+    <Property name="y">128</Property>
+    <Property name="width">3006</Property>
+    <Property name="height">547</Property>
+    <Property name="parallax">1</Property>
+    <Property name="rotation">0</Property>
+    <Property name="group">4</Property>
+    <Property name="view">assets/images/Dora_2.0/1-2/pf_layer4b_platforms.png</Property>
+    <Property name="offsetX">0</Property>
+    <Property name="offsetY">0</Property>
+    <Property name="registration">center</Property>
+  </CitrusObject>
+  <CitrusObject name="Letter" className="net.odd1.Dora.platformer.LetterObject">
+    <Property name="useless"></Property>
+    <Property name="collectorClass">com.citrusengine.objects.platformer.Hero</Property>
+    <Property name="width">27</Property>
+    <Property name="gravity">1.6</Property>
+    <Property name="x">432.5</Property>
+    <Property name="y">309.05</Property>
+    <Property name="parallax">1</Property>
+    <Property name="rotation">0</Property>
+    <Property name="group">5</Property>
+    <Property name="view">assets/images/letter.swf</Property>
+    <Property name="offsetX">0</Property>
+    <Property name="offsetY">0</Property>
+    <Property name="registration">center</Property>
+    <Property name="height">198.8</Property>
+  </CitrusObject>
+  <CitrusObject name="Letter" className="net.odd1.Dora.platformer.LetterObject">
+    <Property name="useless"></Property>
+    <Property name="collectorClass">com.citrusengine.objects.platformer.Hero</Property>
+    <Property name="width">26.3</Property>
+    <Property name="gravity">1.6</Property>
+    <Property name="x">2378.85</Property>
+    <Property name="y">96.15</Property>
+    <Property name="parallax">1</Property>
+    <Property name="rotation">0</Property>
+    <Property name="group">5</Property>
+    <Property name="view">assets/images/letter.swf</Property>
+    <Property name="offsetX">0</Property>
+    <Property name="offsetY">0</Property>
+    <Property name="registration">center</Property>
+    <Property name="height">68.6</Property>
+  </CitrusObject>
+  <CitrusObject name="Letter" className="net.odd1.Dora.platformer.LetterObject">
+    <Property name="useless"></Property>
+    <Property name="collectorClass">com.citrusengine.objects.platformer.Hero</Property>
+    <Property name="width">36</Property>
+    <Property name="gravity">1.6</Property>
+    <Property name="x">3162</Property>
+    <Property name="y">254</Property>
+    <Property name="parallax">1</Property>
+    <Property name="rotation">0</Property>
+    <Property name="group">5</Property>
+    <Property name="view">assets/images/letter.swf</Property>
+    <Property name="offsetX">0</Property>
+    <Property name="offsetY">0</Property>
+    <Property name="registration">center</Property>
+    <Property name="height">224.9</Property>
+  </CitrusObject>
+  <CitrusObject name="Letter" className="net.odd1.Dora.platformer.LetterObject">
+    <Property name="useless"></Property>
+    <Property name="collectorClass">com.citrusengine.objects.platformer.Hero</Property>
+    <Property name="width">49.1</Property>
+    <Property name="gravity">1.6</Property>
+    <Property name="x">3779</Property>
+    <Property name="y">256.5</Property>
+    <Property name="parallax">1</Property>
+    <Property name="rotation">0</Property>
+    <Property name="group">5</Property>
+    <Property name="view">assets/images/letter.swf</Property>
+    <Property name="offsetX">0</Property>
+    <Property name="offsetY">0</Property>
+    <Property name="registration">center</Property>
+    <Property name="height">245.9</Property>
+  </CitrusObject>
+  <CitrusObject name="Letter" className="net.odd1.Dora.platformer.LetterObject">
+    <Property name="useless"></Property>
+    <Property name="collectorClass">com.citrusengine.objects.platformer.Hero</Property>
+    <Property name="width">47</Property>
+    <Property name="gravity">1.6</Property>
+    <Property name="x">4429.5</Property>
+    <Property name="y">166</Property>
+    <Property name="parallax">1</Property>
+    <Property name="rotation">0</Property>
+    <Property name="group">5</Property>
+    <Property name="view">assets/images/letter.swf</Property>
+    <Property name="offsetX">0</Property>
+    <Property name="offsetY">0</Property>
+    <Property name="registration">center</Property>
+    <Property name="height">64.9</Property>
+  </CitrusObject>
+  <CitrusObject name="Letter" className="net.odd1.Dora.platformer.LetterObject">
+    <Property name="useless"></Property>
+    <Property name="collectorClass">com.citrusengine.objects.platformer.Hero</Property>
+    <Property name="width">48</Property>
+    <Property name="gravity">1.6</Property>
+    <Property name="x">5420</Property>
+    <Property name="y">124</Property>
+    <Property name="parallax">1</Property>
+    <Property name="rotation">0</Property>
+    <Property name="group">5</Property>
+    <Property name="view">assets/images/letter.swf</Property>
+    <Property name="offsetX">0</Property>
+    <Property name="offsetY">0</Property>
+    <Property name="registration">center</Property>
+    <Property name="height">64.9</Property>
+  </CitrusObject>
+  <CitrusObject name="Coin91" className="net.odd1.Dora.platformer.StarObject">
+    <Property name="useless"></Property>
+    <Property name="collectorClass">com.citrusengine.objects.platformer.Hero</Property>
+    <Property name="width">83.3</Property>
+    <Property name="gravity">1.6</Property>
+    <Property name="x">4244.3</Property>
+    <Property name="y">267.65</Property>
+    <Property name="parallax">1</Property>
+    <Property name="rotation">0</Property>
+    <Property name="group">5</Property>
+    <Property name="view">assets/images/DORA_pf_star_generic.swf</Property>
+    <Property name="offsetX">-30</Property>
+    <Property name="offsetY">-30</Property>
+    <Property name="registration">center</Property>
+    <Property name="height">77.4</Property>
+  </CitrusObject>
+  <CitrusObject name="Platform320" className="com.citrusengine.objects.platformer.Platform">
+    <Property name="oneWay">false</Property>
+    <Property name="gravity">1.6</Property>
+    <Property name="x">19</Property>
+    <Property name="y">162</Property>
+    <Property name="parallax">1</Property>
+    <Property name="rotation">0</Property>
+    <Property name="group">6</Property>
+    <Property name="view"></Property>
+    <Property name="offsetX">0</Property>
+    <Property name="offsetY">0</Property>
+    <Property name="registration">center</Property>
+    <Property name="width">30</Property>
+    <Property name="height">390</Property>
+  </CitrusObject>
+  <CitrusObject name="Platform75" className="com.citrusengine.objects.platformer.Platform">
+    <Property name="oneWay">true</Property>
+    <Property name="gravity">1.6</Property>
+    <Property name="x">2418</Property>
+    <Property name="y">214</Property>
+    <Property name="parallax">1</Property>
+    <Property name="rotation">0</Property>
+    <Property name="group">5</Property>
+    <Property name="view"></Property>
+    <Property name="offsetX">0</Property>
+    <Property name="offsetY">0</Property>
+    <Property name="registration">center</Property>
+    <Property name="width">150</Property>
+    <Property name="height">18</Property>
+  </CitrusObject>
+  <CitrusObject name="Platform76" className="com.citrusengine.objects.platformer.Platform">
+    <Property name="oneWay">true</Property>
+    <Property name="gravity">1.6</Property>
+    <Property name="x">1089</Property>
+    <Property name="y">148</Property>
+    <Property name="parallax">1</Property>
+    <Property name="rotation">0</Property>
+    <Property name="group">5</Property>
+    <Property name="view"></Property>
+    <Property name="offsetX">0</Property>
+    <Property name="offsetY">0</Property>
+    <Property name="registration">center</Property>
+    <Property name="width">206</Property>
+    <Property name="height">18</Property>
+  </CitrusObject>
+  <CitrusObject name="StarObject77" className="net.odd1.Dora.platformer.StarObject">
+    <Property name="useless"></Property>
+    <Property name="collectorClass">com.citrusengine.objects.platformer.Hero</Property>
+    <Property name="width">50.7</Property>
+    <Property name="gravity">1.6</Property>
+    <Property name="x">2227</Property>
+    <Property name="y">101</Property>
+    <Property name="parallax">1</Property>
+    <Property name="rotation">0</Property>
+    <Property name="group">5</Property>
+    <Property name="view">assets/images/DORA_pf_star_generic.swf</Property>
+    <Property name="offsetX">-30</Property>
+    <Property name="offsetY">-30</Property>
+    <Property name="registration">center</Property>
+    <Property name="height">68.1</Property>
+  </CitrusObject>
+  <CitrusObject name="Platform80" className="com.citrusengine.objects.platformer.Platform">
+    <Property name="oneWay">true</Property>
+    <Property name="gravity">1.6</Property>
+    <Property name="x">3793</Property>
+    <Property name="y">314</Property>
+    <Property name="parallax">1</Property>
+    <Property name="rotation">0</Property>
+    <Property name="group">5</Property>
+    <Property name="view"></Property>
+    <Property name="offsetX">0</Property>
+    <Property name="offsetY">0</Property>
+    <Property name="registration">center</Property>
+    <Property name="width">122</Property>
+    <Property name="height">46</Property>
+  </CitrusObject>
+  <CitrusObject name="Platform81" className="com.citrusengine.objects.platformer.Platform">
+    <Property name="oneWay">true</Property>
+    <Property name="gravity">1.6</Property>
+    <Property name="x">5452</Property>
+    <Property name="y">229</Property>
+    <Property name="parallax">1</Property>
+    <Property name="rotation">0</Property>
+    <Property name="group">5</Property>
+    <Property name="view"></Property>
+    <Property name="offsetX">0</Property>
+    <Property name="offsetY">0</Property>
+    <Property name="registration">center</Property>
+    <Property name="width">148</Property>
+    <Property name="height">18</Property>
+  </CitrusObject>
+  <CitrusObject name="Coin98" className="net.odd1.Dora.platformer.StarObject">
+    <Property name="useless"></Property>
+    <Property name="collectorClass">com.citrusengine.objects.platformer.Hero</Property>
+    <Property name="width">50.7</Property>
+    <Property name="gravity">1.6</Property>
+    <Property name="x">5182</Property>
+    <Property name="y">202.5</Property>
+    <Property name="parallax">1</Property>
+    <Property name="rotation">0</Property>
+    <Property name="group">5</Property>
+    <Property name="view">assets/images/DORA_pf_star_generic.swf</Property>
+    <Property name="offsetX">-30</Property>
+    <Property name="offsetY">-30</Property>
+    <Property name="registration">center</Property>
+    <Property name="height">47.1</Property>
+  </CitrusObject>
+  <CitrusObject name="Platform467" className="com.citrusengine.objects.platformer.Platform">
+    <Property name="oneWay">true</Property>
+    <Property name="gravity">1.6</Property>
+    <Property name="x">3432.5</Property>
+    <Property name="y">196</Property>
+    <Property name="parallax">1</Property>
+    <Property name="rotation">0</Property>
+    <Property name="group">5</Property>
+    <Property name="view"></Property>
+    <Property name="offsetX">0</Property>
+    <Property name="offsetY">0</Property>
+    <Property name="registration">center</Property>
+    <Property name="width">297</Property>
+    <Property name="height">18</Property>
+  </CitrusObject>
+  <CitrusObject name="Platform468" className="com.citrusengine.objects.platformer.Platform">
+    <Property name="oneWay">true</Property>
+    <Property name="gravity">1.6</Property>
+    <Property name="x">3220</Property>
+    <Property name="y">312</Property>
+    <Property name="parallax">1</Property>
+    <Property name="rotation">0</Property>
+    <Property name="group">5</Property>
+    <Property name="view"></Property>
+    <Property name="offsetX">0</Property>
+    <Property name="offsetY">0</Property>
+    <Property name="registration">center</Property>
+    <Property name="width">478</Property>
+    <Property name="height">46</Property>
+  </CitrusObject>
+  <CitrusObject name="Platform469" className="com.citrusengine.objects.platformer.Platform">
+    <Property name="oneWay">true</Property>
+    <Property name="gravity">1.6</Property>
+    <Property name="x">3295.5</Property>
+    <Property name="y">273</Property>
+    <Property name="parallax">1</Property>
+    <Property name="rotation">0</Property>
+    <Property name="group">5</Property>
+    <Property name="view"></Property>
+    <Property name="offsetX">0</Property>
+    <Property name="offsetY">0</Property>
+    <Property name="registration">center</Property>
+    <Property name="width">111</Property>
+    <Property name="height">46</Property>
+  </CitrusObject>
+  <CitrusObject name="CitrusSprite305" className="com.citrusengine.objects.CitrusSprite">
+    <Property name="x">5976</Property>
+    <Property name="y">427</Property>
+    <Property name="width">2970</Property>
+    <Property name="height">433</Property>
+    <Property name="parallax">1.5</Property>
+    <Property name="rotation">0</Property>
+    <Property name="group">6</Property>
+    <Property name="view">assets/images/Dora_2.0/pf_layer6_foregroundB.png</Property>
+    <Property name="offsetX">0</Property>
+    <Property name="offsetY">0</Property>
+    <Property name="registration">center</Property>
+  </CitrusObject>
+  <CitrusObject name="StarObject64" className="net.odd1.Dora.platformer.StarObject">
+    <Property name="useless"></Property>
+    <Property name="collectorClass">com.citrusengine.objects.platformer.Hero</Property>
+    <Property name="width">50.7</Property>
+    <Property name="gravity">1.6</Property>
+    <Property name="x">2040</Property>
+    <Property name="y">171</Property>
+    <Property name="parallax">1</Property>
+    <Property name="rotation">0</Property>
+    <Property name="group">5</Property>
+    <Property name="view">assets/images/DORA_pf_star_generic.swf</Property>
+    <Property name="offsetX">-30</Property>
+    <Property name="offsetY">-30</Property>
+    <Property name="registration">center</Property>
+    <Property name="height">68.1</Property>
+  </CitrusObject>
+  <CitrusObject name="StarObject65" className="net.odd1.Dora.platformer.StarObject">
+    <Property name="useless"></Property>
+    <Property name="collectorClass">com.citrusengine.objects.platformer.Hero</Property>
+    <Property name="width">50.7</Property>
+    <Property name="gravity">1.6</Property>
+    <Property name="x">1943</Property>
+    <Property name="y">171</Property>
+    <Property name="parallax">1</Property>
+    <Property name="rotation">0</Property>
+    <Property name="group">5</Property>
+    <Property name="view">assets/images/DORA_pf_star_generic.swf</Property>
+    <Property name="offsetX">-30</Property>
+    <Property name="offsetY">-30</Property>
+    <Property name="registration">center</Property>
+    <Property name="height">68.1</Property>
+  </CitrusObject>
+  <CitrusObject name="StarObject66" className="net.odd1.Dora.platformer.StarObject">
+    <Property name="useless"></Property>
+    <Property name="collectorClass">com.citrusengine.objects.platformer.Hero</Property>
+    <Property name="width">50.7</Property>
+    <Property name="gravity">1.6</Property>
+    <Property name="x">2990</Property>
+    <Property name="y">258</Property>
+    <Property name="parallax">1</Property>
+    <Property name="rotation">0</Property>
+    <Property name="group">5</Property>
+    <Property name="view">assets/images/DORA_pf_star_generic.swf</Property>
+    <Property name="offsetX">-30</Property>
+    <Property name="offsetY">-30</Property>
+    <Property name="registration">center</Property>
+    <Property name="height">68.1</Property>
+  </CitrusObject>
+  <CitrusObject name="StarObject67" className="net.odd1.Dora.platformer.StarObject">
+    <Property name="useless"></Property>
+    <Property name="collectorClass">com.citrusengine.objects.platformer.Hero</Property>
+    <Property name="width">50.7</Property>
+    <Property name="gravity">1.6</Property>
+    <Property name="x">3084</Property>
+    <Property name="y">260</Property>
+    <Property name="parallax">1</Property>
+    <Property name="rotation">0</Property>
+    <Property name="group">5</Property>
+    <Property name="view">assets/images/DORA_pf_star_generic.swf</Property>
+    <Property name="offsetX">-30</Property>
+    <Property name="offsetY">-30</Property>
+    <Property name="registration">center</Property>
+    <Property name="height">68.1</Property>
+  </CitrusObject>
+  <CitrusObject name="StarObject68" className="net.odd1.Dora.platformer.StarObject">
+    <Property name="useless"></Property>
+    <Property name="collectorClass">com.citrusengine.objects.platformer.Hero</Property>
+    <Property name="width">68.7</Property>
+    <Property name="gravity">1.6</Property>
+    <Property name="x">4150.95</Property>
+    <Property name="y">270.85</Property>
+    <Property name="parallax">1</Property>
+    <Property name="rotation">0</Property>
+    <Property name="group">5</Property>
+    <Property name="view">assets/images/DORA_pf_star_generic.swf</Property>
+    <Property name="offsetX">-30</Property>
+    <Property name="offsetY">-30</Property>
+    <Property name="registration">center</Property>
+    <Property name="height">63.8</Property>
+  </CitrusObject>
+  <CitrusObject name="StarObject69" className="net.odd1.Dora.platformer.StarObject">
+    <Property name="useless"></Property>
+    <Property name="collectorClass">com.citrusengine.objects.platformer.Hero</Property>
+    <Property name="width">50.7</Property>
+    <Property name="gravity">1.6</Property>
+    <Property name="x">5185</Property>
+    <Property name="y">134.5</Property>
+    <Property name="parallax">1</Property>
+    <Property name="rotation">0</Property>
+    <Property name="group">5</Property>
+    <Property name="view">assets/images/DORA_pf_star_generic.swf</Property>
+    <Property name="offsetX">-30</Property>
+    <Property name="offsetY">-30</Property>
+    <Property name="registration">center</Property>
+    <Property name="height">47.1</Property>
+  </CitrusObject>
+  <CitrusObject name="StarObject495" className="net.odd1.Dora.platformer.StarObject">
+    <Property name="useless"></Property>
+    <Property name="collectorClass">com.citrusengine.objects.platformer.Hero</Property>
+    <Property name="width">50.7</Property>
+    <Property name="gravity">1.6</Property>
+    <Property name="x">232</Property>
+    <Property name="y">319</Property>
+    <Property name="parallax">1</Property>
+    <Property name="rotation">0</Property>
+    <Property name="group">5</Property>
+    <Property name="view">assets/images/DORA_pf_star_generic.swf</Property>
+    <Property name="offsetX">-30</Property>
+    <Property name="offsetY">-30</Property>
+    <Property name="registration">center</Property>
+    <Property name="height">68.1</Property>
+  </CitrusObject>
+  <CitrusObject name="StarObject496" className="net.odd1.Dora.platformer.StarObject">
+    <Property name="useless"></Property>
+    <Property name="collectorClass">com.citrusengine.objects.platformer.Hero</Property>
+    <Property name="width">50.7</Property>
+    <Property name="gravity">1.6</Property>
+    <Property name="x">347</Property>
+    <Property name="y">321</Property>
+    <Property name="parallax">1</Property>
+    <Property name="rotation">0</Property>
+    <Property name="group">5</Property>
+    <Property name="view">assets/images/DORA_pf_star_generic.swf</Property>
+    <Property name="offsetX">-30</Property>
+    <Property name="offsetY">-30</Property>
+    <Property name="registration">center</Property>
+    <Property name="height">68.1</Property>
+  </CitrusObject>
+  <CitrusObject name="StarObject497" className="net.odd1.Dora.platformer.StarObject">
+    <Property name="useless"></Property>
+    <Property name="collectorClass">com.citrusengine.objects.platformer.Hero</Property>
+    <Property name="width">50.7</Property>
+    <Property name="gravity">1.6</Property>
+    <Property name="x">1843</Property>
+    <Property name="y">213</Property>
+    <Property name="parallax">1</Property>
+    <Property name="rotation">0</Property>
+    <Property name="group">5</Property>
+    <Property name="view">assets/images/DORA_pf_star_generic.swf</Property>
+    <Property name="offsetX">-30</Property>
+    <Property name="offsetY">-30</Property>
+    <Property name="registration">center</Property>
+    <Property name="height">68.1</Property>
+  </CitrusObject>
+  <CitrusObject name="StarObject498" className="net.odd1.Dora.platformer.StarObject">
+    <Property name="useless"></Property>
+    <Property name="collectorClass">com.citrusengine.objects.platformer.Hero</Property>
+    <Property name="width">50.7</Property>
+    <Property name="gravity">1.6</Property>
+    <Property name="x">2159</Property>
+    <Property name="y">171</Property>
+    <Property name="parallax">1</Property>
+    <Property name="rotation">0</Property>
+    <Property name="group">5</Property>
+    <Property name="view">assets/images/DORA_pf_star_generic.swf</Property>
+    <Property name="offsetX">-30</Property>
+    <Property name="offsetY">-30</Property>
+    <Property name="registration">center</Property>
+    <Property name="height">68.1</Property>
+  </CitrusObject>
+  <CitrusObject name="StarObject499" className="net.odd1.Dora.platformer.StarObject">
+    <Property name="useless"></Property>
+    <Property name="collectorClass">com.citrusengine.objects.platformer.Hero</Property>
+    <Property name="width">50.7</Property>
+    <Property name="gravity">1.6</Property>
+    <Property name="x">2305</Property>
+    <Property name="y">100</Property>
+    <Property name="parallax">1</Property>
+    <Property name="rotation">0</Property>
+    <Property name="group">5</Property>
+    <Property name="view">assets/images/DORA_pf_star_generic.swf</Property>
+    <Property name="offsetX">-30</Property>
+    <Property name="offsetY">-30</Property>
+    <Property name="registration">center</Property>
+    <Property name="height">68.1</Property>
+  </CitrusObject>
+  <CitrusObject name="StarObject500" className="net.odd1.Dora.platformer.StarObject">
+    <Property name="useless"></Property>
+    <Property name="collectorClass">com.citrusengine.objects.platformer.Hero</Property>
+    <Property name="width">50.7</Property>
+    <Property name="gravity">1.6</Property>
+    <Property name="x">1748</Property>
+    <Property name="y">254</Property>
+    <Property name="parallax">1</Property>
+    <Property name="rotation">0</Property>
+    <Property name="group">5</Property>
+    <Property name="view">assets/images/DORA_pf_star_generic.swf</Property>
+    <Property name="offsetX">-30</Property>
+    <Property name="offsetY">-30</Property>
+    <Property name="registration">center</Property>
+    <Property name="height">68.1</Property>
+  </CitrusObject>
+  <CitrusObject name="StarObject501" className="net.odd1.Dora.platformer.StarObject">
+    <Property name="useless"></Property>
+    <Property name="collectorClass">com.citrusengine.objects.platformer.Hero</Property>
+    <Property name="width">50.7</Property>
+    <Property name="gravity">1.6</Property>
+    <Property name="x">2390</Property>
+    <Property name="y">182</Property>
+    <Property name="parallax">1</Property>
+    <Property name="rotation">0</Property>
+    <Property name="group">5</Property>
+    <Property name="view">assets/images/DORA_pf_star_generic.swf</Property>
+    <Property name="offsetX">-30</Property>
+    <Property name="offsetY">-30</Property>
+    <Property name="registration">center</Property>
+    <Property name="height">68.1</Property>
+  </CitrusObject>
+  <CitrusObject name="StarObject502" className="net.odd1.Dora.platformer.StarObject">
+    <Property name="useless"></Property>
+    <Property name="collectorClass">com.citrusengine.objects.platformer.Hero</Property>
+    <Property name="width">50.7</Property>
+    <Property name="gravity">1.6</Property>
+    <Property name="x">2390</Property>
+    <Property name="y">267</Property>
+    <Property name="parallax">1</Property>
+    <Property name="rotation">0</Property>
+    <Property name="group">5</Property>
+    <Property name="view">assets/images/DORA_pf_star_generic.swf</Property>
+    <Property name="offsetX">-30</Property>
+    <Property name="offsetY">-30</Property>
+    <Property name="registration">center</Property>
+    <Property name="height">68.1</Property>
+  </CitrusObject>
+  <CitrusObject name="StarObject503" className="net.odd1.Dora.platformer.StarObject">
+    <Property name="useless"></Property>
+    <Property name="collectorClass">com.citrusengine.objects.platformer.Hero</Property>
+    <Property name="width">50.7</Property>
+    <Property name="gravity">1.6</Property>
+    <Property name="x">2893</Property>
+    <Property name="y">258</Property>
+    <Property name="parallax">1</Property>
+    <Property name="rotation">0</Property>
+    <Property name="group">5</Property>
+    <Property name="view">assets/images/DORA_pf_star_generic.swf</Property>
+    <Property name="offsetX">-30</Property>
+    <Property name="offsetY">-30</Property>
+    <Property name="registration">center</Property>
+    <Property name="height">68.1</Property>
+  </CitrusObject>
+  <CitrusObject name="StarObject504" className="net.odd1.Dora.platformer.StarObject">
+    <Property name="useless"></Property>
+    <Property name="collectorClass">com.citrusengine.objects.platformer.Hero</Property>
+    <Property name="width">50.7</Property>
+    <Property name="gravity">1.6</Property>
+    <Property name="x">2787</Property>
+    <Property name="y">258</Property>
+    <Property name="parallax">1</Property>
+    <Property name="rotation">0</Property>
+    <Property name="group">5</Property>
+    <Property name="view">assets/images/DORA_pf_star_generic.swf</Property>
+    <Property name="offsetX">-30</Property>
+    <Property name="offsetY">-30</Property>
+    <Property name="registration">center</Property>
+    <Property name="height">68.1</Property>
+  </CitrusObject>
+  <CitrusObject name="StarObject508" className="net.odd1.Dora.platformer.StarObject">
+    <Property name="useless"></Property>
+    <Property name="collectorClass">com.citrusengine.objects.platformer.Hero</Property>
+    <Property name="width">50.7</Property>
+    <Property name="gravity">1.6</Property>
+    <Property name="x">3318</Property>
+    <Property name="y">165</Property>
+    <Property name="parallax">1</Property>
+    <Property name="rotation">0</Property>
+    <Property name="group">5</Property>
+    <Property name="view">assets/images/DORA_pf_star_generic.swf</Property>
+    <Property name="offsetX">-30</Property>
+    <Property name="offsetY">-30</Property>
+    <Property name="registration">center</Property>
+    <Property name="height">68.1</Property>
+  </CitrusObject>
+  <CitrusObject name="StarObject509" className="net.odd1.Dora.platformer.StarObject">
+    <Property name="useless"></Property>
+    <Property name="collectorClass">com.citrusengine.objects.platformer.Hero</Property>
+    <Property name="width">50.7</Property>
+    <Property name="gravity">1.6</Property>
+    <Property name="x">3423</Property>
+    <Property name="y">165</Property>
+    <Property name="parallax">1</Property>
+    <Property name="rotation">0</Property>
+    <Property name="group">5</Property>
+    <Property name="view">assets/images/DORA_pf_star_generic.swf</Property>
+    <Property name="offsetX">-30</Property>
+    <Property name="offsetY">-30</Property>
+    <Property name="registration">center</Property>
+    <Property name="height">68.1</Property>
+  </CitrusObject>
+  <CitrusObject name="StarObject510" className="net.odd1.Dora.platformer.StarObject">
+    <Property name="useless"></Property>
+    <Property name="collectorClass">com.citrusengine.objects.platformer.Hero</Property>
+    <Property name="width">50.7</Property>
+    <Property name="gravity">1.6</Property>
+    <Property name="x">3526</Property>
+    <Property name="y">165</Property>
+    <Property name="parallax">1</Property>
+    <Property name="rotation">0</Property>
+    <Property name="group">5</Property>
+    <Property name="view">assets/images/DORA_pf_star_generic.swf</Property>
+    <Property name="offsetX">-30</Property>
+    <Property name="offsetY">-30</Property>
+    <Property name="registration">center</Property>
+    <Property name="height">68.1</Property>
+  </CitrusObject>
+  <CitrusObject name="StarObject511" className="net.odd1.Dora.platformer.StarObject">
+    <Property name="useless"></Property>
+    <Property name="collectorClass">com.citrusengine.objects.platformer.Hero</Property>
+    <Property name="width">50.7</Property>
+    <Property name="gravity">1.6</Property>
+    <Property name="x">3652</Property>
+    <Property name="y">258</Property>
+    <Property name="parallax">1</Property>
+    <Property name="rotation">0</Property>
+    <Property name="group">5</Property>
+    <Property name="view">assets/images/DORA_pf_star_generic.swf</Property>
+    <Property name="offsetX">-30</Property>
+    <Property name="offsetY">-30</Property>
+    <Property name="registration">center</Property>
+    <Property name="height">68.1</Property>
+  </CitrusObject>
+  <CitrusObject name="StarObject513" className="net.odd1.Dora.platformer.StarObject">
+    <Property name="useless"></Property>
+    <Property name="collectorClass">com.citrusengine.objects.platformer.Hero</Property>
+    <Property name="width">83.3</Property>
+    <Property name="gravity">1.6</Property>
+    <Property name="x">4330.3</Property>
+    <Property name="y">212.65</Property>
+    <Property name="parallax">1</Property>
+    <Property name="rotation">0</Property>
+    <Property name="group">5</Property>
+    <Property name="view">assets/images/DORA_pf_star_generic.swf</Property>
+    <Property name="offsetX">-30</Property>
+    <Property name="offsetY">-30</Property>
+    <Property name="registration">center</Property>
+    <Property name="height">77.4</Property>
+  </CitrusObject>
+  <CitrusObject name="StarObject514" className="net.odd1.Dora.platformer.StarObject">
+    <Property name="useless"></Property>
+    <Property name="collectorClass">com.citrusengine.objects.platformer.Hero</Property>
+    <Property name="width">83.3</Property>
+    <Property name="gravity">1.6</Property>
+    <Property name="x">4441.3</Property>
+    <Property name="y">267.65</Property>
+    <Property name="parallax">1</Property>
+    <Property name="rotation">0</Property>
+    <Property name="group">5</Property>
+    <Property name="view">assets/images/DORA_pf_star_generic.swf</Property>
+    <Property name="offsetX">-30</Property>
+    <Property name="offsetY">-30</Property>
+    <Property name="registration">center</Property>
+    <Property name="height">77.4</Property>
+  </CitrusObject>
+  <CitrusObject name="StarObject515" className="net.odd1.Dora.platformer.StarObject">
+    <Property name="useless"></Property>
+    <Property name="collectorClass">com.citrusengine.objects.platformer.Hero</Property>
+    <Property name="width">50.7</Property>
+    <Property name="gravity">1.6</Property>
+    <Property name="x">5432</Property>
+    <Property name="y">267.5</Property>
+    <Property name="parallax">1</Property>
+    <Property name="rotation">0</Property>
+    <Property name="group">5</Property>
+    <Property name="view">assets/images/DORA_pf_star_generic.swf</Property>
+    <Property name="offsetX">-30</Property>
+    <Property name="offsetY">-30</Property>
+    <Property name="registration">center</Property>
+    <Property name="height">47.1</Property>
+  </CitrusObject>
+  <CitrusObject name="StarObject516" className="net.odd1.Dora.platformer.StarObject">
+    <Property name="useless"></Property>
+    <Property name="collectorClass">com.citrusengine.objects.platformer.Hero</Property>
+    <Property name="width">50.7</Property>
+    <Property name="gravity">1.6</Property>
+    <Property name="x">5431</Property>
+    <Property name="y">198.5</Property>
+    <Property name="parallax">1</Property>
+    <Property name="rotation">0</Property>
+    <Property name="group">5</Property>
+    <Property name="view">assets/images/DORA_pf_star_generic.swf</Property>
+    <Property name="offsetX">-30</Property>
+    <Property name="offsetY">-30</Property>
+    <Property name="registration">center</Property>
+    <Property name="height">47.1</Property>
+  </CitrusObject>
+  <CitrusObject name="StarObject517" className="net.odd1.Dora.platformer.StarObject">
+    <Property name="useless"></Property>
+    <Property name="collectorClass">com.citrusengine.objects.platformer.Hero</Property>
+    <Property name="width">50.7</Property>
+    <Property name="gravity">1.6</Property>
+    <Property name="x">5182</Property>
+    <Property name="y">272.5</Property>
+    <Property name="parallax">1</Property>
+    <Property name="rotation">0</Property>
+    <Property name="group">5</Property>
+    <Property name="view">assets/images/DORA_pf_star_generic.swf</Property>
+    <Property name="offsetX">-30</Property>
+    <Property name="offsetY">-30</Property>
+    <Property name="registration">center</Property>
+    <Property name="height">47.1</Property>
+  </CitrusObject>
+  <CitrusObject name="StarObject518" className="net.odd1.Dora.platformer.StarObject">
+    <Property name="useless"></Property>
+    <Property name="collectorClass">com.citrusengine.objects.platformer.Hero</Property>
+    <Property name="width">50.7</Property>
+    <Property name="gravity">1.6</Property>
+    <Property name="x">5071</Property>
+    <Property name="y">272.5</Property>
+    <Property name="parallax">1</Property>
+    <Property name="rotation">0</Property>
+    <Property name="group">5</Property>
+    <Property name="view">assets/images/DORA_pf_star_generic.swf</Property>
+    <Property name="offsetX">-30</Property>
+    <Property name="offsetY">-30</Property>
+    <Property name="registration">center</Property>
+    <Property name="height">47.1</Property>
+  </CitrusObject>
+  <CitrusObject name="StarObject519" className="net.odd1.Dora.platformer.StarObject">
+    <Property name="useless"></Property>
+    <Property name="collectorClass">com.citrusengine.objects.platformer.Hero</Property>
+    <Property name="width">50.7</Property>
+    <Property name="gravity">1.6</Property>
+    <Property name="x">4967</Property>
+    <Property name="y">272.5</Property>
+    <Property name="parallax">1</Property>
+    <Property name="rotation">0</Property>
+    <Property name="group">5</Property>
+    <Property name="view">assets/images/DORA_pf_star_generic.swf</Property>
+    <Property name="offsetX">-30</Property>
+    <Property name="offsetY">-30</Property>
+    <Property name="registration">center</Property>
+    <Property name="height">47.1</Property>
+  </CitrusObject>
+  <CitrusObject name="StarObject520" className="net.odd1.Dora.platformer.StarObject">
+    <Property name="useless"></Property>
+    <Property name="collectorClass">com.citrusengine.objects.platformer.Hero</Property>
+    <Property name="width">50.7</Property>
+    <Property name="gravity">1.6</Property>
+    <Property name="x">5306</Property>
+    <Property name="y">134.5</Property>
+    <Property name="parallax">1</Property>
+    <Property name="rotation">0</Property>
+    <Property name="group">5</Property>
+    <Property name="view">assets/images/DORA_pf_star_generic.swf</Property>
+    <Property name="offsetX">-30</Property>
+    <Property name="offsetY">-30</Property>
+    <Property name="registration">center</Property>
+    <Property name="height">47.1</Property>
+  </CitrusObject>
+  <CitrusObject name="StarObject92" className="net.odd1.Dora.platformer.StarObject">
+    <Property name="useless"></Property>
+    <Property name="collectorClass">com.citrusengine.objects.platformer.Hero</Property>
+    <Property name="width">50.7</Property>
+    <Property name="gravity">1.6</Property>
+    <Property name="x">1023</Property>
+    <Property name="y">110</Property>
+    <Property name="parallax">1</Property>
+    <Property name="rotation">0</Property>
+    <Property name="group">5</Property>
+    <Property name="view">assets/images/DORA_pf_star_generic.swf</Property>
+    <Property name="offsetX">-30</Property>
+    <Property name="offsetY">-30</Property>
+    <Property name="registration">center</Property>
+    <Property name="height">68.1</Property>
+  </CitrusObject>
+  <CitrusObject name="StarObject93" className="net.odd1.Dora.platformer.StarObject">
+    <Property name="useless"></Property>
+    <Property name="collectorClass">com.citrusengine.objects.platformer.Hero</Property>
+    <Property name="width">50.7</Property>
+    <Property name="gravity">1.6</Property>
+    <Property name="x">1171</Property>
+    <Property name="y">110</Property>
+    <Property name="parallax">1</Property>
+    <Property name="rotation">0</Property>
+    <Property name="group">5</Property>
+    <Property name="view">assets/images/DORA_pf_star_generic.swf</Property>
+    <Property name="offsetX">-30</Property>
+    <Property name="offsetY">-30</Property>
+    <Property name="registration">center</Property>
+    <Property name="height">68.1</Property>
+  </CitrusObject>
+  <CitrusObject name="LetterObject96" className="net.odd1.Dora.platformer.LetterObject">
+    <Property name="useless"></Property>
+    <Property name="collectorClass">com.citrusengine.objects.platformer.Hero</Property>
+    <Property name="width">27</Property>
+    <Property name="gravity">1.6</Property>
+    <Property name="x">1655.5</Property>
+    <Property name="y">310</Property>
+    <Property name="parallax">1</Property>
+    <Property name="rotation">0</Property>
+    <Property name="group">5</Property>
+    <Property name="view">assets/images/letter.swf</Property>
+    <Property name="offsetX">0</Property>
+    <Property name="offsetY">0</Property>
+    <Property name="registration">center</Property>
+    <Property name="height">86.9</Property>
+  </CitrusObject>
+  <CitrusObject name="StarObject97" className="net.odd1.Dora.platformer.StarObject">
+    <Property name="useless"></Property>
+    <Property name="collectorClass">com.citrusengine.objects.platformer.Hero</Property>
+    <Property name="width">50.7</Property>
+    <Property name="gravity">1.6</Property>
+    <Property name="x">1560</Property>
+    <Property name="y">311</Property>
+    <Property name="parallax">1</Property>
+    <Property name="rotation">0</Property>
+    <Property name="group">5</Property>
+    <Property name="view">assets/images/DORA_pf_star_generic.swf</Property>
+    <Property name="offsetX">-30</Property>
+    <Property name="offsetY">-30</Property>
+    <Property name="registration">center</Property>
+    <Property name="height">68.1</Property>
+  </CitrusObject>
+  <CitrusObject name="StarObject98" className="net.odd1.Dora.platformer.StarObject">
+    <Property name="useless"></Property>
+    <Property name="collectorClass">com.citrusengine.objects.platformer.Hero</Property>
+    <Property name="width">50.7</Property>
+    <Property name="gravity">1.6</Property>
+    <Property name="x">1448</Property>
+    <Property name="y">311</Property>
+    <Property name="parallax">1</Property>
+    <Property name="rotation">0</Property>
+    <Property name="group">5</Property>
+    <Property name="view">assets/images/DORA_pf_star_generic.swf</Property>
+    <Property name="offsetX">-30</Property>
+    <Property name="offsetY">-30</Property>
+    <Property name="registration">center</Property>
+    <Property name="height">68.1</Property>
+  </CitrusObject>
+  <CitrusObject name="StarObject99" className="net.odd1.Dora.platformer.StarObject">
+    <Property name="useless"></Property>
+    <Property name="collectorClass">com.citrusengine.objects.platformer.Hero</Property>
+    <Property name="width">50.7</Property>
+    <Property name="gravity">1.6</Property>
+    <Property name="x">1296</Property>
+    <Property name="y">264</Property>
+    <Property name="parallax">1</Property>
+    <Property name="rotation">0</Property>
+    <Property name="group">5</Property>
+    <Property name="view">assets/images/DORA_pf_star_generic.swf</Property>
+    <Property name="offsetX">-30</Property>
+    <Property name="offsetY">-30</Property>
+    <Property name="registration">center</Property>
+    <Property name="height">68.1</Property>
+  </CitrusObject>
+  <CitrusObject name="LetterObject100" className="net.odd1.Dora.platformer.LetterObject">
+    <Property name="useless"></Property>
+    <Property name="collectorClass">com.citrusengine.objects.platformer.Hero</Property>
+    <Property name="width">27</Property>
+    <Property name="gravity">1.6</Property>
+    <Property name="x">915.5</Property>
+    <Property name="y">169</Property>
+    <Property name="parallax">1</Property>
+    <Property name="rotation">0</Property>
+    <Property name="group">5</Property>
+    <Property name="view">assets/images/letter.swf</Property>
+    <Property name="offsetX">0</Property>
+    <Property name="offsetY">0</Property>
+    <Property name="registration">center</Property>
+    <Property name="height">86.9</Property>
+  </CitrusObject>
+  <CitrusObject name="StarObject101" className="net.odd1.Dora.platformer.StarObject">
+    <Property name="useless"></Property>
+    <Property name="collectorClass">com.citrusengine.objects.platformer.Hero</Property>
+    <Property name="width">50.7</Property>
+    <Property name="gravity">1.6</Property>
+    <Property name="x">947</Property>
+    <Property name="y">271</Property>
+    <Property name="parallax">1</Property>
+    <Property name="rotation">0</Property>
+    <Property name="group">5</Property>
+    <Property name="view">assets/images/DORA_pf_star_generic.swf</Property>
+    <Property name="offsetX">-30</Property>
+    <Property name="offsetY">-30</Property>
+    <Property name="registration">center</Property>
+    <Property name="height">68.1</Property>
+  </CitrusObject>
+  <CitrusObject name="StarObject102" className="net.odd1.Dora.platformer.StarObject">
+    <Property name="useless"></Property>
+    <Property name="collectorClass">com.citrusengine.objects.platformer.Hero</Property>
+    <Property name="width">50.7</Property>
+    <Property name="gravity">1.6</Property>
+    <Property name="x">826</Property>
+    <Property name="y">271</Property>
+    <Property name="parallax">1</Property>
+    <Property name="rotation">0</Property>
+    <Property name="group">5</Property>
+    <Property name="view">assets/images/DORA_pf_star_generic.swf</Property>
+    <Property name="offsetX">-30</Property>
+    <Property name="offsetY">-30</Property>
+    <Property name="registration">center</Property>
+    <Property name="height">68.1</Property>
+  </CitrusObject>
+  <CitrusObject name="CitrusSprite563" className="com.citrusengine.objects.CitrusSprite">
+    <Property name="x">7806</Property>
+    <Property name="y">427</Property>
+    <Property name="width">2970</Property>
+    <Property name="height">433</Property>
+    <Property name="parallax">1.5</Property>
+    <Property name="rotation">0</Property>
+    <Property name="group">6</Property>
+    <Property name="view">assets/images/Dora_2.0/pf_layer6_foregroundB.png</Property>
+    <Property name="offsetX">0</Property>
+    <Property name="offsetY">0</Property>
+    <Property name="registration">center</Property>
+  </CitrusObject>
+</GameState>

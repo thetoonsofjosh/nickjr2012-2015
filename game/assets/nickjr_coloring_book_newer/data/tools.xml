@@ -1,0 +1,32 @@
+<tools>
+	<tool displayName="Fill" 
+		handle="FillTool"
+		classHandle="com.nickjr.app.creativity_center.view.tool.FillTool"
+		stylusHandle="stylus/paint_bucket.swf"
+		iconHandle="ui/icon_pbucket.swf" 
+	/>
+	<tool displayName="Crayon" handle="CrayonTool"
+		classHandle="com.nickjr.app.creativity_center.view.tool.CrayonTool"
+		patternHandle="brushes/crayon.swf" 
+		stylusHandle="stylus/crayon.swf"
+		iconHandle="ui/icon_crayon.swf" 
+		rotationType="random" 
+		overLap="0.7" 
+	/>
+	<tool displayName="Spray Paint" 
+		handle="SprayPaintTool"
+		classHandle="com.nickjr.app.creativity_center.view.tool.SprayPaintTool"
+		patternHandle="brushes/spraypaint.swf"
+		stylusHandle="stylus/spraypaint.swf"
+		iconHandle="ui/icon_spraypaint.swf"
+		animations="animations/spraypaint.swf" 
+	/>
+	<tool displayName="Eraser"
+		handle="EraserTool"
+		classHandle="com.nickjr.app.creativity_center.view.tool.EraserTool"
+		patternHandle="brushes/eraser.swf" 
+		stylusHandle="stylus/eraser.swf"
+		size_stylus="false" 
+		iconHandle="ui/icon_eraser.swf"
+	/>	
+</tools>

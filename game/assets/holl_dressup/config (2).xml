@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+
+<game>
+	<logo>/game/assets/holl_dressup/logo.swf</logo>
+	<bg>/game/assets/holl_dressup/bg.swf</bg>
+	<intro>/game/assets/holl_dressup/intro.swf</intro>
+	<selection_interface>/game/assets/holl_dressup/selection_interface.swf</selection_interface>
+	<game_interface>/game/assets/holl_dressup/game_interface.swf</game_interface>
+	<choices>
+	
+		<item>
+			<image>/game/assets/holl_dressup/images/party.swf</image>
+			<feed>/game/assets/holl_dressup/feeds/party.xml</feed>
+		</item>
+		
+		<item>
+			<image>/game/assets/holl_dressup/images/school.swf</image>
+			<feed>/game/assets/holl_dressup/feeds/school.xml</feed>
+		</item>
+		
+		<item>
+			<image>/game/assets/holl_dressup/images/hayride.swf</image>
+			<feed>/game/assets/holl_dressup/feeds/hayride.xml</feed>
+		</item>
+	
+	</choices>
+</game>

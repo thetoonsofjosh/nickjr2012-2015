@@ -1,0 +1,201 @@
+<data dir="/game/assets/umiz_shape_bandit/mp3/">
+	<music channel="music" volume="50">
+		
+		<sound file="introSting" volume="50" loops="1" inLibrary="true" />
+		<sound file="introLoop" volume="40" inLibrary="true" />
+		<sound file="gameMusic" volume="50" inLibrary="true" />
+		<sound file="ssSting" volume="100" inLibrary="true" loops="1" />
+		
+	</music>
+	
+	<sfx channel="sfx" volume="50">
+		
+		<sound file="blank.mp3"/>
+		<sound id="BTN_nextMC" file="blank.mp3" />
+		
+		<sound file="WA" volume="60" inLibrary="true" />
+		<sound file="click1" volume="15" inLibrary="true" />
+		<sound file="click2" volume="15" inLibrary="true" />
+		<sound file="click3" volume="15" inLibrary="true" />
+		<sound file="click4" volume="15" inLibrary="true" />
+		<sound id="click5" file="click1" volume="20" inLibrary="true" />
+		
+		<sound id="playBtnRO" file="ro1" volume="30" inLibrary="true" />
+		<sound id="nextBtnRO" file="ro2" volume="20" inLibrary="true" />
+		<sound id="skipBtnRO" file="ro3" volume="20" inLibrary="true" />
+		
+		<sound file="ro1" volume="15" inLibrary="true" />
+		<sound file="ro2" volume="15" inLibrary="true" />
+		<sound file="ro3" volume="15" inLibrary="true" />
+		<sound file="ro4" volume="15" inLibrary="true" />
+		
+		<sound file="clickReturn" volume="80" inLibrary="true" />
+		
+		<sound id="playAgainBtnRO" file="ro1" volume="20" inLibrary="true" />
+		
+		<sound file="hiliteCombo1" volume="50" inLibrary="true" />
+		<sound file="hiliteCombo2" volume="50" inLibrary="true" />
+		
+		<sound file="btn1" volume="20" inLibrary="true" />
+		<sound file="btn1" volume="20" inLibrary="true" />
+		<sound file="btn2" volume="20" inLibrary="true" />
+		<sound file="btn3" volume="20" inLibrary="true" />
+		
+		<sound file="correctShape1" volume="40" inLibrary="true" />
+		<sound file="correctShape2" volume="40" inLibrary="true" />
+		<sound file="correctShape3" volume="40" inLibrary="true" />
+		<sound file="correctShape4" volume="40" inLibrary="true" />
+		
+		<sound file="erase" volume="20" inLibrary="true" />
+		
+		<sound file="roHoles" volume="15" inLibrary="true" />
+		
+		<sound file="roObject" volume="15" inLibrary="true" />
+		
+		<sound file="clickReturn" volume="50" inLibrary="true" />
+		
+	</sfx>
+	
+	<vo channel="vo" volume="50">
+		
+		<sound file="USB_1.mp3" volume="100" inLibrary="false" />
+		<sound file="USB_2.mp3" volume="100" inLibrary="false" />
+		<sound id="BTN_PlayMC" file="USB_3.mp3" volume="100" inLibrary="false" />
+		<sound file="USB_4.mp3" volume="100" inLibrary="false" />
+		<sound file="USB_5.mp3" volume="100" inLibrary="false" />
+		<sound file="USB_6.mp3" volume="100" inLibrary="false" />
+		<sound file="USB_7.mp3" volume="100" inLibrary="false" />
+		<sound file="USB_8.mp3" volume="100" inLibrary="false" />
+		<sound file="USB_9.mp3" volume="100" inLibrary="false" />
+		<sound file="USB_10.mp3" volume="100" inLibrary="false" />
+		<sound file="USB_11.mp3" volume="100" inLibrary="false" />
+		<sound file="USB_12.mp3" volume="100" inLibrary="false" />
+		<sound id="BTN_skipMC" file="USB_13.mp3" volume="100" inLibrary="false" />
+		<sound file="USB_14.mp3" volume="100" inLibrary="false" />
+		<sound file="USB_15.mp3" volume="100" inLibrary="false" />
+		<sound file="USB_16.mp3" volume="100" inLibrary="false" />
+		<sound file="USB_17.mp3" volume="100" inLibrary="false" />
+		<sound file="USB_18.mp3" volume="100" inLibrary="false" />
+		<sound file="USB_19.mp3" volume="100" inLibrary="false" />
+		<sound file="USB_20.mp3" volume="100" inLibrary="false" />
+		<sound file="USB_21.mp3" volume="100" inLibrary="false" />
+		<sound file="USB_22.mp3" volume="100" inLibrary="false" />
+		<sound file="USB_23.mp3" volume="100" inLibrary="false" />
+		<sound file="USB_24.mp3" volume="100" inLibrary="false" />
+		<sound file="USB_25.mp3" volume="100" inLibrary="false" />
+		<sound file="USB_26.mp3" volume="100" inLibrary="false" />
+		<sound file="USB_27.mp3" volume="100" inLibrary="false" />
+		<sound file="USB_28.mp3" volume="100" inLibrary="false" />
+		<sound file="USB_29.mp3" volume="100" inLibrary="false" />
+		<sound file="USB_30.mp3" volume="100" inLibrary="false" />
+		<sound file="USB_31.mp3" volume="100" inLibrary="false" />
+		<sound file="USB_32.mp3" volume="100" inLibrary="false" />
+		<sound file="USB_33.mp3" volume="100" inLibrary="false" />
+		<sound file="USB_34.mp3" volume="100" inLibrary="false" />
+		<sound file="USB_35.mp3" volume="100" inLibrary="false" />
+		<sound file="USB_36.mp3" volume="100" inLibrary="false" />
+		<sound file="USB_37.mp3" volume="100" inLibrary="false" />
+		<sound file="USB_38.mp3" volume="100" inLibrary="false" />
+		<sound file="USB_39.mp3" volume="100" inLibrary="false" />
+		<sound file="USB_40.mp3" volume="100" inLibrary="false" />
+		<sound file="USB_41.mp3" volume="100" inLibrary="false" />
+		<sound file="USB_42.mp3" volume="100" inLibrary="false" />
+		<sound file="USB_43.mp3" volume="100" inLibrary="false" />
+		<sound file="USB_44.mp3" volume="100" inLibrary="false" />
+		<sound file="USB_45.mp3" volume="100" inLibrary="false" />
+		<sound file="USB_46.mp3" volume="100" inLibrary="false" />
+		<sound file="USB_47.mp3" volume="100" inLibrary="false" />
+		<sound file="USB_48.mp3" volume="100" inLibrary="false" />
+		<sound file="USB_49.mp3" volume="100" inLibrary="false" />
+		<sound file="USB_41.mp3" volume="100" inLibrary="false" />
+		<sound file="USB_41.mp3" volume="100" inLibrary="false" />
+		<sound file="USB_42.mp3" volume="100" inLibrary="false" />
+		<sound file="USB_43.mp3" volume="100" inLibrary="false" />
+		<sound file="USB_44.mp3" volume="100" inLibrary="false" />
+		<sound file="USB_45.mp3" volume="100" inLibrary="false" />
+		<sound file="USB_46.mp3" volume="100" inLibrary="false" />
+		<sound file="USB_47.mp3" volume="100" inLibrary="false" />
+		<sound file="USB_48.mp3" volume="100" inLibrary="false" />
+		<sound file="USB_49.mp3" volume="100" inLibrary="false" />
+		<sound file="USB_50.mp3" volume="100" inLibrary="false" />
+		<sound file="USB_51.mp3" volume="100" inLibrary="false" />
+		<sound file="USB_52.mp3" volume="100" inLibrary="false" />
+		<sound file="USB_53.mp3" volume="100" inLibrary="false" />
+		<sound file="USB_54.mp3" volume="100" inLibrary="false" />
+		<sound file="USB_55.mp3" volume="100" inLibrary="false" />
+		<sound file="USB_56.mp3" volume="100" inLibrary="false" />
+		<sound file="USB_57.mp3" volume="100" inLibrary="false" />
+		<sound file="USB_58.mp3" volume="100" inLibrary="false" />
+		<sound file="USB_59.mp3" volume="100" inLibrary="false" />
+		<sound file="USB_60.mp3" volume="100" inLibrary="false" />
+		<sound file="USB_61.mp3" volume="100" inLibrary="false" />
+		<sound file="USB_62b.mp3" volume="100" inLibrary="false" />
+		<sound file="USB_63.mp3" volume="100" inLibrary="false" />
+		<sound file="USB_64.mp3" volume="100" inLibrary="false" />
+		<sound file="USB_65.mp3" volume="100" inLibrary="false" />
+		<sound file="USB_66.mp3" volume="100" inLibrary="false" />
+		<sound file="USB_67.mp3" volume="100" inLibrary="false" />
+		<sound file="USB_68.mp3" volume="100" inLibrary="false" />
+		<sound file="USB_69.mp3" volume="100" inLibrary="false" />
+		<sound file="USB_70.mp3" volume="100" inLibrary="false" />
+		<sound file="USB_71.mp3" volume="100" inLibrary="false" />
+		<sound file="USB_72.mp3" volume="100" inLibrary="false" />
+		<sound file="USB_73.mp3" volume="100" inLibrary="false" />
+		<sound file="USB_74.mp3" volume="100" inLibrary="false" />
+		<sound file="USB_75.mp3" volume="100" inLibrary="false" />
+		<sound file="USB_76.mp3" volume="100" inLibrary="false" />
+		<sound file="USB_77.mp3" volume="100" inLibrary="false" />
+		<sound file="USB_78.mp3" volume="100" inLibrary="false" />
+		<sound file="USB_79.mp3" volume="100" inLibrary="false" />
+		<sound file="USB_80.mp3" volume="100" inLibrary="false" />
+		<sound file="USB_81.mp3" volume="100" inLibrary="false" />
+		<sound file="USB_82.mp3" volume="100" inLibrary="false" />
+		<sound file="USB_83.mp3" volume="100" inLibrary="false" />
+		<sound id="BTN_PlayAgain" file="USB_84.mp3" volume="100" inLibrary="false" />
+		<sound id="BTN_Print" file="USB_85.mp3" volume="100" inLibrary="false" />
+		<sound file="USB_86.mp3" volume="100" inLibrary="false" />
+		<sound file="USB_87.mp3" volume="100" inLibrary="false" />
+		<sound file="USB_88.mp3" volume="100" inLibrary="false" />
+		<sound file="USB_89.mp3" volume="100" inLibrary="false" />
+		<sound file="USB_90.mp3" volume="100" inLibrary="false" />
+		<sound file="USB_91.mp3" volume="100" inLibrary="false" />
+		<sound file="USB_92.mp3" volume="100" inLibrary="false" />
+		
+		<sound file="USB_93.mp3" volume="100" inLibrary="false" />
+		<sound file="USB_94.mp3" volume="100" inLibrary="false" />
+		
+		<sound file="USB_95.mp3" volume="100" />
+		<sound file="USB_96.mp3" volume="100" />
+		<sound file="USB_97.mp3" volume="100" />
+		<sound file="USB_98.mp3" volume="100" />
+		<sound file="USB_99.mp3" volume="100" />
+		<sound file="USB_100.mp3" volume="100" />
+		<sound file="USB_101.mp3" volume="100" />
+		<sound file="USB_102.mp3" volume="100" />
+		<sound file="USB_103.mp3" volume="100" />
+		<sound file="USB_104.mp3" volume="100" />
+		<sound file="USB_105.mp3" volume="100" />
+		<sound file="USB_106.mp3" volume="100" />
+		<sound file="USB_107.mp3" volume="100" />
+		<sound file="USB_108.mp3" volume="100" />
+		<sound file="USB_109.mp3" volume="100" />
+		<sound file="USB_110.mp3" volume="100" />
+		<sound file="USB_111.mp3" volume="100" />
+		<sound file="USB_112.mp3" volume="100" />
+		<sound file="USB_113.mp3" volume="100" />
+		<sound file="USB_114.mp3" volume="100" />
+		<sound file="USB_115.mp3" volume="100" />
+		<sound file="USB_116.mp3" volume="100" />
+		<sound file="USB_117.mp3" volume="100" />
+		<sound file="USB_118.mp3" volume="100" />
+		<sound file="USB_119.mp3" volume="100" />
+		<sound file="USB_120.mp3" volume="100" />
+		<sound file="USB_121.mp3" volume="100" />
+		<sound file="USB_122.mp3" volume="100" />
+		<sound file="USB_123.mp3" volume="100" />
+		<sound file="USB_124.mp3" volume="100" />
+		<sound file="USB_125.mp3" volume="100" />
+		<sound file="USB_126.mp3" volume="100" />
+		
+	</vo>
+</data>

@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<audio dir="mp3/">
+
+	<vo channel="vo">
+		<sound file="silence.mp3"/>
+
+		<sound file="UFT_1.mp3" id="title"/>
+		<sound file="UFT_2.mp3" id="title"/>
+		
+		<sound file="UFT_2.mp3" id="titleDelayPrompt"/>
+		
+		<sound file="UFT_3.mp3" id="playButtonCallout"/>
+		<sound file="UFT_22.mp3" id="skipButtonCallout"/>
+		
+		<sound file="UFT_170.mp3" id="playAgainButtonCallout"/>
+		<sound file="UFT_171.mp3" id="printButtonCallout"/>
+		
+		<level_1>
+			<sound file="UFT_23.mp3" id="badge_hit_first"/>
+			
+			<sound file="UFT_24.mp3" id="gate_approach_first"/>
+			<sound file="UFT_172.mp3" id="gate_approach_first"/>
+			<sound file="UFT_173.mp3" id="gate_approach_first" appendNumber="true" />
+			
+			
+			<!--<sound file="UFT_25.mp3" id="gate_approach"/>-->
+			<sound file="UFT_26.mp3" id="gate_approach" appendNumber="true" />
+			<sound file="UFT_174.mp3" id="gate_approach" appendNumber="true" />
+			<sound file="UFT_175.mp3" id="gate_approach" appendNumber="true" />
+			
+			
+			<sound file="UFT_173.mp3" id="gate_re_approach" appendNumber="true" />
+			
+			<sound file="UFT_42.mp3" id="gate_correct_hit"/>
+			<sound file="UFT_43.mp3" id="gate_correct_hit"/>
+			<sound file="UFT_44.mp3" id="gate_correct_hit"/>
+			<sound file="UFT_189.mp3" id="gate_correct_hit"/>
+			
+			<sound file="UFT_45.mp3" id="gate_correct_hit_2" prependNumber="true" />
+			
+			
+			<!-- EXTRA BADGES VO -->
+			<sound file="silence.mp3" id="gate_correct_hit_3"/>
+			<!--<sound file="UFT_46.mp3" id="gate_correct_hit_3"/>
+			<sound file="UFT_47.mp3" id="gate_correct_hit_3"/>
+			<sound file="UFT_190.mp3" id="gate_correct_hit_3"/>
+			<sound file="UFT_191.mp3" id="gate_correct_hit_3"/>
+			<sound file="UFT_192.mp3" id="gate_correct_hit_3"/>
+			<sound file="UFT_217.mp3" id="gate_correct_hit_3"/>
+			<sound file="UFT_218.mp3" id="gate_correct_hit_3"/>-->
+			
+			<sound file="UFT_48_ALT.mp3" id="gate_incorrect_hit_first"/>
+			
+			<sound file="UFT_48_ALT2.mp3" id="tryAgain"/>
+			
+			<sound file="UFT_226.mp3" id="gate_incorrect_hit_second"/>
+			<sound file="UFT_50.mp3" id="gate_incorrect_hit_second" appendNumber="true" />
+			
+			<sound file="UFT_48_ALT.mp3" id="gate_incorrect_hit_third"/>
+			<sound file="UFT_50.mp3" id="gate_incorrect_hit_third" appendNumber="true" />
+			
+			<sound file="UFT_226.mp3" id="gate_incorrect_hit"/>
+			<sound file="UFT_50.mp3" id="gate_incorrect_hit" appendNumber="true" />
+			
+			
+			<sound file="UFT_51.mp3" id="gate_incorrect_miss_first" repeatChallenge="true" />
+			
+			<sound file="UFT_51.mp3" id="gate_incorrect_miss_second" />
+			<sound file="UFT_50.mp3" id="gate_incorrect_miss_second" appendNumber="true" />
+			
+			<sound file="UFT_51.mp3" id="gate_incorrect_miss_third" />
+			<sound file="UFT_50.mp3" id="gate_incorrect_miss_third" appendNumber="true" />
+			
+			<sound file="UFT_51.mp3" id="gate_incorrect_miss" />
+			<sound file="UFT_50.mp3" id="gate_incorrect_miss" appendNumber="true" />
+			
+			<sound file="UFT_53.mp3" id="ramp_approach_first" />
+			
+			<sound file="UFT_54.mp3" id="ramp_hit_first"/>
+			<sound file="UFT_193.mp3" id="ramp_hit_first"/>
+			<sound file="UFT_194.mp3" id="ramp_hit_first"/>
+			
+			
+			<sound file="UFT_54.mp3" id="ramp_hit_first"/>
+			<sound file="UFT_193.mp3" id="ramp_hit_first"/>
+			<sound file="UFT_194.mp3" id="ramp_hit_first"/>
+			
+			<sound file="UFT_195.mp3" id="ramp_hit_first_2"/>
+			<sound file="UFT_55.mp3" id="ramp_hit_first_2"/>
+			
+			<sound file="UFT_56.mp3" id="ramp_hit"/>
+			<sound file="UFT_57.mp3" id="ramp_hit"/>
+			<sound file="UFT_58.mp3" id="ramp_hit"/>
+			
+			<sound file="UFT_59.mp3" id="gravel_approach_first"/>
+			<sound file="UFT_60.mp3" id="gravel_hit"/>
+			
+			<sound file="UFT_61.mp3" id="leaves_approach_first"/>
+			<sound file="UFT_62.mp3" id="leaves_approach_first"/>
+			
+			<sound file="UFT_63.mp3" id="leaves_hit"/>
+			
+			<sound file="UFT_64.mp3" id="hose_shoot"/>
+			<!--<sound file="UFT_65.mp3" id="hose_shoot"/>-->
+			<sound file="UFT_66.mp3" id="hose_shoot"/>
+			
+			<sound file="UFT_67.mp3" id="gate_approach_last" appendNumber="true" />
+			
+			<sound file="UFT_28.mp3" id="n_2"/>
+			<sound file="UFT_30.mp3" id="n_4"/>
+			<sound file="UFT_32.mp3" id="n_6"/>
+			<sound file="UFT_34.mp3" id="n_8"/>
+			<sound file="UFT_36.mp3" id="n_10"/>
+			<sound file="UFT_38.mp3" id="n_12"/>
+			<sound file="UFT_40.mp3" id="n_14"/>	
+			<sound file="UFT_176.mp3" id="n_16"/>
+			<sound file="UFT_177.mp3" id="n_18"/>
+			<sound file="UFT_178.mp3" id="n_20"/>
+			<sound file="UFT_179.mp3" id="n_22"/>
+			<sound file="UFT_180.mp3" id="n_24"/>
+			<sound file="UFT_181.mp3" id="n_26"/>
+			<sound file="UFT_182.mp3" id="n_28"/>
+			<sound file="UFT_183.mp3" id="n_30"/>
+			<sound file="UFT_184.mp3" id="n_32"/>
+			<sound file="UFT_185.mp3" id="n_34"/>
+			<sound file="UFT_186.mp3" id="n_36"/>
+			<sound file="UFT_187.mp3" id="n_38"/>
+			<sound file="UFT_188.mp3" id="n_40"/>
+	
+			<sound file="UFT_225.mp3" id="endLevel"/>
+			
+		</level_1>
+		
+		
+		<level_2>
+			<sound file="silence.mp3" id="badge_hit_first"/>
+			
+			<sound file="UFT_78.mp3" id="gate_approach_first"/>
+			<sound file="UFT_200.mp3" id="gate_approach_first"/>
+			<sound file="UFT_79.mp3" id="gate_approach_first_2" hint="true"/>
+			
+			<sound file="UFT_80.mp3" id="gate_approach"/>
+			<sound file="UFT_81.mp3" id="gate_approach"/>
+			<sound file="UFT_79.mp3" id="gate_approach_2" hint="true"/>
+			
+			<sound file="UFT_200.mp3" id="gate_re_approach" />
+			
+			<sound file="UFT_102.mp3" id="gate_correct_hit" prependNumber="true" />
+			<sound file="UFT_103.mp3" id="gate_correct_hit" prependNumber="true" />
+			<sound file="UFT_104.mp3" id="gate_correct_hit" prependNumber="true" />
+			<sound file="UFT_201.mp3" id="gate_correct_hit" prependNumber="true" />
+			<sound file="UFT_202.mp3" id="gate_correct_hit" prependNumber="true" />
+			<sound file="UFT_203.mp3" id="gate_correct_hit" prependNumber="true" />
+			
+			
+			<!-- EXTRA BADGES VO -->
+			<sound file="silence.mp3" id="gate_correct_hit_2"  />
+			<sound file="silence.mp3" id="gate_correct_hit_3"/>
+			<!--<sound file="UFT_105.mp3" id="gate_correct_hit_2"  />
+			<sound file="UFT_106.mp3" id="gate_correct_hit_2"  />
+			<sound file="UFT_204.mp3" id="gate_correct_hit_2"  />
+			<sound file="UFT_205.mp3" id="gate_correct_hit_2"  />
+			<sound file="UFT_206.mp3" id="gate_correct_hit_2"  />
+			<sound file="UFT_220.mp3" id="gate_correct_hit_2"  />
+			<sound file="UFT_221.mp3" id="gate_correct_hit_2"  />-->
+			
+			<sound file="UFT_107_ALT2.mp3" id="tryAgain"/>
+			
+			<sound file="UFT_107_ALT.mp3" id="gate_incorrect_hit_first" />
+			
+			<sound file="UFT_108.mp3" id="gate_incorrect_hit_second"/>
+			<sound file="UFT_109.mp3" id="gate_incorrect_hit_second" appendNumber="true" />
+			
+			<sound file="UFT_108.mp3" id="gate_incorrect_hit_third"/>
+			<sound file="UFT_109.mp3" id="gate_incorrect_hit_third" appendNumber="true" />
+			
+			<sound file="UFT_108.mp3" id="gate_incorrect_hit"/>
+			<sound file="UFT_109.mp3" id="gate_incorrect_hit" appendNumber="true" />
+			
+			
+			<sound file="UFT_110.mp3" id="gate_incorrect_miss_first" repeatChallenge="true" />
+	
+			
+			<sound file="UFT_110.mp3" id="gate_incorrect_miss_second" />
+			<sound file="UFT_109.mp3" id="gate_incorrect_miss_second" appendNumber="true" />
+			
+			<sound file="UFT_110.mp3" id="gate_incorrect_miss_third" />
+			<sound file="UFT_109.mp3" id="gate_incorrect_miss_third" appendNumber="true" />
+			
+			<sound file="UFT_110.mp3" id="gate_incorrect_miss" />
+			<sound file="UFT_109.mp3" id="gate_incorrect_miss" appendNumber="true" />
+			
+			
+			<sound file="UFT_82B.mp3" id="n_1"/>
+			<sound file="UFT_83B.mp3" id="n_2"/>
+			<sound file="UFT_84B.mp3" id="n_3"/>
+			<sound file="UFT_85B.mp3" id="n_4"/>
+			<sound file="UFT_86B.mp3" id="n_5"/>
+			<sound file="UFT_87B.mp3" id="n_6"/>
+			<sound file="UFT_88B.mp3" id="n_7"/>
+			<sound file="UFT_89B.mp3" id="n_8"/>
+			<sound file="UFT_90B.mp3" id="n_9"/>
+			<sound file="UFT_91B.mp3" id="n_10"/>
+			<sound file="UFT_92B.mp3" id="n_11"/>
+			<sound file="UFT_93B.mp3" id="n_12"/>
+			<sound file="UFT_94B.mp3" id="n_13"/>
+			<sound file="UFT_95B.mp3" id="n_14"/>
+			<sound file="UFT_96B.mp3" id="n_15"/>
+			<sound file="UFT_97B.mp3" id="n_16"/>
+			<sound file="UFT_98B.mp3" id="n_17"/>
+			<sound file="UFT_99B.mp3" id="n_18"/>
+			<sound file="UFT_100B.mp3" id="n_19"/>
+			<sound file="UFT_101B.mp3" id="n_20"/>
+			
+			<sound file="UFT_82.mp3" id="n_1_b"/>
+			<sound file="UFT_83.mp3" id="n_2_b"/>
+			<sound file="UFT_84.mp3" id="n_3_b"/>
+			<sound file="UFT_85.mp3" id="n_4_b"/>
+			<sound file="UFT_86.mp3" id="n_5_b"/>
+			<sound file="UFT_87.mp3" id="n_6_b"/>
+			<sound file="UFT_88.mp3" id="n_7_b"/>
+			<sound file="UFT_89.mp3" id="n_8_b"/>
+			<sound file="UFT_90.mp3" id="n_9_b"/>
+			<sound file="UFT_91.mp3" id="n_10_b"/>
+			<sound file="UFT_92.mp3" id="n_11_b"/>
+			<sound file="UFT_93.mp3" id="n_12_b"/>
+			<sound file="UFT_94.mp3" id="n_13_b"/>
+			<sound file="UFT_95.mp3" id="n_14_b"/>
+			<sound file="UFT_96.mp3" id="n_15_b"/>
+			<sound file="UFT_97.mp3" id="n_16_b"/>
+			<sound file="UFT_98.mp3" id="n_17_b"/>
+			<sound file="UFT_99.mp3" id="n_18_b"/>
+			<sound file="UFT_100.mp3" id="n_19_b"/>
+			<sound file="UFT_101.mp3" id="n_20_b"/>
+			
+			<sound file="UFT_53.mp3" id="ramp_approach_first" />
+			<sound file="UFT_54.mp3" id="ramp_hit_first"/>
+			<sound file="UFT_55.mp3" id="ramp_hit_first"/>
+			
+			<sound file="UFT_56.mp3" id="ramp_hit"/>
+			<sound file="UFT_57.mp3" id="ramp_hit"/>
+			<sound file="UFT_58.mp3" id="ramp_hit"/>
+			
+			<sound file="UFT_59.mp3" id="gravel_approach_first"/>
+			<sound file="UFT_60.mp3" id="gravel_hit"/>
+			
+			<sound file="UFT_61.mp3" id="leaves_approach_first"/>
+			<sound file="UFT_62.mp3" id="leaves_approach_first"/>
+			
+			<sound file="UFT_63.mp3" id="leaves_hit"/>
+			
+			<sound file="UFT_64.mp3" id="hose_shoot"/>
+			<!--<sound file="UFT_65.mp3" id="hose_shoot"/>-->
+			<sound file="UFT_66.mp3" id="hose_shoot"/>
+			
+			<sound file="UFT_111.mp3" id="firehat_approach_first"/>
+			<sound file="UFT_112.mp3" id="firehat_approach"/>
+			
+			<sound file="UFT_113.mp3" id="gate_approach_last"/>
+			<sound file="UFT_79.mp3" id="gate_approach_last_2" hint="true"/>
+			
+		
+			<sound file="UFT_228.mp3" id="endLevel"/>
+			
+		</level_2>
+		
+		<level_3>
+			<sound file="silence.mp3" id="badge_hit_first"/>
+			
+			<sound file="UFT_124.mp3" id="gate_approach_first"/>
+			<sound file="UFT_125.mp3" id="gate_approach_first"/>
+			
+			<sound file="UFT_126.mp3" id="gate_approach_first_2"/>
+			
+			<sound file="UFT_127.mp3" id="gate_approach"/>
+			<sound file="UFT_128.mp3" id="gate_approach"/>
+			<sound file="UFT_126.mp3" id="gate_approach_2" hint="true" />
+			
+			<sound file="UFT_125.mp3" id="gate_re_approach" />
+			
+			<sound file="UFT_149.mp3" id="gate_correct_hit" prependNumber="true" />
+			<sound file="UFT_150.mp3" id="gate_correct_hit" prependNumber="true" />
+			<sound file="UFT_151.mp3" id="gate_correct_hit" prependNumber="true" />
+			
+			<!-- EXTRA BADGES VO -->
+			<sound file="silence.mp3" id="gate_correct_hit_2"  />
+			<sound file="silence.mp3" id="gate_correct_hit_3"/>
+			<!--<sound file="UFT_152.mp3" id="gate_correct_hit_2"  />
+			<sound file="UFT_153.mp3" id="gate_correct_hit_2"  />-->
+			
+			<sound file="UFT_154_ALT.mp3" id="gate_incorrect_hit_first" />
+			
+			<sound file="UFT_154_ALT2.mp3" id="tryAgain" />
+			
+			<sound file="UFT_155.mp3" id="gate_incorrect_hit_second"/>
+			<sound file="UFT_156.mp3" id="gate_incorrect_hit_second" appendNumber="true" />
+			
+			<sound file="UFT_155.mp3" id="gate_incorrect_hit_third"/>
+			<sound file="UFT_156.mp3" id="gate_incorrect_hit_third" appendNumber="true" />
+			
+			<sound file="UFT_155.mp3" id="gate_incorrect_hit"/>
+			<sound file="UFT_156.mp3" id="gate_incorrect_hit" appendNumber="true" />
+			
+			
+			<sound file="UFT_157.mp3" id="gate_incorrect_miss_first" repeatChallenge="true" />
+	
+			
+			<sound file="UFT_157.mp3" id="gate_incorrect_miss_second" />
+			<sound file="UFT_156.mp3" id="gate_incorrect_miss_second" appendNumber="true" />
+			
+			<sound file="UFT_157.mp3" id="gate_incorrect_miss_third" />
+			<sound file="UFT_156.mp3" id="gate_incorrect_miss_third" appendNumber="true" />
+			
+			<sound file="UFT_157.mp3" id="gate_incorrect_miss" />
+			<sound file="UFT_156.mp3" id="gate_incorrect_miss" appendNumber="true" />
+			
+			
+			<sound file="UFT_129B.mp3" id="n_21"/>
+			<sound file="UFT_130B.mp3" id="n_22"/>
+			<sound file="UFT_131B.mp3" id="n_23"/>
+			<sound file="UFT_132B.mp3" id="n_24"/>
+			<sound file="UFT_133B.mp3" id="n_25"/>
+			<sound file="UFT_134B.mp3" id="n_26"/>
+			<sound file="UFT_135B.mp3" id="n_27"/>
+			<sound file="UFT_136B.mp3" id="n_28"/>
+			<sound file="UFT_137B.mp3" id="n_29"/>
+			<sound file="UFT_138B.mp3" id="n_30"/>
+			<sound file="UFT_139B.mp3" id="n_31"/>
+			<sound file="UFT_140B.mp3" id="n_32"/>
+			<sound file="UFT_141B.mp3" id="n_33"/>
+			<sound file="UFT_142B.mp3" id="n_34"/>
+			<sound file="UFT_143B.mp3" id="n_35"/>
+			<sound file="UFT_144B.mp3" id="n_36"/>
+			<sound file="UFT_145B.mp3" id="n_37"/>
+			<sound file="UFT_146B.mp3" id="n_38"/>
+			<sound file="UFT_147B.mp3" id="n_39"/>
+			<sound file="UFT_148B.mp3" id="n_40"/>
+			
+			<sound file="UFT_129.mp3" id="n_21_b"/>
+			<sound file="UFT_130.mp3" id="n_22_b"/>
+			<sound file="UFT_131.mp3" id="n_23_b"/>
+			<sound file="UFT_132.mp3" id="n_24_b"/>
+			<sound file="UFT_133.mp3" id="n_25_b"/>
+			<sound file="UFT_134.mp3" id="n_26_b"/>
+			<sound file="UFT_135.mp3" id="n_27_b"/>
+			<sound file="UFT_136.mp3" id="n_28_b"/>
+			<sound file="UFT_137.mp3" id="n_29_b"/>
+			<sound file="UFT_138.mp3" id="n_30_b"/>
+			<sound file="UFT_139.mp3" id="n_31_b"/>
+			<sound file="UFT_140.mp3" id="n_32_b"/>
+			<sound file="UFT_141.mp3" id="n_33_b"/>
+			<sound file="UFT_142.mp3" id="n_34_b"/>
+			<sound file="UFT_143.mp3" id="n_35_b"/>
+			<sound file="UFT_144.mp3" id="n_36_b"/>
+			<sound file="UFT_145.mp3" id="n_37_b"/>
+			<sound file="UFT_146.mp3" id="n_38_b"/>
+			<sound file="UFT_147.mp3" id="n_39_b"/>
+			<sound file="UFT_148.mp3" id="n_40_b"/>
+			
+			
+			<sound file="UFT_53.mp3" id="ramp_approach_first" />
+			<sound file="UFT_54.mp3" id="ramp_hit_first"/>
+			<sound file="UFT_55.mp3" id="ramp_hit_first"/>
+			
+			<sound file="UFT_56.mp3" id="ramp_hit"/>
+			<sound file="UFT_57.mp3" id="ramp_hit"/>
+			<sound file="UFT_58.mp3" id="ramp_hit"/>
+			
+			<sound file="UFT_59.mp3" id="gravel_approach_first"/>
+			<sound file="UFT_60.mp3" id="gravel_hit"/>
+			
+			<sound file="UFT_61.mp3" id="leaves_approach_first"/>
+			<sound file="UFT_62.mp3" id="leaves_approach_first"/>
+			
+			<sound file="UFT_63.mp3" id="leaves_hit"/>
+			
+			<sound file="UFT_64.mp3" id="hose_shoot"/>
+			<!--<sound file="UFT_65.mp3" id="hose_shoot"/>-->
+			<sound file="UFT_66.mp3" id="hose_shoot"/>
+			
+			<sound file="UFT_111.mp3" id="firehat_approach_first"/>
+			<sound file="UFT_112.mp3" id="firehat_approach"/>
+			
+			<sound file="UFT_158.mp3" id="siren_approach_first"/>
+			<sound file="UFT_159.mp3" id="siren_approach"/>
+			
+			<sound file="UFT_160.mp3" id="gate_approach_last"/>
+			<sound file="UFT_126.mp3" id="gate_approach_last_2" hint="true"/>	
+			
+
+			<sound file="UFT_230.mp3" id="endLevel"/>
+			
+		</level_3>
+	</vo>
+	
+	<sfx channel="sfx">
+		<sound file="silence.mp3"/>
+		<sound file="bounceOff" id="bounceOff" volume="90" inLibrary="true" />
+		<sound file="CA_Hose" id="CA_Hose" volume="90" inLibrary="true" />
+		<sound file="CA_Ladder" id="CA_Ladder" volume="90" inLibrary="true" />
+		<sound file="CA_Toolbox" id="CA_Toolbox" volume="90" inLibrary="true" />
+		<sound file="collectBadge" id="collectBadge" volume="50" inLibrary="true" />
+		<sound file="collectHat" id="collectHat" volume="50" inLibrary="true" />
+		<sound file="fireHose" id="fireHose" volume="70" inLibrary="true" />
+		<sound file="fireHoseSprayAway" id="fireHoseSprayAway" volume="60" inLibrary="true" />
+		<sound file="runOver1" id="runOver1" volume="90" inLibrary="true" />
+		<sound file="runOver2" id="runOver2" volume="90" inLibrary="true" />
+		<sound file="runOver3" id="runOver3" volume="90" inLibrary="true" />
+		<sound file="runOver4" id="runOver4" volume="90" inLibrary="true" />
+		<sound file="runOver5" id="runOver5" volume="90" inLibrary="true" />
+		<sound file="runOver1a" id="runOver1a" volume="40" inLibrary="true" />
+		<sound file="runOver2a" id="runOver2a" volume="40" inLibrary="true" />
+		<sound file="runOver3a" id="runOver3a" volume="40" inLibrary="true" />
+		<sound file="runOver4a" id="runOver4a" volume="40" inLibrary="true" />
+		<sound file="runOver5a" id="runOver5a" volume="40" inLibrary="true" />
+		<sound file="Siren" id="Siren" volume="50" inLibrary="true" />
+		<sound file="truckHitGravel" id="truckHitGravel" volume="90" inLibrary="true" />
+		<sound file="truckHitLeaves" id="truckHitLeaves" volume="70" inLibrary="true" />
+		<sound file="truckJump" id="truckJump" volume="50" inLibrary="true" />
+		<sound file="hilite" id="hilite" volume="70" inLibrary="true" />
+		
+	</sfx>
+	
+	<music channel="music">
+		<sound file="introSting" id="introString" loops="1" volume="50" inLibrary="true" />
+		<sound file="musicL1" id="musicL1" volume="50" inLibrary="true" />
+		<sound file="musicL2" id="musicL2" volume="50" inLibrary="true" />
+		<sound file="musicL3" id="musicL3" volume="50" inLibrary="true" />
+		<sound file="musicHelp" id="musicHelp" volume="35" inLibrary="true" />
+
+	</music>
+	
+</audio>

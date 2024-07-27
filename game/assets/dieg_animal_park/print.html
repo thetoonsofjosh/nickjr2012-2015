@@ -1,0 +1,87 @@
+<html>
+<head>
+ <script src="http://a532.g.akamai.net/f/532/6712/5m/virtools.download.akamai.com/6712/player/install/DetectBrowser.js"></script>
+ <script src="http://a532.g.akamai.net/f/532/6712/5m/virtools.download.akamai.com/6712/player/install/3DLifePlayer_last_version.js"></script>
+ <script src="http://a532.g.akamai.net/f/532/6712/5m/virtools.download.akamai.com/6712/player/install/3DLifePlayer.js"></script>
+ 
+ <title>DIEGO'S ANIMAL PARK</title>
+ 
+ <STYLE TYPE="text/css"> 
+	input 	{
+	    font-family: Arial;
+	    font-size: 16px;
+		font-weight:bold;
+		line-height: 18px;
+		background-color: #0173ba;
+		color: #FFFFFF;
+		text-align:center;
+		border:0px;
+	}
+	
+	form	{
+	text-align:center;
+	border:0px;
+	}
+	
+</STYLE>
+
+
+<FORM NAME="NomJoueur">
+<INPUT TYPE="hidden" NAME="leJoueur">
+</FORM>
+
+<script language="JavaScript" type="text/javascript">
+
+var locate = window.location
+document.NomJoueur.leJoueur.value = locate
+
+var text = document.NomJoueur.leJoueur.value
+
+function delineate(str)
+{
+theleft = str.indexOf("?") + 1;
+return(str.substring(theleft));
+}
+
+
+function donner_focus(frm,chp) 
+{
+document.forms[frm].elements[chp].focus();
+} 
+
+  </script>
+  
+  
+</head>
+
+
+<body leftmargin="0" topmargin="0" marginheight="0" marginwidth="0" onLoad="donner_focus('badge','rescuers')">
+
+
+<table width="612" border="0" cellpadding="0" cellspacing="0">
+	<tr>
+		<td>
+		
+
+			<div style="position:absolute; left:195px; top:458px; width:226px;">
+			<FORM name="badge" align="center">
+			  <input name="rescuers"  align="center" type="text"  maxlength="13" border="0">
+			</FORM>
+			</div>
+<script language="JavaScript" type="text/javascript">
+			var leNom = delineate(text);
+			document.badge.rescuers.value = leNom;
+			window.print();
+			</script>
+      	<img src="print_layout_diego.jpg" border="0">
+      	
+      	<br>
+      	<center>
+			
+			</center>
+		</td>
+	</tr>
+</table>
+
+</body>
+</html>

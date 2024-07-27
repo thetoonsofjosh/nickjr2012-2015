@@ -1,0 +1,40 @@
+<config>
+	
+	<!-- leave this in, setting src to empty string will cause it not to load -->
+	
+	<tuneInAsset src="http://static.nickjr.com/game/assets/back_robinhood/TuneInBACK_01.swf" />
+	
+	<!-- Dungeon Wall Scrubber -->
+	<game>
+		<setup hitsNeeded="3" doorThreshold="6000" />
+	</game>
+
+	<!-- Dirt Dropper -->
+	<game>
+		<setup hitsNeeded="8" itemSpeedMin="2.5" itemSpeedMax="3.5" />	
+	</game>
+	
+	<!-- Whack-a-Mole -->
+	<game>
+		<setup hitsNeeded="5" minSpawn="2500" maxSpawn="5000" charDuration="3" />
+	</game>
+	
+	<story>
+		<vid src="vid/story1_clip1.flv" />
+	</story>
+
+	<story>
+		<vid src="vid/story2_clip1.flv" />
+		<vid src="vid/story2_clip2.flv" />
+	</story>
+
+	<story>
+		<vid src="vid/story3_clip1.flv" />
+		<vid src="vid/story3_clip1.flv" />
+	</story>
+		
+	<story>
+		<vid src="vid/story4_clip1.flv" />
+	</story>
+
+</config>

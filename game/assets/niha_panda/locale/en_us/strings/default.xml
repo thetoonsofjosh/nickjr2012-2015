@@ -1,0 +1,40 @@
+<!-- *********** INSTRUCTIONS *********** -->
+<!-- for each lines : -->
+<!-- id should not be changed -->
+<!-- change fontName to use another font -->
+<!-- -make sure this font is in locale/***/fonts/font.swf and fonts.xml -->
+<!-- change fontSize to reduce/expand font size to fit the textfield -->
+<!-- set html to true or false if you wish the text to be rendered as html -->
+<!-- insert the text within the <![CDATA[TEXT HERE]]> brackets -->
+
+<?xml version="1.0" encoding="utf-8"?>
+<strings>
+	<!-- Title screen -->
+	<string id="ui_title_button_play"			fontName="VAGRounded BT"		fontSize="26"	html="false"><![CDATA[Play]]></string>
+	<string id="ui_title_title1"				fontName="VAGRounded BT"		fontSize="50"	html="false"><![CDATA[Meet the]]></string>
+	<string id="ui_title_title2"				fontName="VAGRounded BT"		fontSize="50"	html="false"><![CDATA[Baby Panda]]></string>
+
+	<!-- HUD -->
+	<string id="ui_hud_button_vote"				fontName="VAGRounded BT"		fontSize="26"	html="false"><![CDATA[Vote]]></string>
+	<string id="ui_tutorial_button_skip"		fontName="VAGRounded BT"		fontSize="26"	html="false"><![CDATA[Skip]]></string>
+	
+	<string id="ui_printable_title"				fontName="VAGRounded BT"		fontSize="50"	html="false"><![CDATA[Color The Baby Panda!]]></string>
+	<string id="ui_printable_copyright"			fontName="HelveticaRounded LT Std Blk"		fontSize="8"	html="false"><![CDATA[2009 Viacom International Inc. All Rights Reserved. Nick Jr., Ni Hao, Kai-lan! and all related titles, logos and characters are trademarks of Viacom International Inc.]]></string>
+	
+	<!-- Vote Pop-up -->
+	<string id="ui_popup_vote_title"			fontName="Trebuchet MS"			fontSize="30"	html="false"><![CDATA[Vote menu]]></string>
+	<string id="ui_popup_vote_button_next"		fontName="VAGRounded BT"		fontSize="20"	html="false"><![CDATA[Next]]></string>
+	<string id="ui_popup_vote_button_back"		fontName="VAGRounded BT"		fontSize="20"	html="false"><![CDATA[Back]]></string>
+	<string id="ui_popup_vote_button_name1"		fontName="VAGRounded BT"		fontSize="20"	html="false"><![CDATA[Bamboo]]></string>
+	<string id="ui_popup_vote_button_name2"		fontName="VAGRounded BT"		fontSize="20"	html="true"><![CDATA[Little<br />Watermelon]]></string>
+	<string id="ui_popup_vote_button_name3"		fontName="VAGRounded BT"		fontSize="20"	html="false"><![CDATA[Dumpling]]></string>
+
+	<!-- Results screen --> 
+	<string id="ui_win_title"					fontName="VAGRounded BT"		fontSize="30"	html="false"><![CDATA[Here are the vote results:]]></string>
+	<string id="ui_win_button_playagain"		fontName="VAGRounded BT"		fontSize="20"	html="true"><![CDATA[Play<br />Again]]></string>
+	<string id="ui_win_button_print"			fontName="VAGRounded BT"		fontSize="20"	html="true"><![CDATA[Print a<br />picture!]]></string>
+		
+	<!-- Loading -->
+	<string id="ui_loading_loading_text"		fontName="VAGRounded BT"		fontSize="30"	html="false"><![CDATA[Loading]]></string>
+	<string id="ui_loading_loading_percent"		fontName="VAGRounded BT"		fontSize="30"	html="false"><![CDATA[$value$%]]></string>
+</strings>

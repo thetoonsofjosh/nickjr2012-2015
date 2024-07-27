@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Settings>
+	
+	<BonusStickers>
+		<!-- 
+			name	: The stickerID returned from the server
+			value	: A frame label in the bonus sticker.  Should be all lower case.
+			type	: "character" if the sticker appears in the characters tab.  "environment" if the character appears in the environments tab.
+		-->
+		
+		<Sticker name="140462" value="chicken" type="character" />
+		<Sticker name="140461" value="toucan" type="character" />
+		<Sticker name="140463" value="troll" type="character" />
+		<Sticker name="140464" value="abuela" type="character" />
+	</BonusStickers>
+	
+	<SwfsToLoad>		
+		<SwfToLoad id="coreStickers" path="chr_rainforestStickers.swf" target="none" />
+		<SwfToLoad id="environmentStickers" path="env_rainforestStickers.swf" target="none" />
+		
+		<SwfToLoad id="music" path="music_rainforest.swf" target="none" />
+	</SwfsToLoad>
+	
+	<SwfsToLoadInBG>
+		
+	</SwfsToLoadInBG>
+	
+	<SoundsToLoad dir="mp3/">				
+		
+		<!-- sticker localization VO -->
+		<sound path="DoraChorusChunkNew.mp3"  list="sticker_dora1"  meta="sticker" />
+		<sound path="DW_200.mp3"  list="sticker_dora3"  meta="sticker" />
+		<sound path="DW_201.mp3"  list="sticker_dora2"  meta="sticker" />
+		<sound path="DW_202.mp3"  list="sticker_dora5"  meta="sticker" />
+		<sound path="DW_203.mp3"  list="sticker_boots3"  meta="sticker" />
+		<sound path="DW_204.mp3"  list="sticker_boots4"  meta="sticker" />
+		<sound path="DW_205.mp3"  list="sticker_boots5"  meta="sticker" />
+		<sound path="DW_207.mp3"  list="sticker_swiper1"  meta="sticker" />
+		<sound path="DW_209.mp3"  list="sticker_swiper2"  meta="sticker" />
+		<sound path="DW_210.mp3"  list="sticker_swiper3"  meta="sticker" />
+		<sound path="DW_300ALL.mp3"  list="sticker_chameleon"  meta="sticker" />
+		
+		
+		<!-- explore tools localization VO -->
+		<sound path="DW_304.mp3" list="Binocs008" meta="explore" />
+		<sound path="DW_305.mp3" list="Binocs007" meta="explore" />
+		
+		
+	</SoundsToLoad>	
+	
+	<Configs>
+		<!-- values are...
+			"always" - Always show the minigame button.
+			"never" - Never show the minigame button.
+			"normal" - Show or do not show the button by the normal rules.
+			
+			default for English is 
+			   "always"
+			   "normal"
+		-->
+		<Config name="showMinigameOverride" value="always" />
+		<Config name="showToolsOverride" value="always" />
+ 		<!--
+			'always' - Always show bonus stickers.
+			'normal' - Only show bonus stickers if they're logged in.
+		-->
+		<Config name="showBonusStickersOverride" value="always" />
+		
+		<Config name="minigameURL" value="/game/assets/dora_swiper_premium/Swiper.swf" />	
+		<Config name="minigameCMSID" value="swiper-big-adventure" />
+
+		<Config name="enableDatabaseCalls" value="true" />
+	</Configs>
+
+</Settings>

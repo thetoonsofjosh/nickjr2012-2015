@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<admin allowRightClickNavigation="false" />
+	<audioSWF path="DBltAdvPlaytime_Audio.swf" />
+	<animationsSWF path="DBltAdvPlaytime_Animations.swf" />
+	<performanceHallSWF path="DBltAdvPlaytime_PerformanceHall.swf" />
+</data>

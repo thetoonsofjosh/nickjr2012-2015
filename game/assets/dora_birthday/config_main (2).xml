@@ -1,0 +1,168 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Settings>
+	
+	<Configs>
+		
+		<!-- the order in which the stages unlock -->
+		<Config name="stages_order" value="stage_SnakeLake" />
+		
+		<!-- the composition of each stage -->
+		<Config name="stage_SnakeLake" value="bubbleTrouble,treetopTreasures,flightOfTheUnicorn" />
+		
+	</Configs>
+	
+	<SoundLists>
+		<!--   rollovers   -->
+			<!-- stage select -->
+		<Sound asset="DBB_98" list="roll_s_snakelake_btn" meta="" />
+		<Sound asset="DBB_99" list="roll_s_dancingforest_btn" meta="" />
+		<!-- we're calling rainbow "wizzle mountain" -->
+		<Sound asset="DBB_101" list="roll_s_rainbow_btn" meta="" />
+		<Sound asset="DBB_101" list="roll_s_wizzlemountain_btn" meta="" />
+		<Sound asset="DBB_102" list="roll_s_dorasforest_btn" meta="" />
+		<Sound asset="DBB_104" list="roll_g_bubbleTrouble_btn" meta="" />
+		<Sound asset="DBB_105" list="roll_g_whirlwindMatch_btn" meta="" />
+		<Sound asset="DBB_106" list="roll_g_rhymingRiddle_btn" meta="" />
+		<Sound asset="DBB_107" list="roll_g_treetopTreasures_btn" meta="" />
+		<Sound asset="DBB_108" list="roll_g_twistSpin_btn" meta="" />
+		<Sound asset="DBB_109" list="roll_g_snoozinTunes_btn" meta="" />
+		<Sound asset="DBB_110" list="roll_g_flightOfTheUnicorn_btn" meta="" />
+		<Sound asset="DBB_111" list="roll_g_wishingCrystals_btn" meta="" />
+		<Sound asset="DBB_112" list="roll_g_cakeMixUp_btn" meta="" />
+		<Sound asset="DBB_113" list="roll_g_birthdaySurprise_btn" meta="" />
+		
+		<Sound asset="DBB_117" list="roll_help_btn" meta="" />
+		<Sound asset="DBB_114" list="roll_map_btn" meta="" />
+		<Sound asset="DBB_127" list="roll_quit_btn" meta="" />
+		<Sound asset="DBB_116" list="roll_screenResolution_btn" meta="" />
+		<Sound asset="DBB_118" list="roll_mute_mc" meta="" />
+		<Sound asset="DBB_118_ALT" list="roll_musicon_mc" meta="" />
+		<Sound asset="DBB_118_ALT2" list="roll_musicoff_mc" meta="" />
+		<Sound asset="DBB_136" list="roll_yes_btn" meta="" />
+		<Sound asset="DBB_125" list="roll_play_again_btn" meta="" />
+		<Sound asset="DBB_126" list="roll_print_btn" meta="" />
+		<Sound asset="DBB_138" list="roll_no_btn" meta="" />
+		<Sound asset="DBB_124" list="roll_play_btn" meta="" />
+		<Sound asset="DBB_129" list="roll_skip_btn" meta="" />
+		<Sound asset="WR_40" list="roll_backpack_btn" meta="" />
+
+		<!-- end rollovers -->
+
+		<Sound asset="WWE_36" list="play_again_screen_msg" meta="WWE_36" />
+		<Sound asset="WWE_37" list="play_again_screen_msg" meta="WWE_37" />
+		<Sound asset="WWE_40" list="WWE_40" />
+			
+		
+		
+		
+							<Sound asset="DBB_1" list="DBA_Title_Screen_Arrive" meta="" />
+							<Sound asset="DBB_3" list="DBA_Title_Screen_Arrive" meta="playButton" />
+							<Sound asset="DBB_3" list="DBA_Title_Screen_Delay" meta="playButton" />
+							<Sound asset="DBB_4" list="DBB_4" meta="" />
+							<Sound asset="DBB_5" list="userselectintro" meta="" />
+							<Sound asset="DBB_6" list="userselectintro" meta="" />
+							<Sound asset="DBB_7" list="userselectintro" meta="" />
+							<Sound asset="DBB_8" list="DBB_8" meta="" />
+							<Sound asset="DBB_9" list="userselectintro" meta="" />
+							<Sound asset="DBB_10" list="userselectintro" meta="" />
+							<Sound asset="DBB_10A" list="userselectintro" meta="" />
+							<Sound asset="DBB_11" list="DBB_11" meta="" />
+							<Sound asset="DBB_11A" list="DBB_11" meta="" />
+							<Sound asset="DBB_12" list="userselectintro" meta="" />
+							<Sound asset="DBB_13" list="DBB_13" meta="" />
+							<Sound asset="DBB_13e" list="DBB_13e" meta="" />
+							<Sound asset="DBB_13b" list="DBB_13b" meta="" />
+							<Sound asset="DBB_13c" list="DBB_13c" meta="" />
+							<Sound asset="DBB_14" list="userkeypadintro" meta="" />
+							<Sound asset="DBB_15A" list="userkeypadintro" meta="" />
+							<Sound asset="DBB_16" list="DBB_16" meta="" />
+							<Sound asset="DBB_17" list="DBB_17" meta="" />
+							<Sound asset="DBB_18" list="DBB_18" meta="" />
+							<Sound asset="DBB_19" list="DBB_19" meta="" />
+							<Sound asset="DBB_20" list="DBB_20" meta="" />
+							<Sound asset="DBB_21" list="DBB_21" meta="" />
+							<Sound asset="DBB_22" list="DBB_22" meta="" />
+							<Sound asset="DBB_23" list="DBB_23" meta="" />
+							<Sound asset="DBB_24" list="DBB_24" meta="" />
+							<Sound asset="DBB_25" list="DBB_25" meta="" />
+							<Sound asset="DBB_26" list="DBB_26" meta="" />
+							<Sound asset="DBB_27" list="DBB_27" meta="" />
+							<Sound asset="DBB_28" list="DBB_28" meta="" />
+							<Sound asset="DBB_29" list="DBB_29" meta="" />
+							<Sound asset="DBB_30" list="DBB_30" meta="" />
+							<Sound asset="DBB_31" list="DBB_31" meta="" />
+							<Sound asset="DBB_32" list="DBB_32" meta="" />
+							<Sound asset="DBB_33" list="DBB_33" meta="" />
+							<Sound asset="DBB_34" list="DBB_34" meta="" />
+							<Sound asset="DBB_35" list="DBB_35" meta="" />
+							<Sound asset="DBB_36" list="DBB_36" meta="" />
+							<Sound asset="DBB_37" list="DBB_37" meta="" />
+							<Sound asset="DBB_38" list="DBB_38" meta="" />
+							<Sound asset="DBB_39" list="DBB_39" meta="" />
+							<Sound asset="DBB_40" list="DBB_40" meta="" />
+							<Sound asset="DBB_41" list="DBB_41" meta="" />
+							<Sound asset="DBB_42" list="DBB_42" meta="" />
+							<Sound asset="DBB_43" list="DBB_43" meta="" />
+							<Sound asset="DBB_44" list="DBB_44" meta="" />
+							<Sound asset="DBB_45" list="DBB_45" meta="" />
+							<Sound asset="DBB_46" list="DBB_46" meta="" />
+							<Sound asset="DBB_114" list="DBB_114" meta="" />
+							<Sound asset="DBB_115" list="DBB_115" meta="" />
+							<Sound asset="DBB_120" list="DBB_120" meta="" />
+							
+							
+							<Sound asset="DBB_72" list="stage_select_help_seasnakelake" meta="call_stages" />
+							<Sound asset="DBB_80" list="stage_select_help_dancingforest" meta="call_games" />
+							<Sound asset="DBB_81" list="stage_select_help_dancingforest" meta="call_stages" />
+							<Sound asset="DBB_80" list="stage_select_help_rainbow" meta="call_games" />
+							<Sound asset="DBB_89" list="stage_select_help_rainbow" meta="call_stages" />
+							<Sound asset="DBB_94" list="stage_select_help_dorasforest" meta="call_stages" />
+							<Sound asset="DBB_95" list="stage_select_help_dorasforest" meta="call_games" />
+							<Sound asset="DBB_96" list="stage_select_help_clear" meta="call_games" />
+							
+							<Sound asset="DBB_73" list="stage_select_forbidden" meta="" />
+							<Sound asset="DBB_74" list="stage_select_forbidden" meta="" />
+							<Sound asset="DBB_75" list="stage_select_gotoSeaSnakeLake" meta="" />
+							<Sound asset="DBB_76" list="stage_select_gotoSeaSnakeLake" meta="" />
+							<!--
+							<Sound asset="DBB_76" list="stage_select_gotoDancingForest" meta="" />
+							<Sound asset="DBB_76" list="stage_select_gotoRainbow" meta="" />
+							<Sound asset="DBB_76" list="stage_select_gotoDorasForest" meta="" />
+							-->
+							
+							<!--
+							<Sound asset="WR_4" list="WR_4" meta="" />
+							<Sound asset="WR_5" list="WR_5" meta="" />
+							<Sound asset="WR_6" list="WR_6" meta="" />
+							<Sound asset="WR_7" list="WR_7" meta="" />
+							<Sound asset="WR_8" list="WR_8" meta="" />
+							<Sound asset="WR_9" list="WR_9" meta="" />
+							<Sound asset="WR_10" list="WR_10" meta="" />
+							<Sound asset="WR_11" list="WR_11" meta="" />
+							<Sound asset="WR_12" list="WR_12" meta="" />
+							<Sound asset="WR_13" list="WR_13" meta="" />
+							<Sound asset="WR_14" list="WR_14" meta="" />
+							<Sound asset="WR_15" list="WR_15" meta="" />
+							<Sound asset="WR_16" list="WR_16" meta="" />
+							<Sound asset="WR_17" list="WR_17" meta="" />
+							<Sound asset="WR_18" list="WR_18" meta="" />
+							<Sound asset="WR_19" list="WR_19" meta="" />
+							<Sound asset="WR_20" list="WR_20" meta="" />
+							<Sound asset="WR_21" list="wrend" meta="" />
+							<Sound asset="WR_22" list="wrend" meta="" />
+							<Sound asset="WR_23" list="wrend" meta="" />
+							<Sound asset="WR_24" list="WR_24" meta="" />
+							
+							<Sound asset="WR_25" list="backpackintro" meta="" />
+							<Sound asset="WR_26" list="backpackintro" meta="" />
+							<Sound asset="WR_27" list="backpacknoitems" meta="" />
+							<Sound asset="WR_28" list="backpacknoitems" meta="" />
+							<Sound asset="WR_29" list="backpackintro" meta="" />
+							<Sound asset="WR_30" list="WR_30" meta="" />
+							-->
+							
+							
+							
+	</SoundLists>
+	
+</Settings>

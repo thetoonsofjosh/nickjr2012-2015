@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	
+	<gameSettings>
+		<player>
+			<positionX>475</positionX>
+			<positionY>250</positionY>
+			<speed>2</speed>
+			<toMouseSpeed>.8</toMouseSpeed>
+			<toOriginalSpeed>.5</toOriginalSpeed>
+			<maxSpeed>600</maxSpeed>
+			<friction>.99</friction>
+			<idle>3</idle>
+			<radius>1</radius>
+			<minX>35</minX>
+			<maxX>600</maxX>
+		</player>
+		<bubble>
+			<spawn>
+				<minX>125</minX>
+				<maxX>550</maxX>
+				<minY>-50</minY>
+				<maxY>375</maxY>
+				<minTime>2</minTime>
+				<maxTime>3</maxTime>
+				<!-- smaller integer means more bonus -->
+				<bonusProbability>10</bonusProbability>
+				<!-- smaller integer means more empty, -1 no empty bubble -->
+				<emptyBubbleProbability>-1</emptyBubbleProbability>
+				<rightItemProbability>1</rightItemProbability>
+				<minScale>80</minScale>
+				<maxScale>100</maxScale>
+			</spawn>
+			<minSpeed>-20</minSpeed>
+			<maxSpeed>-30</maxSpeed>
+			<maxBubble>7</maxBubble>
+			<radius>60</radius>
+			<bonusRadius>40</bonusRadius>
+			<points>1</points>
+			<bonusPoints>25</bonusPoints>
+		</bubble>
+		<backgroundBubble>
+			<spawn>
+				<minX>75</minX>
+				<maxX>575</maxX>
+				<minY>-75</minY>
+				<maxY>330</maxY>
+				<minTime>1</minTime>
+				<maxTime>1</maxTime>
+				<minScale>50</minScale>
+				<maxScale>120</maxScale>
+			</spawn>
+			<minSpeed>-35</minSpeed>
+			<maxSpeed>-45</maxSpeed>
+			<maxBubble>4</maxBubble>
+		</backgroundBubble>
+		<vo>
+		</vo>
+		<characters>
+			<yDistance>10</yDistance>
+			<ySpeed>10</ySpeed>
+		</characters>
+	</gameSettings>
+	
+	<printable>
+		<copyright><![CDATA[©2011  Viacom International Inc. All Rights Reserved. Nickelodeon, Bubble Guppies and all related titles, logos and characters are trademarks of Viacom International Inc.]]></copyright>
+	</printable>
+
+</data>

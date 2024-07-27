@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<fontsLibrary>
+	<fontClass name="VAGRoundedBT" />
+	<fontClass name="VAGRoundedBTBold" />
+	<fontClass name="VAGRoundedBTItalic" />
+	<fontClass name="VAGRound" />
+	<fontClass name="VAGRoundBold" />
+	<fontClass name="VAGHelvetica" />
+</fontsLibrary>

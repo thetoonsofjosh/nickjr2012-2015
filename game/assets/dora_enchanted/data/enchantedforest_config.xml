@@ -1,0 +1,28 @@
+<data>
+	<version>
+		<urlAlias>dora-enchanted-forest-game</urlAlias>
+	</version>
+	<gamesettings>
+		<week>3</week>
+	</gamesettings>
+	<assets>
+		<section id="shell">
+			<item id="soundbank" url="swf/soundBank.swf"/>
+			<item id="shell" url="swf/dora_enchantedforest_shell.swf"/>
+		</section>
+		<section id="game1">
+			<item id="game1" url="swf/dora_forest_game_1.swf"/>
+			<item id="game1_soundbank" url="swf/soundBankGame1.swf"/>
+			<item id="game1_endscreen" url="swf/dora_forest_game_1_end_week2.swf"/>
+		</section>
+		<section id="game2">
+			<item id="game2" url="swf/dora_forest_game_2.swf"/>
+			<!--item id="game1_soundbank" url="swf/soundBankGame2.swf"/-->
+		</section>
+		<section id="game3">
+			<item id="game3" url="swf/dora_forest_game_3.swf"/>
+			<item id="game3_endscreen" url="swf/dora_forest_game_3_endscreen.swf"/>
+			<item id="game3_printable" url="swf/dora_forest_printable.swf"/>
+		</section>
+	</assets>
+</data>

@@ -1,0 +1,143 @@
+<Settings>
+  <SwfsToLoad>
+				<SwfToLoad id="music" path="/game/assets/moos_shapes/music.swf" target="none" />
+  </SwfsToLoad>
+	<GeneralSettings>
+	     <constant id="gamerounds" val="3" />
+	     <constant id="shapecount" val="9" />
+	     <constant id="scenespershape" val="1" />
+	</GeneralSettings>
+	<SoundsToLoad dir="/game/assets/moos_shapes/mp3/">
+		<sound path="MFS_1.mp3" list="title" />
+<!-- 		<sound path="MFS_2.mp3" list="title" />-->
+ 		<!-- <sound path="MFS_3.mp3" list="title" />
+		<sound path="MFS_4.mp3" list="" /> -->
+		<sound path="MFS_5.mp3" list="" />
+		<sound path="MFS_6.mp3" list="intro" />
+		<sound path="MFS_7.mp3" list="intro" />
+		<sound path="MFS_8.mp3" list="" />
+		<sound path="MFS_9.mp3" list="" />
+		<sound path="MFS_10.mp3" list="" />
+		<sound path="MFS_10a.mp3" list="" />
+		<sound path="MFS_11.mp3" list="" />
+		<sound path="MFS_11a.mp3" list="" />
+		<sound path="MFS_12.mp3" list="" />
+		<sound path="MFS_12a.mp3" list="" />
+		<sound path="MFS_13.mp3" list="" />
+		<sound path="MFS_13a.mp3" list="" />
+		<sound path="MFS_14.mp3" list="" />
+		<sound path="MFS_14a.mp3" list="" />
+		<sound path="MFS_15.mp3" list="" />
+		<sound path="MFS_15a.mp3" list="" />
+		<sound path="MFS_16.mp3" list="" />
+		<!-- <sound path="MFS_16a.mp3" list="" /> -->
+		<sound path="MFS_17.mp3" list="" />
+		<!-- <sound path="MFS_17a.mp3" list="" /> -->
+		<sound path="MFS_18.mp3" list="" />
+		<!-- <sound path="MFS_18a.mp3" list="" /> -->
+	<!-- 	<sound path="MFS_19d.mp3" list="" />
+		<sound path="MFS_19b.mp3" list="" />
+		<sound path="MFS_19c.mp3" list="right2" /> -->
+		<sound path="MFS_19.mp3" list="right3" />
+		<sound path="MFS_20.mp3" list="right4" />
+		<sound path="MFS_21.mp3" list="right5" />
+		<sound path="MFS_22.mp3" list="right6" />
+		<sound path="MFS_23.mp3" list="right7" />
+		<sound path="MFS_24.mp3" list="right8" />
+		<sound path="MFS_25.mp3" list="right9" />
+		<sound path="MFS_26.mp3" list="right10" />
+		<sound path="MFS_27.mp3" list="right11" />
+		<sound path="MFS_28.mp3" list="right2" />
+		<sound path="MFS_29.mp3" list="right1" />
+		<sound path="MFS_30.mp3" list="" />
+		<sound path="MFS_31.mp3" list="rightlast" />
+		<sound path="MFS_32.mp3" list="wrong1" />
+		<sound path="MFS_33.mp3" list="wrong2" />
+		<sound path="MFS_34.mp3" list="wrong3" />
+		<sound path="MFS_35.mp3" list="" />
+		<sound path="MFS_36.mp3" list="" />
+		<!-- <sound path="MFS_37.mp3" list="wrong4" /> -->
+		<sound path="MFS_38.mp3" list="wrong5" />
+		<sound path="MFS_39.mp3" list="wrong6" />
+		<sound path="MFS_40.mp3" list="wrong7" />
+		<sound path="MFS_41.mp3" list="wrong4" />
+		<sound path="MFS_42.mp3" list="" />
+		<sound path="MFS_43.mp3" list="" />
+		<sound path="MFS_44.mp3" list="" />
+		<sound path="MFS_44B.mp3" list="" />
+		<sound path="MFS_45.mp3" list="" />
+		<sound path="MFS_45B.mp3" list="" />
+		<sound path="MFS_45C.mp3" list="" />
+		<sound path="MFS_46.mp3" list="" />
+		<sound path="MFS_47.mp3" list="" />
+		<sound path="MFS_48.mp3" list="" />
+		<sound path="MFS_49.mp3" list="" />
+		<sound path="MFS_50.mp3" list="" />
+		<sound path="MFS_51.mp3" list="" />
+		<sound path="MFS_52.mp3" list="" />
+		<sound path="MFS_53.mp3" list="" />
+		<sound path="MFS_54.mp3" list="" />
+		<sound path="MFS_55.mp3" list="" />
+		<sound path="MFS_55a.mp3" list="" />
+		<sound path="MFS_56.mp3" list="" />
+		<sound path="MFS_56a.mp3" list="" />
+		<sound path="MFS_57.mp3" list="" />
+		<sound path="MFS_57a.mp3" list="" />
+		<sound path="MFS_58.mp3" list="" />
+		<sound path="MFS_59.mp3" list="" />
+		<sound path="MFS_60.mp3" list="" />
+		<sound path="MFS_61.mp3" list="" />
+		<sound path="MFS_62.mp3" list="" />
+		<sound path="MFS_63.mp3" list="" />
+		
+		<sound path="Nick36.mp3" list="" />
+		<sound path="Nick37.mp3" list="" />
+		<sound path="Nick38.mp3" list="" />
+		<sound path="Nick39.mp3" list="" />
+		<sound path="Nick40.mp3" list="" />
+		<sound path="Nick41.mp3" list="" />
+		<sound path="Nick42.mp3" list="" />
+		<sound path="Nick43.mp3" list="" />
+		<sound path="Nick44.mp3" list="" />
+		<sound path="Nick45.mp3" list="" />
+		<sound path="Nick46.mp3" list="" />
+		<sound path="Nick47.mp3" list="" />
+		<sound path="Nick48.mp3" list="" />
+		<!-- <sound path="Nick49.mp3" list="" /> -->
+		<sound path="Nick41B.mp3" list="" />
+		<sound path="Nick42B.mp3" list="" />
+		<sound path="Nick43B.mp3" list="" />
+		<sound path="Nick44B.mp3" list="" />
+		<sound path="Nick45B.mp3" list="" />
+		<sound path="Nick46B.mp3" list="" />
+		<sound path="Nick47B.mp3" list="" />
+		<sound path="Nick48B.mp3" list="" />
+		<sound path="Nick49B.mp3" list="" />
+		
+		<sound path="Nick50.mp3" list="" />
+		<sound path="Nick51.mp3" list="" />
+		<sound path="Nick52.mp3" list="" />
+		<sound path="Nick53.mp3" list="" />
+		<sound path="Nick54.mp3" list="" />
+		<sound path="Nick55.mp3" list="" />
+		<sound path="Nick56.mp3" list="" />
+		<sound path="Nick57.mp3" list="" />
+		<sound path="Nick58.mp3" list="" />
+		<sound path="Nick59.mp3" list="" />
+		<sound path="Nick60.mp3" list="" />
+		<sound path="Nick61.mp3" list="" />
+		<sound path="Nick62.mp3" list="" />
+		
+		
+		<sound path="MWD_2.mp3" list="title" />
+		<sound path="MWD_3.mp3" list="" />
+		<sound path="MWD_67.mp3" list="" /> 
+		<sound path="MWD_68.mp3" list="" />
+		
+		<sound path="Extra_2.mp3" list="" />
+	
+		
+	</SoundsToLoad>
+		
+	
+</Settings>

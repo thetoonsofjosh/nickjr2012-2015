@@ -1,0 +1,340 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Settings>
+  <!-- relative paths -->
+  <!--
+  <SwfsToLoad>
+    <SwfToLoad id="music" path="/game/assets/dora_valentine/music/MainMusic.swf" target="none" />
+    <SwfToLoad id="vines" path="/game/assets/dora_valentine/games/vines.swf" target="vinesHolder_mc" />
+  </SwfsToLoad>
+
+  <SwfsToLoadInBG>
+    <SwfToLoadInBG id="river" path="/game/assets/dora_valentine/games/river.swf" target="riverHolder_mc" />
+    <SwfToLoadInBG id="printable" path="/game/assets/dora_valentine/games/printable.swf" target="printableHolder_mc" />
+  </SwfsToLoadInBG>
+  -->
+
+  <!-- absolute paths -->
+  <SwfsToLoad>
+    <SwfToLoad id="music" path="/game/assets/dora_valentine/music/MainMusic.swf" target="none" />
+    <SwfToLoad id="vines" path="/game/assets/dora_valentine/games/vines.swf" target="vinesHolder_mc" />
+  </SwfsToLoad>
+
+  <SwfsToLoadInBG>
+    <SwfToLoadInBG id="river" path="/game/assets/dora_valentine/games/river.swf" target="riverHolder_mc" />
+    <SwfToLoadInBG id="printable" path="/game/assets/dora_valentine/games/printable.swf" target="printableHolder_mc" />
+  </SwfsToLoadInBG>
+
+  <!-- show the debug tracer window -->
+  <ShowTracer>false</ShowTracer> 
+  
+  <Debug>false</Debug>
+
+  <!-- turn off custom trace messages -->
+  <Quiet>true</Quiet>
+
+  <!-- relative path -->
+  <!-- <SoundRoot path="/game/assets/dora_valentine/sounds/" /> -->
+  
+  <!-- absolute path -->
+  <SoundRoot path="/game/assets/dora_valentine/sounds/" />
+  <SoundsToLoad>
+    <sound path="DLV_1.mp3" />
+    <sound path="DLV_10.mp3" />
+    <sound path="DLV_100.mp3" />
+    <sound path="DLV_101.mp3" />
+    <sound path="DLV_102.mp3" />
+    <sound path="DLV_103.mp3" />
+    <sound path="DLV_104.mp3" />
+    <sound path="DLV_105.mp3" />
+    <sound path="DLV_106.mp3" />
+    <sound path="DLV_107.mp3" />
+    <sound path="DLV_108.mp3" />
+    <sound path="DLV_109.mp3" />
+    <sound path="DLV_11.mp3" />
+    <sound path="DLV_110.mp3" />
+    <sound path="DLV_111.mp3" />
+    <sound path="DLV_112.mp3" />
+    <sound path="DLV_113.mp3" />
+    <sound path="DLV_114.mp3" />
+    <sound path="DLV_115.mp3" />
+    <sound path="DLV_116.mp3" />
+    <sound path="DLV_117.mp3" />
+    <sound path="DLV_118.mp3" />
+    <sound path="DLV_119.mp3" />
+    <sound path="DLV_12.mp3" />
+    <sound path="DLV_120.mp3" />
+    <sound path="DLV_121.mp3" />
+    <sound path="DLV_122.mp3" />
+    <sound path="DLV_123.mp3" />
+    <sound path="DLV_124.mp3" />
+    <sound path="DLV_125.mp3" />
+    <sound path="DLV_126.mp3" />
+    <sound path="DLV_127.mp3" />
+    <sound path="DLV_128.mp3" />
+    <sound path="DLV_129.mp3" />
+    <sound path="DLV_13.mp3" />
+    <sound path="DLV_130.mp3" />
+    <sound path="DLV_131.mp3" />
+    <sound path="DLV_132.mp3" />
+    <sound path="DLV_133.mp3" />
+    <sound path="DLV_134.mp3" />
+    <sound path="DLV_135.mp3" />
+    <sound path="DLV_136.mp3" />
+    <sound path="DLV_137.mp3" />
+    <sound path="DLV_138.mp3" />
+    <sound path="DLV_139.mp3" />
+    <sound path="DLV_14.mp3" />
+    <sound path="DLV_140.mp3" />
+    <sound path="DLV_141.mp3" />
+    <sound path="DLV_142.mp3" />
+    <sound path="DLV_143.mp3" />
+    <sound path="DLV_144.mp3" />
+    <sound path="DLV_145.mp3" />
+    <sound path="DLV_146.mp3" />
+    <sound path="DLV_147.mp3" />
+    <sound path="DLV_148.mp3" />
+    <sound path="DLV_149.mp3" />
+    <sound path="DLV_15.mp3" />
+    <sound path="DLV_150.mp3" />
+    <sound path="DLV_151.mp3" />
+    <sound path="DLV_152.mp3" />
+    <sound path="DLV_153.mp3" />
+    <sound path="DLV_154.mp3" />
+    <sound path="DLV_155.mp3" />
+    <sound path="DLV_156.mp3" />
+    <sound path="DLV_157.mp3" />
+    <sound path="DLV_158.mp3" />
+    <sound path="DLV_159.mp3" />
+    <sound path="DLV_16.mp3" />
+    <sound path="DLV_160.mp3" />
+    <sound path="DLV_161.mp3" />
+    <sound path="DLV_162.mp3" />
+    <sound path="DLV_163.mp3" />
+    <sound path="DLV_164.mp3" />
+    <sound path="DLV_165.mp3" />
+    <sound path="DLV_166.mp3" />
+    <sound path="DLV_167.mp3" />
+    <sound path="DLV_168.mp3" />
+    <sound path="DLV_169.mp3" />
+    <sound path="DLV_17.mp3" />
+    <sound path="DLV_170.mp3" />
+    <sound path="DLV_171.mp3" />
+    <sound path="DLV_172.mp3" />
+    <sound path="DLV_173.mp3" />
+    <sound path="DLV_174.mp3" />
+    <sound path="DLV_175.mp3" />
+    <sound path="DLV_176.mp3" />
+    <sound path="DLV_177.mp3" />
+    <sound path="DLV_178.mp3" />
+    <sound path="DLV_179.mp3" />
+    <sound path="DLV_18.mp3" />
+    <sound path="DLV_180.mp3" />
+    <sound path="DLV_181.mp3" />
+    <sound path="DLV_182.mp3" />
+    <sound path="DLV_183.mp3" />
+    <sound path="DLV_184.mp3" />
+    <sound path="DLV_185.mp3" />
+    <sound path="DLV_186.mp3" />
+    <sound path="DLV_187.mp3" />
+    <sound path="DLV_188.mp3" />
+    <sound path="DLV_189.mp3" />
+    <sound path="DLV_19.mp3" />
+    <sound path="DLV_190.mp3" />
+    <sound path="DLV_191.mp3" />
+    <sound path="DLV_192.mp3" />
+    <sound path="DLV_193.mp3" />
+    <sound path="DLV_194.mp3" />
+    <sound path="DLV_195.mp3" />
+    <sound path="DLV_196.mp3" />
+    <sound path="DLV_197.mp3" />
+    <sound path="DLV_198.mp3" />
+    <sound path="DLV_199.mp3" />
+    <sound path="DLV_2.mp3" />
+    <sound path="DLV_20.mp3" />
+    <sound path="DLV_200.mp3" />
+    <sound path="DLV_201.mp3" />
+    <sound path="DLV_202.mp3" />
+    <sound path="DLV_203.mp3" />
+    <sound path="DLV_204.mp3" />
+    <sound path="DLV_205.mp3" />
+    <sound path="DLV_206.mp3" />
+    <sound path="DLV_207.mp3" />
+    <sound path="DLV_208.mp3" />
+    <sound path="DLV_209.mp3" />
+    <sound path="DLV_21.mp3" />
+    <sound path="DLV_210.mp3" />
+    <sound path="DLV_211.mp3" />
+    <sound path="DLV_212.mp3" />
+    <sound path="DLV_213.mp3" />
+    <sound path="DLV_214.mp3" />
+    <sound path="DLV_215.mp3" />
+    <sound path="DLV_216.mp3" />
+    <sound path="DLV_217.mp3" />
+    <sound path="DLV_218.mp3" />
+    <sound path="DLV_219.mp3" />
+    <sound path="DLV_22.mp3" />
+    <sound path="DLV_220.mp3" />
+    <sound path="DLV_221.mp3" />
+    <sound path="DLV_222.mp3" />
+    <sound path="DLV_223.mp3" />
+    <sound path="DLV_224.mp3" />
+    <sound path="DLV_225.mp3" />
+    <sound path="DLV_226.mp3" />
+    <sound path="DLV_227.mp3" />
+    <sound path="DLV_228.mp3" />
+    <sound path="DLV_229.mp3" />
+    <sound path="DLV_23.mp3" />
+    <sound path="DLV_230.mp3" />
+    <sound path="DLV_231.mp3" />
+    <sound path="DLV_232.mp3" />
+    <sound path="DLV_233.mp3" />
+    <sound path="DLV_234.mp3" />
+    <sound path="DLV_235.mp3" />
+    <sound path="DLV_236.mp3" />
+    <sound path="DLV_237.mp3" />
+    <sound path="DLV_238.mp3" />
+    <sound path="DLV_239.mp3" />
+    <sound path="DLV_24.mp3" />
+    <sound path="DLV_25.mp3" />
+    <sound path="DLV_26.mp3" />
+    <sound path="DLV_27.mp3" />
+    <sound path="DLV_28.mp3" />
+    <sound path="DLV_29.mp3" />
+    <sound path="DLV_3.mp3" />
+    <sound path="DLV_30.mp3" />
+    <sound path="DLV_31.mp3" />
+    <sound path="DLV_32.mp3" />
+    <sound path="DLV_33.mp3" />
+    <sound path="DLV_34.mp3" />
+    <sound path="DLV_35.mp3" />
+    <sound path="DLV_36.mp3" />
+    <sound path="DLV_37.mp3" />
+    <sound path="DLV_38.mp3" />
+    <sound path="DLV_39.mp3" />
+    <sound path="DLV_4.mp3" />
+    <sound path="DLV_40.mp3" />
+    <sound path="DLV_41.mp3" />
+    <sound path="DLV_42.mp3" />
+    <sound path="DLV_43.mp3" />
+    <sound path="DLV_44.mp3" />
+    <sound path="DLV_45.mp3" />
+    <sound path="DLV_46.mp3" />
+    <sound path="DLV_47.mp3" />
+    <sound path="DLV_48.mp3" />
+    <sound path="DLV_49.mp3" />
+    <sound path="DLV_5.mp3" />
+    <sound path="DLV_50.mp3" />
+    <sound path="DLV_51.mp3" />
+    <sound path="DLV_52.mp3" />
+    <sound path="DLV_53.mp3" />
+    <sound path="DLV_54.mp3" />
+    <sound path="DLV_55.mp3" />
+    <sound path="DLV_56.mp3" />
+    <sound path="DLV_57.mp3" />
+    <sound path="DLV_58.mp3" />
+    <sound path="DLV_59.mp3" />
+    <sound path="DLV_6.mp3" />
+    <sound path="DLV_60.mp3" />
+    <sound path="DLV_61.mp3" />
+    <sound path="DLV_62.mp3" />
+    <sound path="DLV_63.mp3" />
+    <sound path="DLV_64.mp3" />
+    <sound path="DLV_65.mp3" />
+    <sound path="DLV_66.mp3" />
+    <sound path="DLV_67.mp3" />
+    <sound path="DLV_68.mp3" />
+    <sound path="DLV_69.mp3" />
+    <sound path="DLV_7.mp3" />
+    <sound path="DLV_70.mp3" />
+    <sound path="DLV_71.mp3" />
+    <sound path="DLV_72.mp3" />
+    <sound path="DLV_73.mp3" />
+    <sound path="DLV_74.mp3" />
+    <sound path="DLV_75.mp3" />
+    <sound path="DLV_76.mp3" />
+    <sound path="DLV_77.mp3" />
+    <sound path="DLV_78.mp3" />
+    <sound path="DLV_79.mp3" />
+    <sound path="DLV_8.mp3" />
+    <sound path="DLV_80.mp3" />
+    <sound path="DLV_81.mp3" />
+    <sound path="DLV_82.mp3" />
+    <sound path="DLV_83.mp3" />
+    <sound path="DLV_84.mp3" />
+    <sound path="DLV_85.mp3" />
+    <sound path="DLV_86.mp3" />
+    <sound path="DLV_87.mp3" />
+    <sound path="DLV_88.mp3" />
+    <sound path="DLV_89.mp3" />
+    <sound path="DLV_9.mp3" />
+    <sound path="DLV_90.mp3" />
+    <sound path="DLV_91.mp3" />
+    <sound path="DLV_92.mp3" />
+    <sound path="DLV_93.mp3" />
+    <sound path="DLV_94.mp3" />
+    <sound path="DLV_95.mp3" />
+    <sound path="DLV_96.mp3" />
+    <sound path="DLV_97.mp3" />
+    <sound path="DLV_98.mp3" />
+    <sound path="DLV_99.mp3" />
+    <sound path="VineColorSFX.mp3" />
+
+    <sound path="DLV_55a.mp3" />
+    <sound path="DLV_55b.mp3" />
+    <sound path="DLV_55c.mp3" />
+    <sound path="DLV_55d.mp3" />
+    <sound path="DLV_55e.mp3" />
+    <sound path="DLV_56a.mp3" />
+    <sound path="DLV_56b.mp3" />
+    <sound path="DLV_56c.mp3" />
+    <sound path="DLV_56d.mp3" />
+    <sound path="DLV_56e.mp3" />
+    <sound path="DLV_57a.mp3" />
+    <sound path="DLV_57b.mp3" />
+    <sound path="DLV_57c.mp3" />
+    <sound path="DLV_57d.mp3" />
+    <sound path="DLV_57e.mp3" />
+    <sound path="DLV_57f.mp3" />
+    <sound path="DLV_57g.mp3" />
+    <sound path="DLV_57h.mp3" />
+    <sound path="DLV_58a.mp3" />
+    <sound path="DLV_58b.mp3" />
+    <sound path="DLV_58c.mp3" />
+    <sound path="DLV_58d.mp3" />
+    <sound path="DLV_58e.mp3" />
+    <sound path="DLV_58f.mp3" />
+    <sound path="DLV_58g.mp3" />
+    <sound path="DLV_59a.mp3" />
+    <sound path="DLV_59b.mp3" />
+    <sound path="DLV_59c.mp3" />
+    <sound path="DLV_59d.mp3" />
+    <sound path="DLV_59e.mp3" />
+    <sound path="DLV_59f.mp3" />
+    <sound path="DLV_59g.mp3" />
+    <sound path="DLV_59h.mp3" />
+    <sound path="DLV_60a.mp3" />
+    <sound path="DLV_60b.mp3" />
+    <sound path="DLV_60c.mp3" />
+    <sound path="DLV_60d.mp3" />
+    <sound path="DLV_60e.mp3" />
+    <sound path="DLV_60f.mp3" />
+    <sound path="DLV_60g.mp3" />
+    <sound path="DLV_61a.mp3" />
+    <sound path="DLV_61b.mp3" />
+    <sound path="DLV_61c.mp3" />
+    <sound path="DLV_61d.mp3" />
+    <sound path="DLV_61e.mp3" />
+    <sound path="DLV_61f.mp3" />
+    <sound path="DLV_61g.mp3" />
+    <sound path="DLV_61h.mp3" />
+    <sound path="DLV_62a.mp3" />
+    <sound path="DLV_62b.mp3" />
+    <sound path="DLV_62c.mp3" />
+    <sound path="DLV_62d.mp3" />
+    <sound path="DLV_62e.mp3" />
+    <sound path="DLV_62f.mp3" />
+    <sound path="DLV_62g.mp3" />
+  </SoundsToLoad>
+  
+</Settings>
+

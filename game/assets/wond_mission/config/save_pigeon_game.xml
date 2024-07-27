@@ -1,0 +1,193 @@
+﻿<?xml version="1.0"?>
+<!--config file for Wonderpets Save The Pigeon Game -->
+<config>
+	<display_name>Wonderpets Save The Pigeon Game</display_name>
+	<version>0.001</version>
+	<fps>31</fps>
+	<flash_version>8</flash_version>
+	<quality>LOW</quality>	<!-- LOW MEDIUM HIGH -->
+	<scale_mode>noScale</scale_mode>  <!-- noScale showAll -->
+	<width>600</width>
+	<height>340</height>
+	<!-- Game settings -->
+	<allowedInactivityTime>13000</allowedInactivityTime> <!-- milliseconds -->
+	<target_phase01>2400</target_phase01> <!-- pixels 295   for non-parallax 2* -(bg start_x) = 2400 -->
+	<target_phase02>70</target_phase02> <!-- pixels 70 -->
+
+	<anim_items>
+		<anim_item className="BackgroundSprite" handle="backgroundID" id="PigGAME_mc" type="embedded">
+			<hitarea type="shape"/>
+			<start 	x="-1200" 
+					y="0" 
+					scale="100" 
+					rotation="0" 
+					anim_friction="10" 
+					anim_delta="100" 
+					depth="null" 
+					parallaxSpeed="1"
+					superTile_x="1533" 
+					superTile_y="0" 
+					superTile_scale="100"   
+					superTile_scope=""
+					pan_target_x="1" 
+					parallaxEnabled="false" />
+			<!--  no ParallaxLayers
+			<ParallaxLayers>
+				<ParallaxLayer id="PigGAME_mc"  type="embedded" x="0" y="168" scale="100" rotation="0" depth="null"/>
+			</ParallaxLayers> 
+			-->	
+		</anim_item>		
+		<anim_item className="VehicleSprite"  handle="heroSpriteRightFacingID" id="flyboat_right_mc" type="embedded">
+			<hitarea type="shape"/>
+			<start 	x="248" 
+					y="121" 
+					scale="100" 
+					rotation="0" 
+					anim_top_y="70" 
+					anim_bottom_y="180" 
+					anim_friction="42" 
+					anim_delta="2" 
+					anim_frame="2" 
+					anim_frame_flip="3" 
+					depth="null" 
+					linkageNameFlip="flyboat_left_mc" />
+		</anim_item>
+		<anim_item className="EnemySpriteGroup" handle="obstacleSpriteID" id="balloons_mc" type="embedded">
+			<hitarea type="shape"/>
+			<start 	x="500" 
+					y="180" 
+					scale="100" 
+					rotation="0" 
+					groupNumItems="3" 
+					groupWidth="111" 
+					groupHeight="104" 
+					anim_top_y="50" 
+					anim_bottom_y="300" 
+					anim_friction="13" 
+					anim_delta="2" 
+					default_dir="down" 
+					scaleBy=".2" 
+					depth="null" 
+					scope=""
+					zScaleEnabled="false" />
+		</anim_item>	
+		<anim_item className="EnemySpriteGroup" handle="obstacleSpriteID" id="balloons_mc" type="embedded">
+			<hitarea type="shape"/>
+			<start 	x="950" 
+					y="180" 
+					scale="100" 
+					rotation="0" 
+					groupNumItems="2" 
+					groupWidth="111" 
+					groupHeight="104" 
+					anim_top_y="50" 
+					anim_bottom_y="300" 
+					anim_friction="13" 
+					anim_delta="2" 
+					default_dir="up" 
+					scaleBy=".2" 
+					depth="null" 
+					scope=""
+					zScaleEnabled="false" />
+		</anim_item>	
+		<anim_item className="EnemySpriteGroup" handle="obstacleSpriteID" id="balloons_mc" type="embedded">
+			<hitarea type="shape"/>
+			<start 	x="1250" 
+					y="180" 
+					scale="100" 
+					rotation="0" 
+					groupNumItems="2" 
+					groupWidth="111" 
+					groupHeight="104" 
+					anim_top_y="50" 
+					anim_bottom_y="300" 
+					anim_friction="13" 
+					anim_delta="2" 
+					default_dir="down" 
+					scaleBy=".2" 
+					depth="null" 
+					scope=""
+					zScaleEnabled="false" />
+		</anim_item>		
+		<!-- 
+		<anim_item className="EnemySpriteGroup" handle="obstacleSpriteID" id="balloons_mc" type="embedded">
+			<hitarea type="shape"/>
+			<start 	x="1400" 
+					y="180" 
+					scale="100" 
+					rotation="0" 
+					groupNumItems="2" 
+					groupWidth="111" 
+					groupHeight="104" 
+					anim_top_y="50" 
+					anim_bottom_y="300" 
+					anim_friction="13" 
+					anim_delta="2" 
+					default_dir="up" 
+					scaleBy=".2" 
+					depth="null" 
+					scope=""
+					zScaleEnabled="false" />
+		</anim_item>
+		-->
+		<anim_item className="SavedAnimalSprite" handle="savedAnimalSpriteID" id="PIGEON_fly_mc" type="embedded">
+			<hitarea type="shape"/>
+			<start 	x="1522.6" 
+					y="119.2" 
+					scale="100" 
+					rotation="0" 
+					anim_friction="13" 
+					depth="null" 
+					offset_x="77" 
+					offset_y="0" />
+		</anim_item>	
+		
+		<anim_item className="null"  handle="savedAnimalLoopID" id="PIGEON_idle_mc" type="embedded">
+			<hitarea type="shape"/>
+			<start x="0" y="0" scale="100" rotation="0" depth="null" />
+		</anim_item>	
+		<!-- 
+		<anim_item className="null" handle="savedAnimalLoopVocalsID" id="Pigeon_squeek_loop_net" type="embedded">
+			<hitarea type="shape"/>
+			<start x="0" y="0" scale="100" rotation="0" depth="null" />
+		</anim_item> 
+		-->
+		<anim_item className="null"  handle="savedAnimalEscapeID" id="PIGEON_release_mc" type="embedded">
+			<hitarea type="shape"/>
+			<start x="0" y="0" scale="100" rotation="0" depth="null" />
+		</anim_item>
+	</anim_items>	
+	 <!-- Audio settings -->
+	<audio>
+		<!-- audioChannels, dynamic movieclips that sound objects attached to -->
+		<!-- flash8 can support up to 32 simultaneous audio channels -->
+		<audioChannels>
+			<audioChannel id="VO"/>
+			<audioChannel id="SFX"/>
+			<audioChannel id="BG_MUSIC"/>
+			<audioChannel id="MISC"/>
+			<audioChannel id="MISC2"/>
+		</audioChannels>
+		<audioGroup id="collisionVo">
+			<audioGroupItem id="wpL_23.aif" loc="embedded" type="vo"  channelID="VO" handle="audioVoCollision" callback="null" offset="0" loops="0" duration="100%"/>
+			<audioGroupItem id="wpL_24.aif" loc="embedded" type="vo"  channelID="VO" handle="audioVoCollision" callback="null" offset="0" loops="0" duration="100%"/>
+			<audioGroupItem id="wpL_25.aif" loc="embedded" type="vo"  channelID="VO" handle="audioVoCollision" callback="null" offset="0" loops="0" duration="100%"/>
+			<audioGroupItem id="wpL_26.aif" loc="embedded" type="vo"  channelID="VO" handle="audioVoCollision" callback="null" offset="0" loops="0" duration="100%"/>
+		</audioGroup>		
+		<audioItems>
+			<audioItem id="Pigion_01.aif" loc="embedded" type="sfx"  channelID="SFX" handle="audioSfxDistress" callback="null" offset="0" loops="0" duration="100%"/>		
+			<audioItem id="wpL_37.aif" loc="embedded" type="vo"  channelID="VO" handle="audioVoPrePan" callback="null" offset="0" loops="0" duration="100%"/>		
+			<audioItem id="L_ag_pigion_s01.aif" loc="embedded" type="vo"  channelID="VO" handle="audioInstructionVoID_01" callback="null" offset="0" loops="0" duration="100%"/>
+			<audioItem id="L_ag_pigion_s02.aif" loc="embedded" type="vo"  channelID="VO" handle="audioInstructionVoID_02" callback="null" offset="0" loops="0" duration="100%"/>
+			<audioItem id="wp_instruct_music_end01.aif" loc="embedded" type="music"  channelID="MISC" handle="audioInterstitialMusicID" callback="null" offset="0" loops="0" duration="100%"/>
+			<audioItem id="savegamesloop01.aif" loc="embedded" type="bg_music"  channelID="BG_MUSIC" handle="audioBackgroundMusicID" callback="null" offset="0" loops="500" duration="100%"/>		
+			<audioItem id="wpL_40.aif" loc="embedded" type="vo"  channelID="VO" handle="audioVoCollision" callback="null" offset="0" loops="0" duration="100%"/>
+			<audioItem id="bump_01.aif" loc="embedded" type="sfx"  channelID="SFX" handle="audioSfxCollision" callback="null" offset="0" loops="0" duration="100%"/>			
+			<audioItem id="fanfare 01.aif" loc="embedded" type="sfx"  channelID="SFX" handle="audioSfxSuccess" callback="null" offset="0" loops="0" duration="100%"/>			
+			<audioItem id="wpL_clicktobabypigion.aif" loc="embedded" type="vo"  channelID="VO" handle="audioVoInactivityPrompt" callback="null" offset="0" loops="0" duration="100%"/>			
+			<audioItem id="wpL_clicktogetpigionback.aif" loc="embedded" type="vo"  channelID="VO" handle="audioVoInactivityPromptReturn" callback="null" offset="0" loops="0" duration="100%"/>		
+			<audioItem id="wpL_29.aif" loc="embedded" type="vo"  channelID="VO" handle="audioVoOnCompleteAnimalSaveOutro" callback="null" offset="0" loops="0" duration="100%"/>		
+			<audioItem id="pigionflyboatmotor_click_01.aif" loc="embedded" type="sfx"  channelID="SFX" handle="audioSfxVehicleInMotion" callback="null" offset="0" loops="0" duration="100%"/>				
+		</audioItems>
+	</audio>
+</config>

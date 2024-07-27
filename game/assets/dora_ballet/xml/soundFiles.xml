@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<xml dir="mp3/">
+	<music channel="music" volume="20">
+		<sound file="IntroSting" id="titleScreenSting" loops="1" inLibrary="true" />
+		<sound file="IntroLoop" id="introLoop" volume="20" inLibrary="true" />
+		<sound file="DanceLoop_04DressUp" id="otherLoop" inLibrary="true"/>
+		<sound file="newSting" id="fanfare" volume="75" loops="1" inLibrary="true" />
+	</music>
+
+	<music2 channel="music2" volume="75">
+		<sound file="DanceLoop_04DressUp" id="danceLoop2"  inLibrary="true" />
+		<sound file="IntroLoop" id="danceLoop1" inLibrary="true" />
+		<sound file="DanceLoop_03" id="danceLoop3" inLibrary="true" />
+		<sound file="DanceLoop_01" id="danceLoop4" inLibrary="true" />
+		<sound file="DanceLoop_02" id="danceLoop5" inLibrary="true" />
+		
+	</music2>
+	
+	<sfx channel="sfx">
+		<sound file="DDS_404.mp3" id="danceSelectionVO2" />
+		<sound file="DDS_405.mp3" id="danceSelectionVO1" />
+		<sound file="DDS_406.mp3" id="danceSelectionVO3" />
+		<sound file="RO_1.mp3" id="ro1" volume="30" />
+		<sound file="RO_2.mp3" id="ro2" volume="30" />
+		<sound file="RO_3.mp3" id="ro3" volume="30" />
+		<sound file="RO_4.mp3" id="ro4" volume="30" />
+		<sound file="Click_1.mp3" id="click1" volume="30" />
+		<sound file="Click_2.mp3" id="click2" volume="30" />
+		<sound file="Click_3.mp3" id="click3" volume="30" />
+		<sound file="Click_4.mp3" id="click4" volume="30" />
+		<sound file="CrowdClap.mp3" id="crowdClap" volume="30" />
+	</sfx>
+	
+	<callouts channel="callouts" volume="100">
+		<sound file="DDS_3.mp3" id="play" />
+		<sound file="DDS_8.mp3" id="next" />
+		<!--sound file="DDS_62.mp3" id="done" /-->
+		<sound file="DDS_506.mp3" id="done" />
+		<sound file="DDS_14.mp3" id="back" />
+		<sound file="DDS_59.mp3" id="skip" />
+		<!--sound file="DDS_414.mp3" id="newDance" /-->
+		<sound file="DDS_601.mp3" id="newDance" />
+		<sound file="DDS_415.mp3" id="dance" />
+		<sound file="DDS_506.mp3" id="playAgain"/>
+	</callouts>
+
+	<vo channel="vo" volume="100">
+		<titleScreenVO>
+			<sound file="DDS_1.mp3" id="titleScreenVO" />
+			<sound file="PDDS_1.mp3" id="titleScreenVO" />
+			<sound file="PDDS_1.mp3" id="titleScreenDelayPrompt" />
+		</titleScreenVO>
+		
+		<sound file="DDS_403.mp3" id="danceSelectionTutorialVO" />
+		<sound file="DDS_403_Dora.mp3" id="danceSelectionTutorialVO_Dora" />
+		<sound file="DDS_403_Boots.mp3" id="danceSelectionTutorialVO_Boots" />
+		<sound file="DDS_403_Both.mp3" id="danceSelectionTutorialVO_Both" />
+		<sound file="DDS_403C.mp3" id="danceSelectionTutorialVO2" />
+		<sound file="DDS_407.mp3" id="danceSelectionDelay" />
+		
+		<sound file="PDDS_6.mp3" id="performanceCompleteVO" />
+		<sound file="DDS_421.mp3" id="performanceCompleteVO" />
+		<sound file="PDDS_7.mp3" id="performanceCompleteVO" />
+		
+		<sound file="DDS_409.mp3" id="danceDelay" />
+		<sound file="DDS_409A.mp3" id="danceDelay" />
+		<sound file="DDS_410.mp3" id="danceDelay" />
+		<sound file="DDS_417.mp3" id="danceDelay" />
+		
+		<sound file="PDDS_9.mp3" id="playAgainVO" />
+	</vo>		
+</xml>

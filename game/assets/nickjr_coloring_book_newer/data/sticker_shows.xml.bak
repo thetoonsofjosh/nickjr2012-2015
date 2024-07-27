@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shows>
+	<show displayName="Dora" handle="dora" iconHandle="backgrounds/shows/dora_icon.jpg" show="dora" />
+	<show displayName="Diego" handle="dieg" iconHandle="backgrounds/shows/dieg_icon.jpg" show="dieg" />
+	<show displayName="WonderPets" handle="wond" iconHandle="backgrounds/shows/wond_icon.jpg" show="wond" />
+	<show displayName="Yoga" handle="yoga" iconHandle="backgrounds/shows/yoga_icon.jpg" show="yoga" />
+	<show displayName="Blue" handle="blue" iconHandle="backgrounds/shows/blue_icon.jpg" show="blue" />
+	<show displayName="Ni hao Kai-lan" handle="niha" iconHandle="backgrounds/shows/niha_icon.jpg" show="niha" />
+	<show displayName="Backyardigans" handle="back" iconHandle="backgrounds/shows/back_icon.jpg" show="back" />
+	<show displayName="Olivia" handle="oliv" iconHandle="backgrounds/shows/oliv_icon.jpg" show="oliv" />
+</shows>

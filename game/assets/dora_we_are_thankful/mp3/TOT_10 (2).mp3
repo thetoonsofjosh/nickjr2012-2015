@@ -1,0 +1,145 @@
+
+
+
+<script type="text/javascript" src="/static/js/analytics.js"></script>
+<script type="text/javascript">archive_analytics.values.server_name="wwwb-app52.us.archive.org";archive_analytics.values.server_ms=0;</script>
+<link type="text/css" rel="stylesheet" href="/static/css/banner-styles.css"/>
+
+
+
+
+
+
+  
+    
+<script> if (window.archive_analytics) { window.archive_analytics.values['server_name']="wwwb-app52.us.archive.org";}; </script>
+
+<!-- Start of Record Banner output -->
+<wb_div id="__wb_record_overlay_div" class="__wb_overlay">
+</wb_div>
+
+<wb_div class="__wb_record_content" id="__wb_record_content_loader">
+<wb_h1 id="_wb_load_msg">Saving page now...</wb_h1>
+<wb_p id="_wb_curr_url">http://www.nickjr.com/game/assets/dora_we_are_thankful/mp3/TOT_10.mp3</wb_p>
+<wb_p>As it appears live April 8, 2020 3:17:00 AM UTC</wb_p>
+
+
+
+<wb_div id="__wb_spinningSquaresG">
+<wb_div id="__wb_spinningSquaresG_1" class="__wb_spinningSquaresG">
+</wb_div>
+<wb_div id="__wb_spinningSquaresG_2" class="__wb_spinningSquaresG">
+</wb_div>
+<wb_div id="__wb_spinningSquaresG_3" class="__wb_spinningSquaresG">
+</wb_div>
+<wb_div id="__wb_spinningSquaresG_4" class="__wb_spinningSquaresG">
+</wb_div>
+<wb_div id="__wb_spinningSquaresG_5" class="__wb_spinningSquaresG">
+</wb_div>
+<wb_div id="__wb_spinningSquaresG_6" class="__wb_spinningSquaresG">
+</wb_div>
+<wb_div id="__wb_spinningSquaresG_7" class="__wb_spinningSquaresG">
+</wb_div>
+<wb_div id="__wb_spinningSquaresG_8" class="__wb_spinningSquaresG">
+</wb_div>
+</wb_div>
+
+<img id="_wb_logo" src="/static/images/logo_WM.png"/>
+</wb_div>
+
+<script type="text/javascript" src="/static/js/disclaim-element.js" ></script>
+<script type="text/javascript">
+  function doRedir()
+  {   
+    var redirUrl = "/web/20200408031700/http://www.nickjr.com/game/assets/dora_we_are_thankful/mp3/TOT_10.mp3";
+    var textElem = document.getElementById("_wb_load_msg");
+    if (textElem) {
+      textElem.innerHTML = "Loading Saved Page...";
+    }
+    window.location.replace(redirUrl);  
+  }
+  
+  function redirToCapture()
+  {
+    window.setTimeout(doRedir, 1000);
+  }
+
+  
+  if ( window != window.top ) {
+    
+    var wmOverlay = document.getElementById("__wb_record_overlay");
+    
+    if (wmOverlay) {
+      wmOverlay.style.display = "none";
+    }
+    
+  } else {
+    
+    if (window.addEventListener) {
+      window.addEventListener('load', redirToCapture, false);
+    } else if (window.attachEvent) {
+      window.attachEvent('onload', redirToCapture);
+    }
+    
+    // Just in case, redir after 90 secs
+    window.setTimeout(doRedir, 90000);
+  }
+</script>
+
+<!-- End of Record Banner Output output -->
+
+  
+
+
+
+<esi:try>
+	<esi:attempt>
+		<esi:eval src="http://mobile-redirect.mtvnservices.com/include.esi" dca="esi" maxwait="5000" />
+	</esi:attempt>
+</esi:try>
+<esi:assign name="includeURL" value="'http://'+$(HTTP_HOST)+$(REQUEST_PATH)" />
+<esi:choose>
+	<esi:when test="!$is_empty($(QUERY_STRING))">
+		<esi:assign name="includeURL" value="$(includeURL)+'?'+$(QUERY_STRING)+'&apiKey='"/>
+	</esi:when>
+	<esi:otherwise>
+		<esi:assign name="includeURL" value="$(includeURL)+'?apiKey='"/>
+	</esi:otherwise>
+</esi:choose>
+<esi:choose>
+	<esi:when test="$exists($(QUERY_STRING{'apiKey'}))">
+		<esi:assign name="pageProcessed" value="true" />
+	</esi:when>
+	<esi:otherwise>
+		<esi:assign name="pageProcessed" value="false" />
+	</esi:otherwise>
+</esi:choose>
+<esi:choose>
+	<esi:when test="$(is_mobile)==true && $(pageProcessed)==false">
+		<!-- Set cookie value for mobile -->
+		<esi:assign name="cookieValue" value="$add_header('Set-Cookie','nick_device=nickjr-mobile.com')" />
+		<esi:include src="$(includeURL)nickjr-mobile.com"/>
+	</esi:when>
+	<esi:when test="$(is_tablet)==true && $(pageProcessed)==false">
+		<!-- Set cookie value for tablet -->
+		<esi:assign name="cookieValue" value="$add_header('Set-Cookie','nick_device=nickjr-tablet.com')" />
+		<esi:include src="$(includeURL)nickjr-tablet.com"/>
+	</esi:when>
+	<esi:otherwise>
+		<esi:assign name="cookieValue" value="$add_header('Set-Cookie','nick_device=nickjr.com')" />
+		<esi:include src="$(includeURL)nickjr.com"/>
+	</esi:otherwise>
+</esi:choose>
+
+
+
+
+
+<!--
+     FILE ARCHIVED ON 3:17:00 Apr 8, 2020 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 3:17:00 Apr 8, 2020.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->

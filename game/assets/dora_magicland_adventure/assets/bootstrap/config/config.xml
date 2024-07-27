@@ -1,0 +1,113 @@
+<config>
+	
+    <!-- SERVICES -->
+    <!-- Enable, disable, and configure services here -->
+    
+	<services>
+		<service type="analytics" enabled="true" id="x" />
+	</services>
+	
+	<!-- LOCALIZATION -->
+	      
+    <localization>
+    	<region>en</region>
+    </localization>
+    	
+	<!-- PACK DEFINITIONS -->
+	<!-- Define packs, flump folders, and tilesheets to be loaded later -->
+	      
+    <packs>
+    	<pack id="initial_load">
+    		<flump id="trans"/>
+    	</pack>
+    	<pack id="gameplay_audio"/>
+   		<pack id="gameplay_universal">
+   			<flump id="anim_dora"/>
+   			<flump id="anim_generic_props"/>
+   		</pack>
+		<pack id="cardcastle">
+			<flump id="castle_props"/>
+		</pack>
+		<pack id="cardcastle_audio"/>
+		<pack id="bunnyhill">
+			<flump id="bunnyhill_props"/>
+		</pack>
+		<pack id="bunnyhill_audio"/>
+		<pack id="magicforest">
+			<flump id="anim_magicforest"/>
+		</pack>
+		<pack id="magicforest_audio"/>
+		<pack id="cutscene_universal"/>
+		<pack id="cutscene1">
+			<flump id="intro_cs"/>
+			<flump id="map_wand"/>
+			<flump id="dora_fall"/>
+		</pack>
+		<pack id="cutscene4">
+			<flump id="outro_part1"/>
+			<flump id="outro_part2"/>
+			<flump id="outro_part3"/>
+		</pack>
+   		<!-- END OF PACKS -->
+    </packs>
+    
+    <!-- CHUNKS -->
+    <!-- Define larger bundles of chunks and packs to load -->
+    
+    <chunks>
+    	<!-- EX
+    	<chunk id="chunk">
+			<chunk>load_part_1</chunk>
+			<pack>load_part_2</chunk>
+		</chunk>
+    	-->
+    	
+    	<chunk id="all">
+    		<pack>initial_load</pack>
+    		<pack>gameplay_audio</pack>
+    		<pack>gameplay_universal</pack>
+    		<pack>cardcastle</pack>
+    		<pack>cardcastle_audio</pack>
+    		<pack>bunnyhill</pack>
+    		<pack>bunnyhill_audio</pack>
+    		<pack>magicforest</pack>
+    		<pack>magicforest_audio</pack>
+    		<pack>cutscene_universal</pack>
+    		<pack>cutscene1</pack>
+    		<pack>cutscene4</pack>
+    	</chunk>
+    
+    	<chunk id="initial">
+    		<pack>initial_load</pack> 	
+    		<pack>gameplay_audio</pack>
+    	</chunk>
+    	
+    	<chunk id="gameplay">
+    		<pack>gameplay_universal</pack>
+    	</chunk>
+    	<chunk id="level1">
+    		<pack>cardcastle</pack>
+    		<pack>cardcastle_audio</pack>
+    	</chunk>
+    	<chunk id="level2">
+    		<pack>bunnyhill</pack>
+    		<pack>bunnyhill_audio</pack>
+    	</chunk>
+    	<chunk id="level3">
+    		<pack>magicforest</pack>
+    		<pack>magicforest_audio</pack>
+    	</chunk>
+    	<chunk id="cutscene">
+    		<pack>cutscene_universal</pack>
+    	</chunk>
+    	<chunk id="cutscene1">
+    		<pack>cutscene1</pack>
+    	</chunk>
+    	<chunk id="cutscene4">
+    		<pack>cutscene4</pack>
+    	</chunk>
+
+        <!-- END OF CHUNKS -->
+    </chunks>
+    
+</config>

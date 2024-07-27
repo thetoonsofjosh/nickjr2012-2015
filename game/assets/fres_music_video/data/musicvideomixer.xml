@@ -1,0 +1,79 @@
+<data>
+	
+	<settings
+		
+
+	/>
+
+	<tuneInMessage url="TuneInFBB_02.swf"/>
+
+	<songs>
+		<assets>
+			<asset id="song01" type="swf" url="audio/song01.swf">
+				<title><![CDATA[Great Day]]></title>
+			</asset>
+			<asset id="song02" type="swf" url="audio/song02.swf">
+				<title><![CDATA[Go-Go-A-Go-Go]]></title>
+			</asset>
+			<asset id="song03" type="swf" url="audio/song03.swf">
+				<title><![CDATA[Loco Legs]]></title>
+			</asset>
+		</assets>
+	</songs>
+	
+	<audio>
+		<assets>
+			<asset id="titleStartButtonOver" type="audio" url="audio/vo/Marina_03.mp3"/>
+			<asset id="titleClickPlay" type="audio" url="audio/vo/Kiki_03.mp3"/>
+			
+			<asset id="tutorialSkipButtonOver" type="audio" url="audio/vo/Twist_04.mp3"/>
+			
+			<asset id="songSelectNextButtonOver" type="audio" url="audio/vo/Kiki_09.mp3"/>
+			<asset id="songSelectOnLoad" type="audio" url="audio/vo/Kiki_06.mp3"/>
+			<asset id="songSelectClickNext" type="audio" url="audio/vo/Shout_06.mp3"/>
+			<asset id="songButtonOver_song01" type="audio" url="audio/vo/Marina_07.mp3"/>
+			<asset id="songButtonOver_song02" type="audio" url="audio/vo/Kiki_08.mp3"/>
+			<asset id="songButtonOver_song03" type="audio" url="audio/vo/Shout_07.mp3"/>
+			<asset id="songSelectSongSelected" type="audio" url="audio/vo/Twist_05.mp3"/>
+			
+			<asset id="stageSelectNextButtonOver" type="audio" url="audio/vo/Shout_09.mp3"/>
+			<asset id="stageSelectOnLoad" type="audio" url="audio/vo/Twist_08.mp3"/>
+			<asset id="stageSelectThenClickNext" type="audio" url="audio/vo/Shout_08.mp3"/>
+			<asset id="stageSelectStageSelected" type="audio" url="audio/vo/Marina_08.mp3"/>
+			
+			<asset id="demoRecordLight" type="audio" url="audio/vo/demo/Twist_10.mp3"/>
+			<asset id="demoEffectsButtons" type="audio" url="audio/vo/demo/Shout_10.mp3"/>
+			<asset id="demoSolo" type="audio" url="audio/vo/demo/Marina_09.mp3"/>
+			<asset id="demoBananas" type="audio" url="audio/vo/demo/Kiki_11.mp3"/>
+			<asset id="demoLetsPlay" type="audio" url="audio/vo/demo/letsPlay.mp3"/>
+			<asset id="demoRecordToStart" type="audio" url="audio/vo/demo/Kiki_10.mp3"/>
+			
+			<asset id="demoRecordButtonOver" type="audio" url="audio/vo/demo/Marina_10.mp3"/>
+
+			<!-- <asset id="demoSkip" type="audio" url="audio/vo/demo/Twist_11.mp3"/> -->
+			
+			<asset id="mixerOnLoad" type="audio" url="audio/vo/TwistPU_01.mp3"/>
+			<asset id="mixerRecordButtonOver" type="audio" url="audio/vo/TwistPU_05.mp3"/>
+			<asset id="mixerCountdown" type="audio" url="audio/vo/Marina_11.mp3"/>
+			<asset id="mixerWatch" type="audio" url="audio/vo/Kiki_12.mp3"/>
+			
+			<asset id="playVideoPrompt" type="audio" url="audio/vo/TwistPU_09.mp3"/>
+
+			<asset id="onLoadKudos" type="audio" url="audio/vo/Twist_12.mp3"/>
+			<asset id="endScreenEncore" type="audio" url="audio/vo/endscreen1.mp3"/>
+			<asset id="endScreenPrint" type="audio" url="audio/vo/endscreen2.mp3"/>
+			<asset id="endScreenNewVideo" type="audio" url="audio/vo/endscreen3.mp3"/>
+			<asset id="endScreenPlayAgain" type="audio" url="audio/vo/endscreen4.mp3"/>
+			
+			<asset id="endScreenAgainButtonOver" type="audio" url="audio/vo/Kiki_14.mp3"/>
+			<asset id="endScreenPrintButtonOver" type="audio" url="audio/vo/Kiki_15.mp3"/>
+			<asset id="endScreenEncoreButtonOver" type="audio" url="audio/vo/Kiki_30.mp3"/>
+			
+			<asset id="endScreenPrintConfirmation" type="audio" url="audio/vo/Shout_14.mp3"/>
+			<asset id="endScreenPrintYes" type="audio" url="audio/vo/Marina_14.mp3"/>
+			<asset id="endScreenPrintNo" type="audio" url="audio/vo/Kiki_16.mp3"/>
+		</assets>
+	</audio>
+	
+	
+</data>

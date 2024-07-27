@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data dir="mp3/">
+	<music channel="music">
+		<sound file="shellMusic" volume="50" inLibrary="true" />
+		<sound file="sting" volume="50" loops="1" inLibrary="true" />
+	</music>
+
+
+	<sfx>
+		<sound file="RO_1.mp3" id="ro1" volume="15"/>
+		<sound file="Click_1.mp3" id="click1"/>
+		<sound file="RO_2.mp3" id="ro2" volume="15"/>
+		<sound file="Click_2.mp3" id="click2"/>
+		
+		<sound file="UMI_4.mp3" id="play"/>
+		<sound file="UZCS_5.mp3" id="skip"/>
+		
+		<!--sound file="UMI_25.mp3" id="backRO"--/><!-- go back to umi city -->
+		<sound file="UMI_26.mp3" id="backRO"/><!-- back -->
+		<!--sound file="UMI_27.mp3" id="backRO"/--><!-- choose new game -->
+	
+		<sound file="UMI_30.mp3" id="yes"/>
+		<sound file="UMI_31.mp3" id="no"/>
+		
+	</sfx>
+	
+	<vo channel="vo">
+		<sound file="UMI_1.mp3" id="titleScreenVO"/>
+		<sound file="UMI_2a.mp3" id="titleScreenVO"/>
+		<sound file="UMI_3.mp3" id="titleScreenVO"/>
+	
+		<sound file="UMI_3.mp3" id="titleDelay"/>
+		
+		<sound file="UMI_5.mp3" id="introVO"/>
+		<sound file="UMI_6.mp3" id="introVO"/>
+		<sound file="UMI_7.mp3" id="introVO"/>
+		<sound file="UMI_8.mp3" id="introVO"/>
+		<sound file="UMI_9.mp3" id="introVO"/>
+		<sound file="UMI_10.mp3" id="introVO"/>
+		<sound file="UMI_11.mp3" id="introVO"/>
+
+		<sound file="UMI_12.mp3" id="umiCity"/>
+		
+		<sound file="UMI_13.mp3" id="alarmVO"/>
+		<sound file="UMI_14.mp3" id="alarmVO"/>
+		<sound file="UMI_15.mp3" id="alarmVO"/>
+	
+		<sound file="UMI_16.mp3" id="mapIntroVO"/>
+		<!--sound file="UMI_17.mp3" id="mapIntroVO"/-->
+	
+		<sound file="UMI_18.mp3" id="mapDelay"/>
+		<!--sound file="UMI_19.mp3" id="mapDelay"/-->
+
+		<sound file="UMI_20.mp3" id="gameInactive"/>
+		
+		<sound file="UMI_21.mp3" id="gameLaunch1"/>
+		<sound file="UMI_22.mp3" id="gameLaunch2"/>
+		
+		<sound file="UMI_23.mp3" id="crazySkates"/>
+		<sound file="UZBM_1.mp3" id="blueMermaid"/>
+		<sound file="UCA_2.mp3" id="aquarium"/>
+		<sound file="UFT_1a.mp3" id="firetruck"/>
+		<sound file="UZKN_1.mp3" id="kingOfNumbers"/>
+		<sound file="UTS_2.mp3" id="toyStore"/>
+		
+		<sound file="UMI_28.mp3" id="quitConfirm" />
+		<sound file="UMI_29.mp3" id="quitConfirmAlt"/>
+	</vo>
+</data>

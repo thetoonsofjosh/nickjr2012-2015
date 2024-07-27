@@ -1,0 +1,344 @@
+<config>
+	<settings>
+		<debug>true</debug> <!-- Remove this line for deployment -->
+		<instructions>assets/video/Instructions.flv</instructions>
+		
+		<!-- <instructions>assets/video/Instructions.flv</instructions> -->
+		<groups>
+			<group type="boost">
+			  <item type="hazard" x="203.4" y="154.45"/>
+			  <item type="collectable" x="202.15" y="261.3"/>
+			  <item type="hazard" x="739.5" y="302.5"/>
+			  <item type="collectable" x="950.75" y="204.45"/>
+			  <item type="collectable" x="1186.6" y="295.45"/>
+			  <item type="hazard" x="1278.65" y="184.9"/>
+			  <item type="collectable" x="487.6" y="240.4"/>
+			  <item type="speed" x="766.6" y="190.2"/>
+			  <item type="collectable" x="1482.75" y="255.5"/>
+			</group>
+			<group>
+			  <item type="hazard" x="193.4" y="298.5"/>
+			  <item type="hazard" x="653.9" y="161.45"/>
+			  <item type="note" x="492.9" y="237.9"/>
+			  <item type="note" x="544.2" y="255.5"/>
+			  <item type="note" x="595.5" y="273.1"/>
+			  <item type="note" x="646.8" y="290.7"/>
+			  <item type="note" x="698.1" y="281.9"/>
+			  <item type="note" x="749.4" y="264.3"/>
+			  <item type="note" x="800.7" y="246.7"/>
+			  <item type="note" x="852" y="229.1"/>
+			</group>
+			<group type="instrument">
+			  <item type="collectable" x="526.6" y="276.35"/>
+			  <item type="collectable" x="303.55" y="181.45"/>
+			  <item type="collectable" x="749.65" y="181.45"/>
+			  <item type="instrument" x="1032.25" y="243.7"/>
+			</group>
+			<group>
+			  <item type="collectable" x="962.65" y="228.4"/>
+			  <item type="collectable" x="479.55" y="256.35"/>
+			  <item type="collectable" x="1138.7" y="183.4"/>
+			  <item type="collectable" x="638.6" y="288.35"/>
+			  <item type="collectable" x="797.65" y="264.35"/>
+			  <item type="hazard" x="637.95" y="190.05"/>
+			  <item type="ramp" x="240.15" y="266.05"/>
+			</group>
+			<group>
+			  <item type="collectable" x="142.6" y="181.3"/>
+			  <item type="collectable" x="738.65" y="199.9"/>
+			  <item type="hazard" x="420.95" y="166"/>
+			  <item type="hazard" x="733" y="302.05"/>
+			  <item type="hazard" x="1253" y="220"/>
+			  <item type="collectable" x="1256.7" y="289.3"/>
+			  <item type="collectable" x="992.7" y="259.95"/>
+			</group>
+			<group type="boost">
+			  <item type="collectable" x="187.5" y="214.95"/>
+			  <item type="collectable" x="618.55" y="220.35"/>
+			  <item type="hazard" x="956.9" y="292.05"/>
+			  <item type="hazard" x="510.9" y="144.4"/>
+			  <item type="speed" x="857.2" y="150.05"/>
+			  <item type="note" x="980.5" y="185.45"/>
+			  <item type="note" x="1038.85" y="200.55"/>
+			  <item type="note" x="1097.2" y="212.95"/>
+			  <item type="note" x="1155.55" y="225.65"/>
+			  <item type="note" x="1213.9" y="225.65"/>
+			  <item type="note" x="1272.25" y="212.95"/>
+			  <item type="note" x="1330.6" y="200.55"/>
+			  <item type="note" x="1388.95" y="185.45"/>
+			  <item type="collectable" x="2009.9" y="291"/>
+			</group>
+			<group type="boost">
+			  <item type="collectable" x="1084.75" y="226.35"/>
+			  <item type="collectable" x="797.6" y="226.35"/>
+			  <item type="speed" x="479.3" y="217.05"/>
+			  <item type="hazard" x="186.85" y="225.5"/>
+			  <item type="ramp" x="82.15" y="233.3"/>
+			</group>
+			<group type="boost">
+			  <item type="collectable" x="866.75" y="239.5"/>
+			  <item type="collectable" x="1353.85" y="286.35"/>
+			  <item type="hazard" x="1112.15" y="158.05"/>
+			  <item type="speed" x="293.3" y="242.05"/>
+			  <item type="note" x="376.5" y="253.1"/>
+			  <item type="note" x="427.8" y="253.1"/>
+			  <item type="note" x="479.1" y="253.1"/>
+			  <item type="note" x="530.4" y="253.1"/>
+			  <item type="note" x="581.7" y="253.1"/>
+			  <item type="note" x="633" y="253.1"/>
+			  <item type="note" x="684.3" y="253.1"/>
+			  <item type="note" x="735.6" y="253.1"/>
+			</group>
+			<group type="boost">
+			  <item type="collectable" x="202.15" y="229.3"/>
+			  <item type="hazard" x="203.4" y="302.5"/>
+			  <item type="collectable" x="707.45" y="289.45"/>
+			  <item type="hazard" x="1663.85" y="220.5"/>
+			  <item type="hazard" x="1043.25" y="172.25"/>
+			  <item type="speed" x="535.55" y="282.2"/>
+			  <item type="collectable" x="1663.75" y="292.4"/>
+			  <item type="ramp" x="911.1" y="174.3"/>
+			</group>
+			<group type="instrument">
+			  <item type="collectable" x="303.55" y="215.45"/>
+			  <item type="instrument" x="596.15" y="243.7"/>
+			  <item type="hazard" x="1079.85" y="222.55"/>
+			</group>
+		</groups>
+	</settings>
+	<assets>
+				
+		<!-- Assets for the main section -->
+		<section id="preloader">
+			<asset id="mainSection" src="assets/main.swf" />
+		</section>
+
+		<section id="library">
+			<asset id="ui" src="assets/views/screens_ui.swf" />
+			<asset id="sounds" src="assets/background_audio_loops.swf" />
+			<asset id="level_1_background_loops" src="assets/background_loops_level_1.swf" />
+			<asset id="level_2_background_loops" src="assets/background_loops_level_2.swf" />
+			<asset id="items" src="assets/views/game_objects.swf" />
+			<asset id="printable" src="assets/printable.swf" />
+		</section>
+		
+		<!-- Assets for the game itself -->
+		<section id="tiles">
+			<asset id="lev-1-fore" src="assets/images/lvl1_bg_fore.png" />
+			<asset id="lev-1-mid" src="assets/images/lvl1_bg_mid.png" />
+			<asset id="lev-1-back" src="assets/images/lvl1_bg_back.jpg" />
+			<asset id="lev-2-fore" src="assets/images/lvl2_bg_fore.png" />
+			<asset id="lev-2-back" src="assets/images/lvl2_bg_back.jpg" />
+		</section>
+		
+		<!-- Sounds -->
+		<sounds base="assets/sounds">
+			<pool id="vo_celebration_game_scene">
+				<asset id="line_109" src="vo/Celebration_End_Game_Scene/Line_109.mp3" />
+				<asset id="line_110" src="vo/Celebration_End_Game_Scene/Line_110.mp3" />
+				<asset id="line_111" src="vo/Celebration_End_Game_Scene/Line_111.mp3" />
+				<asset id="line_113" src="vo/Celebration_End_Game_Scene/Line_113.mp3" />
+				<asset id="line_114" src="vo/Celebration_End_Game_Scene/Line_114.mp3" />
+			</pool>
+			<pool id="music_celebration_game_scene">
+				<asset id="bg"		src="celebration/drg_music_songbackgroundv1mono.mp3" />
+				<asset id="benny"	src="celebration/drg_music_song_bennyvoxv1mono.mp3" />
+				<asset id="boots"	src="celebration/drg_music_song_bootsvoxv1mono.mp3" />
+				<asset id="dora"	src="celebration/drg_music_song_doravoxv1mono.mp3" />
+				<asset id="isa"		src="celebration/drg_music_song_isavoxv1mono.mp3" />
+				<asset id="tico"	src="celebration/drg_music_song_ticovoxv1mono.mp3" />
+			</pool>
+			<!-- Positive encouragement -->
+			<pool id="good">
+				<asset id="level1_1" src="vo/Encouragement_VO/Line_127.mp3" />
+				<asset id="level1_2" src="vo/Encouragement_VO/Line_128.mp3" />
+				<asset id="level0_0" src="vo/Encouragement_VO/Line_129.mp3" />
+				<asset id="level0_1" src="vo/Encouragement_VO/Line_130.mp3" />
+				<asset id="line_131" src="vo/Encouragement_VO/Line_131.mp3" />
+ 				<asset id="line_132" src="vo/Encouragement_VO/Line_132.mp3" />
+				<asset id="line_133" src="vo/Encouragement_VO/Line_133.mp3" />
+				<asset id="line_134" src="vo/Encouragement_VO/Line_134.mp3" />
+				<asset id="line_135b" src="vo/Encouragement_VO/Line_135b.mp3" />
+				<asset id="line_136" src="vo/Encouragement_VO/Line_136.mp3" />
+				<asset id="line_137" src="vo/Encouragement_VO/Line_137.mp3" />
+				<asset id="line_138" src="vo/Encouragement_VO/Line_138.mp3" />
+				<asset id="line_139" src="vo/Encouragement_VO/Line_139.mp3" />
+				<asset id="line_140" src="vo/Encouragement_VO/Line_140.mp3" />
+				<asset id="line_141" src="vo/Encouragement_VO/Line_141.mp3" />
+				<asset id="line_142" src="vo/Encouragement_VO/Line_142.mp3" />
+ 			</pool>
+			<!-- Plays when you have collided with an object in the game. -->
+			<pool id="hazard_collide">
+				<asset id="line_143" src="vo/Encouragement_VO/Line_143.mp3" />
+				<asset id="line_144" src="vo/Encouragement_VO/Line_144.mp3" />
+				<asset id="line_145" src="vo/Encouragement_VO/Line_145.mp3" />
+				<asset id="line_146" src="vo/Encouragement_VO/Line_146.mp3" />
+				<asset id="line_147" src="vo/Encouragement_VO/Line_147.mp3" />				
+			</pool>
+			<pool id="vo_instrument_collection">
+
+				<!-- Level 1 -->
+				<asset id="drums" src="vo/Instrument_collection_both_levels/Line_048.mp3" />
+				<!-- <asset id="drums_learn_1" src="vo/Instrument_collection_both_levels/Line_049.mp3" /> -->
+				<asset id="drums_learn_1" src="vo/Instrument_collection_both_levels/Line_050.mp3" />
+
+				<asset id="bass" src="vo/Instrument_collection_both_levels/Line_045.mp3" />
+				<!-- <asset id="bass_learn_1" src="vo/Instrument_collection_both_levels/Line_046.mp3" /> -->
+				<asset id="bass_learn_1" src="vo/Instrument_collection_both_levels/Line_046a.mp3" />
+
+				<!-- <asset id="bongos" src="vo/Instrument_collection_both_levels/Line_052.mp3" /> -->
+				<asset id="bongos" src="vo/MiniGame/Line_051.mp3" />
+				<!-- <asset id="bongos_learn_1" src="vo/Instrument_collection_both_levels/Line_053.mp3" /> -->
+				<asset id="bongos_learn_1" src="vo/Instrument_collection_both_levels/Line_053a.mp3" />
+
+				<!-- Level 2 -->
+				<asset id="guitar" src="vo/Instrument_collection_both_levels/Line_037.mp3" />
+				<!-- <asset id="guitar_learn_1" src="vo/Instrument_collection_both_levels/Line_038.mp3" /> -->
+				<asset id="guitar_learn_1" src="vo/Instrument_collection_both_levels/Line_039a.mp3" />
+				
+				<asset id="keyboard" src="vo/Instrument_collection_both_levels/Line_040.mp3" />
+				<!-- <asset id="keyboard_learn_1" src="vo/Instrument_collection_both_levels/Line_043.mp3" /> -->
+				<asset id="keyboard_learn_1" src="vo/Instrument_collection_both_levels/Line_043a.mp3" />
+				
+				<asset id="flute" src="vo/Instrument_collection_both_levels/Line_056.mp3" />
+				<!-- <asset id="flute_learn_1" src="vo/Instrument_collection_both_levels/Line_057.mp3" /> -->
+				<asset id="flute_learn_1" src="vo/Instrument_collection_both_levels/Line_058a.mp3" />
+
+				<asset id="mic" src="vo/Instrument_collection_both_levels/Line_065.mp3" />
+<!-- 				<asset id="mic_learn_1" src="vo/Instrument_collection_both_levels/Line_067.mp3" />
+				<asset id="mic_learn_2" src="vo/Instrument_collection_both_levels/Line_070.mp3" />
+ -->
+				<!-- Other lines -->
+				<asset id="get_microphone" src="vo/Instrument_collection_both_levels/Line_064.mp3" />
+
+<!-- 				<asset id="line_058" src="vo/Instrument_collection_both_levels/Line_058.mp3" />
+				<asset id="line_067" src="vo/Instrument_collection_both_levels/Line_067.mp3" />
+				<asset id="line_069" src="vo/Instrument_collection_both_levels/Line_069.mp3" />
+				<asset id="line_070" src="vo/Instrument_collection_both_levels/Line_070.mp3" />
+ -->
+ 			</pool>
+			<pool id="vo_minigame">
+				<asset id="line_071" src="vo/MiniGame/Line_071.mp3" />
+				<asset id="line_072" src="vo/MiniGame/Line_072.mp3" />
+				<asset id="line_071b" src="vo/MiniGame/Line_071b.mp3" />
+				<!-- <asset id="line_074" src="vo/MiniGame/Line_074.mp3" /> -->
+				<asset id="line_075" src="vo/MiniGame/Line_075.mp3" />
+				<asset id="line_076" src="vo/MiniGame/Line_076.mp3" />
+				<asset id="line_077" src="vo/MiniGame/Line_077.mp3" />
+				<asset id="line_078" src="vo/MiniGame/Line_078.mp3" />
+				<asset id="line_079" src="vo/MiniGame/Line_079.mp3" />
+				<!-- <asset id="line_080" src="vo/MiniGame/Line_080.mp3" /> -->
+				<asset id="line_081" src="vo/MiniGame/Line_053b.mp3" />
+				<!-- <asset id="line_081" src="vo/MiniGame/Line_081.mp3" /> -->
+				<asset id="line_082" src="vo/MiniGame/Line_044.mp3" />
+				<!-- <asset id="line_082" src="vo/MiniGame/Line_082.mp3" /> -->
+				<asset id="line_083" src="vo/MiniGame/Line_083.mp3" />
+				<asset id="line_085" src="vo/MiniGame/Line_085.mp3" />
+				<asset id="line_086" src="vo/Instrument_collection_both_levels/Line_047.mp3" />
+				<!-- <asset id="line_086" src="vo/MiniGame/Line_086.mp3" /> -->
+				<asset id="line_092" src="vo/MiniGame/Line_092.mp3" />
+				<asset id="line_093" src="vo/MiniGame/Line_093.mp3" />
+				<asset id="line_095" src="vo/MiniGame/Line_095.mp3" />
+				<asset id="line_096" src="vo/MiniGame/Line_096.mp3" />
+				<asset id="line_097" src="vo/MiniGame/Line_097.mp3" />
+				<asset id="line_098" src="vo/MiniGame/Line_098.mp3" />
+				<asset id="line_099" src="vo/MiniGame/Line_099.mp3" />
+			</pool>
+			<pool id="vo_printable_activity">
+				<asset id="line_115" src="vo/Printable_Activity_Play Again/Line_115.mp3" />
+				<asset id="line_116" src="vo/Printable_Activity_Play Again/Line_116.mp3" />
+				<asset id="line_118" src="vo/Printable_Activity_Play Again/Line_118.mp3" />
+				<!-- <asset id="line_119" src="vo/Printable_Activity_Play Again/Line_119.mp3" /> -->
+			</pool>
+			<pool id="level1vo">
+				<asset id="30" src="vo/Scroller_Gameplay_Level_1/Line_030.mp3" />
+			</pool>
+			<pool id="tempo">
+				<asset id="faster" src="vo/Scroller_Gameplay_Level_1/Line_031.mp3" />
+				<asset id="slower" src="vo/Scroller_Gameplay_Level_1/Line_032.mp3" />
+			</pool>
+			<pool id="level2vo">
+				<asset id="100" src="vo/Scroller_Gameplay_Level_2/Line_100.mp3" />
+				<asset id="101" src="vo/Scroller_Gameplay_Level_2/Line_101.mp3" />
+				<asset id="102" src="vo/Scroller_Gameplay_Level_2/Line_102.mp3" />
+				<asset id="103" src="vo/Scroller_Gameplay_Level_2/Line_103.mp3" />
+			</pool>
+			
+			<!-- Voiceover that plays before a game level ends and goes to the next part in the game. -->
+			<pool id="scroll_exit">
+				<asset id="0" src="vo/Scroller_Gameplay_Level_1/Line_034.mp3" />
+				<asset id="1" src="vo/Scroller_Gameplay_Level_2/Line_068.mp3" />
+				<asset id="1_1" src="vo/Scroller_Gameplay_Level_2/Line_070.mp3" />
+				<asset id="1_2" src="vo/Scroller_Gameplay_Level_2/Line_107.mp3" />
+			</pool>
+			
+			<pool id="hazard_inactivity">
+				<asset id="line_023" src="vo/Scroller_periodic_prompt_and_Inactivity/Line_023.mp3" />
+				<asset id="line_024" src="vo/Scroller_periodic_prompt_and_Inactivity/Line_024.mp3" />
+				<asset id="line_025" src="vo/Scroller_periodic_prompt_and_Inactivity/Line_025.mp3" />
+				<asset id="line_026" src="vo/Scroller_periodic_prompt_and_Inactivity/Line_026.mp3" />
+				<asset id="line_027" src="vo/Scroller_periodic_prompt_and_Inactivity/Line_027.mp3" />
+				<asset id="line_028" src="vo/Scroller_periodic_prompt_and_Inactivity/Line_028.mp3" />
+			</pool>
+			
+			<pool id="vo_setup_cut_scene">
+				<asset id="line_003" src="vo/Setup_Cut_Scene/Line_003.mp3" />
+				<asset id="line_004" src="vo/Setup_Cut_Scene/Line_004.mp3" />
+				<asset id="line_005" src="vo/Setup_Cut_Scene/Line_005.mp3" />
+				<asset id="line_006" src="vo/Setup_Cut_Scene/Line_006.mp3" />
+				<asset id="line_007" src="vo/Setup_Cut_Scene/Line_007.mp3" />
+				<asset id="line_008" src="vo/Setup_Cut_Scene/Line_008.mp3" />
+				<asset id="line_011" src="vo/Setup_Cut_Scene/Line_011.mp3" />
+				<asset id="line_012" src="vo/Setup_Cut_Scene/Line_012.mp3" />
+			</pool>
+			<pool id="vo_title_screen">
+				<asset id="line_001" src="vo/TitleScreen/Line_001.mp3" />
+			</pool>
+			
+			<pool id="mini_game_section">
+				<asset id="instrument_sound_1" src="minigame_bass_sound.mp3" />
+				<asset id="instrument_sound_2" src="minigame_cowbell_sound.mp3" />
+				<asset id="instrument_sound_3" src="minigame_drum_sound.mp3" />
+			</pool>
+			
+			<pool id="mini_game_section_negative_vo">
+				<asset id="vo_1" src="vo/MiniGame/Line_092.mp3" />
+				<asset id="vo_2" src="vo/MiniGame/Line_095.mp3" />
+			</pool>
+			
+			<pool id="fx">
+				<asset id="land" src="fx/land.mp3" maxVolume=".5" />
+				<asset id="mud" src="fx/mud.mp3" maxVolume=".5" />
+				<asset id="reeds" src="fx/reeds.mp3" maxVolume=".5" />
+				<asset id="rock_crash" src="fx/rock_crash.mp3" />
+				<asset id="speed" src="fx/speed.mp3" maxVolume=".3" />
+				<asset id="speed_water" src="fx/speed_water.mp3" maxVolume=".3" />
+				<asset id="whirlpool" src="fx/whirlpool.mp3" maxVolume=".5" />
+				<asset id="frog" src="fx/frog.mp3" maxVolume="1" overlap="noPlay" />
+				<asset id="jump" src="fx/jump.mp3" maxVolume=".3" />
+				<asset id="jump_water" src="fx/jump_water.mp3" maxVolume=".3" />
+				<asset id="collect" src="fx/party_pickup.mp3" maxVolume=".35" />
+				<asset id="rollover" src="fx/rollover.mp3" />
+				<asset id="note1" src="notes/1-drg_eb.mp3" />
+				<asset id="note2" src="notes/2-drg_f.mp3" />
+				<asset id="note3" src="notes/3-drg_g.mp3" />
+				<asset id="note4" src="notes/4-drg_ab.mp3" />
+				<asset id="note5" src="notes/5-drg_bb.mp3" />
+				<asset id="note6" src="notes/6-drg_c.mp3" />
+				<asset id="note7" src="notes/7-drg_d.mp3" />
+				<asset id="note8" src="notes/8-drg_eb.mp3" />
+			</pool>
+			
+			<pool id="button" overlap="playNew">
+				<asset id="click_play" src="buttons/Line_002.mp3" />
+				<asset id="play" src="buttons/Line_121.mp3" />
+				<asset id="skip" src="buttons/Line_122.mp3" />
+				<asset id="print" src="buttons/Line_123.mp3" />
+				<asset id="play_again" src="buttons/Line_124.mp3" />
+				<asset id="next" src="buttons/Line_125.mp3" />
+				<asset id="back" src="buttons/Line_126.mp3" />
+			</pool>
+
+		</sounds>
+	</assets>
+</config>

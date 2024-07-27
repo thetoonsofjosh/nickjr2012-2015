@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data dir="/game/assets/umiz_city/mp3/">
+	<music channel="music">
+		<sound file="bmintroLoop" id="introLoop" volume="50" inLibrary="true" />
+		<sound file="bmmusicLevel3" id="musicLevel3" volume="50" inLibrary="true" />
+		<sound file="bmmusicLevels1and2" id="musicLevels1and2" loops="10000" volume="50" inLibrary="true" />
+		<sound file="bmsting1" id="sting1" volume="50" loops="1" inLibrary="true" />
+		<sound file="bmsting2" id="sting2" volume="50" loops="1" inLibrary="true" />
+		<sound file="bmRescueMeAtCastle" volume="100" loops="1" inLibrary="true" />
+		<sound file="bmEveilLaughToKeys" volume="100" loops="1" inLibrary="true" />
+		<sound file="TimeForAction" volume="100" loops="1" inLibrary="true" />
+
+	</music>
+
+
+	<sfx>
+		<sound file="A1" id="A1" volume="75" inLibrary="true" />
+		<sound file="A2" id="A2" volume="75" inLibrary="true" />
+		<sound file="C2" id="C1" volume="75" inLibrary="true" />  <!-- temporary -->
+		<sound file="C2" id="C2" volume="75" inLibrary="true" />
+		<sound file="C3" id="C3" volume="75" inLibrary="true" />
+		<sound file="D2" id="D1" volume="75" inLibrary="true" />  <!-- temporary -->
+		<sound file="D2" id="D2" volume="75" inLibrary="true" />
+		<sound file="D3" id="D3" volume="75" inLibrary="true" />
+		<sound file="E2" id="E1" volume="75" inLibrary="true" />  <!-- temporary -->
+		<sound file="E2" id="E2" volume="75" inLibrary="true" />
+		<sound file="E3" id="E3" volume="75" inLibrary="true" />
+		<sound file="F1" id="F1" volume="75" inLibrary="true" />
+		<sound file="F2" id="F2" volume="75" inLibrary="true" />
+		<sound file="F3" id="F3" volume="75" inLibrary="true" />
+		<sound file="G1" id="G1" volume="75" inLibrary="true" />
+		<sound file="G2" id="G2" volume="75" inLibrary="true" />
+
+		<sound file="goodBubbleRise" id="goodBubbleRise" volume="75" inLibrary="true" />
+		<sound file="hitSquiddy" id="hitSquiddy" volume="75" inLibrary="true" />
+		<sound file="machineJump" id="machineJump" volume="75" inLibrary="true" />
+		<sound file="machineWalk" id="machineWalk" volume="20" loops="100000" inLibrary="true" />
+		<sound file="shootBubbleShort" id="shootBubbleShort" volume="75" inLibrary="true" />
+		<sound file="slide1" id="slide1" volume="75" inLibrary="true" />
+		<sound file="BlowFish1" id="blowFishInhale" volume="50" inLibrary="true" />
+		<sound file="BlowFish2" id="blowFishExhale" volume="50" inLibrary="true" />
+		<sound file="sponge" id="sponge" volume="50" inLibrary="true" />
+		<sound file="sponge" id="crabBump" volume="50" inLibrary="true" />
+		<sound file="getShape" id="correctAnswer" volume="50" inLibrary="true" />
+		<sound file="wrongShape" id="wrongAnswer" volume="50" inLibrary="true" />
+		<sound file="badBubbleSpin" id="wrongAnswerSpin" volume="50" inLibrary="true" />
+		<sound file="CA_Pod" id="correctAnswerLightsFlash" volume="50" inLibrary="true" />
+		<sound file="JumpRise" id="prejumpNoise" volume="50" inLibrary="true" />
+		<sound file="Pod_BigJumpLand" id="bigJumpFalling" volume="50" inLibrary="true" />
+		<sound file="bump" id="bump" volume="50" inLibrary="true" />
+		<sound file="platformBreak" id="platformBreak" volume="50" inLibrary="true" />
+		<sound file="Geiser" id="geiser" volume="50" inLibrary="true" />
+		<sound file="BlowFish1" id="BlowFish1" volume="50" inLibrary="true" />
+		<sound file="BlowFish2" id="BlowFish2" volume="50" inLibrary="true" />
+		<sound file="ChestOpen" id="ChestOpen" volume="50" inLibrary="true" />
+		<sound file="hilite" id="hilite" volume="50" inLibrary="true" />
+		<sound file="Click1" id="Click1" volume="20" inLibrary="true" />
+		<sound file="Click2" id="Click2" volume="20" inLibrary="true" />
+		<sound file="RO1" id="RO1" volume="20" inLibrary="true" />
+		<sound file="RO2" id="RO2" volume="20" inLibrary="true" />
+		<sound file="RO2" id="RO2" volume="20" inLibrary="true" />
+		<sound file="RO_10" id="RO_10" volume="50" inLibrary="true" />
+		<sound file="MermaidShine20" volume="100" inLibrary="true" />
+		<sound file="key1" volume="100" inLibrary="true" />
+		<sound file="key2" volume="100" inLibrary="true" />
+		<sound file="key3" volume="100" inLibrary="true" />
+		<sound file="FishSwimBy1" volume="100" inLibrary="true" />
+		<sound file="BlowScales" volume="100" inLibrary="true" />
+		<sound file="crab" id="CrabPinchers" loops="10000" volume="50" inLibrary="true" />
+		<sound file="scales" volume="100" inLibrary="true" />
+		<sound file="ShapeHilite1" volume="100" inLibrary="true" />
+		<sound file="machineWalk2_1" volume="100" inLibrary="true" />
+		<sound file="G1a" volume="100" inLibrary="true" />
+		<sound file="G2a" volume="100" inLibrary="true" />
+		<sound file="F2a" volume="100" inLibrary="true" />
+		<sound file="F3a" volume="100" inLibrary="true" />
+		<sound file="machineWalk2_2" volume="100" inLibrary="true" />
+		<sound file="machineWalk2_3" volume="100" inLibrary="true" />
+		<sound file="machineWalk2_4" volume="100" inLibrary="true" />
+		<sound file="machineWalk2_5" volume="100" inLibrary="true" />
+		<sound file="machineWalk2_6" volume="100" inLibrary="true" />
+		<sound file="shoot" volume="100" inLibrary="true" />
+
+	</sfx>
+	
+	<vo channel="vo">
+	<!--
+		<sound file="UZBM_4.mp3" volume="100" id="UZBM_4"/>
+		<sound file="UZBM_5.mp3" volume="100" id="UZBM_5"/>
+		<sound file="UZBM_6.mp3" volume="100" id="UZBM_6"/>
+		<sound file="UZBM_7.mp3" volume="100" id="UZBM_7"/>
+		<sound file="UZBM_8.mp3" volume="100" id="UZBM_8"/>
+		<sound file="UZBM_9.mp3" volume="100" id="UZBM_9"/>
+		<sound file="UZBM_11.mp3" volume="100" id="UZBM_11"/>
+		<sound file="UZBM_13.mp3" volume="100" id="UZBM_13"/>
+		<sound file="UZBM_14.mp3" volume="100" id="UZBM_14"/>
+		<sound file="UZBM_15.mp3" volume="100" id="UZBM_15"/>
+		<sound file="UZBM_16.mp3" volume="100" id="UZBM_16"/>
+		<sound file="UZBM_17.mp3" volume="100" id="UZBM_17"/>
+		<sound file="UZBM_18.mp3" volume="100" id="UZBM_18"/>
+		<sound file="UZBM_37.mp3" volume="100" id="UZBM_37"/>
+		<sound file="UZBM_39.mp3" volume="100" id="UZBM_39"/>
+		<sound file="UZBM_40.mp3" volume="100" id="UZBM_40"/>
+		<sound file="UZBM_43.mp3" volume="100" id="UZBM_43"/>
+		<sound file="UZBM_44.mp3" volume="100" id="UZBM_44"/>
+		<sound file="UZBM_45.mp3" volume="100" id="UZBM_45"/>
+		<sound file="UZBM_46.mp3" volume="100" id="UZBM_46"/>
+		<sound file="UZBM_47.mp3" volume="100" id="UZBM_47"/>
+		<sound file="UZBM_48.mp3" volume="100" id="UZBM_48"/>
+		<sound file="UZBM_49.mp3" volume="100" id="UZBM_49"/>
+		<sound file="UZBM_66.mp3" volume="100" id="UZBM_66"/>
+		<sound file="UZBM_67.mp3" volume="100" id="UZBM_67"/>
+		<sound file="UZBM_68.mp3" volume="100" id="UZBM_68"/>
+		<sound file="UZBM_70.mp3" volume="100" id="UZBM_70"/>
+		<sound file="UZBM_72.mp3" volume="100" id="UZBM_72"/>
+		<sound file="UZBM_73.mp3" volume="100" id="UZBM_73"/>
+		<sound file="UZBM_74.mp3" volume="100" id="UZBM_74"/>
+		<sound file="UZBM_75.mp3" volume="100" id="UZBM_75"/>
+		<sound file="UZBM_76.mp3" volume="100" id="UZBM_76"/>
+		<sound file="UZBM_77.mp3" volume="100" id="UZBM_77"/>
+		<sound file="UZBM_78.mp3" volume="100" id="UZBM_78"/>
+		<sound file="UZBM_79.mp3" volume="100" id="UZBM_79"/>
+		<sound file="UZBM_80.mp3" volume="100" id="UZBM_80"/>
+		<sound file="UZBM_81.mp3" volume="100" id="UZBM_81"/>
+		<sound file="UZBM_82.mp3" volume="100" id="UZBM_82"/>
+		<sound file="UZBM_84_21.mp3" volume="100" id="UZBM_84_21"/>
+		<sound file="UZBM_84_22.mp3" volume="100" id="UZBM_84_22"/>
+		<sound file="UZBM_84_23.mp3" volume="100" id="UZBM_84_23"/>
+		<sound file="UZBM_84_24.mp3" volume="100" id="UZBM_84_24"/>
+		<sound file="UZBM_84_25.mp3" volume="100" id="UZBM_84_25"/>
+		<sound file="UZBM_84_26.mp3" volume="100" id="UZBM_84_26"/>
+		<sound file="UZBM_84_27.mp3" volume="100" id="UZBM_84_27"/>
+		<sound file="UZBM_84_28.mp3" volume="100" id="UZBM_84_28"/>
+		<sound file="UZBM_84_29.mp3" volume="100" id="UZBM_84_29"/>
+		<sound file="UZBM_84_30.mp3" volume="100" id="UZBM_84_30"/>
+		<sound file="UZBM_87.mp3" volume="100" id="UZBM_87"/>
+		<sound file="UZBM_97.mp3" volume="100" id="UZBM_97"/>
+		<sound file="UZBM_98.mp3" volume="100" id="UZBM_98"/>
+		<sound file="UZBM_99.mp3" volume="100" id="UZBM_99"/>
+		<sound file="UZBM_103.mp3" volume="100" id="UZBM_103"/>
+		<sound file="UZBM_105.mp3" volume="100" id="UZBM_105"/>
+		<sound file="UZBM_106.mp3" volume="100" id="UZBM_106"/>
+		<sound file="UZBM_107.mp3" volume="100" id="UZBM_107"/>
+		<sound file="UZBM_108.mp3" volume="100" id="UZBM_108"/>
+		<sound file="UZBM_109.mp3" volume="100" id="UZBM_109"/>
+		<sound file="UZBM_110.mp3" volume="100" id="UZBM_110"/>
+		<sound file="UZBM_111.mp3" volume="100" id="UZBM_111"/>
+		<sound file="UZBM_112.mp3" volume="100" id="UZBM_112"/>
+		<sound file="UZBM_113.mp3" volume="100" id="UZBM_113"/>
+		<sound file="UZBM_116.mp3" volume="100" id="UZBM_116"/>
+		<sound file="UZBM_117.mp3" volume="100" id="UZBM_117"/>
+		<sound file="UZBM_122.mp3" volume="100" id="UZBM_122"/>
+		<sound file="UZBM_123.mp3" volume="100" id="UZBM_123"/>
+		<sound file="UZBM_127.mp3" volume="100" id="UZBM_127"/>
+		<sound file="UZBM_131.mp3" volume="100" id="UZBM_131"/>
+		<sound file="UZBM_132.mp3" volume="100" id="UZBM_132"/>
+		<sound file="UZBM_136.mp3" volume="100" id="UZBM_136"/>
+		<sound file="UZBM_138.mp3" volume="100" id="UZBM_138"/>
+		<sound file="UZBM_142.mp3" volume="100" id="UZBM_142"/>
+		<sound file="UZBM_143.mp3" volume="100" id="UZBM_143"/>
+		<sound file="UZBM_144.mp3" volume="100" id="UZBM_144"/>
+		<sound file="UZBM_147.mp3" volume="100" id="UZBM_147"/>
+	-->
+		<sound file="UZBM_1.mp3" volume="100" id="UZBM_1"/>
+		<sound file="UZBM_1A.mp3" volume="100" id="UZBM_1a"/>
+		<sound file="UZBM_2.mp3" volume="100" id="UZBM_2"/>
+		<sound file="UZBM_2A.mp3" volume="100" id="UZBM_2a"/>
+		<sound file="UZBM_3.mp3" volume="100" id="UZBM_3"/>
+		<sound file="UZBM_12.mp3" volume="100" id="UZBM_12"/>
+		<sound file="UZBM_19.mp3" volume="100" id="UZBM_19"/>
+		<sound file="UZBM_20.mp3" volume="100" id="UZBM_20"/>
+		<sound file="UZBM_21.mp3" volume="100" id="UZBM_21"/>
+		<sound file="UZBM_22.mp3" volume="100" id="UZBM_22"/>
+		<sound file="UZBM_22A.mp3" volume="100" id="UZBM_22A"/>
+		<sound file="UZBM_22b.mp3" volume="100" id="UZBM_22b"/>
+		<sound file="UZBM_22c.mp3" volume="100" id="UZBM_22c"/>
+		<sound file="UZBM_23a.mp3" volume="100" id="UZBM_23a"/>
+		<sound file="UZBM_23b.mp3" volume="100" id="UZBM_23b"/>
+		<sound file="UZBM_23c.mp3" volume="100" id="UZBM_23c"/>
+		<sound file="UZBM_23d.mp3" volume="100" id="UZBM_23d"/>
+		<sound file="UZBM_23e.mp3" volume="100" id="UZBM_23e"/>
+		<sound file="UZBM_23f.mp3" volume="100" id="UZBM_23f"/>
+		<sound file="UZBM_23g.mp3" volume="100" id="UZBM_23g"/>
+		<sound file="UZBM_23h.mp3" volume="100" id="UZBM_23h"/>
+		<sound file="UZBM_23i.mp3" volume="100" id="UZBM_23i"/>
+		<sound file="UZBM_23j.mp3" volume="100" id="UZBM_23j"/>
+		<sound file="UZBM_23k.mp3" volume="100" id="UZBM_23k"/>
+		<sound file="UZBM_23l.mp3" volume="100" id="UZBM_23l"/>
+		<sound file="UZBM_24.mp3" volume="100" id="UZBM_24"/>
+		<sound file="UZBM_24A.mp3" volume="100" id="UZBM_24A"/>
+		<sound file="UZBM_24B.mp3" volume="100" id="UZBM_24B"/>
+		<sound file="UZBM_25.mp3" volume="100" id="UZBM_25"/>
+		<sound file="UZBM_26.mp3" volume="100" id="UZBM_26"/>
+		<sound file="UZBM_27.mp3" volume="100" id="UZBM_27"/>
+		<sound file="UZBM_28.mp3" volume="100" id="UZBM_28"/>
+		<sound file="UZBM_29.mp3" volume="100" id="UZBM_29"/>
+		<sound file="UZBM_29a.mp3" volume="100" id="UZBM_29a"/>
+		<sound file="UZBM_30.mp3" volume="100" id="UZBM_30"/>
+		<sound file="UZBM_31.mp3" volume="100" id="UZBM_31"/>
+		<sound file="UZBM_32.mp3" volume="100" id="UZBM_32"/>
+		<sound file="UZBM_33.mp3" volume="100" id="UZBM_33"/>
+		<sound file="UZBM_34.mp3" volume="100" id="UZBM_34"/>
+		<sound file="UZBM_34a.mp3" volume="100" id="UZBM_34a"/>
+		<sound file="UZBM_35.mp3" volume="100" id="UZBM_35"/>
+		<sound file="UZBM_35a.mp3" volume="100" id="UZBM_35a"/>
+		<sound file="UZBM_36.mp3" volume="100" id="UZBM_36"/>
+		<sound file="UZBM_38.mp3" volume="100" id="UZBM_38"/>
+		<sound file="UZBM_41.mp3" volume="100" id="UZBM_41"/>
+		<sound file="UZBM_42.mp3" volume="100" id="UZBM_42"/>
+		<sound file="UZBM_42A.mp3" volume="100" id="UZBM_42A"/>
+		<sound file="UZBM_42b.mp3" volume="100" id="UZBM_42b"/>
+		<sound file="UZBM_50.mp3" volume="100" id="UZBM_50"/>
+		<sound file="UZBM_50A.mp3" volume="100" id="UZBM_50A"/>
+		<sound file="UZBM_50b.mp3" volume="100" id="UZBM_50b"/>
+		<sound file="UZBM_50c.mp3" volume="100" id="UZBM_50c"/>
+		<sound file="UZBM_50d.mp3" volume="100" id="UZBM_50d"/>
+		<sound file="UZBM_51.mp3" volume="100" id="UZBM_51"/>
+		<sound file="UZBM_52.mp3" volume="100" id="UZBM_52"/>
+		<sound file="UZBM_53.mp3" volume="100" id="UZBM_53"/>
+		<sound file="UZBM_54.mp3" volume="100" id="UZBM_54"/>
+		<sound file="UZBM_55.mp3" volume="100" id="UZBM_55"/>
+		<sound file="UZBM_56.mp3" volume="100" id="UZBM_56"/>
+		<sound file="UZBM_57.mp3" volume="100" id="UZBM_57"/>
+		<sound file="UZBM_58.mp3" volume="100" id="UZBM_58"/>
+		<sound file="UZBM_58a.mp3" volume="100" id="UZBM_58a"/>
+		<sound file="UZBM_58b.mp3" volume="100" id="UZBM_58b"/>
+		<sound file="UZBM_58c.mp3" volume="100" id="UZBM_58c"/>
+		<sound file="UZBM_59.mp3" volume="100" id="UZBM_59"/>
+		<sound file="UZBM_60.mp3" volume="100" id="UZBM_60"/>
+		<sound file="UZBM_61.mp3" volume="100" id="UZBM_61"/>
+		<sound file="UZBM_62.mp3" volume="100" id="UZBM_62"/>
+		<sound file="UZBM_63.mp3" volume="100" id="UZBM_63"/>
+		<sound file="UZBM_63b.mp3" volume="100" id="UZBM_63b"/>
+		<sound file="UZBM_64.mp3" volume="100" id="UZBM_64"/>
+		<sound file="UZBM_65.mp3" volume="100" id="UZBM_65"/>
+		<sound file="UZBM_69.mp3" volume="100" id="UZBM_69"/>
+		<sound file="UZBM_71.mp3" volume="100" id="UZBM_71"/>
+		<sound file="UZBM_83.mp3" volume="100" id="UZBM_83"/>
+		<sound file="UZBM_83A.mp3" volume="100" id="UZBM_83A"/>
+		<sound file="UZBM_84_1.mp3" volume="100" id="UZBM_84_1"/>
+		<sound file="UZBM_84_2.mp3" volume="100" id="UZBM_84_2"/>
+		<sound file="UZBM_84_3.mp3" volume="100" id="UZBM_84_3"/>
+		<sound file="UZBM_84_4.mp3" volume="100" id="UZBM_84_4"/>
+		<sound file="UZBM_84_5.mp3" volume="100" id="UZBM_84_5"/>
+		<sound file="UZBM_84_6.mp3" volume="100" id="UZBM_84_6"/>
+		<sound file="UZBM_84_7.mp3" volume="100" id="UZBM_84_7"/>
+		<sound file="UZBM_84_8.mp3" volume="100" id="UZBM_84_8"/>
+		<sound file="UZBM_84_9.mp3" volume="100" id="UZBM_84_9"/>
+		<sound file="UZBM_84_10.mp3" volume="100" id="UZBM_84_10"/>
+		<sound file="UZBM_84_11.mp3" volume="100" id="UZBM_84_11"/>
+		<sound file="UZBM_84_12.mp3" volume="100" id="UZBM_84_12"/>
+		<sound file="UZBM_84_13.mp3" volume="100" id="UZBM_84_13"/>
+		<sound file="UZBM_84_14.mp3" volume="100" id="UZBM_84_14"/>
+		<sound file="UZBM_84_15.mp3" volume="100" id="UZBM_84_15"/>
+		<sound file="UZBM_84_16.mp3" volume="100" id="UZBM_84_16"/>
+		<sound file="UZBM_84_17.mp3" volume="100" id="UZBM_84_17"/>
+		<sound file="UZBM_84_18.mp3" volume="100" id="UZBM_84_18"/>
+		<sound file="UZBM_84_19.mp3" volume="100" id="UZBM_84_19"/>
+		<sound file="UZBM_84_20.mp3" volume="100" id="UZBM_84_20"/>
+		<sound file="UZBM_85.mp3" volume="100" id="UZBM_85"/>
+		<sound file="UZBM_86.mp3" volume="100" id="UZBM_86"/>
+		<sound file="UZBM_88.mp3" volume="100" id="UZBM_88"/>
+		<sound file="UZBM_89.mp3" volume="100" id="UZBM_89"/>
+		<sound file="UZBM_90.mp3" volume="100" id="UZBM_90"/>
+		<sound file="UZBM_91.mp3" volume="100" id="UZBM_91"/>
+		<sound file="UZBM_92.mp3" volume="100" id="UZBM_92"/>
+		<sound file="UZBM_93.mp3" volume="100" id="UZBM_93"/>
+		<sound file="UZBM_93a.mp3" volume="100" id="UZBM_93a"/>
+		<sound file="UZBM_94.mp3" volume="100" id="UZBM_94"/>
+		<sound file="UZBM_95.mp3" volume="100" id="UZBM_95"/>
+		<sound file="UZBM_96.mp3" volume="100" id="UZBM_96"/>
+		<sound file="UZBM_100.mp3" volume="100" id="UZBM_100"/>
+		<sound file="UZBM_101.mp3" volume="100" id="UZBM_101"/>
+		<sound file="UZBM_102.mp3" volume="100" id="UZBM_102"/>
+		<sound file="UZBM_104.mp3" volume="100" id="UZBM_104"/>
+		<sound file="UZBM_114.mp3" volume="100" id="UZBM_114"/>
+		<sound file="UZBM_115.mp3" volume="100" id="UZBM_115"/>
+		<sound file="UZBM_118.mp3" volume="100" id="UZBM_118"/>
+		<sound file="UZBM_119.mp3" volume="100" id="UZBM_119"/>
+		<sound file="UZBM_120.mp3" volume="100" id="UZBM_120"/>
+		<sound file="UZBM_120a.mp3" volume="100" id="UZBM_120a"/>
+		<sound file="UZBM_121.mp3" volume="100" id="UZBM_121"/>
+		<sound file="UZBM_124.mp3" volume="100" id="UZBM_124"/>
+		<sound file="UZBM_125.mp3" volume="100" id="UZBM_125"/>
+		<sound file="UZBM_126.mp3" volume="100" id="UZBM_126"/>
+		<sound file="UZBM_126a.mp3" volume="100" id="UZBM_126a"/>
+		<sound file="UZBM_128.mp3" volume="100" id="UZBM_128"/>
+		<sound file="UZBM_129.mp3" volume="100" id="UZBM_129"/>
+		<sound file="UZBM_130.mp3" volume="100" id="UZBM_130"/>
+		<sound file="UZBM_133.mp3" volume="100" id="UZBM_133"/>
+		<sound file="UZBM_134.mp3" volume="100" id="UZBM_134"/>
+		<sound file="UZBM_134a.mp3" volume="100" id="UZBM_134a"/>
+		<sound file="UZBM_135.mp3" volume="100" id="UZBM_135"/>
+		<sound file="UZBM_137.mp3" volume="100" id="UZBM_137"/>
+		<sound file="UZBM_139.mp3" volume="100" id="UZBM_139"/>
+		<sound file="UZBM_140.mp3" volume="100" id="UZBM_140"/>
+		<sound file="UZBM_141.mp3" volume="100" id="UZBM_141"/>
+		<sound file="UZBM_145.mp3" volume="100" id="UZBM_145"/>
+		<sound file="UZBM_146.mp3" volume="100" id="UZBM_146"/>
+		<sound file="UZBM_150.mp3" volume="100" id="UZBM_150"/>
+		<sound file="UZBM_151.mp3" volume="100" id="UZBM_151"/>
+		<sound file="UZBM_152.mp3" volume="100" id="UZBM_152"/>
+		<sound file="UZBM_153.mp3" volume="100" id="UZBM_153"/>
+		<sound file="UZBM_154.mp3" volume="100" id="UZBM_154"/>
+		<sound file="UZBM_155.mp3" volume="100" id="UZBM_155"/>
+		<sound file="UZBM_156.mp3" volume="100" id="UZBM_156"/>
+		<sound file="UZBM_157.mp3" volume="100" id="UZBM_157"/>
+		<sound file="UZBM_158.mp3" volume="100" id="UZBM_158"/>
+		<sound file="UZBM_159.mp3" volume="100" id="UZBM_159"/>
+		<sound file="UZBM_160.mp3" volume="100" id="UZBM_160"/>
+		<sound file="UZBM_161.mp3" volume="100" id="UZBM_161"/>
+		<sound file="UZBM_162.mp3" volume="100" id="UZBM_162"/>
+		<sound file="UZBM_163.mp3" volume="100" id="UZBM_163"/>
+		<sound file="UZBM_164.mp3" volume="100" id="UZBM_164"/>
+		<sound file="UZBM_165.mp3" volume="100" id="UZBM_165"/>
+		<sound file="UZBM_166.mp3" volume="100" id="UZBM_166"/>
+		<sound file="UZBM_167.mp3" volume="100" id="UZBM_167"/>
+		<sound file="UZBM_168.mp3" volume="100" id="UZBM_168"/>
+		<sound file="UZBM_169.mp3" volume="100" id="UZBM_169"/>
+	</vo>
+</data>

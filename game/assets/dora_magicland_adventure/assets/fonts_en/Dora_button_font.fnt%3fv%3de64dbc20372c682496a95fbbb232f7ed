@@ -1,0 +1,45 @@
+info face="GrilledCheeseBTN" size=45 bold=0 italic=0 charset="" unicode=0 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=2,2
+common lineHeight=58 base=40 scaleW=256 scaleH=128 pages=1 packed=0
+page id=0 file="Dora_button_font.png"
+chars count=12
+char id=32     x=186   y=51    width=0     height=0     xoffset=0     yoffset=40    xadvance=16    page=0 chnl=0 letter="space"
+char id=65     x=164   y=2     width=41    height=45    xoffset=0     yoffset=-3    xadvance=29    page=0 chnl=0 letter="A"
+char id=71     x=2     y=2     width=40    height=47    xoffset=1     yoffset=-6    xadvance=29    page=0 chnl=0 letter="G"
+char id=73     x=43    y=51    width=22    height=44    xoffset=1     yoffset=-3    xadvance=12    page=0 chnl=0 letter="I"
+char id=75     x=207   y=2     width=40    height=44    xoffset=1     yoffset=-3    xadvance=29    page=0 chnl=0 letter="K"
+char id=76     x=149   y=51    width=35    height=43    xoffset=1     yoffset=-3    xadvance=24    page=0 chnl=0 letter="L"
+char id=78     x=2     y=51    width=39    height=44    xoffset=1     yoffset=-3    xadvance=28    page=0 chnl=0 letter="N"
+char id=80     x=125   y=2     width=37    height=46    xoffset=1     yoffset=-5    xadvance=26    page=0 chnl=0 letter="P"
+char id=82     x=85    y=2     width=38    height=46    xoffset=1     yoffset=-4    xadvance=28    page=0 chnl=0 letter="R"
+char id=83     x=44    y=2     width=39    height=46    xoffset=1     yoffset=-4    xadvance=28    page=0 chnl=0 letter="S"
+char id=84     x=110   y=51    width=37    height=43    xoffset=0     yoffset=-1    xadvance=25    page=0 chnl=0 letter="T"
+char id=89     x=67    y=51    width=41    height=43    xoffset=0     yoffset=-2    xadvance=30    page=0 chnl=0 letter="Y"
+kernings count=28
+kerning first=65 second=71 amount=-1
+kerning first=65 second=84 amount=-4
+kerning first=65 second=89 amount=-5
+kerning first=71 second=82 amount=1
+kerning first=71 second=83 amount=-1
+kerning first=71 second=84 amount=-3
+kerning first=71 second=89 amount=-4
+kerning first=75 second=65 amount=-2
+kerning first=75 second=71 amount=-3
+kerning first=75 second=83 amount=-2
+kerning first=76 second=71 amount=-1
+kerning first=76 second=84 amount=-6
+kerning first=76 second=89 amount=-7
+kerning first=80 second=65 amount=-3
+kerning first=80 second=89 amount=-1
+kerning first=82 second=71 amount=-2
+kerning first=82 second=83 amount=-2
+kerning first=82 second=84 amount=-3
+kerning first=82 second=89 amount=-4
+kerning first=83 second=65 amount=-1
+kerning first=83 second=71 amount=-1
+kerning first=83 second=83 amount=-2
+kerning first=83 second=89 amount=-1
+kerning first=84 second=65 amount=-4
+kerning first=84 second=71 amount=-2
+kerning first=89 second=65 amount=-5
+kerning first=89 second=71 amount=-4
+kerning first=89 second=83 amount=-2

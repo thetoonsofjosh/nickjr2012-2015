@@ -1,0 +1,38 @@
+<esi:try>
+	<esi:attempt>
+		<esi:eval src="http://mobile-redirect.mtvnservices.com/include.esi" dca="esi" maxwait="5000" />
+	</esi:attempt>
+</esi:try>
+<esi:assign name="includeURL" value="'http://'+$(HTTP_HOST)+$(REQUEST_PATH)" />
+<esi:choose>
+	<esi:when test="!$is_empty($(QUERY_STRING))">
+		<esi:assign name="includeURL" value="$(includeURL)+'?'+$(QUERY_STRING)+'&apiKey='"/>
+	</esi:when>
+	<esi:otherwise>
+		<esi:assign name="includeURL" value="$(includeURL)+'?apiKey='"/>
+	</esi:otherwise>
+</esi:choose>
+<esi:choose>
+	<esi:when test="$exists($(QUERY_STRING{'apiKey'}))">
+		<esi:assign name="pageProcessed" value="true" />
+	</esi:when>
+	<esi:otherwise>
+		<esi:assign name="pageProcessed" value="false" />
+	</esi:otherwise>
+</esi:choose>
+<esi:choose>
+	<esi:when test="$(is_mobile)==true && $(pageProcessed)==false">
+		<!-- Set cookie value for mobile -->
+		<esi:assign name="cookieValue" value="$add_header('Set-Cookie','nick_device=nickjr-mobile.com')" />
+		<esi:include src="$(includeURL)nickjr-mobile.com"/>
+	</esi:when>
+	<esi:when test="$(is_tablet)==true && $(pageProcessed)==false">
+		<!-- Set cookie value for tablet -->
+		<esi:assign name="cookieValue" value="$add_header('Set-Cookie','nick_device=nickjr-tablet.com')" />
+		<esi:include src="$(includeURL)nickjr-tablet.com"/>
+	</esi:when>
+	<esi:otherwise>
+		<esi:assign name="cookieValue" value="$add_header('Set-Cookie','nick_device=nickjr.com')" />
+		<esi:include src="$(includeURL)nickjr.com"/>
+	</esi:otherwise>
+</esi:choose>

@@ -1,0 +1,187 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html><head><meta content="initial-scale = 1.0" name="viewport"/><meta content="00b504ba97f1bf8fe4c593e8abf1e78e" name="p:domain_verify"/><title>404 - Page Not Found</title><meta content="placeholder" name="description"/><meta content="noodp,noydir" name="robots"/><meta content="808C3B5947CC071BBDAE0049BC95F808" name="msvalidate.01"/><meta content="cbae6d0c93d2ac69" name="y_key"/><meta content="a9d228c817b65b16" name="y_key"/><a rel="publisher" href="https://plus.google.com/112833891614890479050"></a>
+		<!--esi
+		<esi:try>
+			<esi:attempt>
+				<esi:eval src="http://mobile-redirect.mtvnservices.com/include.esi" dca="esi" maxwait="5000" />
+			</esi:attempt>
+		</esi:try>
+		-->
+		
+
+<link type="text/css" href="/styles/min/base.css" rel="stylesheet"/><link type="text/css" href="/styles/min/parents.css" rel="stylesheet"/><link type="text/css" href="/css/ads/promo-overlay.css" rel="stylesheet"/><link type="text/css" href="/styles/boost-overlay/boost-overlay.css" rel="stylesheet"/><link type="text/css" href="/css/theme/nickjr-winter-theme-2015.html" rel="stylesheet"/><script type="text/javascript" src="/js/jquery/jquery-1.6.1.min.js"></script><script id="95F6FFFF0099CB350002FFFFF695" src="http://widgets4.flux.com/Core?includeJQuery=false"></script><script src="/js/flux/flux.js" type="text/javascript"></script><script src="/js/min/jquery.js" language="javascript" type="text/javascript"></script><script src="/js/min/flash.js" language="javascript" type="text/javascript"></script><script src="/js/min/base.js" language="javascript" type="text/javascript"></script><script src="/js/min/ads.js" language="javascript" type="text/javascript"></script><script src="/dynamo/video/platformPlayer/ads/externalPlayerControl.js" language="javascript" type="text/javascript"></script><script src="http://media.mtvnservices.com/player/scripts/mtvn_player_control.1.0.1.js" language="javascript" type="text/javascript"></script><script src="http://siterecruit.comscore.com/sr/nick/broker.js" language="javascript" type="text/javascript"></script><script src="/js/session-cookies.js" language="javascript" type="text/javascript"></script><script src="/js/boost-overlay/boost-overlay.js" language="javascript" type="text/javascript"></script><script src="/js/ads/promo-overlay.js" language="javascript" type="text/javascript"></script>
+	<!--[if IE]>
+	
+	<![endif]--> 		
+
+	
+	<!--[if lt IE 7]>
+	
+	<![endif]--> 
+ 
+	<script language="javascript" type="text/javascript">
+/* <![CDATA[ */
+
+
+
+if(typeof NICKJR == "undefined" || !NICKJR) var NICKJR = {};
+KIDS.namespace("stageVars", NICKJR);
+
+NICKJR.stageVars = {
+	stage : "live",
+	ipsSchemeDomain : "http://images.nickjr.com",
+	ipsDomain : 'images.nickjr.com',
+	mediaSchemeDomain : '/dynaboss',
+	mediaDomain : '/dynaboss',
+	dynSchemeDomain : 'http://www.nickjr.com',
+	dynDomain : 'www.nickjr.com',
+	videoDomain : 'media.mtvnservices.com',
+	videoSchemeDomain : 'http://media.mtvnservices.com',
+	nickjrCommunityDomain : '',
+	fluxCommunityDomain : 'http://widgets3.flux.com',
+	fluxAuthServer : 'http://widgets.flux.com'
+}
+
+
+
+/* ]]> */
+</script><script language="javascript" type="text/javascript">
+/* <![CDATA[ */
+if(typeof KIDS == "undefined" || !KIDS) var KIDS = {};
+
+KIDS.add("type", "customPage");
+KIDS.add("gameType", "");
+KIDS.add("videoType", "");
+KIDS.add("primaryType", "");
+KIDS.add("urlAlias", "404");
+KIDS.add("canonicalUrl", "");
+KIDS.add("categoryPath", "/2009-Redesign/family");
+KIDS.add("reportingKey", "/2009-Redesign/family/404.html");
+KIDS.add("cmsId", "101158");
+KIDS.add("uri", "/app/customPage/404");
+KIDS.add("isDetailPage", "");
+KIDS.add("isListingPage", "");
+KIDS.add("isCharacterPage", "");
+KIDS.add("isAboutPage", "");
+KIDS.add("fccRelatedShow", "");
+KIDS.add("filterKeywords", "");
+KIDS.add("isGotw", "");
+KIDS.add("isPlayList", "");
+KIDS.add("isPlayListDetail", "");
+KIDS.add("adfree", "false");
+KIDS.add("domain", ""); //localhost|www.nick.com|www.nicktoons.com
+KIDS.add("site", "");
+KIDS.add("showId", "");
+KIDS.add("preloaderSetting", "");
+
+/* ]]> */
+</script><script>
+var adsConfigUrl = "";
+var URI = location.pathname;
+if(location.host.indexOf("-d.mtvi",0) != -1){
+  adsConfigUrl = "http://www.nick-d.mtvi.com/AdSettings/adSnippet.jhtml?site=site-nickjr&uri=" + URI;
+}else if (location.host.indexOf("localhost") != -1){
+  adsConfigUrl = "http://www.nick-d.mtvi.com/AdSettings/adSnippet.jhtml?site=site-nickjr&uri=" + URI;
+} else if (location.host.indexOf("-q.mtvi",0) != -1){
+  adsConfigUrl = "http://www.nick-q.mtvi.com/AdSettings/adSnippet.jhtml?site=site-nickjr&uri=" + URI;
+} else {
+  adsConfigUrl = "http://www.nick.com/AdSettings/adSnippet.jhtml?site=site-nickjr&uri=" + URI;
+}
+</script>
+<!--esi
+	<esi:choose>
+		<esi:when test="$(GEO{'country_code'}) != 'US' && $(REQUEST_PATH) has '''birthday-club'''">
+	  		$set_redirect('http://www.nickjr.com/birthday-club-faq.html')
+		</esi:when>
+	</esi:choose>
+-->
+<!--esi
+<esi:try>
+	<esi:attempt>
+		<script type="text/javascript">
+			<esi:choose>
+				<esi:when test="$(HTTP_HOST) == 'relaunch.nickjr-q.mtvi.com'">
+					<esi:include src="http://www.nick-q-FIXME.mtvi.com/AdSettings/adSnippet.jhtml?site=site-nickjr&uri=$(REQUEST_PATH)" maxwait="2000"  ttl="24h" no-store="off"/>
+				</esi:when>
+				<esi:otherwise>
+					<esi:include src="http://www.nick.com/AdSettings/adSnippet.jhtml?site=site-nickjr&uri=$(REQUEST_PATH)" maxwait="2000" ttl="1h" no-store="off"/>
+				</esi:otherwise>
+			</esi:choose>
+		</script>
+	</esi:attempt>
+	<esi:except>
+		<script>document.write("\\\x3Cscript src='" + adsConfigUrl + "'>\\\x3C/script>");</script>
+	</esi:except>
+</esi:try>
+-->
+<esi:remove>
+<script>document.write("\x3Cscript src='" + adsConfigUrl + "'>\x3C/script>");</script>
+</esi:remove>
+<script language="javascript" type="text/javascript">
+		/* <![CDATA[ */
+		$(document).ready(function() {
+			// Check to see if user was redirected from nickjrboost
+			// suppress CMS enabled overlay to avoid showing multiple ovarlays at the same time
+			/*
+			if (window.location.search.indexOf('boost=true') > -1) {	
+				KIDS.boost.overlayInit();
+			}
+			*/
+			// if user did not come from nickjrboost enable CMS enabled overlay 				
+		    if (!false) { // not ad-free mode			   
+		        var currentDate = new Date();
+		        var overlayStartDate = new Date(1422853260000);
+		        var overlayEndDate = new Date(1423112340000);		        		                                         
+		        if (overlayStartDate <= currentDate && currentDate < overlayEndDate) {
+		        	  if (!$.cookie('overlayNickJR_1422853260000')) {
+		                $.cookie('overlayNickJR_1422853260000', true, { expires: 1, path: '/'});
+		                KIDS.ads.overlay.show({
+		                    'id': 'promoOverlay',
+		                    'src': '/ads/promo/onair/wally/big-bobgoblin-problem/big-bobgoblin-problem-overlay.swf',
+		                    'width': '1077px',
+		                    'height': '650px',
+		                    'parent': '.wrapper',
+		                    'element': 'div',
+		                    'destUrl': 'not used for SWF',
+		                    'fadeOutTime': '1',
+		                    'verticalLoc': '266',
+		                    'horizontLoc': '0'
+		                });
+		            }
+		        }
+		    }
+		
+		});
+		
+		/* ]]> */
+	</script><link href="http://www.nickjr.com/favicon.ico" type="image/vnd.microsoft.icon" rel="icon"/>
+	<!--[if IE]>
+	<link href="http://www.nickjr.com/favicon.ico" type="image/x-icon" rel="shortcut icon"/>
+	<![endif]--> 		
+
+	<script src="http://fonts.mtvnservices.com/apb7fxb.js" type="text/javascript"></script><script type="text/javascript">try{Typekit.load();}catch(e){}</script><script src="/static/js/events-overlay-loader.js" language="javascript" data-nick-event-name="wwdop" type="text/javascript"></script></head><body class="" id="gs"><script src="/js/min/kfarPre.js" language="javascript" type="text/javascript"></script><script src="http://www.nick.com/sbcom/data/utils/aria-inc.jhtml?site=nickjr.com" language="javascript" type="text/javascript"></script><script src="/js/min/kfarPost.js" language="javascript" type="text/javascript"></script><script src="/js/coda/reporting.js" language="javascript" type="text/javascript"></script><style type="text/css">
+	
+		body {
+			background-color: white;
+			background-image: none;
+		}
+
+		#notFoundContainer {
+			width: 675px;
+			height: 520px;
+			margin-left: auto;
+			margin-right: auto;
+			margin-top: 30px;
+		}
+	
+		#copyright {
+			font-family: Arial;
+			font-size: 11px;
+			text-align: center;
+		}
+	
+	</style><div id="notFoundContainer"><a href="/"><img border="0" src="/dynaboss/images/404.jpg"/></a><div id="copyright"> © 
+			<span id="copyYear">2015</span> Viacom International Inc. All rights reserved.
+		</div></div><script src="http://dnn506yrbagrg.cloudfront.net/pages/scripts/0011/1911.js" type="text/javascript"/>
+	<!-- PAGEOK --> 
+	</body></html>
