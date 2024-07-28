@@ -1,0 +1,81 @@
+{
+"config":{
+"music":{
+"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/",
+"volume":"0.3",
+"fadeAfter":"30"
+},
+"animation":{
+"loader":{"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/loaders/general-loader.swf"},
+"urlAlias":"kids-dora-and-friends",
+"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/main-content/pawpatrol-show-landing.swf",
+"classId":"GameListAnimation"
+},
+"images":[
+{
+"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/images/showPromoBg.swf",
+"position":{"x":"562","y":"0"}
+}
+],
+"buttons":[
+{
+"localConnectionId":"ShowLogo",
+"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/showlogos/PawPatrol.swf"
+}
+
+],
+"promoSounds":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/promos/global-promo-sounds.swf",
+"promos":[
+
+{
+"loader":{"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/loaders/asset-loader.swf","position":{"x":"75","y":"35"}},
+"classId":"ShowGamesListPromo",
+"localConnectionId":"ShowGameListPromo",
+"urlAlias":"kids-paw-patrol",
+"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/promos/listing/showGames.swf",
+
+"position":{"x":"316","y":"0"},
+
+"allLink":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/paw-patrol/",
+"items":[
+
+{
+"urlAlias":"paw-patrol-save-their-friends",	
+"featured":"",	
+"title":"Pups Save Their Friends!", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/paw_save_their_friends/GamesFinder/paw_save_their_friends-thumb.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/paw_save_their_friends/GamesFinder/paw_save_their_friends-kids-game-promo.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/paw-patrol-save-their-friends.html", 
+"datePosted":"Thu May 22 00:00:00 EDT 2008", 
+"numViews":"37298"
+}
+,
+
+{
+"urlAlias":"paw-pups-save-the-farm",	
+"featured":"",	
+"title":"Pups Save the Farm Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/paw_pups_save_the_farm/GamesFinder/paw_pups_save_the_farm-thumb.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/paw_pups_save_the_farm/GamesFinder/paw_pups_save_the_farm-screenshot1.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/paw-pups-save-the-farm.html", 
+"datePosted":"Thu May 22 00:00:00 EDT 2008", 
+"numViews":"37298"
+}
+,
+
+{
+"urlAlias":"paw-pups-save-the-day",	
+"featured":"",	
+"title":"Pups Save the Day", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/paw_pups_save_the_day/GamesFinder/paw_pups_save_the_day-thumb.jpg	",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/paw_pups_save_the_day/GamesFinder/paw_pups_save_the_day-kids-game-promo.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/paw-pups-save-the-day.html", 
+"datePosted":"Thu May 22 00:00:00 EDT 2008", 
+"numViews":"37298"
+}
+
+]
+}
+]
+}
+}
