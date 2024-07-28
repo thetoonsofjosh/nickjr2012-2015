@@ -11,19 +11,6 @@
 "path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/main-content/pawpatrol-show-landing.swf",
 "classId":"GameListAnimation"
 },
-"images":[
-{
-"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/images/showPromoBg.swf",
-"position":{"x":"562","y":"0"}
-}
-],
-"buttons":[
-{
-"localConnectionId":"ShowLogo",
-"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/showlogos/PawPatrol.swf"
-}
-
-],
 "promoSounds":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/promos/global-promo-sounds.swf",
 "promos":[
 
