@@ -1,7 +1,7 @@
 {
 "config":{
 "music":{
-"path":"/nickjr20122015/",
+"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/",
 "volume":"0.3",
 "fadeAfter":"30"
 },
@@ -36,16 +36,16 @@
 
 "position":{"x":"564","y":"68"},
 
-"allLink":"/kids-games/wallykazam/",
+"allLink":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/wallykazam/",
 "items":[
 
 {
 "urlAlias":"wallykazam-fruit-frenzy",	
 "featured":"",	
-"title":"Fruit Frenzy", 
-"thumbnail":"/game/assets/wally_fruit_frenzy/GamesFinder/wally_fruit_frenzy-thumb.jpg",
-"promoImage":"/game/assets/wally_fruit_frenzy/GamesFinder/wally_fruit_frenzy-01.jpg",
-"link":"/kids-games/wallykazam-fruit-frenzy.html", 
+"title":"PLAY: Wallykazam! Word Hunt", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/wally_magic_word_hunt/GamesFinder/wally_magic_word_hunt-thumb.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/wally_magic_word_hunt/GamesFinder/wally_magic_word_hunt-screenshot1.jpg",
+"link":"/kids-games/wally-magic-word-hunt.html", 
 "datePosted":"Wed Aug 22 00:00:00 EDT 2012", 
 "numViews":"35867"
 }
@@ -71,9 +71,9 @@
 "urlAlias":"wallykazam-kids-videos",	
 "featured":"",	
 
-"title":"The Rock Can Talk", 
-"thumbnail":"/nickjr20122015/dynaboss/assets/videoplayer/kids/videos/wall/103-rock-can-talk/103-rock-can-talk-thumb.jpg",
-"promoImage":"/nickjr20122015/dynaboss",
+"title":"Day in the Dark", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/assets/videoplayer/kids/videos/wall/108-day-in-dark/108-day-in-dark.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss",
 
 "link":"/kids-videos/wallykazam-kids-videos.html", 
 "datePosted":"2009-09-21 16:31:21.0", 
