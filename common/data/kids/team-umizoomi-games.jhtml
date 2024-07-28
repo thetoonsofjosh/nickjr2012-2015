@@ -6,7 +6,7 @@
 "fadeAfter":"30"
 },
 "animation":{
-"loader":{"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/nickjr2012-2015/dynaboss/flash/kids/loaders/general-loader.swf"},
+"loader":{"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/loaders/general-loader.swf"},
 "urlAlias":"kids-team-umizoomi",
 "path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/main-content/umizoomi-show-landing.swf",
 "classId":"GameListAnimation"
