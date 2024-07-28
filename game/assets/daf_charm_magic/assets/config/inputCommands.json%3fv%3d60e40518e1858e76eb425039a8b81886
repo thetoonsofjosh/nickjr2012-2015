@@ -1,0 +1,67 @@
+{
+    "commands": [
+        {
+            "id": "Jump",
+            "event": "com.cmm.gameEngines.baseEngine.event.playerControlUp",
+            "keyboard": [
+                {
+                    "key": "Up",
+                    "down": true
+                },
+                {
+                    "key": "Space",
+                    "up": true
+                }
+            ],
+            "swipe": {
+                "up": true
+            }
+        },
+        {
+            "id": "MoveRight",
+            "event": "com.cmm.gameEngines.baseEngine.event.playerControlRight",
+            "keyboard": [
+                {
+                    "key": "Right",
+                    "down": true
+                }
+            ],
+            "swipe": {
+                "right": true
+            }
+        },
+        {
+            "id": "MoveRightCancel",
+            "event": "com.cmm.gameEngines.baseEngine.event.playerControlRightCancel",
+            "keyboard": [
+                {
+                    "key": "Right",
+                    "up": true
+                }
+            ]
+        },
+        {
+            "id": "MoveLeft",
+            "event": "com.cmm.gameEngines.baseEngine.event.playerControlLeft",
+            "keyboard": [
+                {
+                    "key": "Left",
+                    "down": true
+                }
+            ],
+            "swipe": {
+                "left": true
+            }
+        },
+        {
+            "id": "MoveLeftCancel",
+            "event": "com.cmm.gameEngines.baseEngine.event.playerControlLeftCancel",
+            "keyboard": [
+                {
+                    "key": "Left",
+                    "up": true
+                }
+            ]
+        }
+    ]
+}

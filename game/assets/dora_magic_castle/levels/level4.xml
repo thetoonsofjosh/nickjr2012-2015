@@ -1,0 +1,417 @@
+<?xml version="1.0"?>
+
+<level>
+
+	<player>
+		<start_x>135</start_x>
+		<start_y>15</start_y>
+	</player>
+
+	<background>
+		<number_of_stones>50</number_of_stones>
+		<stone_bottom_threshold>125</stone_bottom_threshold>
+		<show_windows>true</show_windows>
+		<show_curtains>true</show_curtains>
+		<show_wall_accents>true</show_wall_accents>
+		<bg_assets>
+			<bg_id>bg5_1</bg_id>
+			<bg_id>bg5_2</bg_id>
+			<stones_id>wall_stones_5</stones_id>
+			<windows_id>windows</windows_id>
+			<curtains_id>curtains</curtains_id>
+			<accents_id>accents_5</accents_id>
+		</bg_assets>
+	</background>
+	
+
+	<correct_key_frame>5</correct_key_frame>
+	<correct_key_vo>level05</correct_key_vo>
+
+
+	<collectables>
+	
+		<collectable>
+			<asset_id>potion</asset_id>
+			<cache_as_bitmap>true</cache_as_bitmap>
+			<potion>true</potion>
+			<x>600</x>
+			<y>600</y>
+		</collectable>
+
+		<collectable>
+			<asset_id>potion</asset_id>
+			<cache_as_bitmap>true</cache_as_bitmap>
+			<potion>true</potion>
+			<x>1475</x>
+			<y>950</y>
+		</collectable>
+
+		
+		<collectable>
+			<asset_id>star</asset_id>
+			<cache_as_bitmap>true</cache_as_bitmap>
+			<x>1500</x>
+			<y>650</y>
+		</collectable>
+		
+		<collectable>
+			<asset_id>star</asset_id>
+			<cache_as_bitmap>true</cache_as_bitmap>
+			<x>1650</x>
+			<y>650</y>
+		</collectable>
+		
+		<collectable>
+			<asset_id>star</asset_id>
+			<cache_as_bitmap>true</cache_as_bitmap>
+			<x>1375</x>
+			<y>650</y>
+		</collectable>
+	
+		<collectable>
+			<asset_id>star</asset_id>
+			<cache_as_bitmap>true</cache_as_bitmap>
+			<x>1000</x>
+			<y>400</y>
+		</collectable>
+		
+		<collectable>
+			<asset_id>star</asset_id>
+			<cache_as_bitmap>true</cache_as_bitmap>
+			<x>1000</x>
+			<y>300</y>
+		</collectable>
+		
+		
+		<collectable>
+			<asset_id>star</asset_id>
+			<cache_as_bitmap>true</cache_as_bitmap>
+			<x>800</x>
+			<y>450</y>
+		</collectable>
+		
+		<collectable>
+			<asset_id>star</asset_id>
+			<cache_as_bitmap>true</cache_as_bitmap>
+			<x>1300</x>
+			<y>950</y>
+		</collectable>		
+
+			
+		
+		<collectable>
+			<asset_id>keys</asset_id>
+			<cache_as_bitmap>true</cache_as_bitmap>
+			<frame>5</frame>
+			<correct_key>true</correct_key>
+			<x>1500</x>
+			<y>500</y>
+		</collectable>
+
+		<collectable>
+			<asset_id>keys</asset_id>
+			<cache_as_bitmap>true</cache_as_bitmap>
+			<frame>13</frame>
+			<points_frame>1</points_frame>
+			<x>1150</x>
+			<y>400</y>
+		</collectable>
+	
+		<collectable>
+			<asset_id>keys</asset_id>
+			<cache_as_bitmap>true</cache_as_bitmap>
+			<frame>13</frame>
+			<points_frame>2</points_frame>
+			<x>450</x>
+			<y>850</y>
+		</collectable>
+
+		<collectable>
+			<asset_id>keys</asset_id>
+			<cache_as_bitmap>true</cache_as_bitmap>
+			<frame>13</frame>		
+			<points_frame>3</points_frame>
+			<x>750</x>
+			<y>850</y>
+		</collectable>
+	
+		<collectable>
+			<asset_id>keys</asset_id>
+			<cache_as_bitmap>true</cache_as_bitmap>
+			<frame>13</frame>
+			<points_frame>5</points_frame>
+			<x>750</x>
+			<y>975</y>
+		</collectable>
+
+	</collectables>
+
+
+	<platforms>
+	
+		<platform>
+			<asset_id>doors</asset_id>
+			<cache_as_bitmap>true</cache_as_bitmap>
+			<door>true</door>
+			<frame>5</frame>
+			<x>1500</x>
+			<y>1400</y>
+		</platform>
+
+		<platform>
+			<asset_id>capital</asset_id>
+			<disable_scroll>true</disable_scroll>
+			<x>50</x>
+			<y>150</y>
+		</platform>
+
+		<platform>
+			<asset_id>spellbook_5</asset_id>
+			<disable_scroll>true</disable_scroll>
+			<change_time>4</change_time>
+			<vo>book</vo>
+			<x>150</x>
+			<y>225</y>
+		</platform>
+
+		<platform>
+			<asset_id>spellbook_5</asset_id>
+			<disable_scroll>true</disable_scroll>
+			<vo>book</vo>
+			<x>250</x>
+			<y>100</y>
+		</platform>
+		
+		<platform>
+			<asset_id>parchment_5</asset_id>
+			<vo></vo>
+			<change_time>5</change_time>
+			<x>300</x>
+			<y>170</y>
+		</platform>
+		
+		<platform>
+			<asset_id>bookcase_5</asset_id>
+			<vo>shelf</vo>
+			<change_time>4</change_time>
+			<x>475</x>
+			<y>180</y>
+		</platform>
+		
+		<platform>
+			<asset_id>spellbook_5</asset_id>
+			<vo>book</vo>
+			<change_time>2</change_time>
+			<x>650</x>
+			<y>275</y>
+		</platform>
+
+		<platform>
+			<asset_id>capital</asset_id>
+			<x>800</x>
+			<y>400</y>
+		</platform>
+		<!--star-->
+
+		<platform>
+			<asset_id>parchment_5</asset_id>
+			<vo></vo>
+			<change_time>3</change_time>
+			<x>900</x>
+			<y>550</y>
+		</platform>
+		
+		<platform>
+			<asset_id>bookcase_5</asset_id>
+			<vo>shelf</vo>
+			<change_time>4</change_time>
+			<x>1000</x>
+			<y>700</y>
+		</platform>
+
+		<platform>
+			<asset_id>spellbook_5</asset_id>
+			<vo>book</vo>
+			<change_time>2</change_time>
+			<x>1150</x>
+			<y>800</y>
+		</platform>
+		
+		<platform>
+			<asset_id>barrel</asset_id>
+			<x>1300</x>
+			<y>900</y>
+		</platform>
+		<!--star-->
+		
+		<platform>
+			<asset_id>parchment_5</asset_id>
+			<vo></vo>
+			<change_time>4</change_time>
+			<x>1350</x>
+			<y>1050</y>
+		</platform>
+		
+		<platform>
+			<asset_id>capital</asset_id>
+			<x>1400</x>
+			<y>1200</y>
+		</platform>
+		
+		<platform>
+			<asset_id>spellbook_5</asset_id>
+			<vo>book</vo>
+			<change_time>2</change_time>
+			<x>1450</x>
+			<y>1300</y>
+		</platform>
+		
+
+
+		<!-- split -->
+		
+		<platform>
+			<asset_id>parchment_5</asset_id>
+			<vo></vo>
+			<change_time>5</change_time>
+			<x>1475</x>
+			<y>900</y>
+		</platform>
+		<!--potion-->
+		
+		<platform>
+			<asset_id>capital</asset_id>
+			<x>1500</x>
+			<y>750</y>
+		</platform>
+		
+		<platform>
+			<asset_id>spellbook_5</asset_id>
+			<vo>book</vo>
+			<change_time>2</change_time>
+			<x>1500</x>
+			<y>600</y>
+		</platform>
+		<!-- star -->
+		
+
+		<platform>
+			<asset_id>parchment_5</asset_id>
+			<vo></vo>
+			<change_time>2</change_time>
+			<x>1650</x>
+			<y>600</y>
+		</platform>
+		<!-- star -->
+		
+		
+		<platform>
+			<asset_id>parchment_5</asset_id>
+			<vo></vo>
+			<change_time>3</change_time>
+			<x>1375</x>
+			<y>600</y>
+		</platform>
+		<!-- star -->
+		
+		<platform>
+			<asset_id>bookcase_5</asset_id>
+			<vo>shelf</vo>
+			<change_time>3</change_time>
+			<x>1500</x>
+			<y>450</y>
+		</platform>
+		<!-- correct key -->
+		
+		
+		<!-- split -->
+
+		<platform>
+			<asset_id>parchment_5</asset_id>
+			<vo></vo>
+			<change_time>4</change_time>
+			<x>950</x>
+			<y>450</y>
+		</platform>		
+		
+		<platform>
+			<asset_id>spellbook_5</asset_id>
+			<vo>book</vo>
+			<change_time>2</change_time>
+			<x>1000</x>
+			<y>350</y>
+		</platform>		
+
+		<platform>
+			<asset_id>bookcase_5</asset_id>
+			<vo>shelf</vo>
+			<change_time>2</change_time>
+			<x>1150</x>
+			<y>350</y>
+		</platform>
+		
+		<platform>
+			<asset_id>barrel</asset_id>
+			<x>1000</x>
+			<y>250</y>
+		</platform>
+		
+		<!-- split -->
+		
+		<platform>
+			<asset_id>capital</asset_id>
+			<x>550</x>
+			<y>400</y>
+		</platform>
+		
+		<platform>
+			<asset_id>spellbook_5</asset_id>
+			<vo>book</vo>
+			<change_time>4</change_time>
+			<x>600</x>
+			<y>550</y>
+		</platform>
+		<!-- potion -->	
+		
+		<platform>
+			<asset_id>parchment_5</asset_id>
+			<vo></vo>
+			<change_time>5</change_time>
+			<x>600</x>
+			<y>650</y>
+		</platform>		
+
+		<platform>
+			<asset_id>barrel</asset_id>
+			<x>600</x>
+			<y>800</y>
+		</platform>		
+		
+		<platform>
+			<asset_id>spellbook_5</asset_id>
+			<vo>book</vo>
+			<change_time>4</change_time>
+			<x>450</x>
+			<y>800</y>
+		</platform>		
+		<!-- key -->
+		
+		<platform>
+			<asset_id>capital</asset_id>
+			<x>750</x>
+			<y>800</y>
+		</platform>		
+		<!-- key -->
+
+		<platform>
+			<asset_id>parchment_5</asset_id>
+			<vo></vo>
+			<change_time>2</change_time>
+			<x>750</x>
+			<y>925</y>
+		</platform>
+		<!-- key -->
+
+	</platforms>
+
+</level>

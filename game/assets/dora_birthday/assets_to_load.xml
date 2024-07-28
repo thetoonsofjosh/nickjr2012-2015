@@ -1,0 +1,245 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Settings>
+	<Assets>
+		<Initial>
+			<Xml dir="">
+				<Asset name="config_main" path="config_main.xml" weight="1" meta="" />
+				<Asset name="config_bubbleTrouble" path="config_bubbleTrouble.xml" weight="1" meta="" />
+				<Asset name="config_treetopTreasures" path="config_treetopTreasures.xml" weight="1" meta="" />
+				<Asset name="config_flightOfTheUnicorn" path="config_flightOfTheUnicorn.xml" weight="1" meta="" />
+				<!---->
+			</Xml>
+			<Swfs dir="">	
+				
+				<!-- Minigame swfs implementing IGame, ILoadable -->
+				<Asset name="bubbleTrouble" path="BubbleTrouble.swf" weight="200" />				
+				<Asset name="treetopTreasures" path="TreetopTreasures.swf" weight="200" />
+				<Asset name="flightOfTheUnicorn" path="FlightOfTheUnicorn.swf" weight="200" />
+				
+				<!-- Nickelodeon splash screen -->
+				<!--
+				<Asset name="nick_splash" path="nick_splash.swf" weight="30" />
+				-->
+				
+				
+				<!-- external libraries for transition swfs (if applicable) implementing ITransitionLibrary-->
+				<Asset name="transition_FlightOfTheUnicorn" path="transition_FlightOfTheUnicorn.swf" weight="200" />
+
+				<!-- intro/segway swfs -->
+				<Asset name="segway_1" path="segway_1.swf" weight="50" />
+				<Asset name="segway_2" path="segway_2.swf" weight="50" />
+				
+			</Swfs>	
+			<Sounds dir="">									
+				
+				<Asset name="DBB_1" path="DBB_1.mp3" weight="3" />
+			  <Asset name="DBB_2" path="DBB_2.mp3" weight="3" />
+			  <Asset name="DBB_3" path="DBB_3.mp3" weight="3" />
+			  <Asset name="DBB_4" path="DBB_4.mp3" weight="3" />
+			  <Asset name="DBB_5" path="DBB_5.mp3" weight="3" />
+			  <Asset name="DBB_6" path="DBB_6.mp3" weight="3" />
+			  <Asset name="DBB_7" path="DBB_7.mp3" weight="3" />
+			  <Asset name="DBB_8" path="DBB_8.mp3" weight="3" />
+			  <Asset name="DBB_9" path="DBB_9.mp3" weight="3" />
+			  <Asset name="DBB_10" path="DBB_10.mp3" weight="3" />
+			  <Asset name="DBB_10A" path="DBB_10A.mp3" weight="3" />
+			  <Asset name="DBB_11" path="DBB_11.mp3" weight="3" />
+			  <Asset name="DBB_11A" path="DBB_11A.mp3" weight="3" />
+			  <Asset name="DBB_12" path="DBB_12.mp3" weight="3" />
+			  <Asset name="DBB_13" path="DBB_13.mp3" weight="3" />
+				<Asset name="DBB_13e" path="DBB_13e.mp3" weight="3" />
+				<Asset name="DBB_13b" path="DBB_13b.mp3" weight="3" />
+				<Asset name="DBB_13c" path="DBB_13c.mp3" weight="3" />
+			  <Asset name="DBB_14" path="DBB_14.mp3" weight="3" />
+			  <Asset name="DBB_15A" path="DBB_15A.mp3" weight="3" />
+			  <Asset name="DBB_16" path="DBB_16.mp3" weight="3" />
+			  <Asset name="DBB_17" path="DBB_17.mp3" weight="3" />
+			  <Asset name="DBB_18" path="DBB_18.mp3" weight="3" />
+			  <Asset name="DBB_19" path="DBB_19.mp3" weight="3" />
+			  <Asset name="DBB_20" path="DBB_20.mp3" weight="3" />
+			  <Asset name="DBB_21" path="DBB_21.mp3" weight="3" />
+			  <Asset name="DBB_22" path="DBB_22.mp3" weight="3" />
+			  <Asset name="DBB_23" path="DBB_23.mp3" weight="3" />
+			  <Asset name="DBB_24" path="DBB_24.mp3" weight="3" />
+			  <Asset name="DBB_25" path="DBB_25.mp3" weight="3" />
+			  <Asset name="DBB_26" path="DBB_26.mp3" weight="3" />
+			  <Asset name="DBB_27" path="DBB_27.mp3" weight="3" />
+			  <Asset name="DBB_28" path="DBB_28.mp3" weight="3" />
+			  <Asset name="DBB_29" path="DBB_29.mp3" weight="3" />
+			  <Asset name="DBB_30" path="DBB_30.mp3" weight="3" />
+			  <Asset name="DBB_31" path="DBB_31.mp3" weight="3" />
+			  <Asset name="DBB_32" path="DBB_32.mp3" weight="3" />
+			  <Asset name="DBB_33" path="DBB_33.mp3" weight="3" />
+			  <Asset name="DBB_34" path="DBB_34.mp3" weight="3" />
+			  <Asset name="DBB_35" path="DBB_35.mp3" weight="3" />
+			  <Asset name="DBB_36" path="DBB_36.mp3" weight="3" />
+			  <Asset name="DBB_37" path="DBB_37.mp3" weight="3" />
+			  <Asset name="DBB_38" path="DBB_38.mp3" weight="3" />
+			  <Asset name="DBB_39" path="DBB_39.mp3" weight="3" />
+			  <Asset name="DBB_40" path="DBB_40.mp3" weight="3" />
+				<Asset name="DBB_41" path="DBB_41.mp3" weight="3" />
+			  <Asset name="DBB_42" path="DBB_42.mp3" weight="3" />
+			  <Asset name="DBB_43" path="DBB_43.mp3" weight="3" />
+			  <Asset name="DBB_44" path="DBB_44.mp3" weight="3" />
+			  <Asset name="DBB_45" path="DBB_45.mp3" weight="3" />
+			  <Asset name="DBB_46" path="DBB_46.mp3" weight="3" />
+			  
+				<Asset name="DBB_72" path="DBB_72.mp3" weight="3" />
+				<Asset name="DBB_73" path="DBB_73.mp3" weight="3" />
+				<Asset name="DBB_74" path="DBB_74.mp3" weight="3" />
+				<Asset name="DBB_75" path="DBB_75.mp3" weight="3" />
+				<Asset name="DBB_76" path="DBB_76.mp3" weight="3" />
+				<Asset name="DBB_80" path="DBB_80.mp3" weight="3" />
+				<Asset name="DBB_81" path="DBB_81.mp3" weight="3" />
+				<Asset name="DBB_86" path="DBB_86.mp3" weight="3" />
+				<Asset name="DBB_89" path="DBB_89.mp3" weight="3" />
+				<Asset name="DBB_94" path="DBB_94.mp3" weight="3" />
+				<Asset name="DBB_95" path="DBB_95.mp3" weight="3" />
+				<Asset name="DBB_96" path="DBB_96.mp3" weight="3" />
+				
+			  
+			  
+			  <Asset name="DBB_98" path="DBB_98.mp3" weight="3" />
+			  <Asset name="DBB_99" path="DBB_99.mp3" weight="3" />
+			  <Asset name="DBB_100" path="DBB_100.mp3" weight="3" />
+			  <Asset name="DBB_101" path="DBB_101.mp3" weight="3" />
+			  <Asset name="DBB_102" path="DBB_102.mp3" weight="3" />
+			  <Asset name="DBB_103" path="DBB_103.mp3" weight="3" />
+			  <Asset name="DBB_104" path="DBB_104.mp3" weight="3" />
+			  <Asset name="DBB_105" path="DBB_105.mp3" weight="3" />
+			  <Asset name="DBB_106" path="DBB_106.mp3" weight="3" />
+			  <Asset name="DBB_107" path="DBB_107.mp3" weight="3" />
+			  <Asset name="DBB_108" path="DBB_108.mp3" weight="3" />
+			  <Asset name="DBB_109" path="DBB_109.mp3" weight="3" />
+			  <Asset name="DBB_110" path="DBB_110.mp3" weight="3" />
+			  <Asset name="DBB_111" path="DBB_111.mp3" weight="3" />
+			  <Asset name="DBB_112" path="DBB_112.mp3" weight="3" />
+			  <Asset name="DBB_113" path="DBB_113.mp3" weight="3" />
+			  <Asset name="DBB_114" path="DBB_114.mp3" weight="3" />
+			  <Asset name="DBB_115" path="DBB_115.mp3" weight="3" />
+			  <Asset name="DBB_116" path="DBB_116.mp3" weight="3" />
+			  <Asset name="DBB_117" path="DBB_117.mp3" weight="3" />
+			  <Asset name="DBB_118" path="DBB_118.mp3" weight="3" />
+			  <Asset name="DBB_118_ALT" path="DBB_118_ALT.mp3" weight="3" />
+			  <Asset name="DBB_118_ALT2" path="DBB_118_ALT2.mp3" weight="3" />
+			  <Asset name="DBB_120" path="DBB_120.mp3" weight="3" />
+			  <Asset name="DBB_124" path="DBB_124.mp3" weight="3" />
+			  <Asset name="DBB_125" path="DBB_125.mp3" weight="3" />
+			  <Asset name="DBB_126" path="DBB_126.mp3" weight="3" />
+			  <Asset name="DBB_127" path="DBB_127.mp3" weight="3" />
+			  <Asset name="DBB_129" path="DBB_129.mp3" weight="3" />
+			  <Asset name="DBB_136" path="DBB_136.mp3" weight="3" />
+			  <Asset name="DBB_137" path="DBB_137.mp3" weight="3" />
+			  <Asset name="DBB_138" path="DBB_138.mp3" weight="3" />
+			  
+			  
+				
+				<Asset name="FOU_15" path="FOU_15.mp3" weight="3" />
+				<Asset name="FOU_16" path="FOU_16.mp3" weight="3" />
+				<!-- Loaded down the document already
+				<Asset name="FOU_17" path="FOU_17.mp3" weight="3" />
+				<Asset name="FOU_29" path="FOU_29.mp3" weight="3" />
+				-->
+				<Asset name="FOU_18" path="FOU_18.mp3" weight="3" />
+				<Asset name="FOU_19" path="FOU_19.mp3" weight="3" />
+				<Asset name="FOU_24" path="FOU_24.mp3" weight="3" />
+				<Asset name="FOU_25" path="FOU_25.mp3" weight="3" />
+				<Asset name="FOU_28" path="FOU_28.mp3" weight="3" />
+				
+				<!-- OTHER GAME's FILES USED BY TREETOP -->
+				<Asset name="SSL_17" path="SSL_17.mp3" weight="3" />
+				<Asset name="SSL_18" path="SSL_18.mp3" weight="3" />
+				<Asset name="SSL_19" path="SSL_19.mp3" weight="3" />
+				<Asset name="SSL_20" path="SSL_20.mp3" weight="3" />
+				<Asset name="SSL_21" path="SSL_21.mp3" weight="3" />
+				<Asset name="FOU_17" path="FOU_17.mp3" weight="3" />
+				<Asset name="FOU_29" path="FOU_29.mp3" weight="3" />
+				<!-- END OTHER GAME's FILES USED BY TREETOP -->
+				
+				<Asset name="TT_12" path="TT_12.mp3" weight="3" />
+				<Asset name="TT_13" path="TT_13.mp3" weight="3" />
+				<Asset name="TT_14" path="TT_14.mp3" weight="3" />
+				<Asset name="TT_15" path="TT_15.mp3" weight="3" />
+				<Asset name="TT_16" path="TT_16.mp3" weight="3" />
+				<Asset name="TT_17" path="TT_17.mp3" weight="3" />
+				<Asset name="TT_18" path="TT_18.mp3" weight="3" />
+				<Asset name="TT_19" path="TT_19.mp3" weight="3" />
+				<Asset name="TT_20" path="TT_20.mp3" weight="3" />
+				<Asset name="TT_21" path="TT_21.mp3" weight="3" />
+				<Asset name="TT_22" path="TT_22.mp3" weight="3" />
+				<Asset name="TT_23" path="TT_23.mp3" weight="3" />
+				<Asset name="TT_24" path="TT_24.mp3" weight="3" />
+				<Asset name="TT_25" path="TT_25.mp3" weight="3" />
+				<Asset name="TT_35" path="TT_35.mp3" weight="3" />
+				<Asset name="TT_36" path="TT_36.mp3" weight="3" />
+				<Asset name="TT_37" path="TT_37.mp3" weight="3" />
+				<Asset name="TT_38" path="TT_38.mp3" weight="3" />
+				<Asset name="TT_39" path="TT_39.mp3" weight="3" />				
+				
+				<Asset name="WWE_36" path="WWE_36.mp3" weight="3" meta="WWE_36" />				
+				<Asset name="WWE_37" path="WWE_37.mp3" weight="3" meta="WWE_37" />				
+				<Asset name="WWE_40" path="WWE_40.mp3" weight="3" />				
+				
+				<!--
+				<Asset name="WR_4" path="WR_4.mp3" weight="3" />
+				<Asset name="WR_5" path="WR_5.mp3" weight="3" />
+				<Asset name="WR_6" path="WR_6.mp3" weight="3" />
+				<Asset name="WR_7" path="WR_7.mp3" weight="3" />
+				<Asset name="WR_8" path="WR_8.mp3" weight="3" />
+				<Asset name="WR_9" path="WR_9.mp3" weight="3" />
+				<Asset name="WR_10" path="WR_10.mp3" weight="3" />
+				<Asset name="WR_11" path="WR_11.mp3" weight="3" />
+				<Asset name="WR_12" path="WR_12.mp3" weight="3" />
+				<Asset name="WR_13" path="WR_13.mp3" weight="3" />
+				<Asset name="WR_14" path="WR_14.mp3" weight="3" />
+				<Asset name="WR_15" path="WR_15.mp3" weight="3" />
+				<Asset name="WR_16" path="WR_16.mp3" weight="3" />
+				<Asset name="WR_17" path="WR_17.mp3" weight="3" />
+				<Asset name="WR_18" path="WR_18.mp3" weight="3" />
+				<Asset name="WR_19" path="WR_19.mp3" weight="3" />
+				<Asset name="WR_20" path="WR_20.mp3" weight="3" />
+				<Asset name="WR_21" path="WR_21.mp3" weight="3" />
+				<Asset name="WR_22" path="WR_22.mp3" weight="3" />
+				<Asset name="WR_23" path="WR_23.mp3" weight="3" />
+				<Asset name="WR_24" path="WR_24.mp3" weight="3" />
+				<Asset name="WR_25" path="WR_25.mp3" weight="3" />
+				<Asset name="WR_26" path="WR_26.mp3" weight="3" />
+				<Asset name="WR_27" path="WR_27.mp3" weight="3" />
+				<Asset name="WR_28" path="WR_28.mp3" weight="3" />
+				<Asset name="WR_29" path="WR_29.mp3" weight="3" />
+				<Asset name="WR_30" path="WR_30.mp3" weight="3" />
+				--->
+				<Asset name="WR_40" path="WR_40.mp3" weight="3" />
+			</Sounds>	
+			<Images dir="">				
+				
+			</Images>
+		</Initial>
+		
+		<AsNeeded>
+				<!-- not likely to lazy load xml -->
+			<Xml dir="">
+				
+			</Xml>
+			
+			
+				<!-- likely to lazy load swfs -->
+			<Swfs dir="">
+				
+			</Swfs>	
+				
+			
+				<!-- not likely to lazy load sounds -->
+			<Sounds dir="">			
+				
+			</Sounds>			
+			
+				<!-- likely to lazy load images -->
+			<Images dir="">
+				
+			</Images>
+		</AsNeeded>
+	</Assets>
+	
+	
+</Settings>

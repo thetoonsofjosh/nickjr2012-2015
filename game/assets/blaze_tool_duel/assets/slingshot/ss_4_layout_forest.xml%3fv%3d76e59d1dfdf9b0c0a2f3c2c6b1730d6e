@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Scene Width="960" Height="832" Name="ss_4_layout_forest.xml">
+  <ImageDefs>
+    <Image ImageName="gp_tile_forest0_underground" X="0" Y="512" ImageType="Pattern" PatternWidth="960" PatternHeight="128" />
+    <Image ImageName="gp_tile_forest0_surface" X="0" Y="640" ImageType="Pattern" PatternWidth="960" PatternHeight="128" />
+  </ImageDefs>
+</Scene>

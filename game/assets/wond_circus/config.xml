@@ -1,0 +1,33 @@
+<config>	
+	
+	<screens>
+		<!-- Then Splash Screen -->
+		<screen>
+			<id>walkthrough</id>
+			<filename>screens/walkthrough.swf</filename>
+		</screen>
+		<!-- Map is Shown -->
+		<screen>
+			<id>map</id>
+			<filename>screens/map.swf</filename>
+		</screen>
+	</screens>
+	
+	<games>
+		<!-- Games -->
+		<game>
+			<id>catchaclown</id>
+			<filename>games/catchaclown/catchaclown.swf</filename>
+		</game>
+		<game>
+			<id>sealspelling</id>
+			<filename>games/sealspelling/SealSpelling.swf</filename>
+		</game>
+		<game>
+			<id>trapezestars</id>
+			<filename>games/trapezestars/trapezestars.swf</filename>
+		</game>		
+	</games>
+	
+	
+</config>

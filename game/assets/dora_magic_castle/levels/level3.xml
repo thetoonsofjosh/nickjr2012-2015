@@ -1,0 +1,369 @@
+<?xml version="1.0"?>
+
+<level>
+
+	<player>
+		<start_x>135</start_x>
+		<start_y>15</start_y>
+	</player>
+
+	<background>
+		<number_of_stones>50</number_of_stones>
+		<stone_bottom_threshold>125</stone_bottom_threshold>
+		<show_windows>true</show_windows>
+		<show_wall_accents>true</show_wall_accents>
+		<show_curtains>true</show_curtains>
+		<bg_assets>
+			<bg_id>bg3_1</bg_id>
+			<bg_id>bg3_2</bg_id>
+			<stones_id>wall_stones_3</stones_id>
+			<windows_id>windows</windows_id>
+			<curtains_id>curtains</curtains_id>
+			<accents_id>accents_3</accents_id>
+		</bg_assets>
+	</background>
+	
+	<correct_key_frame>3</correct_key_frame>
+	<correct_key_vo>level03</correct_key_vo>
+
+	<collectables>
+	
+		
+		<collectable>
+			<asset_id>potion</asset_id>
+			<cache_as_bitmap>true</cache_as_bitmap>
+			<potion>true</potion>
+			<x>800</x>
+			<y>550</y>
+		</collectable>
+		
+		<collectable>
+			<asset_id>star</asset_id>
+			<cache_as_bitmap>true</cache_as_bitmap>
+			<x>300</x>
+			<y>400</y>
+		</collectable>
+		
+		<collectable>
+			<asset_id>star</asset_id>
+			<cache_as_bitmap>true</cache_as_bitmap>
+			<x>450</x>
+			<y>850</y>
+		</collectable>
+	
+		<collectable>
+			<asset_id>star</asset_id>
+			<cache_as_bitmap>true</cache_as_bitmap>
+			<x>1000</x>
+			<y>800</y>
+		</collectable>
+	
+		<collectable>
+			<asset_id>star</asset_id>
+			<cache_as_bitmap>true</cache_as_bitmap>
+			<x>1350</x>
+			<y>650</y>
+		</collectable>
+	
+		<collectable>
+			<asset_id>star</asset_id>
+			<cache_as_bitmap>true</cache_as_bitmap>
+			<x>1200</x>
+			<y>950</y>
+		</collectable>
+		
+
+		<collectable>
+			<asset_id>keys</asset_id>
+			<cache_as_bitmap>true</cache_as_bitmap>
+			<frame>3</frame>
+			<correct_key>true</correct_key>
+			<x>650</x>
+			<y>1000</y>
+		</collectable>
+		
+		
+		<collectable>
+			<asset_id>keys</asset_id>
+			<cache_as_bitmap>true</cache_as_bitmap>
+			<frame>1</frame>
+			<x>1100</x>
+			<y>250</y>
+		</collectable>
+		
+		<collectable>
+			<asset_id>keys</asset_id>
+			<cache_as_bitmap>true</cache_as_bitmap>
+			<frame>5</frame>
+			<x>700</x>
+			<y>450</y>
+		</collectable>
+		
+
+		<collectable>
+			<asset_id>keys</asset_id>
+			<cache_as_bitmap>true</cache_as_bitmap>
+			<frame>10</frame>
+			<x>450</x>
+			<y>250</y>
+		</collectable>
+
+
+	</collectables>
+
+
+	<platforms>
+	
+		<platform>
+			<asset_id>doors</asset_id>
+			<cache_as_bitmap>true</cache_as_bitmap>
+			<door>true</door>
+			<frame>3</frame>
+			<x>1500</x>
+			<y>1060</y>
+		</platform>
+
+		<platform>
+			<asset_id>cookbook_3</asset_id>
+			<disable_scroll>true</disable_scroll>
+			<vo>book</vo>
+			<x>250</x>
+			<y>100</y>
+		</platform>
+		
+		<platform>
+			<asset_id>broom_3</asset_id>
+			<vo>broom</vo>
+			<disable_scroll>true</disable_scroll>
+			<x>125</x>
+			<y>150</y>
+		</platform>
+		
+		<platform>
+			<asset_id>tray_3</asset_id>
+			<vo>tray</vo>
+			<change_time>5</change_time>
+			<x>300</x>
+			<y>170</y>
+		</platform>
+
+		<platform>
+			<asset_id>broom_3</asset_id>
+			<vo>broom</vo>
+			<change_time>2</change_time>
+			<x>300</x>
+			<y>350</y>
+		</platform>
+		<!--star-->
+
+		<platform>
+			<asset_id>capital</asset_id>
+			<x>350</x>
+			<y>500</y>
+		</platform>
+
+		<platform>
+			<asset_id>tray_3</asset_id>
+			<vo>tray</vo>
+			<change_time>2</change_time>
+			<x>400</x>
+			<y>650</y>
+		</platform>
+		
+
+		<platform>
+			<asset_id>cookbook_3</asset_id>
+			<vo>book</vo>
+			<change_time>4</change_time>
+			<x>450</x>
+			<y>800</y>
+		</platform>
+		<!-- star -->
+
+		<platform>
+			<asset_id>broom_3</asset_id>
+			<vo>broom</vo>
+			<change_time>2</change_time>
+			<x>500</x>
+			<y>950</y>
+		</platform>
+
+
+		<platform>
+			<asset_id>cookbook_3</asset_id>
+			<vo>book</vo>
+			<change_time>0</change_time>
+			<x>650</x>
+			<y>950</y>
+		</platform>
+		<!-- correct key -->
+		
+		<platform>
+			<asset_id>broom_3</asset_id>
+			<vo>broom</vo>
+			<change_time>3</change_time>
+			<x>700</x>
+			<y>800</y>
+		</platform>
+		
+		<platform>
+			<asset_id>tray_3</asset_id>
+			<vo>tray</vo>
+			<change_time>2</change_time>
+			<x>750</x>
+			<y>650</y>
+		</platform>
+		
+		<platform>
+			<asset_id>cookbook_3</asset_id>
+			<vo>book</vo>
+			<change_time>5</change_time>
+			<x>800</x>
+			<y>500</y>
+		</platform>
+		<!-- potion -->
+
+
+		<platform>
+			<asset_id>tray_3</asset_id>
+			<vo>tray</vo>
+			<change_time>3</change_time>
+			<x>900</x>
+			<y>350</y>
+		</platform>
+
+		<platform>
+			<asset_id>broom_3</asset_id>
+			<vo>broom</vo>
+			<change_time>2</change_time>
+			<x>950</x>
+			<y>200</y>
+		</platform>
+		
+		<!-- key -->
+		
+		<platform>
+			<asset_id>cookbook_3</asset_id>
+			<vo>book</vo>
+			<change_time>4</change_time>
+			<x>1100</x>
+			<y>200</y>
+		</platform>
+
+		<platform>
+			<asset_id>tray_3</asset_id>
+			<vo>tray</vo>
+			<change_time>3</change_time>
+			<x>1200</x>
+			<y>350</y>
+		</platform>
+		
+		<platform>
+			<asset_id>broom_3</asset_id>
+			<vo>broom</vo>
+			<change_time>2</change_time>
+			<x>1300</x>
+			<y>450</y>
+		</platform>
+
+		
+		<platform>
+			<asset_id>barrel</asset_id>
+			<x>1350</x>
+			<y>600</y>
+		</platform>
+		<!-- star -->
+		
+		<platform>
+			<asset_id>tray_3</asset_id>
+			<vo>tray</vo>
+			<change_time>2</change_time>
+			<x>1400</x>
+			<y>750</y>
+		</platform>
+		
+		<platform>
+			<asset_id>cookbook_3</asset_id>
+			<vo>book</vo>
+			<change_time>5</change_time>
+			<x>1350</x>
+			<y>850</y>
+		</platform>
+
+		<platform>
+			<asset_id>capital</asset_id>
+			<x>1450</x>
+			<y>950</y>
+		</platform>
+		
+		<!--------------------------------->
+		
+		<platform>
+			<asset_id>capital</asset_id>
+			<x>450</x>
+			<y>200</y>
+		</platform>
+		
+		<!-- key -->
+		
+		<platform>
+			<asset_id>broom_3</asset_id>
+			<vo>broom</vo>
+			<change_time>2</change_time>
+			<x>600</x>
+			<y>300</y>
+		</platform>	
+	
+		<!-- key -->
+	
+		<platform>
+			<asset_id>cookbook_3</asset_id>
+			<vo>book</vo>
+			<change_time>2</change_time>
+			<x>700</x>
+			<y>400</y>
+		</platform>	
+		
+		<platform>
+			<asset_id>broom_3</asset_id>
+			<vo>broom</vo>
+			<change_time>5</change_time>
+			<x>950</x>
+			<y>600</y>
+		</platform>
+		
+		<platform>
+			<asset_id>barrel</asset_id>
+			<x>1000</x>
+			<y>750</y>
+		</platform>	
+		<!--star-->
+
+		<platform>
+			<asset_id>capital</asset_id>
+			<x>1050</x>
+			<y>900</y>
+		</platform>
+		
+		<platform>
+			<asset_id>cookbook_3</asset_id>
+			<vo>book</vo>
+			<change_time>5</change_time>
+			<x>1200</x>
+			<y>900</y>
+		</platform>
+		
+		<!-- star -->
+		
+		<platform>
+			<asset_id>broom_3</asset_id>
+			<vo>broom</vo>
+			<change_time>2</change_time>
+			<x>1300</x>
+			<y>1025</y>
+		</platform>
+		
+	
+	</platforms>
+
+</level>

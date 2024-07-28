@@ -1,0 +1,120 @@
+<Settings>
+  <SwfsToLoad>
+				<SwfToLoad id="music" path="/game/assets/moos_whats_diff/music.swf" target="none" />
+  </SwfsToLoad>
+	<GeneralSettings>
+			<constant id="problemsetcount" val="13" />
+			<constant id="picpath" val = "img/" />
+			<constant id="picfiletype" val = ".jpg" />
+			<!-- <constant id="gametitlestart" val = "6" /> -->
+			<constant id="gamerounds" val = "5" />
+	</GeneralSettings>
+	<SoundsToLoad dir="/game/assets/moos_whats_diff/mp3/">
+		<sound path="MWD_1.mp3" list="title" />
+		<sound path="MWD_2.mp3" list="title" />
+		<sound path="MWD_3.mp3" list="" />
+		<sound path="MWD_4.mp3" list="intro" />
+		<sound path="MWD_5.mp3" list="intro" />
+		<sound path="MWD_6.mp3" list="setup1" />
+		<sound path="MWD_7.mp3" list="setname1" />
+		<sound path="MWD_8.mp3" list="setname2" />
+		<sound path="MWD_9.mp3" list="setname3" />
+		<sound path="MWD_10.mp3" list="setname4" />
+		<sound path="MWD_11.mp3" list="setname5" />
+		<sound path="MWD_12.mp3" list="setname6" />
+		<sound path="MWD_13.mp3" list="setname7" />
+		<sound path="MWD_14.mp3" list="setname8" />
+		<sound path="MWD_15.mp3" list="transition1" />
+		<sound path="MWD_16.mp3" list="transition2" />
+		<sound path="MWD_17.mp3" list="transition3" />
+		<sound path="MWD_18.mp3" list="transition4" />
+		<sound path="MWD_19.mp3" list="transition5" />
+		<sound path="MWD_20.mp3" list="setup2" />
+		<sound path="MWD_21.mp3" list="setup3" />
+		<sound path="MWD_22.mp3" list="setintro1" />
+		<sound path="MWD_23.mp3" list="setintro1" />
+		<sound path="MWD_24.mp3" list="qprompt" />
+		<sound path="MWD_25a.mp3" list="qprompt" />
+		<sound path="MWD_25b.mp3" list="qprompt" />
+		<sound path="MWD_25c.mp3" list="qprompt" />
+		<sound path="MWD_25d.mp3" list="qprompt" />
+		<sound path="MWD_26.mp3" list="qprompt" />
+		<sound path="MWD_27.mp3" list="delayprompt" />
+		<sound path="MWD_28.mp3" list="wrong1" />
+		<sound path="MWD_29.mp3" list="wrong2" />
+		<sound path="MWD_30.mp3" list="wrong3" />
+		<sound path="MWD_31.mp3" list="reward1" />
+		<sound path="MWD_32.mp3" list="reward2" />
+		<sound path="MWD_33.mp3" list="reward3" />
+		<sound path="MWD_34.mp3" list="reward4" />
+		<sound path="MWD_35.mp3" list="reward5" />
+		<sound path="MWD_36.mp3" list="setwrap1" />
+		<sound path="MWD_37.mp3" list="setwrap1" />
+		<sound path="MWD_38.mp3" list="setintro2" />
+		<sound path="MWD_39.mp3" list="setintro2" />
+		<sound path="MWD_40.mp3" list="setwrap2" />
+		<sound path="MWD_41.mp3" list="setwrap2" />
+		<sound path="MWD_42.mp3" list="setintro3" />
+		<sound path="MWD_43.mp3" list="setintro3" />
+		<sound path="MWD_44.mp3" list="setwrap3" />
+		<sound path="MWD_45.mp3" list="setwrap3" />
+		<sound path="MWD_46.mp3" list="setintro4" />
+		<sound path="MWD_47.mp3" list="setintro4" />
+		<sound path="MWD_48.mp3" list="setwrap4" />
+		<sound path="MWD_49.mp3" list="setwrap4" />
+		<sound path="MWD_50.mp3" list="setintro5" />
+		<sound path="MWD_51.mp3" list="setintro5" />
+		<sound path="MWD_52.mp3" list="setwrap5" />
+		<sound path="MWD_53.mp3" list="setwrap5" />
+		<sound path="MWD_54.mp3" list="setintro8" />
+		<sound path="MWD_55.mp3" list="setintro8" />
+		<sound path="MWD_56.mp3" list="setwrap8" />
+		<sound path="MWD_57.mp3" list="setwrap8" />
+		<sound path="MWD_58.mp3" list="setintro6" />
+		<sound path="MWD_59.mp3" list="setintro6" />
+		<sound path="MWD_60.mp3" list="setwrap6" />
+		<sound path="MWD_61.mp3" list="setwrap6" />
+		<sound path="MWD_62.mp3" list="setintro7" />
+		<sound path="MWD_63.mp3" list="setintro7" />
+		<sound path="MWD_64.mp3" list="setwrap7" />
+		<sound path="MWD_65.mp3" list="setwrap7" />
+		<sound path="MWD_66.mp3" list="end" />
+		<sound path="MWD_67.mp3" list="end" />
+		<sound path="MWD_68.mp3" list="" />
+		<sound path="MWD_69.mp3" list="" />
+		<sound path="MWD_70.mp3" list="" />
+		<sound path="MWD_71.mp3" list="" />
+		<sound path="MWD_72.mp3" list="" />
+		<sound path="MWD_73.mp3" list="" />
+		<sound path="MWD_74.mp3" list="" />
+		<sound path="MWD_75.mp3" list="" />
+		<sound path="MWD_76.mp3" list="" />
+		<sound path="MWD_77.mp3" list="" />
+		<sound path="MWD_78.mp3" list="" />
+		<sound path="MWD_79.mp3" list="setname9" />
+		<sound path="MWD_80.mp3" list="setname10" />
+		<sound path="MWD_81.mp3" list="setname11" />
+		<sound path="MWD_82.mp3" list="setname12" />
+		<sound path="MWD_83.mp3" list="setname13" />
+		<sound path="MWD_84.mp3" list="setintro9" />
+		<sound path="MWD_85.mp3" list="setintro9" />
+		<sound path="MWD_86.mp3" list="setwrap9" />
+		<sound path="MWD_87.mp3" list="setwrap9" />
+		<sound path="MWD_88.mp3" list="setintro10" />
+		<sound path="MWD_89.mp3" list="setintro10" />
+		<sound path="MWD_90.mp3" list="setwrap10" />
+		<sound path="MWD_91.mp3" list="setwrap10" />
+		<sound path="MWD_92.mp3" list="setintro11" />
+		<sound path="MWD_93.mp3" list="setintro11" />
+		<sound path="MWD_94.mp3" list="setwrap11" />
+		<sound path="MWD_95.mp3" list="setwrap11" />
+		<sound path="MWD_96.mp3" list="setintro12" />
+		<sound path="MWD_97.mp3" list="setintro12" />
+		<sound path="MWD_98.mp3" list="setwrap12" />
+		<sound path="MWD_99.mp3" list="setwrap12" />
+		<sound path="MWD_100.mp3" list="setintro13" />
+		<sound path="MWD_101.mp3" list="setintro13" />
+		<sound path="MWD_102.mp3" list="setwrap13" />
+		<sound path="MWD_103.mp3" list="setwrap13" />
+	</SoundsToLoad>
+</Settings>

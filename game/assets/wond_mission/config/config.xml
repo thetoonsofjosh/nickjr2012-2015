@@ -1,0 +1,77 @@
+﻿<?xml version="1.0"?>
+<!-- Application Meta Data -->
+<!-- Sets Up Application -->
+<!-- Define Global Properties -->
+<!-- Loads External Dynamic Class Libraries -->
+<!-- Loads External Media Libraries:  RSLs or SWCs -->
+<!-- Contains no className attribs since no classes are instantiated dynamically from xml -->
+<Application x:Class="WpOnlineGameApplication" xmlns="http://www.nickonline.com/">
+	<display_name>Wonderpets Save The Day Game Application</display_name>
+	<version>0.001</version>
+	<fps>31</fps>
+	<flash_version>8</flash_version>
+	<quality>HIGH</quality>	<!-- LOW MEDIUM HIGH -->
+	<scale_mode>noScale</scale_mode>  <!-- noScale showAll -->
+	<width>600</width>
+	<height>340</height>
+	<reloadDefaultSceneName>AnimalPickerScreen</reloadDefaultSceneName>
+	<loading_display src="scenes/load_screen.swf" x="0" y="0" autoShow="true" />
+	<ExternalLibraryCollection>
+		<ClassLibraryCollection>
+			<!--   
+			<ClassLibrary id="OnlineGameFoundation" src="class_libraries/OnlineGameFoundation.swf"/>
+			<ClassLibrary id="WpOnlineGameApplication" src="class_libraries/WpOnlineGameApplication.swf"/>
+			-->
+		</ClassLibraryCollection>
+		<MediaLibraryCollection>
+			<!-- 
+			<MediaLibrary id="wp_audio_library" src="media_libraries/wp_audio_library.swf"/>
+			<MediaLibrary id="gp_animation_lib" src="media_libraries/gp_animation_lib.swf"/>
+			<MediaLibrary id="mm_animation_lib" src="media_libraries/mm_animation_lib.swf"/>
+			<MediaLibrary id="tt_animation_lib" src="media_libraries/tt_animation_lib.swf"/>
+			-->
+			<MediaLibrary id="wonderpets_save_penguin_game" src="scenes/wonderpets_save_penguin_game.swf"/>
+			<MediaLibrary id="wonderpets_save_dolphin_game" src="scenes/wonderpets_save_dolphin_game.swf"/>
+			<MediaLibrary id="wonderpets_save_pigeon_game" src="scenes/wonderpets_save_pigeon_game.swf"/>
+			<MediaLibrary id="wonderpets_save_dolphin_printable" src="scenes/wonderpets_save_dolphin_printable.swf"/>
+			<MediaLibrary id="wonderpets_save_pigeon_printable" src="scenes/wonderpets_save_pigeon_printable.swf"/>
+			<MediaLibrary id="wonderpets_save_penguin_printable" src="scenes/wonderpets_save_penguin_printable.swf"/>			
+		</MediaLibraryCollection>
+		<DataCollection>
+			<DataFile id="build_ship_game" src="config/build_ship_game.xml"/>
+			<DataFile id="dress_up_game" src="config/dress_up_game.xml"/>
+			<DataFile id="game_picker" src="config/game_picker.xml"/>
+			<DataFile id="name_picker" src="config/name_picker.xml"/>
+			<DataFile id="save_penguin_game" src="config/save_penguin_game.xml"/>
+			<DataFile id="save_pigeon_game" src="config/save_pigeon_game.xml"/>
+			<DataFile id="save_dolphin_game" src="config/save_dolphin_game.xml"/>
+		</DataCollection>		
+	</ExternalLibraryCollection>
+	<Content id="appContent" type="external">
+		<!-- Scene settings -->
+		<SceneCollection>
+			<!--  <Scene display_name="LoadingScreen" uri="scenes/load_screen.swf" start_x="0" start_y="0" type="anim" trans="cut" /> -->
+			<Scene display_name="TitleScreen" uri="scenes/logo_screen.swf" start_x="0" start_y="0" type="anim" trans_style="crossfade" />
+			<Scene display_name="IntroScreen" uri="scenes/intro_screen.swf" start_x="0" start_y="0" type="anim" trans_style="cut" />
+			<Scene display_name="NamePickerScreen" uri="scenes/name_screen.swf" start_x="0" start_y="0" type="anim" trans_style="cut" />				
+			<Scene display_name="AnimalPickerScreen" uri="scenes/animal_picker.swf" start_x="0" start_y="0" type="game" trans_style="cut" />
+			<Scene display_name="DressUpIntro" uri="scenes/animal_trans_screen.swf" start_x="0" start_y="0" type="game" trans_style="cut" />
+			<Scene display_name="DressUpGame" uri="scenes/wonderpets_dress_up_game.swf" start_x="0" start_y="0" type="game" trans_style="cut" />
+			<Scene display_name="DressUpOutroTrans" uri="scenes/dress_trans_screen.swf" start_x="0" start_y="0" type="anim" trans_style="cut" />
+			<Scene display_name="FlyboatGame" uri="scenes/wonderpets_buildship_game.swf" start_x="0" start_y="0" type="game" trans_style="cut" />
+			<Scene display_name="TuneInScreen" uri="scenes/wonderpets_tune_in.swf" start_x="0" start_y="0" type="game" trans_style="cut" />
+			
+			<!--  SAVE ANIMAL GAME based on user selection  
+			<scene display_name="SavePenguinGame" uri="scenes/wonderpets_save_penguin_game.swf" start_x="0" start_y="0" type="game" trans="cut" /> 		
+			<scene display_name="SaveDolphinGame" uri="scenes/wonderpets_save_dolphin_game.swf" start_x="0" start_y="0" type="game" trans="cut" />
+			<scene display_name="SavePenguinGame" uri="scenes/wonderpets_save_penguin_game.swf" start_x="0" start_y="0" type="game" trans="cut" /> 
+			-->
+			
+			<!--  PRINTABLE based on user selection  
+			<scene display_name="Printable" uri="scenes/wonderpets_save_dolphin_printable.swf" start_x="0" start_y="0" type="printable" trans="crossfade" /> 
+			<scene display_name="Printable" uri="scenes/wonderpets_save_pigeon_printable.swf" start_x="0" start_y="0" type="printable" trans="crossfade" /> 
+			<scene display_name="Printable" uri="scenes/wonderpets_save_penguin_printable.swf" start_x="0" start_y="0" type="printable" trans="crossfade" /> 
+			-->
+		</SceneCollection>
+	</Content>
+</Application>

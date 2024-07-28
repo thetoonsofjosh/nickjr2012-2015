@@ -1,0 +1,57 @@
+{
+    "vehicles": [
+        {
+            "id": "helicopter",
+            "pathType": "relative",
+            "tweenPoints": [
+                {
+                    "x": 0,
+                    "y": -700,
+                    "time": 1.7
+                },
+                {
+                    "x": 550,
+                    "y": 0,
+                    "time": 1.7
+                },
+                {
+                    "x": 1,
+                    "y": 700,
+                    "time": 1.7
+                }
+            ]
+        },
+        {
+            "id": "boat",
+            "pathType": "relative",
+            "tweenPoints": [
+                {
+                    "x": 625,
+                    "y": 0,
+                    "time": 3
+                }
+            ]
+        },
+        {
+            "id": "dragon",
+            "pathType": "relative",
+            "tweenPoints": [
+                {
+                    "x": 50,
+                    "y": -100,
+                    "time": 0.5
+                },
+                {
+                    "x": 1606,
+                    "y": 0,
+                    "time": 1.7
+                },
+                {
+                    "x": 50,
+                    "y": 100,
+                    "time": 0.3
+                }
+            ]
+        }
+    ]
+}

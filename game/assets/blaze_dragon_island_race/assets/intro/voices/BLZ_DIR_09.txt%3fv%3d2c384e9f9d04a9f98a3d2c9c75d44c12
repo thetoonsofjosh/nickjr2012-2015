@@ -1,0 +1,68 @@
+phn 5 265 46 x
+word 265 455 Well
+phn 265 395 77 w
+phn 395 425 65 EH
+phn 425 455 45 l
+punct 455 485 ,
+phn 455 485 51 x
+word 485 635 in
+phn 485 525 65 IH
+phn 525 635 52 n
+word 635 965 that
+phn 635 665 57 DH
+phn 665 815 86 AE
+phn 815 965 38 t
+word 965 1335 case
+phn 965 1005 56 k
+phn 1005 1155 83 EY
+phn 1155 1335 60 s
+punct 1335 1515 ,
+phn 1335 1515 0 x
+word 1515 1645 for
+phn 1515 1575 30 f
+phn 1575 1645 65 ER
+phn 1645 1775 58 x
+word 1775 2075 this
+phn 1775 1805 89 DH
+phn 1805 1915 77 IH
+phn 1915 2075 62 s
+word 2075 2465 race
+phn 2075 2175 71 r
+phn 2175 2295 77 EY
+phn 2295 2465 62 s
+punct 2465 2745 ,
+phn 2465 2745 18 x
+word 2745 2825 I
+phn 2745 2825 65 AY
+word 2825 3055 should
+phn 2825 2945 65 SH
+phn 2945 2975 65 UH
+phn 2975 3055 38 d
+word 3055 3425 try
+phn 3055 3195 73 t
+phn 3195 3275 68 r
+phn 3275 3425 85 AY
+word 3425 3625 my
+phn 3425 3505 55 m
+phn 3505 3625 77 AY
+phn 3625 3855 30 x
+word 3855 4265 biggest
+phn 3855 3925 83 b
+phn 3925 4005 68 IH
+phn 4005 4085 76 g
+phn 4085 4145 65 AH
+phn 4145 4225 56 s
+phn 4225 4265 0 t
+word 4265 4855 cheats
+phn 4265 4485 67 CH
+phn 4485 4685 100 IY
+phn 4685 4755 35 t
+phn 4755 4855 53 s
+phn 4855 5185 78 x
+word 5185 5595 ever
+phn 5185 5245 65 EH
+phn 5245 5315 43 v
+phn 5315 5595 119 ER
+punct 5595 5695 !
+phn 5595 5695 0 x
+end_markers

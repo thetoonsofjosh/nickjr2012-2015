@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+		<!--
+		dynamicText
+			params:
+				id (required):
+					The id of the library item
+				font (required):
+					Classname of font in fonts.swf
+				fontSize (required):
+					Size of font in textfield
+				fontColor (optional):
+					Color of text in textfield
+
+				isImage (optional):
+						Default is false.  
+					Use true if normally you want an image (think title screen). 
+					If true image instance var is displayed.
+					If false text node is displayed instead
+
+				vertAdjust (optional): 
+					Default is true.  
+					This will vertically center the new text on the original text height and y values.
+					Set to false if you want to always use the original y position (think scroll text under mask)
+
+			nodes:
+				url (optional): 
+					Only used if isImage is true.  
+					Useful if there is an external image you want to use instead of an image in the FLA
+
+				text (optional):
+					The text you want to display.  
+					You can leave blank or remove text node for blank.
+		-->
+</data>

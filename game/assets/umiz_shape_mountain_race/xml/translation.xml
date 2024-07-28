@@ -1,0 +1,17 @@
+<data>
+	
+	<localize>
+		<!-- intro -->
+		<loading_txt><![CDATA[LOADING...]]></loading_txt>
+		<title_line_1><![CDATA[UMICAR'S]]></title_line_1>
+		<title_line_2><![CDATA[SHAPE MOUNTAIN]]></title_line_2>
+		<title_line_3><![CDATA[RACE!]]></title_line_3>
+		<btn_play><![CDATA[PLAY]]></btn_play>
+		<btn_skip><![CDATA[SKIP]]></btn_skip>
+		
+		<!-- payoff -->
+		<btn_play_again_payoff><![CDATA[PLAY AGAIN]]></btn_play_again_payoff>
+		<btn_print_payoff><![CDATA[PRINT]]></btn_print_payoff>
+	</localize>
+	
+</data>

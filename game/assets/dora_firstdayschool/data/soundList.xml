@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<mp3 name="title_announce" url="mp3/Dora1.mp3" />
+	<mp3 name="title_click_prompt" url="mp3/Dora2.mp3" />
+	<mp3 name="play" url="mp3/Dora3.mp3" />
+	
+	<mp3 name="skip" url="mp3/Dora8.mp3" />
+	<mp3 name="si" url="mp3/Dora_Si.mp3" />
+	
+	<!-- 
+		Map VO 
+	-->
+	<mp3 name="map_river_1" url="mp3/Dora9a.mp3" />
+	<mp3 name="map_river_2" url="mp3/Dora9b.mp3" />
+	<mp3 name="map_river_3" url="mp3/Dora9c.mp3" />
+	<mp3 name="map_forest" url="mp3/Dora10.mp3" />
+	<mp3 name="map_school" url="mp3/Dora11.mp3" />
+	
+	
+	<!-- 
+		River Game VO 
+	-->
+	<mp3 name="river_I_see" url="mp3/Dora16.mp3" />
+	<mp3 name="river_turtles" url="mp3/Dora17.mp3" />
+	<mp3 name="river_turtle" url="mp3/Dora17B.mp3" />
+	
+	<mp3 name="river_needs_6" url="mp3/Dora18.mp3" />
+	<mp3 name="river_needs_8" url="mp3/Dora19.mp3" />
+	<mp3 name="river_needs_7" url="mp3/Dora20.mp3" />
+	<mp3 name="river_needs_9" url="mp3/Dora21.mp3" />
+	<mp3 name="river_needs_5" url="mp3/Dora22.mp3" />
+	<mp3 name="river_needs_10" url="mp3/Dora23.mp3" />
+	
+	<mp3 name="river_click_on_button" url="mp3/Dora24.mp3" />
+	
+	<mp3 name="river_1" url="mp3/Dora25.mp3" />
+	<mp3 name="river_2" url="mp3/Dora26.mp3" />
+	<mp3 name="river_3" url="mp3/Dora27.mp3" />
+	<mp3 name="river_4" url="mp3/Dora28.mp3" />
+	<mp3 name="river_5" url="mp3/Dora29.mp3" />
+	<mp3 name="river_6" url="mp3/Dora30.mp3" />
+	<mp3 name="river_7" url="mp3/Dora31.mp3" />
+	<mp3 name="river_8" url="mp3/Dora32.mp3" />
+	<mp3 name="river_9" url="mp3/Dora33.mp3" />
+	<mp3 name="river_10" url="mp3/Dora34.mp3" />
+	
+	<mp3 name="river_try_again" url="mp3/Dora35.mp3" />
+	<mp3 name="river_click_on_group" url="mp3/Dora36A.mp3" />
+	<mp3 name="river_all_together" url="mp3/Dora36B.mp3" />
+	<mp3 name="river_we_have" url="mp3/Dora37.mp3" />
+	<mp3 name="river_we_need" url="mp3/Dora39A.mp3" />
+	<mp3 name="river_more_turtles" url="mp3/Dora39B.mp3" />
+	<mp3 name="river_we_need_one_more" url="mp3/Dora40.mp3" />
+	<mp3 name="river_click_on_button_group" url="mp3/Dora41A.mp3" />
+	<mp3 name="river_turtles_group" url="mp3/Dora41B.mp3" />
+	<mp3 name="river_click_on_button_that_has_one" url="mp3/Dora42.mp3" />
+	<mp3 name="river_and" url="mp3/Dora43.mp3" />
+	<mp3 name="river_make" url="mp3/Dora44.mp3" />
+	<mp3 name="river_sum" url="mp3/Dora45.mp3" />
+	<mp3 name="river_now_boots_can_hop_across" url="mp3/Dora46.mp3" />
+	
+	<mp3 name="river_up_to_5" url="mp3/Dora47a.mp3" />
+	<mp3 name="river_up_to_6" url="mp3/Dora47.mp3" />
+	<mp3 name="river_up_to_7" url="mp3/Dora48.mp3" />
+	<mp3 name="river_up_to_8" url="mp3/Dora49.mp3" />
+	<mp3 name="river_up_to_9" url="mp3/Dora50.mp3" />
+	<mp3 name="river_up_to_10" url="mp3/Dora51.mp3" />
+	
+	<mp3 name="river_up_to_5_esp" url="mp3/Dora52a.mp3" />
+	<mp3 name="river_up_to_6_esp" url="mp3/Dora52.mp3" />
+	<mp3 name="river_up_to_7_esp" url="mp3/Dora53.mp3" />
+	<mp3 name="river_up_to_8_esp" url="mp3/Dora54.mp3" />
+	<mp3 name="river_up_to_9_esp" url="mp3/Dora55.mp3" />
+	<mp3 name="river_up_to_10_esp" url="mp3/Dora56.mp3" />
+	
+	<mp3 name="river_turtles_1" url="mp3/Dora57.mp3" />
+	<mp3 name="river_turtles_2" url="mp3/Dora58.mp3" />
+	<mp3 name="river_turtles_3" url="mp3/Dora59.mp3" />
+	<mp3 name="river_turtles_4" url="mp3/Dora60.mp3" />
+	<mp3 name="river_turtles_5" url="mp3/Dora61.mp3" />
+	<mp3 name="river_turtles_6" url="mp3/Dora62.mp3" />
+	<mp3 name="river_turtles_7" url="mp3/Dora63.mp3" />
+	<mp3 name="river_turtles_8" url="mp3/Dora64.mp3" />
+	<mp3 name="river_turtles_9" url="mp3/Dora65.mp3" />
+	<mp3 name="river_turtles_10" url="mp3/Dora66.mp3" />
+	
+	<mp3 name="river_turtles_1_esp" url="mp3/Dora67.mp3" />
+	<mp3 name="river_turtles_2_esp" url="mp3/Dora68.mp3" />
+	<mp3 name="river_turtles_3_esp" url="mp3/Dora69.mp3" />
+	<mp3 name="river_turtles_4_esp" url="mp3/Dora70.mp3" />
+	<mp3 name="river_turtles_5_esp" url="mp3/Dora71.mp3" />
+	<mp3 name="river_turtles_6_esp" url="mp3/Dora72.mp3" />
+	<mp3 name="river_turtles_7_esp" url="mp3/Dora73.mp3" />
+	<mp3 name="river_turtles_8_esp" url="mp3/Dora74.mp3" />
+	<mp3 name="river_turtles_9_esp" url="mp3/Dora75.mp3" />
+	<mp3 name="river_turtles_10_esp" url="mp3/Dora76.mp3" />
+	
+	<mp3 name="river_bink" url="mp3/notifier_11.mp3" />
+	
+	
+	
+	
+	<!-- 
+		Forest Game VO 
+	-->	
+	<mp3 name="BananaNut_Intro_Boots_0_Sentence_0" url="mp3/Boots8.mp3" />
+	<mp3 name="BananaNut_Intro_Boots_0_Sentence_1" url="mp3/Boots9.mp3" />
+	<mp3 name="BananaNut_Intro_Boots_0_Sentence_2" url="mp3/Dora81.mp3" />
+	
+	<mp3 name="BananaNut_Intro_Tico_0_Sentence_0" url="mp3/Boots10.mp3" />
+	<mp3 name="BananaNut_Intro_Tico_0_Sentence_1" url="mp3/Boots11.mp3" />
+	<mp3 name="BananaNut_Intro_Tico_0_Sentence_2" url="mp3/Dora82.mp3" />
+	
+	<mp3 name="BananaNut_Intro_Tico_1_Sentence_0" url="mp3/Dora93.mp3" />
+	<mp3 name="BananaNut_Intro_Boots_1_Sentence_0" url="mp3/Dora93B.mp3" />
+	
+	
+	<mp3 name="BananaNut_Question_Least_Boots_0_Sentence_0" url="mp3/Dora84.mp3" />
+	<mp3 name="BananaNut_Question_Most_Boots_0_Sentence_0" url="mp3/Dora83.mp3" />
+	<mp3 name="BananaNut_Question_Least_Tico_0_Sentence_0" url="mp3/Dora86.mp3" />
+	<mp3 name="BananaNut_Question_Most_Tico_0_Sentence_0" url="mp3/Dora85.mp3" />
+	
+	<mp3 name="BananaNut_CA_Least_Boots_0_Sentence_0" url="mp3/Dora88.mp3" />
+	<mp3 name="BananaNut_CA_Most_Boots_0_Sentence_0" url="mp3/Dora87.mp3" />
+	<mp3 name="BananaNut_CA_Least_Tico_0_Sentence_0" url="mp3/Dora90.mp3" />
+	<mp3 name="BananaNut_CA_Most_Tico_0_Sentence_0" url="mp3/Dora89.mp3" />
+	<mp3 name="BananaNut_CA_Sentence_1_Option_0" url="mp3/Dora184.mp3" />
+	<mp3 name="BananaNut_CA_Sentence_1_Option_1" url="mp3/Dora185.mp3" />
+	<mp3 name="BananaNut_CA_Sentence_1_Option_2" url="mp3/Dora186.mp3" />
+	<mp3 name="BananaNut_CA_Sentence_1_Option_3" url="mp3/Dora187.mp3" />
+	<mp3 name="BananaNut_CA_Sentence_1_Option_4" url="mp3/Dora188.mp3" />
+	
+	
+	<!--BananaNut_WA_TIMESINCORRECT_TARGET_CHARACTER_SUBSTAGE_Sentence_SENTENCENUM -->
+	<mp3 name="BananaNut_WA_0_Least_Boots_0_Sentence_0" url="mp3/Dora96.mp3" />
+	<mp3 name="BananaNut_WA_0_Most_Boots_0_Sentence_0" url="mp3/Dora95.mp3" />
+	<mp3 name="BananaNut_WA_0_Least_Tico_0_Sentence_0" url="mp3/Dora96.mp3" />
+	<mp3 name="BananaNut_WA_0_Most_Tico_0_Sentence_0" url="mp3/Dora95.mp3" />
+	
+	<mp3 name="BananaNut_WA_1_Least_Boots_0_Sentence_0" url="mp3/Dora98.mp3" />
+	<mp3 name="BananaNut_WA_1_Most_Boots_0_Sentence_0" url="mp3/Dora97.mp3" />
+	<mp3 name="BananaNut_WA_1_Least_Tico_0_Sentence_0" url="mp3/Dora100.mp3" />
+	<mp3 name="BananaNut_WA_1_Most_Tico_0_Sentence_0" url="mp3/Dora99.mp3" />
+	
+	<mp3 name="BananaNut_WA_2_Least_Boots_0_Sentence_0" url="mp3/Dora102.mp3" />
+	<mp3 name="BananaNut_WA_2_Most_Boots_0_Sentence_0" url="mp3/Dora101.mp3" />
+	<mp3 name="BananaNut_WA_2_Least_Tico_0_Sentence_0" url="mp3/Dora104.mp3" />
+	<mp3 name="BananaNut_WA_2_Most_Tico_0_Sentence_0" url="mp3/Dora103.mp3" />
+	
+	<mp3 name="BananaNut_WA_0_Least_Boots_1_Sentence_0" url="mp3/Dora96.mp3" />
+	<mp3 name="BananaNut_WA_0_Most_Boots_1_Sentence_0" url="mp3/Dora95.mp3" />
+	<mp3 name="BananaNut_WA_0_Least_Tico_1_Sentence_0" url="mp3/Dora96.mp3" />
+	<mp3 name="BananaNut_WA_0_Most_Tico_1_Sentence_0" url="mp3/Dora95.mp3" />
+	
+	<mp3 name="BananaNut_WA_1_Least_Boots_1_Sentence_0" url="mp3/Dora98.mp3" />
+	<mp3 name="BananaNut_WA_1_Most_Boots_1_Sentence_0" url="mp3/Dora97.mp3" />
+	<mp3 name="BananaNut_WA_1_Least_Tico_1_Sentence_0" url="mp3/Dora100.mp3" />
+	<mp3 name="BananaNut_WA_1_Most_Tico_1_Sentence_0" url="mp3/Dora99.mp3" />
+	
+	<mp3 name="BananaNut_WA_2_Least_Boots_1_Sentence_0" url="mp3/Dora102.mp3" />
+	<mp3 name="BananaNut_WA_2_Most_Boots_1_Sentence_0" url="mp3/Dora101.mp3" />
+	<mp3 name="BananaNut_WA_2_Least_Tico_1_Sentence_0" url="mp3/Dora104.mp3" />
+	<mp3 name="BananaNut_WA_2_Most_Tico_1_Sentence_0" url="mp3/Dora103.mp3" />
+	
+	<mp3 name="BananaNut_WA_0_Least_Boots_2_Sentence_0" url="mp3/Dora96.mp3" />
+	<mp3 name="BananaNut_WA_0_Most_Boots_2_Sentence_0" url="mp3/Dora95.mp3" />
+	<mp3 name="BananaNut_WA_0_Least_Tico_2_Sentence_0" url="mp3/Dora96.mp3" />
+	<mp3 name="BananaNut_WA_0_Most_Tico_2_Sentence_0" url="mp3/Dora95.mp3" />
+	
+	<mp3 name="BananaNut_WA_1_Least_Boots_2_Sentence_0" url="mp3/Dora98.mp3" />
+	<mp3 name="BananaNut_WA_1_Most_Boots_2_Sentence_0" url="mp3/Dora97.mp3" />
+	<mp3 name="BananaNut_WA_1_Least_Tico_2_Sentence_0" url="mp3/Dora100.mp3" />
+	<mp3 name="BananaNut_WA_1_Most_Tico_2_Sentence_0" url="mp3/Dora99.mp3" />
+	
+	<mp3 name="BananaNut_WA_2_Least_Boots_2_Sentence_0" url="mp3/Dora102.mp3" />
+	<mp3 name="BananaNut_WA_2_Most_Boots_2_Sentence_0" url="mp3/Dora101.mp3" />
+	<mp3 name="BananaNut_WA_2_Least_Tico_2_Sentence_0" url="mp3/Dora104.mp3" />
+	<mp3 name="BananaNut_WA_2_Most_Tico_2_Sentence_0" url="mp3/Dora103.mp3" />
+	
+	<mp3 name="BananaNut_Nag_Least_Sentence_0" url="mp3/Dora96_TO.mp3" />
+	<mp3 name="BananaNut_Nag_Most_Sentence_0" url="mp3/Dora95_TO.mp3" />
+	
+	<!-- 
+		School Level VO 
+	-->
+	<mp3 name="school_lets_help" url="mp3/Dora116.mp3" />
+	<mp3 name="school_clue" url="mp3/Dora117.mp3" />
+	<mp3 name="school_do_you_see" url="mp3/Dora117B.mp3" />
+	
+	<mp3 name="school_prompt_desk_a" url="mp3/Dora118a.mp3" />
+	<mp3 name="school_prompt_desk_b" url="mp3/Dora118b.mp3" />
+	<mp3 name="school_prompt_crayons_a" url="mp3/Dora119a.mp3" />
+	<mp3 name="school_prompt_crayons_b" url="mp3/Dora119b.mp3" />
+	<mp3 name="school_prompt_chair_a" url="mp3/Dora120a.mp3" />
+	<mp3 name="school_prompt_chair_b" url="mp3/Dora120b.mp3" />
+	<mp3 name="school_prompt_book_a" url="mp3/Dora121a.mp3" />
+	<mp3 name="school_prompt_book_b" url="mp3/Dora121b.mp3" />
+	<mp3 name="school_prompt_backpack_a" url="mp3/Dora123a.mp3" />
+	<mp3 name="school_prompt_backpack_b" url="mp3/Dora123b.mp3" />
+	<mp3 name="school_prompt_teacher_a" url="mp3/Dora124a.mp3" />
+	<mp3 name="school_prompt_teacher_b" url="mp3/Dora124b.mp3" />
+	<mp3 name="school_prompt_globe_a" url="mp3/Dora125a.mp3" />
+	<mp3 name="school_prompt_globe_b" url="mp3/Dora125b.mp3" />
+	<mp3 name="school_prompt_pencils_a" url="mp3/Dora126a.mp3" />
+	<mp3 name="school_prompt_pencils_b" url="mp3/Dora126b.mp3" />
+	<mp3 name="school_prompt_scissors_a" url="mp3/Dora127a.mp3" />
+	<mp3 name="school_prompt_scissors_b" url="mp3/Dora127b.mp3" />
+	<mp3 name="school_prompt_ruler_a" url="mp3/Dora128a.mp3" />
+	<mp3 name="school_prompt_ruler_b" url="mp3/Dora128b.mp3" />
+	<mp3 name="school_prompt_glue_a" url="mp3/Dora129a.mp3" />
+	<mp3 name="school_prompt_glue_b" url="mp3/Dora129b.mp3" />
+	<mp3 name="school_prompt_picture_a" url="mp3/Dora130a.mp3" />
+	<mp3 name="school_prompt_picture_b" url="mp3/Dora130b.mp3" />
+	
+	<mp3 name="school_combo_desk" url="mp3/Dora145.mp3" />
+	<mp3 name="school_solo_desk" url="mp3/Dora146.mp3" />
+	<mp3 name="school_combo_crayons" url="mp3/Dora148.mp3" />
+	<mp3 name="school_solo_crayons" url="mp3/crayons.mp3" />
+	<mp3 name="school_combo_chair" url="mp3/Dora151.mp3" />
+	<mp3 name="school_solo_chair" url="mp3/Dora152.mp3" />
+	<mp3 name="school_combo_book" url="mp3/Dora154.mp3" />
+	<mp3 name="school_solo_book" url="mp3/Dora155.mp3" />
+	<mp3 name="school_combo_backpack" url="mp3/Dora160.mp3" />
+	<mp3 name="school_solo_backpack" url="mp3/Dora161.mp3" />
+	<mp3 name="school_combo_teacher" url="mp3/Dora163.mp3" />
+	<mp3 name="school_solo_teacher" url="mp3/Dora164.mp3" />
+	<mp3 name="school_combo_globe" url="mp3/Dora166.mp3" />
+	<mp3 name="school_solo_globe" url="mp3/Dora167.mp3" />
+	<mp3 name="school_combo_pencils" url="mp3/Dora169.mp3" />
+	<mp3 name="school_solo_pencils" url="mp3/Dora170.mp3" />
+	<mp3 name="school_combo_scissors" url="mp3/Dora172.mp3" />
+	<mp3 name="school_solo_scissors" url="mp3/Dora173.mp3" />
+	<mp3 name="school_combo_ruler" url="mp3/Dora175.mp3" />
+	<mp3 name="school_solo_ruler" url="mp3/Dora176.mp3" />
+	<mp3 name="school_combo_glue" url="mp3/Dora178.mp3" />
+	<mp3 name="school_solo_glue" url="mp3/Dora179.mp3" />
+	<mp3 name="school_combo_picture" url="mp3/Dora181.mp3" />
+	<mp3 name="school_solo_picture" url="mp3/Dora182.mp3" />
+	
+	<mp3 name="school_kudos_muy_bien" url="mp3/Dora184.mp3" />
+	<mp3 name="school_kudos_perfecto" url="mp3/Dora185.mp3" />
+	<mp3 name="school_kudos_fantastico" url="mp3/Dora186.mp3" />
+	<mp3 name="school_kudos_maravilloso" url="mp3/Dora187.mp3" />
+	<mp3 name="school_kudos_that's_it" url="mp3/Dora188.mp3" />
+	<mp3 name="school_kudos_found_all" url="mp3/Dora189.mp3" />
+	
+	<mp3 name="school_incorrect_1" url="mp3/Dora190.mp3" />
+	<mp3 name="school_incorrect_2" url="mp3/Dora191.mp3" />
+	<mp3 name="school_click_on_the" url="mp3/Dora192.mp3" />
+	
+	<!-- 
+		End Screen VO
+	-->
+	<mp3 name="end_prompt" url="mp3/Dora195.mp3" />
+	<mp3 name="end_print" url="mp3/Dora196.mp3" />
+	<mp3 name="end_play_again" url="mp3/Dora197.mp3" />
+	<mp3 name="print_are_you_sure" url="mp3/Dora198.mp3" />
+	<mp3 name="print_yes" url="mp3/Dora199.mp3" />
+	<mp3 name="print_no" url="mp3/Dora200.mp3" />
+	
+	
+</data>

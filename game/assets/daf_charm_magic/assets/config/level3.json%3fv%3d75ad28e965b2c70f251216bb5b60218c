@@ -1,0 +1,1707 @@
+{
+    "world": {
+        "x": 0,
+        "y": 0,
+        "width": 14000,
+        "height": 1560,
+        "gridWidth": 50,
+        "gridHeight": 50,
+        "cameraOffsetX": -223,
+        "cameraOffsetY": -340
+    },
+    "layers": [
+        {
+            "key": "Background",
+            "parallax": false,
+            "edit": true,
+            "objects": [
+                {
+                    "key": "Level3BG",
+                    "spriteClass": "mc_BG_level3",
+                    "location": {
+                        "x": 25,
+                        "y": 1575
+                    }
+                },
+                {
+                    "key": "Level3BG",
+                    "spriteClass": "mc_BG_level3",
+                    "location": {
+                        "x": 975,
+                        "y": 1575
+                    }
+                },
+                {
+                    "key": "Level3BG",
+                    "spriteClass": "mc_BG_level3",
+                    "location": {
+                        "x": 1925,
+                        "y": 1575
+                    }
+                },
+                {
+                    "key": "Level3BG",
+                    "spriteClass": "mc_BG_level3",
+                    "location": {
+                        "x": 2875,
+                        "y": 1575
+                    }
+                },
+                {
+                    "key": "Level3BG",
+                    "spriteClass": "mc_BG_level3",
+                    "location": {
+                        "x": 3825,
+                        "y": 1575
+                    }
+                },
+                {
+                    "key": "Level3BG",
+                    "spriteClass": "mc_BG_level3",
+                    "location": {
+                        "x": 4775,
+                        "y": 1575
+                    }
+                },
+                {
+                    "key": "Level3BG",
+                    "spriteClass": "mc_BG_level3",
+                    "location": {
+                        "x": 5725,
+                        "y": 1575
+                    }
+                },
+                {
+                    "key": "Level3BG",
+                    "spriteClass": "mc_BG_level3",
+                    "location": {
+                        "x": 6675,
+                        "y": 1575
+                    }
+                },
+                {
+                    "key": "Level3BG",
+                    "spriteClass": "mc_BG_level3",
+                    "location": {
+                        "x": 7625,
+                        "y": 1575
+                    }
+                },
+                {
+                    "key": "Level3BG",
+                    "spriteClass": "mc_BG_level3",
+                    "location": {
+                        "x": 8575,
+                        "y": 1575
+                    }
+                },
+                {
+                    "key": "Level3BG",
+                    "spriteClass": "mc_BG_level3",
+                    "location": {
+                        "x": 9525,
+                        "y": 1575
+                    }
+                },
+                {
+                    "key": "Level3BG",
+                    "spriteClass": "mc_BG_level3",
+                    "location": {
+                        "x": 10475,
+                        "y": 1575
+                    }
+                },
+                {
+                    "key": "Level3BG",
+                    "spriteClass": "mc_BG_level3",
+                    "location": {
+                        "x": 11425,
+                        "y": 1575
+                    }
+                },
+                {
+                    "key": "Level3BG",
+                    "spriteClass": "mc_BG_level3",
+                    "location": {
+                        "x": 12375,
+                        "y": 1575
+                    }
+                },
+                {
+                    "key": "Level3BG",
+                    "spriteClass": "mc_BG_level3",
+                    "location": {
+                        "x": 13325,
+                        "y": 1575
+                    }
+                }
+            ]
+        },
+        {
+            "key": "LevelBoundary",
+            "parallax": false,
+            "edit": true,
+            "objects": [
+                {
+                    "key": "verticalBoundary",
+                    "location": {
+                        "x": 75,
+                        "y": 75
+                    }
+                },
+                {
+                    "key": "horizontalBoundary",
+                    "location": {
+                        "x": 25,
+                        "y": 1575
+                    }
+                },
+                {
+                    "key": "endOfLevelRegion",
+                    "location": {
+                        "x": 13550,
+                        "y": 1525
+                    },
+                    "params": [
+                        {
+                            "id": "regionType",
+                            "value": "endOfLevel"
+                        }
+                    ]
+                },
+                {
+                    "key": "verticalBoundary",
+                    "location": {
+                        "x": 13925,
+                        "y": 1525
+                    }
+                }
+            ]
+        },
+        {
+            "key": "Environment",
+            "parallax": false,
+            "edit": true,
+            "objects": [
+                {
+                    "key": "L3 Platform 1",
+                    "spriteClass": "mc_level3_platform1",
+                    "location": {
+                        "x": 675,
+                        "y": 1325
+                    }
+                },
+                {
+                    "key": "L3 Platform 2",
+                    "spriteClass": "mc_level3_platform2",
+                    "location": {
+                        "x": 925,
+                        "y": 1325
+                    }
+                },
+                {
+                    "key": "L3 Platform 2",
+                    "spriteClass": "mc_level3_platform2",
+                    "location": {
+                        "x": 1175,
+                        "y": 1325
+                    }
+                },
+                {
+                    "key": "L3 Platform 2",
+                    "spriteClass": "mc_level3_platform2",
+                    "location": {
+                        "x": 1425,
+                        "y": 1175
+                    }
+                },
+                {
+                    "key": "L3 Platform 1",
+                    "spriteClass": "mc_level3_platform1",
+                    "location": {
+                        "x": 1675,
+                        "y": 1175
+                    }
+                },
+                {
+                    "key": "L3 Platform 1",
+                    "spriteClass": "mc_level3_platform1",
+                    "location": {
+                        "x": 1825,
+                        "y": 1325
+                    }
+                },
+                {
+                    "key": "L3 Platform 1",
+                    "spriteClass": "mc_level3_platform1",
+                    "location": {
+                        "x": 2075,
+                        "y": 1325
+                    }
+                },
+                {
+                    "key": "L3 Platform 1",
+                    "spriteClass": "mc_level3_platform1",
+                    "location": {
+                        "x": 2325,
+                        "y": 1325
+                    }
+                },
+                {
+                    "key": "L3 Platform 2",
+                    "spriteClass": "mc_level3_platform2",
+                    "location": {
+                        "x": 2825,
+                        "y": 1125
+                    }
+                },
+                {
+                    "key": "L3 Platform 2",
+                    "spriteClass": "mc_level3_platform2",
+                    "location": {
+                        "x": 3025,
+                        "y": 1275
+                    }
+                },
+                {
+                    "key": "L3 Platform 1",
+                    "spriteClass": "mc_level3_platform1",
+                    "location": {
+                        "x": 3275,
+                        "y": 1275
+                    }
+                },
+                {
+                    "key": "L3 Platform 2",
+                    "spriteClass": "mc_level3_platform2",
+                    "location": {
+                        "x": 3525,
+                        "y": 1325
+                    }
+                },
+                {
+                    "key": "L3 MovingPlatform",
+                    "spriteClass": "mc_level3_elevator",
+                    "location": {
+                        "x": 4025,
+                        "y": 1425
+                    },
+                    "params": [
+                        {
+                            "id": "moveXMin",
+                            "value": 100
+                        },
+                        {
+                            "id": "moveXMax",
+                            "value": 100
+                        },
+                        {
+                            "id": "moveYMin",
+                            "value": 100
+                        },
+                        {
+                            "id": "moveYMax",
+                            "value": 100
+                        },
+                        {
+                            "id": "xDuration",
+                            "value": 4
+                        },
+                        {
+                            "id": "yDuration",
+                            "value": 2
+                        }
+                    ]
+                },
+                {
+                    "key": "L3 Platform 1",
+                    "spriteClass": "mc_level3_platform1",
+                    "location": {
+                        "x": 4275,
+                        "y": 1275
+                    }
+                },
+                {
+                    "key": "L3 Platform 2",
+                    "spriteClass": "mc_level3_platform2",
+                    "location": {
+                        "x": 4775,
+                        "y": 1325
+                    }
+                },
+                {
+                    "key": "L3 Platform 2",
+                    "spriteClass": "mc_level3_platform2",
+                    "location": {
+                        "x": 5025,
+                        "y": 1325
+                    }
+                },
+                {
+                    "key": "L3 Platform 2",
+                    "spriteClass": "mc_level3_platform2",
+                    "location": {
+                        "x": 5275,
+                        "y": 1125
+                    }
+                },
+                {
+                    "key": "L3 Platform 1",
+                    "spriteClass": "mc_level3_platform1",
+                    "location": {
+                        "x": 5525,
+                        "y": 1125
+                    }
+                },
+                {
+                    "key": "L3 Platform 1",
+                    "spriteClass": "mc_level3_platform1",
+                    "location": {
+                        "x": 5775,
+                        "y": 1125
+                    }
+                },
+                {
+                    "key": "L3 Platform 1",
+                    "spriteClass": "mc_level3_platform1",
+                    "location": {
+                        "x": 4425,
+                        "y": 1075
+                    }
+                },
+                {
+                    "key": "L3 Platform 1",
+                    "spriteClass": "mc_level3_platform1",
+                    "location": {
+                        "x": 5975,
+                        "y": 1325
+                    }
+                },
+                {
+                    "key": "L3 Platform 2",
+                    "spriteClass": "mc_level3_platform2",
+                    "location": {
+                        "x": 6225,
+                        "y": 1325
+                    }
+                },
+                {
+                    "key": "L3 Platform 2",
+                    "spriteClass": "mc_level3_platform2",
+                    "location": {
+                        "x": 6475,
+                        "y": 1325
+                    }
+                },
+                {
+                    "key": "L3 Platform 2",
+                    "spriteClass": "mc_level3_platform2",
+                    "location": {
+                        "x": 6725,
+                        "y": 1175
+                    }
+                },
+                {
+                    "key": "L3 Platform 2",
+                    "spriteClass": "mc_level3_platform2",
+                    "location": {
+                        "x": 6975,
+                        "y": 1325
+                    }
+                },
+                {
+                    "key": "L3 Platform 1",
+                    "spriteClass": "mc_level3_platform1",
+                    "location": {
+                        "x": 7225,
+                        "y": 1325
+                    }
+                },
+                {
+                    "key": "L3 Platform 1",
+                    "spriteClass": "mc_level3_platform1",
+                    "location": {
+                        "x": 7475,
+                        "y": 1325
+                    }
+                },
+                {
+                    "key": "L3 Platform 1",
+                    "spriteClass": "mc_level3_platform1",
+                    "location": {
+                        "x": 7375,
+                        "y": 1125
+                    }
+                },
+                {
+                    "key": "L3 Platform 1",
+                    "spriteClass": "mc_level3_platform1",
+                    "location": {
+                        "x": 7725,
+                        "y": 1325
+                    }
+                },
+                {
+                    "key": "L3 Platform 2",
+                    "spriteClass": "mc_level3_platform2",
+                    "location": {
+                        "x": 7625,
+                        "y": 1125
+                    }
+                },
+                {
+                    "key": "L3 Platform 2",
+                    "spriteClass": "mc_level3_platform2",
+                    "location": {
+                        "x": 8375,
+                        "y": 1325
+                    }
+                },
+                {
+                    "key": "L3 Platform 2",
+                    "spriteClass": "mc_level3_platform2",
+                    "location": {
+                        "x": 8675,
+                        "y": 1175
+                    }
+                },
+                {
+                    "key": "L3 MovingPlatform",
+                    "spriteClass": "mc_level3_elevator",
+                    "location": {
+                        "x": 8975,
+                        "y": 1425
+                    },
+                    "params": [
+                        {
+                            "id": "moveXMin",
+                            "value": 100
+                        },
+                        {
+                            "id": "moveXMax",
+                            "value": 100
+                        },
+                        {
+                            "id": "moveYMin",
+                            "value": 100
+                        },
+                        {
+                            "id": "moveYMax",
+                            "value": 100
+                        },
+                        {
+                            "id": "xDuration",
+                            "value": 4
+                        },
+                        {
+                            "id": "yDuration",
+                            "value": 2
+                        }
+                    ]
+                },
+                {
+                    "key": "L3 Platform 1",
+                    "spriteClass": "mc_level3_platform1",
+                    "location": {
+                        "x": 9275,
+                        "y": 1225
+                    }
+                },
+                {
+                    "key": "Cliff",
+                    "spriteClass": "mc_cliff_gap",
+                    "location": {
+                        "x": 10475,
+                        "y": 1450
+                    }
+                },
+                {
+                    "key": "Shrub",
+                    "spriteClass": "mc_level3_shrub_obstacle",
+                    "location": {
+                        "x": 1075,
+                        "y": 1325
+                    },
+                    "params": [
+                        {
+                            "id": "obstacleType",
+                            "value": "shrub"
+                        }
+                    ]
+                },
+                {
+                    "key": "Shrub2",
+                    "spriteClass": "mc_level3_shrub_obstacle2",
+                    "location": {
+                        "x": 1625,
+                        "y": 1475
+                    },
+                    "params": [
+                        {
+                            "id": "obstacleType",
+                            "value": "shrub"
+                        }
+                    ]
+                },
+                {
+                    "key": "L3 Platform 2",
+                    "spriteClass": "mc_level3_platform2",
+                    "location": {
+                        "x": 2575,
+                        "y": 1325
+                    }
+                },
+                {
+                    "key": "RabbitHole",
+                    "spriteClass": "mc_level3_rabbit_obstacle",
+                    "location": {
+                        "x": 3325,
+                        "y": 1275
+                    },
+                    "params": [
+                        {
+                            "id": "obstacleType",
+                            "value": "rabbitHole"
+                        }
+                    ]
+                },
+                {
+                    "key": "L3 Platform 2",
+                    "spriteClass": "mc_level3_platform2",
+                    "location": {
+                        "x": 4525,
+                        "y": 1275
+                    }
+                },
+                {
+                    "key": "Dice",
+                    "spriteClass": "mc_level3_dice_obstacle",
+                    "location": {
+                        "x": 5225,
+                        "y": 1325
+                    },
+                    "params": [
+                        {
+                            "id": "obstacleType",
+                            "value": "dice"
+                        }
+                    ]
+                },
+                {
+                    "key": "Shrub2",
+                    "spriteClass": "mc_level3_shrub_obstacle2",
+                    "location": {
+                        "x": 6375,
+                        "y": 1325
+                    },
+                    "params": [
+                        {
+                            "id": "obstacleType",
+                            "value": "shrub"
+                        }
+                    ]
+                },
+                {
+                    "key": "Shrub",
+                    "spriteClass": "mc_level3_shrub_obstacle",
+                    "location": {
+                        "x": 6875,
+                        "y": 1475
+                    },
+                    "params": [
+                        {
+                            "id": "obstacleType",
+                            "value": "shrub"
+                        }
+                    ]
+                },
+                {
+                    "key": "Dice",
+                    "spriteClass": "mc_level3_dice_obstacle",
+                    "location": {
+                        "x": 7675,
+                        "y": 1325
+                    },
+                    "params": [
+                        {
+                            "id": "obstacleType",
+                            "value": "dice"
+                        }
+                    ]
+                },
+                {
+                    "key": "Shrub2",
+                    "spriteClass": "mc_level3_shrub_obstacle2",
+                    "location": {
+                        "x": 8475,
+                        "y": 1525
+                    },
+                    "params": [
+                        {
+                            "id": "obstacleType",
+                            "value": "shrub"
+                        }
+                    ]
+                },
+                {
+                    "key": "Shrub",
+                    "spriteClass": "mc_level3_shrub_obstacle",
+                    "location": {
+                        "x": 2225,
+                        "y": 1475
+                    },
+                    "params": [
+                        {
+                            "id": "obstacleType",
+                            "value": "shrub"
+                        }
+                    ]
+                },
+                {
+                    "key": "Shrub",
+                    "spriteClass": "mc_level3_shrub_obstacle",
+                    "location": {
+                        "x": 4575,
+                        "y": 1475
+                    },
+                    "params": [
+                        {
+                            "id": "obstacleType",
+                            "value": "shrub"
+                        }
+                    ]
+                },
+                {
+                    "key": "Level3EndWall",
+                    "spriteClass": "mc_level3_End",
+                    "location": {
+                        "x": 13575,
+                        "y": 1125
+                    }
+                },
+                {
+                    "key": "Shrub2",
+                    "spriteClass": "mc_level3_shrub_obstacle2",
+                    "location": {
+                        "x": 3025,
+                        "y": 1475
+                    },
+                    "params": [
+                        {
+                            "id": "obstacleType",
+                            "value": "shrub"
+                        }
+                    ]
+                },
+                {
+                    "key": "RabbitHole",
+                    "spriteClass": "mc_level3_rabbit_obstacle",
+                    "location": {
+                        "x": 5675,
+                        "y": 1525
+                    },
+                    "params": [
+                        {
+                            "id": "obstacleType",
+                            "value": "rabbitHole"
+                        }
+                    ]
+                },
+                {
+                    "key": "RabbitHole",
+                    "spriteClass": "mc_level3_rabbit_obstacle",
+                    "location": {
+                        "x": 7375,
+                        "y": 1525
+                    },
+                    "params": [
+                        {
+                            "id": "obstacleType",
+                            "value": "rabbitHole"
+                        }
+                    ]
+                },
+                {
+                    "key": "L3 Platform 1",
+                    "spriteClass": "mc_level3_platform1",
+                    "location": {
+                        "x": 12175,
+                        "y": 1325
+                    }
+                },
+                {
+                    "key": "L3 Platform 2",
+                    "spriteClass": "mc_level3_platform2",
+                    "location": {
+                        "x": 12675,
+                        "y": 1325
+                    }
+                },
+                {
+                    "key": "RabbitHole",
+                    "spriteClass": "mc_level3_rabbit_obstacle",
+                    "location": {
+                        "x": 9375,
+                        "y": 1525
+                    },
+                    "params": [
+                        {
+                            "id": "obstacleType",
+                            "value": "rabbitHole"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "key": "Player",
+            "parallax": false,
+            "edit": true,
+            "objects": [
+                {
+                    "key": "L3 Dora",
+                    "spriteClass": "mc_scooter_level3",
+                    "location": {
+                        "x": 350,
+                        "y": 1525
+                    }
+                }
+            ]
+        },
+        {
+            "key": "Collectibles",
+            "parallax": false,
+            "edit": true,
+            "objects": [
+                {
+                    "key": "Card",
+                    "spriteClass": "mc_level3_card",
+                    "location": {
+                        "x": 575,
+                        "y": 1475
+                    }
+                },
+                {
+                    "key": "Card",
+                    "spriteClass": "mc_level3_card",
+                    "location": {
+                        "x": 775,
+                        "y": 1325
+                    }
+                },
+                {
+                    "key": "Card",
+                    "spriteClass": "mc_level3_card",
+                    "location": {
+                        "x": 925,
+                        "y": 1325
+                    }
+                },
+                {
+                    "key": "Card",
+                    "spriteClass": "mc_level3_card",
+                    "location": {
+                        "x": 775,
+                        "y": 1475
+                    }
+                },
+                {
+                    "key": "Card",
+                    "spriteClass": "mc_level3_card",
+                    "location": {
+                        "x": 1025,
+                        "y": 1475
+                    }
+                },
+                {
+                    "key": "Card",
+                    "spriteClass": "mc_level3_card",
+                    "location": {
+                        "x": 1275,
+                        "y": 1475
+                    }
+                },
+                {
+                    "key": "Card",
+                    "spriteClass": "mc_level3_card",
+                    "location": {
+                        "x": 1275,
+                        "y": 1325
+                    }
+                },
+                {
+                    "key": "Card",
+                    "spriteClass": "mc_level3_card",
+                    "location": {
+                        "x": 1375,
+                        "y": 1325
+                    }
+                },
+                {
+                    "key": "Card",
+                    "spriteClass": "mc_level3_card",
+                    "location": {
+                        "x": 1525,
+                        "y": 1175
+                    }
+                },
+                {
+                    "key": "Card",
+                    "spriteClass": "mc_level3_card",
+                    "location": {
+                        "x": 1625,
+                        "y": 1175
+                    }
+                },
+                {
+                    "key": "Card",
+                    "spriteClass": "mc_level3_card",
+                    "location": {
+                        "x": 1725,
+                        "y": 1175
+                    }
+                },
+                {
+                    "key": "Card",
+                    "spriteClass": "mc_level3_card",
+                    "location": {
+                        "x": 1825,
+                        "y": 1175
+                    }
+                },
+                {
+                    "key": "Card",
+                    "spriteClass": "mc_level3_card",
+                    "location": {
+                        "x": 1675,
+                        "y": 1075
+                    }
+                },
+                {
+                    "key": "Card",
+                    "spriteClass": "mc_level3_card",
+                    "location": {
+                        "x": 1575,
+                        "y": 1075
+                    }
+                },
+                {
+                    "key": "Card",
+                    "spriteClass": "mc_level3_card",
+                    "location": {
+                        "x": 1775,
+                        "y": 1075
+                    }
+                },
+                {
+                    "key": "Card",
+                    "spriteClass": "mc_level3_card",
+                    "location": {
+                        "x": 1975,
+                        "y": 1325
+                    }
+                },
+                {
+                    "key": "Card",
+                    "spriteClass": "mc_level3_card",
+                    "location": {
+                        "x": 2175,
+                        "y": 1325
+                    }
+                },
+                {
+                    "key": "Card",
+                    "spriteClass": "mc_level3_card",
+                    "location": {
+                        "x": 2275,
+                        "y": 1175
+                    }
+                },
+                {
+                    "key": "Card",
+                    "spriteClass": "mc_level3_card",
+                    "location": {
+                        "x": 2375,
+                        "y": 1325
+                    }
+                },
+                {
+                    "key": "Card",
+                    "spriteClass": "mc_level3_card",
+                    "location": {
+                        "x": 2125,
+                        "y": 1175
+                    }
+                },
+                {
+                    "key": "Card",
+                    "spriteClass": "mc_level3_card",
+                    "location": {
+                        "x": 2725,
+                        "y": 1325
+                    }
+                },
+                {
+                    "key": "Card",
+                    "spriteClass": "mc_level3_card",
+                    "location": {
+                        "x": 2925,
+                        "y": 1125
+                    }
+                },
+                {
+                    "key": "Card",
+                    "spriteClass": "mc_level3_card",
+                    "location": {
+                        "x": 3025,
+                        "y": 1125
+                    }
+                },
+                {
+                    "key": "Card",
+                    "spriteClass": "mc_level3_card",
+                    "location": {
+                        "x": 2975,
+                        "y": 1025
+                    }
+                },
+                {
+                    "key": "Card",
+                    "spriteClass": "mc_level3_card",
+                    "location": {
+                        "x": 2575,
+                        "y": 1475
+                    }
+                },
+                {
+                    "key": "Card",
+                    "spriteClass": "mc_level3_card",
+                    "location": {
+                        "x": 2825,
+                        "y": 1475
+                    }
+                },
+                {
+                    "key": "Card",
+                    "spriteClass": "mc_level3_card",
+                    "location": {
+                        "x": 3175,
+                        "y": 1275
+                    }
+                },
+                {
+                    "key": "Card",
+                    "spriteClass": "mc_level3_card",
+                    "location": {
+                        "x": 3275,
+                        "y": 1275
+                    }
+                },
+                {
+                    "key": "Card",
+                    "spriteClass": "mc_level3_card",
+                    "location": {
+                        "x": 3475,
+                        "y": 1275
+                    }
+                },
+                {
+                    "key": "Card",
+                    "spriteClass": "mc_level3_card",
+                    "location": {
+                        "x": 3675,
+                        "y": 1325
+                    }
+                },
+                {
+                    "key": "Card",
+                    "spriteClass": "mc_level3_card",
+                    "location": {
+                        "x": 3775,
+                        "y": 1525
+                    }
+                },
+                {
+                    "key": "Card",
+                    "spriteClass": "mc_level3_card",
+                    "location": {
+                        "x": 3875,
+                        "y": 1525
+                    }
+                },
+                {
+                    "key": "Card",
+                    "spriteClass": "mc_level3_card",
+                    "location": {
+                        "x": 3675,
+                        "y": 1525
+                    }
+                },
+                {
+                    "key": "Card",
+                    "spriteClass": "mc_level3_card",
+                    "location": {
+                        "x": 4075,
+                        "y": 1175
+                    }
+                },
+                {
+                    "key": "Card",
+                    "spriteClass": "mc_level3_card",
+                    "location": {
+                        "x": 3975,
+                        "y": 1175
+                    }
+                },
+                {
+                    "key": "Card",
+                    "spriteClass": "mc_level3_card",
+                    "location": {
+                        "x": 4175,
+                        "y": 1175
+                    }
+                },
+                {
+                    "key": "Card",
+                    "spriteClass": "mc_level3_card",
+                    "location": {
+                        "x": 4275,
+                        "y": 1525
+                    }
+                },
+                {
+                    "key": "Card",
+                    "spriteClass": "mc_level3_card",
+                    "location": {
+                        "x": 4375,
+                        "y": 1525
+                    }
+                },
+                {
+                    "key": "Card",
+                    "spriteClass": "mc_level3_card",
+                    "location": {
+                        "x": 4375,
+                        "y": 1275
+                    }
+                },
+                {
+                    "key": "Card",
+                    "spriteClass": "mc_level3_card",
+                    "location": {
+                        "x": 4475,
+                        "y": 1275
+                    }
+                },
+                {
+                    "key": "Card",
+                    "spriteClass": "mc_level3_card",
+                    "location": {
+                        "x": 4525,
+                        "y": 1075
+                    }
+                },
+                {
+                    "key": "Card",
+                    "spriteClass": "mc_level3_card",
+                    "location": {
+                        "x": 4625,
+                        "y": 1075
+                    }
+                },
+                {
+                    "key": "Card",
+                    "spriteClass": "mc_level3_card",
+                    "location": {
+                        "x": 4575,
+                        "y": 975
+                    }
+                },
+                {
+                    "key": "Card",
+                    "spriteClass": "mc_level3_card",
+                    "location": {
+                        "x": 4725,
+                        "y": 1275
+                    }
+                },
+                {
+                    "key": "Card",
+                    "spriteClass": "mc_level3_card",
+                    "location": {
+                        "x": 4925,
+                        "y": 1325
+                    }
+                },
+                {
+                    "key": "Card",
+                    "spriteClass": "mc_level3_card",
+                    "location": {
+                        "x": 5075,
+                        "y": 1325
+                    }
+                },
+                {
+                    "key": "Card",
+                    "spriteClass": "mc_level3_card",
+                    "location": {
+                        "x": 5025,
+                        "y": 1225
+                    }
+                },
+                {
+                    "key": "Card",
+                    "spriteClass": "mc_level3_card",
+                    "location": {
+                        "x": 5375,
+                        "y": 1125
+                    }
+                },
+                {
+                    "key": "Card",
+                    "spriteClass": "mc_level3_card",
+                    "location": {
+                        "x": 5475,
+                        "y": 1125
+                    }
+                },
+                {
+                    "key": "Card",
+                    "spriteClass": "mc_level3_card",
+                    "location": {
+                        "x": 5575,
+                        "y": 1125
+                    }
+                },
+                {
+                    "key": "Card",
+                    "spriteClass": "mc_level3_card",
+                    "location": {
+                        "x": 5775,
+                        "y": 1125
+                    }
+                },
+                {
+                    "key": "Card",
+                    "spriteClass": "mc_level3_card",
+                    "location": {
+                        "x": 5875,
+                        "y": 1125
+                    }
+                },
+                {
+                    "key": "Card",
+                    "spriteClass": "mc_level3_card",
+                    "location": {
+                        "x": 5975,
+                        "y": 1125
+                    }
+                },
+                {
+                    "key": "Card",
+                    "spriteClass": "mc_level3_card",
+                    "location": {
+                        "x": 5475,
+                        "y": 1025
+                    }
+                },
+                {
+                    "key": "Card",
+                    "spriteClass": "mc_level3_card",
+                    "location": {
+                        "x": 5875,
+                        "y": 1025
+                    }
+                },
+                {
+                    "key": "Card",
+                    "spriteClass": "mc_level3_card",
+                    "location": {
+                        "x": 5475,
+                        "y": 1475
+                    }
+                },
+                {
+                    "key": "Card",
+                    "spriteClass": "mc_level3_card",
+                    "location": {
+                        "x": 5925,
+                        "y": 1475
+                    }
+                },
+                {
+                    "key": "Card",
+                    "spriteClass": "mc_level3_card",
+                    "location": {
+                        "x": 6075,
+                        "y": 1325
+                    }
+                },
+                {
+                    "key": "Card",
+                    "spriteClass": "mc_level3_card",
+                    "location": {
+                        "x": 6175,
+                        "y": 1325
+                    }
+                },
+                {
+                    "key": "Card",
+                    "spriteClass": "mc_level3_card",
+                    "location": {
+                        "x": 6525,
+                        "y": 1325
+                    }
+                },
+                {
+                    "key": "Card",
+                    "spriteClass": "mc_level3_card",
+                    "location": {
+                        "x": 6625,
+                        "y": 1325
+                    }
+                },
+                {
+                    "key": "Card",
+                    "spriteClass": "mc_level3_card",
+                    "location": {
+                        "x": 6825,
+                        "y": 1175
+                    }
+                },
+                {
+                    "key": "Card",
+                    "spriteClass": "mc_level3_card",
+                    "location": {
+                        "x": 6925,
+                        "y": 1175
+                    }
+                },
+                {
+                    "key": "Card",
+                    "spriteClass": "mc_level3_card",
+                    "location": {
+                        "x": 6875,
+                        "y": 1075
+                    }
+                },
+                {
+                    "key": "Card",
+                    "spriteClass": "mc_level3_card",
+                    "location": {
+                        "x": 7075,
+                        "y": 1325
+                    }
+                },
+                {
+                    "key": "Card",
+                    "spriteClass": "mc_level3_card",
+                    "location": {
+                        "x": 7175,
+                        "y": 1325
+                    }
+                },
+                {
+                    "key": "Card",
+                    "spriteClass": "mc_level3_card",
+                    "location": {
+                        "x": 7275,
+                        "y": 1325
+                    }
+                },
+                {
+                    "key": "Card",
+                    "spriteClass": "mc_level3_card",
+                    "location": {
+                        "x": 7375,
+                        "y": 1325
+                    }
+                },
+                {
+                    "key": "Card",
+                    "spriteClass": "mc_level3_card",
+                    "location": {
+                        "x": 7225,
+                        "y": 1225
+                    }
+                },
+                {
+                    "key": "Card",
+                    "spriteClass": "mc_level3_card",
+                    "location": {
+                        "x": 7475,
+                        "y": 1125
+                    }
+                },
+                {
+                    "key": "Card",
+                    "spriteClass": "mc_level3_card",
+                    "location": {
+                        "x": 7825,
+                        "y": 1325
+                    }
+                },
+                {
+                    "key": "Card",
+                    "spriteClass": "mc_level3_card",
+                    "location": {
+                        "x": 7925,
+                        "y": 1325
+                    }
+                },
+                {
+                    "key": "Card",
+                    "spriteClass": "mc_level3_card",
+                    "location": {
+                        "x": 7925,
+                        "y": 1475
+                    }
+                },
+                {
+                    "key": "Card",
+                    "spriteClass": "mc_level3_card",
+                    "location": {
+                        "x": 8075,
+                        "y": 1475
+                    }
+                },
+                {
+                    "key": "Card",
+                    "spriteClass": "mc_level3_card",
+                    "location": {
+                        "x": 8225,
+                        "y": 1475
+                    }
+                },
+                {
+                    "key": "Card",
+                    "spriteClass": "mc_level3_card",
+                    "location": {
+                        "x": 8325,
+                        "y": 1475
+                    }
+                },
+                {
+                    "key": "Card",
+                    "spriteClass": "mc_level3_card",
+                    "location": {
+                        "x": 8475,
+                        "y": 1325
+                    }
+                },
+                {
+                    "key": "Card",
+                    "spriteClass": "mc_level3_card",
+                    "location": {
+                        "x": 8575,
+                        "y": 1325
+                    }
+                },
+                {
+                    "key": "Card",
+                    "spriteClass": "mc_level3_card",
+                    "location": {
+                        "x": 8775,
+                        "y": 1175
+                    }
+                },
+                {
+                    "key": "Card",
+                    "spriteClass": "mc_level3_card",
+                    "location": {
+                        "x": 8875,
+                        "y": 1175
+                    }
+                },
+                {
+                    "key": "Card",
+                    "spriteClass": "mc_level3_card",
+                    "location": {
+                        "x": 8825,
+                        "y": 1075
+                    }
+                },
+                {
+                    "key": "Card",
+                    "spriteClass": "mc_level3_card",
+                    "location": {
+                        "x": 8825,
+                        "y": 1475
+                    }
+                },
+                {
+                    "key": "Card",
+                    "spriteClass": "mc_level3_card",
+                    "location": {
+                        "x": 9125,
+                        "y": 1225
+                    }
+                },
+                {
+                    "key": "Card",
+                    "spriteClass": "mc_level3_card",
+                    "location": {
+                        "x": 9375,
+                        "y": 1225
+                    }
+                },
+                {
+                    "key": "Card",
+                    "spriteClass": "mc_level3_card",
+                    "location": {
+                        "x": 9475,
+                        "y": 1225
+                    }
+                },
+                {
+                    "key": "Card",
+                    "spriteClass": "mc_level3_card",
+                    "location": {
+                        "x": 9425,
+                        "y": 1125
+                    }
+                },
+                {
+                    "key": "Card",
+                    "spriteClass": "mc_level3_card",
+                    "location": {
+                        "x": 9325,
+                        "y": 1125
+                    }
+                },
+                {
+                    "key": "Card",
+                    "spriteClass": "mc_level3_card",
+                    "location": {
+                        "x": 9525,
+                        "y": 1125
+                    }
+                },
+                {
+                    "key": "Card",
+                    "spriteClass": "mc_level3_card",
+                    "location": {
+                        "x": 9225,
+                        "y": 1475
+                    }
+                },
+                {
+                    "key": "Card",
+                    "spriteClass": "mc_level3_card",
+                    "location": {
+                        "x": 9675,
+                        "y": 1475
+                    }
+                },
+                {
+                    "key": "Card",
+                    "spriteClass": "mc_level3_card",
+                    "location": {
+                        "x": 12325,
+                        "y": 1525
+                    }
+                },
+                {
+                    "key": "Card",
+                    "spriteClass": "mc_level3_card",
+                    "location": {
+                        "x": 12525,
+                        "y": 1525
+                    }
+                },
+                {
+                    "key": "Card",
+                    "spriteClass": "mc_level3_card",
+                    "location": {
+                        "x": 4625,
+                        "y": 1275
+                    }
+                },
+                {
+                    "key": "Card",
+                    "spriteClass": "mc_level3_card",
+                    "location": {
+                        "x": 12425,
+                        "y": 1525
+                    }
+                },
+                {
+                    "key": "Card",
+                    "spriteClass": "mc_level3_card",
+                    "location": {
+                        "x": 9825,
+                        "y": 1475
+                    }
+                },
+                {
+                    "key": "Card",
+                    "spriteClass": "mc_level3_card",
+                    "location": {
+                        "x": 9975,
+                        "y": 1475
+                    }
+                },
+                {
+                    "key": "Card",
+                    "spriteClass": "mc_level3_card",
+                    "location": {
+                        "x": 2575,
+                        "y": 1325
+                    }
+                },
+                {
+                    "key": "Card",
+                    "spriteClass": "mc_level3_card",
+                    "location": {
+                        "x": 7575,
+                        "y": 1125
+                    }
+                },
+                {
+                    "key": "Card",
+                    "spriteClass": "mc_level3_card",
+                    "location": {
+                        "x": 7675,
+                        "y": 1125
+                    }
+                },
+                {
+                    "key": "Card",
+                    "spriteClass": "mc_level3_card",
+                    "location": {
+                        "x": 7775,
+                        "y": 1125
+                    }
+                },
+                {
+                    "key": "Card",
+                    "spriteClass": "mc_level3_card",
+                    "location": {
+                        "x": 12625,
+                        "y": 1525
+                    }
+                },
+                {
+                    "key": "Card",
+                    "spriteClass": "mc_level3_card",
+                    "location": {
+                        "x": 12725,
+                        "y": 1525
+                    }
+                },
+                {
+                    "key": "Card",
+                    "spriteClass": "mc_level3_card",
+                    "location": {
+                        "x": 12825,
+                        "y": 1525
+                    }
+                },
+                {
+                    "key": "Card",
+                    "spriteClass": "mc_level3_card",
+                    "location": {
+                        "x": 12925,
+                        "y": 1525
+                    }
+                },
+                {
+                    "key": "Card",
+                    "spriteClass": "mc_level3_card",
+                    "location": {
+                        "x": 13025,
+                        "y": 1525
+                    }
+                },
+                {
+                    "key": "Card",
+                    "spriteClass": "mc_level3_card",
+                    "location": {
+                        "x": 13475,
+                        "y": 1525
+                    }
+                },
+                {
+                    "key": "Card",
+                    "spriteClass": "mc_level3_card",
+                    "location": {
+                        "x": 12575,
+                        "y": 1425
+                    }
+                },
+                {
+                    "key": "Card",
+                    "spriteClass": "mc_level3_card",
+                    "location": {
+                        "x": 12275,
+                        "y": 1325
+                    }
+                },
+                {
+                    "key": "Card",
+                    "spriteClass": "mc_level3_card",
+                    "location": {
+                        "x": 12375,
+                        "y": 1325
+                    }
+                },
+                {
+                    "key": "Card",
+                    "spriteClass": "mc_level3_card",
+                    "location": {
+                        "x": 12325,
+                        "y": 1275
+                    }
+                },
+                {
+                    "key": "Card",
+                    "spriteClass": "mc_level3_card",
+                    "location": {
+                        "x": 12775,
+                        "y": 1325
+                    }
+                },
+                {
+                    "key": "Card",
+                    "spriteClass": "mc_level3_card",
+                    "location": {
+                        "x": 12825,
+                        "y": 1325
+                    }
+                },
+                {
+                    "key": "Card",
+                    "spriteClass": "mc_level3_card",
+                    "location": {
+                        "x": 12875,
+                        "y": 1325
+                    }
+                },
+                {
+                    "key": "Card",
+                    "spriteClass": "mc_level3_card",
+                    "location": {
+                        "x": 12925,
+                        "y": 1325
+                    }
+                },
+                {
+                    "key": "Card",
+                    "spriteClass": "mc_level3_card",
+                    "location": {
+                        "x": 12825,
+                        "y": 1225
+                    }
+                },
+                {
+                    "key": "Card",
+                    "spriteClass": "mc_level3_card",
+                    "location": {
+                        "x": 12875,
+                        "y": 1225
+                    }
+                }
+            ]
+        }
+    ]
+}

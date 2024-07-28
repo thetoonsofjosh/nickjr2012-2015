@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<prefabs>
+	<!-- PLAYER -->
+	<gameObject sub_id="Player" id="Player" props="x:n0,y:n0,width:n100,height:n100,color:u0x000000">
+		<artAsset classname="char_anim" x="0" y="0" insertionType="insert" />
+	</gameObject>
+	
+	<!-- POWER UPS -->
+	<gameObject sub_id="Umbrella" id="TimedPickup" props="x:n0,y:n0,width:n75,height:n50,color:u0xff0000,pickupType:sumbrella,respawnTime:i13,effectTime:i10" >
+		<artAsset classname="umbrella_anim" x="0" y="0" insertionType="insert" />
+	</gameObject>
+	<gameObject sub_id="StickyShoes" id="TimedPickup" props="x:n0,y:n0,width:n50,height:n75,color:u0xff0000,pickupType:ssticky_shoes,respawnTime:i13,effectTime:i10" >
+		<artAsset classname="horseshoe_anim" x="0" y="0" insertionType="insert" />
+	</gameObject>
+	
+	<!-- REGIONS -->
+	<gameObject sub_id="RegionShrinkHitbox" id="Region" props="x:n0,y:n0,width:n25,height:n2000,color:u0xff0000,regionType:sshrink_hitbox" />
+	<gameObject sub_id="RegionEnlargeHitbox" id="Region" props="x:n0,y:n0,width:n100,height:n25,color:u0x00ff00,regionType:senlarge_hitbox" />
+	<gameObject sub_id="RegionEndLevel" id="Region" props="x:n0,y:n0,width:n75,height:n50,color:u0x0ff000,regionType:send_level" />
+	<gameObject sub_id="RegionWaterfall" id="Region" props="x:n0,y:n0,width:n300,height:n600,color:u0x0ff000,regionType:shigh_gravity" />
+	<gameObject sub_id="RegionForegroundWaterfall" id="BinaryRegion" props="x:n0,y:n0,width:n300,height:n600,color:u0x0ff000,regionType:sforeground_waterfall,startOn:btrue">
+		<artAsset classname="waterfall_overlay" x="0" y="0" insertionType="insert" />
+	</gameObject>
+	<gameObject sub_id="RegionSpiderWeb" id="SlowDownRegion" props="x:n0,y:n0,width:n100,height:n100,color:u0x0ff000,regionType:sslow_down,effectTime:i5,respawnTime:i5">
+		<artAsset classname="pickupTexture" x="0" y="0" insertionType="insert" />
+	</gameObject>
+	<gameObject sub_id="RegionVO" id="VORegion" props="x:n0,y:n0,width:n100,height:n100,color:u0x0ff000,regionType:svo,voString:sblank,shouldRespawn:bfalse,respawnTime:i5" />
+	
+	<!-- PLATFORMS -->
+	<gameObject sub_id="Platform" id="Platform" props="x:n0,y:n0,width:n100,height:n25,color:u0x00ff00" >
+		<artAsset classname="platformTexture" x="0" y="0" insertionType="insert" />
+	</gameObject>
+	<gameObject sub_id="JumpThroughPlatform" id="JumpThroughPlatform" props="x:n0,y:n0,width:n125,height:n25,color:u0x0000ff" >
+		<artAsset classname="jumpThroughPlatformTexture" x="0" y="0" insertionType="insert" />
+	</gameObject>
+	<gameObject sub_id="BouncyPlatform" id="BouncyPlatform" props="x:n0,y:n0,width:n100,height:n25,color:u0x00ff00" >
+		<artAsset classname="platformTexture" x="0" y="0" insertionType="insert" />
+	</gameObject>
+	
+	<gameObject sub_id="SlantedPlatformRight" id="SlantedPlatform" props="x:n0,y:n0,width:n300,height:n300,color:u0x00ff00,face_right:btrue,slippery:btrue" >
+		<artAsset classname="slantedPlatformTexture" x="0" y="0" insertionType="insert" />
+	</gameObject>
+	<gameObject sub_id="SlantedPlatformLeft" id="SlantedPlatform" props="x:n0,y:n0,width:n300,height:n300,color:u0x00ff00,face_right:bfalse,slippery:btrue" >
+		<artAsset classname="slantedPlatformTexture" x="300" y="0" insertionType="insert" />
+	</gameObject>
+	
+	<gameObject sub_id="MovingPlatform" id="MovingPlatform" props="x:n0,y:n0,width:n100,height:n25,color:u0x00ff00,minXMove:n100,maxXMove:n100,minYMove:n0,maxYMove:n0,speedX:n2,speedY:n0,platformType:sdefault" >
+		<artAsset classname="platformTexture" x="0" y="0" insertionType="insert" />
+	</gameObject>
+	
+	<gameObject sub_id="SinkingPlatform" id="SinkingPlatform" props="x:n0,y:n0,width:n125,height:n25,color:u0x0000ff,standingTime:i1,maxYMove:n200,sinkSpeed:n4,riseSpeed:n2" >
+		<artAsset classname="jumpThroughPlatformTexture" x="0" y="0" insertionType="insert" />
+	</gameObject>
+	
+	<!-- DECALS -->
+	<gameObject sub_id="Decal" id="Decal" props="x:n0,y:n0,width:n100,height:n100,color:u0x0000ff" >
+	</gameObject>
+	
+	<!-- MUSHROOMS -->
+	<gameObject sub_id="MushroomCenter" id="BouncyPlatform" props="x:n0,y:n0,width:n75,height:n75,color:u0x00ff00" >
+		<artAsset classname="mushroom_ground" x="-25" y="0" insertionType="insert" />
+	</gameObject>
+	<gameObject sub_id="MushroomLeft" id="BouncyPlatform" props="x:n0,y:n0,width:n75,height:n75,color:u0x00ff00" >
+		<artAsset classname="mushroom_side" x="-25" y="0" insertionType="insert" />
+	</gameObject>
+	<gameObject sub_id="MushroomRight" id="BouncyPlatform" props="x:n0,y:n0,width:n75,height:n75,color:u0x00ff00" >
+		<artAsset classname="mushroom_side2" x="-25" y="0" insertionType="insert" />
+	</gameObject>
+	
+	<!-- BOOKS -->
+	<gameObject sub_id="BookGreen" id="Pickup" props="x:n0,y:n0,width:n50,height:n50,color:u0x0000ff,pickupType:sbook" >
+		<artAsset classname="book1" x="0" y="0" insertionType="insert" />
+	</gameObject>
+	<gameObject sub_id="BookYellow" id="Pickup" props="x:n0,y:n0,width:n50,height:n50,color:u0x0000ff,pickupType:sbook" >
+		<artAsset classname="book2" x="0" y="0" insertionType="insert" />
+	</gameObject>
+	<gameObject sub_id="BookRed" id="Pickup" props="x:n0,y:n0,width:n50,height:n50,color:u0x0000ff,pickupType:sbook" >
+		<artAsset classname="book3" x="0" y="0" insertionType="insert" />
+	</gameObject>
+	
+	<!-- CRAYONS -->
+	<gameObject sub_id="CrayonPurple" id="Pickup" props="x:n0,y:n0,width:n50,height:n50,color:u0xff0000,pickupType:scrayon">
+      <artAsset classname="crayon1" insertType="" x="25" y="0"/>
+    </gameObject>
+	<gameObject sub_id="CrayonBlue" id="Pickup" props="x:n0,y:n0,width:n50,height:n50,color:u0xff0000,pickupType:scrayon">
+      <artAsset classname="crayon2" insertType="" x="25" y="0"/>
+    </gameObject>
+	<gameObject sub_id="CrayonGreen" id="Pickup" props="x:n0,y:n0,width:n50,height:n50,color:u0xff0000,pickupType:scrayon">
+      <artAsset classname="crayon3" insertType="" x="25" y="0"/>
+    </gameObject>
+	<gameObject sub_id="CrayonYellow" id="Pickup" props="x:n0,y:n0,width:n50,height:n50,color:u0xff0000,pickupType:scrayon">
+      <artAsset classname="crayon4" insertType="" x="25" y="0"/>
+    </gameObject>
+	<gameObject sub_id="CrayonOrange" id="Pickup" props="x:n0,y:n0,width:n50,height:n50,color:u0xff0000,pickupType:scrayon">
+      <artAsset classname="crayon5" insertType="" x="25" y="0"/>
+    </gameObject>
+	<gameObject sub_id="CrayonRed" id="Pickup" props="x:n0,y:n0,width:n50,height:n50,color:u0xff0000,pickupType:scrayon">
+      <artAsset classname="crayon6" insertType="" x="25" y="0"/>
+    </gameObject>
+	
+</prefabs>

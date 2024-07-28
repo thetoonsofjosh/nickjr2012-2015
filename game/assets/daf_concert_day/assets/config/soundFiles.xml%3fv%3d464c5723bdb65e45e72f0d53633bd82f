@@ -1,0 +1,265 @@
+<data dir="mp3/">
+	<music channel="music" volume="50">
+		<sound file="gameSting" id="titleSting" volume="40" loops="0" packName="primary"/>
+		<sound file="decorateLoop" id="introLoop" volume="25" loops="1" packName="primary"/>
+		<sound file="decorateLoop" id="builderLoop" volume="25" loops="1" packName="primary"/>
+		<sound file="gameLoop" id="gameLoop1" volume="35" loops="1" packName="primary"/>
+		<sound file="DandF_MusicAddions" id="gameLoop3" volume="35" loops="1" packName="primary"/>
+		<sound file="DandF_MusicAddions2" id="gameLoop2" volume="30" loops="1" packName="primary"/>
+		<sound file="endSong" volume="40" loops="0" packName="primary"/>
+	</music>
+	
+	<sfx channel="sfx" volume="50" muteable="true">
+	<!-- GAMEPLAY SFX -->
+		<sound file="ro4" volume="40" inLibrary="false" packName="primary" />
+		<sound file="picShrink" volume="50" inLibrary="false" packName="primary" />
+		<sound file="hitDrum" id="mc_instrument3Collected" volume="50" inLibrary="false" packName="primary" />
+		<sound file="hitKeys" id="mc_instrument1Collected" volume="50" inLibrary="false" packName="primary" />
+		<sound file="hitGuitar" id="mc_instrument2Collected" volume="50" inLibrary="false" packName="primary" />
+		<sound file="WPoolObst" volume="50" inLibrary="false" packName="primary" />
+		<sound file="rockObst" volume="50" inLibrary="false" packName="primary" />
+		<sound file="windObst" volume="50" inLibrary="false" packName="primary" />
+		<sound file="intro3App" volume="50" inLibrary="false" packName="primary" />
+		<sound file="intro2Whoosh" volume="50" inLibrary="false" packName="primary" />
+		<sound file="intro2Trans" volume="60" inLibrary="false" packName="primary" />
+		<sound file="glint1" volume="50" inLibrary="false" packName="primary" />
+		<sound file="glint2" volume="50" inLibrary="false" packName="primary" />
+		<sound file="camera" volume="50" inLibrary="false" packName="primary" />
+		<sound file="ro2" id="radioBtnRO" volume="40" inLibrary="false" packName="primary" />
+		<sound file="clickBG1" id="mural1" volume="40" inLibrary="false" packName="primary" />
+		<sound file="clickBG2" id="mural2" volume="40" inLibrary="false" packName="primary" />
+		<sound file="clickBG3" id="mural3" volume="40" inLibrary="false" packName="primary" />
+		<sound file="clickBG1" id="prop1" volume="40" inLibrary="false" packName="primary" />
+		<sound file="clickBG2" id="prop2" volume="40" inLibrary="false" packName="primary" />
+		<sound file="clickBG3" id="prop3" volume="40" inLibrary="false" packName="primary" />
+		<sound file="clickBG1" id="light1" volume="40" inLibrary="false" packName="primary" />
+		<sound file="clickBG2" id="light2" volume="40" inLibrary="false" packName="primary" />
+		<sound file="clickBG3" id="light3" volume="40" inLibrary="false" packName="primary" />
+		<sound file="collectPaper1" id="collectPickup" volume="50" inLibrary="false" packName="primary" />
+		<sound file="collectPaper2" id="collectPickup" volume="50" inLibrary="false" packName="primary" />
+		<sound file="collectPaper3" id="collectPickup" volume="50" inLibrary="false" packName="primary" />
+		<sound file="crowd" volume="30" inLibrary="false" packName="primary" />
+		<sound file="dirt" volume="100" inLibrary="false" packName="primary" />
+		<sound file="incrementPaper" id="incrementReward" volume="50" inLibrary="false" packName="primary" />
+		<sound file="puddle" volume="70" inLibrary="false" packName="primary" />
+		<sound file="speedBoost" volume="80" inLibrary="false" packName="primary" />
+		<sound file="windGust" volume="50" inLibrary="false" packName="primary" />
+		<sound file="losePoints" volume="30" inLibrary="false" packName="primary" />
+
+
+	<!-- STANDARD BTN SOUNDS -->
+		<sound file="click3" id="playBtnClick"  volume="20" inLibrary="false" packName="primary" />
+		<sound file="ro4" id="playBtnRO" volume="30" inLibrary="false" packName="primary" />
+		<sound file="click3" id="playAgainBtnClick"  volume="20" inLibrary="false" packName="primary" />
+		<sound file="ro4" id="playAgainBtnRO" volume="30" inLibrary="false" packName="primary" />
+		<sound file="click3" id="nextBtnClick"  volume="20" inLibrary="false" packName="primary" />
+		<sound file="ro4" id="nextBtnRO" volume="30" inLibrary="false" packName="primary" />
+		<sound file="click3" id="continueBtnClick"  volume="20" inLibrary="false" packName="primary" />
+		<sound file="ro4" id="continueBtnRO" volume="30" inLibrary="false" packName="primary" />
+		<sound file="click3" id="skipBtnClick"  volume="20" inLibrary="false" packName="primary" />
+		<sound file="ro4" id="skipBtnRO" volume="30" inLibrary="false" packName="primary" />
+		<sound file="ro1" id="printBtnRO" volume="30" inLibrary="false" packName="primary" />
+		<sound file="click1" id="printBtnClick" volume="30" inLibrary="false" packName="primary" />
+	</sfx>
+	
+	<vo channel="vo" volume="100">
+	<!-- TITLE SCREEN -->
+		<sound file="DAF_1" id="titleScreenVO" volume="100" inLibrary="false" packName="primary" />
+		<sound file="DAF_2" id="titleScreenVO" volume="100" inLibrary="false" packName="primary" />
+		<sound file="DAF_2" id="titleScreenDelay" volume="100" inLibrary="false" packName="primary" />
+		<sound file="DAF_3" id="playBtnVO" volume="100" inLibrary="false" packName="primary" />
+		
+		
+	<!-- MAIN INTRO -->
+		<sound file="DAF_4" volume="100" inLibrary="false" packName="primary" />
+		<sound file="DAF_4a" volume="100" inLibrary="false" packName="primary" />
+		<sound file="DAF_5" volume="100" inLibrary="false" packName="primary" />
+		<sound file="DAF_5a" volume="100" inLibrary="false" packName="primary" />
+		<sound file="DAF_6" volume="100" inLibrary="false" packName="primary" />
+		<sound file="DAF_7" volume="100" inLibrary="false" packName="primary" />
+		
+	<!-- UI DELAY -->
+		<sound file="DAF_21" id="noMovementDelayPrompt" volume="100" inLibrary="false" packName="primary" />
+		<sound file="DAF_26" id="noMovementDelayPromptMobile" volume="100" inLibrary="false" packName="primary" />
+		<sound file="DAF_27" id="noMovementDelayPromptMobile" volume="100" inLibrary="false" packName="primary" />
+		
+		
+	<!-- LEVEL 1 -->
+		<!-- STAGE CUSTOMIZATION - LEVEL 1 - WALL MURAL -->
+		<sound file="DAF_8" volume="100" inLibrary="false" packName="primary" />
+		<sound file="DAF_9" volume="100" inLibrary="false" packName="primary" />
+		<sound file="DAF_10" volume="100" inLibrary="false" packName="primary" />
+		<sound file="DAF_11" volume="100" inLibrary="false" packName="primary" />
+		<sound file="DAF_12" volume="100" inLibrary="false" packName="primary" />
+		
+		<sound file="DAF_10" id="customLevel1Delay" volume="100" inLibrary="false" packName="primary" />
+		<sound file="DAF_11" id="customLevel1Delay" volume="100" inLibrary="false" packName="primary" />
+		<sound file="DAF_10" id="customLevel1DelayMobile" volume="100" inLibrary="false" packName="primary" />
+		<sound file="DAF_12" id="customLevel1DelayMobile" volume="100" inLibrary="false" packName="primary" />
+		
+		<sound file="DAF_77" id="selectionEncouragementVO" volume="100" inLibrary="false" packName="primary" />
+		<sound file="DAF_78" id="selectionEncouragementVO" volume="100" inLibrary="false" packName="primary" />
+		<sound file="DAF_79" id="selectionEncouragementVO" volume="100" inLibrary="false" packName="primary" />
+		<sound file="DAF_80" id="selectionEncouragementVO" volume="100" inLibrary="false" packName="primary" />
+		<sound file="DAF_81" id="selectionEncouragementVO" volume="100" inLibrary="false" packName="primary" />
+		<sound file="DAF_82" id="selectionEncouragementVO" volume="100" inLibrary="false" packName="primary" />
+		<sound file="DAF_83" id="selectionEncouragementVO" volume="100" inLibrary="false" packName="primary" />
+		<sound file="DAF_84" id="selectionEncouragementVO" volume="100" inLibrary="false" packName="primary" />
+		
+		<sound file="DAF_13" id="nextBtnVO" volume="100" inLibrary="false" packName="primary" />
+		<sound file="DAF_14" id="skipBtnVO" volume="100" inLibrary="false" packName="primary" />
+		
+		<!-- LEVEL 1 - SIDESCROLLER INTRO -->
+		<sound file="DAF_16" volume="100" inLibrary="false" packName="primary" />
+		<sound file="DAF_17" volume="100" inLibrary="false" packName="primary" />
+		<sound file="DAF_85" volume="100" inLibrary="false" packName="primary" />
+		<sound file="DAF_18" volume="100" inLibrary="false" packName="primary" />
+		<sound file="DAF_19" volume="100" inLibrary="false" packName="primary" />
+		<sound file="DAF_20" volume="100" inLibrary="false" packName="primary" />
+		<sound file="DAF_20a" volume="100" inLibrary="false" packName="primary" />
+		
+		<!-- TUTORIAL - LEVEL 1 - DESKTOP -->
+		<sound file="DAF_21" id="level1tutorialDesktop" volume="100" inLibrary="false" packName="primary" />
+		<sound file="DAF_22" id="level1tutorialDesktop" volume="100" inLibrary="false" packName="primary" />
+		<sound file="DAF_23" id="level1tutorialDesktop" volume="100" inLibrary="false" packName="primary" />
+		<sound file="DAF_25" id="level1tutorialDesktop" volume="100" inLibrary="false" packName="primary" />
+		
+		<!-- TUTORIAL - LEVEL 1 - MOBILE -->
+		<sound file="DAF_26" id="level1tutorialMobile" volume="100" inLibrary="false" packName="primary" />
+		<sound file="DAF_27" id="level1tutorialMobile" volume="100" inLibrary="false" packName="primary" />
+		
+		<!-- WHEN PICKING UP SHEET MUSIC -->
+		<sound file="DAF_28" id="sheetmusicCollectedVO" volume="100" inLibrary="false" packName="primary" />
+		<sound file="DAF_29" id="sheetmusicCollectedVO" volume="100" inLibrary="false" packName="primary" />
+		<sound file="DAF_30" id="sheetmusicCollectedVO" volume="100" inLibrary="false" packName="primary" />
+		<sound file="DAF_31" id="sheetmusicCollectedVO" volume="100" inLibrary="false" packName="primary" />
+		<sound file="DAF_32" id="sheetmusicCollectedVO" volume="100" inLibrary="false" packName="primary" />
+		
+		<!-- WHEN RUNNING OVER SPEED BOOSTS -->
+		<sound file="DAF_24" id="firstSpeedBoostShowsUp" volume="100" inLibrary="false" packName="primary" />
+		<sound file="DAF_33" id="speedBoostVO1" volume="100" inLibrary="false" packName="primary" />
+		<sound file="DAF_87" id="speedBoostVO1" volume="100" inLibrary="false" packName="primary" />
+		
+		<!-- WHEN COLLIDING WITH AN OBSTACLE -->
+		<sound file="DAF_34" id="sandCollisionVO" volume="100" inLibrary="false" packName="primary" />
+		<sound file="DAF_35" id="puddleCollisionVO" volume="100" inLibrary="false" packName="primary" />
+		<sound file="DAF_36" id="obstacleVO" volume="100" inLibrary="false" packName="primary" />
+		<sound file="DAF_37" id="obstacleVO" volume="100" inLibrary="false" packName="primary" />
+		<sound file="DAF_38" id="obstacleVO" volume="100" inLibrary="false" packName="primary" />
+		
+		<!-- LEVEL 1 WRAP-UP VO -->
+		<sound file="DAF_86" id="level1Wrapup" volume="100" inLibrary="false" packName="primary" />
+		
+		<!-- WHEN REACHING THE END OF LEVEL 1-->
+		<sound file="DAF_39" volume="100" inLibrary="false" packName="primary" />
+		
+		
+	<!-- LEVEL 2 -->
+		<!-- STAGE CUSTOMIZATION - LEVEL 2 - DECORATIONS/PROPS -->
+		<sound file="DAF_40" volume="100" inLibrary="false" packName="primary" />
+		<sound file="DAF_41" volume="100" inLibrary="false" packName="primary" />
+		
+		<sound file="DAF_41" id="customLevel2Delay" volume="100" inLibrary="false" packName="primary" />
+		<sound file="DAF_11" id="customLevel2Delay" volume="100" inLibrary="false" packName="primary" />
+		<sound file="DAF_41" id="customLevel2DelayMobile" volume="100" inLibrary="false" packName="primary" />
+		<sound file="DAF_12" id="customLevel2DelayMobile" volume="100" inLibrary="false" packName="primary" />
+		
+		<!-- LEVEL 2 - SIDESCROLLER INTRO -->
+		<sound file="DAF_42" volume="100" inLibrary="false" packName="primary" />
+		<sound file="DAF_43" volume="100" inLibrary="false" packName="primary" />
+		<sound file="DAF_44" volume="100" inLibrary="false" packName="primary" />
+		<sound file="DAF_45" volume="100" inLibrary="false" packName="primary" />
+		<sound file="DAF_88" volume="100" inLibrary="false" packName="primary" />
+		<sound file="DAF_46" volume="100" inLibrary="false" packName="primary" />
+		
+		<!-- TUTORIAL - LEVEL 2 - DESKTOP -->
+		<sound file="DAF_47"  volume="100" inLibrary="false" packName="primary" />
+		<sound file="DAF_48"  volume="100" inLibrary="false" packName="primary" />
+		
+		<!-- WHEN PICKING UP BALLOONS -->
+		<sound file="DAF_49" id="balloonCollectedVO" volume="100" inLibrary="false" packName="primary" />
+		<sound file="DAF_29" id="balloonCollectedVO" volume="100" inLibrary="false" packName="primary" />
+		<sound file="DAF_30" id="balloonCollectedVO" volume="100" inLibrary="false" packName="primary" />
+		<sound file="DAF_50" id="balloonCollectedVO" volume="100" inLibrary="false" packName="primary" />
+		<sound file="DAF_89" id="balloonCollectedVO" volume="100" inLibrary="false" packName="primary" />
+		
+		<!-- WHEN RUNNING OVER SPEED BOOSTS -->
+		<sound file="DAF_33" id="speedBoostVO2" volume="100" inLibrary="false" packName="primary" />
+		<sound file="DAF_91" id="speedBoostVO2" volume="100" inLibrary="false" packName="primary" />
+		
+		<!-- WHEN COLLIDING WITH AN OBSTACLE -->
+		<sound file="DAF_51" id="cloudCollisionVO" volume="100" inLibrary="false" packName="primary" />
+		<sound file="DAF_52" id="windCollisionVO" volume="100" inLibrary="false" packName="primary" />
+		
+		<!-- LEVEL 2 WRAP-UP VO -->
+		<sound file="DAF_90" id="level2Wrapup" volume="100" inLibrary="false" packName="primary" />
+		
+		<!-- WHEN REACHING THE END OF LEVEL 2-->
+		<sound file="DAF_53" volume="100" inLibrary="false" packName="primary" />
+		
+		
+	<!-- LEVEL 3 -->
+		<!-- STAGE CUSTOMIZATION - LEVEL 2 - LIGHTING -->
+		<sound file="DAF_54" volume="100" inLibrary="false" packName="primary" />
+		<sound file="DAF_55" volume="100" inLibrary="false" packName="primary" />
+		
+		<sound file="DAF_56" id="customLevel3Delay" volume="100" inLibrary="false" packName="primary" />
+		<sound file="DAF_11" id="customLevel3Delay" volume="100" inLibrary="false" packName="primary" />
+		<sound file="DAF_56" id="customLevel3DelayMobile" volume="100" inLibrary="false" packName="primary" />
+		<sound file="DAF_12" id="customLevel3DelayMobile" volume="100" inLibrary="false" packName="primary" />
+		
+		<!-- LEVEL 3 - SIDESCROLLER INTRO -->
+		<sound file="DAF_57" volume="100" inLibrary="false" packName="primary" />
+		<sound file="DAF_58" volume="100" inLibrary="false" packName="primary" />
+		<sound file="DAF_59" volume="100" inLibrary="false" packName="primary" />
+		<sound file="DAF_61" volume="100" inLibrary="false" packName="primary" />
+		<sound file="DAF_62" volume="100" inLibrary="false" packName="primary" />
+		<sound file="DAF_63" volume="100" inLibrary="false" packName="primary" />
+		
+		<!-- TUTORIAL - LEVEL 3 -->
+		<sound file="DAF_64"  volume="100" inLibrary="false" packName="primary" />
+		<sound file="DAF_65"  volume="100" inLibrary="false" packName="primary" />
+		
+		<!-- WHEN PICKING UP INSTRUMENTS -->
+		<sound file="DAF_66" id="instrumentCollectedVO" volume="100" inLibrary="false" packName="primary" />
+		<sound file="DAF_29" id="instrumentCollectedVO" volume="100" inLibrary="false" packName="primary" />
+		<sound file="DAF_30" id="instrumentCollectedVO" volume="100" inLibrary="false" packName="primary" />
+		<sound file="DAF_67" id="instrumentCollectedVO" volume="100" inLibrary="false" packName="primary" />
+		<sound file="DAF_92" id="instrumentCollectedVO" volume="100" inLibrary="false" packName="primary" />
+		
+		<!-- WHEN RUNNING OVER SPEED BOOSTS -->
+		<sound file="DAF_33" id="speedBoostVO3" volume="100" inLibrary="false" packName="primary" />
+		<sound file="DAF_93" id="speedBoostVO3" volume="100" inLibrary="false" packName="primary" />
+		
+		<!-- WHEN COLLIDING WITH AN OBSTACLE -->
+		<sound file="DAF_68" id="rockCollisionVO" volume="100" inLibrary="false" packName="primary" />
+		<sound file="DAF_69" id="whirlpoolCollisionVO" volume="100" inLibrary="false" packName="primary" />
+		
+		<!-- LEVEL 3 WRAP-UP VO -->
+		<sound file="DAF_86" id="level3Wrapup" volume="100" inLibrary="false" packName="primary" />
+
+		
+	<!-- END SCREEN -->
+		<sound file="DAF_70" volume="100" inLibrary="false" packName="primary" />
+		<sound file="DAF_71" volume="100" inLibrary="false" packName="primary" />
+		<sound file="DAF_72" volume="100" inLibrary="false" packName="primary" />
+		<sound file="DAF_72A" volume="100" inLibrary="false" packName="primary" />
+		<sound file="DAF_73" volume="100" inLibrary="false" packName="primary" />
+		<sound file="DAF_73A" volume="100" inLibrary="false" packName="primary" />
+		<sound file="DAF_74" volume="100" inLibrary="false" packName="primary" />
+		
+		<sound file="DAF_75" id="printBtnVO" volume="100" inLibrary="false" packName="primary" />
+		<sound file="DAF_76" id="playAgainBtnVO" volume="100" inLibrary="false" packName="primary" />
+		
+		
+		<sound file="DAF_20b" volume="100" inLibrary="false" packName="primary" />
+		
+
+		
+	<!-- DELETED 
+		<sound file="DAF_60" volume="100" inLibrary="false" packName="primary" />
+		<sound file="DAF_94" volume="100" inLibrary="false" packName="primary" />
+		<sound file="DAF_15" volume="100" inLibrary="false" packName="primary" />
+	?-->
+	</vo>
+</data>

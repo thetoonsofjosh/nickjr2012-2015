@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+========================
+	SAMPLE SECTION
+========================
+
+<title>
+	<gameName font="FONT1" size="68" color="0xff0000" align="left"><![CDATA[GAME NAME HERE]]></gameName>
+</title>
+
+The id for this would be title.gameName.  The text, font, font size, and alignment would all be set for us.
+
+Any tags omitted would use the default text field's values.
+-->
+
+<strings>
+	<title>
+		<play font="ccsmash_black_32" fontScale="1"><![CDATA[PLAY]]></play>
+	</title>
+	<results>
+		<foot font="flama_white_157" fontScale="1"><![CDATA[%n]]></foot>
+		<boot font="flama_white_157" fontScale="1"><![CDATA[%n]]></boot>
+		<mummy font="flama_white_157" fontScale="1"><![CDATA[%n]]></mummy>
+
+		<footEnd font="flama_white_94" fontScale="1"><![CDATA[999]]></footEnd>
+		<bootEnd font="flama_white_94" fontScale="1"><![CDATA[999]]></bootEnd>
+		<mummyEnd font="flama_white_94" fontScale="1"><![CDATA[999]]></mummyEnd>
+		<next font="flama_white_94" fontScale="1"><![CDATA[NEXT]]></next>
+	</results>
+	
+	<hud>
+		<score font="flama_blue_32" fontScale=".969"><![CDATA[%n]]></score>
+	</hud>
+</strings>

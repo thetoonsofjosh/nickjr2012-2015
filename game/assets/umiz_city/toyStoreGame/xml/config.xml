@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!--<XMLLayout loadGroupOrder="globals,preload,foreground,background,titleScreen" rootPath="%flashvar.umiToyStoreRootPath|%">-->
+	<XMLLayout loadGroupOrder="globals,preload,foreground,background,titleScreen" >
+	
+	<preload>
+	
+		<SWF source="/game/assets/umiz_city/toyStoreGame/swf/audio.swf" id="audio_swf" />
+		<SWF source="/game/assets/umiz_city/toyStoreGame/swf/art.swf" id="art_swf" />
+		
+		<SWF source="/game/assets/umiz_city/toyStoreGame/swf/intro.swf" id="intro_swf"/>
+		<SWF source="/game/assets/umiz_city/toyStoreGame/swf/segway1.swf" id="segway1_swf"/>
+		<SWF source="/game/assets/umiz_city/toyStoreGame/swf/segway2.swf" id="segway2_swf"/>
+		<SWF source="/game/assets/umiz_city/toyStoreGame/swf/outro.swf" id="outro_swf"/>
+		
+		<SoundPlayer id="audio" xmlURL="/game/assets/umiz_city/toyStoreGame/xml/audio.xml" />
+		<SWF source="SideScrollerMain.swf" />
+		
+	</preload>
+	
+	<globals script="Globals">
+		<Data id="unloadCode">
+			<outro><![CDATA[
+				Stop(outroMC,true);
+				if( globals.isLastLevel() ){
+					globals.resetLevel();
+					UnloadGroup(outro);
+					ShowGroup(endTitle);
+					globals.setEndTitleDelayPrompt();
+					globals.setPauseMC(endTitle);
+				}else{
+					
+					globals.incrementLevel();
+					PlayTransition(hud.transition,out,in,'
+					UnloadGroup(outro);
+					LoadGroup(tutorial);
+					');
+					
+				}
+			]]></outro>
+			<intro><![CDATA[
+				Stop(introMC,true);
+				PlayTransition(hud.transition,out,in,'
+					UnloadGroup(intro);
+					LoadGroup(tutorial);
+				');
+			]]></intro>
+			<tutorial><![CDATA[
+				Stop(tutorialMC,true);
+				SetVisibility(hud.hudBorders,true);
+				
+				PlayTransition(hud.transition,out,in,'
+					UnloadGroup(tutorial);
+					GotoAndStop(hud.hudBorders,withScore);
+					StopAllChannels();
+					LoadGroup(game);
+				');
+			]]></tutorial>
+			
+		</Data>
+		
+	</globals>
+		
+	<titleScreen>
+		<onLoad><![CDATA[
+			globals.setTestMode(%flashvar.testMode|false%);
+			if(globals.isNotNumber(#globals.getTestMode()#)){
+				
+				UnloadGroup(titleScreen);
+				
+				LoadGroup(game_0);
+				DelayedCall(1,'LoadGroup(game)');
+			}else{
+				if( globals.isNotDestroyed() )
+				{
+					StopAllChannels();
+					PlayLabel(+mc,1);
+					PlaySound(title,{overridable:false});
+					PlaySound('"introSting,silence,#InlineLoop(0,200,',musicHelp')#"');
+					SetDelayPrompt(titleDP,titleDelayPrompt,12);
+				}
+			}
+		]]></onLoad>
+		<onUnload><![CDATA[
+			RemoveDelayPrompt(titleDP);
+			StopAllChannels();
+		]]></onUnload>
+
+		<MC id="mc" ref="TitleScreen" childIndex="1" />
+		<Button target="-mc.playButton" onClick="PlaySound(click2);PlayTransition(hud.transition,out,in,'UnloadGroup(titleScreen);LoadGroup(intro);');" callout="playButtonCallout" />
+
+	</titleScreen>
+	
+	<intro>
+		<onLoad><![CDATA[
+			
+			SwapMC(introMC,'#globals.getIntroRef()#');
+			PlayLabel(introMC,1,'"%unloadCode.intro%"');
+			
+			globals.setPauseMC(introMC);
+			globals.setSkipBtnState(introMC);
+			if(IsNotSet('#IsChannelPlaying(music)#')){
+				PlaySound(musicHelp);
+			}
+		]]></onLoad>
+		
+		<MC id="introMC" ref="Blank" childIndex="1"/>
+		<Button target="-introMC.skipButton" callout="skipButtonCallout"><onClick><![CDATA[PlaySound(click2);%unloadCode.intro%]]></onClick></Button>
+	</intro>
+	
+	<tutorial>
+		<onLoad><![CDATA[
+			LoadGroup(game_0);
+			SwapMC(tutorialMC,'#globals.getTutorialRef()#');
+			PlayLabel(tutorialMC,1,'"%unloadCode.tutorial%"');
+			globals.setPauseMC(tutorialMC);
+			GotoAndStop(hud.hudBorders,withScore);
+			DelayedCall(1,'SetVisibility(hud.hudBorders,false);');
+			globals.setSkipBtnState(tutorialMC);
+			
+		]]></onLoad>
+		
+		<onUnload><![CDATA[
+			DelayedCall(1,'SetVisibility(hud.hudBorders,true);');
+			DelayedCall(.25,'#globals.resetKeyboardFocus()#');
+			
+		]]></onUnload>
+		
+		<MC id="tutorialMC" ref="Blank" childIndex="1"/>
+		<Button target="-tutorialMC.skipButton" callout="skipButtonCallout" ><onClick><![CDATA[PlaySound(click2);%unloadCode.tutorial%]]></onClick></Button>
+	</tutorial>
+	
+	<game_0 onLoad="globals.presetLevel();">
+		
+		<SWF source="SideScrollerMain.swf" id="game_module" addToStage="true" childIndex="1" />
+	</game_0>
+	
+	<game script="Main_Level">
+		<onLoad><![CDATA[
+			PlaySound('musicL#globals.getLevel()#');
+			
+			
+		]]></onLoad>
+		
+		<!-- preUnload is triggered by Main_Game.as -->
+		<preUnload><![CDATA[
+			PlayTransition(hud.transition,out,in,'
+				UnloadGroup(game_0);
+				UnloadGroup(game);
+				StopAllChannels();
+				
+				LoadGroup(outro);
+			');
+		]]></preUnload>
+		
+		
+		
+		<SWF source="SideScrollerMain.swf" id="game_module" addToStage="true" childIndex="1" />
+		
+		
+		
+	</game>
+	
+	<outro>
+		<onLoad><![CDATA[
+			SwapMC(outroMC,'#globals.getOutroRef()#');
+			PlayLabel(outroMC,1,'"%unloadCode.outro%"');
+			
+			globals.setPauseMC(outroMC);
+			globals.setSkipBtnState(outroMC);
+			
+			PlaySound(musicHelp);
+			if( globals.isLastLevel() ){
+				LoadGroup(endTitle);
+			}
+		]]></onLoad>
+		
+
+		
+		<MC id="outroMC" ref="Blank" childIndex="1"/>
+		<Button target="-outroMC.skipButton"  callout="skipButtonCallout"><onClick><![CDATA[PlaySound(click2);%unloadCode.outro%]]></onClick></Button>
+	</outro>
+	
+	<endTitle>
+		<onLoad><![CDATA[
+			globals.enableSkipButtons();
+		]]></onLoad>
+		<onUnload><![CDATA[
+			globals.clearEndTitleDelayPrompt();
+		]]></onUnload>
+		
+		<MC id="endTitle" ref="outro_swf.EndTitle" childIndex="1"/>
+		<Button target="endTitle.playAgainButton" callout="playAgainButtonCallout" onClick="PlaySound(click2);globals.trackPlayAgain();PlayTransition(hud.transition,out,in,'globals.resetLevel();UnloadGroup(endTitle);LoadGroup(intro);');"/>
+		<Button target="endTitle.printButton" callout="printButtonCallout" onClick="PlaySound(click1);globals.trackPrint();globals.printPic();"/>
+		
+		
+	
+	
+	</endTitle>
+	
+	<background>
+		<MC ref="DefaultBackground" childIndex="0" />
+	</background>
+	
+	<foreground onLoad="GotoAndStop(hud.hudBorders,default);GotoAndStop(hud.effects,1);">
+		
+		<MC ref="HUD" id="hud" />
+		
+	</foreground>
+	
+</XMLLayout>

@@ -1,0 +1,324 @@
+﻿<?xml version="1.0"?>
+<!-- Application Meta Data -->
+<!-- Sets Up Application -->
+<!-- Define Global Properties -->
+<!-- Loads External Dynamic Class Libraries -->
+<!-- Loads External Media Libraries:  SWFs, RSLs or SWCs -->
+<!-- Contains no className attribs since no classes are instantiated dynamically from xml here-->
+<Application class="DoraWorldGameApplication" xmlns="http://www.nick.com/">
+	<display_name>Dora World Adventure Game</display_name>
+	<version>0.001</version>
+	<fps>31</fps>
+	<flash_version>8</flash_version>
+	<quality>LOW</quality>	<!-- LOW MEDIUM HIGH -->
+	<scale_mode>noScale</scale_mode>  <!-- noScale showAll -->
+	<width>600</width>
+	<height>390</height>
+	<audio src="audio/audio.swf" context="external" >
+		<music src="dwa_africa_gameloopv1.wav" />
+	</audio>
+	<hero src="characters/dora/character.swf" context="external" x="0" y="0" />
+	<enemy src="characters/sami/character.swf" context="external" x="0" y="0" />
+	<map>
+		<origin x="320" y="50" />
+		<library src="levels/france/resource_library.swf" context="external" x="0" y="0" />
+		<background src="levels/tanzania/background.jpg" context="external" x="0" y="0" />
+		<foreground src="null" context="external" x="0" y="0" />
+		<!-- <cell id="1" floor="tiles/tanzania/tile.swf" context="external" item="poles_start_mc" walkable="true" className="" trigger="" fringe="" />-->
+		<!-- <cell id="3" floor="tiles/tanzania/tile.swf" item="poles_finish_mc" walkable="true"  className="" trigger="" fringe="" /> -->
+		<!-- 
+		<row>
+			<cell id="1" floor="tiles/tanzania/tile.swf" context="external" item="poles_start_mc" walkable="true" className="" trigger="" fringe="" />
+			<cell id="1" floor="tiles/tanzania/tile.swf" context="external" item="poles_finish_mc" walkable="true" className="" trigger="" fringe="" />
+		</row>
+		-->
+<row>
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+</row>
+<row>
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+</row>
+<row>
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="tiles/tanzania/tile.swf" context="external" item="hero_start" walkable="true" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="2" floor="tiles/tanzania/tile.swf" item="tile_occupiers/collectable.swf" walkable="true" className="com.nick.gamedev.app.qbert.entity.PickUpGameElement" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="tile_occupiers/balloon.swf" walkable="true" enemy_walkable="false" className="com.nick.gamedev.app.qbert.entity.BalloonDisplay" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+</row>
+<row>
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="2" floor="tiles/tanzania/tile.swf" item="" walkable="true" className="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="2" floor="tiles/tanzania/tile.swf" item="tile_occupiers/collectable.swf" walkable="true" className="com.nick.gamedev.app.qbert.entity.PickUpGameElement" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+</row>
+<row>
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="2" floor="tiles/tanzania/tile.swf" item="tile_occupiers/collectable.swf" walkable="true" className="com.nick.gamedev.app.qbert.entity.PickUpGameElement" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="2" floor="tiles/tanzania/tile.swf" item="" walkable="true" className="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="2" floor="tiles/tanzania/tile.swf" item="" walkable="true" className="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+</row>
+<row>
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="2" floor="tiles/tanzania/tile.swf" item="" walkable="true" className="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="2" floor="tiles/tanzania/tile.swf" item="tile_occupiers/collectable.swf" walkable="true" className="com.nick.gamedev.app.qbert.entity.PickUpGameElement" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="2" floor="tiles/tanzania/tile.swf" item="" walkable="true" className="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+</row>
+<row>
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="2" floor="tiles/tanzania/tile.swf" item="" walkable="true" className="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="2" floor="tiles/tanzania/tile.swf" item="tile_occupiers/collectable.swf" walkable="true" className="com.nick.gamedev.app.qbert.entity.PickUpGameElement" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="2" floor="tiles/tanzania/tile.swf" item="" walkable="true" className="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+</row>
+<row>
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="2" floor="tiles/tanzania/tile.swf" item="" walkable="true" className="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="2" floor="tiles/tanzania/tile.swf" item="tile_occupiers/collectable.swf" walkable="true" className="com.nick.gamedev.app.qbert.entity.PickUpGameElement" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="2" floor="tiles/tanzania/tile.swf" item="" walkable="true" className="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+</row>
+<row>
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="2" floor="tiles/tanzania/tile.swf" item="tile_occupiers/collectable.swf" walkable="true" className="com.nick.gamedev.app.qbert.entity.PickUpGameElement" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="2" floor="tiles/tanzania/tile.swf" item="" walkable="true" className="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="2" floor="tiles/tanzania/tile.swf" item="tile_occupiers/collectable.swf" walkable="true" className="com.nick.gamedev.app.qbert.entity.PickUpGameElement" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+</row>
+<row>
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="2" floor="tiles/tanzania/tile.swf" item="" walkable="true" className="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="2" floor="tiles/tanzania/tile.swf" item="tile_occupiers/collectable.swf" walkable="true" className="com.nick.gamedev.app.qbert.entity.PickUpGameElement" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="2" floor="tiles/tanzania/tile.swf" item="" walkable="true" className="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+</row>
+<row>
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="2" floor="tiles/tanzania/tile.swf" item="" walkable="true" className="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="2" floor="tiles/tanzania/tile.swf" item="tile_occupiers/collectable.swf" walkable="true" className="com.nick.gamedev.app.qbert.entity.PickUpGameElement" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+</row>
+<row>
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="2" floor="tiles/tanzania/tile.swf" item="enemy_start" walkable="true" className="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+</row>
+<row>
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+</row>
+<row>
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+</row>
+<row>
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+</row>
+<row>
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+<cell id="1" floor="0" item="" walkable="" className="" trigger="" fringe="" />
+</row>
+</map>
+</Application>

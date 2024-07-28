@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<puzzles>
+	<puzzle id="alphabet_song">		
+		<image>assets/puzzles/alphabet_song.jpg</image>
+		<clue>assets/clues/alphabet_song1.jpg</clue>
+		<clue>assets/clues/alphabet_song2.jpg</clue>
+		<clue>assets/clues/alphabet_song3.jpg</clue>
+	</puzzle>
+	<puzzle id="bath">		
+		<image>assets/puzzles/bath.jpg</image>
+		<clue>assets/clues/bath1.jpg</clue>
+		<clue>assets/clues/bath2.jpg</clue>
+		<clue>assets/clues/bath3.jpg</clue>
+	</puzzle>	
+	<puzzle id="hopscotch">		
+		<image>assets/puzzles/hopscotch.jpg</image>
+		<clue>assets/clues/hopscotch1.jpg</clue>
+		<clue>assets/clues/hopscotch2.jpg</clue>
+		<clue>assets/clues/hopscotch3.jpg</clue>
+	</puzzle>	
+	<puzzle id="lemonade">		
+		<image>assets/puzzles/lemonade.jpg</image>
+		<clue>assets/clues/lemonaid1.jpg</clue>
+		<clue>assets/clues/lemonaid2.jpg</clue>
+		<clue>assets/clues/lemonaid3.jpg</clue>
+	</puzzle>
+	<puzzle id="penguin">		
+		<image>assets/puzzles/penguin.jpg</image>
+		<clue>assets/clues/penguin1.jpg</clue>
+		<clue>assets/clues/penguin2.jpg</clue>
+		<clue>assets/clues/penguin3.jpg</clue>
+	</puzzle>
+	<puzzle id="picnic">		
+		<image>assets/puzzles/picnic.jpg</image>
+		<clue>assets/clues/picnic1.jpg</clue>
+		<clue>assets/clues/picnic2.jpg</clue>
+		<clue>assets/clues/picnic3.jpg</clue>
+	</puzzle>
+	<puzzle id="pizza">		
+		<image>assets/puzzles/pizza.jpg</image>
+		<clue>assets/clues/pizza1.jpg</clue>
+		<clue>assets/clues/pizza2.jpg</clue>
+		<clue>assets/clues/pizza3.jpg</clue>
+	</puzzle>
+	<puzzle id="snowman">		
+		<image>assets/puzzles/snowman.jpg</image>
+		<clue>assets/clues/snowman1.jpg</clue>
+		<clue>assets/clues/snowman2.jpg</clue>
+		<clue>assets/clues/snowman3.jpg</clue>
+	</puzzle>
+	<puzzle id="soccer">		
+		<image>assets/puzzles/soccer.jpg</image>
+		<clue>assets/clues/soccer1.jpg</clue>
+		<clue>assets/clues/soccer2.jpg</clue>
+		<clue>assets/clues/soccer3.jpg</clue>
+	</puzzle>
+	<puzzle id="three_pigs">		
+		<image>assets/puzzles/three_pigs.jpg</image>
+		<clue>assets/clues/three_pigs1.jpg</clue>
+		<clue>assets/clues/three_pigs2.jpg</clue>
+		<clue>assets/clues/three_pigs3.jpg</clue>
+	</puzzle>
+</puzzles>

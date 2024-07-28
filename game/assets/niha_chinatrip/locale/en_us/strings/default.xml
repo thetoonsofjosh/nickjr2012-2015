@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<strings>
+	<!-- Loading -->
+	<string id="ui_loading_loading_text"		fontName="VAGRounded BT"		fontSize="50"	html="false"><![CDATA[Loading]]></string>
+	<string id="ui_loading_loading_percent"		fontName="VAGRounded BT"		fontSize="50"	html="false"><![CDATA[$value$%]]></string>
+	
+	<string id="ui_loading_popup_text"			fontName="VAGRounded BT"		fontSize="30"	html="false"><![CDATA[Loading...]]></string>
+	
+	<string id="common_button_back"				fontName="VAGRounded BT"		fontSize="30"	html="false"><![CDATA[Back]]></string>
+	<string id="common_button_back_small"		fontName="VAGRounded BT"		fontSize="20"	html="false"><![CDATA[Back]]></string>
+	<string id="common_btnPlay"					fontName="VAGRounded BT"		fontSize="30"	html="false"><![CDATA[Play]]></string>
+	<string id="common_button_howtoplay"		fontName="VAGRounded BT"		fontSize="16"	html="false"><![CDATA[How to Play]]></string>
+	<string id="common_btnCredit"				fontName="VAGRounded BT"		fontSize="30"	html="false"><![CDATA[Credits]]></string>
+	<string id="common_btnOptions"				fontName="VAGRounded BT"		fontSize="28"	html="false"><![CDATA[Options]]></string>
+	<string id="common_button_next"				fontName="VAGRounded BT"		fontSize="30"	html="false"><![CDATA[Next]]></string>
+	<string id="common_button_playagain"		fontName="VAGRounded BT"		fontSize="25"	html="false"><![CDATA[Play Again]]></string>
+	<string id="common_button_tryagain"			fontName="VAGRounded BT"		fontSize="16"	html="false"><![CDATA[Try Again]]></string>
+	<string id="common_button_viewhsb"			fontName="VAGRounded BT"		fontSize="16"	html="false"><![CDATA[View High Scores]]></string>
+	<string id="common_button_submitscore"		fontName="VAGRounded BT"		fontSize="16"	html="false"><![CDATA[Submit Score]]></string>
+	
+	<string id="title_KaiLans"					fontName="VAGRounded BT"		fontSize="56"	html="false"><![CDATA[Kai-lan's]]></string>
+	<string id="title_TripToChina"				fontName="VAGRounded BT"		fontSize="38"	html="false"><![CDATA[Great Trip to China!]]></string>
+	
+	<string id="title_ChooseAHeart"				fontName="VAGRounded BT"		fontSize="60"	html="true"><![CDATA[<b>Choose a heart box.</b>]]></string>
+	
+	<string id="title_EnterName"				fontName="VAGRounded BT"		fontSize="60"	html="true"><![CDATA[<b>Enter your name.</b>]]></string>
+	
+	<string id="ui_profileName"		            fontName="VAGRounded BT"		fontSize="28"	html="true"><![CDATA[<b>$NAME$</b>]]></string>
+	
+	<string id="ui_createName"		            fontName="VAG Round"			fontSize="45"	html="true"><![CDATA[<b>$NAME$</b>]]></string>
+	
+	<string id="ui_newGame"		            	fontName="VAGRounded BT"		fontSize="28"	html="true"><![CDATA[<b>NEW GAME</b>]]></string>
+	
+	<string id="ui_howtoplay_title"				fontName="VAGRounded BT"		fontSize="30"	html="false"><![CDATA[How to Play]]></string>
+	
+	<string id="ui_win_title"					fontName="VAGRounded BT"		fontSize="30"	html="false"><![CDATA[You Win!]]></string>
+	
+	<string id="ui_lose_title"					fontName="VAGRounded BT"		fontSize="30"	html="false"><![CDATA[You Lose!]]></string>
+	
+	<string id="ui_easy"						fontName="VAGRounded BT"		fontSize="30"	html="false"><![CDATA[Easy]]></string>
+	<string id="ui_hard"						fontName="VAGRounded BT"		fontSize="30"	html="false"><![CDATA[Hard]]></string>
+		
+	<string id="ui_hud_button_menu"				fontName="VAGRounded BT"		fontSize="16"	html="false"><![CDATA[Menu]]></string>
+	
+	<string id="ui_popup_menu_title"			fontName="VAGRounded BT"		fontSize="30"	html="false"><![CDATA[Menu]]></string>
+	<string id="ui_popup_menu_button_resume"	fontName="VAGRounded BT"		fontSize="16"	html="false"><![CDATA[Resume]]></string>
+	<string id="ui_popup_menu_button_quit"		fontName="VAGRounded BT"		fontSize="16"	html="false"><![CDATA[Quit]]></string>
+	
+	<string id="ui_heartbox_difficulty"			fontName="VAGRounded BT"		fontSize="40"	html="false"><![CDATA[Difficulty level]]></string>
+	
+	<string id="ui_popup_erase_text"			fontName="VAG Round"			fontSize="38"	html="false"><![CDATA[Are you sure you want to erase this profile?]]></string>
+	<string id="ui_popup_quit_text"				fontName="VAG Round"			fontSize="50"	html="false"><![CDATA[Do you want to quit?]]></string>
+	<string id="ui_popup_quit_button_yes"		fontName="VAGRounded BT"		fontSize="30"	html="false"><![CDATA[Yes]]></string>
+	<string id="ui_popup_quit_button_no"		fontName="VAGRounded BT"		fontSize="30"	html="false"><![CDATA[No]]></string>
+
+	<string id="recipe_FriedRice"				fontName="VAG Round"			fontSize="25"	html="false"><![CDATA[Fried rice]]></string>
+	
+	
+	
+	<!-- RECIPE PRINTABLE -->		
+	<string id="recipe_RecipeIngreditents"		fontName="VAG Round"			fontSize="18"	html="false"><![CDATA[Ingredients]]></string>
+	<string id="recipe_RecipePreparation"		fontName="VAG Round"			fontSize="18"	html="false"><![CDATA[Preparation]]></string>
+	<string id="recipe_Page1"					fontName="VAG Round"			fontSize="18"	html="false"><![CDATA[1]]></string>
+	<string id="recipe_Page2"					fontName="VAG Round"			fontSize="18"	html="false"><![CDATA[2]]></string>
+	<string id="recipe_Copyright"				fontName="HelveticaRounded LT Std Blk"			fontSize="8"	html="false"><![CDATA[2009 Viacom International Inc. All Rights Reserved. Nick Jr., Ni Hao, Kai-lan! and all related titles, logos and characters are trademarks of Viacom International Inc.]]></string>
+	
+	<string id="recipe_FriedRiceRecipe"			fontName="VAG Round"			fontSize="25"	html="false"><![CDATA[Fried rice recipe]]></string>
+	<string id="recipe_FriedRiceIng1"			fontName="VAG Round"			fontSize="15"	html="false"><![CDATA[1 - 2 green onions, as desired]]></string>
+	<string id="recipe_FriedRiceIng2"			fontName="VAG Round"			fontSize="15"	html="false"><![CDATA[2 large eggs]]></string>
+	<string id="recipe_FriedRiceIng3"			fontName="VAG Round"			fontSize="15"	html="false"><![CDATA[1 teaspoon of salt]]></string>
+	<string id="recipe_FriedRiceIng4"			fontName="VAG Round"			fontSize="15"	html="false"><![CDATA[Pepper, to taste]]></string>
+	<string id="recipe_FriedRiceIng5"			fontName="VAG Round"			fontSize="15"	html="false"><![CDATA[4 tablespoons of oil, to stir-fry, or as needed]]></string>
+	<string id="recipe_FriedRiceIng6"			fontName="VAG Round"			fontSize="15"	html="false"><![CDATA[4 cups of cold cooked rice]]></string>
+	<string id="recipe_FriedRiceIng7"			fontName="VAG Round"			fontSize="15"	html="false"><![CDATA[1 - 2 tablespoons of light soy sauce or oyster sauce, as desired]]></string>
+	
+	<string id="recipe_FriedRiceStep1"			fontName="VAG Round"			fontSize="15"	html="false"><![CDATA[Wash and finely chop the green onions.<br>Lightly beat the eggs with the salt and pepper.]]></string>
+	<string id="recipe_FriedRiceStep2"			fontName="VAG Round"			fontSize="15"	html="false"><![CDATA[Heat a wok or frying pan and add 2 tablespoons of oil.  When the oil is hot, add the eggs. Stir fry until they are lightly scrambled, but not too dry.<br>Remove the eggs and clean the pan.]]></string>
+	<string id="recipe_FriedRiceStep3"			fontName="VAG Round"			fontSize="15"	html="false"><![CDATA[Add 2 tablespoons of oil. Add the rice. Stir-fry for a few minutes using chopsticks or a wooden spoon to break it apart. Mix in the soy sauce or oyster sauce as desired.]]></string>
+	<string id="recipe_FriedRiceStep4"			fontName="VAG Round"			fontSize="15"	html="false"><![CDATA[When the rice is hot, add the scrambled eggs back into the pan. Mix thoroughly. Stir in the green onions. Serve hot.]]></string>
+	
+	<string id="titlecard_Copy"					fontName="VAGRounded BT"		fontSize="9"	html="false"><![CDATA[© Nick Jr., Ni Hao Kai Lan, and all related titles, logos, and characters are trademarks of Viacom International Inc.]]></string>
+	
+	
+	<string id="txtWaterMelon"					fontName="VAGRounded BT"		fontSize="20"	html="false"><![CDATA[Little Watermelon]]></string>
+	
+	
+	
+	
+</strings>

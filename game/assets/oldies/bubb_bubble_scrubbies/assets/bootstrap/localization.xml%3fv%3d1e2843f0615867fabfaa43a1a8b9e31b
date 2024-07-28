@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<localization>
+	<string id="play again">PLAY AGAIN</string>
+	<string id="print">PRINT</string>
+	<string id="play">PLAY</string>
+	<string id="skip">SKIP</string>
+</localization>

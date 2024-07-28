@@ -1,0 +1,300 @@
+<props>	
+
+    	<!-- dora -->
+	
+	<prop displayName="dora_ball"
+			handle="dora_ball" 
+			iconHandle="stickers/props/dora_ball/thumb.jpg"
+			imageHandle="stickers/props/dora_ball/props.swf"
+			show="dora"
+	/>	
+	<prop displayName="dora_cupcake"
+			handle="dora_cupcake" 
+			iconHandle="stickers/props/dora_cupcake/thumb.jpg"
+			imageHandle="stickers/props/dora_cupcake/props.swf"
+			show="dora"
+	/>		
+	<prop displayName="dora_fiesta"
+			handle="dora_fiesta" 
+			iconHandle="stickers/props/dora_fiesta/thumb.jpg"
+			imageHandle="stickers/props/dora_fiesta/props.swf"
+			show="dora"
+	/>		
+	<prop displayName="dora_map"
+			handle="dora_map" 
+			iconHandle="stickers/props/dora_map/thumb.jpg"
+			imageHandle="stickers/props/dora_map/props.swf"
+			show="dora"
+	/>		
+	<prop displayName="dora_maraca"
+			handle="dora_maraca" 
+			iconHandle="stickers/props/dora_maraca/thumb.jpg"
+			imageHandle="stickers/props/dora_maraca/props.swf"
+			show="dora"
+	/>	
+	<prop displayName="dora_star1"
+			handle="dora_star1" 
+			iconHandle="stickers/props/dora_star1/thumb.jpg"
+			imageHandle="stickers/props/dora_star1/props.swf"
+			show="dora"
+	/>		
+			
+	<!-- dieg -->	
+
+	<prop displayName="dieg_computer"
+			handle="dieg_computer" 
+			iconHandle="stickers/props/dieg_computer/thumb.jpg"
+			imageHandle="stickers/props/dieg_computer/props.swf"
+			show="dieg"
+	/>	
+	<prop displayName="dieg_frog"
+			handle="dieg_frog" 
+			iconHandle="stickers/props/dieg_frog/thumb.jpg"
+			imageHandle="stickers/props/dieg_frog/props.swf"
+			show="dieg"
+	/>		
+	<prop displayName="dieg_penguin"
+			handle="dieg_penguin" 
+			iconHandle="stickers/props/dieg_penguin/thumb.jpg"
+			imageHandle="stickers/props/dieg_penguin/props.swf"
+			show="dieg"
+	/>		
+	<prop displayName="dieg_telescope"
+			handle="dieg_telescope" 
+			iconHandle="stickers/props/dieg_telescope/thumb.jpg"
+			imageHandle="stickers/props/dieg_telescope/props.swf"
+			show="dieg"
+	/>		
+	<prop displayName="dieg_truck"
+			handle="dieg_truck" 
+			iconHandle="stickers/props/dieg_truck/thumb.jpg"
+			imageHandle="stickers/props/dieg_truck/props.swf"
+			show="dieg"
+	/>	
+	
+	<!-- back -->	
+	
+	<prop displayName="back_hat"
+			handle="back_hat" 
+			iconHandle="stickers/props/back_hat/thumb.jpg"
+			imageHandle="stickers/props/back_hat/props.swf"
+			show="back"
+	/>	
+	<prop displayName="back_boat"
+			handle="back_boat" 
+			iconHandle="stickers/props/back_boat/thumb.jpg"
+			imageHandle="stickers/props/back_boat/props.swf"
+			show="back"
+	/>	
+	<prop displayName="back_flower"
+			handle="back_flower" 
+			iconHandle="stickers/props/back_flower/thumb.jpg"
+			imageHandle="stickers/props/back_flower/props.swf"
+			show="back"
+	/>	
+	<prop displayName="back_palmtree"
+			handle="back_palmtree" 
+			iconHandle="stickers/props/back_palmtree/thumb.jpg"
+			imageHandle="stickers/props/back_palmtree/props.swf"
+			show="back"
+	/>		
+	<prop displayName="back_soccerball"
+			handle="back_soccerball" 
+			iconHandle="stickers/props/back_soccerball/thumb.jpg"
+			imageHandle="stickers/props/back_soccerball/props.swf"
+			show="back"
+	/>			
+
+	<!-- wond -->	
+
+	<prop displayName="wond_artboard"
+			handle="wond_artboard" 
+			iconHandle="stickers/props/wond_artboard/thumb.jpg"
+			imageHandle="stickers/props/wond_artboard/props.swf"
+			show="wond"
+	/>		
+	<prop displayName="wond_bpenguin"
+			handle="wond_bpenguin" 
+			iconHandle="stickers/props/wond_bpenguin/thumb.jpg"
+			imageHandle="stickers/props/wond_bpenguin/props.swf"
+			show="wond"
+	/>		
+	<prop displayName="wond_celery"
+			handle="wond_celery" 
+			iconHandle="stickers/props/wond_celery/thumb.jpg"
+			imageHandle="stickers/props/wond_celery/props.swf"
+			show="wond"
+	/>		
+	<prop displayName="wond_linnycage"
+			handle="wond_linnycage" 
+			iconHandle="stickers/props/wond_linnycage/thumb.jpg"
+			imageHandle="stickers/props/wond_linnycage/props.swf"
+			show="wond"
+	/>		
+	<prop displayName="wond_ship"
+			handle="wond_ship" 
+			iconHandle="stickers/props/wond_ship/thumb.jpg"
+			imageHandle="stickers/props/wond_ship/props.swf"
+			show="wond"
+	/>
+
+	<!-- yoga -->	
+
+	<prop displayName="yoga_book"
+			handle="yoga_book" 
+			iconHandle="stickers/props/yoga_book/thumb.jpg"
+			imageHandle="stickers/props/yoga_book/props.swf"
+			show="yoga"
+	/>		
+	<prop displayName="yoga_chest"
+			handle="yoga_chest" 
+			iconHandle="stickers/props/yoga_chest/thumb.jpg"
+			imageHandle="stickers/props/yoga_chest/props.swf"
+			show="yoga"
+	/>	
+	<prop displayName="yoga_media"
+			handle="yoga_media" 
+			iconHandle="stickers/props/yoga_media/thumb.jpg"
+			imageHandle="stickers/props/yoga_media/props.swf"
+			show="yoga"
+	/>	
+	<prop displayName="yoga_slide"
+			handle="yoga_slide" 
+			iconHandle="stickers/props/yoga_slide/thumb.jpg"
+			imageHandle="stickers/props/yoga_slide/props.swf"
+			show="yoga"
+	/>
+
+	<!-- wubb -->	
+
+	<prop displayName="wubb_bike"
+			handle="wubb_bike" 
+			iconHandle="stickers/props/wubb_bike/thumb.jpg"
+			imageHandle="stickers/props/wubb_bike/props.swf"
+			show="wubb"
+	/>	
+	<prop displayName="wubb_book"
+			handle="wubb_book" 
+			iconHandle="stickers/props/wubb_book/thumb.jpg"
+			imageHandle="stickers/props/wubb_book/props.swf"
+			show="wubb"
+	/>	
+	<prop displayName="wubb_kickball"
+			handle="wubb_kickball" 
+			iconHandle="stickers/props/wubb_kickball/thumb.jpg"
+			imageHandle="stickers/props/wubb_kickball/props.swf"
+			show="wubb"
+	/>	
+	<prop displayName="wubb_squirrel"
+			handle="wubb_squirrel" 
+			iconHandle="stickers/props/wubb_squirrel/thumb.jpg"
+			imageHandle="stickers/props/wubb_squirrel/props.swf"
+			show="wubb"
+	/>	
+	<prop displayName="wubb_wrench"
+			handle="wubb_wrench" 
+			iconHandle="stickers/props/wubb_wrench/thumb.jpg"
+			imageHandle="stickers/props/wubb_wrench/props.swf"
+			show="wubb"
+	/>     
+	<!-- blue -->
+	
+	<prop displayName="blue_chair"
+			handle="blue_chair" 
+			iconHandle="stickers/props/blue_chair/thumb.jpg"
+			imageHandle="stickers/props/blue_chair/props.swf"
+			show="blue"
+	/>	
+	<prop displayName="blue_mailbox"
+			handle="blue_mailbox" 
+			iconHandle="stickers/props/blue_mailbox/thumb.jpg"
+			imageHandle="stickers/props/blue_mailbox/props.swf"
+			show="blue"
+	/>	
+	<prop displayName="blue_moon"
+			handle="blue_moon" 
+			iconHandle="stickers/props/blue_moon/thumb.jpg"
+			imageHandle="stickers/props/blue_moon/props.swf"
+			show="blue"
+	/>		
+	<prop displayName="blue_pad"
+			handle="blue_pad" 
+			iconHandle="stickers/props/blue_pad/thumb.jpg"
+			imageHandle="stickers/props/blue_pad/props.swf"
+			show="blue"
+	/>		
+	<prop displayName="blue_saltpepper"
+			handle="blue_saltpepper" 
+			iconHandle="stickers/props/blue_saltpepper/thumb.jpg"
+			imageHandle="stickers/props/blue_saltpepper/props.swf"
+			show="blue"
+	/>
+
+	<!-- niha -->	
+	
+	<prop displayName="niha_pillow"
+			handle="niha_pillow" 
+			iconHandle="stickers/props/niha_pillow/thumb.jpg"
+			imageHandle="stickers/props/niha_pillow/props.swf"
+			show="niha"
+	/>
+	<prop displayName="niha_balloon"
+			handle="niha_balloon" 
+			iconHandle="stickers/props/niha_balloon/thumb.jpg"
+			imageHandle="stickers/props/niha_balloon/props.swf"
+			show="niha"
+	/>	
+	<prop displayName="niha_dragon"
+			handle="niha_dragon" 
+			iconHandle="stickers/props/niha_dragon/thumb.jpg"
+			imageHandle="stickers/props/niha_dragon/props.swf"
+			show="niha"
+	/>	
+	<prop displayName="niha_apple"
+			handle="niha_apple" 
+			iconHandle="stickers/props/niha_apple/thumb.jpg"
+			imageHandle="stickers/props/niha_apple/props.swf"
+			show="niha"
+	/>		
+	<prop displayName="niha_lantern"
+			handle="niha_lantern" 
+			iconHandle="stickers/props/niha_lantern/thumb.jpg"
+			imageHandle="stickers/props/niha_lantern/props.swf"
+			show="niha"
+	/>		
+
+	<!-- oliv -->	
+
+	<prop displayName="oliv_bed"
+			handle="oliv_bed" 
+			iconHandle="stickers/props/oliv_bed/thumb.jpg"
+			imageHandle="stickers/props/oliv_bed/props.swf"
+			show="oliv"
+	/>		
+	<prop displayName="oliv_bmx"
+			handle="oliv_bmx" 
+			iconHandle="stickers/props/oliv_bmx/thumb.jpg"
+			imageHandle="stickers/props/oliv_bmx/props.swf"
+			show="oliv"
+	/>	
+	<prop displayName="oliv_easel"
+			handle="oliv_easel" 
+			iconHandle="stickers/props/oliv_easel/thumb.jpg"
+			imageHandle="stickers/props/oliv_easel/props.swf"
+			show="oliv"
+	/>	
+	<prop displayName="oliv_mathilda"
+			handle="oliv_mathilda" 
+			iconHandle="stickers/props/oliv_mathilda/thumb.jpg"
+			imageHandle="stickers/props/oliv_mathilda/props.swf"
+			show="oliv"
+	/>
+	<prop displayName="oliv_plane"
+			handle="oliv_plane" 
+			iconHandle="stickers/props/oliv_plane/thumb.jpg"
+			imageHandle="stickers/props/oliv_plane/props.swf"
+			show="oliv"
+	/>	
+
+
+</props>

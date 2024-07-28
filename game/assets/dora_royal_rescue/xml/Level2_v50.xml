@@ -1,0 +1,456 @@
+<level id="1" width="18500" height="1600" startX="275" startY="1425">
+  <scene name="skybox" parallax="true">
+    <gameObject id="Decal" props="x:n0,y:n0,width:n740,height:n320,color:u0xff">
+      <artAsset classname="L2_skybox" insertType="insert" x="0" y="0"/>
+    </gameObject>
+  </scene>
+  <scene name="background" parallax="true">
+    <gameObject id="Decal" props="x:n0,y:n225,width:n3000,height:n480,color:u0xff">
+      <artAsset classname="L2_scroll2_mc" insertType="insert" x="0" y="-40"/>
+      <artAsset classname="L2_scroll1_mc" insertType="insert" x="740" y="-50"/>
+      <artAsset classname="L2_scroll2_mc" insertType="insert" x="1480" y="-40"/>
+      <artAsset classname="L2_scroll1_mc" insertType="insert" x="2220" y="-40"/>
+    </gameObject>
+  </scene>
+  <scene name="Trees" parallax="false">
+    <gameObject id="Decal" props="x:n1075,y:n325,width:n200,height:n600,color:u0xff">
+      <artAsset classname="L2_tree_large_mc" insertType="insert" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="Decal" props="x:n1075,y:n925,width:n200,height:n600,color:u0xff">
+      <artAsset classname="L2_tree_large_mc" insertType="insert" x="0" y="0"/>
+      <artAsset classname="L2_treetop_small" insertType="insert" x="-25" y="-200"/>
+    </gameObject>
+    <gameObject id="Decal" props="x:n2650,y:n925,width:n100,height:n600,color:u0xff">
+      <artAsset classname="L2_tree_small_mc" insertType="insert" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="Decal" props="x:n3000,y:n325,width:n100,height:n600,color:u0xff">
+      <artAsset classname="L2_tree_small_mc" insertType="insert" x="0" y="0"/>
+      <artAsset classname="L2_treetop_small" insertType="insert" x="-50" y="225"/>
+    </gameObject>
+    <gameObject id="Decal" props="x:n3000,y:n925,width:n100,height:n600,color:u0xff">
+      <artAsset classname="L2_tree_small_mc" insertType="insert" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="Decal" props="x:n3825,y:n625,width:n100,height:n600,color:u0xff">
+      <artAsset classname="L2_tree_small_mc" insertType="insert" x="0" y="0"/>
+      <artAsset classname="L2_treetop_small" insertType="insert" x="-100" y="-50"/>
+    </gameObject>
+    <gameObject id="Decal" props="x:n2650,y:n325,width:n100,height:n600,color:u0xff">
+      <artAsset classname="L2_tree_small_mc" insertType="insert" x="0" y="0"/>
+      <artAsset classname="L2_treetop_big_mc" insertType="insert" x="-100" y="200"/>
+    </gameObject>
+    <gameObject id="Decal" props="x:n4150,y:n625,width:n100,height:n600,color:u0xff">
+      <artAsset classname="L2_tree_small_mc" insertType="insert" x="0" y="0"/>
+      <artAsset classname="L2_treetop_small" insertType="insert" x="-75" y="-25"/>
+    </gameObject>
+    <gameObject id="Decal" props="x:n4800,y:n925,width:n100,height:n600,color:u0xff">
+      <artAsset classname="L2_tree_small_mc" insertType="insert" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="Decal" props="x:n4800,y:n325,width:n100,height:n600,color:u0xff">
+      <artAsset classname="L2_tree_small_mc" insertType="insert" x="0" y="0"/>
+      <artAsset classname="L2_treetop_big_mc" insertType="insert" x="-150" y="200"/>
+    </gameObject>
+    <gameObject id="Decal" props="x:n550,y:n926,width:n100,height:n600,color:u0xff">
+      <artAsset classname="L2_tree_small_mc" insertType="insert" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="Decal" props="x:n1686,y:n625,width:n100,height:n600,color:u0xff">
+      <artAsset classname="L2_tree_small_mc" insertType="insert" x="0" y="0"/>
+      <artAsset classname="L2_treetop_small" insertType="insert" x="-125" y="50"/>
+    </gameObject>
+    <gameObject id="Decal" props="x:n575,y:n325,width:n100,height:n600,color:u0xff">
+      <artAsset classname="L2_tree_small_mc" insertType="insert" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="Decal" props="x:n5625,y:n625,width:n100,height:n0,color:u0xff"/>
+    <gameObject id="Decal" props="x:n5625,y:n625,width:n200,height:n600,color:u0xff">
+      <artAsset classname="L2_tree_large_mc" insertType="insert" x="0" y="0"/>
+      <artAsset classname="L2_treetop_big_mc" insertType="insert" x="-75" y="-50"/>
+    </gameObject>
+    <gameObject id="Decal" props="x:n6525,y:n950,width:n100,height:n600,color:u0xff">
+      <artAsset classname="L2_tree_small_mc" insertType="insert" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="Decal" props="x:n6525,y:n350,width:n100,height:n600,color:u0xff">
+      <artAsset classname="L2_tree_small_mc" insertType="insert" x="0" y="0"/>
+      <artAsset classname="L2_treetop_small" insertType="insert" x="100" y="175"/>
+      <artAsset classname="L2_treetop_big_mc" insertType="insert" x="-225" y="200"/>
+    </gameObject>
+  </scene>
+  <scene name="Moving Platforms" parallax="false">
+    <gameObject id="MovingPlatform" props="x:n1525,y:n1175,width:n125,height:n25,color:u0xff00,minXMove:n0,maxXMove:n0,minYMove:n0,maxYMove:n275,speedX:n0,speedY:n3,platformType:sfountain">
+      <artAsset classname="L3_waterSpout" insertType="insert" x="25" y="0"/>
+      <artAsset classname="L3_waterPlatform" insertType="insert" x="-25" y="-25"/>
+    </gameObject>
+    <gameObject id="MovingPlatform" props="x:n6100,y:n1200,width:n125,height:n25,color:u0xff00,minXMove:n0,maxXMove:n0,minYMove:n0,maxYMove:n275,speedX:n0,speedY:n3,platformType:sfountain">
+      <artAsset classname="L3_waterSpout" insertType="insert" x="50" y="0"/>
+      <artAsset classname="L3_waterPlatform" insertType="insert" x="0" y="-25"/>
+    </gameObject>
+  </scene>
+  <scene name="Ground Layer" parallax="false">
+    <gameObject id="Platform" props="x:n0,y:n1525,width:n500,height:n100,color:u0xff00">
+      <artAsset classname="forest_grass_Tile" insertType="insert" x="0" y="-25"/>
+      <artAsset classname="forest_grass_Tile" insertType="insert" x="100" y="-25"/>
+      <artAsset classname="forest_grass_Tile" insertType="insert" x="300" y="-25"/>
+      <artAsset classname="forest_grass_Tile" insertType="insert" x="200" y="-25"/>
+      <artAsset classname="forest_grass_Tile" insertType="insert" x="400" y="-25"/>
+    </gameObject>
+    <gameObject id="Platform" props="x:n1675,y:n1225,width:n500,height:n300,color:u0xff00"/>
+    <gameObject id="Platform" props="x:n2975,y:n1525,width:n500,height:n50,color:u0xff00">
+      <artAsset classname="platformTexture" insertType="" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="Platform" props="x:n3475,y:n1525,width:n500,height:n50,color:u0xff00">
+      <artAsset classname="platformTexture" insertType="" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="Platform" props="x:n3775,y:n1225,width:n600,height:n300,color:u0xff00"/>
+    <gameObject id="Platform" props="x:n0,y:n925,width:n175,height:n600,color:u0xff00">
+      <artAsset classname="platformTexture" insertType="" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="Platform" props="x:n5775,y:n1525,width:n50,height:n50,color:u0xff00">
+      <artAsset classname="platformTexture" insertType="" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="Platform" props="x:n500,y:n1525,width:n1000,height:n100,color:u0xff00">
+      <artAsset classname="forest_grass_Tile" insertType="insert" x="0" y="-25"/>
+      <artAsset classname="forest_grass_Tile" insertType="insert" x="100" y="-25"/>
+      <artAsset classname="forest_grass_Tile" insertType="insert" x="300" y="-25"/>
+      <artAsset classname="forest_grass_Tile" insertType="insert" x="200" y="-25"/>
+      <artAsset classname="forest_grass_Tile" insertType="insert" x="400" y="-25"/>
+      <artAsset classname="forest_grass_Tile" insertType="insert" x="500" y="-25"/>
+      <artAsset classname="forest_grass_Tile" insertType="insert" x="600" y="-25"/>
+      <artAsset classname="forest_grass_Tile" insertType="insert" x="900" y="-25"/>
+      <artAsset classname="forest_grass_Tile" insertType="insert" x="800" y="-25"/>
+      <artAsset classname="forest_grass_Tile" insertType="insert" x="700" y="-25"/>
+    </gameObject>
+    <gameObject id="Platform" props="x:n2500,y:n1525,width:n1000,height:n100,color:u0xff00">
+      <artAsset classname="forest_grass_Tile" insertType="insert" x="0" y="-25"/>
+      <artAsset classname="forest_grass_Tile" insertType="insert" x="100" y="-25"/>
+      <artAsset classname="forest_grass_Tile" insertType="insert" x="300" y="-25"/>
+      <artAsset classname="forest_grass_Tile" insertType="insert" x="200" y="-25"/>
+      <artAsset classname="forest_grass_Tile" insertType="insert" x="400" y="-25"/>
+      <artAsset classname="forest_grass_Tile" insertType="insert" x="500" y="-25"/>
+      <artAsset classname="forest_grass_Tile" insertType="insert" x="600" y="-25"/>
+      <artAsset classname="forest_grass_Tile" insertType="insert" x="900" y="-25"/>
+      <artAsset classname="forest_grass_Tile" insertType="insert" x="800" y="-25"/>
+      <artAsset classname="forest_grass_Tile" insertType="insert" x="700" y="-25"/>
+    </gameObject>
+    <gameObject id="Platform" props="x:n4500,y:n1525,width:n1000,height:n100,color:u0xff00">
+      <artAsset classname="forest_grass_Tile" insertType="insert" x="0" y="-25"/>
+      <artAsset classname="forest_grass_Tile" insertType="insert" x="100" y="-25"/>
+      <artAsset classname="forest_grass_Tile" insertType="insert" x="300" y="-25"/>
+      <artAsset classname="forest_grass_Tile" insertType="insert" x="200" y="-25"/>
+      <artAsset classname="forest_grass_Tile" insertType="insert" x="400" y="-25"/>
+      <artAsset classname="forest_grass_Tile" insertType="insert" x="500" y="-25"/>
+      <artAsset classname="forest_grass_Tile" insertType="insert" x="600" y="-25"/>
+      <artAsset classname="forest_grass_Tile" insertType="insert" x="900" y="-25"/>
+      <artAsset classname="forest_grass_Tile" insertType="insert" x="800" y="-25"/>
+      <artAsset classname="forest_grass_Tile" insertType="insert" x="700" y="-25"/>
+    </gameObject>
+    <gameObject id="Platform" props="x:n5500,y:n1525,width:n1000,height:n100,color:u0xff00">
+      <artAsset classname="forest_grass_Tile" insertType="insert" x="0" y="-25"/>
+      <artAsset classname="forest_grass_Tile" insertType="insert" x="100" y="-25"/>
+      <artAsset classname="forest_grass_Tile" insertType="insert" x="300" y="-25"/>
+      <artAsset classname="forest_grass_Tile" insertType="insert" x="200" y="-25"/>
+      <artAsset classname="forest_grass_Tile" insertType="insert" x="400" y="-25"/>
+      <artAsset classname="forest_grass_Tile" insertType="insert" x="500" y="-25"/>
+      <artAsset classname="forest_grass_Tile" insertType="insert" x="600" y="-25"/>
+      <artAsset classname="forest_grass_Tile" insertType="insert" x="900" y="-25"/>
+      <artAsset classname="forest_grass_Tile" insertType="insert" x="800" y="-25"/>
+      <artAsset classname="forest_grass_Tile" insertType="insert" x="700" y="-25"/>
+    </gameObject>
+    <gameObject id="Platform" props="x:n1500,y:n1525,width:n1000,height:n100,color:u0xff00">
+      <artAsset classname="forest_grass_Tile" insertType="insert" x="0" y="-25"/>
+      <artAsset classname="forest_grass_Tile" insertType="insert" x="100" y="-25"/>
+      <artAsset classname="forest_grass_Tile" insertType="insert" x="300" y="-25"/>
+      <artAsset classname="forest_grass_Tile" insertType="insert" x="200" y="-25"/>
+      <artAsset classname="forest_grass_Tile" insertType="insert" x="400" y="-25"/>
+      <artAsset classname="forest_grass_Tile" insertType="insert" x="500" y="-25"/>
+      <artAsset classname="forest_grass_Tile" insertType="insert" x="600" y="-25"/>
+      <artAsset classname="forest_grass_Tile" insertType="insert" x="900" y="-25"/>
+      <artAsset classname="forest_grass_Tile" insertType="insert" x="800" y="-25"/>
+      <artAsset classname="forest_grass_Tile" insertType="insert" x="700" y="-25"/>
+    </gameObject>
+    <gameObject id="Platform" props="x:n3500,y:n1525,width:n1000,height:n100,color:u0xff00">
+      <artAsset classname="forest_grass_Tile" insertType="insert" x="0" y="-25"/>
+      <artAsset classname="forest_grass_Tile" insertType="insert" x="100" y="-25"/>
+      <artAsset classname="forest_grass_Tile" insertType="insert" x="300" y="-25"/>
+      <artAsset classname="forest_grass_Tile" insertType="insert" x="200" y="-25"/>
+      <artAsset classname="forest_grass_Tile" insertType="insert" x="400" y="-25"/>
+      <artAsset classname="forest_grass_Tile" insertType="insert" x="500" y="-25"/>
+      <artAsset classname="forest_grass_Tile" insertType="insert" x="600" y="-25"/>
+      <artAsset classname="forest_grass_Tile" insertType="insert" x="900" y="-25"/>
+      <artAsset classname="forest_grass_Tile" insertType="insert" x="800" y="-25"/>
+      <artAsset classname="forest_grass_Tile" insertType="insert" x="700" y="-25"/>
+    </gameObject>
+    <gameObject id="SlantedPlatform" props="x:n2175,y:n1225,width:n300,height:n300,color:u0xff00,face_right:btrue,slippery:btrue">
+      <artAsset classname="L2_slope_decal1" insertType="insert" x="-675" y="-50"/>
+    </gameObject>
+    <gameObject id="SlantedPlatform" props="x:n3475,y:n1225,width:n300,height:n300,color:u0xff00,face_right:bfalse,slippery:btrue">
+      <artAsset classname="L2_slope_decal2" insertType="insert" x="950" y="-50"/>
+    </gameObject>
+    <gameObject id="Platform" props="x:n6500,y:n1525,width:n1000,height:n100,color:u0xff00">
+      <artAsset classname="forest_grass_Tile" insertType="insert" x="0" y="-25"/>
+      <artAsset classname="forest_grass_Tile" insertType="insert" x="100" y="-25"/>
+      <artAsset classname="forest_grass_Tile" insertType="insert" x="300" y="-25"/>
+      <artAsset classname="forest_grass_Tile" insertType="insert" x="200" y="-25"/>
+      <artAsset classname="forest_grass_Tile" insertType="insert" x="400" y="-25"/>
+      <artAsset classname="forest_grass_Tile" insertType="insert" x="500" y="-25"/>
+      <artAsset classname="forest_grass_Tile" insertType="insert" x="600" y="-25"/>
+      <artAsset classname="forest_grass_Tile" insertType="insert" x="900" y="-25"/>
+      <artAsset classname="forest_grass_Tile" insertType="insert" x="800" y="-25"/>
+      <artAsset classname="forest_grass_Tile" insertType="insert" x="700" y="-25"/>
+    </gameObject>
+    <gameObject id="SlantedPlatform" props="x:n5225,y:n1225,width:n300,height:n300,color:u0xff00,face_right:bfalse,slippery:btrue">
+      <artAsset classname="L2_slope_decal2" insertType="insert" x="950" y="-50"/>
+    </gameObject>
+    <gameObject id="Platform" props="x:n7500,y:n1525,width:n1000,height:n100,color:u0xff00">
+      <artAsset classname="forest_grass_Tile" insertType="insert" x="0" y="-25"/>
+      <artAsset classname="forest_grass_Tile" insertType="insert" x="100" y="-25"/>
+      <artAsset classname="forest_grass_Tile" insertType="insert" x="300" y="-25"/>
+      <artAsset classname="forest_grass_Tile" insertType="insert" x="200" y="-25"/>
+      <artAsset classname="forest_grass_Tile" insertType="insert" x="400" y="-25"/>
+      <artAsset classname="forest_grass_Tile" insertType="insert" x="500" y="-25"/>
+      <artAsset classname="forest_grass_Tile" insertType="insert" x="600" y="-25"/>
+      <artAsset classname="forest_grass_Tile" insertType="insert" x="900" y="-25"/>
+      <artAsset classname="forest_grass_Tile" insertType="insert" x="800" y="-25"/>
+      <artAsset classname="forest_grass_Tile" insertType="insert" x="700" y="-25"/>
+    </gameObject>
+    <gameObject id="Platform" props="x:n5525,y:n1225,width:n575,height:n300,color:u0xff00"/>
+    <gameObject id="Region" props="x:n3350,y:n200,width:n25,height:n2000,color:u0xff0000,regionType:sshrink_hitbox"/>
+    <gameObject id="Region" props="x:n3400,y:n1500,width:n75,height:n25,color:u0xff00,regionType:senlarge_hitbox"/>
+    <gameObject id="Region" props="x:n3775,y:n1200,width:n75,height:n25,color:u0xff00,regionType:senlarge_hitbox"/>
+    <gameObject id="Region" props="x:n3900,y:n0,width:n25,height:n2000,color:u0xff0000,regionType:sshrink_hitbox"/>
+    <gameObject id="Region" props="x:n2600,y:n0,width:n25,height:n2000,color:u0xff0000,regionType:sshrink_hitbox"/>
+    <gameObject id="Region" props="x:n2051,y:n0,width:n25,height:n2000,color:u0xff0000,regionType:sshrink_hitbox"/>
+    <gameObject id="Region" props="x:n2175,y:n1025,width:n1700,height:n25,color:u0xff0000,regionType:sshrink_hitbox"/>
+    <gameObject id="Region" props="x:n5050,y:n0,width:n25,height:n2000,color:u0xff0000,regionType:sshrink_hitbox"/>
+    <gameObject id="Region" props="x:n5650,y:n0,width:n25,height:n2000,color:u0xff0000,regionType:sshrink_hitbox"/>
+    <gameObject id="Region" props="x:n5200,y:n1500,width:n25,height:n25,color:u0xff00,regionType:senlarge_hitbox"/>
+    <gameObject id="Region" props="x:n5525,y:n1075,width:n25,height:n150,color:u0xff00,regionType:senlarge_hitbox"/>
+  </scene>
+  <scene name="Waterfalls" parallax="false">
+    <gameObject id="Region" props="x:n1800,y:n625,width:n300,height:n600,color:u0xff000,regionType:shigh_gravity">
+      <artAsset classname="waterfall" insertType="insert" x="0" y="0"/>
+      <artAsset classname="waterfall" insertType="insert" x="0" y="300"/>
+      <artAsset classname="waterfall_bottom" insertType="insert" x="0" y="450"/>
+      <artAsset classname="waterfall_top" insertType="insert" x="0" y="0"/>
+    </gameObject>
+  </scene>
+  <scene name="Branches" parallax="false">
+    <gameObject id="BouncyPlatform" props="x:n2225,y:n1000,width:n75,height:n25,color:u0xff00">
+      <artAsset classname="L2_bouncy_branch_large1" insertType="insert" x="-25" y="-25"/>
+    </gameObject>
+    <gameObject id="BouncyPlatform" props="x:n3300,y:n1250,width:n75,height:n25,color:u0xff00">
+      <artAsset classname="L2_bouncy_branch" insertType="insert" x="-225" y="-25"/>
+    </gameObject>
+    <gameObject id="JumpThroughPlatform" props="x:n650,y:n1400,width:n150,height:n25,color:u0xff">
+      <artAsset classname="L2_small_branch_alt" insertType="insert" x="-25" y="-25"/>
+    </gameObject>
+    <gameObject id="JumpThroughPlatform" props="x:n775,y:n1325,width:n650,height:n25,color:u0xff">
+      <artAsset classname="L2_small_branch_alt" insertType="insert" x="500" y="-25"/>
+      <artAsset classname="L2_medium_branch1" insertType="insert" x="0" y="-25"/>
+      <artAsset classname="treePlatLarge" insertType="insert" x="250" y="-50"/>
+    </gameObject>
+    <gameObject id="JumpThroughPlatform" props="x:n1225,y:n1425,width:n100,height:n100,color:u0xff">
+      <artAsset classname="L2_stump_mc" insertType="insert" x="-25" y="0"/>
+    </gameObject>
+    <gameObject id="JumpThroughPlatform" props="x:n1400,y:n1100,width:n525,height:n25,color:u0xff">
+      <artAsset classname="L2_small_branch_alt" insertType="insert" x="375" y="-25"/>
+      <artAsset classname="L2_medium_branch1" insertType="insert" x="-25" y="-25"/>
+      <artAsset classname="treePlatSmall" insertType="insert" x="250" y="-25"/>
+    </gameObject>
+    <gameObject id="JumpThroughPlatform" props="x:n2625,y:n1425,width:n250,height:n25,color:u0xff">
+      <artAsset classname="L2_small_branch_alt" insertType="insert" x="100" y="-25"/>
+      <artAsset classname="treePlatSmall" insertType="insert" x="0" y="-25"/>
+    </gameObject>
+    <gameObject id="JumpThroughPlatform" props="x:n2850,y:n1250,width:n450,height:n25,color:u0xff">
+      <artAsset classname="L2_small_branch2" insertType="insert" x="0" y="-25"/>
+      <artAsset classname="treePlatSmall" insertType="insert" x="125" y="-25"/>
+    </gameObject>
+    <gameObject id="JumpThroughPlatform" props="x:n2500,y:n1125,width:n400,height:n25,color:u0xff">
+      <artAsset classname="L2_small_branch2" insertType="insert" x="-25" y="-25"/>
+      <artAsset classname="L2_small_branch1" insertType="insert" x="225" y="-25"/>
+      <artAsset classname="treePlatSmall" insertType="insert" x="125" y="-25"/>
+    </gameObject>
+    <gameObject id="JumpThroughPlatform" props="x:n2300,y:n1000,width:n350,height:n25,color:u0xff"/>
+    <gameObject id="JumpThroughPlatform" props="x:n4600,y:n1425,width:n200,height:n25,color:u0xff"/>
+    <gameObject id="JumpThroughPlatform" props="x:n2850,y:n1350,width:n150,height:n25,color:u0xff">
+      <artAsset classname="L2_small_branch_alt1" insertType="insert" x="0" y="-25"/>
+    </gameObject>
+    <gameObject id="JumpThroughPlatform" props="x:n3400,y:n1100,width:n450,height:n25,color:u0xff">
+      <artAsset classname="L2_large_branch1" insertType="insert" x="0" y="-25"/>
+    </gameObject>
+    <gameObject id="BouncyPlatform" props="x:n4525,y:n1425,width:n75,height:n25,color:u0xff00">
+      <artAsset classname="L2_bouncy_branch1" insertType="insert" x="0" y="-25"/>
+    </gameObject>
+    <gameObject id="JumpThroughPlatform" props="x:n4250,y:n1025,width:n450,height:n25,color:u0xff">
+      <artAsset classname="L2_large_branch" insertType="insert" x="-25" y="-25"/>
+    </gameObject>
+    <gameObject id="JumpThroughPlatform" props="x:n3675,y:n1000,width:n175,height:n25,color:u0xff">
+      <artAsset classname="L2_small_branch2" insertType="insert" x="0" y="-25"/>
+    </gameObject>
+    <gameObject id="JumpThroughPlatform" props="x:n4200,y:n1125,width:n100,height:n100,color:u0xff">
+      <artAsset classname="L2_stump_mc" insertType="insert" x="-25" y="0"/>
+    </gameObject>
+    <gameObject id="JumpThroughPlatform" props="x:n4375,y:n1300,width:n200,height:n25,color:u0xff"/>
+    <gameObject id="BouncyPlatform" props="x:n4575,y:n1300,width:n75,height:n25,color:u0xff00">
+      <artAsset classname="L2_bouncy_branch" insertType="insert" x="-225" y="-25"/>
+    </gameObject>
+    <gameObject id="JumpThroughPlatform" props="x:n4650,y:n1150,width:n525,height:n25,color:u0xff">
+      <artAsset classname="L2_small_branch_alt1" insertType="insert" x="0" y="-25"/>
+      <artAsset classname="L2_medium_branch2" insertType="insert" x="250" y="-25"/>
+      <artAsset classname="treePlatSmall" insertType="insert" x="125" y="-25"/>
+    </gameObject>
+    <gameObject id="JumpThroughPlatform" props="x:n4950,y:n1425,width:n100,height:n100,color:u0xff">
+      <artAsset classname="L2_stump_mc" insertType="insert" x="-25" y="0"/>
+    </gameObject>
+    <gameObject id="TimedPickup" props="x:n3300,y:n1375,width:n50,height:n50,color:u0xff0000,pickupType:ssticky_shoes,respawnTime:i13,effectTime:i10">
+      <artAsset classname="horseshoe_anim" insertType="" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="JumpThroughPlatform" props="x:n1275,y:n1200,width:n250,height:n25,color:u0xff">
+      <artAsset classname="L2_medium_branch2" insertType="insert" x="-25" y="-25"/>
+    </gameObject>
+    <gameObject id="BouncyPlatform" props="x:n6175,y:n1025,width:n100,height:n25,color:u0xff00">
+      <artAsset classname="L2_bouncy_branch_large" insertType="insert" x="-375" y="-25"/>
+    </gameObject>
+    <gameObject id="JumpThroughPlatform" props="x:n5475,y:n1025,width:n700,height:n25,color:u0xff">
+      <artAsset classname="L2_small_branch_alt1" insertType="insert" x="0" y="-25"/>
+      <artAsset classname="treePlatLarge" insertType="insert" x="125" y="-50"/>
+    </gameObject>
+    <gameObject id="JumpThroughPlatform" props="x:n6250,y:n1150,width:n400,height:n25,color:u0xff">
+      <artAsset classname="L2_medium_branch1" insertType="insert" x="-25" y="-25"/>
+      <artAsset classname="treePlatSmall" insertType="insert" x="225" y="-25"/>
+    </gameObject>
+    <gameObject id="BouncyPlatform" props="x:n6250,y:n1300,width:n75,height:n25,color:u0xff00">
+      <artAsset classname="L2_bouncy_branch1" insertType="insert" x="0" y="-25"/>
+    </gameObject>
+    <gameObject id="JumpThroughPlatform" props="x:n6325,y:n1300,width:n575,height:n25,color:u0xff">
+      <artAsset classname="L2_medium_branch2" insertType="insert" x="300" y="-25"/>
+      <artAsset classname="treePlatSmall" insertType="insert" x="175" y="-25"/>
+    </gameObject>
+    <gameObject id="JumpThroughPlatform" props="x:n5800,y:n1125,width:n100,height:n100,color:u0xff">
+      <artAsset classname="L2_stump_mc" insertType="insert" x="-25" y="0"/>
+    </gameObject>
+    <gameObject id="JumpThroughPlatform" props="x:n6675,y:n1425,width:n100,height:n100,color:u0xff">
+      <artAsset classname="L2_stump_mc" insertType="insert" x="-25" y="0"/>
+    </gameObject>
+    <gameObject id="TimedPickup" props="x:n5075,y:n1350,width:n50,height:n50,color:u0xff0000,pickupType:ssticky_shoes,respawnTime:i13,effectTime:i10">
+      <artAsset classname="horseshoe_anim" insertType="" x="0" y="0"/>
+    </gameObject>
+  </scene>
+  <scene name="playerScene" parallax="false">
+    <gameObject id="Player" props="x:n275,y:n1425,width:n50,height:n100,color:u0x0">
+      <artAsset classname="char_anim" insertType="" x="0" y="0"/>
+    </gameObject>
+  </scene>
+  <scene name="Regions" parallax="false">
+    <gameObject id="Region" props="x:n7400,y:n925,width:n100,height:n600,color:u0xff000,regionType:send_level">
+      <artAsset classname="gate_forest" insertType="insert" x="-25" y="200"/>
+    </gameObject>
+    <gameObject id="VORegion" props="x:n3150,y:n1375,width:n250,height:n100,color:u0xff000,regionType:svo,voString:sDRR_39,shouldRespawn:bfalse,respawnTime:i5"/>
+    <gameObject id="VORegion" props="x:n1675,y:n925,width:n50,height:n300,color:u0xff000,regionType:svo,voString:sDRR_32-ALT,shouldRespawn:btrue,respawnTime:i10"/>
+    <gameObject id="VORegion" props="x:n1225,y:n1175,width:n50,height:n300,color:u0xff000,regionType:svo,voString:sDRR_36-ALT7,shouldRespawn:bfalse,respawnTime:i5"/>
+    <gameObject id="VORegion" props="x:n2425,y:n850,width:n25,height:n125,color:u0xff000,regionType:svo,voString:sDRR_36-ALT4,shouldRespawn:btrue,respawnTime:i5"/>
+    <gameObject id="VORegion" props="x:n3175,y:n1075,width:n25,height:n125,color:u0xff000,regionType:svo,voString:sDRR_36-ALT3,shouldRespawn:btrue,respawnTime:i5"/>
+    <gameObject id="VORegion" props="x:n4350,y:n950,width:n25,height:n175,color:u0xff000,regionType:svo,voString:sDRR_40,shouldRespawn:bfalse,respawnTime:i5"/>
+    <gameObject id="VORegion" props="x:n6050,y:n1050,width:n250,height:n175,color:u0xff000,regionType:svo,voString:sDRR_36-ALT8,shouldRespawn:bfalse,respawnTime:i5"/>
+    <gameObject id="VORegion" props="x:n5075,y:n1350,width:n50,height:n50,color:u0xff000,regionType:svo,voString:sDRR_39-ALT,shouldRespawn:btrue,respawnTime:i10"/>
+  </scene>
+  <scene name="Collectibles" parallax="false">
+    <gameObject id="Pickup" props="x:n875,y:n1175,width:n75,height:n50,color:u0xff,pickupType:sbook">
+      <artAsset classname="book3" insertType="" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="Pickup" props="x:n1950,y:n1000,width:n50,height:n50,color:u0xff0000,pickupType:scrayon">
+      <artAsset classname="crayon3" insertType="insert" x="25" y="0"/>
+    </gameObject>
+    <gameObject id="Pickup" props="x:n850,y:n1425,width:n50,height:n25,color:u0xff,pickupType:sbook">
+      <artAsset classname="book3" insertType="" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="Pickup" props="x:n700,y:n1275,width:n75,height:n50,color:u0xff,pickupType:sbook">
+      <artAsset classname="book1" insertType="" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="Pickup" props="x:n1350,y:n1100,width:n50,height:n50,color:u0xff,pickupType:sbook">
+      <artAsset classname="book2" insertType="" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="Pickup" props="x:n2200,y:n850,width:n50,height:n50,color:u0xff,pickupType:sbook">
+      <artAsset classname="book1" insertType="" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="Pickup" props="x:n2525,y:n1025,width:n50,height:n50,color:u0xff,pickupType:sbook">
+      <artAsset classname="book1" insertType="" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="Pickup" props="x:n2800,y:n1175,width:n50,height:n50,color:u0xff,pickupType:sbook">
+      <artAsset classname="book3" insertType="" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="Pickup" props="x:n4625,y:n1075,width:n50,height:n50,color:u0xff0000,pickupType:scrayon">
+      <artAsset classname="crayon1" insertType="" x="25" y="0"/>
+    </gameObject>
+    <gameObject id="Pickup" props="x:n2875,y:n1000,width:n50,height:n50,color:u0xff,pickupType:sbook">
+      <artAsset classname="book2" insertType="" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="Pickup" props="x:n3325,y:n1125,width:n50,height:n50,color:u0xff,pickupType:sbook">
+      <artAsset classname="book3" insertType="" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="Pickup" props="x:n4275,y:n900,width:n50,height:n50,color:u0xff,pickupType:sbook">
+      <artAsset classname="book3" insertType="" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="Pickup" props="x:n4725,y:n925,width:n50,height:n50,color:u0xff,pickupType:sbook">
+      <artAsset classname="book2" insertType="" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="Pickup" props="x:n3725,y:n900,width:n50,height:n50,color:u0xff,pickupType:sbook">
+      <artAsset classname="book1" insertType="" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="Pickup" props="x:n4700,y:n1300,width:n50,height:n50,color:u0xff,pickupType:sbook">
+      <artAsset classname="book1" insertType="" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="TimedPickup" props="x:n1575,y:n950,width:n75,height:n50,color:u0xff0000,pickupType:sumbrella,respawnTime:i13,effectTime:i10">
+      <artAsset classname="umbrella_anim" insertType="" x="0" y="-25"/>
+    </gameObject>
+    <gameObject id="Pickup" props="x:n5075,y:n1025,width:n50,height:n50,color:u0xff,pickupType:sbook">
+      <artAsset classname="book1" insertType="" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="Pickup" props="x:n5425,y:n875,width:n50,height:n50,color:u0xff,pickupType:sbook">
+      <artAsset classname="book2" insertType="" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="Pickup" props="x:n6150,y:n900,width:n50,height:n50,color:u0xff,pickupType:sbook">
+      <artAsset classname="book3" insertType="" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="Pickup" props="x:n6550,y:n1000,width:n50,height:n50,color:u0xff,pickupType:sbook">
+      <artAsset classname="book3" insertType="" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="Pickup" props="x:n6375,y:n1400,width:n50,height:n50,color:u0xff,pickupType:sbook">
+      <artAsset classname="book2" insertType="" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="Pickup" props="x:n5625,y:n1075,width:n50,height:n50,color:u0xff,pickupType:sbook">
+      <artAsset classname="book1" insertType="" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="Pickup" props="x:n6825,y:n1175,width:n50,height:n50,color:u0xff,pickupType:sbook">
+      <artAsset classname="book1" insertType="" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="Pickup" props="x:n6350,y:n825,width:n50,height:n50,color:u0xff,pickupType:sbook">
+      <artAsset classname="book1" insertType="" x="0" y="0"/>
+    </gameObject>
+  </scene>
+  <scene name="Decals" parallax="false">
+    <gameObject id="Decal" props="x:n1800,y:n1150,width:n300,height:n100,color:u0xff">
+      <artAsset classname="waterfall_mist" insertType="insert" x="-75" y="-225"/>
+    </gameObject>
+  </scene>
+  <scene name="Foreground" parallax="true">
+    <gameObject id="Decal" props="x:n0,y:n182,width:n36000,height:n3000,color:u0xff">
+      <artAsset classname="L2_forground2_mc" insertType="insert" x="0" y="1900"/>
+      <artAsset classname="L2_forground1_mc" insertType="insert" x="740" y="1900"/>
+      <artAsset classname="L2_forground2_mc" insertType="insert" x="1480" y="1900"/>
+      <artAsset classname="L2_forground1_mc" insertType="insert" x="2220" y="1900"/>
+      <artAsset classname="L2_forground2_mc" insertType="insert" x="2960" y="1900"/>
+      <artAsset classname="L2_forground1_mc" insertType="insert" x="3700" y="1900"/>
+      <artAsset classname="L2_forground2_mc" insertType="insert" x="4440" y="1900"/>
+      <artAsset classname="L2_forground1_mc" insertType="insert" x="5180" y="1900"/>
+      <artAsset classname="L2_forground2_mc" insertType="insert" x="5920" y="1900"/>
+      <artAsset classname="L2_forground1_mc" insertType="insert" x="6660" y="1900"/>
+      <artAsset classname="L2_forground2_mc" insertType="insert" x="7400" y="1900"/>
+      <artAsset classname="L2_forground1_mc" insertType="insert" x="8140" y="1900"/>
+      <artAsset classname="L2_forground1_mc" insertType="insert" x="8880" y="1900"/>  
+      <artAsset classname="L2_forground1_mc" insertType="insert" x="9620" y="1900"/>  
+      <artAsset classname="L2_forground1_mc" insertType="insert" x="10360" y="1900"/>            
+      <artAsset classname="L2_forground1_mc" insertType="insert" x="11100" y="1900"/>        
+      <artAsset classname="L2_forground1_mc" insertType="insert" x="11840" y="1900"/>        
+      <artAsset classname="L2_forground1_mc" insertType="insert" x="12580" y="1900"/>        
+      <artAsset classname="L2_forground1_mc" insertType="insert" x="13320" y="1900"/>        
+    </gameObject>
+  </scene>
+</level>

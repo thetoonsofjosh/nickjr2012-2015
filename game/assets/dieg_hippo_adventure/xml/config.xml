@@ -1,0 +1,118 @@
+<config>
+	<settings>
+		<video id="0" src="http://www.nickjr.com/game/assets/dieg_hippo_adventure/assets/video/Instructions_level1.flv" />
+		<video id="1" src="http://www.nickjr.com/game/assets/dieg_hippo_adventure/assets/video/instructions_level2.flv" />
+		<video id="2" src="http://www.nickjr.com/game/assets/dieg_hippo_adventure/assets/video/instructions_level3.flv" />
+	</settings>
+	<assets>
+		
+		<global base="http://www.nickjr.com/game/assets/dieg_hippo_adventure">
+			<!-- Add assets in here which should be loaded no matter what -->
+			<asset id="character" src="assets/swfs/character.swf" />
+			<asset id="transition" src="assets/swfs/transition.swf" />
+			<asset id="loops" src="assets/swfs/music_loops.swf" />
+		</global>
+		
+		<!-- Assets for the main section -->
+		<section id="main" base="http://www.nickjr.com/game/assets/dieg_hippo_adventure">
+			<asset id="mainSection" src="main.swf" />
+			<asset id="gameSection" src="assets/swfs/gameSection.swf" />
+		</section>
+		<section id="game" base="http://www.nickjr.com/game/assets/dieg_hippo_adventure">
+			<asset id="instructionsSection" src="assets/swfs/instructionsScreen.swf" />
+			<asset id="endGameSection" src="assets/swfs/endGameScreen.swf" />
+		</section>
+		<section id="endGame" base="http://www.nickjr.com/game/assets/dieg_hippo_adventure">
+			<asset id="printPg1" src="assets/swfs/printable_p1.swf" />
+			<asset id="printPg2" src="assets/swfs/printable_p2.swf" />
+		</section>
+		
+		<sounds base="http://www.nickjr.com/game/assets/dieg_hippo_adventure/assets/sounds">
+			
+			<pool id="fx">
+				<asset id="wood_break" src="fx/MD_NJR_DHG_SB_Breaking_Wood_Piles.mp3" />
+				<asset id="croc_snap" src="fx/MD_NJR_DHG_SB_Crocs_Snapping.mp3" />
+				<asset id="hippo_growl" src="fx/MD_NJR_DHG_SB_Hippo_Growl.mp3" />
+				<asset id="swim_loop" src="fx/MD_NJR_DHG_SB_Hippo_Swimming_Loop.mp3" />
+				<asset id="nature_background" src="fx/MD_NJR_DHG_SB_Nature_Background.mp3" />
+			</pool>
+			<pool id="title_screen">
+				<asset id="title_screen_start" src="voice_over/title_screen/Diego_01.mp3" />
+				<asset id="title_screen_clickPlay" src="voice_over/title_screen/Diego_02.mp3" />
+			</pool>
+			<pool id="introduction_screen">
+				<asset id="intro_hola" src="voice_over/introduction_screen/Diego_04.mp3" normalize="1.1" />
+				<asset id="intro_not_back" src="voice_over/introduction_screen/Diego_05.mp3" />
+				<asset id="intro_use_camera" src="voice_over/introduction_screen/Diego_06.mp3" />
+				<asset id="intro_oxpecker_trouble" src="voice_over/introduction_screen/Diego_07.mp3" />
+				<asset id="intro_pipe_pulling_water" src="voice_over/introduction_screen/Diego_08.mp3" />
+				<asset id="intro_pipe_pulling_oxpecker" src="voice_over/introduction_screen/Diego_09.mp3" />
+				<asset id="intro_say_zoom" src="voice_over/introduction_screen/Diego_10.mp3" />
+				<asset id="intro_cross_river" src="voice_over/introduction_screen/Diego_11.mp3" />
+				<asset id="intro_need_your_help" src="voice_over/introduction_screen/Diego_12.mp3" />
+				<asset id="intro_outro" src="voice_over/introduction_screen/Diego_13.mp3" />
+			</pool>
+			<pool id="facts_and_instructions_screen">
+				<asset id="instructions_arrows" src="voice_over/gameplay_instructions/Diego_15.mp3" normalize="1.5" />
+				<asset id="congrats_end_level_1" src="voice_over/fun_facts/Diego_22.mp3" />
+				<asset id="congrats_end_level_2" src="voice_over/fun_facts/Diego_25.mp3" />
+				<asset id="congrats_end_level_3" src="voice_over/fun_facts/Diego_29.mp3" />
+				<asset id="fact_level_0" src="voice_over/fun_facts/Diego_18.mp3" />
+				<asset id="fact_level_1" src="voice_over/fun_facts/Diego_23.mp3" />
+				<asset id="fact_level_2" src="voice_over/fun_facts/Diego_26.mp3" />
+				<asset id="instructions_outro" src="voice_over/fun_facts/Diego_21.mp3" />
+				
+			</pool>
+			<pool id="buttons">
+				<asset id="button_play" src="voice_over/buttons/Diego_55.mp3" />
+				<asset id="button_playAgain" src="voice_over/buttons/Diego_56.mp3" />
+				<asset id="button_skip" src="voice_over/buttons/Diego_57.mp3" />
+				<asset id="button_back" src="voice_over/buttons/Diego_58.mp3" />
+				<asset id="button_print" src="voice_over/buttons/Diego_59.mp3" />
+				<asset id="button_next" src="voice_over/buttons/Diego_60.mp3" />
+			</pool>
+			<pool id="encouragement">
+				<asset id="encrg_01" src="voice_over/encouragement/Diego_61.mp3" />
+				<asset id="encrg_02" src="voice_over/encouragement/Diego_62.mp3" />
+				<asset id="encrg_03" src="voice_over/encouragement/Diego_63.mp3" />
+				<asset id="encrg_04" src="voice_over/encouragement/Diego_64.mp3" />
+				<asset id="encrg_05" src="voice_over/encouragement/Diego_65.mp3" />
+				<asset id="encrg_06" src="voice_over/encouragement/Diego_66.mp3" />
+				<asset id="encrg_07" src="voice_over/encouragement/Diego_67.mp3" />
+				<asset id="encrg_08" src="voice_over/encouragement/Diego_68.mp3" />
+				<asset id="encrg_09" src="voice_over/encouragement/Diego_69.mp3" />
+				<asset id="encrg_10" src="voice_over/encouragement/Diego_70.mp3" />
+				<asset id="encrg_11" src="voice_over/encouragement/Diego_71.mp3" />
+				<asset id="encrg_12" src="voice_over/encouragement/Diego_72.mp3" />
+				<!-- <asset id="encrg_13" src="voice_over/encouragement/Diego_73.mp3" />
+				<asset id="encrg_14" src="voice_over/encouragement/Diego_74.mp3" /> -->
+				<asset id="encourage_logs" src="voice_over/encouragement/Diego_75.mp3" />
+				<asset id="encourage_crocs" src="voice_over/encouragement/Diego_76.mp3" />
+				<!-- <asset id="encrg_17" src="voice_over/encouragement/Diego_77.mp3" /> -->
+			</pool>
+			<pool id="printable">
+				<asset id="printable_start" src="voice_over/printable_screen/Diego_46.mp3" />
+				<asset id="printable_play_again" src="voice_over/printable_screen/Diego_47.mp3" />
+				<asset id="printable_play_again_clicked" src="voice_over/printable_screen/Diego_54.mp3" />
+				<asset id="printable_idle_print" src="voice_over/printable_screen/Diego_52.mp3" />
+				<asset id="printable_idle_play" src="voice_over/printable_screen/Diego_51.mp3" />
+			</pool>
+			<pool id="game_inactivity">
+				<asset id="gm_inactive01" src="voice_over/gameplay_inactivity/Diego_30.mp3" />
+				<asset id="gm_inactive02" src="voice_over/gameplay_inactivity/Diego_31.mp3" />
+				<asset id="gm_inactive03" src="voice_over/gameplay_inactivity/Diego_32.mp3" />
+				<asset id="gm_inactive04" src="voice_over/gameplay_inactivity/Diego_33.mp3" />
+				<asset id="gm_inactive05" src="voice_over/gameplay_inactivity/Diego_34.mp3" />
+				<asset id="gm_inactive06" src="voice_over/gameplay_inactivity/Diego_35.mp3" />
+			</pool>
+			<pool id="game_end_scene">
+				<asset id="game_end_scene_start" src="voice_over/game_end_scene/Diego_37.mp3" />
+				<asset id="game_end_scene_inactive" src="voice_over/game_end_inactivity/Diego_45.mp3" />
+				<asset id="game_end_scene_outro" src="voice_over/game_end_scene/Diego_40-42.mp3" />
+				<asset id="game_end_scene_wrong_0" src="voice_over/game_end_scene/Diego_38.mp3" />
+				<asset id="game_end_scene_wrong_1" src="voice_over/game_end_scene/Diego_38a.mp3" />
+				<asset id="game_end_scene_wrong_2" src="voice_over/game_end_scene/Diego_39.mp3" />
+			</pool>			
+		</sounds>
+	</assets>
+</config>

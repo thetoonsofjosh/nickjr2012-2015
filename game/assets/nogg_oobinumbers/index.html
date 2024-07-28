@@ -1,0 +1,42 @@
+<?
+
+require_once('SharedIncludes/path_constants.php');
+require_once(NOGGIN_DOCROOT. '/includes/nogginSmarty.php');
+
+$cache_id          = 'games|oobi|numbers';
+$template_filename = 'games/game.tpl';
+$smarty            =& new Smarty_Noggin ();
+
+
+if(!$smarty->is_cached($template_filename, $cache_id)) {
+
+    /*Insight tags*/ 
+    $tr_section      = 'games';
+    $sectionName     = 'Games & More';
+	$tr_show         = 'Oobi';
+    $tr_subsection1  = 'Oobi';
+	$tr_subsection2  = 'Numbers';
+    $tr_content_type = 'activity';
+    $title           = 'N O G G I N: ' . $sectionName . ': ' . $tr_subsection1 . ': ' . $tr_subsection2;
+    /**/
+
+    ob_start();
+    include($_SERVER['DOCUMENT_ROOT'] . '/includes/reporting/index.php');
+    $insight_first_code = ob_get_clean();
+
+    $smarty->assign('insight_first_code', $insight_first_code);
+
+    $smarty->assign('title', $title);
+    $smarty->assign('keyname', $tr_section);
+	$smarty->assign('tr_show', $tr_show);
+    $smarty->assign('bakColor', '238901');
+	
+	$watchNow ="<td><img src=\"/games/oobi/img/oobi-side.gif\"></td>";
+	$smarty->assign('watchNow', $watchNow);
+	
+	$swf_js_setup = '<script language="javascript">var swf_file = "oobi_numbers.swf?gotoUrl=/shows/oobi.php";var swf_height = "310";var swf_width = "565";var tr_ID = "' . $tr_show . '";</script>';
+	$smarty->assign('swf_js_setup', $swf_js_setup);
+}
+
+$smarty->display($template_filename, $cache_id);
+?>

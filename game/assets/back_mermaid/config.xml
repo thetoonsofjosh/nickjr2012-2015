@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+	<!-- Game default language -->
+	<property name="sDEFAULT_LOCALE">			<![CDATA[en_us]]>	</property>
+
+	<!-- Player maximum speed -->
+	<property name="nPLAYER_MAX_SPEED">			<![CDATA[5]]>		</property>
+	
+	<!-- Counter effect speed when displaying score in HUD-->
+	<property name="nHUD_SCORE_COUNTER_EFFECT_SPEED">	<![CDATA[25]]>		</property>
+
+	<!-- Music default volume -->
+	<property name="nDEFAULT_VOLUME_MUSIC">		<![CDATA[0.5]]>		</property>
+		
+	<!-- Sound default volume -->
+	<property name="nDEFAULT_VOLUME_SOUNDS">	<![CDATA[0.5]]>		</property>
+
+	<!-- Default UI Button click volume-->
+	<property name="nDEFAULT_MOUSE_VOL_CLICK">	<![CDATA[1]]>		</property>
+	
+	<!-- Default UI Button rollOver volume-->
+	<property name="nDEFAULT_MOUSE_VOL_ROLL">	<![CDATA[1]]>		</property>
+
+</config>

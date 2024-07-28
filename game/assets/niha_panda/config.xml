@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+	<property name="locale">en_us</property>
+	<property name="gaugeMode">false</property>
+	<property name="brandMaterialPath">../../../finder/printable/assets/copyright/nhkl.swf</property>
+	<property name="TuneInPath">TuneInNHKL.swf</property>
+</config>

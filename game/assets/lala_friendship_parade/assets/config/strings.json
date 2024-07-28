@@ -1,0 +1,471 @@
+{
+	"settings" :
+	{
+		"useDeviceFonts" : false
+	},
+    "fonts" : [
+    ],
+    "strings" : [
+        {
+            "id" : "txt_back",
+            "style" : 
+            {
+                "fontFamily" : "Arial",
+                "fontSize" : "24px",
+                "textAlign" : "center",
+                "lineSpacing" : "0px",
+                "color" : "#999999",
+                "rotation" : 0
+            },
+            "textMetrics" : 
+            {
+                "top" : 0,
+                "left" : 0,
+                "width" : 100.85,
+                "height" : 58.2
+            },
+            "text" : "BACK"
+        },
+        {
+            "id" : "txt_continue",
+            "style" : 
+            {
+                "fontFamily" : "Arial",
+                "fontSize" : "17px",
+                "textAlign" : "center",
+                "lineSpacing" : "0px",
+                "color" : "#999999",
+                "rotation" : 0
+            },
+            "textMetrics" : 
+            {
+                "top" : 0,
+                "left" : 0,
+                "width" : 140.85,
+                "height" : 29.6
+            },
+            "text" : "CONTINUE"
+        },
+        {
+            "id" : "txt_next",
+            "style" : 
+            {
+                "fontFamily" : "Arial",
+                "fontSize" : "36px",
+                "textAlign" : "center",
+                "lineSpacing" : "0px",
+                "color" : "#999999",
+                "rotation" : 0
+            },
+            "textMetrics" : 
+            {
+                "top" : 0,
+                "left" : 0,
+                "width" : 140.85,
+                "height" : 58.2
+            },
+            "text" : "NEXT"
+        },
+        {
+            "id" : "txt_play",
+            "style" : 
+            {
+                "fontFamily" : "Arial",
+                "fontSize" : "36px",
+                "textAlign" : "center",
+                "lineSpacing" : "0px",
+                "color" : "#999999",
+                "rotation" : 0
+            },
+            "textMetrics" : 
+            {
+                "top" : 0,
+                "left" : 0,
+                "width" : 104,
+                "height" : 58.2
+            },
+            "text" : "PLAY"
+        },
+        {
+            "id" : "txt_playAgain",
+            "style" : 
+            {
+                "fontFamily" : "Arial",
+                "fontSize" : "17px",
+                "textAlign" : "center",
+                "lineSpacing" : "-5px",
+                "color" : "#999999",
+                "rotation" : 0
+            },
+            "textMetrics" : 
+            {
+                "top" : 0,
+                "left" : 0,
+                "width" : 113.85,
+                "height" : 50.2
+            },
+            "text" : "PLAY<br/>AGAIN"
+        },
+        {
+            "id" : "txt_print",
+            "style" : 
+            {
+                "fontFamily" : "Arial",
+                "fontSize" : "17px",
+                "textAlign" : "center",
+                "lineSpacing" : "-5px",
+                "color" : "#999999",
+                "rotation" : 0
+            },
+            "textMetrics" : 
+            {
+                "top" : 0,
+                "left" : 0,
+                "width" : 113.85,
+                "height" : 50.2
+            },
+            "text" : "PRINT"
+        },
+        {
+            "id" : "txt_startOver",
+            "style" : 
+            {
+                "fontFamily" : "Arial",
+                "fontSize" : "17px",
+                "textAlign" : "center",
+                "lineSpacing" : "-5px",
+                "color" : "#999999",
+                "rotation" : 0
+            },
+            "textMetrics" : 
+            {
+                "top" : 0,
+                "left" : 0,
+                "width" : 113.85,
+                "height" : 50.2
+            },
+            "text" : "START<br>OVER"
+        },
+        {
+            "id" : "txt_skip",
+            "style" : 
+            {
+                "fontFamily" : "Arial",
+                "fontSize" : "36px",
+                "textAlign" : "center",
+                "lineSpacing" : "0px",
+                "color" : "#999999",
+                "rotation" : 0
+            },
+            "textMetrics" : 
+            {
+                "top" : 0,
+                "left" : 0,
+                "width" : 140.85,
+                "height" : 58.2
+            },
+            "text" : "SKIP"
+        },
+        {
+            "id" : "txt_helpScene",
+            "style" : 
+            {
+                "fontFamily" : "Arial",
+                "fontSize" : "96px",
+                "textAlign" : "center",
+                "lineSpacing" : "-55px",
+                "color" : "#cccccc",
+                "rotation" : 0
+            },
+            "textMetrics" : 
+            {
+                "top" : 0,
+                "left" : -12.7,
+                "width" : 320.1,
+                "height" : 119.1
+            },
+            "text" : "HELP FPO<br/>SCREEN 1 "
+        },
+        {
+            "id" : "txt_introScene",
+            "style" : 
+            {
+                "fontFamily" : "Arial",
+                "fontSize" : "96px",
+                "textAlign" : "center",
+                "lineSpacing" : "0px",
+                "color" : "#cccccc",
+                "rotation" : 0
+            },
+            "textMetrics" : 
+            {
+                "top" : 0,
+                "left" : 0,
+                "width" : 326.65,
+                "height" : 74.3
+            },
+            "text" : "INTRO FPO"
+        },
+        {
+            "id" : "txt_levelOutro",
+            "style" : 
+            {
+                "fontFamily" : "Arial",
+                "fontSize" : "96px",
+                "textAlign" : "center",
+                "lineSpacing" : "0px",
+                "color" : "#cccccc",
+                "rotation" : 0
+            },
+            "textMetrics" : 
+            {
+                "top" : 0,
+                "left" : 0,
+                "width" : 397.1,
+                "height" : 74.3
+            },
+            "text" : "TITLE OUTRO"
+        },
+        {
+            "id" : "txt_loseScene",
+            "style" : 
+            {
+                "fontFamily" : "Arial",
+                "fontSize" : "96px",
+                "textAlign" : "center",
+                "lineSpacing" : "0px",
+                "color" : "#cccccc",
+                "rotation" : 0
+            },
+            "textMetrics" : 
+            {
+                "top" : 0,
+                "left" : 0,
+                "width" : 557.65,
+                "height" : 74.3
+            },
+            "text" : "LOSE SCREEN FPO"
+        },
+        {
+            "id" : "txt_titleScene",
+            "style" : 
+            {
+                "fontFamily" : "Arial",
+                "fontSize" : "48px",
+                "textAlign" : "center",
+				"verticalAlign" : "center",
+                "lineSpacing" : "0px",
+                "color" : "#cccccc",
+                "rotation" : 0
+            },
+            "textMetrics" : 
+            {
+                "top" : 0,
+                "left" : 0,
+                "width" : 442.95,
+                "height" : 169.95
+            },
+            "text" : "TITLE<br/>FPO"
+        },
+        {
+            "id" : "txt_winScreen",
+            "style" : 
+            {
+                "fontFamily" : "Arial",
+                "fontSize" : "96px",
+                "textAlign" : "center",
+                "lineSpacing" : "0px",
+                "color" : "#cccccc",
+                "rotation" : 0
+            },
+            "textMetrics" : 
+            {
+                "top" : 0,
+                "left" : 0,
+                "width" : 516.85,
+                "height" : 74.3
+            },
+            "text" : "WIN SCREEN FPO"
+        },
+        {
+            "id" : "txt_levelIntro",
+            "style" : 
+            {
+                "fontFamily" : "Arial",
+                "fontSize" : "96px",
+                "textAlign" : "center",
+                "lineSpacing" : "0px",
+                "color" : "#cccccc",
+                "rotation" : 0
+            },
+            "textMetrics" : 
+            {
+                "top" : 0,
+                "left" : 0,
+                "width" : 392.75,
+                "height" : 74.3
+            },
+            "text" : "LEVEL INTRO"
+        },
+        {
+            "id" : "txt_loading",
+            "style" : 
+            {
+                "fontFamily" : "Arial",
+                "fontSize" : "15px",
+                "textAlign" : "center",
+                "lineSpacing" : "0px",
+                "color" : "#999999",
+                "rotation" : 0
+            },
+            "textMetrics" : 
+            {
+                "top" : 0,
+                "left" : 0,
+                "width" : 80.1,
+                "height" : 20.5
+            },
+            "text" : "LOADING"
+        },
+        {
+            "id" : "txt_game",
+            "style" : 
+            {
+                "fontFamily" : "Arial",
+                "fontSize" : "96px",
+                "textAlign" : "center",
+                "lineSpacing" : "0px",
+                "color" : "#cccccc",
+                "rotation" : 0
+            },
+            "textMetrics" : 
+            {
+                "top" : 0,
+                "left" : 1.75,
+                "width" : 307.9,
+                "height" : 74.3
+            },
+            "text" : "GAME FPO"
+        },
+        {
+            "id" : "txt_no",
+            "style" : 
+            {
+                "fontFamily" : "Arial",
+                "fontSize" : "25px",
+                "textAlign" : "center",
+                "lineSpacing" : "0px",
+                "color" : "#999999",
+                "rotation" : 0
+            },
+            "textMetrics" : 
+            {
+                "top" : 0,
+                "left" : 31.95,
+                "width" : 96.65,
+                "height" : 36.95
+            },
+            "text" : "NO"
+        },
+        {
+            "id" : "txt_yes",
+            "style" : 
+            {
+                "fontFamily" : "Arial",
+                "fontSize" : "25px",
+                "textAlign" : "center",
+                "lineSpacing" : "0px",
+                "color" : "#999999",
+                "rotation" : 0
+            },
+            "textMetrics" : 
+            {
+                "top" : 0,
+                "left" : 32.05,
+                "width" : 95.3,
+                "height" : 36.95
+            },
+            "text" : "YES"
+        },
+        {
+            "id" : "txt_message",
+            "style" : 
+            {
+                "fontFamily" : "Arial",
+                "fontSize" : "22px",
+                "textAlign" : "center",
+                "lineSpacing" : "0px",
+                "color" : "#999999",
+                "rotation" : 0
+            },
+            "textMetrics" : 
+            {
+                "top" : -6.1,
+                "left" : -14.7,
+                "width" : 140.05,
+                "height" : 37.15
+            },
+            "text" : "MESSAGE 1"
+        },
+        {
+            "id" : "txt_confirmPrint",
+            "style" : 
+            {
+                "fontFamily" : "Arial",
+                "fontSize" : "48px",
+                "textAlign" : "center",
+                "lineSpacing" : "0px",
+                "color" : "#999999",
+                "rotation" : 0
+            },
+            "textMetrics" : 
+            {
+                "top" : 0,
+                "left" : 0,
+                "width" : 679.90,
+                "height" : 76.25
+            },
+            "text" : "Are you sure you want to print?"
+        },
+        {
+            "id" : "txt_confirmCarriageRedo",
+            "style" : 
+            {
+                "fontFamily" : "Arial",
+                "fontSize" : "48px",
+                "textAlign" : "center",
+                "lineSpacing" : "0px",
+                "color" : "#999999",
+                "rotation" : 0
+            },
+            "textMetrics" : 
+            {
+                "top" : 0,
+                "left" : 0,
+                "width" : 679.90,
+                "height" : 231.35
+            },
+            "text" : "Are you sure you want to<br/>change your carriage?<br/>All your decorations will be lost."
+        },
+        {
+            "id" : "txt_confirmTrash",
+            "style" : 
+            {
+                "fontFamily" : "Arial",
+                "fontSize" : "48px",
+                "textAlign" : "center",
+                "lineSpacing" : "0px",
+                "color" : "#999999",
+                "rotation" : 0
+            },
+            "textMetrics" : 
+            {
+                "top" : 0,
+                "left" : 0,
+                "width" : 679.90,
+                "height" : 231.35
+            },
+            "text" : "Are you sure you want to<br/>clear all your decorations?"
+        }
+    ]
+}

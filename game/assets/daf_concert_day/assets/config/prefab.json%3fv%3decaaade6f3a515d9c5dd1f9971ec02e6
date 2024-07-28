@@ -1,0 +1,520 @@
+{
+    "world": {
+        "x": 0,
+        "y": 11,
+        "width": 12600,
+        "height": 375,
+        "gridWidth": 150,
+        "gridHeight": 148,
+        "cameraOffsetX": -430,
+        "cameraOffsetY": 0
+    },
+    "collision": [
+        {
+            "key": "region",
+            "colliders": [
+                "player"
+            ]
+        },
+        {
+            "key": "gameCollectibles",
+            "colliders": [
+                "player"
+            ]
+        }
+    ],
+    "prefabs": [
+        {
+            "key": "Level1BG",
+            "edit": false,
+            "object": {
+                "tile": true,
+                "spriteID": "mc_BG_level1",
+                "spriteBounds": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "key": "Level1FarBG",
+            "edit": false,
+            "object": {
+                "tile": true,
+                "spriteID": "mc_farBackground_level1",
+                "spriteBounds": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "key": "Dora1",
+            "edit": false,
+            "object": {
+                "collision": "player",
+                "spriteID": "mc_dora_level1",
+                "spriteBounds": {
+                    "x": 80,
+                    "y": 159
+                },
+                "hitBounds": {
+                    "x": 10,
+                    "y": 95,
+                    "width": 200,
+                    "height": 63
+                }
+            }
+        },
+        {
+            "key": "Level2BG",
+            "edit": false,
+            "object": {
+                "tile": true,
+                "spriteID": "mc_skyBG",
+                "spriteBounds": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "key": "Mountains",
+            "edit": false,
+            "object": {
+                "tile": true,
+                "spriteID": "mc_hills_level2",
+                "spriteBounds": {
+                    "x": 0,
+                    "y": 498
+                }
+            }
+        },
+        {
+            "key": "Dora2",
+            "edit": false,
+            "object": {
+                "collision": "player",
+                "spriteID": "mc_birdflying",
+                "spriteBounds": {
+                    "x": 80,
+                    "y": 159
+                },
+                "hitBounds": {
+                    "x":145,
+                    "y": 111,
+                    "width": 105,
+                    "height": 50
+                }
+            }
+        },
+        {
+            "key": "Level3BG",
+            "tile": true,
+            "object": {
+                "tile": true,
+                "spriteID": "mc_bg_level3",
+                "spriteBounds": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "key": "Dora3",
+            "edit": false,
+            "object": {
+                "collision": "player",
+                "spriteID": "mc_dora_rowboat",
+                "spriteBounds": {
+                    "x": 80,
+                    "y": 159
+                },
+                "hitBounds": {
+                    "x": 10,
+                    "y": 95,
+                    "width": 200,
+                    "height": 63
+                }
+            }
+        },
+        {
+            "key": "SpeedIcon",
+            "edit": true,
+            "includeInLevels": [
+                1
+            ],
+            "object": {
+                "collision": "region",
+                "spriteID": "mc_speed_icon",
+                "spriteBounds": {
+                    "x": 0,
+                    "y": 0
+                },
+                "hitBounds": {
+                    "x": -8,
+                    "y": 129,
+                    "width": 143,
+                    "height": 40
+                }
+            }
+        },
+        {
+            "key": "SheetMusic",
+            "edit": true,
+            "includeInLevels": [
+                1
+            ],
+            "object": {
+                "collision": "gameCollectibles",
+                "spriteID": "mc_sheetmusic_lane1",
+                "spriteBounds": {
+                    "x": 0,
+                    "y": 11
+                },
+                "hitBounds": {
+                    "x": 19,
+                    "y": 135,
+                    "width": 61,
+                    "height": 23
+                }
+            }
+        },
+        {
+            "key": "Speed Icon 2",
+            "edit": true,
+            "includeInLevels": [
+                2
+            ],
+            "object": {
+                "collision": "region",
+                "spriteID": "mc_speed_icon2",
+                "spriteBounds": {
+                    "x": 0,
+                    "y": 0
+                },
+                "hitBounds": {
+                    "x": -23,
+                    "y": 131,
+                    "width": 230,
+                    "height": 70
+                }
+            }
+        },
+        {
+            "key": "SandPatch",
+            "edit": true,
+            "includeInLevels": [
+                1
+            ],
+            "object": {
+                "collision": "gameCollectibles",
+                "spriteID": "mc_obstacle1_level1",
+                "spriteBounds": {
+                    "x": 0,
+                    "y": 0
+                },
+                "hitBounds": {
+                    "x": 65,
+                    "y": 135,
+                    "width": 75,
+                    "height": 30
+                }
+            }
+        },
+        {
+            "key": "WaterPuddle",
+            "edit": true,
+            "includeInLevels": [
+                1
+            ],
+            "object": {
+                "collision": "gameCollectibles",
+                "spriteID": "mc_obstacle2_level1",
+                "spriteBounds": {
+                    "x": 0,
+                    "y": 0
+                },
+                "hitBounds": {
+                    "x": 16,
+                    "y": 134,
+                    "width": 198,
+                    "height": 35
+                }
+            }
+        },
+        {
+            "key": "RainCloud1",
+            "edit": true,
+            "includeInLevels": [
+                2
+            ],
+            "object": {
+                "collision": "gameCollectibles",
+                "spriteID": "mc_obstacle1_level2",
+                "spriteBounds": {
+                    "x": 0,
+                    "y": 0
+                },
+                "hitBounds": {
+                    "x": 40,
+                    "y": 56,
+                    "width": 136,
+                    "height": 80
+                }
+            }
+        },
+        {
+            "key": "RainCloud2",
+            "edit": true,
+            "includeInLevels": [
+                2
+            ],
+            "object": {
+                "collision": "gameCollectibles",
+                "spriteID": "mc_obstacle3",
+                "spriteBounds": {
+                    "x": 0,
+                    "y": 0
+                },
+                "hitBounds": {
+                    "x": 40,
+                    "y": 56,
+                    "width": 136,
+                    "height": 80
+                }
+            }
+        },
+        {
+            "key": "RainCloud3",
+            "edit": true,
+            "includeInLevels": [
+                2
+            ],
+            "object": {
+                "collision": "gameCollectibles",
+                "spriteID": "mc_obstacle4",
+                "spriteBounds": {
+                    "x": 0,
+                    "y": 0
+                },
+                "hitBounds": {
+                    "x": 40,
+                    "y": 56,
+                    "width": 136,
+                    "height": 80
+                }
+            }
+        },
+        {
+            "key": "WindGust",
+            "edit": true,
+            "includeInLevels": [
+                2
+            ],
+            "object": {
+                "collision": "gameCollectibles",
+                "spriteID": "mc_obstacle2_level2",
+                "spriteBounds": {
+                    "x": 0,
+                    "y": 0
+                },
+                "hitBounds": {
+                    "x": 54,
+                    "y": 80,
+                    "width": 290,
+                    "height": 85
+                }
+            }
+        },
+        {
+            "key": "RedBalloon",
+            "edit": true,
+            "includeInLevels": [
+                2
+            ],
+            "object": {
+                "collision": "gameCollectibles",
+                "spriteID": "mc_balloon1",
+                "spriteBounds": {
+                    "x": 0,
+                    "y": 0
+                },
+                "hitBounds": {
+                    "x": 33,
+                    "y": 85,
+                    "width": 29,
+                    "height": 37
+                }
+            }
+        },
+        {
+            "key": "GreenBalloon",
+            "edit": true,
+            "includeInLevels": [
+                2
+            ],
+            "object": {
+                "collision": "gameCollectibles",
+                "spriteID": "mc_balloon2",
+                "spriteBounds": {
+                    "x": 0,
+                    "y": 0
+                },
+                "hitBounds": {
+                    "x": 33,
+                    "y": 85,
+                    "width": 29,
+                    "height": 37
+                }
+            }
+        },
+        {
+            "key": "YellowBalloon",
+            "edit": true,
+            "includeInLevels": [
+                2
+            ],
+            "object": {
+                "collision": "gameCollectibles",
+                "spriteID": "mc_balloon3",
+                "spriteBounds": {
+                    "x": 0,
+                    "y": 0
+                },
+                "hitBounds": {
+                    "x": 33,
+                    "y": 85,
+                    "width": 29,
+                    "height": 37
+                }
+            }
+        },
+        {
+            "key": "Rock",
+            "edit": true,
+            "includeInLevels": [
+                3
+            ],
+            "object": {
+                "collision": "region",
+                "spriteID": "mc_obstacle6",
+                "spriteBounds": {
+                    "x": 0,
+                    "y": 0
+                },
+                "hitBounds": {
+                    "x": -7,
+                    "y": 85,
+                    "width": 83,
+                    "height": 100
+                }
+            }
+        },
+        {
+            "key": "Whirlpool",
+            "edit": true,
+            "includeInLevels": [
+                3
+            ],
+            "object": {
+                "collision": "region",
+                "spriteID": "mc_obstacle5",
+                "spriteBounds": {
+                    "x": 0,
+                    "y": 0
+                },
+                "hitBounds": {
+                    "x": -13,
+                    "y": 130,
+                    "width": 268,
+                    "height": 63
+                }
+            }
+        },
+        {
+            "key": "Speed Icon 3",
+            "edit": true,
+            "includeInLevels": [
+                3
+            ],
+            "object": {
+                "collision": "region",
+                "spriteID": "mc_speed_icon3",
+                "spriteBounds": {
+                    "x": 0,
+                    "y": 0
+                },
+                "hitBounds": {
+                    "x": -23,
+                    "y": 131,
+                    "width": 230,
+                    "height": 70
+                }
+            }
+        },
+        {
+            "key": "Synth",
+            "edit": true,
+            "includeInLevels": [
+                3
+            ],
+            "object": {
+                "collision": "gameCollectibles",
+                "spriteID": "mc_instrument1",
+                "spriteBounds": {
+                    "x": 0,
+                    "y": 0
+                },
+                "hitBounds": {
+                    "x": 33,
+                    "y": 85,
+                    "width": 29,
+                    "height": 37
+                }
+            }
+        },
+        {
+            "key": "Guitar",
+            "edit": true,
+            "includeInLevels": [
+                3
+            ],
+            "object": {
+                "collision": "gameCollectibles",
+                "spriteID": "mc_instrument2",
+                "spriteBounds": {
+                    "x": 0,
+                    "y": 0
+                },
+                "hitBounds": {
+                    "x": 33,
+                    "y": 85,
+                    "width": 29,
+                    "height": 37
+                }
+            }
+        },
+        {
+            "key": "Drum",
+            "edit": true,
+            "includeInLevels": [
+                3
+            ],
+            "object": {
+                "collision": "gameCollectibles",
+                "spriteID": "mc_instrument3",
+                "spriteBounds": {
+                    "x": 0,
+                    "y": 0
+                },
+                "hitBounds": {
+                    "x": 33,
+                    "y": 85,
+                    "width": 29,
+                    "height": 37
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+<bluesRoomXML>
+	<application>
+		<appLink id="askBlue" pathUrl="/kids/flash_site/games/blue/blue_answers/blue_answers.swf" linkTarget="shell" xOffset="0" yOffset="0"/>
+		<appLink id="parents" pathUrl="http://www.nickjr.com" linkTarget="same" xOffset="0" yOffset="0"/>
+	</application>
+	<content>
+		<contentLink id="doodle" pathUrl="/game/assets/blue_bluesroom/doodle/BRDoodle_Loader.swf"/>
+		<contentLink id="bubble" pathUrl="/game/assets/blue_bluesroom/bubble/bubble.swf"/>
+		<contentLink id="dressup" pathUrl="/game/assets/blue_bluesroom/dressup/dressup.swf"/>
+	</content>
+</bluesRoomXML>

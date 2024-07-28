@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+========================
+	SAMPLE SECTION
+========================
+
+<title>
+	<gameName font="FONT1" size="68" color="0xff0000" align="left"><![CDATA[GAME NAME HERE]]></gameName>
+</title>
+
+The id for this would be title.gameName.  The text, font, font size, and alignment would all be set for us.
+
+Any tags omitted would use the default text field's values.
+-->
+
+<strings>
+
+	<!-- Used for placeholder. Make sure to remove the temp section. -->
+
+	<title>
+		<playButton font="huggable_50_white_dropshadow" fontScale="1"><![CDATA[PLAY]]></playButton>
+	</title>
+
+	<cutscene>
+		<skip font="huggable_50_white_dropshadow" fontScale="0.75"><![CDATA[SKIP]]></skip>
+	</cutscene>
+
+	<beach>
+		<coins font="nickjr_bold_numbers_50" fontScale="1"><![CDATA[coins]]></coins>
+	</beach>
+
+	<end>
+		<playAgain font="huggable_50_white_dropshadow" fontScale="0.6"><![CDATA[PLAY AGAIN]]></playAgain>
+		<print font="huggable_50_white_dropshadow" fontScale="0.75"><![CDATA[PRINT]]></print>
+	</end>
+
+</strings>

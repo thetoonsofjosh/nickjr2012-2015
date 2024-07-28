@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data initGroup="preload" rootPath="/game/assets/umiz_city/skatingGame/">
+	
+	<editable>false</editable>
+	
+	<preload>
+		<SWF source="swf/audio.swf" id="audioSWF" />
+	</preload>
+	
+	<preload2>
+		<Data id="levels" source="xml/levels.xml" />
+		<SoundPlayer id="audio" xmlURL="xml/audio.xml" />
+		
+		<ui>
+			<SWF source="swf/items_ui.swf" classRef="HintList" />
+			<SWF source="swf/items_ui.swf" classRef="StartGame" />
+			<SWF source="swf/items_ui.swf" classRef="EndGame" />
+			<SWF source="swf/items_ui.swf" classRef="StartLevel" />
+			<SWF source="swf/items_ui.swf" classRef="EndLevel" />
+			<SWF source="swf/items_ui.swf" classRef="LoadingLevel" />
+			<SWF source="swf/items_ui.swf" classRef="Menu" />
+			<SWF source="swf/items_ui.swf" classRef="MudSplatter" />
+			<SWF source="swf/items_ui.swf" classRef="SkipButtonMC" />
+			<SWF source="swf/items_ui.swf" classRef="SkipButtonTutorialMC" />
+			<SWF source="swf/items_ui.swf" classRef="Printable" />
+		</ui>
+		
+		<items>
+			<SWF source="swf/items_ui.swf" classRef="item_ramp_4" />
+			<SWF source="swf/items_ui.swf" classRef="item_ramp_3" />
+			<SWF source="swf/items_ui.swf" classRef="item_ramp_2" />
+			<SWF source="swf/items_ui.swf" classRef="item_ramp_1" />
+			<SWF source="swf/items_ui.swf" classRef="item_ramp_0" />
+			<SWF source="swf/items_ui.swf" classRef="item_puffball_rolling" />
+			<SWF source="swf/items_ui.swf" classRef="item_puffball" />
+			<SWF source="swf/items_ui.swf" classRef="item_puddle" />
+			<SWF source="swf/items_ui.swf" classRef="item_level_ygygyg" />
+			<SWF source="swf/items_ui.swf" classRef="item_level_wrong" />
+			<SWF source="swf/items_ui.swf" classRef="item_level_triangle" />
+			<SWF source="swf/items_ui.swf" classRef="item_level_square" />
+			<SWF source="swf/items_ui.swf" classRef="item_level_square" />
+			<SWF source="swf/items_ui.swf" classRef="item_level_semicircle" />
+			<SWF source="swf/items_ui.swf" classRef="item_level_rryrry" />
+			<SWF source="swf/items_ui.swf" classRef="item_level_right" />
+			<SWF source="swf/items_ui.swf" classRef="item_level_rectangle" />
+			<SWF source="swf/items_ui.swf" classRef="item_level_rbrbrb" />
+			<SWF source="swf/items_ui.swf" classRef="item_level_pyypyy" />
+			<SWF source="swf/items_ui.swf" classRef="item_level_PpPpPp" />
+			<SWF source="swf/items_ui.swf" classRef="item_level_PPoPPo" />
+			<SWF source="swf/items_ui.swf" classRef="item_level_pentagon" />
+			<SWF source="swf/items_ui.swf" classRef="item_level_oval" />
+			<SWF source="swf/items_ui.swf" classRef="item_level_oggogg" />
+			<SWF source="swf/items_ui.swf" classRef="item_level_octagon" />
+			<SWF source="swf/items_ui.swf" classRef="item_level_diamond" />
+			<SWF source="swf/items_ui.swf" classRef="item_level_circle" />
+			<SWF source="swf/items_ui.swf" classRef="item_level_bbgbbg" />
+			<SWF source="swf/items_ui.swf" classRef="item_level_bbybby" />
+			<SWF source="swf/items_ui.swf" classRef="item_level_P" />
+			<SWF source="swf/items_ui.swf" classRef="item_level_r" />
+			
+			<SWF source="swf/items_ui.swf" classRef="item_level_more" />
+			<SWF source="swf/items_ui.swf" classRef="item_level_less" />
+			
+			<SWF source="swf/items_ui.swf" classRef="item_bonus_star" />
+			<SWF source="swf/items_ui.swf" classRef="item_blank" />
+			<SWF source="swf/items_ui.swf" classRef="item_banana" />
+			<SWF source="swf/items_ui.swf" classRef="item_balloon" />
+			
+			<SWF source="swf/items_ui.swf" classRef="item_levelEnd_1" />
+			<SWF source="swf/items_ui.swf" classRef="item_levelEnd_2" />
+			<SWF source="swf/items_ui.swf" classRef="item_levelEnd_3" />
+			
+			<SWF source="swf/items_ui.swf" classRef="RampPointBurst" />
+			<SWF source="swf/items_ui.swf" classRef="GatePointBurst" />
+			
+		</items>
+		
+		
+	</preload2>
+	
+	<assets>
+		<level_1>
+			<SWF id="Background" source="swf/level_1_assets.swf" classRef="Background" />
+			<SWF id="PlayerMC" source="swf/level_1_assets.swf" classRef="PlayerMC" />
+			<SWF id="Intro" source="swf/level_1_assets.swf" classRef="Intro" />
+			<SWF id="Tutorial" source="swf/level_1_assets.swf" classRef="Tutorial" />
+			<SWF id="Outro" source="swf/level_1_assets.swf" classRef="Outro" />
+		</level_1>
+		
+		<level_2>
+			<SWF id="Background" source="swf/level_2_assets.swf" classRef="Background"/>
+			<SWF id="PlayerMC" source="swf/level_2_assets.swf" classRef="PlayerMC" />
+			<SWF id="Intro" source="swf/level_2_assets.swf" classRef="Intro" />
+			<SWF id="Tutorial" source="swf/level_2_assets.swf" classRef="Tutorial" />
+			<SWF id="Outro" source="swf/level_2_assets.swf" classRef="Outro" />
+		</level_2>
+		
+		<level_3>
+			<SWF id="Background" source="swf/level_3_assets.swf" classRef="Background"/>
+			<SWF id="PlayerMC" source="swf/level_3_assets.swf" classRef="PlayerMC" />
+			<SWF id="Intro" source="swf/level_3_assets.swf" classRef="Intro" />
+			<SWF id="Tutorial" source="swf/level_3_assets.swf" classRef="Tutorial" />
+			<SWF id="Outro" source="swf/level_3_assets.swf" classRef="Outro" />
+		</level_3>
+		
+	</assets>
+	
+</data>

@@ -1,0 +1,1462 @@
+{
+    "world": {
+        "x": 0,
+        "y": 0,
+        "width": 9600,
+        "height": 5600,
+        "gridWidth": 50,
+        "gridHeight": 50,
+        "cameraOffsetX": 0,
+        "cameraOffsetY": 0
+    },
+    "collisionRuleSets": [
+        {
+            "key": "player",
+            "colliders": [
+                "platform",
+                "collectible",
+                "movingPlatform"
+            ]
+        },
+        {
+            "key": "triggerRegion",
+            "colliders": [
+                "player"
+            ]
+        },
+        {
+            "key": "collectible",
+            "colliders": [
+                "player"
+            ]
+        },
+        {
+            "key": "platform",
+            "colliders": [
+                "player"
+            ]
+        },
+        {
+            "key": "movingPlatform",
+            "colliders": [
+                "player"
+            ]
+        },
+        {
+            "key": "obstacle",
+            "colliders": [
+                "player"
+            ]
+        },
+		{
+            "key": "wall",
+            "colliders": [
+                "player"
+            ]
+        },
+        {
+            "key": "bat",
+            "colliders": [
+                "player"
+            ]
+        },
+        {
+            "key": "dice",
+            "colliders": [
+                "player"
+            ]
+        },
+		{
+            "key": "rabbitHole",
+            "colliders": [
+                "player"
+            ]
+        },
+		{
+            "key": "puddle",
+            "colliders": [
+                "player"
+            ]
+        },
+        {
+            "key": "ramp",
+            "colliders": [
+                "player"
+            ]
+        },
+        {
+            "key": "soccerball",
+            "colliders": [
+                "player"
+            ]
+        },
+		{
+            "key": "bound",
+            "colliders": [
+                "player"
+            ]
+        }
+    ],
+    "prefabObjects": [
+        {
+            "key": "minigameregion",
+            "edit": true,
+            "object": {
+                "location": {
+                    "x": 0,
+                    "y": 0
+                },
+                "collision": {
+                    "id": "triggerRegion",
+                    "type": "region",
+                    "body": {
+                        "type": "static",
+                        "allowMovement": false,
+                        "allowRotation": false,
+                        "geometry": {
+                            "x": -25,
+                            "y": -25,
+                            "width": 400,
+                            "height": 400
+                        }
+                    }
+                },
+                "params": [
+                    {
+                        "id": "regionType",
+                        "value": "minigame"
+                    }
+                ]
+            }
+        },
+        {
+            "key": "endOfLevelRegion",
+            "edit": true,
+            "object": {
+                "location": {
+                    "x": 0,
+                    "y": 0
+                },
+                "collision": {
+                    "id": "triggerRegion",
+                    "type": "region",
+                    "body": {
+                        "type": "static",
+                        "allowMovement": false,
+                        "allowRotation": false,
+                        "geometry": {
+                            "x": -25,
+                            "y": -25,
+                            "width": 400,
+                            "height": 400
+                        }
+                    }
+                },
+                "params": [
+                    {
+                        "id": "regionType",
+                        "value": "endOfLevel"
+                    }
+                ]
+            }
+        },
+        {
+            "key": "horizontalBoundary",
+            "edit": true,
+            "object": {
+                "location": {
+                    "x": 0,
+                    "y": 0
+                },
+                "collision": {
+                    "id": "bound",
+                    "type": "box",
+                    "body": {
+                        "type": "dynamic",
+                        "allowMovement": false,
+                        "allowRotation": false,
+                        "geometry": {
+                            "x": -25,
+                            "y": -55,
+                            "width": 20000,
+                            "height": 75
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "key": "verticalBoundary",
+            "edit": true,
+            "object": {
+                "location": {
+                    "x": 0,
+                    "y": 0
+                },
+                "collision": {
+                    "id": "bound",
+                    "type": "box",
+                    "body": {
+                        "type": "dynamic",
+                        "allowMovement": false,
+                        "allowRotation": false,
+                        "geometry": {
+                            "x": -25,
+                            "y": -25,
+                            "width": 50,
+                            "height": 10000
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "key": "Level1BG",
+            "edit": true,
+            "includeInLevels": [
+                0,
+                1
+            ],
+            "object": {
+                "spriteClass": "mc_BG_level1",
+                "location": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "key": "Level1EndWall",
+            "edit": true,
+            "includeInLevels": [
+                0,
+                1
+            ],
+            "object": {
+                "spriteClass": "mc_level1_End",
+                "location": {
+                    "x": 0,
+                    "y": 0
+                },
+                "collision": {
+                    "id": "obstacle",
+                    "type": "box",
+                    "body": {
+                        "type": "dynamic",
+                        "allowMovement": false,
+                        "allowRotation": false,
+                        "geometry": {
+                            "x": -25,
+                            "y": -557,
+                            "width": 205,
+                            "height": 602
+                        }
+                    }
+                },
+				 "params": [
+                    {
+                        "id": "obstacleType",
+                        "value": "wall"
+                    }
+                ]
+            }
+        },
+        {
+            "key": "Dora",
+            "edit": true,
+            "includeInLevels": [
+                0,
+                1
+            ],
+            "object": {
+                "spriteClass": "mc_scooter_level1",
+                "location": {
+                    "x": 0,
+                    "y": 0
+                },
+                "collision": {
+                    "id": "player",
+                    "type": "box",
+                    "body": {
+                        "type": "dynamic",
+                        "allowMovement": true,
+                        "allowRotation": false,
+                        "geometry": {
+                            "x": -94,
+                            "y": -125,
+                            "width": 90,
+                            "height": 125
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "key": "Platform 1",
+            "edit": true,
+            "includeInLevels": [
+                0,
+                1
+            ],
+            "object": {
+                "spriteClass": "mc_level1_platform1",
+                "location": {
+                    "x": 0,
+                    "y": 0
+                },
+                "collision": {
+                    "id": "platform",
+                    "type": "box",
+                    "body": {
+                        "type": "dynamic",
+                        "allowMovement": false,
+                        "allowRotation": false,
+                        "geometry": {
+                            "x": 0,
+                            "y": 0,
+                            "width": 275,
+                            "height": 10
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "key": "Platform 2",
+            "edit": true,
+            "includeInLevels": [
+                0,
+                1
+            ],
+            "object": {
+                "spriteClass": "mc_level1_platform2",
+                "location": {
+                    "x": 0,
+                    "y": 0
+                },
+                "collision": {
+                    "id": "platform",
+                    "type": "box",
+                    "body": {
+                        "type": "dynamic",
+                        "allowMovement": false,
+                        "allowRotation": false,
+                        "geometry": {
+                            "x": 0,
+                            "y": 0,
+                            "width": 275,
+                            "height": 10
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "key": "MovingPlatform",
+            "edit": true,
+            "includeInLevels": [
+                0,
+                1
+            ],
+            "object": {
+                "spriteClass": "mc_level1_elevator",
+                "location": {
+                    "x": 0,
+                    "y": 0
+                },
+                "collision": {
+                    "id": "movingPlatform",
+                    "type": "box",
+                    "body": {
+                        "type": "kinematic",
+                        "allowMovement": true,
+                        "allowRotation": false,
+                        "geometry": {
+                            "x": -10,
+                            "y": 0,
+                            "width": 160,
+                            "height": 10
+                        }
+                    }
+                },
+                "params": [
+                    {
+                        "id": "moveXMin",
+                        "value": 100
+                    },
+                    {
+                        "id": "moveXMax",
+                        "value": 100
+                    },
+                    {
+                        "id": "moveYMin",
+                        "value": 100
+                    },
+                    {
+                        "id": "moveYMax",
+                        "value": 100
+                    },
+                    {
+                        "id": "xDuration",
+                        "value": 4
+                    },
+                    {
+                        "id": "yDuration",
+                        "value": 2
+                    }
+                ]
+            }
+        },
+        {
+            "key": "Wall",
+            "edit": true,
+            "includeInLevels": [
+                0,
+                1
+            ],
+            "object": {
+                "spriteClass": "mc_level1_wall",
+                "location": {
+                    "x": 0,
+                    "y": 0
+                },
+                "collision": {
+                    "id": "obstacle",
+                    "type": "box",
+                    "body": {
+                        "type": "dynamic",
+                        "allowMovement": false,
+                        "allowRotation": false,
+                        "geometry": {
+                            "x": -25,
+                            "y": -1500,
+                            "width": 362,
+                            "height": 1500
+                        }
+                    }
+                },
+				"params": [
+                    {
+                        "id": "obstacleType",
+                        "value": "wall"
+                    }
+                ]
+            }
+        },
+        {
+            "key": "Rockpile",
+            "edit": true,
+            "includeInLevels": [
+                0,
+                1
+            ],
+            "object": {
+                "spriteClass": "mc_level1_rockpile_obstacle",
+                "location": {
+                    "x": 0,
+                    "y": 0
+                },
+                "collision": {
+                    "id": "obstacle",
+                    "type": "region",
+                    "body": {
+                        "type": "dynamic",
+                        "allowMovement": false,
+                        "allowRotation": false,
+                        "geometry": {
+                            "x": -25,
+                            "y": -78,
+                            "width": 169,
+                            "height": 93
+                        }
+                    }
+                },
+                "params": [
+                    {
+                        "id": "obstacleType",
+                        "value": "rock"
+                    }
+                ]
+            }
+        },
+        {
+            "key": "Gem",
+            "edit": true,
+            "includeInLevels": [
+                0,
+                1
+            ],
+            "object": {
+                "spriteClass": "mc_level1_gem",
+                "location": {
+                    "x": 0,
+                    "y": 0
+                },
+                "collision": {
+                    "id": "collectible",
+                    "type": "region",
+                    "body": {
+                        "type": "dynamic",
+                        "allowMovement": false,
+                        "allowRotation": false,
+                        "geometry": {
+                            "x": -40,
+                            "y": -45,
+                            "width": 80,
+                            "height": 90
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "key": "Statue",
+            "edit": true,
+            "includeInLevels": [
+                0,
+                1
+            ],
+            "object": {
+                "spriteClass": "mc_level1_statue_obstacle",
+                "location": {
+                    "x": 0,
+                    "y": 0
+                },
+                "collision": {
+                    "id": "obstacle",
+                    "type": "region",
+                    "body": {
+                        "type": "dynamic",
+                        "allowMovement": false,
+                        "allowRotation": false,
+                        "geometry": {
+                            "x": -31,
+                            "y": -109,
+                            "width": 78,
+                            "height": 120
+                        }
+                    }
+                },
+                "params": [
+                    {
+                        "id": "obstacleType",
+                        "value": "statue"
+                    }
+                ]
+            }
+        },
+        {
+            "key": "Spider",
+            "edit": true,
+            "includeInLevels": [
+                0,
+                1
+            ],
+            "object": {
+                "spriteClass": "mc_level1_spider_obstacle",
+                "location": {
+                    "x": 0,
+                    "y": 0
+                },
+                "collision": {
+                    "id": "obstacle",
+                    "type": "region",
+                    "body": {
+                        "type": "dynamic",
+                        "allowMovement": false,
+                        "allowRotation": false,
+                        "geometry": {
+                            "x": -30,
+                            "y": 50,
+                            "width": 60,
+                            "height": 150
+                        }
+                    }
+                },
+                "params": [
+                    {
+                        "id": "obstacleType",
+                        "value": "spider"
+                    }
+                ]
+            }
+        },
+        {
+            "key": "Ramp",
+            "edit": true,
+            "includeInLevels": [
+                0,
+                1
+            ],
+            "object": {
+                "spriteClass": "mc_level1_platform3",
+                "location": {
+                    "x": 0,
+                    "y": 0
+                },
+                "collision": {
+                    "id": "ramp",
+                    "type": "external",
+                    "body": {
+                        "id": "ramp",
+                        "assetPack": "config",
+                        "assetID": "ramp.json",
+                        "allowMovement": false,
+                        "allowRotation": false
+                    }
+                },
+                "params": [
+                    {
+                        "id": "obstacleType",
+                        "value": "obstacle"
+                    }
+                ]
+            }
+        },
+        {
+            "key": "Soccer Ball",
+            "edit": true,
+            "includeInLevels": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "object": {
+                "spriteClass": "mc_soccerBall",
+                "location": {
+                    "x": 0,
+                    "y": 0
+                },
+                "collision": {
+                    "id": "soccerball",
+                    "type": "region",
+                    "body": {
+                        "type": "static",
+                        "allowMovement": false,
+                        "allowRotation": false,
+                        "geometry": {
+                            "x": -40,
+                            "y": -40,
+                            "width": 80,
+                            "height": 80
+                        }
+                    }
+                },
+                "params": [
+                    {
+                        "id": "regionType",
+                        "value": "endOfLevel"
+                    }
+                ]
+            }
+        },
+        {
+            "key": "L2 Dora",
+            "edit": true,
+            "includeInLevels": [
+                0,
+                2
+            ],
+            "object": {
+                "spriteClass": "mc_scooter_level2",
+                "location": {
+                    "x": 0,
+                    "y": 0
+                },
+                "collision": {
+                    "id": "player",
+                    "type": "box",
+                    "body": {
+                        "type": "dynamic",
+                        "allowMovement": true,
+                        "allowRotation": false,
+                        "geometry": {
+                            "x": -94,
+                            "y": -125,
+                            "width": 90,
+                            "height": 125
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "key": "Level2BG",
+            "edit": true,
+            "includeInLevels": [
+                0,
+                2
+            ],
+            "object": {
+                "spriteClass": "mc_BG_level2",
+                "location": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "key": "Leve21EndWall",
+            "edit": true,
+            "includeInLevels": [
+                0,
+                2
+            ],
+            "object": {
+                "spriteClass": "mc_level2_End",
+                "location": {
+                    "x": 0,
+                    "y": 0
+                },
+                "collision": {
+                    "id": "obstacle",
+                    "type": "box",
+                    "body": {
+                        "type": "dynamic",
+                        "allowMovement": false,
+                        "allowRotation": false,
+                        "geometry": {
+                            "x": 177,
+                            "y": 0,
+                            "width": 150,
+                            "height": 604
+                        }
+                    }
+                },
+				"params": [
+                    {
+                        "id": "obstacleType",
+                        "value": "wall"
+                    }
+                ]
+            }
+        },
+        {
+            "key": "L2 Platform 1",
+            "edit": true,
+            "includeInLevels": [
+                0,
+                2
+            ],
+            "object": {
+                "spriteClass": "mc_level2_platform1",
+                "location": {
+                    "x": 0,
+                    "y": 0
+                },
+                "collision": {
+                    "id": "platform",
+                    "type": "box",
+                    "body": {
+                        "type": "dynamic",
+                        "allowMovement": false,
+                        "allowRotation": false,
+                        "geometry": {
+                            "x": 0,
+                            "y": 0,
+                            "width": 275,
+                            "height": 10
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "key": "L2 Platform 2",
+            "edit": true,
+            "includeInLevels": [
+                0,
+                2
+            ],
+            "object": {
+                "spriteClass": "mc_level2_platform2",
+                "location": {
+                    "x": 0,
+                    "y": 0
+                },
+                "collision": {
+                    "id": "platform",
+                    "type": "box",
+                    "body": {
+                        "type": "dynamic",
+                        "allowMovement": false,
+                        "allowRotation": false,
+                        "geometry": {
+                            "x": 0,
+                            "y": 0,
+                            "width": 275,
+                            "height": 10
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "key": "L2 MovingPlatform",
+            "edit": true,
+            "includeInLevels": [
+                0,
+                2
+            ],
+            "object": {
+                "spriteClass": "mc_level2_elevator",
+                "location": {
+                    "x": 0,
+                    "y": 0
+                },
+                "collision": {
+                    "id": "movingPlatform",
+                    "type": "box",
+                    "body": {
+                        "type": "kinematic",
+                        "allowMovement": true,
+                        "allowRotation": false,
+                        "geometry": {
+                            "x": -10,
+                            "y": 0,
+                            "width": 160,
+                            "height": 10
+                        }
+                    }
+                },
+                "params": [
+                    {
+                        "id": "moveXMin",
+                        "value": 100
+                    },
+                    {
+                        "id": "moveXMax",
+                        "value": 100
+                    },
+                    {
+                        "id": "moveYMin",
+                        "value": 100
+                    },
+                    {
+                        "id": "moveYMax",
+                        "value": 100
+                    },
+                    {
+                        "id": "xDuration",
+                        "value": 4
+                    },
+                    {
+                        "id": "yDuration",
+                        "value": 2
+                    }
+                ]
+            }
+        },
+        {
+            "key": "L2 Wall",
+            "edit": true,
+            "includeInLevels": [
+                0,
+                2
+            ],
+            "object": {
+                "spriteClass": "mc_level2_wall",
+                "location": {
+                    "x": 0,
+                    "y": 0
+                },
+                "collision": {
+                    "id": "obstacle",
+                    "type": "box",
+                    "body": {
+                        "type": "dynamic",
+                        "allowMovement": false,
+                        "allowRotation": false,
+                        "geometry": {
+                            "x": 0,
+                            "y": -500,
+                            "width": 1050,
+                            "height": 550
+                        }
+                    }
+                },
+				  "params": [
+                    {
+                        "id": "obstacleType",
+                        "value": "wall"
+                    }
+                ]
+            }
+        },
+        {
+            "key": "Stalagmite",
+            "edit": true,
+            "includeInLevels": [
+                0,
+                2
+            ],
+            "object": {
+                "spriteClass": "mc_level2_rock_obstacle",
+                "location": {
+                    "x": 0,
+                    "y": 0
+                },
+                "collision": {
+                    "id": "obstacle",
+                    "type": "region",
+                    "body": {
+                        "type": "dynamic",
+                        "allowMovement": false,
+                        "allowRotation": false,
+                        "geometry": {
+                            "x": 0,
+                            "y": -68,
+                            "width": 140,
+                            "height": 93
+                        }
+                    }
+                },
+                "params": [
+                    {
+                        "id": "obstacleType",
+                        "value": "stalagmite"
+                    }
+                ]
+            }
+        },
+        {
+            "key": "Puppet1",
+            "edit": true,
+            "includeInLevels": [
+                0,
+                2
+            ],
+            "object": {
+                "spriteClass": "mc_level2_puppet1",
+                "location": {
+                    "x": 0,
+                    "y": 0
+                },
+                "collision": {
+                    "id": "collectible",
+                    "type": "region",
+                    "body": {
+                        "type": "dynamic",
+                        "allowMovement": false,
+                        "allowRotation": false,
+                        "geometry": {
+                            "x": -22,
+                            "y": -52,
+                            "width": 45,
+                            "height": 60
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "key": "Puppet2",
+            "edit": true,
+            "includeInLevels": [
+                0,
+                2
+            ],
+            "object": {
+                "spriteClass": "mc_level2_puppet2",
+                "location": {
+                    "x": 0,
+                    "y": 0
+                },
+                "collision": {
+                    "id": "collectible",
+                    "type": "region",
+                    "body": {
+                        "type": "dynamic",
+                        "allowMovement": false,
+                        "allowRotation": false,
+                        "geometry": {
+                            "x": -20,
+                            "y": -43,
+                            "width": 42,
+                            "height": 54
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "key": "Bat",
+            "edit": true,
+            "includeInLevels": [
+                0,
+                2
+            ],
+            "object": {
+                "spriteClass": "mc_level2_bat_obstacle",
+                "location": {
+                    "x": 0,
+                    "y": 0
+                },
+                "collision": {
+                    "id": "bat",
+                    "type": "region",
+                    "body": {
+                        "type": "dynamic",
+                        "allowMovement": false,
+                        "allowRotation": false,
+                        "geometry": {
+                            "x": -76,
+                            "y": -12,
+                            "width": 141,
+                            "height": 30
+                        }
+                    }
+                },
+                "params": [
+                    {
+                        "id": "obstacleType",
+                        "value": "bat"
+                    }
+                ]
+            }
+        },
+        {
+            "key": "Puddle",
+            "edit": true,
+            "includeInLevels": [
+                0,
+                2
+            ],
+            "object": {
+                "spriteClass": "mc_level2_puddle_obstacle",
+                "location": {
+                    "x": 0,
+                    "y": 0
+                },
+                "collision": {
+                    "id": "puddle",
+                    "type": "region",
+                    "body": {
+                        "type": "dynamic",
+                        "allowMovement": false,
+                        "allowRotation": false,
+                        "geometry": {
+                            "x": -16,
+                            "y": -12,
+                            "width": 154,
+                            "height": 22
+                        }
+                    }
+                },
+                "params": [
+                    {
+                        "id": "obstacleType",
+                        "value": "puddle"
+                    }
+                ]
+            }
+        },
+        {
+            "key": "L3 Dora",
+            "edit": true,
+            "includeInLevels": [
+                0,
+                3
+            ],
+            "object": {
+                "spriteClass": "mc_scooter_level3",
+                "location": {
+                    "x": 0,
+                    "y": 0
+                },
+                "collision": {
+                    "id": "player",
+                    "type": "box",
+                    "body": {
+                        "type": "dynamic",
+                        "allowMovement": true,
+                        "allowRotation": false,
+                        "geometry": {
+                           "x": -94,
+                            "y": -125,
+                            "width": 90,
+                            "height": 125
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "key": "Level3BG",
+            "edit": true,
+            "includeInLevels": [
+                0,3
+            ],
+            "object": {
+                "spriteClass": "mc_BG_level3",
+                "location": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "key": "Level3EndWall",
+            "edit": true,
+            "includeInLevels": [
+                0,
+                3
+            ],
+            "object": {
+                "spriteClass": "mc_level3_End",
+                "location": {
+                    "x": 0,
+                    "y": 0
+                },
+                "collision": {
+                    "id": "obstacle",
+                    "type": "box",
+                    "body": {
+                        "type": "dynamic",
+                        "allowMovement": false,
+                        "allowRotation": false,
+                        "geometry": {
+                            "x": 0,
+                            "y": 0,
+                            "width": 205,
+                            "height": 602
+                        }
+                    }
+                },
+				"params": [
+                    {
+                        "id": "obstacleType",
+                        "value": "wall"
+                    }
+                ]
+            }
+        },
+        {
+            "key": "L3 Platform 1",
+            "edit": true,
+            "includeInLevels": [
+                0,
+                3
+            ],
+            "object": {
+                "spriteClass": "mc_level3_platform1",
+                "location": {
+                    "x": 0,
+                    "y": 0
+                },
+                "collision": {
+                    "id": "platform",
+                    "type": "box",
+                    "body": {
+                        "type": "dynamic",
+                        "allowMovement": false,
+                        "allowRotation": false,
+                        "geometry": {
+                            "x": 0,
+                            "y": 0,
+                            "width": 275,
+                            "height": 10
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "key": "L3 Platform 2",
+            "edit": true,
+            "includeInLevels": [
+                0,
+                3
+            ],
+            "object": {
+                "spriteClass": "mc_level3_platform2",
+                "location": {
+                    "x": 0,
+                    "y": 0
+                },
+                "collision": {
+                    "id": "platform",
+                    "type": "box",
+                    "body": {
+                        "type": "dynamic",
+                        "allowMovement": false,
+                        "allowRotation": false,
+                        "geometry": {
+                            "x": 0,
+                            "y": 0,
+                            "width": 275,
+                            "height": 10
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "key": "L3 MovingPlatform",
+            "edit": true,
+            "includeInLevels": [
+                0,
+                3
+            ],
+            "object": {
+                "spriteClass": "mc_level3_elevator",
+                "location": {
+                    "x": 0,
+                    "y": 0
+                },
+                "collision": {
+                    "id": "movingPlatform",
+                    "type": "box",
+                    "body": {
+                        "type": "kinematic",
+                        "allowMovement": true,
+                        "allowRotation": false,
+                        "geometry": {
+                            "x": -10,
+                            "y": 0,
+                            "width": 160,
+                            "height": 10
+                        }
+                    }
+                },
+                "params": [
+                    {
+                        "id": "moveXMin",
+                        "value": 100
+                    },
+                    {
+                        "id": "moveXMax",
+                        "value": 100
+                    },
+                    {
+                        "id": "moveYMin",
+                        "value": 100
+                    },
+                    {
+                        "id": "moveYMax",
+                        "value": 100
+                    },
+                    {
+                        "id": "xDuration",
+                        "value": 4
+                    },
+                    {
+                        "id": "yDuration",
+                        "value": 2
+                    }
+                ]
+            }
+        },
+        {
+            "key": "Cliff",
+            "edit": true,
+            "includeInLevels": [
+                0,
+                3
+            ],
+            "object": {
+                "spriteClass": "mc_cliff_gap",
+                "location": {
+                    "x": 0,
+                    "y": 0
+                },
+                "collision": {
+                    "id": "obstacle",
+                    "type": "box",
+                    "body": {
+                        "type": "dynamic",
+                        "allowMovement": false,
+                        "allowRotation": false,
+                        "geometry": {
+                            "x": 0,
+                            "y": -1000,
+                            "width": 1666,
+                            "height": 1154
+                        }
+                    }
+                },
+				"params": [
+                    {
+                        "id": "obstacleType",
+                        "value": "wall"
+                    }
+                ]
+            }
+        },
+        {
+            "key": "Shrub",
+            "edit": true,
+            "includeInLevels": [
+                0,
+                3
+            ],
+            "object": {
+                "spriteClass": "mc_level3_shrub_obstacle",
+                "location": {
+                    "x": 0,
+                    "y": 0
+                },
+                "collision": {
+                    "id": "obstacle",
+                    "type": "region",
+                    "body": {
+                        "type": "dynamic",
+                        "allowMovement": false,
+                        "allowRotation": false,
+                        "geometry": {
+                            "x": -24,
+                            "y": -60,
+                            "width": 102,
+                            "height": 83
+                        }
+                    }
+                },
+                "params": [
+                    {
+                        "id": "obstacleType",
+                        "value": "shrub"
+                    }
+                ]
+            }
+        },
+        {
+            "key": "Shrub2",
+            "edit": true,
+            "includeInLevels": [
+                0,
+                3
+            ],
+            "object": {
+                "spriteClass": "mc_level3_shrub_obstacle2",
+                "location": {
+                    "x": 0,
+                    "y": 0
+                },
+                "collision": {
+                    "id": "obstacle",
+                    "type": "region",
+                    "body": {
+                        "type": "dynamic",
+                        "allowMovement": false,
+                        "allowRotation": false,
+                        "geometry": {
+                            "x": -25,
+                            "y": -83,
+                            "width": 95,
+                            "height": 99
+                        }
+                    }
+                },
+                "params": [
+                    {
+                        "id": "obstacleType",
+                        "value": "shrub"
+                    }
+                ]
+            }
+        },
+        {
+            "key": "RabbitHole",
+            "edit": true,
+            "includeInLevels": [
+                0,
+                3
+            ],
+            "object": {
+                "spriteClass": "mc_level3_rabbit_obstacle",
+                "location": {
+                    "x": 0,
+                    "y": 0
+                },
+                "collision": {
+                    "id": "rabbitHole",
+                    "type": "region",
+                    "body": {
+                        "type": "dynamic",
+                        "allowMovement": false,
+                        "allowRotation": false,
+                        "geometry": {
+                            "x": -54,
+                            "y": -20,
+                            "width": 109,
+                            "height": 20
+                        }
+                    }
+                },
+                "params": [
+                    {
+                        "id": "obstacleType",
+                        "value": "rabbitHole"
+                    }
+                ]
+            }
+        },
+        {
+            "key": "Card",
+            "edit": true,
+            "includeInLevels": [
+                0,
+                3
+            ],
+            "object": {
+                "spriteClass": "mc_level3_card",
+                "location": {
+                    "x": 0,
+                    "y": 0
+                },
+                "collision": {
+                    "id": "collectible",
+                    "type": "region",
+                    "body": {
+                        "type": "dynamic",
+                        "allowMovement": false,
+                        "allowRotation": false,
+                        "geometry": {
+                            "x": -22,
+                            "y": -100,
+                            "width": 41,
+                            "height": 70
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "key": "Dice",
+            "edit": true,
+            "includeInLevels": [
+                0,
+                3
+            ],
+            "object": {
+                "spriteClass": "mc_level3_dice_obstacle",
+                "location": {
+                    "x": 0,
+                    "y": 0
+                },
+                "collision": {
+                    "id": "dice",
+                    "type": "region",
+                    "body": {
+                        "type": "dynamic",
+                        "allowMovement": false,
+                        "allowRotation": false,
+                        "geometry": {
+                            "x": -25,
+                            "y": -33,
+                            "width": 53,
+                            "height": 45
+                        }
+                    }
+                },
+                "params": [
+                    {
+                        "id": "obstacleType",
+                        "value": "dice"
+                    }
+                ]
+            }
+        }
+    ]
+}

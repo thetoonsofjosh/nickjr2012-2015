@@ -1,0 +1,485 @@
+<level id="1" width="18500" height="3200" startX="275" startY="850">
+  <scene name="Skybox" parallax="true">
+    <gameObject id="Decal" props="x:n0,y:n0,width:n100,height:n100,color:u0xff">
+      <artAsset classname="cave_bg" insertType="insert" x="0" y="0"/>
+    </gameObject>
+  </scene>
+  <scene name="background" parallax="true">
+    <gameObject id="Decal" props="x:n0,y:n100,width:n3000,height:n480,color:u0xff">
+      <artAsset classname="L1_midground" insertType="insert" x="0" y="0"/>
+      <artAsset classname="L1_midground" insertType="insert" x="740" y="0"/>
+      <artAsset classname="L1_midground" insertType="insert" x="1480" y="0"/>
+    </gameObject>
+  </scene>
+  <scene name="GodRaysBG" parallax="true">
+    <gameObject id="Decal" props="x:n250,y:n300,width:n23000,height:n3000,color:u0xff">
+      <artAsset classname="light_shaft_mc" insertType="insert" x="1800" y="0"/>
+      <artAsset classname="light_shaft_mc" insertType="insert" x="2800" y="0"/>
+      <artAsset classname="light_shaft_mc" insertType="insert" x="600" y="0"/>
+    </gameObject>
+  </scene>
+  <scene name="Ground Level" parallax="false">
+    <gameObject id="Platform" props="x:n-300,y:n1050,width:n400,height:n150,color:u0xff00">
+      <artAsset classname="cave_ground" insertType="insert" x="0" y="-25"/>
+    </gameObject>
+    <gameObject id="Platform" props="x:n100,y:n1050,width:n400,height:n150,color:u0xff00">
+      <artAsset classname="cave_ground" insertType="insert" x="0" y="-50"/>
+    </gameObject>
+    <gameObject id="Platform" props="x:n500,y:n1050,width:n400,height:n150,color:u0xff00">
+      <artAsset classname="cave_ground" insertType="insert" x="0" y="-50"/>
+    </gameObject>
+    <gameObject id="Platform" props="x:n900,y:n1050,width:n400,height:n150,color:u0xff00">
+      <artAsset classname="cave_ground" insertType="insert" x="0" y="-50"/>
+    </gameObject>
+    <gameObject id="Platform" props="x:n1300,y:n1050,width:n400,height:n150,color:u0xff00">
+      <artAsset classname="cave_ground" insertType="insert" x="0" y="-50"/>
+    </gameObject>
+    <gameObject id="Platform" props="x:n1700,y:n1050,width:n400,height:n150,color:u0xff00">
+      <artAsset classname="cave_ground" insertType="insert" x="0" y="-50"/>
+    </gameObject>
+    <gameObject id="Platform" props="x:n2100,y:n1050,width:n400,height:n150,color:u0xff00">
+      <artAsset classname="cave_ground" insertType="insert" x="0" y="-50"/>
+    </gameObject>
+    <gameObject id="Platform" props="x:n2500,y:n1050,width:n400,height:n150,color:u0xff00">
+      <artAsset classname="cave_ground" insertType="insert" x="0" y="-50"/>
+    </gameObject>
+    <gameObject id="Platform" props="x:n2900,y:n1050,width:n400,height:n150,color:u0xff00">
+      <artAsset classname="cave_ground" insertType="insert" x="0" y="-50"/>
+    </gameObject>
+    <gameObject id="Platform" props="x:n3300,y:n1050,width:n400,height:n150,color:u0xff00">
+      <artAsset classname="cave_ground" insertType="insert" x="0" y="-50"/>
+    </gameObject>
+    <gameObject id="Platform" props="x:n3700,y:n1050,width:n400,height:n150,color:u0xff00">
+      <artAsset classname="cave_ground" insertType="insert" x="0" y="-50"/>
+    </gameObject>
+    <gameObject id="Platform" props="x:n4100,y:n1050,width:n400,height:n150,color:u0xff00">
+      <artAsset classname="cave_ground" insertType="insert" x="0" y="-50"/>
+    </gameObject>
+    <gameObject id="Platform" props="x:n4500,y:n1050,width:n400,height:n150,color:u0xff00">
+      <artAsset classname="cave_ground" insertType="insert" x="0" y="-50"/>
+    </gameObject>
+    <gameObject id="Platform" props="x:n4900,y:n1050,width:n400,height:n150,color:u0xff00">
+      <artAsset classname="cave_ground" insertType="insert" x="0" y="-50"/>
+    </gameObject>
+    <gameObject id="Platform" props="x:n5300,y:n1050,width:n400,height:n150,color:u0xff00">
+      <artAsset classname="cave_ground" insertType="insert" x="0" y="-50"/>
+    </gameObject>
+    <gameObject id="Platform" props="x:n5700,y:n1050,width:n400,height:n150,color:u0xff00">
+      <artAsset classname="cave_ground" insertType="insert" x="0" y="-50"/>
+    </gameObject>
+    <gameObject id="Platform" props="x:n6100,y:n1050,width:n400,height:n150,color:u0xff00">
+      <artAsset classname="cave_ground" insertType="insert" x="0" y="-50"/>
+    </gameObject>
+    <gameObject id="Platform" props="x:n6500,y:n1050,width:n400,height:n150,color:u0xff00">
+      <artAsset classname="cave_ground" insertType="insert" x="0" y="-50"/>
+    </gameObject>
+    <gameObject id="Platform" props="x:n6900,y:n1050,width:n400,height:n150,color:u0xff00">
+      <artAsset classname="cave_ground" insertType="insert" x="0" y="-50"/>
+    </gameObject>
+    <gameObject id="Platform" props="x:n7300,y:n1025,width:n400,height:n150,color:u0xff00">
+      <artAsset classname="cave_ground" insertType="insert" x="0" y="-25"/>
+    </gameObject>
+  </scene>
+  <scene name="Background" parallax="false"/>
+  <scene name="Waterfalls" parallax="false">
+    <gameObject id="Region" props="x:n5125,y:n450,width:n300,height:n600,color:u0xff000,regionType:shigh_gravity">
+      <artAsset classname="waterfall" insertType="insert" x="0" y="-300"/>
+      <artAsset classname="waterfall" insertType="insert" x="0" y="0"/>
+      <artAsset classname="waterfall" insertType="insert" x="0" y="300"/>
+      <artAsset classname="Symbol19" insertType="insert" x="25" y="500"/>
+      <artAsset classname="waterfall_bottom" insertType="insert" x="0" y="425"/>
+      <artAsset classname="waterfall_top" insertType="insert" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="Region" props="x:n3700,y:n450,width:n300,height:n600,color:u0xff000,regionType:shigh_gravity">
+      <artAsset classname="waterfall" insertType="insert" x="0" y="-300"/>
+      <artAsset classname="waterfall" insertType="insert" x="0" y="0"/>
+      <artAsset classname="waterfall" insertType="insert" x="0" y="300"/>
+      <artAsset classname="L2_rock1_left_mc" insertType="insert" x="0" y="525"/>
+      <artAsset classname="L2_rock2_left_mc" insertType="insert" x="200" y="500"/>
+      <artAsset classname="waterfall_bottom" insertType="insert" x="0" y="425"/>
+      <artAsset classname="waterfall_top" insertType="insert" x="0" y="0"/>
+    </gameObject>
+  </scene>
+  <scene name="JumpThrough" parallax="false">
+    <gameObject id="JumpThroughPlatform" props="x:n5550,y:n850,width:n100,height:n200,color:u0xff">
+      <artAsset classname="L1_wall_jumpthrough_small" insertType="insert" x="50" y="0"/>
+      <artAsset classname="L1_wall_jumpthrought_left" insertType="insert" x="0" y="0"/>
+      <artAsset classname="Symbol23" insertType="insert" x="-25" y="25"/>
+    </gameObject>
+    <gameObject id="JumpThroughPlatform" props="x:n2775,y:n850,width:n400,height:n200,color:u0xff">
+      <artAsset classname="Symbol23" insertType="insert" x="-50" y="0"/>
+      <artAsset classname="Symbol23" insertType="insert" x="125" y="0"/>
+    </gameObject>
+    <gameObject id="JumpThroughPlatform" props="x:n875,y:n850,width:n200,height:n75,color:u0xff">
+      <artAsset classname="L1_wall_jumpthrough_big" insertType="insert" x="50" y="0"/>
+      <artAsset classname="L1_wall_jumpthrought_left" insertType="insert" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="JumpThroughPlatform" props="x:n1475,y:n875,width:n125,height:n150,color:u0xff"/>
+    <gameObject id="JumpThroughPlatform" props="x:n1475,y:n850,width:n200,height:n100,color:u0xff">
+      <artAsset classname="L1_wall_jumpthrough_small1" insertType="insert" x="0" y="0"/>
+      <artAsset classname="L1_wall_jumpthrough_small1" insertType="insert" x="75" y="0"/>
+      <artAsset classname="Symbol17" insertType="insert" x="-125" y="-25"/>
+    </gameObject>
+    <gameObject id="JumpThroughPlatform" props="x:n750,y:n950,width:n350,height:n100,color:u0xff">
+      <artAsset classname="L1_wall_jumpthrough_small1" insertType="insert" x="0" y="0"/>
+      <artAsset classname="L1_wall_jumpthrough_small1" insertType="insert" x="100" y="0"/>
+      <artAsset classname="L1_wall_jumpthrough_small1" insertType="insert" x="300" y="0"/>
+      <artAsset classname="L1_wall_jumpthrough_small1" insertType="insert" x="200" y="0"/>
+      <artAsset classname="L1_top_cap_tile" insertType="insert" x="200" y="-25"/>
+      <artAsset classname="L1_top_cap_tile" insertType="insert" x="100" y="-25"/>
+      <artAsset classname="L1_top_cap_tile" insertType="insert" x="0" y="-25"/>
+      <artAsset classname="L1_top_cap_tile" insertType="insert" x="300" y="-25"/>
+    </gameObject>
+    <gameObject id="JumpThroughPlatform" props="x:n3050,y:n950,width:n300,height:n100,color:u0xff">
+      <artAsset classname="Symbol15" insertType="insert" x="75" y="0"/>
+      <artAsset classname="Symbol16" insertType="insert" x="0" y="-25"/>
+      <artAsset classname="L1_top_cap_tile" insertType="insert" x="150" y="-25"/>
+      <artAsset classname="L1_top_cap_tile" insertType="insert" x="50" y="-25"/>
+      <artAsset classname="L1_top_cap_right" insertType="insert" x="250" y="-25"/>
+      <artAsset classname="L1_top_cap_left" insertType="insert" x="0" y="-25"/>
+    </gameObject>
+    <gameObject id="JumpThroughPlatform" props="x:n3700,y:n875,width:n150,height:n50,color:u0xff">
+      <artAsset classname="L1_floating_rock" insertType="insert" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="JumpThroughPlatform" props="x:n3850,y:n925,width:n150,height:n50,color:u0xff">
+      <artAsset classname="L1_floating_rock" insertType="insert" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="JumpThroughPlatform" props="x:n2175,y:n850,width:n150,height:n75,color:u0xff">
+      <artAsset classname="Symbol17" insertType="insert" x="0" y="-25"/>
+    </gameObject>
+    <gameObject id="JumpThroughPlatform" props="x:n4050,y:n775,width:n150,height:n50,color:u0xff">
+      <artAsset classname="L1_floating_rock" insertType="insert" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="JumpThroughPlatform" props="x:n4025,y:n850,width:n275,height:n25,color:u0xff">
+      <artAsset classname="Symbol23" insertType="insert" x="75" y="0"/>
+      <artAsset classname="Symbol23" insertType="insert" x="-25" y="0"/>
+    </gameObject>
+    <gameObject id="JumpThroughPlatform" props="x:n2100,y:n900,width:n225,height:n100,color:u0xff">
+      <artAsset classname="L1_wall_jumpthrought_left1" insertType="insert" x="0" y="0"/>
+      <artAsset classname="L1_wall_jumpthrough_small1" insertType="insert" x="50" y="0"/>
+      <artAsset classname="L1_wall_jumpthrough_small1" insertType="insert" x="150" y="0"/>
+      <artAsset classname="Symbol20" insertType="insert" x="0" y="0"/>
+      <artAsset classname="L1_top_cap_left" insertType="insert" x="0" y="-25"/>
+      <artAsset classname="L1_top_cap_tile" insertType="insert" x="150" y="-25"/>
+      <artAsset classname="L1_top_cap_tile" insertType="insert" x="50" y="-25"/>
+    </gameObject>
+    <gameObject id="JumpThroughPlatform" props="x:n1950,y:n950,width:n325,height:n100,color:u0xff">
+      <artAsset classname="Symbol20" insertType="insert" x="0" y="-25"/>
+      <artAsset classname="L1_top_cap_tile" insertType="insert" x="50" y="-25"/>
+      <artAsset classname="L1_top_cap_tile" insertType="insert" x="250" y="-25"/>
+      <artAsset classname="L1_top_cap_tile" insertType="insert" x="150" y="-25"/>
+      <artAsset classname="L1_top_cap_left" insertType="insert" x="0" y="-25"/>
+    </gameObject>
+    <gameObject id="JumpThroughPlatform" props="x:n4150,y:n950,width:n150,height:n25,color:u0xff">
+      <artAsset classname="Symbol15" insertType="insert" x="-25" y="0"/>
+      <artAsset classname="L1_top_cap_left" insertType="insert" x="0" y="-25"/>
+      <artAsset classname="L1_top_cap_tile" insertType="insert" x="150" y="-25"/>
+      <artAsset classname="L1_top_cap_tile" insertType="insert" x="50" y="-25"/>
+    </gameObject>
+    <gameObject id="JumpThroughPlatform" props="x:n3850,y:n800,width:n150,height:n50,color:u0xff">
+      <artAsset classname="L1_floating_rock" insertType="insert" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="JumpThroughPlatform" props="x:n1475,y:n950,width:n300,height:n100,color:u0xff">
+      <artAsset classname="Symbol16" insertType="insert" x="-200" y="-25"/>
+      <artAsset classname="Symbol16" insertType="insert" x="25" y="-25"/>
+      <artAsset classname="L1_top_cap_tile" insertType="insert" x="-50" y="-25"/>
+      <artAsset classname="L1_top_cap_tile" insertType="insert" x="50" y="-25"/>
+      <artAsset classname="L1_top_cap_tile" insertType="insert" x="150" y="-25"/>
+      <artAsset classname="L1_top_cap_right" insertType="insert" x="250" y="-25"/>
+    </gameObject>
+    <gameObject id="JumpThroughPlatform" props="x:n6150,y:n850,width:n200,height:n200,color:u0xff">
+      <artAsset classname="Symbol23" insertType="insert" x="-75" y="0"/>
+    </gameObject>
+    <gameObject id="JumpThroughPlatform" props="x:n6250,y:n950,width:n300,height:n100,color:u0xff">
+      <artAsset classname="Symbol17" insertType="insert" x="-25" y="-25"/>
+      <artAsset classname="L1_top_cap_tile" insertType="insert" x="150" y="-25"/>
+      <artAsset classname="L1_top_cap_tile" insertType="insert" x="50" y="-25"/>
+      <artAsset classname="L1_top_cap_right" insertType="insert" x="250" y="-25"/>
+      <artAsset classname="L1_top_cap_left" insertType="insert" x="0" y="-25"/>
+    </gameObject>
+    <gameObject id="JumpThroughPlatform" props="x:n150,y:n950,width:n600,height:n100,color:u0xff">
+      <artAsset classname="L1_wall_jumpthrough_small1" insertType="insert" x="0" y="0"/>
+      <artAsset classname="L1_wall_jumpthrough_small1" insertType="insert" x="100" y="0"/>
+      <artAsset classname="L1_wall_jumpthrough_small1" insertType="insert" x="200" y="0"/>
+      <artAsset classname="L1_wall_jumpthrough_small1" insertType="insert" x="500" y="0"/>
+      <artAsset classname="L1_wall_jumpthrough_small1" insertType="insert" x="400" y="0"/>
+      <artAsset classname="L1_wall_jumpthrough_small1" insertType="insert" x="300" y="0"/>
+      <artAsset classname="Symbol20" insertType="insert" x="0" y="0"/>
+      <artAsset classname="Symbol20" insertType="insert" x="425" y="0"/>
+      <artAsset classname="Symbol19" insertType="insert" x="300" y="50"/>
+      <artAsset classname="Symbol18" insertType="insert" x="575" y="25"/>
+      <artAsset classname="L1_top_cap_tile" insertType="insert" x="400" y="-25"/>
+      <artAsset classname="L1_top_cap_tile" insertType="insert" x="300" y="-25"/>
+      <artAsset classname="L1_top_cap_tile" insertType="insert" x="200" y="-25"/>
+      <artAsset classname="L1_top_cap_tile" insertType="insert" x="100" y="-25"/>
+      <artAsset classname="L1_top_cap_tile" insertType="insert" x="0" y="-25"/>
+      <artAsset classname="L1_top_cap_tile" insertType="insert" x="500" y="-25"/>
+    </gameObject>
+  </scene>
+  <scene name="StaticPlatforms" parallax="false">
+    <gameObject id="Platform" props="x:n0,y:n575,width:n100,height:n500,color:u0xff00">
+      <artAsset classname="platformTexture" insertType="" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="VORegion" props="x:n475,y:n825,width:n100,height:n100,color:u0xff000,regionType:svo,voString:sDRR_37,shouldRespawn:btrue,respawnTime:i15"/>
+    <gameObject id="Platform" props="x:n4300,y:n850,width:n400,height:n200,color:u0xff00">
+      <artAsset classname="L1_wall_end_left" insertType="insert" x="0" y="0"/>
+      <artAsset classname="L1_wall_end_right" insertType="insert" x="350" y="0"/>
+      <artAsset classname="L1_rock_tile_large" insertType="insert" x="50" y="0"/>
+      <artAsset classname="L1_rock_tile_small" insertType="insert" x="250" y="0"/>
+      <artAsset classname="L1_top_cap_right" insertType="insert" x="375" y="-25"/>
+      <artAsset classname="L1_top_cap_tile" insertType="insert" x="75" y="-25"/>
+      <artAsset classname="L1_top_cap_tile" insertType="insert" x="175" y="-25"/>
+      <artAsset classname="L1_top_cap_tile" insertType="insert" x="275" y="-25"/>
+      <artAsset classname="L1_top_cap_tile" insertType="insert" x="-25" y="-25"/>
+      <artAsset classname="L1_top_cap_tile" insertType="insert" x="-125" y="-25"/>
+      <artAsset classname="L1_top_cap_left" insertType="insert" x="-275" y="-25"/>
+      <artAsset classname="L1_top_cap_tile" insertType="insert" x="-225" y="-25"/>
+    </gameObject>
+    <gameObject id="Platform" props="x:n5650,y:n850,width:n500,height:n200,color:u0xff00">
+      <artAsset classname="L1_wall_end_left" insertType="insert" x="0" y="0"/>
+      <artAsset classname="L1_rock_tile_large" insertType="insert" x="50" y="0"/>
+      <artAsset classname="L1_rock_tile_large" insertType="insert" x="250" y="0"/>
+      <artAsset classname="L1_wall_end_right" insertType="insert" x="450" y="0"/>
+      <artAsset classname="L1_top_cap_left" insertType="insert" x="-100" y="-25"/>
+      <artAsset classname="L1_top_cap_right" insertType="insert" x="650" y="-25"/>
+      <artAsset classname="L1_top_cap_tile" insertType="insert" x="350" y="-25"/>
+      <artAsset classname="L1_top_cap_tile" insertType="insert" x="250" y="-25"/>
+      <artAsset classname="L1_top_cap_tile" insertType="insert" x="550" y="-25"/>
+      <artAsset classname="L1_top_cap_tile" insertType="insert" x="450" y="-25"/>
+      <artAsset classname="L1_top_cap_tile" insertType="insert" x="150" y="-25"/>
+      <artAsset classname="L1_top_cap_tile" insertType="insert" x="50" y="-25"/>
+      <artAsset classname="L1_top_cap_tile" insertType="insert" x="-50" y="-25"/>
+    </gameObject>
+    <gameObject id="Platform" props="x:n2275,y:n850,width:n500,height:n200,color:u0xff00">
+      <artAsset classname="L1_rock_tile_large" insertType="insert" x="50" y="0"/>
+      <artAsset classname="L1_wall_end_left" insertType="insert" x="0" y="0"/>
+      <artAsset classname="L1_rock_tile_large" insertType="insert" x="250" y="0"/>
+      <artAsset classname="L1_wall_end_right" insertType="insert" x="450" y="0"/>
+      <artAsset classname="L1_top_cap_left" insertType="insert" x="-100" y="-25"/>
+      <artAsset classname="L1_top_cap_right" insertType="insert" x="850" y="-25"/>
+      <artAsset classname="L1_top_cap_tile" insertType="insert" x="450" y="-25"/>
+      <artAsset classname="L1_top_cap_tile" insertType="insert" x="550" y="-25"/>
+      <artAsset classname="L1_top_cap_tile" insertType="insert" x="750" y="-25"/>
+      <artAsset classname="L1_top_cap_tile" insertType="insert" x="650" y="-25"/>
+      <artAsset classname="Symbol19" insertType="insert" x="-50" y="150"/>
+      <artAsset classname="L1_top_cap_tile" insertType="insert" x="350" y="-25"/>
+      <artAsset classname="L1_top_cap_tile" insertType="insert" x="250" y="-25"/>
+      <artAsset classname="L1_top_cap_tile" insertType="insert" x="150" y="-25"/>
+      <artAsset classname="L1_top_cap_tile" insertType="insert" x="50" y="-25"/>
+      <artAsset classname="L1_top_cap_tile" insertType="insert" x="-50" y="-25"/>
+    </gameObject>
+    <gameObject id="VORegion" props="x:n3250,y:n825,width:n25,height:n200,color:u0xff000,regionType:svo,voString:sDRR_32-ALT,shouldRespawn:bfalse,respawnTime:i15"/>
+    <gameObject id="VORegion" props="x:n2475,y:n625,width:n25,height:n200,color:u0xff000,regionType:svo,voString:sDRR_40,shouldRespawn:bfalse,respawnTime:i15"/>
+    <gameObject id="VORegion" props="x:n4675,y:n650,width:n100,height:n200,color:u0xff000,regionType:svo,voString:sDRR_32-ALT,shouldRespawn:bfalse,respawnTime:i15"/>
+    <gameObject id="Platform" props="x:n-200,y:n450,width:n400,height:n600,color:u0xff00">
+      <artAsset classname="L1_wall_end_left" insertType="insert" x="0" y="0"/>
+      <artAsset classname="L1_wall_end_right" insertType="insert" x="350" y="0"/>
+      <artAsset classname="L1_rock_tile_large" insertType="insert" x="50" y="0"/>
+      <artAsset classname="L1_rock_tile_small" insertType="insert" x="250" y="0"/>
+      <artAsset classname="L1_top_cap_tile" insertType="insert" x="250" y="-25"/>
+      <artAsset classname="L1_top_cap_tile" insertType="insert" x="150" y="-25"/>
+      <artAsset classname="L1_top_cap_tile" insertType="insert" x="50" y="-25"/>
+      <artAsset classname="L1_top_cap_right" insertType="insert" x="350" y="-25"/>
+      <artAsset classname="L1_top_cap_left" insertType="insert" x="0" y="-25"/>
+      <artAsset classname="L1_wall_end_right" insertType="insert" x="350" y="400"/>
+      <artAsset classname="L1_wall_end_right" insertType="insert" x="350" y="200"/>
+      <artAsset classname="L1_rock_tile_small" insertType="insert" x="50" y="400"/>
+      <artAsset classname="L1_rock_tile_small" insertType="insert" x="150" y="400"/>
+      <artAsset classname="L1_rock_tile_small" insertType="insert" x="50" y="200"/>
+      <artAsset classname="L1_rock_tile_small" insertType="insert" x="150" y="200"/>
+      <artAsset classname="L1_rock_tile_small" insertType="insert" x="250" y="400"/>
+      <artAsset classname="L1_rock_tile_small" insertType="insert" x="250" y="200"/>
+    </gameObject>
+    <gameObject id="VORegion" props="x:n3575,y:n800,width:n25,height:n200,color:u0xff000,regionType:svo,voString:sDRR_38-ALT,shouldRespawn:bfalse,respawnTime:i15"/>
+    <gameObject id="VORegion" props="x:n4425,y:n725,width:n100,height:n100,color:u0xff000,regionType:svo,voString:sDRR_36-ALT1,shouldRespawn:bfalse,respawnTime:i15"/>
+    <gameObject id="Platform" props="x:n1075,y:n850,width:n400,height:n200,color:u0xff00">
+      <artAsset classname="L1_wall_end_left" insertType="insert" x="0" y="0"/>
+      <artAsset classname="L1_wall_end_right" insertType="insert" x="350" y="0"/>
+      <artAsset classname="L1_rock_tile_large" insertType="insert" x="50" y="0"/>
+      <artAsset classname="L1_rock_tile_small" insertType="insert" x="250" y="0"/>
+      <artAsset classname="L1_top_cap_tile" insertType="insert" x="450" y="-25"/>
+      <artAsset classname="L1_top_cap_tile" insertType="insert" x="350" y="-25"/>
+      <artAsset classname="L1_top_cap_tile" insertType="insert" x="-150" y="-25"/>
+      <artAsset classname="L1_top_cap_right" insertType="insert" x="550" y="-25"/>
+      <artAsset classname="L1_top_cap_left" insertType="insert" x="-200" y="-25"/>
+      <artAsset classname="L1_top_cap_tile" insertType="insert" x="250" y="-25"/>
+      <artAsset classname="L1_top_cap_tile" insertType="insert" x="150" y="-25"/>
+      <artAsset classname="L1_top_cap_tile" insertType="insert" x="50" y="-25"/>
+      <artAsset classname="L1_top_cap_tile" insertType="insert" x="-50" y="-25"/>
+    </gameObject>
+  </scene>
+  <scene name="Bouncy" parallax="false">
+    <gameObject id="BouncyPlatform" props="x:n4700,y:n850,width:n75,height:n50,color:u0xff00">
+      <artAsset classname="L1_mushroom_right" insertType="insert" x="-25" y="-25"/>
+    </gameObject>
+    <gameObject id="BouncyPlatform" props="x:n4925,y:n925,width:n75,height:n50,color:u0xff00">
+      <artAsset classname="L1_mushroom_ground" insertType="insert" x="-25" y="-25"/>
+      <artAsset classname="Symbol19" insertType="insert" x="-75" y="25"/>
+      <artAsset classname="Symbol19" insertType="insert" x="0" y="25"/>
+      <artAsset classname="Symbol18" insertType="insert" x="-150" y="25"/>
+    </gameObject>
+    <gameObject id="BouncyPlatform" props="x:n5575,y:n950,width:n75,height:n25,color:u0xff00">
+      <artAsset classname="L1_mushroom_left" insertType="insert" x="-25" y="-25"/>
+    </gameObject>
+    <gameObject id="BouncyPlatform" props="x:n5225,y:n925,width:n75,height:n50,color:u0xff00">
+      <artAsset classname="L1_mushroom_ground" insertType="insert" x="-25" y="-25"/>
+    </gameObject>
+    <gameObject id="BouncyPlatform" props="x:n4700,y:n975,width:n75,height:n50,color:u0xff00">
+      <artAsset classname="L1_mushroom_right" insertType="insert" x="-25" y="-25"/>
+      <artAsset classname="Symbol19" insertType="insert" x="-150" y="25"/>
+    </gameObject>
+  </scene>
+  <scene name="Player" parallax="false">
+    <gameObject id="Player" props="x:n275,y:n850,width:n50,height:n100,color:u0x0">
+      <artAsset classname="char_anim" insertType="insert" x="0" y="0"/>
+    </gameObject>
+  </scene>
+  <scene name="Decals" parallax="false">
+    <gameObject id="Decal" props="x:n3700,y:n975,width:n300,height:n100,color:u0xff">
+      <artAsset classname="waterfall_mist" insertType="insert" x="-75" y="-225"/>
+    </gameObject>
+    <gameObject id="Decal" props="x:n5125,y:n1000,width:n300,height:n100,color:u0xff">
+      <artAsset classname="waterfall_mist" insertType="insert" x="-75" y="-250"/>
+    </gameObject>
+    <gameObject id="Decal" props="x:n1150,y:n950,width:n100,height:n100,color:u0xff">
+      <artAsset classname="Symbol22" insertType="insert" x="-150" y="-75"/>
+    </gameObject>
+    <gameObject id="Decal" props="x:n2350,y:n950,width:n100,height:n100,color:u0xff">
+      <artAsset classname="Symbol16" insertType="insert" x="150" y="0"/>
+      <artAsset classname="Symbol22" insertType="insert" x="-150" y="-75"/>
+    </gameObject>
+    <gameObject id="Decal" props="x:n4350,y:n950,width:n100,height:n100,color:u0xff">
+      <artAsset classname="Symbol22" insertType="insert" x="-125" y="-75"/>
+      <artAsset classname="Symbol19" insertType="insert" x="-175" y="50"/>
+    </gameObject>
+    <gameObject id="Decal" props="x:n5775,y:n975,width:n100,height:n100,color:u0xff">
+      <artAsset classname="Symbol19" insertType="insert" x="-180" y="25"/>
+      <artAsset classname="Symbol22" insertType="insert" x="-125" y="-75"/>
+      <artAsset classname="Symbol18" insertType="insert" x="-225" y="0"/>
+    </gameObject>
+    <gameObject id="Decal" props="x:n325,y:n1050,width:n100,height:n100,color:u0xff">
+      <artAsset classname="Symbol22" insertType="insert" x="-150" y="-75"/>
+      <artAsset classname="Symbol19" insertType="insert" x="325" y="-25"/>
+    </gameObject>
+    <gameObject id="Decal" props="x:n3100,y:n975,width:n100,height:n100,color:u0xff">
+      <artAsset classname="Symbol19" insertType="insert" x="-50" y="50"/>
+    </gameObject>
+  </scene>
+  <scene name="Region" parallax="false">
+    <gameObject id="Region" props="x:n7000,y:n725,width:n100,height:n300,color:u0xff000,regionType:send_level">
+      <artAsset classname="gate_cave" insertType="insert" x="50" y="-100"/>
+    </gameObject>
+  </scene>
+  <scene name="Collectible" parallax="false">
+    <gameObject id="Pickup" props="x:n4225,y:n675,width:n50,height:n50,color:u0xff,pickupType:sbook">
+      <artAsset classname="book1" insertType="insert" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="Pickup" props="x:n3900,y:n850,width:n50,height:n50,color:u0xff,pickupType:sbook">
+      <artAsset classname="book1" insertType="insert" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="Pickup" props="x:n3350,y:n875,width:n50,height:n50,color:u0xff,pickupType:sbook">
+      <artAsset classname="book3" insertType="insert" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="Pickup" props="x:n3050,y:n875,width:n50,height:n25,color:u0xff,pickupType:sbook">
+      <artAsset classname="book1" insertType="insert" x="0" y="-25"/>
+    </gameObject>
+    <gameObject id="Pickup" props="x:n2825,y:n925,width:n50,height:n50,color:u0xff,pickupType:sbook">
+      <artAsset classname="book2" insertType="insert" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="Pickup" props="x:n2100,y:n775,width:n50,height:n50,color:u0xff,pickupType:sbook">
+      <artAsset classname="book2" insertType="insert" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="Pickup" props="x:n2325,y:n650,width:n50,height:n50,color:u0xff,pickupType:sbook">
+      <artAsset classname="book3" insertType="insert" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="Pickup" props="x:n1650,y:n750,width:n50,height:n50,color:u0xff,pickupType:sbook">
+      <artAsset classname="book1" insertType="insert" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="Pickup" props="x:n625,y:n825,width:n50,height:n50,color:u0xff,pickupType:sbook">
+      <artAsset classname="book2" insertType="insert" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="Pickup" props="x:n975,y:n725,width:n50,height:n50,color:u0xff,pickupType:sbook">
+      <artAsset classname="book3" insertType="insert" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="TimedPickup" props="x:n5050,y:n875,width:n50,height:n50,color:u0xff0000,pickupType:sumbrella,respawnTime:i13,effectTime:i10">
+      <artAsset classname="umbrella_anim" insertType="" x="-25" y="0"/>
+    </gameObject>
+    <gameObject id="Pickup" props="x:n3750,y:n750,width:n50,height:n50,color:u0xff,pickupType:sbook">
+      <artAsset classname="book2" insertType="insert" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="Pickup" props="x:n2800,y:n725,width:n25,height:n50,color:u0xff0000,pickupType:scrayon">
+      <artAsset classname="crayon6" insertType="" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="Pickup" props="x:n4825,y:n725,width:n50,height:n50,color:u0xff,pickupType:sbook">
+      <artAsset classname="book3" insertType="insert" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="Pickup" props="x:n5225,y:n725,width:n50,height:n50,color:u0xff,pickupType:sbook">
+      <artAsset classname="book2" insertType="insert" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="Pickup" props="x:n6225,y:n725,width:n50,height:n50,color:u0xff,pickupType:sbook">
+      <artAsset classname="book3" insertType="" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="Pickup" props="x:n6475,y:n825,width:n50,height:n50,color:u0xff,pickupType:sbook">
+      <artAsset classname="book2" insertType="" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="Pickup" props="x:n5600,y:n700,width:n50,height:n50,color:u0xff0000,pickupType:scrayon">
+      <artAsset classname="crayon4" insertType="" x="25" y="0"/>
+    </gameObject>
+    <gameObject id="TimedPickup" props="x:n3600,y:n850,width:n75,height:n75,color:u0xff0000,pickupType:sumbrella,respawnTime:i13,effectTime:i10">
+      <artAsset classname="umbrella_anim" insertType="" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="Pickup" props="x:n3900,y:n700,width:n50,height:n50,color:u0xff,pickupType:sbook">
+      <artAsset classname="book2" insertType="insert" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="Pickup" props="x:n6700,y:n925,width:n50,height:n50,color:u0xff,pickupType:sbook">
+      <artAsset classname="book1" insertType="" x="0" y="0"/>
+    </gameObject>
+  </scene>
+  <scene name="GodRays1" parallax="true">
+    <gameObject id="Decal" props="x:n0,y:n300,width:n36000,height:n3000,color:u0xff">
+     <artAsset classname="light_shaft_mc" insertType="insert" x="600" y="0"/>
+    <artAsset classname="light_shaft_mc" insertType="insert" x="1800" y="0"/>
+     <artAsset classname="light_shaft_mc" insertType="insert" x="2800" y="0"/>     
+     <artAsset classname="light_shaft_mc" insertType="insert" x="4200" y="0"/>
+     <artAsset classname="light_shaft_mc" insertType="insert" x="7500" y="0"/> 
+     <artAsset classname="light_shaft_mc" insertType="insert" x="12650" y="0"/>
+    </gameObject>  
+  </scene>    
+  <scene name="GodRays2" parallax="true">
+    <gameObject id="Decal" props="x:n150,y:n300,width:n28000,height:n3000,color:u0xff">
+     <artAsset classname="light_shaft_mc" insertType="insert" x="750" y="0"/>     
+     <artAsset classname="light_shaft_mc" insertType="insert" x="1800" y="0"/>
+     <artAsset classname="light_shaft_mc" insertType="insert" x="2800" y="0"/>     
+     <artAsset classname="light_shaft_mc" insertType="insert" x="5620" y="0"/>     
+     <artAsset classname="light_shaft_mc" insertType="insert" x="6000" y="0"/>     
+     <artAsset classname="light_shaft_mc" insertType="insert" x="6600" y="0"/>
+     <artAsset classname="light_shaft_mc" insertType="insert" x="10000" y="0"/>
+     <artAsset classname="light_shaft_mc" insertType="insert" x="12000" y="0"/>
+     <artAsset classname="light_shaft_mc" insertType="insert" x="13750" y="0"/>     
+    </gameObject> 
+  </scene>
+  <scene name="Foreground" parallax="true">
+    <gameObject id="Decal" props="x:n0,y:n1450,width:n36000,height:n8500,color:u0xff">
+      <artAsset classname="L1_forground" insertType="insert" x="0" y="600"/>
+      <artAsset classname="L1_forground" insertType="insert" x="740" y="600"/>
+      <artAsset classname="L1_forground" insertType="insert" x="1480" y="600"/>      
+      <artAsset classname="L1_forground" insertType="insert" x="2220" y="600"/>
+      <artAsset classname="L1_forground" insertType="insert" x="2960" y="600"/>
+      <artAsset classname="L1_forground" insertType="insert" x="3700" y="600"/>
+      <artAsset classname="L1_forground" insertType="insert" x="4440" y="600"/>
+      <artAsset classname="L1_forground" insertType="insert" x="5180" y="600"/>
+      <artAsset classname="L1_forground" insertType="insert" x="5920" y="600"/>      
+      <artAsset classname="L1_forground" insertType="insert" x="6660" y="600"/>
+      <artAsset classname="L1_forground" insertType="insert" x="7400" y="600"/>
+      <artAsset classname="L1_forground" insertType="insert" x="8140" y="600"/>
+      <artAsset classname="L1_forground" insertType="insert" x="8880" y="600"/>
+      <artAsset classname="L1_forground" insertType="insert" x="9620" y="600"/>
+      <artAsset classname="L1_forground" insertType="insert" x="10360" y="600"/>
+      <artAsset classname="L1_forground" insertType="insert" x="11100" y="600"/>
+      <artAsset classname="L1_forground" insertType="insert" x="11840" y="600"/>      
+      <artAsset classname="L1_forground" insertType="insert" x="12580" y="600"/>
+      <artAsset classname="L1_forground" insertType="insert" x="13320" y="600"/>
+      <artAsset classname="L1_forground" insertType="insert" x="14060" y="600"/>
+    </gameObject>
+  </scene>
+</level>

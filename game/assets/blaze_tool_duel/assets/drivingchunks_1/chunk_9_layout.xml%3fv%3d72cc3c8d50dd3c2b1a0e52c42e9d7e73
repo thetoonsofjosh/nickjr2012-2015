@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Scene Width="3840" Height="1920" Name="chunk_9_layout.xml">
+  <ImageDefs>
+    <Image ImageName="gp_tile_town0_underground_short" X="2880" Y="1600" ImageType="Image" PatternWidth="0" PatternHeight="0" />
+    <Image ImageName="gp_tile_town0_surface_diag_down_trans1" X="2752" Y="1408" ImageType="Image" PatternWidth="0" PatternHeight="0" />
+    <Image ImageName="gp_tile_town0_surface_diag1_down_trans2" X="2880" Y="1424" ImageType="Image" PatternWidth="0" PatternHeight="0" />
+    <Image ImageName="gp_tile_town0_surface_diag1_down_trans3" X="3008" Y="1472" ImageType="Image" PatternWidth="0" PatternHeight="0" />
+    <Image ImageName="gp_tile_town0_surface_diag_down_trans4" X="3136" Y="1520" ImageType="Image" PatternWidth="0" PatternHeight="0" />
+    <Image ImageName="gp_tile_town0_underground" X="2752" Y="1536" ImageType="Image" PatternWidth="0" PatternHeight="0" />
+    <Image ImageName="gp_tile_town0_underground" X="2624" Y="1536" ImageType="Image" PatternWidth="0" PatternHeight="0" />
+    <Image ImageName="gp_tile_town0_underground" X="2496" Y="1536" ImageType="Image" PatternWidth="0" PatternHeight="0" />
+    <Image ImageName="gp_tile_town0_underground" X="2368" Y="1536" ImageType="Image" PatternWidth="0" PatternHeight="0" />
+    <Image ImageName="gp_tile_town0_underground" X="2240" Y="1536" ImageType="Image" PatternWidth="0" PatternHeight="0" />
+    <Image ImageName="gp_tile_town0_underground" X="2112" Y="1536" ImageType="Image" PatternWidth="0" PatternHeight="0" />
+    <Image ImageName="gp_tile_town0_surface" X="1856" Y="1536" ImageType="Image" PatternWidth="0" PatternHeight="0" />
+    <Image ImageName="gp_tile_town0_surface_diag_up_trans4" X="2112" Y="1408" ImageType="Image" PatternWidth="0" PatternHeight="0" />
+    <Image ImageName="gp_ramp_01" X="576" Y="1408" ImageType="Image" PatternWidth="0" PatternHeight="0" />
+    <Image ImageName="gp_tile_town0_surface" X="3648" Y="1536" ImageType="Pattern" PatternWidth="192" PatternHeight="128" />
+    <Image ImageName="gp_tile_town0_surface" X="3520" Y="1536" ImageType="Image" PatternWidth="0" PatternHeight="0" />
+    <Image ImageName="gp_tile_town0_surface" X="3392" Y="1536" ImageType="Image" PatternWidth="0" PatternHeight="0" />
+    <Image ImageName="gp_tile_town0_surface" X="3264" Y="1536" ImageType="Image" PatternWidth="0" PatternHeight="0" />
+    <Image ImageName="gp_tile_town0_surface" X="2624" Y="1408" ImageType="Image" PatternWidth="0" PatternHeight="0" />
+    <Image ImageName="gp_tile_town0_surface" X="2496" Y="1408" ImageType="Image" PatternWidth="0" PatternHeight="0" />
+    <Image ImageName="gp_tile_town0_surface" X="2368" Y="1408" ImageType="Image" PatternWidth="0" PatternHeight="0" />
+    <Image ImageName="gp_tile_town0_surface" X="2240" Y="1408" ImageType="Image" PatternWidth="0" PatternHeight="0" />
+    <Image ImageName="gp_tile_town0_underground" X="0" Y="1664" ImageType="Pattern" PatternWidth="3840" PatternHeight="256" />
+    <Image ImageName="gp_tile_town0_surface" X="0" Y="1536" ImageType="Pattern" PatternWidth="1856" PatternHeight="128" />
+    <Image ImageName="gp_tile_town0_surface_diag2_up_trans2" X="1984" Y="1424" ImageType="Image" PatternWidth="0" PatternHeight="0" />
+  </ImageDefs>
+</Scene>

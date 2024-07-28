@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+========================
+	SAMPLE SECTION
+========================
+
+<title>
+	<gameName font="FONT1" size="68" color="0xff0000" align="left"><![CDATA[GAME NAME HERE]]></gameName>
+</title>
+
+The id for this would be title.gameName.  The text, font, font size, and alignment would all be set for us.
+
+Any tags omitted would use the default text field's values.
+-->
+
+<strings>
+	<fps>
+		<text font="burbank_35_white" fontScale="1"><![CDATA[text]]></text>
+	</fps>
+	
+	<hud>
+		<score font="burbank_35_white" fontScale="1"><![CDATA[%n]]></score>
+	</hud>
+	
+	
+	<!-- TODO: Before we go gold, all text below this comment should be removed. -->
+	
+
+	<!-- Used for placeholder. Make sure to remove the temp section. -->
+	<temp>
+		<game font="futura_white_34" fontScale="1"><![CDATA[EXCITING GAMEPLAY]]></game>
+		<instructions font="futura_white_34" fontScale="1"><![CDATA[INSTRUCTIONS SCREEN]]></instructions>
+		<end font="futura_white_34" fontScale="1"><![CDATA[NICE JOB!]]></end>
+	</temp>
+
+	<loading>
+		
+		<loading font="futura_white_34" fontScale="1"><![CDATA[LOADING...]]></loading>
+		
+	</loading>
+
+	<title>
+		<nextButton font="futura_white_34" fontScale="0.6"><![CDATA[NEXT]]></nextButton>
+	</title>
+
+	<instructions>
+		
+		<nextButton font="futura_white_34" fontScale="0.6"><![CDATA[SKIP]]></nextButton>
+		
+	</instructions>
+
+	<game>
+		
+		<doneButton font="futura_white_34" fontScale="0.6"><![CDATA[WIN]]></doneButton>
+		<pause font="futura_white_34" fontScale="0.6"><![CDATA[PAUSE]]></pause>
+		
+	</game>
+
+	<end>
+		
+		<nextButton font="futura_white_34" fontScale="0.6"><![CDATA[PLAY AGAIN]]></nextButton>
+		
+	</end>
+
+</strings>

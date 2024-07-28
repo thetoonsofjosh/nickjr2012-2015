@@ -1,0 +1,4230 @@
+{
+  "frameRate": 30,
+  "movies": [
+    {
+      "id": "fx_environment_bubbles",
+      "layers": [
+        {
+          "keyframes": [
+            {
+              "duration": 4,
+              "ref": "~fx_environment_bubbles_source",
+              "index": 0,
+              "loc": [
+                0.25,
+                80.85
+              ],
+              "alpha": 0.1016,
+              "pivot": [
+                6.45,
+                6.9
+              ]
+            },
+            {
+              "duration": 55,
+              "pivot": [
+                6.45,
+                6.9
+              ],
+              "index": 4,
+              "loc": [
+                -0.6,
+                36.6
+              ],
+              "ref": "~fx_environment_bubbles_source"
+            },
+            {
+              "duration": 5,
+              "pivot": [
+                6.45,
+                6.9
+              ],
+              "index": 59,
+              "loc": [
+                -12.65,
+                -571.8
+              ],
+              "ref": "~fx_environment_bubbles_source"
+            },
+            {
+              "duration": 1,
+              "ref": "~fx_environment_bubbles_source",
+              "tweened": false,
+              "index": 64,
+              "loc": [
+                -13.75,
+                -627.1
+              ],
+              "alpha": 0.1016,
+              "pivot": [
+                6.45,
+                6.9
+              ]
+            },
+            {
+              "duration": 25,
+              "index": 65
+            }
+          ],
+          "name": "Layer 6"
+        }
+      ]
+    },
+    {
+      "id": "fx_pickup",
+      "layers": [
+        {
+          "keyframes": [
+            {
+              "duration": 3,
+              "scale": [
+                0.4593,
+                0.4593
+              ],
+              "ref": "gp_bubble",
+              "index": 0,
+              "loc": [
+                -11.0019,
+                5.6522
+              ],
+              "pivot": [
+                17,
+                16.9
+              ]
+            },
+            {
+              "duration": 5,
+              "scale": [
+                0.4593,
+                0.4593
+              ],
+              "ref": "gp_bubble",
+              "index": 3,
+              "loc": [
+                -21.0019,
+                -6.0289
+              ],
+              "pivot": [
+                17,
+                17.05
+              ]
+            },
+            {
+              "duration": 5,
+              "scale": [
+                0.4593,
+                0.4593
+              ],
+              "ref": "gp_bubble",
+              "index": 8,
+              "loc": [
+                -29.8478,
+                -33.0019
+              ],
+              "alpha": 0.8008,
+              "pivot": [
+                16.9,
+                17
+              ]
+            },
+            {
+              "duration": 5,
+              "scale": [
+                0.4593,
+                0.4593
+              ],
+              "ref": "gp_bubble",
+              "index": 13,
+              "loc": [
+                -26.5019,
+                -56.3519
+              ],
+              "alpha": 0.6016,
+              "pivot": [
+                17,
+                17
+              ]
+            },
+            {
+              "duration": 5,
+              "scale": [
+                0.4593,
+                0.4593
+              ],
+              "ref": "gp_bubble",
+              "index": 18,
+              "loc": [
+                -20.1019,
+                -77.8978
+              ],
+              "alpha": 0.3984,
+              "pivot": [
+                17,
+                16.9
+              ]
+            },
+            {
+              "duration": 5,
+              "scale": [
+                0.4593,
+                0.4593
+              ],
+              "ref": "gp_bubble",
+              "index": 23,
+              "loc": [
+                -20.1289,
+                -99.4019
+              ],
+              "alpha": 0.1992,
+              "pivot": [
+                17.05,
+                17
+              ]
+            },
+            {
+              "duration": 1,
+              "scale": [
+                0.4593,
+                0.4593
+              ],
+              "ref": "gp_bubble",
+              "index": 28,
+              "loc": [
+                -19.6019,
+                -121.5519
+              ],
+              "alpha": 0,
+              "pivot": [
+                17,
+                17
+              ]
+            }
+          ],
+          "name": "Layer 1"
+        },
+        {
+          "keyframes": [
+            {
+              "duration": 4,
+              "scale": [
+                0.4593,
+                0.4593
+              ],
+              "ref": "gp_bubble",
+              "index": 0,
+              "loc": [
+                5.0981,
+                -5.0519
+              ],
+              "pivot": [
+                17,
+                17
+              ]
+            },
+            {
+              "duration": 5,
+              "scale": [
+                0.4593,
+                0.4593
+              ],
+              "ref": "gp_bubble",
+              "index": 4,
+              "loc": [
+                12.5711,
+                -27.9519
+              ],
+              "pivot": [
+                17.05,
+                17
+              ]
+            },
+            {
+              "duration": 5,
+              "scale": [
+                0.4593,
+                0.4593
+              ],
+              "ref": "gp_bubble",
+              "index": 9,
+              "loc": [
+                12.3522,
+                -57.3289
+              ],
+              "alpha": 0.8008,
+              "pivot": [
+                16.9,
+                17.05
+              ]
+            },
+            {
+              "duration": 5,
+              "scale": [
+                0.4593,
+                0.4593
+              ],
+              "ref": "gp_bubble",
+              "index": 14,
+              "loc": [
+                6.6981,
+                -81.7978
+              ],
+              "alpha": 0.6016,
+              "pivot": [
+                17,
+                16.9
+              ]
+            },
+            {
+              "duration": 5,
+              "scale": [
+                0.4593,
+                0.4593
+              ],
+              "ref": "gp_bubble",
+              "index": 19,
+              "loc": [
+                5.9981,
+                -101.2978
+              ],
+              "alpha": 0.3984,
+              "pivot": [
+                17,
+                16.9
+              ]
+            },
+            {
+              "duration": 5,
+              "scale": [
+                0.4593,
+                0.4593
+              ],
+              "ref": "gp_bubble",
+              "index": 24,
+              "loc": [
+                10.7522,
+                -124.4519
+              ],
+              "alpha": 0.1992,
+              "pivot": [
+                16.9,
+                17
+              ]
+            },
+            {
+              "duration": 1,
+              "scale": [
+                0.4593,
+                0.4593
+              ],
+              "ref": "gp_bubble",
+              "index": 29,
+              "loc": [
+                9.3981,
+                -145.8019
+              ],
+              "alpha": 0,
+              "pivot": [
+                17,
+                17
+              ]
+            }
+          ],
+          "name": "Layer 2"
+        },
+        {
+          "keyframes": [
+            {
+              "duration": 5,
+              "scale": [
+                0.3157,
+                0.3157
+              ],
+              "ref": "gp_bubble",
+              "index": 0,
+              "loc": [
+                -9.8482,
+                -9.4509
+              ],
+              "pivot": [
+                17,
+                17.15
+              ]
+            },
+            {
+              "duration": 5,
+              "scale": [
+                0.3157,
+                0.3157
+              ],
+              "ref": "gp_bubble",
+              "index": 5,
+              "loc": [
+                -3.8982,
+                -21.0009
+              ],
+              "pivot": [
+                17,
+                17.15
+              ]
+            },
+            {
+              "duration": 5,
+              "scale": [
+                0.3157,
+                0.3157
+              ],
+              "ref": "gp_bubble",
+              "index": 10,
+              "loc": [
+                -0.8982,
+                -36.4482
+              ],
+              "alpha": 0.8008,
+              "pivot": [
+                17,
+                17
+              ]
+            },
+            {
+              "duration": 5,
+              "scale": [
+                0.3157,
+                0.3157
+              ],
+              "ref": "gp_bubble",
+              "index": 15,
+              "loc": [
+                -3.9982,
+                -56.2509
+              ],
+              "alpha": 0.6016,
+              "pivot": [
+                17,
+                17.15
+              ]
+            },
+            {
+              "duration": 5,
+              "scale": [
+                0.3157,
+                0.3157
+              ],
+              "ref": "gp_bubble",
+              "index": 20,
+              "loc": [
+                -10.1009,
+                -75.8009
+              ],
+              "alpha": 0.3984,
+              "pivot": [
+                17.15,
+                17.15
+              ]
+            },
+            {
+              "duration": 5,
+              "scale": [
+                0.3157,
+                0.3157
+              ],
+              "ref": "gp_bubble",
+              "index": 25,
+              "loc": [
+                -11.9509,
+                -95.9482
+              ],
+              "alpha": 0.1992,
+              "pivot": [
+                17.15,
+                17
+              ]
+            },
+            {
+              "duration": 1,
+              "scale": [
+                0.3157,
+                0.3157
+              ],
+              "ref": "gp_bubble",
+              "index": 30,
+              "loc": [
+                -7.6982,
+                -114.5509
+              ],
+              "alpha": 0,
+              "pivot": [
+                17,
+                17.15
+              ]
+            }
+          ],
+          "name": "Layer 3"
+        },
+        {
+          "keyframes": [
+            {
+              "duration": 4,
+              "scale": [
+                0.3157,
+                0.3157
+              ],
+              "ref": "gp_bubble",
+              "index": 0,
+              "loc": [
+                14.9518,
+                13.7544
+              ],
+              "pivot": [
+                17,
+                16.85
+              ]
+            },
+            {
+              "duration": 5,
+              "scale": [
+                0.3157,
+                0.3157
+              ],
+              "ref": "gp_bubble",
+              "index": 4,
+              "loc": [
+                10.1518,
+                0.2018
+              ],
+              "pivot": [
+                17,
+                17
+              ]
+            },
+            {
+              "duration": 5,
+              "scale": [
+                0.3157,
+                0.3157
+              ],
+              "ref": "gp_bubble",
+              "index": 9,
+              "loc": [
+                8.5518,
+                -17.5482
+              ],
+              "alpha": 0.8008,
+              "pivot": [
+                17,
+                17
+              ]
+            },
+            {
+              "duration": 5,
+              "scale": [
+                0.3157,
+                0.3157
+              ],
+              "ref": "gp_bubble",
+              "index": 14,
+              "loc": [
+                10.5886,
+                -35.8456
+              ],
+              "alpha": 0.6016,
+              "pivot": [
+                16.8,
+                16.85
+              ]
+            },
+            {
+              "duration": 5,
+              "scale": [
+                0.3157,
+                0.3157
+              ],
+              "ref": "gp_bubble",
+              "index": 19,
+              "loc": [
+                10.5518,
+                -53.1982
+              ],
+              "alpha": 0.3984,
+              "pivot": [
+                17,
+                17
+              ]
+            },
+            {
+              "duration": 5,
+              "scale": [
+                0.3157,
+                0.3157
+              ],
+              "ref": "gp_bubble",
+              "index": 24,
+              "loc": [
+                8.3018,
+                -70.2956
+              ],
+              "alpha": 0.1992,
+              "pivot": [
+                17,
+                16.85
+              ]
+            },
+            {
+              "duration": 1,
+              "scale": [
+                0.3157,
+                0.3157
+              ],
+              "ref": "gp_bubble",
+              "index": 29,
+              "loc": [
+                7.2386,
+                -89.1956
+              ],
+              "alpha": 0,
+              "pivot": [
+                16.8,
+                16.85
+              ]
+            }
+          ],
+          "name": "Layer 4"
+        },
+        {
+          "keyframes": [
+            {
+              "duration": 3,
+              "scale": [
+                0.2197,
+                0.2197
+              ],
+              "ref": "gp_bubble",
+              "index": 0,
+              "loc": [
+                21.4476,
+                -1.0524
+              ],
+              "pivot": [
+                17.15,
+                17.15
+              ]
+            },
+            {
+              "duration": 5,
+              "scale": [
+                0.2197,
+                0.2197
+              ],
+              "ref": "gp_bubble",
+              "index": 3,
+              "loc": [
+                30.3476,
+                -9.0463
+              ],
+              "pivot": [
+                17.15,
+                16.95
+              ]
+            },
+            {
+              "duration": 5,
+              "scale": [
+                0.2197,
+                0.2197
+              ],
+              "ref": "gp_bubble",
+              "index": 8,
+              "loc": [
+                39.1037,
+                -27.7524
+              ],
+              "alpha": 0.8008,
+              "pivot": [
+                16.95,
+                17.15
+              ]
+            },
+            {
+              "duration": 5,
+              "scale": [
+                0.2197,
+                0.2197
+              ],
+              "ref": "gp_bubble",
+              "index": 13,
+              "loc": [
+                40.7086,
+                -47.6463
+              ],
+              "alpha": 0.6016,
+              "pivot": [
+                17.2,
+                16.95
+              ]
+            },
+            {
+              "duration": 5,
+              "scale": [
+                0.2197,
+                0.2197
+              ],
+              "ref": "gp_bubble",
+              "index": 18,
+              "loc": [
+                37.3537,
+                -63.2524
+              ],
+              "alpha": 0.3984,
+              "pivot": [
+                16.95,
+                17.15
+              ]
+            },
+            {
+              "duration": 5,
+              "scale": [
+                0.2197,
+                0.2197
+              ],
+              "ref": "gp_bubble",
+              "index": 23,
+              "loc": [
+                36.1427,
+                -76.1024
+              ],
+              "alpha": 0.1992,
+              "pivot": [
+                16.9,
+                17.15
+              ]
+            },
+            {
+              "duration": 1,
+              "scale": [
+                0.2197,
+                0.2197
+              ],
+              "ref": "gp_bubble",
+              "index": 28,
+              "loc": [
+                39.1037,
+                -93.2463
+              ],
+              "alpha": 0,
+              "pivot": [
+                16.95,
+                16.95
+              ]
+            }
+          ],
+          "name": "Layer 5"
+        }
+      ]
+    },
+    {
+      "id": "gp_germs_clear",
+      "layers": [
+        {
+          "keyframes": [
+            {
+              "duration": 2,
+              "skew": [
+                0.3091,
+                0.3091
+              ],
+              "ref": "particle_germ",
+              "pivot": [
+                40.85,
+                40.9
+              ],
+              "index": 0,
+              "loc": [
+                39.9516,
+                24.2875
+              ],
+              "scale": [
+                0.2356,
+                0.2356
+              ]
+            },
+            {
+              "duration": 2,
+              "skew": [
+                0.3064,
+                0.3064
+              ],
+              "ref": "particle_germ",
+              "pivot": [
+                41,
+                41.4
+              ],
+              "index": 2,
+              "loc": [
+                49.3056,
+                24.2519
+              ],
+              "alpha": 0.75,
+              "scale": [
+                0.2353,
+                0.2353
+              ]
+            },
+            {
+              "duration": 3,
+              "skew": [
+                0.3066,
+                0.3066
+              ],
+              "ref": "particle_germ",
+              "pivot": [
+                41,
+                41.4
+              ],
+              "index": 4,
+              "loc": [
+                63.3056,
+                20.3035
+              ],
+              "alpha": 0.5,
+              "scale": [
+                0.2354,
+                0.2354
+              ]
+            },
+            {
+              "duration": 3,
+              "skew": [
+                0.3063,
+                0.3063
+              ],
+              "ref": "particle_germ",
+              "pivot": [
+                40.95,
+                41.4
+              ],
+              "index": 7,
+              "loc": [
+                75.0446,
+                20.9479
+              ],
+              "alpha": 0.25,
+              "scale": [
+                0.2353,
+                0.2353
+              ]
+            },
+            {
+              "duration": 1,
+              "skew": [
+                0.3091,
+                0.3091
+              ],
+              "ref": "particle_germ",
+              "pivot": [
+                41.05,
+                41.4
+              ],
+              "index": 10,
+              "loc": [
+                91.4607,
+                31.914
+              ],
+              "alpha": 0.0117,
+              "scale": [
+                0.2356,
+                0.2356
+              ]
+            },
+            {
+              "duration": 19,
+              "index": 11
+            }
+          ],
+          "name": "Layer 1"
+        },
+        {
+          "keyframes": [
+            {
+              "duration": 2,
+              "skew": [
+                -2.9635,
+                0.1781
+              ],
+              "ref": "particle_germ",
+              "pivot": [
+                41.3,
+                41.4
+              ],
+              "index": 0,
+              "loc": [
+                41.9068,
+                57.0919
+              ],
+              "scale": [
+                0.2356,
+                0.2356
+              ]
+            },
+            {
+              "duration": 2,
+              "skew": [
+                -2.9663,
+                0.1753
+              ],
+              "ref": "particle_germ",
+              "pivot": [
+                41.3,
+                41.3
+              ],
+              "index": 2,
+              "loc": [
+                49.1449,
+                57.258
+              ],
+              "alpha": 0.75,
+              "scale": [
+                0.2354,
+                0.2354
+              ]
+            },
+            {
+              "duration": 3,
+              "skew": [
+                -2.966,
+                0.1756
+              ],
+              "ref": "particle_germ",
+              "pivot": [
+                41.3,
+                41.35
+              ],
+              "index": 4,
+              "loc": [
+                60.1981,
+                66.2469
+              ],
+              "alpha": 0.5,
+              "scale": [
+                0.2355,
+                0.2355
+              ]
+            },
+            {
+              "duration": 3,
+              "skew": [
+                -2.9665,
+                0.1751
+              ],
+              "ref": "particle_germ",
+              "pivot": [
+                41.35,
+                41.35
+              ],
+              "index": 7,
+              "loc": [
+                61.1577,
+                73.5482
+              ],
+              "alpha": 0.25,
+              "scale": [
+                0.2354,
+                0.2354
+              ]
+            },
+            {
+              "duration": 1,
+              "skew": [
+                -2.9635,
+                0.1781
+              ],
+              "ref": "particle_germ",
+              "pivot": [
+                41.3,
+                41.35
+              ],
+              "index": 10,
+              "loc": [
+                54.9047,
+                82.1035
+              ],
+              "alpha": 0.0117,
+              "scale": [
+                0.2356,
+                0.2356
+              ]
+            },
+            {
+              "duration": 19,
+              "index": 11
+            }
+          ],
+          "name": "Layer 2"
+        },
+        {
+          "keyframes": [
+            {
+              "duration": 2,
+              "skew": [
+                -0.8816,
+                2.26
+              ],
+              "ref": "particle_germ",
+              "pivot": [
+                41.1,
+                41.65
+              ],
+              "index": 0,
+              "loc": [
+                -19.7437,
+                -3.4441
+              ],
+              "scale": [
+                0.2356,
+                0.2356
+              ]
+            },
+            {
+              "duration": 2,
+              "skew": [
+                -0.8836,
+                2.258
+              ],
+              "ref": "particle_germ",
+              "pivot": [
+                41.3,
+                41.45
+              ],
+              "index": 2,
+              "loc": [
+                -29.2036,
+                -12.9966
+              ],
+              "alpha": 0.75,
+              "scale": [
+                0.2351,
+                0.2351
+              ]
+            },
+            {
+              "duration": 3,
+              "skew": [
+                -0.8834,
+                2.2582
+              ],
+              "ref": "particle_germ",
+              "pivot": [
+                41.3,
+                41.45
+              ],
+              "index": 4,
+              "loc": [
+                -33.304,
+                -23.4439
+              ],
+              "alpha": 0.5,
+              "scale": [
+                0.2352,
+                0.2352
+              ]
+            },
+            {
+              "duration": 3,
+              "skew": [
+                -0.8837,
+                2.2579
+              ],
+              "ref": "particle_germ",
+              "pivot": [
+                40.95,
+                41.2
+              ],
+              "index": 7,
+              "loc": [
+                -42.9965,
+                -28.4981
+              ],
+              "alpha": 0.25,
+              "scale": [
+                0.235,
+                0.235
+              ]
+            },
+            {
+              "duration": 1,
+              "skew": [
+                -0.8816,
+                2.26
+              ],
+              "ref": "particle_germ",
+              "pivot": [
+                40.85,
+                41.15
+              ],
+              "index": 10,
+              "loc": [
+                -51.2972,
+                -26.0645
+              ],
+              "alpha": 0.0117,
+              "scale": [
+                0.2356,
+                0.2356
+              ]
+            },
+            {
+              "duration": 19,
+              "index": 11
+            }
+          ],
+          "name": "Layer 3"
+        },
+        {
+          "keyframes": [
+            {
+              "duration": 2,
+              "skew": [
+                -0.0353,
+                -0.0353
+              ],
+              "ref": "particle_germ",
+              "pivot": [
+                40.7,
+                41.3
+              ],
+              "index": 0,
+              "loc": [
+                -33.4519,
+                59.347
+              ],
+              "scale": [
+                0.2356,
+                0.2356
+              ]
+            },
+            {
+              "duration": 2,
+              "skew": [
+                -0.035,
+                -0.035
+              ],
+              "ref": "particle_germ",
+              "pivot": [
+                40.7,
+                41.3
+              ],
+              "index": 2,
+              "loc": [
+                -43.9028,
+                62.5477
+              ],
+              "alpha": 0.75,
+              "scale": [
+                0.2356,
+                0.2356
+              ]
+            },
+            {
+              "duration": 3,
+              "skew": [
+                -0.035,
+                -0.035
+              ],
+              "ref": "particle_germ",
+              "pivot": [
+                40.75,
+                41.35
+              ],
+              "index": 4,
+              "loc": [
+                -50.7905,
+                68.6589
+              ],
+              "alpha": 0.5,
+              "scale": [
+                0.2356,
+                0.2356
+              ]
+            },
+            {
+              "duration": 3,
+              "skew": [
+                -0.035,
+                -0.035
+              ],
+              "ref": "particle_germ",
+              "pivot": [
+                40.75,
+                41.35
+              ],
+              "index": 7,
+              "loc": [
+                -55.2908,
+                78.8589
+              ],
+              "alpha": 0.25,
+              "scale": [
+                0.2356,
+                0.2356
+              ]
+            },
+            {
+              "duration": 1,
+              "skew": [
+                -0.0353,
+                -0.0353
+              ],
+              "ref": "particle_germ",
+              "pivot": [
+                40.7,
+                41.3
+              ],
+              "index": 10,
+              "loc": [
+                -54.4519,
+                90.347
+              ],
+              "alpha": 0.0117,
+              "scale": [
+                0.2356,
+                0.2356
+              ]
+            },
+            {
+              "duration": 19,
+              "index": 11
+            }
+          ],
+          "name": "Layer 4"
+        },
+        {
+          "keyframes": [
+            {
+              "duration": 2,
+              "skew": [
+                -3.1416,
+                3.1416
+              ],
+              "ref": "particle_germ",
+              "pivot": [
+                40.85,
+                41.35
+              ],
+              "index": 0,
+              "loc": [
+                41.7027,
+                -46.2973
+              ],
+              "scale": [
+                0.2356,
+                0.2356
+              ]
+            },
+            {
+              "duration": 2,
+              "skew": [
+                -3.1416,
+                3.1416
+              ],
+              "ref": "particle_germ",
+              "pivot": [
+                40.85,
+                41.35
+              ],
+              "index": 2,
+              "loc": [
+                52.5527,
+                -47.1973
+              ],
+              "alpha": 0.75,
+              "scale": [
+                0.2356,
+                0.2356
+              ]
+            },
+            {
+              "duration": 3,
+              "skew": [
+                -3.1416,
+                3.1416
+              ],
+              "ref": "particle_germ",
+              "pivot": [
+                40.85,
+                41.35
+              ],
+              "index": 4,
+              "loc": [
+                68.8027,
+                -43.4973
+              ],
+              "alpha": 0.5,
+              "scale": [
+                0.2356,
+                0.2356
+              ]
+            },
+            {
+              "duration": 3,
+              "skew": [
+                -3.1416,
+                3.1416
+              ],
+              "ref": "particle_germ",
+              "pivot": [
+                40.85,
+                41.4
+              ],
+              "index": 7,
+              "loc": [
+                81.3527,
+                -54.1091
+              ],
+              "alpha": 0.25,
+              "scale": [
+                0.2356,
+                0.2356
+              ]
+            },
+            {
+              "duration": 1,
+              "skew": [
+                -3.1416,
+                3.1416
+              ],
+              "ref": "particle_germ",
+              "pivot": [
+                40.85,
+                41.35
+              ],
+              "index": 10,
+              "loc": [
+                97.7027,
+                -56.2973
+              ],
+              "alpha": 0.0117,
+              "scale": [
+                0.2356,
+                0.2356
+              ]
+            },
+            {
+              "duration": 19,
+              "index": 11
+            }
+          ],
+          "name": "Layer 5"
+        },
+        {
+          "keyframes": [
+            {
+              "duration": 2,
+              "skew": [
+                2.7062,
+                -0.4354
+              ],
+              "ref": "particle_germ",
+              "pivot": [
+                41.05,
+                41.4
+              ],
+              "index": 0,
+              "loc": [
+                -24.0511,
+                -57.2482
+              ],
+              "scale": [
+                0.2356,
+                0.2356
+              ]
+            },
+            {
+              "duration": 2,
+              "skew": [
+                2.7084,
+                -0.4331
+              ],
+              "ref": "particle_germ",
+              "pivot": [
+                40.95,
+                41.2
+              ],
+              "index": 2,
+              "loc": [
+                -29.6975,
+                -69.2868
+              ],
+              "alpha": 0.75,
+              "scale": [
+                0.2352,
+                0.2352
+              ]
+            },
+            {
+              "duration": 3,
+              "skew": [
+                2.7082,
+                -0.4334
+              ],
+              "ref": "particle_germ",
+              "pivot": [
+                41,
+                41.45
+              ],
+              "index": 4,
+              "loc": [
+                -43.0117,
+                -73.7472
+              ],
+              "alpha": 0.5,
+              "scale": [
+                0.2353,
+                0.2353
+              ]
+            },
+            {
+              "duration": 3,
+              "skew": [
+                2.7085,
+                -0.4331
+              ],
+              "ref": "particle_germ",
+              "pivot": [
+                40.8,
+                41.4
+              ],
+              "index": 7,
+              "loc": [
+                -64.4493,
+                -70.064
+              ],
+              "alpha": 0.25,
+              "scale": [
+                0.2351,
+                0.2351
+              ]
+            },
+            {
+              "duration": 1,
+              "skew": [
+                2.7062,
+                -0.4354
+              ],
+              "ref": "particle_germ",
+              "pivot": [
+                41.3,
+                41.45
+              ],
+              "index": 10,
+              "loc": [
+                -79.0027,
+                -57.2838
+              ],
+              "alpha": 0.0117,
+              "scale": [
+                0.2356,
+                0.2356
+              ]
+            },
+            {
+              "duration": 19,
+              "index": 11
+            }
+          ],
+          "name": "Layer 6"
+        },
+        {
+          "keyframes": [
+            {
+              "duration": 2,
+              "skew": [
+                -0.5182,
+                2.6234
+              ],
+              "ref": "particle_germ",
+              "pivot": [
+                41.3,
+                41.55
+              ],
+              "index": 0,
+              "loc": [
+                -52.3014,
+                31.2998
+              ],
+              "scale": [
+                0.2356,
+                0.2356
+              ]
+            },
+            {
+              "duration": 2,
+              "skew": [
+                -0.5164,
+                2.6252
+              ],
+              "ref": "particle_germ",
+              "pivot": [
+                41.3,
+                41.6
+              ],
+              "index": 2,
+              "loc": [
+                -66.2498,
+                35.2013
+              ],
+              "alpha": 0.75,
+              "scale": [
+                0.2351,
+                0.2351
+              ]
+            },
+            {
+              "duration": 3,
+              "skew": [
+                -0.5165,
+                2.6251
+              ],
+              "ref": "particle_germ",
+              "pivot": [
+                41.3,
+                41.6
+              ],
+              "index": 4,
+              "loc": [
+                -80.95,
+                29.7534
+              ],
+              "alpha": 0.5,
+              "scale": [
+                0.2353,
+                0.2353
+              ]
+            },
+            {
+              "duration": 3,
+              "skew": [
+                -0.5163,
+                2.6253
+              ],
+              "ref": "particle_germ",
+              "pivot": [
+                41.3,
+                41.6
+              ],
+              "index": 7,
+              "loc": [
+                -87.8,
+                11.8004
+              ],
+              "alpha": 0.25,
+              "scale": [
+                0.2351,
+                0.2351
+              ]
+            },
+            {
+              "duration": 1,
+              "skew": [
+                -0.5182,
+                2.6234
+              ],
+              "ref": "particle_germ",
+              "pivot": [
+                41.35,
+                41.55
+              ],
+              "index": 10,
+              "loc": [
+                -81.8116,
+                -0.1944
+              ],
+              "alpha": 0.0117,
+              "scale": [
+                0.2356,
+                0.2356
+              ]
+            },
+            {
+              "duration": 19,
+              "index": 11
+            }
+          ],
+          "name": "Layer 7"
+        },
+        {
+          "keyframes": [
+            {
+              "duration": 2,
+              "skew": [
+                -0.685,
+                -0.685
+              ],
+              "ref": "particle_germ",
+              "pivot": [
+                41.05,
+                41.4
+              ],
+              "index": 0,
+              "loc": [
+                72.108,
+                -5.3168
+              ],
+              "scale": [
+                0.2356,
+                0.2356
+              ]
+            },
+            {
+              "duration": 2,
+              "skew": [
+                -0.6829,
+                -0.6829
+              ],
+              "ref": "particle_germ",
+              "pivot": [
+                41.05,
+                41.45
+              ],
+              "index": 2,
+              "loc": [
+                83.2066,
+                -5.0507
+              ],
+              "alpha": 0.75,
+              "scale": [
+                0.2351,
+                0.2351
+              ]
+            },
+            {
+              "duration": 3,
+              "skew": [
+                -0.6831,
+                -0.6831
+              ],
+              "ref": "particle_germ",
+              "pivot": [
+                41.05,
+                41.4
+              ],
+              "index": 4,
+              "loc": [
+                101.0513,
+                0.3896
+              ],
+              "alpha": 0.5,
+              "scale": [
+                0.2352,
+                0.2352
+              ]
+            },
+            {
+              "duration": 3,
+              "skew": [
+                -0.6828,
+                -0.6828
+              ],
+              "ref": "particle_germ",
+              "pivot": [
+                41.35,
+                41.4
+              ],
+              "index": 7,
+              "loc": [
+                117.5024,
+                -4.1042
+              ],
+              "alpha": 0.25,
+              "scale": [
+                0.235,
+                0.235
+              ]
+            },
+            {
+              "duration": 1,
+              "skew": [
+                -0.685,
+                -0.685
+              ],
+              "ref": "particle_germ",
+              "pivot": [
+                40.95,
+                41.4
+              ],
+              "index": 10,
+              "loc": [
+                127.0897,
+                -18.3019
+              ],
+              "alpha": 0.0117,
+              "scale": [
+                0.2356,
+                0.2356
+              ]
+            },
+            {
+              "duration": 19,
+              "index": 11
+            }
+          ],
+          "name": "Layer 8"
+        }
+      ]
+    },
+    {
+      "id": "gp_germs_idle",
+      "layers": [
+        {
+          "keyframes": [
+            {
+              "duration": 3,
+              "skew": [
+                0.3091,
+                0.3091
+              ],
+              "ref": "particle_germ",
+              "pivot": [
+                41,
+                41.35
+              ],
+              "index": 0,
+              "loc": [
+                32.453,
+                14.8992
+              ],
+              "scale": [
+                0.2356,
+                0.2356
+              ]
+            },
+            {
+              "duration": 3,
+              "skew": [
+                0.3091,
+                0.3091
+              ],
+              "ref": "particle_germ",
+              "pivot": [
+                40.95,
+                41.8
+              ],
+              "index": 3,
+              "loc": [
+                29.2596,
+                13.1466
+              ],
+              "scale": [
+                0.2356,
+                0.2356
+              ]
+            },
+            {
+              "duration": 3,
+              "skew": [
+                0.3091,
+                0.3091
+              ],
+              "ref": "particle_germ",
+              "pivot": [
+                41.2,
+                41.3
+              ],
+              "index": 6,
+              "loc": [
+                22.8015,
+                15.0023
+              ],
+              "scale": [
+                0.2356,
+                0.2356
+              ]
+            },
+            {
+              "duration": 3,
+              "skew": [
+                0.3091,
+                0.3091
+              ],
+              "ref": "particle_germ",
+              "pivot": [
+                41.2,
+                41.5
+              ],
+              "index": 9,
+              "loc": [
+                17.5372,
+                20.2972
+              ],
+              "scale": [
+                0.2356,
+                0.2356
+              ]
+            },
+            {
+              "duration": 3,
+              "skew": [
+                0.3091,
+                0.3091
+              ],
+              "ref": "particle_germ",
+              "pivot": [
+                40.7,
+                41.25
+              ],
+              "index": 12,
+              "loc": [
+                17.2429,
+                23.8553
+              ],
+              "scale": [
+                0.2356,
+                0.2356
+              ]
+            },
+            {
+              "duration": 3,
+              "skew": [
+                0.3091,
+                0.3091
+              ],
+              "ref": "particle_germ",
+              "pivot": [
+                41.15,
+                41.3
+              ],
+              "index": 15,
+              "loc": [
+                21.8403,
+                27.0487
+              ],
+              "scale": [
+                0.2356,
+                0.2356
+              ]
+            },
+            {
+              "duration": 3,
+              "skew": [
+                0.3091,
+                0.3091
+              ],
+              "ref": "particle_germ",
+              "pivot": [
+                40.95,
+                41.35
+              ],
+              "index": 18,
+              "loc": [
+                27.7918,
+                24.8956
+              ],
+              "scale": [
+                0.2356,
+                0.2356
+              ]
+            },
+            {
+              "duration": 2,
+              "skew": [
+                0.3091,
+                0.3091
+              ],
+              "ref": "particle_germ",
+              "pivot": [
+                40.85,
+                41.65
+              ],
+              "index": 21,
+              "loc": [
+                33.3979,
+                18.0558
+              ],
+              "scale": [
+                0.2356,
+                0.2356
+              ]
+            },
+            {
+              "duration": 1,
+              "skew": [
+                0.3091,
+                0.3091
+              ],
+              "ref": "particle_germ",
+              "pivot": [
+                41.05,
+                41.35
+              ],
+              "index": 23,
+              "loc": [
+                32.8143,
+                15.9028
+              ],
+              "scale": [
+                0.2356,
+                0.2356
+              ]
+            }
+          ],
+          "name": "Layer 1"
+        },
+        {
+          "keyframes": [
+            {
+              "duration": 2,
+              "skew": [
+                -2.9635,
+                0.1781
+              ],
+              "ref": "particle_germ",
+              "pivot": [
+                41.3,
+                41.35
+              ],
+              "index": 0,
+              "loc": [
+                25.4047,
+                62.6035
+              ],
+              "scale": [
+                0.2356,
+                0.2356
+              ]
+            },
+            {
+              "duration": 3,
+              "skew": [
+                -2.9635,
+                0.1781
+              ],
+              "ref": "particle_germ",
+              "pivot": [
+                41.05,
+                41.3
+              ],
+              "index": 2,
+              "loc": [
+                22.0947,
+                59.4046
+              ],
+              "scale": [
+                0.2356,
+                0.2356
+              ]
+            },
+            {
+              "duration": 3,
+              "skew": [
+                -2.9635,
+                0.1781
+              ],
+              "ref": "particle_germ",
+              "pivot": [
+                40.85,
+                41.35
+              ],
+              "index": 5,
+              "loc": [
+                19.8504,
+                52.2847
+              ],
+              "scale": [
+                0.2356,
+                0.2356
+              ]
+            },
+            {
+              "duration": 3,
+              "skew": [
+                -2.9635,
+                0.1781
+              ],
+              "ref": "particle_germ",
+              "pivot": [
+                41.25,
+                41.55
+              ],
+              "index": 8,
+              "loc": [
+                21.3515,
+                48.955
+              ],
+              "scale": [
+                0.2356,
+                0.2356
+              ]
+            },
+            {
+              "duration": 3,
+              "skew": [
+                -2.9635,
+                0.1781
+              ],
+              "ref": "particle_germ",
+              "pivot": [
+                41.05,
+                41.4
+              ],
+              "index": 11,
+              "loc": [
+                26.8988,
+                48.3314
+              ],
+              "scale": [
+                0.2356,
+                0.2356
+              ]
+            },
+            {
+              "duration": 3,
+              "skew": [
+                -2.9635,
+                0.1781
+              ],
+              "ref": "particle_germ",
+              "pivot": [
+                41.05,
+                41.5
+              ],
+              "index": 14,
+              "loc": [
+                31.203,
+                53.0082
+              ],
+              "scale": [
+                0.2356,
+                0.2356
+              ]
+            },
+            {
+              "duration": 3,
+              "skew": [
+                -2.9635,
+                0.1781
+              ],
+              "ref": "particle_germ",
+              "pivot": [
+                40.8,
+                41.45
+              ],
+              "index": 17,
+              "loc": [
+                32.843,
+                61.7594
+              ],
+              "scale": [
+                0.2356,
+                0.2356
+              ]
+            },
+            {
+              "duration": 3,
+              "skew": [
+                -2.9635,
+                0.1781
+              ],
+              "ref": "particle_germ",
+              "pivot": [
+                41,
+                41.55
+              ],
+              "index": 20,
+              "loc": [
+                30.5435,
+                64.0446
+              ],
+              "scale": [
+                0.2356,
+                0.2356
+              ]
+            },
+            {
+              "duration": 1,
+              "skew": [
+                -2.9635,
+                0.1781
+              ],
+              "ref": "particle_germ",
+              "pivot": [
+                41.05,
+                41.55
+              ],
+              "index": 23,
+              "loc": [
+                26.9551,
+                64.1467
+              ],
+              "scale": [
+                0.2356,
+                0.2356
+              ]
+            }
+          ],
+          "name": "Layer 2"
+        },
+        {
+          "keyframes": [
+            {
+              "duration": 3,
+              "skew": [
+                -0.8816,
+                2.26
+              ],
+              "ref": "particle_germ",
+              "pivot": [
+                41.1,
+                41.65
+              ],
+              "index": 0,
+              "loc": [
+                -2.2437,
+                -3.4441
+              ],
+              "scale": [
+                0.2356,
+                0.2356
+              ]
+            },
+            {
+              "duration": 3,
+              "skew": [
+                -0.8816,
+                2.26
+              ],
+              "ref": "particle_germ",
+              "pivot": [
+                40.6,
+                41.5
+              ],
+              "index": 3,
+              "loc": [
+                5.0539,
+                -1.9575
+              ],
+              "scale": [
+                0.2356,
+                0.2356
+              ]
+            },
+            {
+              "duration": 3,
+              "skew": [
+                -0.8816,
+                2.26
+              ],
+              "ref": "particle_germ",
+              "pivot": [
+                41.5,
+                41.45
+              ],
+              "index": 6,
+              "loc": [
+                7.21,
+                0.9487
+              ],
+              "scale": [
+                0.2356,
+                0.2356
+              ]
+            },
+            {
+              "duration": 3,
+              "skew": [
+                -0.8816,
+                2.26
+              ],
+              "ref": "particle_germ",
+              "pivot": [
+                41.15,
+                41.2
+              ],
+              "index": 9,
+              "loc": [
+                5.067,
+                6.0476
+              ],
+              "scale": [
+                0.2356,
+                0.2356
+              ]
+            },
+            {
+              "duration": 3,
+              "skew": [
+                -0.8816,
+                2.26
+              ],
+              "ref": "particle_germ",
+              "pivot": [
+                41.2,
+                41.15
+              ],
+              "index": 12,
+              "loc": [
+                -1.1496,
+                7.5992
+              ],
+              "scale": [
+                0.2356,
+                0.2356
+              ]
+            },
+            {
+              "duration": 3,
+              "skew": [
+                -0.8816,
+                2.26
+              ],
+              "ref": "particle_germ",
+              "pivot": [
+                41.2,
+                41.45
+              ],
+              "index": 15,
+              "loc": [
+                -9.5951,
+                4.7941
+              ],
+              "scale": [
+                0.2356,
+                0.2356
+              ]
+            },
+            {
+              "duration": 3,
+              "skew": [
+                -0.8816,
+                2.26
+              ],
+              "ref": "particle_germ",
+              "pivot": [
+                41.2,
+                41.1
+              ],
+              "index": 18,
+              "loc": [
+                -10.4587,
+                1.5917
+              ],
+              "scale": [
+                0.2356,
+                0.2356
+              ]
+            },
+            {
+              "duration": 2,
+              "skew": [
+                -0.8816,
+                2.26
+              ],
+              "ref": "particle_germ",
+              "pivot": [
+                40.65,
+                41.8
+              ],
+              "index": 21,
+              "loc": [
+                -8.649,
+                -1.6035
+              ],
+              "scale": [
+                0.2356,
+                0.2356
+              ]
+            },
+            {
+              "duration": 1,
+              "skew": [
+                -0.8816,
+                2.26
+              ],
+              "ref": "particle_germ",
+              "pivot": [
+                41.55,
+                41.7
+              ],
+              "index": 23,
+              "loc": [
+                -4.4021,
+                -2.7048
+              ],
+              "scale": [
+                0.2356,
+                0.2356
+              ]
+            }
+          ],
+          "name": "Layer 3"
+        },
+        {
+          "keyframes": [
+            {
+              "duration": 1,
+              "skew": [
+                -0.0353,
+                -0.0353
+              ],
+              "ref": "particle_germ",
+              "pivot": [
+                40.7,
+                41.3
+              ],
+              "index": 0,
+              "loc": [
+                -21.4519,
+                56.847
+              ],
+              "scale": [
+                0.2356,
+                0.2356
+              ]
+            },
+            {
+              "duration": 3,
+              "skew": [
+                -0.0353,
+                -0.0353
+              ],
+              "ref": "particle_germ",
+              "pivot": [
+                40.7,
+                41.75
+              ],
+              "index": 1,
+              "loc": [
+                -22.4981,
+                59.153
+              ],
+              "scale": [
+                0.2356,
+                0.2356
+              ]
+            },
+            {
+              "duration": 3,
+              "skew": [
+                -0.0353,
+                -0.0353
+              ],
+              "ref": "particle_germ",
+              "pivot": [
+                41.1,
+                41.35
+              ],
+              "index": 4,
+              "loc": [
+                -21.5073,
+                62.6055
+              ],
+              "scale": [
+                0.2356,
+                0.2356
+              ]
+            },
+            {
+              "duration": 3,
+              "skew": [
+                -0.0353,
+                -0.0353
+              ],
+              "ref": "particle_germ",
+              "pivot": [
+                41.35,
+                41.35
+              ],
+              "index": 7,
+              "loc": [
+                -16.0984,
+                64.0034
+              ],
+              "scale": [
+                0.2356,
+                0.2356
+              ]
+            },
+            {
+              "duration": 3,
+              "skew": [
+                -0.0353,
+                -0.0353
+              ],
+              "ref": "particle_germ",
+              "pivot": [
+                41.15,
+                41.35
+              ],
+              "index": 10,
+              "loc": [
+                -11.1455,
+                60.0551
+              ],
+              "scale": [
+                0.2356,
+                0.2356
+              ]
+            },
+            {
+              "duration": 3,
+              "skew": [
+                -0.0353,
+                -0.0353
+              ],
+              "ref": "particle_germ",
+              "pivot": [
+                40.95,
+                41.1
+              ],
+              "index": 13,
+              "loc": [
+                -8.2447,
+                51.6479
+              ],
+              "scale": [
+                0.2356,
+                0.2356
+              ]
+            },
+            {
+              "duration": 3,
+              "skew": [
+                -0.0353,
+                -0.0353
+              ],
+              "ref": "particle_germ",
+              "pivot": [
+                41.35,
+                41.3
+              ],
+              "index": 16,
+              "loc": [
+                -10.2488,
+                49.0416
+              ],
+              "scale": [
+                0.2356,
+                0.2356
+              ]
+            },
+            {
+              "duration": 3,
+              "skew": [
+                -0.0353,
+                -0.0353
+              ],
+              "ref": "particle_germ",
+              "pivot": [
+                41.35,
+                41.35
+              ],
+              "index": 19,
+              "loc": [
+                -13.7984,
+                48.3534
+              ],
+              "scale": [
+                0.2356,
+                0.2356
+              ]
+            },
+            {
+              "duration": 1,
+              "skew": [
+                -0.0353,
+                -0.0353
+              ],
+              "ref": "particle_germ",
+              "pivot": [
+                41.15,
+                41.55
+              ],
+              "index": 22,
+              "loc": [
+                -19.2939,
+                52.4521
+              ],
+              "scale": [
+                0.2356,
+                0.2356
+              ]
+            },
+            {
+              "duration": 1,
+              "skew": [
+                -0.0353,
+                -0.0353
+              ],
+              "ref": "particle_germ",
+              "pivot": [
+                41.1,
+                41.75
+              ],
+              "index": 23,
+              "loc": [
+                -20.304,
+                54.6996
+              ],
+              "scale": [
+                0.2356,
+                0.2356
+              ]
+            }
+          ],
+          "name": "Layer 4"
+        },
+        {
+          "keyframes": [
+            {
+              "duration": 2,
+              "skew": [
+                -3.1416,
+                3.1416
+              ],
+              "ref": "particle_germ",
+              "pivot": [
+                40.85,
+                41.35
+              ],
+              "index": 0,
+              "loc": [
+                31.2027,
+                -43.2973
+              ],
+              "scale": [
+                0.2356,
+                0.2356
+              ]
+            },
+            {
+              "duration": 3,
+              "skew": [
+                -3.1416,
+                3.1416
+              ],
+              "ref": "particle_germ",
+              "pivot": [
+                40.85,
+                41.55
+              ],
+              "index": 2,
+              "loc": [
+                30.6527,
+                -45.6444
+              ],
+              "scale": [
+                0.2356,
+                0.2356
+              ]
+            },
+            {
+              "duration": 3,
+              "skew": [
+                -3.1416,
+                3.1416
+              ],
+              "ref": "particle_germ",
+              "pivot": [
+                41.05,
+                41.35
+              ],
+              "index": 5,
+              "loc": [
+                25.3056,
+                -47.2973
+              ],
+              "scale": [
+                0.2356,
+                0.2356
+              ]
+            },
+            {
+              "duration": 3,
+              "skew": [
+                -3.1416,
+                3.1416
+              ],
+              "ref": "particle_germ",
+              "pivot": [
+                41.05,
+                41.35
+              ],
+              "index": 8,
+              "loc": [
+                20.2056,
+                -43.3973
+              ],
+              "scale": [
+                0.2356,
+                0.2356
+              ]
+            },
+            {
+              "duration": 3,
+              "skew": [
+                -3.1416,
+                3.1416
+              ],
+              "ref": "particle_germ",
+              "pivot": [
+                41.1,
+                41.6
+              ],
+              "index": 11,
+              "loc": [
+                16.9938,
+                -35.1562
+              ],
+              "scale": [
+                0.2356,
+                0.2356
+              ]
+            },
+            {
+              "duration": 3,
+              "skew": [
+                -3.1416,
+                3.1416
+              ],
+              "ref": "particle_germ",
+              "pivot": [
+                40.9,
+                41.6
+              ],
+              "index": 14,
+              "loc": [
+                18.8909,
+                -32.5062
+              ],
+              "scale": [
+                0.2356,
+                0.2356
+              ]
+            },
+            {
+              "duration": 3,
+              "skew": [
+                -3.1416,
+                3.1416
+              ],
+              "ref": "particle_germ",
+              "pivot": [
+                41.05,
+                41.35
+              ],
+              "index": 17,
+              "loc": [
+                22.4556,
+                -31.6973
+              ],
+              "scale": [
+                0.2356,
+                0.2356
+              ]
+            },
+            {
+              "duration": 3,
+              "skew": [
+                -3.1416,
+                3.1416
+              ],
+              "ref": "particle_germ",
+              "pivot": [
+                41.1,
+                41.6
+              ],
+              "index": 20,
+              "loc": [
+                28.0438,
+                -35.5562
+              ],
+              "scale": [
+                0.2356,
+                0.2356
+              ]
+            },
+            {
+              "duration": 1,
+              "skew": [
+                -3.1416,
+                3.1416
+              ],
+              "ref": "particle_germ",
+              "pivot": [
+                40.85,
+                41.6
+              ],
+              "index": 23,
+              "loc": [
+                31.4527,
+                -42.1062
+              ],
+              "scale": [
+                0.2356,
+                0.2356
+              ]
+            }
+          ],
+          "name": "Layer 5"
+        },
+        {
+          "keyframes": [
+            {
+              "duration": 1,
+              "skew": [
+                2.7062,
+                -0.4354
+              ],
+              "ref": "particle_germ",
+              "pivot": [
+                41.2,
+                41.6
+              ],
+              "index": 0,
+              "loc": [
+                -29.5389,
+                -46.8059
+              ],
+              "scale": [
+                0.2356,
+                0.2356
+              ]
+            },
+            {
+              "duration": 3,
+              "skew": [
+                2.7062,
+                -0.4354
+              ],
+              "ref": "particle_germ",
+              "pivot": [
+                40.9,
+                41.65
+              ],
+              "index": 1,
+              "loc": [
+                -28.208,
+                -48.0367
+              ],
+              "scale": [
+                0.2356,
+                0.2356
+              ]
+            },
+            {
+              "duration": 3,
+              "skew": [
+                2.7062,
+                -0.4354
+              ],
+              "ref": "particle_germ",
+              "pivot": [
+                41.2,
+                41.6
+              ],
+              "index": 4,
+              "loc": [
+                -21.9389,
+                -46.8059
+              ],
+              "scale": [
+                0.2356,
+                0.2356
+              ]
+            },
+            {
+              "duration": 3,
+              "skew": [
+                2.7062,
+                -0.4354
+              ],
+              "ref": "particle_germ",
+              "pivot": [
+                40.95,
+                41.25
+              ],
+              "index": 7,
+              "loc": [
+                -15.5576,
+                -40.5562
+              ],
+              "scale": [
+                0.2356,
+                0.2356
+              ]
+            },
+            {
+              "duration": 3,
+              "skew": [
+                2.7062,
+                -0.4354
+              ],
+              "ref": "particle_germ",
+              "pivot": [
+                41.15,
+                41.6
+              ],
+              "index": 10,
+              "loc": [
+                -16.1496,
+                -37.3509
+              ],
+              "scale": [
+                0.2356,
+                0.2356
+              ]
+            },
+            {
+              "duration": 3,
+              "skew": [
+                2.7062,
+                -0.4354
+              ],
+              "ref": "particle_germ",
+              "pivot": [
+                41.1,
+                41.55
+              ],
+              "index": 13,
+              "loc": [
+                -19.0553,
+                -35.1352
+              ],
+              "scale": [
+                0.2356,
+                0.2356
+              ]
+            },
+            {
+              "duration": 3,
+              "skew": [
+                2.7062,
+                -0.4354
+              ],
+              "ref": "particle_germ",
+              "pivot": [
+                40.95,
+                41.2
+              ],
+              "index": 16,
+              "loc": [
+                -25.7526,
+                -36.1456
+              ],
+              "scale": [
+                0.2356,
+                0.2356
+              ]
+            },
+            {
+              "duration": 3,
+              "skew": [
+                2.7062,
+                -0.4354
+              ],
+              "ref": "particle_germ",
+              "pivot": [
+                41.55,
+                41.4
+              ],
+              "index": 19,
+              "loc": [
+                -31.5443,
+                -40.7979
+              ],
+              "scale": [
+                0.2356,
+                0.2356
+              ]
+            },
+            {
+              "duration": 1,
+              "skew": [
+                2.7062,
+                -0.4354
+              ],
+              "ref": "particle_germ",
+              "pivot": [
+                41.25,
+                41.3
+              ],
+              "index": 22,
+              "loc": [
+                -32.3484,
+                -44.2967
+              ],
+              "scale": [
+                0.2356,
+                0.2356
+              ]
+            },
+            {
+              "duration": 1,
+              "skew": [
+                2.7062,
+                -0.4354
+              ],
+              "ref": "particle_germ",
+              "pivot": [
+                40.55,
+                41.4
+              ],
+              "index": 23,
+              "loc": [
+                -31.0579,
+                -45.4985
+              ],
+              "scale": [
+                0.2356,
+                0.2356
+              ]
+            }
+          ],
+          "name": "Layer 6"
+        },
+        {
+          "keyframes": [
+            {
+              "duration": 3,
+              "skew": [
+                -0.5182,
+                2.6234
+              ],
+              "ref": "particle_germ",
+              "pivot": [
+                41.3,
+                41.55
+              ],
+              "index": 0,
+              "loc": [
+                -41.3014,
+                25.2998
+              ],
+              "scale": [
+                0.2356,
+                0.2356
+              ]
+            },
+            {
+              "duration": 3,
+              "skew": [
+                -0.5182,
+                2.6234
+              ],
+              "ref": "particle_germ",
+              "pivot": [
+                40.9,
+                41.25
+              ],
+              "index": 3,
+              "loc": [
+                -48.1045,
+                19.5917
+              ],
+              "scale": [
+                0.2356,
+                0.2356
+              ]
+            },
+            {
+              "duration": 3,
+              "skew": [
+                -0.5182,
+                2.6234
+              ],
+              "ref": "particle_germ",
+              "pivot": [
+                41.3,
+                41.55
+              ],
+              "index": 6,
+              "loc": [
+                -47.9014,
+                16.3498
+              ],
+              "scale": [
+                0.2356,
+                0.2356
+              ]
+            },
+            {
+              "duration": 3,
+              "skew": [
+                -0.5182,
+                2.6234
+              ],
+              "ref": "particle_germ",
+              "pivot": [
+                41.5,
+                41.45
+              ],
+              "index": 9,
+              "loc": [
+                -45.204,
+                13.9526
+              ],
+              "scale": [
+                0.2356,
+                0.2356
+              ]
+            },
+            {
+              "duration": 3,
+              "skew": [
+                -0.5182,
+                2.6234
+              ],
+              "ref": "particle_germ",
+              "pivot": [
+                40.9,
+                41.8
+              ],
+              "index": 12,
+              "loc": [
+                -38.3403,
+                14.5042
+              ],
+              "scale": [
+                0.2356,
+                0.2356
+              ]
+            },
+            {
+              "duration": 3,
+              "skew": [
+                -0.5182,
+                2.6234
+              ],
+              "ref": "particle_germ",
+              "pivot": [
+                41,
+                41.45
+              ],
+              "index": 15,
+              "loc": [
+                -32.1016,
+                18.4943
+              ],
+              "scale": [
+                0.2356,
+                0.2356
+              ]
+            },
+            {
+              "duration": 3,
+              "skew": [
+                -0.5182,
+                2.6234
+              ],
+              "ref": "particle_germ",
+              "pivot": [
+                40.7,
+                41.4
+              ],
+              "index": 18,
+              "loc": [
+                -31.0461,
+                21.949
+              ],
+              "scale": [
+                0.2356,
+                0.2356
+              ]
+            },
+            {
+              "duration": 2,
+              "skew": [
+                -0.5182,
+                2.6234
+              ],
+              "ref": "particle_germ",
+              "pivot": [
+                41.2,
+                41.35
+              ],
+              "index": 21,
+              "loc": [
+                -35.0042,
+                25.9972
+              ],
+              "scale": [
+                0.2356,
+                0.2356
+              ]
+            },
+            {
+              "duration": 1,
+              "skew": [
+                -0.5182,
+                2.6234
+              ],
+              "ref": "particle_germ",
+              "pivot": [
+                40.7,
+                41.4
+              ],
+              "index": 23,
+              "loc": [
+                -39.1461,
+                25.449
+              ],
+              "scale": [
+                0.2356,
+                0.2356
+              ]
+            }
+          ],
+          "name": "Layer 7"
+        },
+        {
+          "keyframes": [
+            {
+              "duration": 1,
+              "skew": [
+                -0.685,
+                -0.685
+              ],
+              "ref": "particle_germ",
+              "pivot": [
+                40.95,
+                41.4
+              ],
+              "index": 0,
+              "loc": [
+                58.0897,
+                -13.3019
+              ],
+              "scale": [
+                0.2356,
+                0.2356
+              ]
+            },
+            {
+              "duration": 3,
+              "skew": [
+                -0.685,
+                -0.685
+              ],
+              "ref": "particle_germ",
+              "pivot": [
+                41,
+                42
+              ],
+              "index": 1,
+              "loc": [
+                57.2383,
+                -15.9999
+              ],
+              "scale": [
+                0.2356,
+                0.2356
+              ]
+            },
+            {
+              "duration": 3,
+              "skew": [
+                -0.685,
+                -0.685
+              ],
+              "ref": "particle_germ",
+              "pivot": [
+                40.95,
+                41.45
+              ],
+              "index": 4,
+              "loc": [
+                54.0972,
+                -16.9928
+              ],
+              "scale": [
+                0.2356,
+                0.2356
+              ]
+            },
+            {
+              "duration": 3,
+              "skew": [
+                -0.685,
+                -0.685
+              ],
+              "ref": "particle_germ",
+              "pivot": [
+                41,
+                41.7
+              ],
+              "index": 7,
+              "loc": [
+                50.7936,
+                -15.3546
+              ],
+              "scale": [
+                0.2356,
+                0.2356
+              ]
+            },
+            {
+              "duration": 3,
+              "skew": [
+                -0.685,
+                -0.685
+              ],
+              "ref": "particle_germ",
+              "pivot": [
+                40.6,
+                41.2
+              ],
+              "index": 10,
+              "loc": [
+                48.8461,
+                -8.8362
+              ],
+              "scale": [
+                0.2356,
+                0.2356
+              ]
+            },
+            {
+              "duration": 3,
+              "skew": [
+                -0.685,
+                -0.685
+              ],
+              "ref": "particle_germ",
+              "pivot": [
+                40.9,
+                41.6
+              ],
+              "index": 13,
+              "loc": [
+                50.4604,
+                -1.5079
+              ],
+              "scale": [
+                0.2356,
+                0.2356
+              ]
+            },
+            {
+              "duration": 3,
+              "skew": [
+                -0.685,
+                -0.685
+              ],
+              "ref": "particle_germ",
+              "pivot": [
+                41.3,
+                41.7
+              ],
+              "index": 16,
+              "loc": [
+                53.3483,
+                0.6507
+              ],
+              "scale": [
+                0.2356,
+                0.2356
+              ]
+            },
+            {
+              "duration": 3,
+              "skew": [
+                -0.685,
+                -0.685
+              ],
+              "ref": "particle_germ",
+              "pivot": [
+                41.1,
+                41.55
+              ],
+              "index": 19,
+              "loc": [
+                58.4395,
+                -1.4469
+              ],
+              "scale": [
+                0.2356,
+                0.2356
+              ]
+            },
+            {
+              "duration": 1,
+              "skew": [
+                -0.685,
+                -0.685
+              ],
+              "ref": "particle_germ",
+              "pivot": [
+                41.45,
+                41.25
+              ],
+              "index": 22,
+              "loc": [
+                59.9586,
+                -7.7038
+              ],
+              "scale": [
+                0.2356,
+                0.2356
+              ]
+            },
+            {
+              "duration": 1,
+              "skew": [
+                -0.685,
+                -0.685
+              ],
+              "ref": "particle_germ",
+              "pivot": [
+                40.9,
+                41.6
+              ],
+              "index": 23,
+              "loc": [
+                59.0604,
+                -10.4079
+              ],
+              "scale": [
+                0.2356,
+                0.2356
+              ]
+            }
+          ],
+          "name": "Layer 8"
+        }
+      ]
+    },
+    {
+      "id": "gp_juice_idle",
+      "layers": [
+        {
+          "keyframes": [
+            {
+              "duration": 7,
+              "ease": 0.5,
+              "scale": [
+                0.4026,
+                0.4026
+              ],
+              "ref": "collectible_juice",
+              "index": 0,
+              "loc": [
+                47.6961,
+                32.5001
+              ],
+              "pivot": [
+                20.95,
+                35.1
+              ]
+            }
+          ],
+          "name": "Layer 1"
+        }
+      ]
+    },
+    {
+      "id": "gp_projectile_tissue",
+      "layers": [
+        {
+          "keyframes": [
+            {
+              "duration": 4,
+              "skew": [
+                0.8856,
+                0.8856
+              ],
+              "ref": "projectile_tissue",
+              "pivot": [
+                89.7,
+                90
+              ],
+              "index": 0,
+              "loc": [
+                58.745,
+                59.2933
+              ],
+              "scale": [
+                0.3363,
+                0.3363
+              ]
+            },
+            {
+              "duration": 5,
+              "skew": [
+                1.0849,
+                0.6769
+              ],
+              "ref": "projectile_tissue",
+              "pivot": [
+                89.8,
+                90.05
+              ],
+              "index": 4,
+              "loc": [
+                46.6051,
+                59.3588
+              ],
+              "scale": [
+                0.3363,
+                0.3663
+              ]
+            },
+            {
+              "duration": 1,
+              "skew": [
+                0.8856,
+                0.8856
+              ],
+              "ref": "projectile_tissue",
+              "pivot": [
+                89.7,
+                90
+              ],
+              "index": 9,
+              "loc": [
+                58.745,
+                59.2933
+              ],
+              "scale": [
+                0.3363,
+                0.3363
+              ]
+            }
+          ],
+          "name": "Layer 2"
+        }
+      ]
+    },
+    {
+      "id": "gp_soup_idle",
+      "layers": [
+        {
+          "keyframes": [
+            {
+              "duration": 7,
+              "ease": 0.5,
+              "scale": [
+                0.4026,
+                0.4026
+              ],
+              "ref": "collectible_soup",
+              "index": 0,
+              "loc": [
+                47.6961,
+                32.5001
+              ],
+              "pivot": [
+                58.8,
+                58.1
+              ]
+            }
+          ],
+          "name": "Layer 1"
+        }
+      ]
+    },
+    {
+      "id": "gp_tissue_2_idle",
+      "layers": [
+        {
+          "keyframes": [
+            {
+              "duration": 7,
+              "ease": 0.5,
+              "scale": [
+                0.4026,
+                0.4026
+              ],
+              "ref": "collectible_tissue_2",
+              "index": 0,
+              "loc": [
+                47.6961,
+                32.5001
+              ],
+              "pivot": [
+                70.6,
+                57.6
+              ]
+            }
+          ],
+          "name": "Layer 1"
+        }
+      ]
+    },
+    {
+      "id": "gp_tissue_idle",
+      "layers": [
+        {
+          "keyframes": [
+            {
+              "duration": 7,
+              "ease": 0.5,
+              "scale": [
+                0.4026,
+                0.4026
+              ],
+              "ref": "collectible_tissue",
+              "index": 0,
+              "loc": [
+                47.6961,
+                32.5001
+              ],
+              "pivot": [
+                58.8,
+                58.1
+              ]
+            }
+          ],
+          "name": "Layer 1"
+        }
+      ]
+    },
+    {
+      "id": "hud_platforming",
+      "layers": [
+        {
+          "keyframes": [
+            {
+              "duration": 1,
+              "ref": "hud_bubble",
+              "tweened": false,
+              "index": 0,
+              "loc": [
+                110,
+                119.5
+              ],
+              "pivot": [
+                106,
+                106
+              ]
+            }
+          ],
+          "name": "bubble1"
+        },
+        {
+          "keyframes": [
+            {
+              "duration": 1,
+              "tweened": false,
+              "scale": [
+                0.8055,
+                0.8052
+              ],
+              "ref": "hud_tissuebox",
+              "index": 0,
+              "loc": [
+                58.2484,
+                66.3131
+              ],
+              "pivot": [
+                37.4,
+                44.5
+              ]
+            }
+          ],
+          "name": "tissue"
+        }
+      ]
+    },
+    {
+      "id": "~fx_environment_bubbles_source",
+      "layers": [
+        {
+          "keyframes": [
+            {
+              "duration": 5,
+              "scale": [
+                0.4593,
+                0.4593
+              ],
+              "ref": "gp_bubble",
+              "index": 0,
+              "loc": [
+                0.3481,
+                16.5522
+              ],
+              "alpha": 0.5,
+              "pivot": [
+                17,
+                16.9
+              ]
+            },
+            {
+              "duration": 8,
+              "scale": [
+                0.4593,
+                0.4593
+              ],
+              "ref": "gp_bubble",
+              "index": 5,
+              "loc": [
+                -7.3519,
+                19.6522
+              ],
+              "alpha": 0.5,
+              "pivot": [
+                17,
+                16.9
+              ]
+            },
+            {
+              "duration": 8,
+              "scale": [
+                0.4593,
+                0.4593
+              ],
+              "ref": "gp_bubble",
+              "index": 13,
+              "loc": [
+                -20.0019,
+                14.6522
+              ],
+              "alpha": 0.5,
+              "pivot": [
+                17,
+                16.9
+              ]
+            },
+            {
+              "duration": 8,
+              "scale": [
+                0.4593,
+                0.4593
+              ],
+              "ref": "gp_bubble",
+              "index": 21,
+              "loc": [
+                -7.5019,
+                9.6522
+              ],
+              "alpha": 0.5,
+              "pivot": [
+                17,
+                16.9
+              ]
+            },
+            {
+              "duration": 2,
+              "scale": [
+                0.4593,
+                0.4593
+              ],
+              "ref": "gp_bubble",
+              "index": 29,
+              "loc": [
+                4.9981,
+                14.6522
+              ],
+              "alpha": 0.5,
+              "pivot": [
+                17,
+                16.9
+              ]
+            },
+            {
+              "duration": 1,
+              "scale": [
+                0.4593,
+                0.4593
+              ],
+              "ref": "gp_bubble",
+              "index": 31,
+              "loc": [
+                1.8981,
+                15.8793
+              ],
+              "alpha": 0.5,
+              "pivot": [
+                17,
+                16.85
+              ]
+            }
+          ],
+          "name": "Layer 1"
+        },
+        {
+          "keyframes": [
+            {
+              "duration": 2,
+              "scale": [
+                0.4593,
+                0.4593
+              ],
+              "ref": "gp_bubble",
+              "index": 0,
+              "loc": [
+                -0.9019,
+                -17.0289
+              ],
+              "alpha": 0.5,
+              "pivot": [
+                17,
+                17.05
+              ]
+            },
+            {
+              "duration": 8,
+              "scale": [
+                0.4593,
+                0.4593
+              ],
+              "ref": "gp_bubble",
+              "index": 2,
+              "loc": [
+                -2.9019,
+                -16.0519
+              ],
+              "alpha": 0.5,
+              "pivot": [
+                17,
+                17
+              ]
+            },
+            {
+              "duration": 8,
+              "scale": [
+                0.4593,
+                0.4593
+              ],
+              "ref": "gp_bubble",
+              "index": 10,
+              "loc": [
+                4.6481,
+                -12.0519
+              ],
+              "alpha": 0.5,
+              "pivot": [
+                17,
+                17
+              ]
+            },
+            {
+              "duration": 8,
+              "scale": [
+                0.4593,
+                0.4593
+              ],
+              "ref": "gp_bubble",
+              "index": 18,
+              "loc": [
+                14.0981,
+                -16.0519
+              ],
+              "alpha": 0.5,
+              "pivot": [
+                17,
+                17
+              ]
+            },
+            {
+              "duration": 5,
+              "scale": [
+                0.4593,
+                0.4593
+              ],
+              "ref": "gp_bubble",
+              "index": 26,
+              "loc": [
+                5.0981,
+                -20.0519
+              ],
+              "alpha": 0.5,
+              "pivot": [
+                17,
+                17
+              ]
+            },
+            {
+              "duration": 1,
+              "scale": [
+                0.4593,
+                0.4593
+              ],
+              "ref": "gp_bubble",
+              "index": 31,
+              "loc": [
+                0.0981,
+                -17.5519
+              ],
+              "alpha": 0.5,
+              "pivot": [
+                17,
+                17
+              ]
+            }
+          ],
+          "name": "Layer 2"
+        },
+        {
+          "keyframes": [
+            {
+              "duration": 5,
+              "scale": [
+                0.3157,
+                0.3157
+              ],
+              "ref": "gp_bubble",
+              "index": 0,
+              "loc": [
+                6.2518,
+                -72.9509
+              ],
+              "alpha": 0.5,
+              "pivot": [
+                17,
+                17.15
+              ]
+            },
+            {
+              "duration": 8,
+              "scale": [
+                0.3157,
+                0.3157
+              ],
+              "ref": "gp_bubble",
+              "index": 5,
+              "loc": [
+                12.1518,
+                -70.4509
+              ],
+              "alpha": 0.5,
+              "pivot": [
+                17,
+                17.15
+              ]
+            },
+            {
+              "duration": 8,
+              "scale": [
+                0.3157,
+                0.3157
+              ],
+              "ref": "gp_bubble",
+              "index": 13,
+              "loc": [
+                2.0018,
+                -66.4509
+              ],
+              "alpha": 0.5,
+              "pivot": [
+                17,
+                17.15
+              ]
+            },
+            {
+              "duration": 8,
+              "scale": [
+                0.3157,
+                0.3157
+              ],
+              "ref": "gp_bubble",
+              "index": 21,
+              "loc": [
+                -6.8482,
+                -70.4509
+              ],
+              "alpha": 0.5,
+              "pivot": [
+                17,
+                17.15
+              ]
+            },
+            {
+              "duration": 2,
+              "scale": [
+                0.3157,
+                0.3157
+              ],
+              "ref": "gp_bubble",
+              "index": 29,
+              "loc": [
+                2.6518,
+                -74.4509
+              ],
+              "alpha": 0.5,
+              "pivot": [
+                17,
+                17.15
+              ]
+            },
+            {
+              "duration": 1,
+              "scale": [
+                0.3157,
+                0.3157
+              ],
+              "ref": "gp_bubble",
+              "index": 31,
+              "loc": [
+                5.0518,
+                -73.4509
+              ],
+              "alpha": 0.5,
+              "pivot": [
+                17,
+                17.15
+              ]
+            }
+          ],
+          "name": "Layer 3"
+        },
+        {
+          "keyframes": [
+            {
+              "duration": 2,
+              "scale": [
+                0.3157,
+                0.3157
+              ],
+              "ref": "gp_bubble",
+              "index": 0,
+              "loc": [
+                16.3018,
+                43.4886
+              ],
+              "alpha": 0.5,
+              "pivot": [
+                17,
+                16.8
+              ]
+            },
+            {
+              "duration": 8,
+              "scale": [
+                0.3157,
+                0.3157
+              ],
+              "ref": "gp_bubble",
+              "index": 2,
+              "loc": [
+                14.4518,
+                42.7544
+              ],
+              "alpha": 0.5,
+              "pivot": [
+                17,
+                16.85
+              ]
+            },
+            {
+              "duration": 8,
+              "scale": [
+                0.3157,
+                0.3157
+              ],
+              "ref": "gp_bubble",
+              "index": 10,
+              "loc": [
+                7.9518,
+                45.7544
+              ],
+              "alpha": 0.5,
+              "pivot": [
+                17,
+                16.85
+              ]
+            },
+            {
+              "duration": 8,
+              "scale": [
+                0.3157,
+                0.3157
+              ],
+              "ref": "gp_bubble",
+              "index": 18,
+              "loc": [
+                14.9018,
+                48.7544
+              ],
+              "alpha": 0.5,
+              "pivot": [
+                17,
+                16.85
+              ]
+            },
+            {
+              "duration": 5,
+              "scale": [
+                0.3157,
+                0.3157
+              ],
+              "ref": "gp_bubble",
+              "index": 26,
+              "loc": [
+                21.936,
+                45.7544
+              ],
+              "alpha": 0.5,
+              "pivot": [
+                16.95,
+                16.85
+              ]
+            },
+            {
+              "duration": 1,
+              "scale": [
+                0.3157,
+                0.3157
+              ],
+              "ref": "gp_bubble",
+              "index": 31,
+              "loc": [
+                17.2518,
+                43.9044
+              ],
+              "alpha": 0.5,
+              "pivot": [
+                17,
+                16.85
+              ]
+            }
+          ],
+          "name": "Layer 4"
+        },
+        {
+          "keyframes": [
+            {
+              "duration": 4,
+              "scale": [
+                0.2197,
+                0.2197
+              ],
+              "ref": "gp_bubble",
+              "index": 0,
+              "loc": [
+                3.8976,
+                88.4476
+              ],
+              "alpha": 0.5,
+              "pivot": [
+                17.15,
+                17.15
+              ]
+            },
+            {
+              "duration": 8,
+              "scale": [
+                0.2197,
+                0.2197
+              ],
+              "ref": "gp_bubble",
+              "index": 4,
+              "loc": [
+                -0.5524,
+                86.9586
+              ],
+              "alpha": 0.5,
+              "pivot": [
+                17.15,
+                17.2
+              ]
+            },
+            {
+              "duration": 8,
+              "scale": [
+                0.2197,
+                0.2197
+              ],
+              "ref": "gp_bubble",
+              "index": 12,
+              "loc": [
+                6.9476,
+                82.9476
+              ],
+              "alpha": 0.5,
+              "pivot": [
+                17.15,
+                17.15
+              ]
+            },
+            {
+              "duration": 8,
+              "scale": [
+                0.2197,
+                0.2197
+              ],
+              "ref": "gp_bubble",
+              "index": 20,
+              "loc": [
+                16.4476,
+                86.9586
+              ],
+              "alpha": 0.5,
+              "pivot": [
+                17.15,
+                17.2
+              ]
+            },
+            {
+              "duration": 3,
+              "scale": [
+                0.2197,
+                0.2197
+              ],
+              "ref": "gp_bubble",
+              "index": 28,
+              "loc": [
+                8.3086,
+                89.9586
+              ],
+              "alpha": 0.5,
+              "pivot": [
+                17.2,
+                17.2
+              ]
+            },
+            {
+              "duration": 1,
+              "scale": [
+                0.2197,
+                0.2197
+              ],
+              "ref": "gp_bubble",
+              "index": 31,
+              "loc": [
+                4.9976,
+                88.8586
+              ],
+              "alpha": 0.5,
+              "pivot": [
+                17.15,
+                17.2
+              ]
+            }
+          ],
+          "name": "Layer 5"
+        }
+      ]
+    }
+  ],
+  "md5": "845bf88cec0c9126f58a0f76e99bf08e",
+  "textureGroups": [
+    {
+      "scaleFactor": 1,
+      "atlases": [
+        {
+          "file": "atlas0.png",
+          "textures": [
+            {
+              "symbol": "collectible_tissue_2",
+              "origin": [
+                -32.85,
+                -16.3
+              ],
+              "rect": [
+                2,
+                2,
+                220,
+                190
+              ]
+            },
+            {
+              "symbol": "collectible_soup",
+              "origin": [
+                -44.65,
+                -15.8
+              ],
+              "rect": [
+                226,
+                2,
+                180,
+                180
+              ]
+            },
+            {
+              "symbol": "projectile_tissue",
+              "origin": [
+                0.05,
+                0
+              ],
+              "rect": [
+                226,
+                186,
+                180,
+                180
+              ]
+            },
+            {
+              "symbol": "collectible_tissue",
+              "origin": [
+                -44.65,
+                -15.8
+              ],
+              "rect": [
+                2,
+                196,
+                180,
+                180
+              ]
+            },
+            {
+              "symbol": "hud_bubble",
+              "origin": [
+                2,
+                2
+              ],
+              "rect": [
+                186,
+                370,
+                108,
+                108
+              ]
+            },
+            {
+              "symbol": "hud_tissuebox",
+              "origin": [
+                -59,
+                -16
+              ],
+              "rect": [
+                410,
+                2,
+                74,
+                88
+              ]
+            },
+            {
+              "symbol": "particle_germ",
+              "origin": [
+                30.25,
+                30.75
+              ],
+              "rect": [
+                410,
+                94,
+                80,
+                80
+              ]
+            },
+            {
+              "symbol": "gp_bubble",
+              "origin": [
+                1,
+                1
+              ],
+              "rect": [
+                410,
+                178,
+                34,
+                34
+              ]
+            }
+          ]
+        },
+        {
+          "file": "atlas1.png",
+          "textures": [
+            {
+              "symbol": "collectible_juice",
+              "origin": [
+                -82.5,
+                -38.8
+              ],
+              "rect": [
+                2,
+                2,
+                105,
+                151
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

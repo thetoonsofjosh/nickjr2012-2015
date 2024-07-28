@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ChunkLayout Width="3840" Height="1536">
+  <CollisionSegments>
+  </CollisionSegments>
+  <Placements>
+    <Placement X="336" Y="1491" PlacementType="Tool">
+    </Placement>
+    <Placement X="574" Y="1491" PlacementType="Tool">
+    </Placement>
+    <Placement X="796" Y="1490" PlacementType="Tool">
+    </Placement>
+    <Placement X="1014" Y="1491" PlacementType="Tool">
+    </Placement>
+    <Placement X="1256" Y="1491" PlacementType="Tool">
+    </Placement>
+    <Placement X="1527" Y="1490" PlacementType="Tool">
+    </Placement>
+    <Placement X="2256" Y="1491" PlacementType="Tool">
+    </Placement>
+    <Placement X="2494" Y="1491" PlacementType="Tool">
+    </Placement>
+    <Placement X="2716" Y="1490" PlacementType="Tool">
+    </Placement>
+    <Placement X="2934" Y="1491" PlacementType="Tool">
+    </Placement>
+    <Placement X="3176" Y="1491" PlacementType="Tool">
+    </Placement>
+    <Placement X="3447" Y="1490" PlacementType="Tool">
+    </Placement>
+  </Placements>
+</ChunkLayout>

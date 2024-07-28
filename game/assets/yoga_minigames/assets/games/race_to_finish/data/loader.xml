@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- preloads resources -->
+<BulkLoader >        
+	<name>gameLoaderRaceToFinish</name>        
+	<numConnections>5</numConnections>        
+	<logLevel>1</logLevel>
+	<useBaseURI>true</useBaseURI>
+	<files> 
+		<!-- <file> -->
+			<!-- <url>assets/scenes/ygg_intro.swf</url> -->                        
+			<!-- <id>ygg_intro</id> -->
+			<!-- <type>swf</type> -->
+			<!-- <weight>2</weight> -->
+			<!-- <maxTries>8.5</maxTries> -->
+			<!-- <preventCache>true</preventCache> -->
+			<!-- <priority>-100</priority> -->
+			<!-- <pausedAtStart>yes</pausedAtStart> -->
+			<!-- <headers>       -->                          
+				<!-- <header>        -->                                 
+					<!-- <name>Auth</name>      -->                                   
+					<!-- <value>somebody!</value>      -->                           
+				<!-- </header>         -->                
+			<!-- </headers>	 -->	
+			<!-- <context>       --> 	
+		<!-- </file> -->			
+		<!-- MINIGAME: RTF-->
+		<file>                        
+			<url>data/game.xml</url>                        
+			<id>gameConfigData</id>  
+			<type>xml</type>
+		</file> 			
+		<file>                        
+			<url>assets/container.swf</url>                        
+			<id>containerRTF</id>  
+			<type>swf</type>
+		</file>
+		
+		<!-- RUNNERS -->
+		<file>                        
+			<url>assets/characters/fo.swf</url>                        
+			<id>characterFO</id>  
+			<type>swf</type>
+		</file>
+		<file>                        
+			<url>assets/characters/br.swf</url>                        
+			<id>characterBR</id>  
+			<type>swf</type>
+		</file> 
+		<file>                        
+			<url>assets/characters/td.swf</url>                        
+			<id>characterTD</id>  
+			<type>swf</type>
+		</file>
+		<file>                        
+			<url>assets/characters/mu.swf</url>                        
+			<id>characterMU</id>  
+			<type>swf</type>
+		</file>
+		<file>                        
+			<url>assets/characters/pl.swf</url>                        
+			<id>characterPL</id>  
+			<type>swf</type>
+		</file>   
+
+		<file>                        
+			<url>assets/audio/audio.swf</url>                        
+			<id>audioLibrary</id>  
+			<type>swf</type>
+		</file> 		
+		<file>                        
+			<url>assets/scenes/ingame_intro.swf</url>                        
+			<id>ingame_intro</id>  
+			<type>swf</type>
+		</file> 			
+		
+	</files>  
+</BulkLoader >

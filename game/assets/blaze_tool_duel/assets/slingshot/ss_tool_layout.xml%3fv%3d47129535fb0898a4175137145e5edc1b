@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Scene Width="960" Height="832" Name="ss_tutorial_0_layout.xml">
+  <ImageDefs>
+    <Image ImageName="gp_tile_town0_underground" X="0" Y="512" ImageType="Pattern" PatternWidth="960" PatternHeight="128" />
+  </ImageDefs>
+</Scene>

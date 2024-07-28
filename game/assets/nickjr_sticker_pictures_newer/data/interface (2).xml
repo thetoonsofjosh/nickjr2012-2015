@@ -1,0 +1,13 @@
+<interface>
+	<element 
+		handle="MenuOptions"
+		classHandle="com.nickjr.app.creativity_center.view.gui.OptionMenu"
+		location="ui/OptionMenu.swf"
+		x="2"
+	/>
+	<element 
+		handle="StickersMenu"
+		classHandle="com.nickjr.app.creativity_center.view.gui.StickersMenu"
+		location="ui/StickersMenu.swf"
+	/>		
+</interface>

@@ -1,0 +1,302 @@
+<config>
+	<settings>
+		<debug>false</debug> <!-- Remove this line for deployment -->
+		<instructions>/game/assets/bubb_rhino/assets/video/Instructions.flv</instructions>
+		
+		<!-- <instructions>assets/video/Instructions.flv</instructions> -->
+		<groups>
+			<group>
+			  <item type="hazard" x="203.4" y="154.45"/>
+			  <item type="collectable" x="202.15" y="209.3"/>
+			  <item type="hazard" x="203.4" y="309.5"/>
+			  <item type="collectable" x="395.55" y="247.5"/>
+			  <item type="collectable" x="827.7" y="214.45"/>
+			  <item type="collectable" x="982.6" y="217.85"/>
+			  <item type="collectable" x="1124.65" y="261.45"/>
+			  <item type="hazard" x="829.45" y="309.5"/>
+			  <item type="hazard" x="1278.65" y="155.9"/>
+			  <item type="collectable" x="553.6" y="280.4"/>
+			  <item type="speed" x="685.6" y="225.3"/>
+			  <item type="collectable" x="1306.75" y="263.5"/>
+			</group>
+			<group>
+			  <item type="hazard" x="193.4" y="299.5"/>
+			  <item type="collectable" x="939.6" y="215.35"/>
+			  <item type="hazard" x="760.45" y="229.5"/>
+			  <item type="hazard" x="1297.55" y="163.45"/>
+			  <item type="collectable" x="380.6" y="285.35"/>
+			  <item type="collectable" x="1462.7" y="149.3"/>
+			  <item type="collectable" x="518.6" y="285.35"/>
+			  <item type="collectable" x="1070.6" y="215.35"/>
+			  <item type="collectable" x="1600.75" y="149.3"/>
+			</group>
+			<group>
+			  <item type="collectable" x="235.6" y="168.3"/>
+			  <item type="collectable" x="133.55" y="217.35"/>
+			  <item type="collectable" x="334.6" y="221.35"/>
+			  <item type="collectable" x="235.6" y="268.35"/>
+			</group>
+			<group>
+			  <item type="collectable" x="185.6" y="137.25"/>
+			  <item type="collectable" x="139.55" y="249.35"/>
+			  <item type="collectable" x="305.65" y="137.25"/>
+			  <item type="collectable" x="248.6" y="283.35"/>
+			  <item type="collectable" x="357.65" y="246.35"/>
+			  <item type="hazard" x="247.95" y="219.05"/>
+			</group>
+			<group>
+			  <item type="collectable" x="142.6" y="141.3"/>
+			  <item type="collectable" x="738.65" y="139.85"/>
+			  <item type="hazard" x="420.95" y="154"/>
+			  <item type="hazard" x="733" y="302.05"/>
+			  <item type="hazard" x="1457.05" y="302.05"/>
+			  <item type="collectable" x="1106.65" y="285.3"/>
+			</group>
+			<group>
+			  <item type="collectable" x="187.5" y="204.95"/>
+			  <item type="collectable" x="398.55" y="210.35"/>
+			  <item type="collectable" x="848.6" y="138.25"/>
+			  <item type="hazard" x="844.95" y="228.05"/>
+			  <item type="hazard" x="290.9" y="154.4"/>
+			  <item type="hazard" x="287.9" y="267.45"/>
+			  <item type="collectable" x="1049.6" y="140.25"/>
+			  <item type="collectable" x="656.6" y="138.25"/>
+			  <item type="speed" x="497.2" y="140.05"/>
+			  <item type="collectable" x="1225.6" y="194.25"/>
+			  <item type="collectable" x="1417.65" y="216.9"/>
+			</group>
+			<group>
+			  <item type="collectable" x="1014.75" y="216.35"/>
+			  <item type="collectable" x="652.6" y="216.35"/>
+			  <item type="collectable" x="840.7" y="217.35"/>
+			  <item type="speed" x="467.3" y="220.05"/>
+			  <item type="hazard" x="278.85" y="198.5"/>
+			  <item type="hazard" x="228.85" y="231.5"/>
+			  <item type="hazard" x="278.85" y="268.5"/>
+			</group>
+		</groups>
+	</settings>
+	<assets>
+				
+		<!-- Assets for the main section -->
+		<section id="preloader">
+			<asset id="mainSection" src="/game/assets/bubb_rhino/assets/main.swf" />
+		</section>
+
+		<section id="library">
+			<asset id="ui" src="/game/assets/bubb_rhino/assets/views/screens_ui.swf" />
+			<asset id="sounds" src="/game/assets/bubb_rhino/assets/background_audio_loops.swf" />
+			<asset id="items" src="/game/assets/bubb_rhino/assets/views/game_objects.swf" />
+			<asset id="animals" src="/game/assets/bubb_rhino/assets/views/animals.swf" />
+			<!-- <asset id="characters" src="/game/assets/bubb_rhino/assets/views/characters.swf" /> -->
+			<asset id="printable" src="/game/assets/bubb_rhino/assets/printable.swf" />
+		</section>
+		
+		<!-- Assets for the game itself -->
+		<section id="tiles">
+			<asset id="lev-1-fore" src="/game/assets/bubb_rhino/assets/images/ss_bg_fore.png" />
+			<asset id="lev-1-mid" src="/game/assets/bubb_rhino/assets/images/ss_bg_mid.png" />
+			<asset id="lev-1-back" src="/game/assets/bubb_rhino/assets/images/ss_bg_back.jpg" />
+			<asset id="caustic" src="/game/assets/bubb_rhino/assets/images/caustic_overlay.png" />
+		</section>
+		
+		<!-- Sounds -->
+		<sounds base="/game/assets/bubb_rhino/assets/sounds/">
+			
+			<pool id="title">
+				<asset id="intro" src="1_g.mp3" />
+			</pool>
+			<pool id="fx">
+				<asset id="jump" src="fx/jump_1.mp3" />
+				<asset id="collect" src="fx/pop_12.mp3" />
+				<asset id="correct" src="fx/correct_bright.mp3" />
+				<asset id="incorrect" src="fx/incorrect_bloop.mp3" />
+				<asset id="chime" src="fx/collect.mp3" />
+				<asset id="rollover" src="fx/rollover.mp3" />
+
+				<asset id="bench_hit" src="fx/bench_hit.mp3" overlap="noPlay" />
+				<asset id="fountain" src="fx/fountain_2.mp3" />
+				<asset id="garbage_can_hit" src="fx/garbage_can_hit_2.mp3" />
+				<asset id="ice_cream_cart_hit" src="fx/ice_cream_cart_hit.mp3" />
+				<asset id="puddle_slide" src="fx/puddle_slide.mp3" overlap="noPlay" />
+				<asset id="sign_hit" src="fx/sign_hit.mp3"  overlap="noPlay" />
+			</pool>
+			<pool id="stinger">
+				<asset id="generic" src="stingers/bglg_generic_transmusicv1.mp3" /> <!-- End of level / fanfare -->
+				<asset id="mini_0" src="stingers/bglg_tundra_minigameendv1.mp3" />
+				<asset id="mini_1" src="stingers/bglg_jungle_minigameendv2.mp3" />
+				<asset id="mini_2" src="stingers/bglg_savanna_minigameendv3_4.mp3" />
+				<!-- <asset id="end" src="stingers/bgsp_theme_endsfxv1.mp3" /> -->
+			</pool>
+			<pool id="button" overlap="playNew">
+				<asset id="click_play" src="buttons/2_m.mp3" />
+				<asset id="play" src="buttons/115_m.mp3" />
+				<asset id="skip" src="buttons/116_g.mp3" />
+				<asset id="print" src="buttons/117_m.mp3" />
+				<asset id="play_again" src="buttons/118_g.mp3" />
+				<asset id="next" src="buttons/119_m.mp3" />
+				<asset id="yes" src="buttons/yes.mp3" />
+				<asset id="no" src="buttons/no.mp3" />
+			</pool>
+
+			<pool id="intro">
+				<asset id="hi" src="3_m.mp3" />
+				<asset id="monty" src="4_g.mp3" />
+				<asset id="lonely" src="5_g.mp3" />
+				<asset id="need_friend" src="6_m.mp3" />
+				<asset id="yeah" src="7_g.mp3" />
+				<asset id="good_idea" src="8_m.mp3" />
+				<asset id="cmon" src="9_g.mp3" />
+			</pool>
+
+			<pool id="good">
+				<asset id="0" src="34_g.mp3" />
+				<asset id="1" src="35_m.mp3" />
+				<asset id="2" src="36_g.mp3" />
+				<asset id="3" src="37_g.mp3" />
+				<asset id="4" src="38_m.mp3" />
+				<asset id="5" src="39_g.mp3" />
+				<asset id="6" src="40_g.mp3" />
+				<asset id="7" src="41_m.mp3" />
+			</pool>
+
+			<pool id="hazard_collide">
+				<asset id="0" src="42_m.mp3" />
+				<asset id="1" src="43_g.mp3" />
+				<asset id="2" src="44_g.mp3" />
+				<asset id="3" src="45_m.mp3" />
+			</pool>
+
+			<pool id="hazard_inactivity">
+				<asset id="0" src="17_ALT_g.mp3" />
+				<asset id="1" src="21_g.mp3" />
+			</pool>
+
+
+			<pool id="level0_intro">
+				<asset id="0" src="22_m.mp3" />
+				<asset id="1" src="25_m.mp3" />
+				<asset id="2" src="26_m.mp3" />
+			</pool>
+
+			<pool id="level1_intro">
+				<asset id="0" src="23_m.mp3" />
+				<asset id="1" src="28_g.mp3" />
+				<asset id="2" src="29_g.mp3" />
+			</pool>
+
+			<pool id="level2_intro">
+				<asset id="0" src="24_m.mp3" />
+				<asset id="1" src="31_g.mp3" />
+				<asset id="2" src="32_g.mp3" />
+			</pool>
+
+			<pool id="scroll_exit">
+				<asset id="0" src="46_g.mp3" />
+				<asset id="1" src="47_m.mp3" />
+				<asset id="2" src="48_m.mp3" />
+			</pool>
+
+			<pool id="habitat_0">
+				<!-- Generic Reactions -->
+				<asset id="intro" src="45b_m.mp3" />
+				<asset id="pick" src="46_m.mp3" />
+				<asset id="incorrect" src="47b_m.mp3" />
+				<asset id="help" src="54_m.mp3" />
+				<asset id="yes_no" src="61_m.mp3" />
+				<asset id="exit" src="66b_m.mp3" />
+
+				<!-- Animal Reactions -->
+				<asset id="lion" src="48b_m.mp3" />
+				<asset id="crocodile" src="49_m.mp3" />
+				<asset id="gorilla" src="50_m.mp3" />
+				<asset id="chimp" src="51_m.mp3" />
+				<asset id="elephant" src="52_m.mp3" />
+				<asset id="hippo" src="53_m.mp3" />
+				<asset id="penguin" src="55_m.mp3" />
+				<asset id="polarBear" src="56_m.mp3" />
+				
+				<!-- Snack Reactions -->
+				<asset id="penguin_snack" src="58_m.mp3" />
+				<asset id="polarBear_snack" src="59_m.mp3" />
+
+				<!-- Yes/No reactions -->
+				<asset id="penguin_question" src="60_m.mp3" />
+				<asset id="penguin_yes" src="62_m.mp3" />
+				<asset id="penguin_no" src="63_m.mp3" />
+				<asset id="polarBear_question" src="64_m.mp3" />
+				<asset id="polarBear_yes" src="66_m.mp3" />
+				<asset id="polarBear_no" src="67_m.mp3" />
+			</pool>
+
+			<pool id="habitat_1">
+				<!-- Generic Reactions -->
+				<asset id="intro" src="67_g.mp3" />
+				<asset id="pick" src="68_g.mp3" />
+				<asset id="incorrect" src="69_g.mp3" />
+				<asset id="help" src="76_g.mp3" />
+				<asset id="yes_no" src="82_g.mp3" />
+				<asset id="exit" src="89_g.mp3" />
+
+				<!-- Animal Reactions -->
+				<asset id="penguin" src="70_g.mp3" />
+				<asset id="polarBear" src="71_g.mp3" />
+				<asset id="seal" src="72_g.mp3" />
+				<asset id="cow" src="73_g.mp3" />
+				<asset id="pig" src="74_g.mp3" />
+				<asset id="horse" src="75_g.mp3" />
+				<asset id="gorilla" src="77_g.mp3" />
+				<asset id="chimp" src="78_g.mp3" />
+				
+				<!-- Snack Reactions -->
+				<asset id="gorilla_snack" src="79_g.mp3" />
+				<asset id="chimp_snack" src="80_g.mp3" />
+
+				<!-- Yes/No reactions -->
+				<asset id="gorilla_question" src="81_g.mp3" />
+				<asset id="gorilla_yes" src="83_g.mp3" />
+				<asset id="gorilla_no" src="84_g.mp3" />
+				<asset id="chimp_question" src="85_g.mp3" />
+				<asset id="chimp_yes" src="87_g.mp3" />
+				<asset id="chimp_no" src="88_g.mp3" />
+			</pool>
+
+			<pool id="habitat_2">
+				<!-- Generic Reactions -->
+				<asset id="intro" src="90_m.mp3" />
+				<asset id="pick" src="91_g.mp3" />
+				<asset id="incorrect" src="92_g.mp3" />
+				<asset id="help" src="97_g.mp3" />
+				<asset id="yes_no" src="61_m.mp3" />
+				<asset id="exit" src="104_g.mp3" />
+
+				<!-- Animal Reactions -->
+				<asset id="penguin" src="70_g.mp3" />
+				<asset id="macaw" src="94_m.mp3" />
+				<asset id="chicken" src="95_g.mp3" />
+				<asset id="duck" src="96_g.mp3" />
+				<asset id="tickbird" src="98_m.mp3" />
+				
+				<!-- Snack Reactions -->
+				<asset id="tickbird_snack" src="99_g.mp3" />
+
+				<!-- Yes/No reactions -->
+				<asset id="tickbird_question" src="100_g.mp3" />
+				<asset id="tickbird_yes" src="103_m.mp3" />
+				<asset id="tickbird_no" src="102_m.mp3" />
+			</pool>
+			<pool id="end">
+				<asset id="0" src="105_g.mp3" />
+				<asset id="1" src="106_m.mp3" />
+				<asset id="2" src="107_m.mp3" />
+				<asset id="3" src="108_g.mp3" />
+				<asset id="4" src="109_m.mp3" />
+				
+				<!-- Button / Help VO -->
+				<asset id="click_play" src="110_m.mp3" />
+				<asset id="exit" src="111_g.mp3" />
+				<asset id="click_print" src="112_g.mp3" />
+			</pool>
+		</sounds>
+	</assets>
+</config>

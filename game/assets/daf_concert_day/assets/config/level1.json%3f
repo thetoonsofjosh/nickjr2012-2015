@@ -1,0 +1,1628 @@
+{
+    "world": {
+        "width": 21000,
+        "x": 0,
+        "y": 11,
+        "height": 375,
+        "gridWidth": 150,
+        "gridHeight": 148,
+        "cameraOffsetX": -430,
+        "cameraOffsetY": 0
+    },
+    "layers": [
+        {
+            "key": "FarBG",
+            "parallax": true,
+            "edit": false,
+            "objects": [
+                {
+                    "key": "Level1FarBG",
+                    "tile": true,
+                    "spriteID": "mc_farBackground_level1",
+                    "spriteBounds": {
+                        "x": 0,
+                        "y": 0
+                    }
+                }
+            ]
+        },
+        {
+            "key": "BG",
+            "parallax": false,
+            "edit": false,
+            "objects": [
+                {
+                    "key": "Level1BG",
+                    "tile": true,
+                    "spriteID": "mc_BG_level1",
+                    "spriteBounds": {
+                        "x": 0,
+                        "y": 0
+                    }
+                }
+            ]
+        },
+        {
+            "key": "Objects",
+            "parallax": false,
+            "edit": true,
+            "objects": [
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_sheetmusic_lane1",
+                    "spriteBounds": {
+                        "x": 1200,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": 19,
+                        "y": 135,
+                        "width": 61,
+                        "height": 23
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_obstacle1_level1",
+                    "spriteBounds": {
+                        "x": 1650,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": 65,
+                        "y": 135,
+                        "width": 75,
+                        "height": 30
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_sheetmusic_lane1",
+                    "spriteBounds": {
+                        "x": 3750,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": 19,
+                        "y": 135,
+                        "width": 61,
+                        "height": 23
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_obstacle1_level1",
+                    "spriteBounds": {
+                        "x": 5700,
+                        "y": 307
+                    },
+                    "hitBounds": {
+                        "x": 65,
+                        "y": 135,
+                        "width": 75,
+                        "height": 30
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_sheetmusic_lane1",
+                    "spriteBounds": {
+                        "x": 6300,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": 19,
+                        "y": 135,
+                        "width": 61,
+                        "height": 23
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_sheetmusic_lane1",
+                    "spriteBounds": {
+                        "x": 7500,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": 19,
+                        "y": 135,
+                        "width": 61,
+                        "height": 23
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_sheetmusic_lane1",
+                    "spriteBounds": {
+                        "x": 7800,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": 19,
+                        "y": 135,
+                        "width": 61,
+                        "height": 23
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_sheetmusic_lane1",
+                    "spriteBounds": {
+                        "x": 2550,
+                        "y": 11
+                    },
+                    "hitBounds": {
+                        "x": 19,
+                        "y": 135,
+                        "width": 61,
+                        "height": 23
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_obstacle1_level1",
+                    "spriteBounds": {
+                        "x": 2550,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": 65,
+                        "y": 135,
+                        "width": 75,
+                        "height": 30
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_obstacle2_level1",
+                    "spriteBounds": {
+                        "x": 3000,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": 16,
+                        "y": 134,
+                        "width": 198,
+                        "height": 35
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_sheetmusic_lane1",
+                    "spriteBounds": {
+                        "x": 3450,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": 19,
+                        "y": 135,
+                        "width": 61,
+                        "height": 23
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_sheetmusic_lane1",
+                    "spriteBounds": {
+                        "x": 4050,
+                        "y": 307
+                    },
+                    "hitBounds": {
+                        "x": 19,
+                        "y": 135,
+                        "width": 61,
+                        "height": 23
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_sheetmusic_lane1",
+                    "spriteBounds": {
+                        "x": 4500,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": 19,
+                        "y": 135,
+                        "width": 61,
+                        "height": 23
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_obstacle1_level1",
+                    "spriteBounds": {
+                        "x": 4800,
+                        "y": 307
+                    },
+                    "hitBounds": {
+                        "x": 65,
+                        "y": 135,
+                        "width": 75,
+                        "height": 30
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_obstacle2_level1",
+                    "spriteBounds": {
+                        "x": 6900,
+                        "y": 307
+                    },
+                    "hitBounds": {
+                        "x": 16,
+                        "y": 134,
+                        "width": 198,
+                        "height": 35
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_obstacle1_level1",
+                    "spriteBounds": {
+                        "x": 11700,
+                        "y": 307
+                    },
+                    "hitBounds": {
+                        "x": 65,
+                        "y": 135,
+                        "width": 75,
+                        "height": 30
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_sheetmusic_lane1",
+                    "spriteBounds": {
+                        "x": 2400,
+                        "y": 11
+                    },
+                    "hitBounds": {
+                        "x": 19,
+                        "y": 135,
+                        "width": 61,
+                        "height": 23
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_obstacle2_level1",
+                    "spriteBounds": {
+                        "x": 1350,
+                        "y": 11
+                    },
+                    "hitBounds": {
+                        "x": 16,
+                        "y": 134,
+                        "width": 198,
+                        "height": 35
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_obstacle1_level1",
+                    "spriteBounds": {
+                        "x": 3300,
+                        "y": 307
+                    },
+                    "hitBounds": {
+                        "x": 65,
+                        "y": 135,
+                        "width": 75,
+                        "height": 30
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_sheetmusic_lane1",
+                    "spriteBounds": {
+                        "x": 4800,
+                        "y": 11
+                    },
+                    "hitBounds": {
+                        "x": 19,
+                        "y": 135,
+                        "width": 61,
+                        "height": 23
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_obstacle2_level1",
+                    "spriteBounds": {
+                        "x": 10350,
+                        "y": 307
+                    },
+                    "hitBounds": {
+                        "x": 16,
+                        "y": 134,
+                        "width": 198,
+                        "height": 35
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_sheetmusic_lane1",
+                    "spriteBounds": {
+                        "x": 7200,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": 19,
+                        "y": 135,
+                        "width": 61,
+                        "height": 23
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_obstacle2_level1",
+                    "spriteBounds": {
+                        "x": 3750,
+                        "y": 11
+                    },
+                    "hitBounds": {
+                        "x": 16,
+                        "y": 134,
+                        "width": 198,
+                        "height": 35
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_sheetmusic_lane1",
+                    "spriteBounds": {
+                        "x": 900,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": 19,
+                        "y": 135,
+                        "width": 61,
+                        "height": 23
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_sheetmusic_lane1",
+                    "spriteBounds": {
+                        "x": 1650,
+                        "y": 307
+                    },
+                    "hitBounds": {
+                        "x": 19,
+                        "y": 135,
+                        "width": 61,
+                        "height": 23
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_sheetmusic_lane1",
+                    "spriteBounds": {
+                        "x": 2250,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": 19,
+                        "y": 135,
+                        "width": 61,
+                        "height": 23
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_sheetmusic_lane1",
+                    "spriteBounds": {
+                        "x": 2100,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": 19,
+                        "y": 135,
+                        "width": 61,
+                        "height": 23
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_obstacle2_level1",
+                    "spriteBounds": {
+                        "x": 6450,
+                        "y": 11
+                    },
+                    "hitBounds": {
+                        "x": 16,
+                        "y": 134,
+                        "width": 198,
+                        "height": 35
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_sheetmusic_lane1",
+                    "spriteBounds": {
+                        "x": 6600,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": 19,
+                        "y": 135,
+                        "width": 61,
+                        "height": 23
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_sheetmusic_lane1",
+                    "spriteBounds": {
+                        "x": 6900,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": 19,
+                        "y": 135,
+                        "width": 61,
+                        "height": 23
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_sheetmusic_lane1",
+                    "spriteBounds": {
+                        "x": 10950,
+                        "y": 11
+                    },
+                    "hitBounds": {
+                        "x": 19,
+                        "y": 135,
+                        "width": 61,
+                        "height": 23
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_obstacle2_level1",
+                    "spriteBounds": {
+                        "x": 11400,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": 16,
+                        "y": 134,
+                        "width": 198,
+                        "height": 35
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_sheetmusic_lane1",
+                    "spriteBounds": {
+                        "x": 11250,
+                        "y": 11
+                    },
+                    "hitBounds": {
+                        "x": 19,
+                        "y": 135,
+                        "width": 61,
+                        "height": 23
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_sheetmusic_lane1",
+                    "spriteBounds": {
+                        "x": 11550,
+                        "y": 11
+                    },
+                    "hitBounds": {
+                        "x": 19,
+                        "y": 135,
+                        "width": 61,
+                        "height": 23
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_sheetmusic_lane1",
+                    "spriteBounds": {
+                        "x": 11850,
+                        "y": 11
+                    },
+                    "hitBounds": {
+                        "x": 19,
+                        "y": 135,
+                        "width": 61,
+                        "height": 23
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_sheetmusic_lane1",
+                    "spriteBounds": {
+                        "x": 12150,
+                        "y": 11
+                    },
+                    "hitBounds": {
+                        "x": 19,
+                        "y": 135,
+                        "width": 61,
+                        "height": 23
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_sheetmusic_lane1",
+                    "spriteBounds": {
+                        "x": 12450,
+                        "y": 11
+                    },
+                    "hitBounds": {
+                        "x": 19,
+                        "y": 135,
+                        "width": 61,
+                        "height": 23
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_sheetmusic_lane1",
+                    "spriteBounds": {
+                        "x": 1500,
+                        "y": 307
+                    },
+                    "hitBounds": {
+                        "x": 19,
+                        "y": 135,
+                        "width": 61,
+                        "height": 23
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_sheetmusic_lane1",
+                    "spriteBounds": {
+                        "x": 2850,
+                        "y": 11
+                    },
+                    "hitBounds": {
+                        "x": 19,
+                        "y": 135,
+                        "width": 61,
+                        "height": 23
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_sheetmusic_lane1",
+                    "spriteBounds": {
+                        "x": 4200,
+                        "y": 307
+                    },
+                    "hitBounds": {
+                        "x": 19,
+                        "y": 135,
+                        "width": 61,
+                        "height": 23
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_obstacle1_level1",
+                    "spriteBounds": {
+                        "x": 4050,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": 65,
+                        "y": 135,
+                        "width": 75,
+                        "height": 30
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_sheetmusic_lane1",
+                    "spriteBounds": {
+                        "x": 4950,
+                        "y": 11
+                    },
+                    "hitBounds": {
+                        "x": 19,
+                        "y": 135,
+                        "width": 61,
+                        "height": 23
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_sheetmusic_lane1",
+                    "spriteBounds": {
+                        "x": 4650,
+                        "y": 11
+                    },
+                    "hitBounds": {
+                        "x": 19,
+                        "y": 135,
+                        "width": 61,
+                        "height": 23
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_obstacle2_level1",
+                    "spriteBounds": {
+                        "x": 5550,
+                        "y": 11
+                    },
+                    "hitBounds": {
+                        "x": 16,
+                        "y": 134,
+                        "width": 198,
+                        "height": 35
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_sheetmusic_lane1",
+                    "spriteBounds": {
+                        "x": 6000,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": 19,
+                        "y": 135,
+                        "width": 61,
+                        "height": 23
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_obstacle1_level1",
+                    "spriteBounds": {
+                        "x": 9450,
+                        "y": 307
+                    },
+                    "hitBounds": {
+                        "x": 65,
+                        "y": 135,
+                        "width": 75,
+                        "height": 30
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_obstacle1_level1",
+                    "spriteBounds": {
+                        "x": 12300,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": 65,
+                        "y": 135,
+                        "width": 75,
+                        "height": 30
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_sheetmusic_lane1",
+                    "spriteBounds": {
+                        "x": 13950,
+                        "y": 11
+                    },
+                    "hitBounds": {
+                        "x": 19,
+                        "y": 135,
+                        "width": 61,
+                        "height": 23
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_obstacle1_level1",
+                    "spriteBounds": {
+                        "x": 15000,
+                        "y": 11
+                    },
+                    "hitBounds": {
+                        "x": 65,
+                        "y": 135,
+                        "width": 75,
+                        "height": 30
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_obstacle2_level1",
+                    "spriteBounds": {
+                        "x": 15450,
+                        "y": 307
+                    },
+                    "hitBounds": {
+                        "x": 16,
+                        "y": 134,
+                        "width": 198,
+                        "height": 35
+                    }
+                },
+                {
+                    "collision": "region",
+                    "spriteID": "mc_speed_icon",
+                    "spriteBounds": {
+                        "x": 5250,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": -8,
+                        "y": 129,
+                        "width": 143,
+                        "height": 40
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_obstacle1_level1",
+                    "spriteBounds": {
+                        "x": 8100,
+                        "y": 307
+                    },
+                    "hitBounds": {
+                        "x": 65,
+                        "y": 135,
+                        "width": 75,
+                        "height": 30
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_sheetmusic_lane1",
+                    "spriteBounds": {
+                        "x": 12750,
+                        "y": 11
+                    },
+                    "hitBounds": {
+                        "x": 19,
+                        "y": 135,
+                        "width": 61,
+                        "height": 23
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_sheetmusic_lane1",
+                    "spriteBounds": {
+                        "x": 13050,
+                        "y": 11
+                    },
+                    "hitBounds": {
+                        "x": 19,
+                        "y": 135,
+                        "width": 61,
+                        "height": 23
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_sheetmusic_lane1",
+                    "spriteBounds": {
+                        "x": 16350,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": 19,
+                        "y": 135,
+                        "width": 61,
+                        "height": 23
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_obstacle1_level1",
+                    "spriteBounds": {
+                        "x": 16200,
+                        "y": 11
+                    },
+                    "hitBounds": {
+                        "x": 65,
+                        "y": 135,
+                        "width": 75,
+                        "height": 30
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_obstacle2_level1",
+                    "spriteBounds": {
+                        "x": 17250,
+                        "y": 307
+                    },
+                    "hitBounds": {
+                        "x": 16,
+                        "y": 134,
+                        "width": 198,
+                        "height": 35
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_obstacle2_level1",
+                    "spriteBounds": {
+                        "x": 9150,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": 16,
+                        "y": 134,
+                        "width": 198,
+                        "height": 35
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_sheetmusic_lane1",
+                    "spriteBounds": {
+                        "x": 9600,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": 19,
+                        "y": 135,
+                        "width": 61,
+                        "height": 23
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_sheetmusic_lane1",
+                    "spriteBounds": {
+                        "x": 9900,
+                        "y": 307
+                    },
+                    "hitBounds": {
+                        "x": 19,
+                        "y": 135,
+                        "width": 61,
+                        "height": 23
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_obstacle1_level1",
+                    "spriteBounds": {
+                        "x": 10950,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": 65,
+                        "y": 135,
+                        "width": 75,
+                        "height": 30
+                    }
+                },
+                {
+                    "collision": "region",
+                    "spriteID": "mc_speed_icon",
+                    "spriteBounds": {
+                        "x": 10500,
+                        "y": 11
+                    },
+                    "hitBounds": {
+                        "x": -8,
+                        "y": 129,
+                        "width": 143,
+                        "height": 40
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_sheetmusic_lane1",
+                    "spriteBounds": {
+                        "x": 10200,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": 19,
+                        "y": 135,
+                        "width": 61,
+                        "height": 23
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_sheetmusic_lane1",
+                    "spriteBounds": {
+                        "x": 10350,
+                        "y": 11
+                    },
+                    "hitBounds": {
+                        "x": 19,
+                        "y": 135,
+                        "width": 61,
+                        "height": 23
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_obstacle2_level1",
+                    "spriteBounds": {
+                        "x": 8550,
+                        "y": 11
+                    },
+                    "hitBounds": {
+                        "x": 16,
+                        "y": 134,
+                        "width": 198,
+                        "height": 35
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_sheetmusic_lane1",
+                    "spriteBounds": {
+                        "x": 13350,
+                        "y": 11
+                    },
+                    "hitBounds": {
+                        "x": 19,
+                        "y": 135,
+                        "width": 61,
+                        "height": 23
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_sheetmusic_lane1",
+                    "spriteBounds": {
+                        "x": 13650,
+                        "y": 11
+                    },
+                    "hitBounds": {
+                        "x": 19,
+                        "y": 135,
+                        "width": 61,
+                        "height": 23
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_sheetmusic_lane1",
+                    "spriteBounds": {
+                        "x": 14250,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": 19,
+                        "y": 135,
+                        "width": 61,
+                        "height": 23
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_sheetmusic_lane1",
+                    "spriteBounds": {
+                        "x": 14550,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": 19,
+                        "y": 135,
+                        "width": 61,
+                        "height": 23
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_sheetmusic_lane1",
+                    "spriteBounds": {
+                        "x": 14400,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": 19,
+                        "y": 135,
+                        "width": 61,
+                        "height": 23
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_obstacle1_level1",
+                    "spriteBounds": {
+                        "x": 7650,
+                        "y": 11
+                    },
+                    "hitBounds": {
+                        "x": 65,
+                        "y": 135,
+                        "width": 75,
+                        "height": 30
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_obstacle2_level1",
+                    "spriteBounds": {
+                        "x": 12900,
+                        "y": 307
+                    },
+                    "hitBounds": {
+                        "x": 16,
+                        "y": 134,
+                        "width": 198,
+                        "height": 35
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_obstacle1_level1",
+                    "spriteBounds": {
+                        "x": 13800,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": 65,
+                        "y": 135,
+                        "width": 75,
+                        "height": 30
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_sheetmusic_lane1",
+                    "spriteBounds": {
+                        "x": 14850,
+                        "y": 307
+                    },
+                    "hitBounds": {
+                        "x": 19,
+                        "y": 135,
+                        "width": 61,
+                        "height": 23
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_sheetmusic_lane1",
+                    "spriteBounds": {
+                        "x": 15000,
+                        "y": 307
+                    },
+                    "hitBounds": {
+                        "x": 19,
+                        "y": 135,
+                        "width": 61,
+                        "height": 23
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_sheetmusic_lane1",
+                    "spriteBounds": {
+                        "x": 15450,
+                        "y": 11
+                    },
+                    "hitBounds": {
+                        "x": 19,
+                        "y": 135,
+                        "width": 61,
+                        "height": 23
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_sheetmusic_lane1",
+                    "spriteBounds": {
+                        "x": 15300,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": 19,
+                        "y": 135,
+                        "width": 61,
+                        "height": 23
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_sheetmusic_lane1",
+                    "spriteBounds": {
+                        "x": 15750,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": 19,
+                        "y": 135,
+                        "width": 61,
+                        "height": 23
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_sheetmusic_lane1",
+                    "spriteBounds": {
+                        "x": 17250,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": 19,
+                        "y": 135,
+                        "width": 61,
+                        "height": 23
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_sheetmusic_lane1",
+                    "spriteBounds": {
+                        "x": 17550,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": 19,
+                        "y": 135,
+                        "width": 61,
+                        "height": 23
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_sheetmusic_lane1",
+                    "spriteBounds": {
+                        "x": 17850,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": 19,
+                        "y": 135,
+                        "width": 61,
+                        "height": 23
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_sheetmusic_lane1",
+                    "spriteBounds": {
+                        "x": 18150,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": 19,
+                        "y": 135,
+                        "width": 61,
+                        "height": 23
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_sheetmusic_lane1",
+                    "spriteBounds": {
+                        "x": 18450,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": 19,
+                        "y": 135,
+                        "width": 61,
+                        "height": 23
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_sheetmusic_lane1",
+                    "spriteBounds": {
+                        "x": 18750,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": 19,
+                        "y": 135,
+                        "width": 61,
+                        "height": 23
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_obstacle2_level1",
+                    "spriteBounds": {
+                        "x": 17850,
+                        "y": 11
+                    },
+                    "hitBounds": {
+                        "x": 16,
+                        "y": 134,
+                        "width": 198,
+                        "height": 35
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_obstacle1_level1",
+                    "spriteBounds": {
+                        "x": 18450,
+                        "y": 307
+                    },
+                    "hitBounds": {
+                        "x": 65,
+                        "y": 135,
+                        "width": 75,
+                        "height": 30
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_sheetmusic_lane1",
+                    "spriteBounds": {
+                        "x": 19050,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": 19,
+                        "y": 135,
+                        "width": 61,
+                        "height": 23
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_obstacle2_level1",
+                    "spriteBounds": {
+                        "x": 18900,
+                        "y": 11
+                    },
+                    "hitBounds": {
+                        "x": 16,
+                        "y": 134,
+                        "width": 198,
+                        "height": 35
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_sheetmusic_lane1",
+                    "spriteBounds": {
+                        "x": 19350,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": 19,
+                        "y": 135,
+                        "width": 61,
+                        "height": 23
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_sheetmusic_lane1",
+                    "spriteBounds": {
+                        "x": 19650,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": 19,
+                        "y": 135,
+                        "width": 61,
+                        "height": 23
+                    }
+                },
+                {
+                    "collision": "region",
+                    "spriteID": "mc_speed_icon",
+                    "spriteBounds": {
+                        "x": 16650,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": -8,
+                        "y": 129,
+                        "width": 143,
+                        "height": 40
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_sheetmusic_lane1",
+                    "spriteBounds": {
+                        "x": 15900,
+                        "y": 307
+                    },
+                    "hitBounds": {
+                        "x": 19,
+                        "y": 135,
+                        "width": 61,
+                        "height": 23
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_sheetmusic_lane1",
+                    "spriteBounds": {
+                        "x": 16050,
+                        "y": 307
+                    },
+                    "hitBounds": {
+                        "x": 19,
+                        "y": 135,
+                        "width": 61,
+                        "height": 23
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_sheetmusic_lane1",
+                    "spriteBounds": {
+                        "x": 16200,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": 19,
+                        "y": 135,
+                        "width": 61,
+                        "height": 23
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_sheetmusic_lane1",
+                    "spriteBounds": {
+                        "x": 16950,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": 19,
+                        "y": 135,
+                        "width": 61,
+                        "height": 23
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_sheetmusic_lane1",
+                    "spriteBounds": {
+                        "x": 19950,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": 19,
+                        "y": 135,
+                        "width": 61,
+                        "height": 23
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_sheetmusic_lane1",
+                    "spriteBounds": {
+                        "x": 20250,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": 19,
+                        "y": 135,
+                        "width": 61,
+                        "height": 23
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_obstacle1_level1",
+                    "spriteBounds": {
+                        "x": 20400,
+                        "y": 11
+                    },
+                    "hitBounds": {
+                        "x": 65,
+                        "y": 135,
+                        "width": 75,
+                        "height": 30
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_obstacle2_level1",
+                    "spriteBounds": {
+                        "x": 19650,
+                        "y": 307
+                    },
+                    "hitBounds": {
+                        "x": 16,
+                        "y": 134,
+                        "width": 198,
+                        "height": 35
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_sheetmusic_lane1",
+                    "spriteBounds": {
+                        "x": 3150,
+                        "y": 11
+                    },
+                    "hitBounds": {
+                        "x": 19,
+                        "y": 135,
+                        "width": 61,
+                        "height": 23
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_sheetmusic_lane1",
+                    "spriteBounds": {
+                        "x": 1800,
+                        "y": 307
+                    },
+                    "hitBounds": {
+                        "x": 19,
+                        "y": 135,
+                        "width": 61,
+                        "height": 23
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_sheetmusic_lane1",
+                    "spriteBounds": {
+                        "x": 5700,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": 19,
+                        "y": 135,
+                        "width": 61,
+                        "height": 23
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_sheetmusic_lane1",
+                    "spriteBounds": {
+                        "x": 5400,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": 19,
+                        "y": 135,
+                        "width": 61,
+                        "height": 23
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_sheetmusic_lane1",
+                    "spriteBounds": {
+                        "x": 8100,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": 19,
+                        "y": 135,
+                        "width": 61,
+                        "height": 23
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_sheetmusic_lane1",
+                    "spriteBounds": {
+                        "x": 8400,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": 19,
+                        "y": 135,
+                        "width": 61,
+                        "height": 23
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_sheetmusic_lane1",
+                    "spriteBounds": {
+                        "x": 8700,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": 19,
+                        "y": 135,
+                        "width": 61,
+                        "height": 23
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_sheetmusic_lane1",
+                    "spriteBounds": {
+                        "x": 9000,
+                        "y": 11
+                    },
+                    "hitBounds": {
+                        "x": 19,
+                        "y": 135,
+                        "width": 61,
+                        "height": 23
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_sheetmusic_lane1",
+                    "spriteBounds": {
+                        "x": 9300,
+                        "y": 11
+                    },
+                    "hitBounds": {
+                        "x": 19,
+                        "y": 135,
+                        "width": 61,
+                        "height": 23
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_sheetmusic_lane1",
+                    "spriteBounds": {
+                        "x": 9150,
+                        "y": 11
+                    },
+                    "hitBounds": {
+                        "x": 19,
+                        "y": 135,
+                        "width": 61,
+                        "height": 23
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_sheetmusic_lane1",
+                    "spriteBounds": {
+                        "x": 15150,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": 19,
+                        "y": 135,
+                        "width": 61,
+                        "height": 23
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_sheetmusic_lane1",
+                    "spriteBounds": {
+                        "x": 15600,
+                        "y": 11
+                    },
+                    "hitBounds": {
+                        "x": 19,
+                        "y": 135,
+                        "width": 61,
+                        "height": 23
+                    }
+                }
+            ]
+        },
+        {
+            "key": "Hero",
+            "parallax": false,
+            "objects": [
+                {
+                    "key": "Dora1",
+                    "collision": "player",
+                    "spriteID": "mc_dora_level1",
+                    "spriteBounds": {
+                        "x": 80,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": 10,
+                        "y": 95,
+                        "width": 200,
+                        "height": 63
+                    }
+                }
+            ]
+        }
+    ]
+}

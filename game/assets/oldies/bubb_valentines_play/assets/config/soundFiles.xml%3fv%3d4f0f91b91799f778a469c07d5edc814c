@@ -1,0 +1,341 @@
+<data dir="mp3/">
+	<music channel="music" volume="50">
+		<sound file="V-Day_Music_01v4sting" id="titleSting" loops="0" volume="40" inLibrary="false" packName="primary" />
+		<sound file="IntroLoopMusic" id="mainLoop" loops="999" volume="35" inLibrary="false" packName="primary" />
+		<sound file="V-Day_Music_01v4" id="openSceneMusic" loops="999" volume="50" inLibrary="false" packName="primary" />
+		<sound file="BadGutSwipe" loops="1" volume="60" inLibrary="false" packName="primary" />
+		<sound file="ChaseLoop" loops="999" volume="40" inLibrary="false" packName="primary" />
+		<sound file="ChaseDone" loops="0" volume="40" inLibrary="false" packName="primary" />
+		<sound file="ChaseLoopIntro" loops="999" volume="30" inLibrary="false" packName="primary" />
+		<sound file="HeroMusic_v2intro" id="GoopMusic" loops="999" volume="40" inLibrary="false" packName="primary" />
+		<sound file="HeroMusic_v2" id="HeroMusic" loops="999" volume="40" inLibrary="false" packName="primary" />
+	</music>
+	
+	<sfx channel="sfx" volume="50" muteable="true">
+
+		<sound file="WaWa" volume="40" inLibrary="false" packName="primary" />
+		<sound file="goop2" volume="100" inLibrary="false" packName="primary" />
+
+		<sound file="bubbleRise" volume="20" inLibrary="false" packName="primary" />
+		<sound file="queenGift1" id="gift1Open" volume="70" inLibrary="false" packName="primary" />
+		<sound file="queenGift2" id="gift2Open" volume="70" inLibrary="false" packName="primary" />
+		<sound file="queenGift3" id="gift3Open" volume="70" inLibrary="false" packName="primary" />
+		<sound file="select1a" volume="40" inLibrary="false" packName="primary" />
+
+		<sound file="eyeBalls1" volume="50" inLibrary="false" packName="primary" />
+		<sound file="eyeBalls2" volume="50" inLibrary="false" packName="primary" />
+		<sound file="eyeBalls3" volume="50" inLibrary="false" packName="primary" />
+
+		<!-- Scene 1 -->
+		<sound file="Gil_Enter" volume="40" inLibrary="false" packName="primary" />
+			
+		<!-- Scene 2 -->
+		<sound file="badGuySwoosh" volume="50" inLibrary="false" packName="primary" />
+		<sound file="bubbleTrans" volume="50" inLibrary="false" packName="primary" />
+		<sound file="flip" volume="25" inLibrary="false" packName="primary" />
+		
+		<!-- Scene 3 -->
+		<sound file="option1" volume="20" inLibrary="false" packName="primary" />
+		<sound file="option2" volume="20" inLibrary="false" packName="primary" />
+		<sound file="option3" volume="20" inLibrary="false" packName="primary" />
+		<sound file="shoot1" id="villain1signShootSFX" volume="50" inLibrary="false" packName="primary" />
+		<sound file="shoot2" id="villain2signShootSFX" volume="50" inLibrary="false" packName="primary" />
+		<sound file="shoot2" id="villain3signShootSFX" volume="50" inLibrary="false" packName="primary" />
+		<sound file="squish" id="squish" volume="100" inLibrary="false" packName="primary" />
+		
+		<!-- Scene 4 -->
+		<sound file="puppyArrival" volume="50" inLibrary="false" packName="primary" />
+		<sound file="barkBP" volume="50" inLibrary="false" packName="primary" />
+		<sound file="tracktorBeam" volume="90" inLibrary="false" packName="primary" />
+
+		<!-- Multiscene -->
+		<sound file="BadGuyButtonsReveal" volume="60" inLibrary="false" packName="primary" />
+		<sound file="curtainDown" volume="40" inLibrary="false" packName="primary" />
+		<sound file="curtainOpen" volume="40" inLibrary="false" packName="primary" />
+		<sound file="doorClose1" volume="50" inLibrary="false" packName="primary" />
+		<sound file="doorOpen1" volume="40" inLibrary="false" packName="primary" />
+
+		<!-- STANDARD ANIMATION CONTROLS -->
+		<sound file="click1" id="playBtnClick"  volume="15" inLibrary="false" packName="primary" />
+		<sound file="ro1" id="playBtnRO" volume="10" inLibrary="false" packName="primary" />
+		<sound file="click1" id="nextBtnClick"  volume="15" inLibrary="false" packName="primary" />
+		<sound file="ro1" id="nextBtnRO" volume="10" inLibrary="false" packName="primary" />
+		<sound file="click1" id="continueBtnClick"  volume="15" inLibrary="false" packName="primary" />
+		<sound file="ro1" id="continueBtnRO" volume="10" inLibrary="false" packName="primary" />
+		<sound file="click1" id="skipBtnClick"  volume="15" inLibrary="false" packName="primary" />
+		<sound file="ro1" id="skipBtnRO" volume="10" inLibrary="false" packName="primary" />
+		<sound file="click1" id="closeBtnClick"  volume="15" inLibrary="false" packName="primary" />
+		<sound file="ro1" id="closeBtnRO" volume="10" inLibrary="false" packName="primary" />
+		<sound file="click1" id="playAgainBtnClick" volume="10" inLibrary="false" packName="primary" />
+		<sound file="ro1" id="playAgainBtnRO" volume="10" inLibrary="false" packName="primary" />
+
+		<!-- GAME SPECIFC BTNS -->
+		<sound file="select1" id="choiceBtnClick" volume="15" packName="primary" inLibrary="false" />
+		<sound file="ro2" id="choiceBtnRO" volume="10" packName="primary" inLibrary="false" />
+	</sfx>
+	
+	<vo channel="vo" volume="100">
+
+		<!--SCENE 1 -->
+		<sound file="HVP_1"   id="titleScreenVO"  	volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_2"   id="playBtnVO"  		volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_83"   id="titleScreenDelay"	volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_3"   id="titleScreenDelayMobile"	volume="100" inLibrary="false" packName="primary" />
+		
+		<sound file="HVP_9"   id="enterNameDelay"  	volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_10"  id="enterNameDelay"  	volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_88"  id="enterNameDelayMobile"  	volume="100" inLibrary="false" packName="primary" />
+
+		<!--SCENE 2 -->
+		<sound file="HVP_14"  id="chooseGiftDelay"  volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_93"  id="chooseGiftDelay"  volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_14"  id="chooseGiftDelayMobile"  volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_94"  id="chooseGiftDelayMobile"  volume="100" inLibrary="false" packName="primary" />
+		
+		<sound file="HVP_95" id="gift1VO" volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_96" id="gift2VO" volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_97" id="gift3VO" volume="100" inLibrary="false" packName="primary" />
+		
+		<sound file="HVP_105" id="chooseVillainDelay"  volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_106" id="chooseVillainDelay"  volume="100" inLibrary="false" packName="primary" />
+		
+		<sound file="HVP_105" id="chooseVillainDelayMobile"  volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_107" id="chooseVillainDelayMobile"  volume="100" inLibrary="false" packName="primary" />
+		
+		<sound file="HVP_108" id="villain1VO"  volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_109" id="villain2VO"  volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_110" id="villain3VO"  volume="100" inLibrary="false" packName="primary" />
+		
+		<sound file="HVP_114" id="chooseObjectInitial"  volume="100" inLibrary="false" packName="primary" />
+		<!--sound file="HVP_122" id="chooseObjectInitial"  volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_120" id="chooseObjectInitial"  volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_121" id="chooseObjectInitial"  volume="100" inLibrary="false" packName="primary" / -->
+		
+		
+		<sound file="HVP_115" id="chooseObjectDelay"  volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_116" id="chooseObjectDelayMobile"  volume="100" inLibrary="false" packName="primary" />
+		
+		<sound file="HVP_119" id="object1VO"  volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_117" id="object2VO"  volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_118" id="object3VO"  volume="100" inLibrary="false" packName="primary" />
+		
+		<sound file="HVP_114" id="chooseObjectDelayMobile"  volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_122" id="chooseObjectDelayMobile"  volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_120" id="chooseObjectDelayMobile"  volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_121" id="chooseObjectDelayMobile"  volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_115" id="chooseObjectDelayMobile"  volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_116" id="chooseObjectDelayMobile"  volume="100" inLibrary="false" packName="primary" />
+		
+		
+		<!--SCENE 3 -->
+		<sound file="HVP_122" id="object1Selected" volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_120" id="object2Selected" volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_121" id="object3Selected" volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_123" id="objectSelectionEnd" volume="100" inLibrary="false" packName="primary" />
+		
+		<sound file="HVP_124" id="chooseExitDelay"  volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_129" id="chooseExitDelay"  volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_128" id="chooseExitDelay"  volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_127" id="chooseExitDelay"  volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_125" id="chooseExitDelay"  volume="100" inLibrary="false" packName="primary" />
+		
+		<sound file="HVP_124" id="chooseExitDelayMobile"  volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_129" id="chooseExitDelayMobile"  volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_128" id="chooseExitDelayMobile"  volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_127" id="chooseExitDelayMobile"  volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_126" id="chooseExitDelayMobile"  volume="100" inLibrary="false" packName="primary" />
+		
+		<sound file="HVP_129" id="exit1VO" volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_128" id="exit2VO" volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_127" id="exit3VO" volume="100" inLibrary="false" packName="primary" />
+		
+		<sound file="HVP_29b" id="exit1playStickyVO" volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_29a" id="exit2playStickyVO" volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_29"  id="exit3playStickyVO" volume="100" inLibrary="false" packName="primary" />
+		
+		<!--SCENE 4 -->
+		<sound file="HVP_34" id="darktunnelVOobject1"  volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_32" id="darktunnelVOobject2"  volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_33" id="darktunnelVOobject3"  volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_35" id="darktunnelVOvillain"  volume="100" inLibrary="false" packName="primary" />
+		
+		<sound file="HVP_41" id="exit1GoopVO" volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_40" id="exit2GoopVO" volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_39" id="exit3GoopVO" volume="100" inLibrary="false" packName="primary" />
+		
+		<sound file="HVP_48"  id="chooseFriendDelay"  volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_137"  id="chooseFriendDelay"  volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_48"  id="chooseFriendDelayMobile"  volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_138"  id="chooseFriendDelayMobile"  volume="100" inLibrary="false" packName="primary" />
+		
+		<sound file="HVP_139" id="oonaVO" volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_140" id="nonnyVO" volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_141" id="gobyVO" volume="100" inLibrary="false" packName="primary" />
+		
+		<sound file="HVP_142" id="oonaChosen" volume="100" inLibrary="false" packName="primary" />
+		
+		<sound file="HVP_143" id="nonnyChosen" volume="100" inLibrary="false" packName="primary" />
+		
+		<sound file="HVP_144" id="gobyChosen" volume="100" inLibrary="false" packName="primary" />
+		
+		<sound file="HVP_52"  id="heBrought" volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_53"  id="sheBrought" volume="100" inLibrary="false" packName="primary" />
+
+		<sound file="HVP_56"  id="villain1Return"  volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_146" id="villain1Return"  volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_59"  id="villain1Return"  volume="100" inLibrary="false" packName="primary" />
+		
+		<sound file="HVP_57"  id="villain2Return"  volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_146" id="villain2Return"  volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_147" id="villain2Return"  volume="100" inLibrary="false" packName="primary" />
+
+		<sound file="HVP_58"  id="villain3Return"  volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_146" id="villain3Return"  volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_148" id="villain3Return"  volume="100" inLibrary="false" packName="primary" />
+		
+		<sound file="HVP_149" volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_150"  volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_151"  volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_60"   volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_152"  volume="100" inLibrary="false" packName="primary" />
+		
+		<sound file="HVP_153" id="costumeSelectionIntroVO"  volume="100" inLibrary="false" packName="primary" />
+		
+		<sound file="HVP_63"  id="costumeSelectionDelay"  volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_153"  id="costumeSelectionDelay"  volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_63"  id="costumeSelectionDelayMobile"  volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_154"  id="costumeSelectionDelayMobile"  volume="100" inLibrary="false" packName="primary" />
+		
+		<sound file="HVP_155" id="costume2VO" volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_156" id="costume1VO" volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_157" id="costume3VO" volume="100" inLibrary="false" packName="primary" />
+		
+		<!--Scene 5 -->
+		<sound file="HVP_165" id="choosePresentDelay"  volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_93" id="choosePresentDelay"  volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_165" id="choosePresentDelayMobile"  volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_94" id="choosePresentDelayMobile"  volume="100" inLibrary="false" packName="primary" />
+
+		<sound file="HVP_167" id="present1VO" volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_168" id="present2VO" volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_166" id="present3VO" volume="100" inLibrary="false" packName="primary" />
+		
+		<sound file="HVP_170" id="present1Chosen" volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_171" id="present2Chosen" volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_169" id="present3Chosen" volume="100" inLibrary="false" packName="primary" />
+		
+		<!-- END SCreen -->
+		<sound file="HVP_174" id="endScreenDelayVO" volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_82" id="playAgainBtnVO" volume="100" inLibrary="false" packName="primary" />
+		
+	
+		<!-- TIMELINE VO NOT USED ABOVE --> 
+		<sound file="HVP_4" volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_5" volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_6" volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_7" volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_8" volume="100" inLibrary="false" packName="primary" />
+		
+		<sound file="HVP_11" volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_12" volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_13" volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_15" volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_16" volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_17" volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_19" volume="100" inLibrary="false" packName="primary" />
+
+		<sound file="HVP_20" volume="100" inLibrary="false" packName="primary" />
+
+		<sound file="HVP_22" volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_23" volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_24" volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_26" volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_27" volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_27a" volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_28" volume="100" inLibrary="false" packName="primary" />
+		
+		<sound file="HVP_30" volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_31" volume="100" inLibrary="false" packName="primary" />
+		
+		<sound file="HVP_38" volume="100" inLibrary="false" packName="primary" />
+		
+		<sound file="HVP_42" volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_43" volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_44" volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_45" volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_46" volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_47" volume="100" inLibrary="false" packName="primary" />
+		
+		<sound file="HVP_54" volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_55" volume="100" inLibrary="false" packName="primary" />
+
+		<sound file="HVP_61" volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_62" volume="100" inLibrary="false" packName="primary" />
+		
+		<sound file="HVP_64" volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_65" volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_66" volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_67" volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_68" volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_69" volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_70" volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_71" volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_72" volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_73" volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_74" volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_75" volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_76" volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_77" volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_78" volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_79" volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_80" volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_81" volume="100" inLibrary="false" packName="primary" />
+		
+		<sound file="HVP_84" volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_85" volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_86" volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_87" volume="100" inLibrary="false" packName="primary" />
+		
+		<sound file="HVP_89" volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_90" volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_91" volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_92" volume="100" inLibrary="false" packName="primary" />
+	
+		<sound file="HVP_98" volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_99" volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_100" volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_101" volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_102" volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_103" volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_104" volume="100" inLibrary="false" packName="primary" />
+
+		<sound file="HVP_111" volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_112" volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_113" volume="100" inLibrary="false" packName="primary" />
+		
+		<sound file="HVP_130" volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_131" volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_132" volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_133" volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_134" volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_135" volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_136" volume="100" inLibrary="false" packName="primary" />
+
+		<sound file="HVP_158" volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_159" volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_160" volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_161" volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_162" volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_163" volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_164" volume="100" inLibrary="false" packName="primary" />
+		
+		
+		<sound file="HVP_172" volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_173" volume="100" inLibrary="false" packName="primary" />
+		
+		<sound file="HVP_175" volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_176" volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_177" volume="100" inLibrary="false" packName="primary" />
+		<sound file="HVP_178" volume="100" inLibrary="false" packName="primary" />
+	</vo>
+</data>

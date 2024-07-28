@@ -1,0 +1,47 @@
+<importbean bean="/atg/dynamo/droplet/Switch" />
+
+<java>/* This is the CMS droplet include for the "Game" template and "Game Upgrade" template for parents content.
+The document checks whether to display the Tower Ad or not. It also checks the Content Type ID in the CMS sytem, 
+in order to load the appropriate template. */</java>
+
+<link rel="stylesheet" type="text/css" name="NickJrStyleSheet" href="/common/css/ecard_game_print_slide_video.css" />
+
+<droplet bean="Switch">
+  <param name="value" value="param:item.suppressTowerAd" />
+	<oparam name="false">
+		<table width="597" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td><img src="/common/assets/spacer.gif" width="470" height="1" /></td>
+				<td><img src="/common/assets/spacer.gif" width="7" height="1" /></td>
+				<td><img src="/common/assets/spacer.gif" width="120" height="1" /></td>
+			</tr>
+			<tr>
+				<td valign="top">
+					<droplet name="Switch">
+						<param name="value" value="param:item.contentType.contentTypeID">
+						<oparam name="4">
+							<droplet src="/game/game.jhtml">Parents Old Game Template Not Found</droplet>
+						</oparam>
+						<oparam name="default">
+							<droplet src="/game/game_upgrade.jhtml">Parents New Game Template Not Found</droplet>
+						</oparam>
+					</droplet></td>
+				<td></td>
+				<td valign="top">
+					<droplet src="/common/droplets/ads/ad_tower.jhtml">Ad Tower Not Found</droplet></td>
+			</tr>
+		</table>
+	</oparam>
+	<oparam name="true">
+		<img src="/common/assets/spacer.gif" width="10" height="1" /><br />
+		<droplet name="Switch">
+			<param name="value" value="param:item.contentType.contentTypeID">
+			<oparam name="4">
+				<droplet src="/game/game.jhtml">Parents Old Game Template Not Found</droplet>
+			</oparam>
+			<oparam name="default">
+				<droplet src="/game/game_upgrade.jhtml">Parents New Game Template Not Found</droplet>
+			</oparam>
+		</droplet>
+	</oparam>
+</droplet>

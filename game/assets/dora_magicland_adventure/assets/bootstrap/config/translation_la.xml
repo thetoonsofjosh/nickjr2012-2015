@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!--<translation attributes>-->
+<!-- defaultFont dictates the font (based on the id set in fonts.xml) that all fields will use unless fontId is specified within that field's individual tag.-->
+
+<!-- <Node Attributes> -->
+<!-- id is not Optional. It tells flash which text field to change. -->
+<!-- fontScale is Optional. It allows you to customize the size of the font used in this particular field. 1 is normal. 2 is double size. .5 is half size. Defaults to 1.-->
+<!-- fontName is Optional. It allows you to customize the font used in this particular field. Leave it out to use the default font (specified by defaultFont).-->
+<!-- offsetX is Optional. It allows you to move the text field a certain number of pixels on the X axis. Leave it out or use 0 if you don't want to move the text. -->
+<!-- offsetY is Optional. It allows you to move the text field a certain number of pixels on the Y axis. Leave it out or use 0 if you don't want to move the text.--> 
+
+<strings defaultFont="Basic">
+	<!--Preloader-->
+	<string id="loading"				fontName="Basic"	fontScale="1"	offsetX="0" offsetY="0"><![CDATA[Loading]]></string>
+	<!--Basics-->
+	<string id="title"					fontName="Basic"	fontScale="1"	offsetX="0" offsetY="0"><![CDATA[Game Title]]></string>
+	<string id="tap_anywhere"			fontName="Basic"	fontScale="1"	offsetX="0" offsetY="0"><![CDATA[Tap Anywhere to Play]]></string>
+	<string id="click_anywhere"			fontName="Basic"	fontScale="1"	offsetX="0" offsetY="0"><![CDATA[Click Anywhere to Play]]></string>	
+	<string id="tap_anywhere_again"		fontName="Basic"	fontScale="1"	offsetX="0" offsetY="0"><![CDATA[Tap Anywhere to Play Again]]></string>
+	<string id="click_anywhere_again"	fontName="Basic"	fontScale="1"	offsetX="0" offsetY="0"><![CDATA[Click Anywhere to Play Again]]></string>
+	<string id="play"					fontName="Basic"	fontScale="1"	offsetX="0" offsetY="0"><![CDATA[Play]]></string>
+	<string id="play_again"				fontName="Basic"	fontScale="1"	offsetX="0" offsetY="0"><![CDATA[Try Again]]></string>	
+	<string id="how_to_play"			fontName="Basic"	fontScale="1"	offsetX="0" offsetY="0"><![CDATA[How to Play]]></string>
+	<string id="next"					fontName="Basic"	fontScale="1"	offsetX="0" offsetY="0"><![CDATA[Next]]></string>
+	<string id="back"					fontName="Basic"	fontScale="1"	offsetX="0" offsetY="0"><![CDATA[Back to Game]]></string>
+	<string id="continue"				fontName="Basic"	fontScale="1"	offsetX="0" offsetY="0"><![CDATA[Continue]]></string>
+	<string id="close"					fontName="Basic"	fontScale="1"	offsetX="0" offsetY="0"><![CDATA[close]]></string>
+	<string id="printable"				fontName="Basic"	fontScale="1"	offsetX="0" offsetY="0"><![CDATA[Printable]]></string>
+	<string id="orientation_landscape"	fontName="Basic"	fontScale=".5"	offsetX="0" offsetY="0"><![CDATA[Please flip back to Landscape mode.]]></string>
+	<!--Code Buttons-->
+	<string id="enter_code"				fontName="Basic"	fontScale="1"	offsetX="0" offsetY="0"><![CDATA[Enter Code]]></string>
+	<string id="enter_code_header"		fontName="Basic"	fontScale="1"	offsetX="0" offsetY="0"><![CDATA[Enter Code:]]></string>
+	<string id="enter"					fontName="Basic"	fontScale="1"	offsetX="0" offsetY="0"><![CDATA[Enter]]></string>
+	<string id="invalid_code"			fontName="Basic"	fontScale="1"	offsetX="0" offsetY="0"><![CDATA[Invalid Code!]]></string>
+	<string id="code_accept"			fontName="Basic"	fontScale="1"	offsetX="0" offsetY="0"><![CDATA[Code Accepted!]]></string>
+	<!--Game Buttons-->
+	<string id="menu"					fontName="Basic"	fontScale="1"	offsetX="0" offsetY="0"><![CDATA[Menu]]></string>
+	<string id="back_to_game"			fontName="Basic"	fontScale="1"	offsetX="0" offsetY="0"><![CDATA[Back to Game]]></string>
+	<string id="help"					fontName="Basic"	fontScale="1"	offsetX="0" offsetY="0"><![CDATA[How to Play]]></string>
+	<string id="sound_on"				fontName="Basic"	fontScale="1"	offsetX="0" offsetY="0"><![CDATA[Sound On]]></string>
+	<string id="sound_off"				fontName="Basic"	fontScale="1"	offsetX="0" offsetY="0"><![CDATA[Sound Off]]></string>
+	<string id="resume"					fontName="Basic"	fontScale="1"	offsetX="0" offsetY="0"><![CDATA[Resume]]></string>
+	<!--Quit-->
+	<string id="quit"					fontName="Basic"	fontScale="1"	offsetX="0" offsetY="0"><![CDATA[Quit]]></string>
+	<string id="quit_confirm_header"	fontName="Basic"	fontScale="1"	offsetX="0" offsetY="0"><![CDATA[Are you sure you want to quit?]]></string>
+	<string id="yes"					fontName="Basic"	fontScale="1"	offsetX="0" offsetY="0"><![CDATA[Yes]]></string>
+	<string id="no"						fontName="Basic"	fontScale="1"	offsetX="0" offsetY="0"><![CDATA[No]]></string>
+	<!--Gameplay-->
+	<string id="level"					fontName="Basic"	fontScale="1"	offsetX="0" offsetY="0"><![CDATA[Level]]></string>
+	<string id="score"					fontName="Basic"	fontScale="1"	offsetX="0" offsetY="0"><![CDATA[Score]]></string>	
+	<string id="paused"					fontName="Basic"	fontScale="1"	offsetX="0" offsetY="0"><![CDATA[Paused]]></string>
+	<string id="level_up"				fontName="Basic"	fontScale="1"	offsetX="0" offsetY="0"><![CDATA[Level Up]]></string>
+	<string id="game_over"				fontName="Basic"	fontScale="1"	offsetX="0" offsetY="0"><![CDATA[Game Over]]></string>
+	<string id="help_questionmark"		fontName="Basic"	fontScale="1"	offsetX="0" offsetY="0"><![CDATA[?]]></string>
+	<string id="quit_x"					fontName="Basic"	fontScale="1"	offsetX="0" offsetY="0"><![CDATA[x]]></string>		
+	<!--Leaderboard-->
+	<string id="you"					fontName="Basic"	fontScale="1"	offsetX="0" offsetY="0"><![CDATA[You: ]]></string>
+	<string id="top"					fontName="Basic"	fontScale="1"	offsetX="0" offsetY="0"><![CDATA[Top]]></string>	
+	<string id="leaderboard"			fontName="Basic"	fontScale="1"	offsetX="0" offsetY="0"><![CDATA[High Scores]]></string>
+	<string id="submit_score"			fontName="Basic"	fontScale="1"	offsetX="0" offsetY="0"><![CDATA[Submit Score]]></string>	
+	<!-- Copy/Body -->
+	<string id="help_copy"				fontName="Basic"	fontScale="1"	offsetX="0" offsetY="0"><![CDATA[HELP COPY]]></string>
+	<string id="watch"					fontName="Basic"	fontScale="1"	offsetX="0" offsetY="0"><![CDATA[Watch 'Show Name' on]]></string>
+	<!-- Debug Text -->			
+	<string id="debugtext"				fontName="Basic"	fontScale="1"	offsetX="0" offsetY="0"><![CDATA[THIS TEXT IS LOCALIZED!]]></string>
+	
+	
+	
+</strings>

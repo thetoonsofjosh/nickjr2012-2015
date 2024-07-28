@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+	
+	<tracking enabled="true">
+		<!-- Used for analytics. -->
+		<gameName>fresh-beat-band-of-spies-mummy</gameName>
+		<!-- Used for analytics. -->
+		<gameProperty>Fresh Beat Band of Spies</gameProperty>
+	</tracking>
+
+	<options>
+		<!-- Turn on and of the FPS display -->
+		<fps>false</fps>
+		<!-- Turn on and of the print button in the end screen -->
+		<print>true</print>
+
+		<levels>
+
+			<!-- Level 1 Tutorial -->
+			<level>
+
+
+				<spawn>
+					<distance>0</distance>
+					<value>intro</value>
+				</spawn>
+				<spawn>
+					<distance>1000</distance>
+					<value>ramp</value>
+				</spawn>
+				<spawn>
+					<distance>2000</distance>
+					<value>low_obstacle</value>
+				</spawn>
+				<spawn>
+					<distance>3000</distance>
+					<value>boost</value>
+				</spawn>
+
+
+			</level>
+
+			<!-- Level 1 -->
+			<level>
+
+
+				<spawn>
+					<distance>0</distance>
+					<value>intro</value>
+				</spawn>
+				<spawn>
+					<distance>37000</distance>
+					<value>end</value>
+				</spawn>
+
+
+			</level>
+
+			<!-- Level 2 -->
+			<level>
+
+
+				<spawn>
+					<distance>0</distance>
+					<value>intro</value>
+				</spawn>
+				<spawn>
+					<distance>37000</distance>
+					<value>end</value>
+				</spawn>
+
+
+			</level>
+
+		</levels>
+	</options>
+
+</config>

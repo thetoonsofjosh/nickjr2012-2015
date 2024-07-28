@@ -1,0 +1,4 @@
+@font-face{
+  font-family: 'arial';
+  src: local('arial'), url('ARIAL.TTF') format('truetype');
+}

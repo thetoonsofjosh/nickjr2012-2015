@@ -1,0 +1,90 @@
+phn 5 115 0 x
+word 115 325 Hey
+phn 115 155 54 h
+phn 155 325 92 EY
+punct 325 355 ,
+phn 325 355 43 x
+word 355 625 there
+phn 355 385 85 DH
+phn 385 595 101 EH
+phn 595 625 0 r
+phn 625 825 0 x
+punct 825 905 !
+phn 825 905 68 x
+word 905 1135 AJ
+phn 905 1045 84 AE
+phn 1045 1135 61 j
+word 1135 1355 and
+phn 1135 1315 95 AE
+phn 1315 1355 69 n
+word 1355 1515 I
+phn 1355 1515 90 AY
+word 1515 1605 are
+phn 1515 1605 69 ER
+word 1605 1905 getting
+phn 1605 1695 54 g
+phn 1695 1765 65 IH
+phn 1765 1795 60 t
+phn 1795 1845 65 IH
+phn 1845 1905 52 NG
+word 1905 2175 ready
+phn 1905 2015 76 r
+phn 2015 2065 65 EH
+phn 2065 2095 62 d
+phn 2095 2175 65 IY
+word 2175 2315 to
+phn 2175 2255 51 t
+phn 2255 2315 65 UW
+word 2315 2555 race
+phn 2315 2405 69 r
+phn 2405 2485 65 EY
+phn 2485 2555 40 s
+word 2555 3035 Crusher
+phn 2555 2705 53 k
+phn 2705 2775 67 r
+phn 2775 2835 65 AH
+phn 2835 2925 57 SH
+phn 2925 3035 74 ER
+word 3035 3135 up
+phn 3035 3105 65 AH
+phn 3105 3135 0 p
+word 3135 3565 Mount
+phn 3135 3275 59 m
+phn 3275 3425 87 AW
+phn 3425 3525 38 n
+phn 3525 3565 50 t
+word 3565 4065 Dragon
+phn 3565 3605 51 d
+phn 3605 3655 65 r
+phn 3655 3845 98 AE
+phn 3845 3915 43 g
+phn 3915 3975 65 AH
+phn 3975 4065 30 n
+phn 4065 4315 27 x
+word 4315 4455 in
+phn 4315 4385 65 IH
+phn 4385 4455 60 n
+word 4455 4555 the
+phn 4455 4495 68 DH
+phn 4495 4555 65 IY
+word 4555 5155 Dragon
+phn 4555 4775 52 d
+phn 4775 4825 65 r
+phn 4825 5005 95 AE
+phn 5005 5055 65 g
+phn 5055 5125 65 AH
+phn 5125 5155 73 n
+word 5155 5675 Island
+phn 5155 5355 101 AY
+phn 5355 5465 64 l
+phn 5465 5495 65 AH
+phn 5495 5625 55 n
+phn 5625 5675 52 d
+word 5675 6025 Duel
+phn 5675 5705 65 d
+phn 5705 5745 65 UW
+phn 5745 5775 65 AH
+phn 5775 6025 62 l
+punct 6025 6115 !
+phn 6025 6115 0 x
+end_markers

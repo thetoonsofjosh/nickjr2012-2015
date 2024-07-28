@@ -1,0 +1,64 @@
+phn 5 165 18 x
+word 165 285 Will
+phn 165 215 65 w
+phn 215 245 65 IH
+phn 245 285 75 l
+word 285 545 you
+phn 285 425 83 y
+phn 425 545 79 UW
+word 545 765 help
+phn 545 605 81 h
+phn 605 645 65 EH
+phn 645 715 59 l
+phn 715 765 33 p
+word 765 895 me
+phn 765 805 69 m
+phn 805 895 70 IY
+word 895 1385 blaze
+phn 895 1035 46 b
+phn 1035 1155 68 l
+phn 1155 1325 92 EY
+phn 1325 1385 41 z
+word 1385 1805 past
+phn 1385 1485 43 p
+phn 1485 1705 106 AE
+phn 1705 1765 46 s
+phn 1765 1805 27 t
+word 1805 2265 Crusher's
+phn 1805 1915 41 k
+phn 1915 1965 65 r
+phn 1965 2025 65 AH
+phn 2025 2145 54 SH
+phn 2145 2225 65 ER
+phn 2225 2265 23 s
+word 2265 2785 cheating
+phn 2265 2405 60 CH
+phn 2405 2525 78 IY
+phn 2525 2555 55 t
+phn 2555 2735 92 IH
+phn 2735 2785 11 NG
+phn 2785 2965 0 x
+punct 2965 3085 ?
+phn 2965 3085 0 x
+word 3085 3765 Great
+phn 3085 3305 50 g
+phn 3305 3495 98 r
+phn 3495 3695 100 EY
+phn 3695 3765 0 t
+punct 3765 4095 !
+phn 3765 4095 0 x
+word 4095 5055 Let's
+phn 4095 4245 57 l
+phn 4245 4945 234 EH
+phn 4945 4975 11 t
+phn 4975 5055 33 s
+word 5055 6215 blaaaze
+phn 5055 5245 50 b
+phn 5245 5335 77 l
+phn 5335 5575 111 AE
+phn 5575 5645 65 AE
+phn 5645 5955 128 EY
+phn 5955 6215 40 z
+punct 6215 6425 !
+phn 6215 6425 0 x
+end_markers

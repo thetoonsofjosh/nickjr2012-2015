@@ -1,0 +1,14 @@
+<data>	
+	<!-- 	General game settings -->
+	<settings>
+		
+	</settings>
+	
+	<songs>
+		<song name="song1" length="28" />
+		<song name="song2" length="28" />
+		<song name="song3" length="28" />
+		<song name="song4" length="28" />
+		<song name="song5" length="28" />
+	</songs>
+</data>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<sounds>
+  <sound name="robot1" Soundfile="mp3/robot1.mp3" Category="" volume="100" HearRange2D="700" size="34680"/>
+  <sound name="robot2" Soundfile="mp3/robot2.mp3" Category="" volume="100" HearRange2D="700" size="29674"/>
+  <sound name="robot3" Soundfile="mp3/robot3.mp3" Category="" volume="100" HearRange2D="700" size="49733"/>
+  <sound name="robot4" Soundfile="mp3/robot4.mp3" Category="" volume="100" HearRange2D="700" size="38866"/>
+  <sound name="mrss_themeloop" Soundfile="mp3/mrss_themeloop.mp3" Category="musicloop" volume="100" HearRange2D="" size="200191"/>
+  <sound name="Intro_1" Soundfile="mp3/intro1.mp3" Category="ruby" volume="100" HearRange2D="" size="80447"/>
+  <sound name="Intro_2" Soundfile="mp3/intro2.mp3" Category="ruby" volume="100" HearRange2D="" size="83157"/>
+  <sound name="Intro_3" Soundfile="mp3/intro3.mp3" Category="ruby" volume="100" HearRange2D="" size="48888"/>
+  <sound name="LevelStart1" Soundfile="mp3/levelstart1.mp3" Category="roger" volume="100" HearRange2D="" size="14621"/>
+  <sound name="LevelStart2" Soundfile="mp3/levelstart2.mp3" Category="ruby" volume="100" HearRange2D="" size="11689"/>
+  <sound name="LevelStart4" Soundfile="mp3/levelstart4.mp3" Category="roger" volume="100" HearRange2D="" size="12534"/>
+  <sound name="LevelStart5" Soundfile="mp3/levelstart5.mp3" Category="ruby" volume="100" HearRange2D="" size="9818"/>
+  <sound name="TimeAlmostUp" Soundfile="mp3/timealmostup1.mp3" Category="ruby" volume="100" HearRange2D="" size="14199"/>
+  <sound name="TimeAlmostUp" Soundfile="mp3/timealmostup2.mp3" Category="roger" volume="100" HearRange2D="" size="15661"/>
+  <sound name="TimeUp" Soundfile="mp3/timeup.mp3" Category="ruby" volume="100" HearRange2D="" size="6894"/>
+  <sound name="GoalsCompleted" Soundfile="mp3/goalscompleted.mp3" Category="ruby" volume="100" HearRange2D="" size="25273"/>
+  <sound name="GameOver" Soundfile="mp3/gameover.mp3" Category="ruby" volume="100" HearRange2D="" size="11274"/>
+  <sound name="Yes" Soundfile="mp3/yes.mp3" Category="ruby" volume="100" HearRange2D="" size="5222"/>
+  <sound name="No" Soundfile="mp3/no.mp3" Category="ruby" volume="100" HearRange2D="" size="4585"/>
+  <sound name="Play" Soundfile="mp3/play.mp3" Category="ruby" volume="100" HearRange2D="" size="3966"/>
+  <sound name="PlayAgain" Soundfile="mp3/gameover.mp3" Category="ruby" volume="100" HearRange2D="" size="11274"/>
+  <sound name="Quit" Soundfile="mp3/quit.mp3" Category="ruby" volume="100" HearRange2D="" size="3129"/>
+  <sound name="PosFeedback" Soundfile="mp3/posfeedback1.mp3" Category="ruby" volume="100" HearRange2D="" size="9400"/>
+  <sound name="PosFeedback" Soundfile="mp3/posfeedback2.mp3" Category="ruby" volume="100" HearRange2D="" size="10014"/>
+  <sound name="PosFeedback" Soundfile="mp3/posfeedback3.mp3" Category="ruby" volume="100" HearRange2D="" size="7519"/>
+  <sound name="PosFeedback" Soundfile="mp3/posfeedback4.mp3" Category="ruby" volume="100" HearRange2D="" size="7937"/>
+  <sound name="PosFeedback" Soundfile="mp3/posfeedback5.mp3" Category="roger" volume="100" HearRange2D="" size="9809"/>
+  <sound name="PosFeedback" Soundfile="mp3/posfeedback6.mp3" Category="roger" volume="100" HearRange2D="" size="10231"/>
+  <sound name="NegFeedback" Soundfile="mp3/negfeedback1.mp3" Category="ruby" volume="100" HearRange2D="" size="8148"/>
+  <sound name="NegFeedback" Soundfile="mp3/negfeedback2.mp3" Category="ruby" volume="100" HearRange2D="" size="9189"/>
+  <sound name="NegFeedback" Soundfile="mp3/negfeedback3.mp3" Category="ruby" volume="100" HearRange2D="" size="13365"/>
+  <sound name="NegFeedback" Soundfile="mp3/negfeedback4.mp3" Category="ruby" volume="100" HearRange2D="" size="9600"/>
+  <sound name="NegFeedback" Soundfile="mp3/negfeedback5.mp3" Category="roger" volume="100" HearRange2D="" size="16707"/>
+  <sound name="NegFeedback" Soundfile="mp3/negfeedback6.mp3" Category="roger" volume="100" HearRange2D="" size="9601"/>
+  <sound name="BallPickup" Soundfile="mp3/ballpickup1.mp3" Category="ruby" volume="100" HearRange2D="" size="8356"/>
+  <sound name="BallPickup" Soundfile="mp3/ballpickup2.mp3" Category="ruby" volume="100" HearRange2D="" size="10029"/>
+  <sound name="BallPickup" Soundfile="mp3/ballpickup3.mp3" Category="ruby" volume="100" HearRange2D="" size="13368"/>
+  <sound name="BallPickupSound" Soundfile="mp3/mrss_getball.mp3" Category="" volume="100" HearRange2D="" size="2705"/>
+  <sound name="RobotCollidesRuby" Soundfile="mp3/mrss_bumpintorobot.mp3" Category="" volume="100" HearRange2D="" size="3342"/>
+  <sound name="RobotCollidesRoger" Soundfile="mp3/mrss_bumpintorobot.mp3" Category="" volume="100" HearRange2D="" size="3342"/>
+  <sound name="Level 1" Soundfile="mp3/mrss_gameloopv2.mp3" Category="musicloop" volume="100" HearRange2D="" size="167174"/>
+  <sound name="Level 2" Soundfile="mp3/mrss_gameloopv7.mp3" Category="musicloop" volume="100" HearRange2D="" size="366125"/>
+  <sound name="Level 3" Soundfile="mp3/mrss_gameloopv2.mp3" Category="musicloop" volume="100" HearRange2D="" size="167174"/>
+  <sound name="Level 4" Soundfile="mp3/mrss_gameloopv7.mp3" Category="musicloop" volume="100" HearRange2D="" size="366125"/>
+  <sound name="Level 5" Soundfile="mp3/mrss_gameloopv2.mp3" Category="musicloop" volume="100" HearRange2D="" size="167174"/>
+  <sound name="ball_kick" Soundfile="mp3/mrss_kickballv1.mp3" Category="" volume="100" HearRange2D="" size="2710"/>
+  <sound name="ball_kick" Soundfile="mp3/mrss_kickballv2.mp3" Category="" volume="100" HearRange2D="" size="3331"/>
+  <sound name="ball_kick" Soundfile="mp3/mrss_kickballv3.mp3" Category="" volume="100" HearRange2D="" size="3121"/>
+  <sound name="ruby_score" Soundfile="mp3/ball_score.mp3" Category="ruby" volume="100" HearRange2D="" size="22142"/>
+  <sound name="kids_cheer" Soundfile="mp3/mrss_goal_kidscheer.mp3" Category="" volume="100" HearRange2D="" size="23602"/>
+  <sound name="ball_miss" Soundfile="mp3/mrss_fanfare_nogoal.mp3" Category="" volume="100" HearRange2D="" size="12534"/>
+  <sound name="toy_collide" Soundfile="mp3/mrss_bumpintorobot.mp3" Category="" volume="100" HearRange2D="" size="3342"/>
+  <sound name="btn_mouseover" Soundfile="mp3/mrss_playrollover.mp3" Category="" volume="100" HearRange2D="" size="1037"/>
+  <sound name="btn_mousedown" Soundfile="mp3/mrss_playclick.mp3" Category="" volume="100" HearRange2D="" size="1454"/>
+  <sound name="end_lick_01" Soundfile="mp3/mrss_end_lick_01.mp3" Category="" volume="100" HearRange2D="" size="38446"/>
+  <sound name="end_lick_02" Soundfile="mp3/mrss_end_lick_02.mp3" Category="" volume="100" HearRange2D="" size="30916"/>
+  <sound name="end_sting" Soundfile="mp3/mrss_end_sting_01.mp3" Category="musicloop" volume="100" HearRange2D="" size="46388"/>
+  <sound name="mrss_gameloopv2" Soundfile="mp3/mrss_gameloopv2.mp3" Category="musicloop" volume="100" HearRange2D="" size="167174"/>
+  <sound name="mrss_gameloopv7" Soundfile="mp3/mrss_gameloopv7.mp3" Category="musicloop" volume="100" HearRange2D="" size="366125"/>
+  <sound name="louise_cheer" Soundfile="mp3/louise01.mp3" Category="louise" volume="100" HearRange2D="" size="16508"/>
+  <sound name="louise_cheer_goal" Soundfile="mp3/louise06.mp3" Category="louise" volume="100" HearRange2D="" size="13785"/>
+  <sound name="ball_score" Soundfile="mp3/ltsc_fanfare_winner.mp3" Category="" volume="100" HearRange2D="" size="10029"/>
+  <sound name="mrss_playagain_quit_rollover" Soundfile="mp3/mrss_playagain_quit_rollover.mp3" Category="" volume="100" HearRange2D="" size="1240"/>
+  <sound name="mrss_end_sting_01" Soundfile="mp3/mrss_end_sting_01.mp3" Category="" volume="100" HearRange2D="" size="46388"/>
+  <sound name="extra1" Soundfile="mp3/extra1.mp3" Category="ruby" volume="100" HearRange2D="" size="5430"/>
+</sounds>

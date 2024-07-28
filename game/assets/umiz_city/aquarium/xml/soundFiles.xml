@@ -1,0 +1,402 @@
+<data dir="/game/assets/umiz_city/aquarium/mp3/">
+	<!--soundFile file="ansOne.wav" /-->
+	<music channel="music">
+		<sound file="aqsting" volume="35" loops="1" inLibrary="true" />
+		<sound file="gameMusic" volume="45" inLibrary="true" />
+		<sound file="freeformMusic" volume="40" inLibrary="true" />
+	</music>
+	
+	<sfx channel="sfx">
+		<sound file="click1" volume="30" inLibrary="true" />
+		<sound file="click2" volume="30" inLibrary="true" />
+		<sound file="click4" volume="30" inLibrary="true" />
+		<sound file="click5" volume="30" inLibrary="true" />
+		
+		<sound file="ro1" volume="30" inLibrary="true" />
+		<sound file="ro2" volume="30" inLibrary="true" />
+		<sound file="ro3" volume="20" inLibrary="true" />
+		<sound file="ro4" volume="30" inLibrary="true" />
+		<sound file="ro5" volume="30" inLibrary="true" />
+		
+		<sound file="drop" inLibrary="true" />
+		<sound file="wa" inLibrary="true" />
+		<sound file="ca" inLibrary="true" />
+		<sound file="magSmall" volume="40" inLibrary="true" />
+		<sound file="magMedium" volume="40" inLibrary="true" />
+		<sound file="magBig" volume="40" inLibrary="true" />
+		<sound file="out" volume="30" inLibrary="true" />
+		<sound file="in" volume="30" inLibrary="true" />
+	</sfx>
+	
+	<callouts channel="vo">
+		<!-- UI Buttons-->
+		<sound file="UCA_5.mp3" id="play" />
+		<sound file="UCA_13.mp3" id="skip" />
+		<sound file="UCA_155.mp3" id="charactersTab" />
+		<sound file="UCA_156.mp3" id="seaCreaturesTab" />
+		<sound file="UCA_157.mp3" id="backgroundsTab" />
+		<sound file="UCA_158.mp3" id="clearAll" />
+		<sound file="UCA_159.mp3" id="animate" />
+		<sound file="UCA_160.mp3" id="resize" />
+		<sound file="UCA_161.mp3" id="done" />
+		<sound file="UCA_172.mp3" id="yesBtn" />
+		<sound file="UCA_173.mp3" id="noBtn" />
+		<sound file="UCA_179.mp3" id="print" />
+		<sound file="UCA_180.mp3" id="playAgain" />
+		<sound file="UCA_213.mp3" id="replayChallenge" />
+		<sound file="UCA_214.mp3" id="replayFreePlay" />
+		<sound file="UCA_181.mp3" id="printColor" />
+		<sound file="UCA_182.mp3" id="printBW" />
+		<sound file="UCA_215.mp3" id="close" />
+		
+		<!-- Milli Question Rollovers -->
+		<sound file="UCA_42.mp3" id="purple" />
+		<sound file="UCA_43.mp3" id="orange" />
+		<sound file="UCA_44.mp3" id="red" />
+		<sound file="UCA_45.mp3" id="green" />
+		<sound file="UCA_46.mp3" id="blue" />
+		<sound file="UCA_47.mp3" id="yellow" />
+		<sound file="UCA_48.mp3" id="pink" />
+		<sound file="UCA_49.mp3" id="greenStripes" />
+		<sound file="UCA_50.mp3" id="blueStripes" />
+		<sound file="UCA_51.mp3" id="pinkFace" />
+		<sound file="UCA_52.mp3" id="yellowFace" />
+		<sound file="UCA_53.mp3" id="yellowDots" />
+		<sound file="UCA_54.mp3" id="redDots" />
+		<sound file="UCA_55.mp3" id="blueTail" />
+		<sound file="UCA_56.mp3" id="greenTail" />
+		<sound file="UCA_57.mp3" id="orangeFace" />
+		<sound file="UCA_58.mp3" id="purpleFace" />
+		<sound file="UCA_59.mp3" id="purplePinchers" />
+		<sound file="UCA_60.mp3" id="bluePinchers" />
+		
+		<!-- Geo Question Rollovers -->
+		<sound file="UCA_89.mp3" id="circle" />
+		<sound file="UCA_90.mp3" id="square" />
+		<sound file="UCA_91.mp3" id="rectangle" />
+		<sound file="UCA_92.mp3" id="triangle" />
+		<sound file="UCA_93.mp3" id="oval" />
+		<sound file="UCA_94.mp3" id="pentagon" />
+		<sound file="UCA_95.mp3" id="hexagon" />
+		<sound file="UCA_96.mp3" id="octagon" />
+		
+		<!-- Bot Question Rollovers -->
+		<sound file="UCA_123.mp3" id="one" />
+		<sound file="UCA_124.mp3" id="two" />
+		<sound file="UCA_125.mp3" id="three" />
+		<sound file="UCA_126.mp3" id="four" />
+		<sound file="UCA_127.mp3" id="five" />
+		<sound file="UCA_128.mp3" id="six" />
+		<sound file="UCA_129.mp3" id="seven" />
+		<sound file="UCA_130.mp3" id="eight" />
+		<sound file="UCA_131.mp3" id="nine" />
+		<sound file="UCA_132.mp3" id="ten" />
+
+	</callouts>
+	
+	<vo channel="vo">
+	<!-- TITLE SCREEN AND INTRO -->
+		<!-- Title -->
+		<sound file="UCA_1.mp3" id="titleVO" />
+		<sound file="UCA_4.mp3" id="titleVO" />
+		
+		<sound file="UCA_4.mp3" id="titlePlayDelay" />
+		
+		<!-- Intro 
+		<sound file="UCA_7.mp3" id="intro" />
+		<sound file="UCA_183.mp3" id="intro" />
+		<sound file="UCA_184.mp3" id="intro" />
+		<sound file="UCA_8.mp3" id="intro" />
+		<sound file="UCA_185.mp3" id="intro" />
+		<sound file="UCA_9.mp3" id="intro" />
+		<sound file="UCA_10.mp3" id="intro" />
+		<sound file="UCA_11.mp3" id="intro" />
+		<sound file="UCA_12.mp3" id="intro" />
+		<sound file="UCA_186.mp3" id="intro" />
+		-->
+		
+	<!-- CHALLENGE MODE -->
+		<!-- Tutorial 
+		<sound file="UCA_14.mp3" id="challengeTutorial" />
+		<sound file="UCA_15.mp3" id="challengeTutorial" />
+		<sound file="UCA_16.mp3" id="challengeTutorial" />
+		<sound file="UCA_17.mp3" id="challengeTutorial" />
+		<sound file="UCA_18.mp3" id="challengeTutorial" />
+		<sound file="UCA_19.mp3" id="challengeTutorial" />
+		<sound file="UCA_20.mp3" id="challengeTutorial" />
+		<sound file="UCA_187.mp3" id="challengeTutorial" />
+		-->
+
+		<sound file="UCA_171C.mp3" id="clearConfirm" />
+		<sound file="UCA_174.mp3" id="quitConfirm" />
+		
+		<milli>
+			<milliGroupA>
+				<sound file="UCA_21.mp3" id="milliA" />
+				<sound file="UCA_212.mp3" id="milliA" />
+				
+				<sound file="UCA_25.mp3" id="milliA1" />
+				<sound file="UCA_22.mp3" id="milliA1AnswerID" />
+				
+				<sound file="UCA_25.mp3" id="milliA2" />
+				<sound file="UCA_23.mp3" id="milliA2AnswerID" />
+				
+				<sound file="UCA_25.mp3" id="milliA3" />
+				<sound file="UCA_24.mp3" id="milliA3AnswerID" />
+			</milliGroupA>
+
+			<milliGroupB>
+				<sound file="UCA_26.mp3" id="milliB" />
+				
+				<sound file="blank.mp3" id="milliB1" />
+				<sound file="UCA_27.mp3" id="milliB1AnswerID" />
+				
+				<sound file="blank.mp3" id="milliB2" />
+				<sound file="UCA_28.mp3" id="milliB2AnswerID" />
+				
+				<sound file="blank.mp3" id="milliB3" />
+				<sound file="UCA_29.mp3" id="milliB3AnswerID" />
+			</milliGroupB>
+
+			<milliGroupC>
+				<sound file="UCA_30.mp3" id="milliC" />
+				
+				<sound file="UCA_212.mp3" id="milliC1" />
+				<sound file="UCA_31.mp3" id="milliC1AnswerID" />
+				
+				<sound file="UCA_212.mp3" id="milliC2" />
+				<sound file="UCA_32.mp3" id="milliC2AnswerID" />
+				
+				<sound file="UCA_212.mp3" id="milliC3" />
+				<sound file="UCA_33.mp3" id="milliC3AnswerID" />
+			</milliGroupC>
+			
+			<!-- DELAY PROMPTS -->
+			<sound file="UCA_212.mp3" id="milliQuestionDelay" /><!-- Also used as delay prompt for first incorrect attempt -->
+			<sound file="UCA_36.mp3" id="milliMultipleIncorrectDelay" /> <!-- Incorrect attempt 2 and higher delay -->
+			<sound file="UCA_25.mp3" id="milliDelayFollowup" />
+			
+			<!-- Incorrect Answer VO -->
+			<sound file="UCA_34.mp3" id="milliIncorrect1" />
+			<sound file="UCA_188.mp3" id="milliIncorrect1" />
+			
+			<sound file="UCA_35.mp3" id="milliIncorrect2" />
+			<sound file="UCA_198.mp3" id="milliIncorrect2" />
+			
+			<sound file="UCA_37.mp3" id="milliIncorrect3" />
+			<sound file="UCA_36.mp3" id="milliIncorrect3" />
+			
+			<!--- Correct Answer VO -->
+			<sound file="UCA_38.mp3" id="milliCorrect" />
+			<sound file="UCA_39.mp3" id="milliCorrect" />
+			<sound file="UCA_40.mp3" id="milliCorrect" />
+		
+			<sound file="UCA_189.mp3" id="milliCorrectFollowup1" />
+			<sound file="UCA_41_ALT.mp3" id="milliCorrectFollowup2" />
+			
+			<!-- Milli Outro 
+			<sound file="UCA_61.mp3" id="milliOutro" />
+			-->
+		</milli>
+		
+		<geo>
+			<!-- Geo Intro 
+			<sound file="UCA_64.mp3" id="geoIntro" />
+			<sound file="UCA_65.mp3" id="geoIntro" />
+			<sound file="UCA_66.mp3" id="geoIntro" />
+			<sound file="UCA_67.mp3" id="geoIntro" />
+			-->
+			<!-- Geo Questions -->
+			<geoGroupA>
+				<sound file="UCA_68.mp3" id="geoA" />
+				
+				<sound file="UCA_69.mp3" id="geoA1" />
+				<sound file="UCA_72.mp3" id="geoA1" />
+				<sound file="UCA_69.mp3" id="geoA1AnswerID" />
+				
+				<sound file="UCA_70.mp3" id="geoA2" />
+				<sound file="UCA_72.mp3" id="geoA2" />
+				<sound file="UCA_70.mp3" id="geoA2AnswerID" />
+				
+				<sound file="UCA_71.mp3" id="geoA3" />
+				<sound file="UCA_72.mp3" id="geoA3" />
+				<sound file="UCA_71.mp3" id="geoA3AnswerID" />
+			</geoGroupA>
+
+			<geoGroupB>
+				<sound file="UCA_73a.mp3" id="geoB" />
+				
+				<sound file="UCA_74.mp3" id="geoB1" />
+				<sound file="UCA_74.mp3" id="geoB1AnswerID" />
+				
+				<sound file="UCA_75.mp3" id="geoB2" />
+				<sound file="UCA_75.mp3" id="geoB2AnswerID" />
+				
+				<sound file="UCA_76.mp3" id="geoB3" />
+				<sound file="UCA_76.mp3" id="geoB3AnswerID" />
+			</geoGroupB>
+			
+			<geoGroupC>
+				<sound file="UCA_77.mp3" id="geoC" />
+				
+				<sound file="UCA_78.mp3" id="geoC1" />
+				<sound file="UCA_78.mp3" id="geoC1AnswerID" />
+				
+				<sound file="UCA_79.mp3" id="geoC2" />
+				<sound file="UCA_79.mp3" id="geoC2AnswerID" />
+				
+				<sound file="UCA_80.mp3" id="geoC3" />
+				<sound file="UCA_80.mp3" id="geoC3AnswerID" />
+			</geoGroupC>
+			
+			<sound file="UCA_68.mp3" id="geoQuestionDelay" /><!-- Also used as delay prompt for first incorrect attempt -->
+			<sound file="UCA_83.mp3" id="geoMultipleIncorrectDelay" /> <!-- Incorrect attempt 2 and higher delay -->
+			<sound file="UCA_72.mp3" id="geoDelayFollowup" />
+			
+			<sound file="UCA_81.mp3" id="geoIncorrect1" />
+			
+			<sound file="UCA_82.mp3" id="geoIncorrect2" />
+			<sound file="UCA_83.mp3" id="geoIncorrect2" />
+			
+			<sound file="UCA_84.mp3" id="geoIncorrect3" />
+			<sound file="UCA_83.mp3" id="geoIncorrect3" />
+			
+			<sound file="UCA_85.mp3" id="geoCorrect" />
+			<sound file="UCA_86.mp3" id="geoCorrect" />
+			<sound file="UCA_87.mp3" id="geoCorrect" />
+			
+			<sound file="UCA_192.mp3" id="geoCorrectFollowup1" />
+			<sound file="UCA_88.mp3" id="geoCorrectFollowup2" />
+	
+			<!-- Geo Outro
+			<sound file="UCA_97.mp3" id="geoOutro" />
+			-->
+		</geo>
+		
+		<bot>
+			<!-- Bot Intro 
+			<sound file="UCA_99.mp3" id="botIntro" />
+			<sound file="UCA_100.mp3" id="botIntro" />
+			<sound file="UCA_194.mp3" id="botIntro" />
+			-->
+			<!-- Bot Questions  -->
+			<botGroupA>
+				<sound file="UCA_101.mp3" id="botA" />
+				
+				<sound file="UCA_102.mp3" id="botA1" />
+				<sound file="UCA_105.mp3" id="botA1" />
+				<sound file="UCA_102.mp3" id="botA1AnswerID" />
+				
+				<sound file="UCA_103.mp3" id="botA2" />
+				<sound file="UCA_105.mp3" id="botA2" />
+				<sound file="UCA_103.mp3" id="botA2AnswerID" />
+				
+				<sound file="UCA_104.mp3" id="botA3" />
+				<sound file="UCA_105.mp3" id="botA3" />
+				<sound file="UCA_104.mp3" id="botA3AnswerID" />
+			</botGroupA>
+		
+			<botGroupB>
+				<sound file="UCA_106.mp3" id="botB" />
+				
+				<sound file="UCA_107B.mp3" id="botB1" />
+				<sound file="UCA_107B.mp3" id="botB1AnswerID" />
+				
+				<sound file="UCA_108.mp3" id="botB2" />
+				<sound file="UCA_108.mp3" id="botB2AnswerID" />
+				
+				<sound file="UCA_109.mp3" id="botB3" />
+				<sound file="UCA_109.mp3" id="botB3AnswerID" />
+			</botGroupB>
+			
+			<botGroupC>
+				<sound file="UCA_110.mp3" id="botC" />
+				<sound file="UCA_111.mp3" id="botC" />
+				
+				<sound file="UCA_112.mp3" id="botC1" />
+				<sound file="UCA_112.mp3" id="botC1AnswerID" />
+				
+				<sound file="UCA_195.mp3" id="botC2" />
+				<sound file="UCA_195.mp3" id="botC2AnswerID" />
+				
+				<sound file="UCA_112.mp3" id="botC3" />
+				<sound file="UCA_112.mp3" id="botC3AnswerID" />
+			</botGroupC>
+			
+			<sound file="UCA_101.mp3" id="botQuestionDelay" /><!-- Also used as delay prompt for first incorrect attempt -->
+			<sound file="UCA_111.mp3" id="botQuestionDelayQ3Only" /><!-- Also used as delay prompt for first incorrect attempt -->
+			<sound file="UCA_117.mp3" id="botMultipleIncorrectDelay" /> <!-- Incorrect attempt 2 and higher delay -->
+			<sound file="UCA_105.mp3" id="botDelayFollowup" />
+			
+			<sound file="UCA_115.mp3" id="botIncorrect1" />
+			<sound file="UCA_196.mp3" id="botIncorrect1" />
+			
+			<sound file="UCA_116.mp3" id="botIncorrect2" />
+			<sound file="UCA_197.mp3" id="botIncorrect2" />
+			
+			<sound file="UCA_115.mp3" id="botIncorrect3" />
+			<sound file="UCA_117.mp3" id="botIncorrect3" />
+			
+			<sound file="UCA_119.mp3" id="botCorrect" />
+			<sound file="UCA_120.mp3" id="botCorrect" />
+			<sound file="UCA_121.mp3" id="botCorrect" />
+			
+			<sound file="UCA_122a.mp3" id="botCorrectFollowup1" />
+			<sound file="UCA_122.mp3" id="botCorrectFollowup2" />
+		</bot>
+		
+		<!-- Challenge Outro 
+		<sound file="UCA_133.mp3" id="challengeOutro" />
+		<sound file="UCA_134.mp3" id="challengeOutro" />
+		<sound file="UCA_135.mp3" id="challengeOutro" />
+		<sound file="UCA_136.mp3" id="challengeOutro" />
+		-->
+		
+	<!-- OPEN PLAY -->
+		<!-- Tutorial 
+		<sound file="UCA_137.mp3" id="openPlayTutorial" />
+		<sound file="UCA_138.mp3" id="openPlayTutorial" />
+		<sound file="UCA_139.mp3" id="openPlayTutorial" />
+		<sound file="UCA_140.mp3" id="openPlayTutorial" />
+		<sound file="UCA_141.mp3" id="openPlayTutorial" />
+		<sound file="UCA_142.mp3" id="openPlayTutorial" />
+		<sound file="UCA_143.mp3" id="openPlayTutorial" />
+		<sound file="UCA_144.mp3" id="openPlayTutorial" />
+		<sound file="UCA_145.mp3" id="openPlayTutorial" />
+		<sound file="UCA_147.mp3" id="openPlayTutorial" />
+		<sound file="UCA_148.mp3" id="openPlayTutorial" />
+		<sound file="UCA_149.mp3" id="openPlayTutorial" />
+		<sound file="UCA_150.mp3" id="openPlayTutorial" />
+		-->
+		
+		<!-- Open Play Delay Prompt -->
+		<sound file="UCA_151.mp3" id="openPlayDelay" />
+		<sound file="UCA_152.mp3" id="openPlayDelay" />
+		<sound file="UCA_149.mp3" id="openPlayDelay" />
+		<sound file="UCA_154.mp3" id="openPlayDelay" />
+		
+		
+		<!-- Open Play Reward -->
+		<sound file="UCA_162.mp3" id="openPlayReward" />
+		<sound file="UCA_163.mp3" id="openPlayReward" />
+		<sound file="UCA_164.mp3" id="openPlayReward" />
+		<sound file="UCA_165.mp3" id="openPlayReward" />
+		<sound file="UCA_166.mp3" id="openPlayReward" />
+		<sound file="UCA_167.mp3" id="openPlayReward" />
+		<sound file="UCA_168.mp3" id="openPlayReward" />
+		<sound file="UCA_169.mp3" id="openPlayReward" />
+		<sound file="UCA_170.mp3" id="openPlayReward" />
+		
+		<!-- Pop up confirm screens -->
+
+		<!-- Open Play Outro 
+		<sound file="UCA_175.mp3" id="openPlayEndScreen" />
+		<sound file="UCA_176.mp3" id="openPlayEndScreen" />
+		<sound file="UCA_177.mp3" id="openPlayEndScreen" />
+		<sound file="UCA_178.mp3" id="openPlayEndScreen" />
+		<sound file="UCA_177.mp3" id="openPlayEndScreenDelay" />
+		<sound file="UCA_178.mp3" id="openPlayEndScreenDelay" />
+		-->
+		
+	</vo>
+</data>

@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Settings>
+  <!-- relative paths -->
+  <!--
+  <SwfsToLoad>
+    <SwfToLoad id="music" path="../music/PrintableMusic.swf" target="none" />
+  </SwfsToLoad>
+  -->
+
+  <!-- absolute paths -->
+  <SwfsToLoad>
+    <SwfToLoad id="music" path="./music/PrintableMusic.swf" target="none" />
+  </SwfsToLoad>
+  
+  <ShowTracer>false</ShowTracer> <!-- show the debug tracer window -->
+  <Debug>false</Debug>
+  <Quiet>false</Quiet> <!-- turn off custom trace messages -->
+
+  <!-- relative path -->
+  <!-- <SoundRoot path="../sounds/" /> -->
+
+  <!-- absolute path -->
+  <SoundRoot path="./sounds/" />
+  <SoundsToLoad>
+    <sound path="DLV_23.mp3" />
+    <sound path="DLV_24.mp3" /> 
+    <sound path="DLV_28.mp3" /> <!-- Purple -->
+    <sound path="DLV_29.mp3" /> <!-- Orange -->
+    <sound path="DLV_157.mp3" /> <!-- Choose a Card -->
+    <sound path="DLV_158.mp3" /> <!-- Next -->
+    <sound path="DLV_161.mp3" /> <!-- Choose a Picture -->
+    <sound path="DLV_162.mp3" /> <!-- Back -->
+    <sound path="DLV_166.mp3" /> <!-- Add Stickers -->
+    <sound path="DLV_167.mp3" list="pinkHearts"/> <!-- Pink hearts!-->
+    <sound path="DLV_168.mp3" list="stars"/> <!-- Stars-->
+    <sound path="DLV_169.mp3" list="butterfly"/> <!-- Butterfly -->
+    <sound path="DLV_170.mp3" list="yellowFlower"/> <!-- Yellow Flower-->
+    <sound path="DLV_171.mp3" list="pinkFlower"/> <!-- Pink Flower-->
+    <sound path="DLV_172.mp3" list="rainbow"/> <!-- Rainbow -->
+    <sound path="DLV_173.mp3" list="xo"/> <!-- XO - a kiss and a hug! -->
+    <sound path="DLV_174.mp3" list="xo!"/> <!-- XO! -->
+    <sound path="DLV_175.mp3" list="blueHeart"/> <!-- Blue Heart -->
+    <sound path="DLV_176.mp3" list="redHeart"/> <!-- Red Heart -->
+    <sound path="DLV_177.mp3" list="hearts"/> <!-- Hearts -->
+    <sound path="DLV_178.mp3" list="flowers"/> <!-- Flowers -->
+    <sound path="DLV_179.mp3" list="heart"/> <!-- Heart -->
+    <sound path="DLV_180.mp3" list="flower"/> <!-- Flower -->
+    <sound path="DLV_181.mp3" list="beMineHeart"/> <!-- Be Mine heart -->
+    <sound path="DLV_182.mp3" list="purpleHeart"/> <!-- Purple heart -->
+    <sound path="DLV_183.mp3" list="swiper"/> <!-- Swiper -->
+    <sound path="DLV_184.mp3" list="benny"/> <!-- Benny -->
+    <sound path="DLV_185.mp3" list="isa"/> <!-- Isa -->
+    <sound path="DLV_186.mp3" list="tico"/> <!-- Tico -->
+    <sound path="DLV_187.mp3" list="senorTucan"/> <!-- Senor Tucan -->
+    <sound path="DLV_188.mp3" list="backpack"/> <!-- Backpack -->
+    <sound path="DLV_189.mp3" list="map"/> <!-- Map -->
+    <sound path="DLV_191.mp3" /> <!-- Happy Valentine's Day -->
+    <sound path="DLV_197.mp3" />
+    <sound path="DLV_198.mp3" />
+    <sound path="DLV_199.mp3" />
+    <sound path="DLV_198.mp3" /> <!-- Yes -->
+    <sound path="DLV_199.mp3" /> <!-- No -->
+    <sound path="DLV_200.mp3" /> <!-- Color Print Rollover -->
+    <sound path="DLV_201.mp3" /> <!-- Black and White Rollover-->
+    <sound path="DLV_202.mp3" />
+  </SoundsToLoad>
+</Settings>

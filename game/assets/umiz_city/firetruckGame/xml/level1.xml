@@ -1,0 +1,5699 @@
+	<data>
+		<level>
+			<name>Level 1</name>
+			<background>Background_1</background>
+			<player>Firetruck</player>
+			<gate>
+				<name>Gate 1</name>
+				<approach>
+					<name>Approach 1</name>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<trigger>
+							<name>playVO-default</name>
+							<vo>if( missedBothGates() ){ playMissedBothGatesVO(); }</vo>
+							<trigger>true</trigger>
+							<type>playVO</type>
+							<id>10</id>
+						</trigger>
+					</t>
+					<t>
+						<i id="3"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="4"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<trigger>
+							<name>slowDownScript-default</name>
+							<type>slowDownScript</type>
+							<trigger>true</trigger>
+							<id>12</id>
+							<script>globals.slowDown( 120 );</script>
+						</trigger>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="1"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="1"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="1"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="1"/>
+						<i id="0"/>
+						<i id="0"/>
+						<trigger>
+							<name>playVO-default</name>
+							<vo>vo.level_1.gate_approach_first</vo>
+							<trigger>true</trigger>
+							<type>playVO</type>
+							<id>10</id>
+						</trigger>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="1"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="5"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="1"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="1"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<trigger>
+							<name>playVO-default</name>
+							<vo>ramp_approach_first (3) (random)</vo>
+							<trigger>true</trigger>
+							<type>playVO</type>
+							<id>10</id>
+						</trigger>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="1"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="1"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+				</approach>
+				<approach>
+					<name>Approach 2</name>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<trigger>
+							<name>playVO-default</name>
+							<vo>if( missedBothGates() ){ playMissedBothGatesVO(); }</vo>
+							<trigger>true</trigger>
+							<type>playVO</type>
+							<id>10</id>
+						</trigger>
+					</t>
+					<t>
+						<i id="3"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="4"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<trigger>
+							<name>slowDownScript-default</name>
+							<type>slowDownScript</type>
+							<trigger>true</trigger>
+							<id>12</id>
+							<script>globals.slowDown( frames );</script>
+						</trigger>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<trigger>
+							<name>playVO-default</name>
+							<vo>vo.level_1.gate_re_approach</vo>
+							<trigger>true</trigger>
+							<type>playVO</type>
+							<id>10</id>
+						</trigger>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="1"/>
+						<i id="0"/>
+						<i id="0"/>
+						<trigger>
+							<name>playVO-default</name>
+							<vo>vo.level_1.tryAgain</vo>
+							<trigger>true</trigger>
+							<type>playVO</type>
+							<id>10</id>
+						</trigger>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="1"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="1"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="1"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="1"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="5"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+				</approach>
+				<approach>
+					<name>Approach 3</name>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<trigger>
+							<name>playVO-default</name>
+							<vo>if( missedBothGates() ){ playMissedBothGatesVO(); }</vo>
+							<trigger>true</trigger>
+							<type>playVO</type>
+							<id>10</id>
+						</trigger>
+					</t>
+					<t>
+						<i id="3"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="4"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<trigger>
+							<name>slowDownScript-default</name>
+							<type>slowDownScript</type>
+							<trigger>true</trigger>
+							<id>12</id>
+							<script>globals.slowDown( frames );</script>
+						</trigger>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<trigger>
+							<name>playVO-default</name>
+							<vo>vo.level_1.gate_re_approach</vo>
+							<trigger>true</trigger>
+							<type>playVO</type>
+							<id>10</id>
+						</trigger>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<trigger>
+							<name>playVO-default</name>
+							<vo>vo.level_1.tryAgain</vo>
+							<trigger>true</trigger>
+							<type>playVO</type>
+							<id>10</id>
+						</trigger>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="1"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="1"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="1"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="1"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="1"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="5"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+				</approach>
+			</gate>
+			<gate>
+				<name>Gate 2</name>
+				<approach>
+					<name>Approach 1</name>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<trigger>
+							<name>playVO-default</name>
+							<vo>if( missedBothGates() ){ playMissedBothGatesVO(); }</vo>
+							<trigger>true</trigger>
+							<type>playVO</type>
+							<id>10</id>
+						</trigger>
+					</t>
+					<t>
+						<i id="4"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="3"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<trigger>
+							<name>slowDownScript-default</name>
+							<type>slowDownScript</type>
+							<trigger>true</trigger>
+							<id>12</id>
+							<script>globals.slowDown( 120 );</script>
+						</trigger>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="1"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<trigger>
+							<name>playVO-default</name>
+							<vo>vo.level_1.gate_approach (2) (random)</vo>
+							<trigger>true</trigger>
+							<type>playVO</type>
+							<id>10</id>
+						</trigger>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="1"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="1"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="5"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="1"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="1"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="1"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="5"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="1"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="1"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+				</approach>
+				<approach>
+					<name>Approach 2</name>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<trigger>
+							<name>playVO-default</name>
+							<vo>if( missedBothGates() ){ playMissedBothGatesVO(); }</vo>
+							<trigger>true</trigger>
+							<type>playVO</type>
+							<id>10</id>
+						</trigger>
+					</t>
+					<t>
+						<i id="4"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="3"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<trigger>
+							<name>slowDownScript-default</name>
+							<type>slowDownScript</type>
+							<trigger>true</trigger>
+							<id>12</id>
+							<script>globals.slowDown( 120 );</script>
+						</trigger>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<trigger>
+							<name>playVO-default</name>
+							<vo>vo.level_1.gate_re_approach</vo>
+							<trigger>true</trigger>
+							<type>playVO</type>
+							<id>10</id>
+						</trigger>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<trigger>
+							<name>playVO-default</name>
+							<vo>vo.level_1.tryAgain</vo>
+							<trigger>true</trigger>
+							<type>playVO</type>
+							<id>10</id>
+						</trigger>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="1"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="1"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="1"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="5"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="1"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="1"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+				</approach>
+				<approach>
+					<name>Approach 3</name>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<trigger>
+							<name>playVO-default</name>
+							<vo>if( missedBothGates() ){ playMissedBothGatesVO(); }</vo>
+							<trigger>true</trigger>
+							<type>playVO</type>
+							<id>10</id>
+						</trigger>
+					</t>
+					<t>
+						<i id="4"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="3"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<trigger>
+							<name>slowDownScript-default</name>
+							<type>slowDownScript</type>
+							<trigger>true</trigger>
+							<id>12</id>
+							<script>globals.slowDown( 120 );</script>
+						</trigger>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<trigger>
+							<name>playVO-default</name>
+							<vo>vo.level_1.gate_re_approach</vo>
+							<trigger>true</trigger>
+							<type>playVO</type>
+							<id>10</id>
+						</trigger>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<trigger>
+							<name>playVO-default</name>
+							<vo>vo.level_1.tryAgain</vo>
+							<trigger>true</trigger>
+							<type>playVO</type>
+							<id>10</id>
+						</trigger>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="1"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="1"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="1"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="5"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="1"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="1"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+				</approach>
+			</gate>
+			<gate>
+				<name>Gate 3</name>
+				<approach>
+					<name>Approach 1</name>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<trigger>
+							<name>playVO-default</name>
+							<vo>if( missedBothGates() ){ playMissedBothGatesVO(); }else if( hitCorrectGate()){ if( isLastGate() ) { playEndLevelVO(); }}</vo>
+							<trigger>true</trigger>
+							<type>playVO</type>
+							<id>10</id>
+						</trigger>
+					</t>
+					<t>
+						<i id="4"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="3"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<trigger>
+							<name>slowDownScript-default</name>
+							<type>slowDownScript</type>
+							<trigger>true</trigger>
+							<id>12</id>
+							<script>globals.slowDown( 120 );</script>
+						</trigger>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="1"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<trigger>
+							<name>playVO-default</name>
+							<vo>if( isLastGate() ){ playSoundStr(vo.level_1.gate_approach_last);  }else{ playSoundStr('vo.level_1.gate_approach (2) (random)')' }</vo>
+							<trigger>true</trigger>
+							<type>playVO</type>
+							<id>10</id>
+						</trigger>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="1"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="1"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="6"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="5"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="6"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="1"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="1"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="1"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="1"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="1"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="1"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<trigger>
+							<name>playVO-default</name>
+							<vo>vo.level_1.leaves_approach_first (2) (all)</vo>
+							<trigger>true</trigger>
+							<type>playVO</type>
+							<id>10</id>
+						</trigger>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+				</approach>
+				<approach>
+					<name>Approach 2</name>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<trigger>
+							<name>playVO-default</name>
+							<vo>if( missedBothGates() ){ playMissedBothGatesVO(); }else if( hitCorrectGate()){ if( isLastGate() ) { playEndLevelVO(); }}</vo>
+							<trigger>true</trigger>
+							<type>playVO</type>
+							<id>10</id>
+						</trigger>
+					</t>
+					<t>
+						<i id="4"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="3"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<trigger>
+							<name>slowDownScript-default</name>
+							<type>slowDownScript</type>
+							<trigger>true</trigger>
+							<id>12</id>
+							<script>globals.slowDown( 120 );</script>
+						</trigger>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<trigger>
+							<name>playVO-default</name>
+							<vo>vo.level_1.gate_re_approach</vo>
+							<trigger>true</trigger>
+							<type>playVO</type>
+							<id>10</id>
+						</trigger>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<trigger>
+							<name>playVO-default</name>
+							<vo>vo.level_1.tryAgain</vo>
+							<trigger>true</trigger>
+							<type>playVO</type>
+							<id>10</id>
+						</trigger>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="1"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="1"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="6"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="1"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="1"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="1"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+				</approach>
+				<approach>
+					<name>Approach 3</name>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<trigger>
+							<name>playVO-default</name>
+							<vo>if( missedBothGates() ){ playMissedBothGatesVO(); }else if( hitCorrectGate()){ if( isLastGate() ) { playEndLevelVO(); }}</vo>
+							<trigger>true</trigger>
+							<type>playVO</type>
+							<id>10</id>
+						</trigger>
+					</t>
+					<t>
+						<i id="4"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="3"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<trigger>
+							<name>slowDownScript-default</name>
+							<type>slowDownScript</type>
+							<trigger>true</trigger>
+							<id>12</id>
+							<script>globals.slowDown( 120 );</script>
+						</trigger>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<trigger>
+							<name>playVO-default</name>
+							<vo>vo.level_1.gate_re_approach</vo>
+							<trigger>true</trigger>
+							<type>playVO</type>
+							<id>10</id>
+						</trigger>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<trigger>
+							<name>playVO-default</name>
+							<vo>vo.level_1.tryAgain</vo>
+							<trigger>true</trigger>
+							<type>playVO</type>
+							<id>10</id>
+						</trigger>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="1"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="1"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="6"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="1"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="1"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="1"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+				</approach>
+			</gate>
+			<gate>
+				<name>Gate 4</name>
+				<approach>
+					<name>Approach 1</name>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<trigger>
+							<name>playVO-default</name>
+							<vo>if( missedBothGates() ){ playMissedBothGatesVO(); }else if( hitCorrectGate()){ if( isLastGate() ) { playEndLevelVO(); }}</vo>
+							<trigger>true</trigger>
+							<type>playVO</type>
+							<id>10</id>
+						</trigger>
+					</t>
+					<t>
+						<i id="4"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="3"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<trigger>
+							<name>slowDownScript-default</name>
+							<type>slowDownScript</type>
+							<trigger>true</trigger>
+							<id>12</id>
+							<script>globals.slowDown( 120 );</script>
+						</trigger>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="1"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<trigger>
+							<name>playVO-default</name>
+							<vo>if( isLastGate() ){ playSoundStr(vo.level_1.gate_approach_last);  }else{ playSoundStr('vo.level_1.gate_approach (2) (random)')' }</vo>
+							<trigger>true</trigger>
+							<type>playVO</type>
+							<id>10</id>
+						</trigger>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="1"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="1"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="7"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="5"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="7"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="1"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="1"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="1"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="1"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="1"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="1"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<trigger>
+							<name>playVO-default</name>
+							<vo>gravel_approach_first (3) (random)</vo>
+							<trigger>true</trigger>
+							<type>playVO</type>
+							<id>10</id>
+						</trigger>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+				</approach>
+				<approach>
+					<name>Approach 2</name>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<trigger>
+							<name>playVO-default</name>
+							<vo>if( missedBothGates() ){ playMissedBothGatesVO(); }else if( hitCorrectGate()){ if( isLastGate() ) { playEndLevelVO(); }}</vo>
+							<trigger>true</trigger>
+							<type>playVO</type>
+							<id>10</id>
+						</trigger>
+					</t>
+					<t>
+						<i id="4"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="3"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<trigger>
+							<name>slowDownScript-default</name>
+							<type>slowDownScript</type>
+							<trigger>true</trigger>
+							<id>12</id>
+							<script>globals.slowDown( 120 );</script>
+						</trigger>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<trigger>
+							<name>playVO-default</name>
+							<vo>vo.level_1.gate_re_approach</vo>
+							<trigger>true</trigger>
+							<type>playVO</type>
+							<id>10</id>
+						</trigger>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<trigger>
+							<name>playVO-default</name>
+							<vo>vo.level_1.tryAgain</vo>
+							<trigger>true</trigger>
+							<type>playVO</type>
+							<id>10</id>
+						</trigger>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="1"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="1"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="1"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="7"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="1"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="1"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+				</approach>
+				<approach>
+					<name>Approach 3</name>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<trigger>
+							<name>playVO-default</name>
+							<vo>if( missedBothGates() ){ playMissedBothGatesVO(); }else if( hitCorrectGate()){ if( isLastGate() ) { playEndLevelVO(); }}</vo>
+							<trigger>true</trigger>
+							<type>playVO</type>
+							<id>10</id>
+						</trigger>
+					</t>
+					<t>
+						<i id="4"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="3"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<trigger>
+							<name>slowDownScript-default</name>
+							<type>slowDownScript</type>
+							<trigger>true</trigger>
+							<id>12</id>
+							<script>globals.slowDown( 120 );</script>
+						</trigger>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<trigger>
+							<name>playVO-default</name>
+							<vo>vo.level_1.gate_re_approach</vo>
+							<trigger>true</trigger>
+							<type>playVO</type>
+							<id>10</id>
+						</trigger>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<trigger>
+							<name>playVO-default</name>
+							<vo>vo.level_1.tryAgain</vo>
+							<trigger>true</trigger>
+							<type>playVO</type>
+							<id>10</id>
+						</trigger>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="1"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="1"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="1"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="7"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="1"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="1"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+				</approach>
+			</gate>
+			<gate>
+				<name>Gate 5</name>
+				<approach>
+					<name>Approach 1</name>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="1"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="1"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<trigger>
+							<name>playVO-default</name>
+							<vo>if( missedBothGates() ){ playMissedBothGatesVO(); }else if( hitCorrectGate()){ if( isLastGate() ) { playEndLevelVO(); }}</vo>
+							<trigger>true</trigger>
+							<type>playVO</type>
+							<id>10</id>
+						</trigger>
+					</t>
+					<t>
+						<i id="4"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="3"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<trigger>
+							<name>slowDownScript-default</name>
+							<type>slowDownScript</type>
+							<trigger>true</trigger>
+							<id>12</id>
+							<script>globals.slowDown( 120 );</script>
+						</trigger>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="1"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<trigger>
+							<name>playVO-default</name>
+							<vo>if( isLastGate() ){ playSoundStr(vo.level_1.gate_approach_last);  }else{ playSoundStr('vo.level_1.gate_approach (2) (random)')' }</vo>
+							<trigger>true</trigger>
+							<type>playVO</type>
+							<id>10</id>
+						</trigger>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="1"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="1"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="6"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="1"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="6"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="1"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="5"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="1"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="1"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="1"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="7"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="5"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="1"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+				</approach>
+				<approach>
+					<name>Approach 2</name>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="1"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="1"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<trigger>
+							<name>playVO-default</name>
+							<vo>if( missedBothGates() ){ playMissedBothGatesVO(); }else if( hitCorrectGate()){ if( isLastGate() ) { playEndLevelVO(); }}</vo>
+							<trigger>true</trigger>
+							<type>playVO</type>
+							<id>10</id>
+						</trigger>
+					</t>
+					<t>
+						<i id="4"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="3"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<trigger>
+							<name>slowDownScript-default</name>
+							<type>slowDownScript</type>
+							<trigger>true</trigger>
+							<id>12</id>
+							<script>globals.slowDown( 120 );</script>
+						</trigger>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="1"/>
+						<i id="0"/>
+						<i id="0"/>
+						<trigger>
+							<name>playVO-default</name>
+							<vo>if( isLastGate() ){ playSoundStr(vo.level_1.gate_approach_last);  }else{ playSoundStr('vo.level_1.gate_approach (2) (random)')' }</vo>
+							<trigger>true</trigger>
+							<type>playVO</type>
+							<id>10</id>
+						</trigger>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="1"/>
+						<i id="0"/>
+						<i id="0"/>
+						<trigger>
+							<name>playVO-default</name>
+							<vo>vo.level_1.tryAgain</vo>
+							<trigger>true</trigger>
+							<type>playVO</type>
+							<id>10</id>
+						</trigger>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="6"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="1"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="6"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="1"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="1"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="5"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+				</approach>
+				<approach>
+					<name>Approach 3</name>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="1"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="1"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<trigger>
+							<name>playVO-default</name>
+							<vo>if( missedBothGates() ){ playMissedBothGatesVO(); }else if( hitCorrectGate()){ if( isLastGate() ) { playEndLevelVO(); }}</vo>
+							<trigger>true</trigger>
+							<type>playVO</type>
+							<id>10</id>
+						</trigger>
+					</t>
+					<t>
+						<i id="4"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="3"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<trigger>
+							<name>slowDownScript-default</name>
+							<type>slowDownScript</type>
+							<trigger>true</trigger>
+							<id>12</id>
+							<script>globals.slowDown( 120 );</script>
+						</trigger>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="1"/>
+						<i id="0"/>
+						<i id="0"/>
+						<trigger>
+							<name>playVO-default</name>
+							<vo>if( isLastGate() ){ playSoundStr(vo.level_1.gate_approach_last);  }else{ playSoundStr('vo.level_1.gate_approach (2) (random)')' }</vo>
+							<trigger>true</trigger>
+							<type>playVO</type>
+							<id>10</id>
+						</trigger>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="1"/>
+						<i id="0"/>
+						<i id="0"/>
+						<trigger>
+							<name>playVO-default</name>
+							<vo>vo.level_1.tryAgain</vo>
+							<trigger>true</trigger>
+							<type>playVO</type>
+							<id>10</id>
+						</trigger>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="6"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="1"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="6"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="1"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="1"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="5"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+					<t>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+						<i id="0"/>
+					</t>
+				</approach>
+			</gate>
+		</level>
+		<objects>
+			<object>
+				<name>noitem-default</name>
+				<type>noitem</type>
+				<id>0</id>
+			</object>
+			<object>
+				<name>gravel-default</name>
+				<hitSFX>truckHitGravel</hitSFX>
+				<xOffset>0</xOffset>
+				<waterHitVO>vo.level_1.hose_shoot (random)</waterHitVO>
+				<yOffset>0</yOffset>
+				<hitVO>vo.level_1.gravel_hit</hitVO>
+				<id>7</id>
+				<type>gravel</type>
+				<waterHitSFX>fireHoseSprayAway</waterHitSFX>
+				<grounded>true</grounded>
+				<depthOffset>300</depthOffset>
+				<hitVO_first></hitVO_first>
+			</object>
+			<object>
+				<name>leaves-default</name>
+				<hitSFX>truckHitLeaves</hitSFX>
+				<xOffset>0</xOffset>
+				<waterHitVO>vo.level_1.hose_shoot (2) (sequence)</waterHitVO>
+				<yOffset>0</yOffset>
+				<hitVO>vo.level_1.leaves_hit</hitVO>
+				<id>6</id>
+				<type>leaves</type>
+				<waterHitSFX>fireHoseSprayAway</waterHitSFX>
+				<grounded>true</grounded>
+				<depthOffset>200</depthOffset>
+				<hitVO_first></hitVO_first>
+			</object>
+			<object>
+				<name>badge-default</name>
+				<hitSFX>collectBadge</hitSFX>
+				<yOffset>0</yOffset>
+				<hitVO></hitVO>
+				<id>1</id>
+				<type>badge</type>
+				<xOffset>0</xOffset>
+				<depthOffset>0</depthOffset>
+				<hitVO_first>vo.level_1.badge_hit_first</hitVO_first>
+			</object>
+			<object>
+				<name>speedBump-default</name>
+				<hitSFX>truckJump,CA_Toolbox</hitSFX>
+				<yOffset>0</yOffset>
+				<hitVO>vo.level_1.ramp_hit (3) (random)</hitVO>
+				<id>5</id>
+				<type>speedBump</type>
+				<xOffset>0</xOffset>
+				<grounded>true</grounded>
+				<depthOffset>200</depthOffset>
+				<hitVO_first>vo.level_1.ramp_hit_first (2) (random), vo.level_1.ramp_hit_first_2 (2) (random)</hitVO_first>
+			</object>
+			<object>
+				<name>firehat-default</name>
+				<hitSFX>CA_Toolbox</hitSFX>
+				<yOffset>0</yOffset>
+				<hitVO></hitVO>
+				<id>8</id>
+				<type>firehat</type>
+				<xOffset>0</xOffset>
+				<depthOffset>0</depthOffset>
+				<hitVO_first></hitVO_first>
+			</object>
+			<object>
+				<name>firehose-default</name>
+				<hitSFX></hitSFX>
+				<yOffset>0</yOffset>
+				<hitVO></hitVO>
+				<id>9</id>
+				<type>firehose</type>
+				<xOffset>0</xOffset>
+				<grounded>true</grounded>
+				<depthOffset>600</depthOffset>
+				<hitVO_first></hitVO_first>
+			</object>
+			<object>
+				<name>ladder-default</name>
+				<hitSFX></hitSFX>
+				<yOffset>0</yOffset>
+				<hitVO></hitVO>
+				<id>13</id>
+				<type>ladder</type>
+				<xOffset>0</xOffset>
+				<grounded>true</grounded>
+				<depthOffset>600</depthOffset>
+				<hitVO_first></hitVO_first>
+			</object>
+			<object>
+				<name>siren-default</name>
+				<hitSFX>Siren,CA_Toolbox</hitSFX>
+				<yOffset>0</yOffset>
+				<hitVO></hitVO>
+				<id>2</id>
+				<type>siren</type>
+				<xOffset>0</xOffset>
+				<depthOffset>0</depthOffset>
+				<hitVO_first></hitVO_first>
+			</object>
+			<object>
+				<name>playVO-default</name>
+				<vo></vo>
+				<trigger>true</trigger>
+				<type>playVO</type>
+				<id>10</id>
+			</object>
+			<object>
+				<name>runScript-default</name>
+				<type>runScript</type>
+				<trigger>true</trigger>
+				<id>11</id>
+				<script></script>
+			</object>
+			<object>
+				<name>rightGate-default</name>
+				<hitSFX>CA_Toolbox</hitSFX>
+				<yOffset>0</yOffset>
+				<hitVO>vo.level_1.gate_correct_hit (3) (random),vo.level_1.gate_correct_hit_2,vo.level_1.gate_correct_hit_3 (2) (random)</hitVO>
+				<id>3</id>
+				<type>rightGate</type>
+				<xOffset>0</xOffset>
+				<grounded>false</grounded>
+				<depthOffset>50</depthOffset>
+				<hitVO_first></hitVO_first>
+			</object>
+			<object>
+				<name>wrongGate-default</name>
+				<hitSFX>bounceOff</hitSFX>
+				<yOffset>0</yOffset>
+				<hitVO>vo.level_1.gate_incorrect_hit (2) (all)</hitVO>
+				<depthOffset>-100</depthOffset>
+				<type>wrongGate</type>
+				<xOffset>0</xOffset>
+				<hitVO_second>vo.level_1.gate_incorrect_hit_second (2) (all)</hitVO_second>
+				<grounded>true</grounded>
+				<hitVO_third>vo.level_1.gate_incorrect_hit_third (2) (all)</hitVO_third>
+				<id>4</id>
+				<hitVO_first>vo.level_1.gate_incorrect_hit_first</hitVO_first>
+			</object>
+			<object>
+				<name>slowDownScript-default</name>
+				<type>slowDownScript</type>
+				<trigger>true</trigger>
+				<id>12</id>
+				<script>globals.slowDown( frames );</script>
+			</object>
+		</objects>
+	</data>

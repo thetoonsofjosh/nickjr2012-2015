@@ -1,0 +1,22 @@
+<xml>
+	<loadSchema preloader="preloader.swf" localizationXML="xml/strings.xml" fontSWF="fonts.swf" loader="loader.swf" loaderBG="img/loaderBG.jpg" audioXML="xml/soundFiles.xml" primaryBatch="primary" autoLoadQueue="" />
+	
+	<primary>
+		<!---- swf id="childswf" file="childswf.swf" -->
+		<!---- xml id="xml" file="xml.xml" -->
+		<!---- img id="img" file="img.jpg" -->
+		<!---- txtData id="childswf" file="txt.cvs" -->
+		
+		<audioswf id="audioSWF1" file="audioswf1.swf" />
+		
+
+		<audioLoadList groupIDQueue="music,sfx,vo" />
+		
+		<xml id="gameConfig" file="xml/gameConfig.xml" />
+		
+		<swf id="gameSWF" file="FreshBeatBand_Game.swf" />
+		
+		<swf id="animations" file="FreshBeatBand_Scenes.swf" />
+	</primary>
+	
+</xml>

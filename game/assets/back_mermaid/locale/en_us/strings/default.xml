@@ -1,0 +1,72 @@
+ <!-- *********** INSTRUCTIONS *********** -->
+<!-- for each lines : -->
+<!-- id should not be changed -->
+<!-- change fontName to use another font -->
+<!-- -make sure this font is in locale/***/fonts/font.swf and fonts.xml -->
+<!-- change fontSize to reduce/expand font size to fit the textfield -->
+<!-- set html to true or false if you wish the text to be rendered as html -->
+<!-- insert the text within the <![CDATA[TEXT HERE]]> brackets -->
+
+<?xml version="1.0" encoding="utf-8"?>
+<strings>
+	<!-- Preloader screen -->
+	<string id="ui_preloader_title"				fontName="Shag Lounge"		fontSize="40"	html="false"><![CDATA[LOADING...]]></string>
+	
+	<!-- Title screen -->
+	<string id="ui_title_button_play"			fontName="Shag Lounge"		fontSize="34"	html="true"><![CDATA[<b>PLAY</b>]]></string>
+	<string id="ui_title_text"					fontName="Shag Lounge"		fontSize="70"	html="true"><![CDATA[MERMAID GARDEN MATCHING]]></string>
+	<string id="ui_title_text0"					fontName="Shag Lounge"		fontSize="50"	html="true"><![CDATA[MERMAID]]></string> 
+	<string id="ui_title_text1"					fontName="Shag Lounge"		fontSize="90"	html="true"><![CDATA[GARDEN]]></string> 
+	<string id="ui_title_text2"					fontName="Shag Lounge"		fontSize="64"	html="true"><![CDATA[MATCHING]]></string> 
+	
+	<!-- How to play screen -->
+	<string id="ui_cutScene_button_continue"	fontName="Shag Lounge"		fontSize="24"	html="true"><![CDATA[<b>Continue</b>]]></string>
+	<string id="ui_howtoplay_button_skip"		fontName="Shag Lounge"		fontSize="34"	html="true"><![CDATA[<b>SKIP</b>]]></string>
+	<string id="ui_howtoplay_button_continue"	fontName="Shag Lounge"		fontSize="30"	html="true"><![CDATA[<b>CONTINUE</b>]]></string>
+	
+	<!-- Win screen -->
+	<string id="ui_win_skip"					fontName="Shag Lounge"		fontSize="34"	html="true"><![CDATA[<b>SKIP</b>]]></string>
+	
+	<!-- Print screen -->
+	<string id="ui_print_title"					fontName="Shag Lounge"		fontSize="34"	html="false"><![CDATA[Print and play at home!]]></string>
+	<string id="ui_print_instruction0"			fontName="Shag Lounge"		fontSize="14"	html="false"><![CDATA[Print out the cards]]></string>
+	<string id="ui_print_instruction1"			fontName="Shag Lounge"		fontSize="14"	html="false"><![CDATA[Cut and fold on the dotted line.]]></string>
+	<string id="ui_print_instruction2"			fontName="Shag Lounge"		fontSize="14"	html="false"><![CDATA[Glue together.]]></string>
+	<string id="ui_print_instruction3"			fontName="Shag Lounge"		fontSize="14"	html="false"><![CDATA[Play!]]></string>
+	<string id="ui_print_button_close"			fontName="Shag Lounge"		fontSize="24"	html="true"><![CDATA[<b>CLOSE</b>]]></string>
+	
+	<!-- Print sheet -->
+	<string id="ui_printsheet_title"			fontName="Shag Lounge"		fontSize="34"	html="false"><![CDATA[Print and play at home!]]></string>
+	<string id="ui_printsheet_instruct0"		fontName="Shag Lounge"		fontSize="14"	html="false"><![CDATA[Cut and fold on the dotted line.]]></string>
+	<string id="ui_printsheet_instruct1"		fontName="Shag Lounge"		fontSize="14"	html="false"><![CDATA[Glue together.]]></string>
+	<string id="ui_printsheet_instruct2"		fontName="Shag Lounge"		fontSize="14"	html="false"><![CDATA[Place all cards face down.  Take turns flipping over two cards to look for a match.  If a match is not found, turn the cards back over.]]></string>
+	<string id="ui_printsheet_instruct3"		fontName="Shag Lounge"		fontSize="24"	html="false"><![CDATA[The player with the most matches wins!]]></string>
+	<string id="ui_printsheet_instruct4"		fontName="Shag Lounge"		fontSize="12"	html="false"><![CDATA[Cut here]]></string>
+	
+	<!-- HUD -->
+	<string id="ui_hud_button_help"				fontName="Trebuchet MS"		fontSize="16"	html="false"><![CDATA[?]]></string>
+	<string id="ui_hud_score"					fontName="Trebuchet MS"		fontSize="16"	html="false"><![CDATA[Score: $value$]]></string>
+	
+	<!-- Menu Pop-up -->
+	<string id="ui_popup_menu_title"			fontName="Trebuchet MS"		fontSize="30"	html="false"><![CDATA[Menu]]></string>
+	<string id="ui_popup_menu_button_resume"	fontName="Trebuchet MS"		fontSize="16"	html="false"><![CDATA[Resume]]></string>
+	<string id="ui_popup_menu_button_quit"		fontName="Trebuchet MS"		fontSize="16"	html="false"><![CDATA[Quit]]></string>
+	<string id="ui_popup_menu_button_howtoplay"	fontName="Trebuchet MS"		fontSize="16"	html="false"><![CDATA[How to Play]]></string>
+	
+	<!-- Quit Popup -->
+	<string id="ui_popup_quit_title"			fontName="Trebuchet MS"		fontSize="30"	html="false"><![CDATA[Quit]]></string>
+	<string id="ui_popup_quit_text"				fontName="Trebuchet MS"		fontSize="20"	html="false"><![CDATA[Are you sure you want to quit?]]></string>
+	<string id="ui_popup_quit_button_yes"		fontName="Trebuchet MS"		fontSize="16"	html="false"><![CDATA[Yes]]></string>
+	<string id="ui_popup_quit_button_no"		fontName="Trebuchet MS"		fontSize="16"	html="false"><![CDATA[No]]></string>
+	
+	<!-- Tunein Popup -->
+	<string id="ui_popup_tune_title"			fontName="VAG Rounded Black" fontSize="15"	html="false"><![CDATA[Tune in to the Backyardigans on NickJr!]]></string>
+	
+	<!-- CutScenes -->
+	<string id="ui_cutScene_button_skip"		fontName="Shag Lounge"		fontSize="34"	html="true"><![CDATA[<b>SKIP</b>]]></string>
+	<string id="ui_cutScene_Extro_button_skip"	fontName="Shag Lounge"		fontSize="30"	html="true"><![CDATA[<b>PLAY AGAIN</b>]]></string>
+	
+	<!-- Legals -->
+	<string id="legals0"		fontName="Shag Lounge"		fontSize="8"	html="false"><![CDATA[© 2009 Viacom International Inc. All rights reserved.]]></string>
+	<string id="legals1"		fontName="Shag Lounge"		fontSize="8"	html="false"><![CDATA[Nick Jr., Backyardigans, and all related titles, logos, and characters are trademarks of Viacom International Inc.]]></string>
+</strings>

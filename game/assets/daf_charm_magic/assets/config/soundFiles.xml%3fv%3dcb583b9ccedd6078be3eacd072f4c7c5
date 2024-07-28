@@ -1,0 +1,389 @@
+<data dir="mp3/">
+	<music channel="music" volume="50">
+		
+		<sound file="CharmMagicMusic_01sting" id="titleSting" volume="50" loops="0" packName="primary"/>
+		<sound file="CharmMagicMusic_02intro" id="introLoop" volume="50" loops="1" packName="primary"/>
+		<sound file="CharmMagicMusic_01" id="musicL1" volume="50" loops="1" packName="primary"/>
+		<sound file="CharmMagicMusic_01" id="musicL3" volume="50" loops="1" packName="primary"/>
+		<sound file="CharmMagicMusic_03" id="musicL2" volume="50" loops="1" packName="primary"/>
+	</music>
+	
+	<sfx channel="sfx" volume="50" muteable="true">
+
+		<sound file="bunnyDown"volume="50"  packName="primary" />
+		<sound file="bunnyUp" volume="50"  packName="primary" />
+
+		<sound file="puddle1" id="puddleSFX" volume="40"  packName="primary" />
+		<sound file="puddle2" id="puddleSFX" volume="40"  packName="primary" />
+		<sound file="puddle3" id="puddleSFX" volume="40"  packName="primary" />
+
+		<sound file="endOfLevel13" id="endLevelSFX1" volume="80"  packName="primary" />
+		<sound file="endOfLevel13" id="endLevelSFX3" volume="80"  packName="primary" />
+		<sound file="endOfLevel2" id="endLevelSFX2" volume="80"  packName="primary" />
+
+		<sound file="phoneRingDora" volume="40"  packName="primary" />
+		<sound file="soccerKick2" volume="50"  packName="primary" />
+		<sound file="duckRise" volume="40"  packName="primary" />
+		<sound file="plankIn" volume="40"  packName="primary" />
+
+		<sound file="plankOut" volume="50"  packName="primary" />
+		<sound file="dragonMount" volume="50"  packName="primary" />
+		<sound file="dragonDismount" volume="50"  packName="primary" />
+		<sound file="dragonFly" volume="40"  packName="primary" />
+		<sound file="dragonFlyAway" volume="40"  packName="primary" />
+		<sound file="duckLoop" volume="40"  packName="primary" />
+
+		<sound file="magicTrans" volume="50"  packName="primary" />
+		<sound file="soccerKick" volume="50"  packName="primary" />
+
+		<sound file="ca1" id="collectionSFXLevel"  volume="40"  packName="primary" />
+		<sound file="ca2" id="collectionSFXLevel"  volume="40"  packName="primary" />
+		<sound file="ca3" id="collectionSFXLevel"  volume="40"  packName="primary" />
+		<sound file="ca4" id="collectionSFXLevel"  volume="40"  packName="primary" />
+		<sound file="ca5" id="collectionSFXLevel"  volume="40"  packName="primary" />
+		<sound file="ca6" id="collectionSFXLevel"  volume="40"  packName="primary" />
+		
+		<sound file="caCharm" volume="50"  packName="primary" />
+		<sound file="click1" volume="20"  packName="primary" />
+		<sound file="clickLoc" id="LevelSelectionButtonClick" volume="30"  packName="primary" />
+		<!--sound file="ro1" id="LevelSelectionButtonRO" volume="30"  packName="primary" /-->
+		<sound file="heliLand" volume="50"  packName="primary" />
+		<sound file="heliLoop" volume="20"  packName="primary" />
+		<sound file="jumpScooter" volume="20"  packName="primary" />
+		<sound file="locGone" volume="30"  packName="primary" />
+		<sound file="locReveal" volume="30"  packName="primary" />
+		<sound file="scooterLoop" volume="0"  packName="primary" />
+		<sound file="transform" volume="50"  packName="primary" />
+		<sound file="waCharm" volume="40"  packName="primary" />
+		<sound file="wipeOff" volume="40"  packName="primary" />
+		<sound file="wipeOn" volume="40"  packName="primary" />
+		<sound file="bump1" id="bump" volume="40"  packName="primary" />
+		<sound file="bump2" id="bump" volume="40"  packName="primary" />
+		<sound file="bump3" id="bump" volume="40"  packName="primary" />
+		<sound file="bump4" id="bump" volume="40"  packName="primary" />
+		<sound file="bump5" id="bump" volume="40"  packName="primary" />
+		<sound file="bump6" id="bump" volume="40"  packName="primary" />
+		<sound file="bump7" id="bump" volume="40"  packName="primary" />
+
+		<sound file="click1" id="playBtnClick"  volume="20"  packName="primary" />
+		<sound file="click1" id="printBtnClick"  volume="20"  packName="primary" />
+		<sound file="click1" id="playAgainBtnClick"  volume="20"  packName="primary" />
+		<sound file="click1" id="backBtnClick"  volume="20"  packName="primary" />
+		<sound file="click1" id="nextBtnClick"  volume="20"  packName="primary" />
+		<sound file="click1" id="skipBtnClick"  volume="20"  packName="primary" />
+		
+		<!--sound file="ro1" id="playBtnRO"  volume="20"  packName="primary" />
+		<sound file="ro1" id="printBtnRO"  volume="20"  packName="primary" />
+		<sound file="ro1" id="playAgainBtnRO"  volume="20"  packName="primary" />
+		<sound file="ro1" id="backBtnRO"  volume="20"  packName="primary" />
+		<sound file="ro1" id="nextBtnRO"  volume="20"  packName="primary" />
+		<sound file="ro1" id="skipBtnRO"  volume="20"  packName="primary" /-->
+	</sfx>
+	
+	<vo channel="vo" volume="100">
+	<!-- CODE TRIGGERED AUDIO -->
+		<!-- TITLE -->
+		<sound file="DCM_1" id="titleVO"  volume="100"  packName="primary" />
+		<sound file="DCM_2" id="titleVO"  volume="100"  packName="primary" />
+		<sound file="DCM_2a" id="titleVO_mobile"  volume="100"  packName="primary" />
+		<sound file="DCM_3" id="playBtnVO"  volume="100"  packName="primary" />
+		<sound file="DCM_2" id="titleDelay"  volume="100"  packName="primary" />
+		<sound file="DCM_2" id="titleDelay_mobile"  volume="100"  packName="primary" />
+		
+		<!-- INTRO -->
+		<sound file="DCM_4" volume="100"  packName="primary" />
+		<sound file="DCM_5"  volume="100"  packName="primary" />
+		<sound file="DCM_5a" volume="100"  packName="primary" />
+		<sound file="DCM_6" volume="100"  packName="primary" />
+		<sound file="DCM_7"  volume="100"  packName="primary" />
+		
+		<!-- GPS -->
+		<sound file="DCM_10a" id="gpsTutorial1" volume="100"  packName="primary" />
+		<sound file="DCM_23" id="gpsTutorial1" volume="100"  packName="primary" />
+		<sound file="DCM_24" id="gpsTutorial2" volume="100"  packName="primary" />
+		<sound file="DCM_25" id="gpsTutorial3" volume="100"  packName="primary" />
+	
+		<sound file="DCM_23" id="gpsDelay1" volume="100"  packName="primary" />
+		<sound file="DCM_24" id="gpsDelay2" volume="100"  packName="primary" />
+		<sound file="DCM_25" id="gpsDelay3" volume="100"  packName="primary" />
+		
+		<sound file="DCM_18" id="gpsTutorialAny" volume="100"  packName="primary" />
+		<sound file="DCM_18a" id="gpsTutorialAny_mobile" volume="100"  packName="primary" />
+
+		<sound file="DCM_19" id="gpsLevelSelected1" volume="100"  packName="primary" />
+		<sound file="DCM_20" id="gpsLevelSelected2" volume="100"  packName="primary" />
+		<sound file="DCM_21" id="gpsLevelSelected3" volume="100"  packName="primary" />
+		
+		<sound file="DCM_22" id="skipBtnVO" volume="100"  packName="primary" />
+		<sound file="DCM_23" id="levelSelect1VO" volume="100"  packName="primary" />
+		<sound file="DCM_24" id="levelSelect2VO" volume="100"  packName="primary" />
+		<sound file="DCM_25" id="levelSelect3VO" volume="100"  packName="primary" />
+		
+		<!-- Tutorial -->
+		
+		<sound file="DCM_30a"id="tutorialIntro" volume="100"  packName="primary" />
+		
+		<sound file="DCM_29b"id="tutorialDirection" volume="100"  packName="primary" />
+		<sound file="DCM_29" id="tutorialDirection" volume="100"  packName="primary" />
+		<sound file="DCM_30" id="tutorialDirection" volume="100"  packName="primary" />
+		
+		<sound file="DCM_33a"id="tutorialDirectionMobile" volume="100"  packName="primary" />
+		<sound file="DCM_33a" id="tutorialDirectionMobile" volume="100"  packName="primary" />
+		<sound file="DCM_34a" id="tutorialDirectionMobile" volume="100"  packName="primary" />
+		
+		<sound file="DCM_153" id="tutorialFeedback" volume="100"  packName="primary" />
+		<sound file="DCM_154" id="tutorialFeedback" volume="100"  packName="primary" />
+		<sound file="DCM_155" id="tutorialFeedback" volume="100"  packName="primary" />
+		<sound file="DCM_156" id="tutorialFeedback" volume="100"  packName="primary" />
+		
+		<sound file="DCM_31"  id="tutorialOutro"volume="100"  packName="primary" />
+		<sound file="DCM_32"  id="tutorialOutro"volume="100"  packName="primary" />
+		<sound file="DCM_33" volume="100"  packName="primary" />
+		<sound file="DCM_34" volume="100"  packName="primary" />
+		
+		<!-- LEVEL 1 -->
+		<sound file="DCM_31"  id="levelStartVO1"volume="100"  packName="primary" />
+		<sound file="DCM_32"  id="levelStartVO1"volume="100"  packName="primary" />
+		
+		<sound file="DCM_130"  id="levelDelayMobile1"volume="100"  packName="primary" />
+		<sound file="DCM_130a"  id="levelDelayMobile1"volume="100"  packName="primary" />
+		<sound file="DCM_130b"  id="levelDelayMobile1"volume="100"  packName="primary" />
+		<!--sound file="DCM_130c"  id="levelDelayMobile1"volume="100"  packName="primary" /-->
+		
+		<sound file="DCM_130"  id="levelDelay1"  volume="100"  packName="primary" />
+		<sound file="DCM_130d"  id="levelDelay1" volume="100"  packName="primary" />
+		<sound file="DCM_130e"  id="levelDelay1" volume="100"  packName="primary" />
+		<!--sound file="DCM_130c"  id="levelDelay1" volume="100"  packName="primary" /-->
+		
+		<sound file="DCM_35" id="collectionVOLevel1" volume="100"  packName="primary" />
+		<sound file="DCM_36" id="collectionVOLevel1" volume="100"  packName="primary" />
+		<sound file="DCM_37" id="collectionVOLevel1" volume="100"  packName="primary" />
+		<sound file="DCM_38" id="collectionVOLevel1" volume="100"  packName="primary" />
+		<sound file="DCM_155" id="collectionVOLevel1" volume="100"  packName="primary" />
+		<sound file="DCM_157" id="collectionVOLevel1" volume="100"  packName="primary" />
+		<sound file="DCM_158" id="collectionVOLevel1" volume="100"  packName="primary" />
+		<sound file="DCM_159" id="collectionVOLevel1" volume="100"  packName="primary" />
+		<sound file="DCM_160" id="collectionVOLevel1" volume="100"  packName="primary" />
+		<sound file="DCM_161" id="collectionVOLevel1" volume="100"  packName="primary" />
+		<sound file="DCM_162" id="collectionVOLevel1" volume="100"  packName="primary" />
+		<sound file="DCM_163" id="collectionVOLevel1" volume="100"  packName="primary" />
+		
+		<sound file="DCM_41" id="spider" volume="100"  packName="primary" />
+		<sound file="DCM_42" id="rock" volume="100"  packName="primary" />
+		<sound file="DCM_43" id="statue" volume="100"  packName="primary" />
+		<sound file="DCM_44" id="firstTimeObstacleAheadVOEnd1" volume="100"  packName="primary" />
+		
+		<sound file="DCM_45" id="spider_firstTimeObstacleCollide" volume="100"  packName="primary" />
+		<sound file="DCM_46" id="bricks_firstTimeObstacleCollide" volume="100"  packName="primary" />
+		<sound file="DCM_47" id="statue_firstTimeObstacleCollide" volume="100"  packName="primary" />]
+		
+		<sound file="DCM_48" id="obstacleCollide1" volume="100"  packName="primary" />
+		<sound file="DCM_49" id="obstacleCollide1" volume="100"  packName="primary" />
+		<sound file="DCM_50" id="obstacleCollide1" volume="100"  packName="primary" />
+		<sound file="DCM_51" id="obstacleCollide1" volume="100"  packName="primary" />
+		
+		<sound file="DCM_52" id="charmChallengeTutorialVOStart_level1" volume="100"  packName="primary" />
+		<sound file="DCM_53" id="charmChallengeTutorialVOStart_level1" volume="100"  packName="primary" />
+		<sound file="DCM_54" id="charmChallengeTutorialVO_level1" volume="100"  packName="primary" />
+		<sound file="DCM_54a" id="charmChallengeTutorialVO_level1" volume="100"  packName="primary" />
+		<sound file="DCM_54" id="charmChallengeTutorialVO_level1_mobile" volume="100"  packName="primary" />
+		<sound file="DCM_54b" id="charmChallengeTutorialVO_level1_mobile" volume="100"  packName="primary" />
+		
+		<sound file="DCM_55" id="charmChallengeIncorrectVO_level1_1" volume="100"  packName="primary" />
+		<sound file="DCM_56" id="charmChallengeIncorrectVO_level1_2" volume="100"  packName="primary" />
+		<sound file="DCM_57a" id="charmChallengeIncorrectVO_level1_3a" volume="100"  packName="primary" />
+		<sound file="DCM_57b" id="charmChallengeIncorrectVO_level1_3b" volume="100"  packName="primary" />
+		<sound file="DCM_58" id="charmChallengeCorrectVO_level1" volume="100"  packName="primary" />
+		<sound file="DCM_58aa" id="charmChallengeTravelVO_level1A" volume="100"  packName="primary" />
+		<sound file="DCM_58ab" id="charmChallengeTravelVO_level1B" volume="100"  packName="primary" />
+		
+		<sound file="DCM_134" id="charmChallengeDelay1" volume="100"  packName="primary" />
+		<sound file="DCM_135" id="charmChallengeDelayMobile1" volume="100"  packName="primary" />
+		
+		<sound file="DCM_59" id="soccerballSeen" volume="100"  packName="primary" />
+		
+		<!-- LEVEL 2 -->
+		<sound file="DCM_136" id="levelStartVO2" volume="100"  packName="primary" />
+		<sound file="DCM_20" id="levelStartVO2" volume="100"  packName="primary" />
+		<sound file="DCM_67" id="levelStartVO2" volume="100"  packName="primary" />
+		
+		<sound file="DCM_138"  id="levelDelay2"volume="100"  packName="primary" />
+		<sound file="DCM_138"  id="levelDelayMobile2"  volume="100"  packName="primary" />
+		
+		<sound file="DCM_69" id="collectionVOLevel2" volume="100"  packName="primary" />
+		<sound file="DCM_69a" id="collectionVOLevel2" volume="100"  packName="primary" />
+		<sound file="DCM_37" id="collectionVOLevel2" volume="100"  packName="primary" />
+		<sound file="DCM_70" id="collectionVOLevel2" volume="100"  packName="primary" />
+		<sound file="DCM_70a" id="collectionVOLevel2" volume="100"  packName="primary" />
+		<sound file="DCM_164" id="collectionVOLevel2" volume="100"  packName="primary" />
+		<sound file="DCM_165" id="collectionVOLevel2" volume="100"  packName="primary" />
+		<sound file="DCM_166" id="collectionVOLevel2" volume="100"  packName="primary" />
+		<sound file="DCM_167" id="collectionVOLevel2" volume="100"  packName="primary" />
+		<sound file="DCM_168" id="collectionVOLevel2" volume="100"  packName="primary" />
+		<sound file="DCM_169" id="collectionVOLevel2" volume="100"  packName="primary" />
+		<sound file="DCM_170" id="collectionVOLevel2" volume="100"  packName="primary" />
+		<sound file="DCM_171" id="collectionVOLevel2" volume="100"  packName="primary" />
+		<sound file="DCM_172" id="collectionVOLevel2" volume="100"  packName="primary" />
+		<sound file="DCM_174" id="collectionVOLevel2" volume="100"  packName="primary" />
+		
+		<sound file="DCM_71" id="bat" volume="100"  packName="primary" />
+		<sound file="DCM_72" id="puddle" volume="100"  packName="primary" />
+		<sound file="DCM_73" id="stalagmite" volume="100"  packName="primary" />
+		<sound file="DCM_74" id="firstTimeObstacleAheadVOEnd2" volume="100"  packName="primary" />
+		
+		<sound file="DCM_75" id="bat_firstTimeObstacleCollide" volume="100"  packName="primary" />
+		<sound file="DCM_76" id="puddle_firstTimeObstacleCollide" volume="100"  packName="primary" />
+		<sound file="DCM_77" id="stalagmite_firstTimeObstacleCollide" volume="100"  packName="primary" />
+		
+		<sound file="DCM_48" id="obstacleCollide2" volume="100"  packName="primary" />]
+		<sound file="DCM_49" id="obstacleCollide2" volume="100"  packName="primary" />]
+		<sound file="DCM_78" id="obstacleCollide2" volume="100"  packName="primary" />]
+		<sound file="DCM_79" id="obstacleCollide2" volume="100"  packName="primary" />]
+		
+		<sound file="DCM_80" id="charmChallengeTutorialVOStart_level2" volume="100"  packName="primary" />
+		<sound file="DCM_81" id="charmChallengeTutorialVOStart_level2" volume="100"  packName="primary" />
+		<sound file="DCM_82" id="charmChallengeTutorialVO_level2" volume="100"  packName="primary" />
+		<sound file="DCM_54a" id="charmChallengeTutorialVO_level2" volume="100"  packName="primary" />
+		<sound file="DCM_82" id="charmChallengeTutorialVO_level2_mobile" volume="100"  packName="primary" />
+		<sound file="DCM_54b" id="charmChallengeTutorialVO_level2_mobile" volume="100"  packName="primary" />
+		
+		<sound file="DCM_83" id="charmChallengeIncorrectVO_level2_1" volume="100"  packName="primary" />
+		<sound file="DCM_84" id="charmChallengeIncorrectVO_level2_2" volume="100"  packName="primary" />
+		<sound file="DCM_57a" id="charmChallengeIncorrectVO_level2_3a" volume="100"  packName="primary" />
+		<sound file="DCM_57b" id="charmChallengeIncorrectVO_level2_3b" volume="100"  packName="primary" />
+		<sound file="DCM_85" id="charmChallengeCorrectVO_level2" volume="100"  packName="primary" />
+		<sound file="DCM_85aa" id="charmChallengeTravelVO_level2A" volume="100"  packName="primary" />
+		<sound file="DCM_85ab" id="charmChallengeTravelVO_level2B" volume="100"  packName="primary" />
+		
+		<sound file="DCM_142" id="charmChallengeDelay2" volume="100"  packName="primary" />
+		<sound file="DCM_143" id="charmChallengeDelayMobile2" volume="100"  packName="primary" />
+		
+		<sound file="DCM_139" id="duckyVO" volume="100"  packName="primary" />
+		<sound file="DCM_140" id="chestVO" volume="100"  packName="primary" />
+		<sound file="DCM_141" id="cloudVO" volume="100"  packName="primary" />
+		
+		<sound file="DCM_131" id="helicopterVO" volume="100"  packName="primary" />
+		<sound file="DCM_132" id="turtleVO" volume="100"  packName="primary" />
+		<sound file="DCM_133" id="whistleVO" volume="100"  packName="primary" />
+		
+		<sound file="DCM_86" volume="100"  packName="primary" />
+		
+		<!-- LEVEL 3 -->
+		<sound file="DCM_94a" id="levelStartVO3" volume="100"  packName="primary" />
+		<sound file="DCM_95" id="levelStartVO3" volume="100"  packName="primary" />
+
+		<sound file="DCM_144"  id="levelDelay3"volume="100"  packName="primary" />
+		<sound file="DCM_144"  id="levelDelayMobile3"  volume="100"  packName="primary" />
+		
+		<sound file="DCM_97" id="collectionVOLevel3" volume="100"  packName="primary" />
+		<sound file="DCM_97a" id="collectionVOLevel3" volume="100"  packName="primary" />
+		<sound file="DCM_37" id="collectionVOLevel3" volume="100"  packName="primary" />
+		<sound file="DCM_98" id="collectionVOLevel3" volume="100"  packName="primary" />
+		<sound file="DCM_98a" id="collectionVOLevel3" volume="100"  packName="primary" />
+		<sound file="DCM_175" id="collectionVOLevel3" volume="100"  packName="primary" />
+		<sound file="DCM_176" id="collectionVOLevel3" volume="100"  packName="primary" />
+		<sound file="DCM_179" id="collectionVOLevel3" volume="100"  packName="primary" />
+		<sound file="DCM_181" id="collectionVOLevel3" volume="100"  packName="primary" />
+		<sound file="DCM_182" id="collectionVOLevel3" volume="100"  packName="primary" />
+		<sound file="DCM_185" id="collectionVOLevel3" volume="100"  packName="primary" />
+		
+		<sound file="DCM_99" id="rabbitHole" volume="100"  packName="primary" />
+		<sound file="DCM_100" id="shrub" volume="100"  packName="primary" />
+		<sound file="DCM_101a" id="dice" volume="100"  packName="primary" />
+		<sound file="DCM_102" id="firstTimeObstacleAheadVOEnd3" volume="100"  packName="primary" />
+
+		<sound file="DCM_103" id="rabbitHole_firstTimeObstacleCollide" volume="100"  packName="primary" />
+		<sound file="DCM_104" id="shrub_firstTimeObstacleCollide" volume="100"  packName="primary" />
+		<sound file="DCM_105" id="dice_firstTimeObstacleCollide" volume="100"  packName="primary" />
+		
+		<sound file="DCM_48" id="obstacleCollide3" volume="100"  packName="primary" />]
+		<sound file="DCM_49" id="obstacleCollide3" volume="100"  packName="primary" />]
+		<sound file="DCM_106" id="obstacleCollide3" volume="100"  packName="primary" />]
+		<sound file="DCM_107" id="obstacleCollide3" volume="100"  packName="primary" />]
+		
+		<sound file="DCM_108" id="charmChallengeTutorialVOStart_level3" volume="100"  packName="primary" />
+		<sound file="DCM_109" id="charmChallengeTutorialVOStart_level3" volume="100"  packName="primary" />
+		<sound file="DCM_110" id="charmChallengeTutorialVO_level3" volume="100"  packName="primary" />
+		<sound file="DCM_54a" id="charmChallengeTutorialVO_level3" volume="100"  packName="primary" />
+		<sound file="DCM_110" id="charmChallengeTutorialVO_level3_mobile" volume="100"  packName="primary" />
+		<sound file="DCM_54b" id="charmChallengeTutorialVO_level3_mobile" volume="100"  packName="primary" />
+		
+		<sound file="DCM_111" id="charmChallengeIncorrectVO_level3_1" volume="100"  packName="primary" />
+		<sound file="DCM_112" id="charmChallengeIncorrectVO_level3_2" volume="100"  packName="primary" />
+		<sound file="DCM_57a" id="charmChallengeIncorrectVO_level3_3a" volume="100"  packName="primary" />
+		<sound file="DCM_57b" id="charmChallengeIncorrectVO_level3_3b" volume="100"  packName="primary" />
+		<sound file="DCM_113" id="charmChallengeCorrectVO_level3" volume="100"  packName="primary" />
+		<sound file="DCM_113aa" id="charmChallengeTravelVO_level3A" volume="100"  packName="primary" />
+		<sound file="DCM_113ab" id="charmChallengeTravelVO_level3B" volume="100"  packName="primary" />
+		
+		<sound file="DCM_148" id="charmChallengeDelay3" volume="100"  packName="primary" />
+		<sound file="DCM_149" id="charmChallengeDelayMobile3" volume="100"  packName="primary" />
+		
+		<sound file="DCM_145" id="dragonVO" volume="100"  packName="primary" />
+		<sound file="DCM_146" id="pitcherVO" volume="100"  packName="primary" />
+		<sound file="DCM_147" id="topVO" volume="100"  packName="primary" />
+		
+		<sound file="DCM_114" volume="100"  packName="primary" />
+		
+		<!-- End Screen -->
+		<sound file="DCM_118" id="endScreenDelay_mobile" volume="100"  packName="primary" />
+		<sound file="DCM_120" id="endScreenDelay_mobile" volume="100"  packName="primary" />
+		<sound file="DCM_119" id="endScreenDelay" volume="100"  packName="primary" />
+		<sound file="DCM_120" id="endScreenDelay" volume="100"  packName="primary" />
+		<sound file="DCM_126" id="printBtnVO" volume="100"  packName="primary" />
+		<sound file="DCM_127" id="playAgainBtnVO" volume="100"  packName="primary" />
+		<sound file="DCM_128" id="backBtnVO" volume="100"  packName="primary" />
+		<sound file="DCM_129" id="nextBtnVO" volume="100"  packName="primary" />
+	
+	<!-- TIMELINE TRIGGERED AUDIO -->
+		<!-- Level 1 Intro -->
+		<sound file="DCM_26" volume="100"  packName="primary" />
+		<sound file="DCM_26a" volume="100"  packName="primary" />
+		<sound file="DCM_26b" volume="100"  packName="primary" />
+		<sound file="DCM_26c" volume="100"  packName="primary" />
+		<sound file="DCM_27" volume="100"  packName="primary" />
+		<sound file="DCM_28" volume="100"  packName="primary" />
+		<sound file="DCM_28a" volume="100"  packName="primary" />
+		
+		<!-- Level 1 Outro -->
+		<sound file="DCM_60" volume="100"  packName="primary" />
+		<sound file="DCM_60a" volume="100"  packName="primary" />
+		<sound file="DCM_61" volume="100"  packName="primary" />
+		
+		<!-- Level 2 Intro -->
+		<sound file="DCM_62" volume="100"  packName="primary" />
+		<sound file="DCM_63" volume="100"  packName="primary" />
+		<sound file="DCM_64" volume="100"  packName="primary" />
+		<sound file="DCM_65" volume="100"  packName="primary" />
+		<sound file="DCM_66" volume="100"  packName="primary" />
+		
+		<!-- Level 2 Outro -->
+		<sound file="DCM_61" volume="100"  packName="primary" />
+		<sound file="DCM_88" volume="100"  packName="primary" />
+		<sound file="DCM_89" volume="100"  packName="primary" />
+		<sound file="DCM_88-89" volume="100"  packName="primary" />
+		<!-- Level 3 Intro -->
+		<sound file="DCM_90" volume="100"  packName="primary" />
+		<sound file="DCM_91" volume="100"  packName="primary" />
+		<sound file="DCM_92" volume="100"  packName="primary" />
+		<sound file="DCM_93" volume="100"  packName="primary" />
+		<sound file="DCM_94" volume="100"  packName="primary" />
+		
+		<!-- Level 3 Outro -->
+		<sound file="DCM_115" volume="100"  packName="primary" />
+		<sound file="DCM_116" volume="100"  packName="primary" />
+		
+		<!-- End Screen -->
+		<sound file="DCM_117" volume="100"  packName="primary" />
+		<sound file="DCM_150" volume="100"  packName="primary" />
+		<sound file="DCM_151" volume="100"  packName="primary" />
+		<sound file="DCM_152" volume="100"  packName="primary" />
+		<sound file="DCM_118" volume="100"  packName="primary" />
+		<sound file="DCM_119" volume="100"  packName="primary" />
+		<sound file="DCM_120" volume="100"  packName="primary" />
+		<sound file="DCM_121" volume="100"  packName="primary" />
+		
+		
+		<sound file="DCM_Dora_extra5" volume="100" packName="primary" />
+	</vo>
+</data>

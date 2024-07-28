@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data dir="/game/assets/umiz_city/toyStoreGame/mp3/">
+
+	<vo channel="vo">
+		
+		<sound file="silence.mp3"/>
+		<sound id="titleDelayPrompt" file="UTS_4.mp3v"/>
+		<sound id="title" file="UTS_1.mp3"/>
+		<sound id="title" file="UTS_3.mp3"/>
+		<sound id="skipButtonCallout" file="UTS_25.mp3"/>
+		<sound id="playButtonCallout" file="UTS_5.mp3"/>
+		<sound id="playAgainButtonCallout" file="UTS_214.mp3"/>
+		<sound id="printButtonCallout" file="UTS_218.mp3"/>
+		
+		<level_1>
+			
+			<sound file="UTS_40.mp3" id="challenge_1" />
+			<sound file="UTS_41.mp3" id="challenge_1"/>
+			<sound file="UTS_42.mp3" id="challenge_1"/>
+			
+			<sound file="UTS_44.mp3" id="challenge_2" />
+			<sound file="UTS_42.mp3" id="challenge_2"/>
+			
+			<sound file="UTS_45.mp3" id="challenge_3" />
+			<sound file="UTS_42.mp3" id="challenge_3" />
+			
+			<sound file="UTS_46.mp3" id="challenge_4" />
+			<sound file="UTS_42.mp3" id="challenge_4"/>
+			
+			<sound file="UTS_47.mp3" id="challenge_5" />
+			<sound file="UTS_42.mp3" id="challenge_5"/>
+			
+			<!--<sound file="UTS_48.mp3" id="correct"/>
+			<sound file="UTS_49.mp3" id="correct"/>
+			<sound file="UTS_50.mp3" id="correct"/>-->
+			
+			<sound file="UTS_52.mp3" id="correct" appendNumber="true" />
+			<sound file="UTS_53.mp3" id="correct" appendNumber="true" />
+			
+			<sound file="UTS_54.mp3" id="correct_2"/>
+			<sound file="UTS_219.mp3" id="correct_2"/>
+			<sound file="UTS_220.mp3" id="correct_2"/>
+			<sound file="UTS_51.mp3" id="correct_2"/>
+			
+			<sound file="UTS_55.mp3" id="incorrect_1"/>
+			<sound file="UTS_56.mp3" id="incorrect_1_2"/>
+			<sound file="UTS_57.mp3" id="incorrect_2"/>
+			<sound file="UTS_59.mp3" id="incorrect_2_2" appendNumber="true"/>
+			<sound file="UTS_57.mp3" id="incorrect_3"/>
+			<sound file="UTS_61.mp3" id="incorrect_3_2" appendNumber="true"/>
+			<sound file="UTS_57.mp3" id="incorrect_4"/>
+			<sound file="UTS_61.mp3" id="incorrect_4_2" appendNumber="true"/>
+			<sound file="UTS_57.mp3" id="incorrect_5"/>
+			<sound file="UTS_61.mp3" id="incorrect_5_2" appendNumber="true"/>
+			
+		</level_1>
+		
+		<level_2>
+			<sound file="UTS_101.mp3" id="challenge_1" />
+			<sound file="UTS_103a.mp3" id="challenge_1" />
+			
+			<sound file="UTS_129.mp3" id="challenge_2" />
+			<sound file="UTS_103a.mp3" id="challenge_2" />
+			
+			<sound file="UTS_130.mp3" id="challenge_3" />
+			<sound file="UTS_103a.mp3" id="challenge_3" />
+			
+			<sound file="UTS_228.mp3" id="challenge_4" />
+			<sound file="UTS_103a.mp3" id="challenge_4" />
+			
+			<sound file="UTS_132.mp3" id="challenge_5" />
+			<sound file="UTS_103a.mp3" id="challenge_5" />
+			
+			
+			<sound file="UTS_122.mp3" id="correct"/>
+			<sound file="UTS_123.mp3" id="correct"/>
+			<sound file="UTS_124.mp3" id="correct"/>
+			
+			<sound file="UTS_125.mp3" id="correct_2"/>
+			<sound file="UTS_222.mp3" id="correct_2"/>
+			<sound file="UTS_223.mp3" id="correct_2"/>
+			
+			<sound file="UTS_126.mp3" id="incorrect_1"/>
+			<sound file="UTS_127.mp3" id="incorrect_2" appendNumber="true" />
+			<sound file="UTS_128.mp3" id="incorrect_3" appendNumber="true" />
+			<sound file="UTS_127.mp3" id="incorrect_4" appendNumber="true" />
+			<sound file="UTS_128.mp3" id="incorrect_5" appendNumber="true" />
+			
+		</level_2>
+		
+		<level_3>
+			<sound file="UTS_157.mp3" id="challenge_1" />
+			<sound file="UTS_158.mp3" id="challenge_1" appendNumber="true" />
+		
+			<sound file="UTS_185.mp3" id="challenge_2" />
+			<sound file="UTS_158.mp3" id="challenge_2" appendNumber="true" />
+			
+			<sound file="UTS_186.mp3" id="challenge_3" />
+			<sound file="UTS_158.mp3" id="challenge_3" appendNumber="true" />
+			
+			<sound file="UTS_187.mp3" id="challenge_4" />
+			<sound file="UTS_158.mp3" id="challenge_4" appendNumber="true"/>
+			
+			<sound file="UTS_188.mp3" id="challenge_5" />
+			<sound file="UTS_158.mp3" id="challenge_5" appendNumber="true"/>
+			
+			<sound file="UTS_166.mp3" id="correct"/>
+			<sound file="UTS_167.mp3" id="correct"/>
+			<sound file="UTS_169.mp3" id="correct"/>
+			
+			<sound file="UTS_170.mp3" id="correct_b" appendNumber="true" appendAltNumber="true" />
+			
+			<sound file="UTS_226.mp3" id="correct_2"/>
+			<sound file="silence.mp3" id="correct_2"/>
+			
+			<sound file="UTS_181.mp3" id="incorrect_1"/>
+			<sound file="UTS_182.mp3" id="incorrect_2" appendNumber="true" />
+			<sound file="UTS_183a.mp3" id="incorrect_3" />
+			<sound file="UTS_183a.mp3" id="incorrect_4" />
+			<sound file="UTS_183a.mp3" id="incorrect_5" />
+			
+		</level_3>
+		
+		<sound file="UTS_1.mp3"/>
+		<sound file="UTS_2.mp3"/>
+		<sound file="UTS_3.mp3"/>
+		<sound file="UTS_4.mp3"/>
+		<sound file="UTS_5.mp3"/>
+		<sound file="UTS_6.mp3"/>
+		<sound file="UTS_7.mp3"/>
+		<sound file="UTS_8.mp3"/>
+		<sound file="UTS_9.mp3"/>
+		<sound file="UTS_10.mp3"/>
+		<sound file="UTS_11.mp3"/>
+		<sound file="UTS_11a.mp3"/>
+		<sound file="UTS_12.mp3"/>
+		<sound file="UTS_13.mp3"/>
+		<sound file="UTS_14.mp3"/>
+		<sound file="UTS_15.mp3"/>
+		<sound file="UTS_16.mp3"/>
+		<sound file="UTS_17.mp3"/>
+		<sound file="UTS_18.mp3"/>
+		<sound file="UTS_19.mp3"/>
+		<sound file="UTS_20.mp3"/>
+		<sound file="UTS_21.mp3"/>
+		<sound file="UTS_22.mp3"/>
+		<sound file="UTS_23.mp3"/>
+		<sound file="UTS_24.mp3"/>
+		<sound file="UTS_25.mp3"/>
+		<sound file="UTS_26.mp3"/>
+		<sound file="UTS_27.mp3"/>
+		<sound file="UTS_28.mp3"/>
+		<sound file="UTS_29.mp3"/>
+		<sound file="UTS_30.mp3"/>
+		<sound file="UTS_31.mp3"/>
+		<sound file="UTS_32.mp3"/>
+		<sound file="UTS_33.mp3"/>
+		<sound file="UTS_34.mp3"/>
+		<sound file="UTS_35.mp3"/>
+		<sound file="UTS_36.mp3"/>
+		<sound file="UTS_37.mp3"/>
+		<sound file="UTS_38.mp3"/>
+		<sound file="UTS_39.mp3"/>
+		<sound file="UTS_40.mp3"/>
+		<sound file="UTS_41.mp3"/>
+		<sound file="UTS_42.mp3"/>
+		<sound file="UTS_43.mp3"/>
+		<sound file="UTS_44.mp3"/>
+		<sound file="UTS_45.mp3"/>
+		<sound file="UTS_46.mp3"/>
+		<sound file="UTS_47.mp3"/>
+		<sound file="UTS_48.mp3"/>
+		<sound file="UTS_49.mp3"/>
+		<sound file="UTS_50.mp3"/>
+		<sound file="UTS_51.mp3"/>
+		<sound file="UTS_52.mp3"/>
+		<sound file="UTS_53.mp3"/>
+		<sound file="UTS_54.mp3"/>
+		<sound file="UTS_55.mp3"/>
+		<sound file="UTS_56.mp3"/>
+		<sound file="UTS_57.mp3"/>
+		<sound file="UTS_58.mp3"/>
+		<sound file="UTS_59.mp3"/>
+		<sound file="UTS_60.mp3"/>
+		<sound file="UTS_61.mp3"/>
+		<sound file="UTS_62.mp3"/>
+		<sound file="UTS_63.mp3"/>
+		<sound file="UTS_64.mp3"/>
+		<sound file="UTS_65.mp3"/>
+		<sound file="UTS_66.mp3"/>
+		<sound file="UTS_67.mp3"/>
+		<sound file="UTS_68.mp3"/>
+		<sound file="UTS_69.mp3"/>
+		<sound file="UTS_70.mp3"/>
+		<sound file="UTS_71.mp3"/>
+		<sound file="UTS_72.mp3"/>
+		<sound file="UTS_73.mp3"/>
+		<sound file="UTS_74.mp3"/>
+		<sound file="UTS_75.mp3"/>
+		<sound file="UTS_76.mp3"/>
+		<sound file="UTS_77.mp3"/>
+		<sound file="UTS_78.mp3"/>
+		<sound file="UTS_79.mp3"/>
+		<sound file="UTS_80.mp3"/>
+		<sound file="UTS_81.mp3"/>
+		<sound file="UTS_82.mp3"/>
+		<sound file="UTS_83.mp3"/>
+		<sound file="UTS_84.mp3"/>
+		<sound file="UTS_85.mp3"/>
+		<sound file="UTS_86.mp3"/>
+		<sound file="UTS_87.mp3"/>
+		<sound file="UTS_88.mp3"/>
+		<sound file="UTS_89.mp3"/>
+		<sound file="UTS_90.mp3"/>
+
+		<sound file="UTS_92.mp3"/>
+		<sound file="UTS_93.mp3"/>
+		<sound file="UTS_94.mp3"/>
+		<sound file="UTS_95.mp3"/>
+		<sound file="UTS_96.mp3"/>
+		<sound file="UTS_97.mp3"/>
+		<sound file="UTS_98.mp3"/>
+		<sound file="UTS_100.mp3"/>
+		<sound file="UTS_100a.mp3"/>
+		<sound file="UTS_101.mp3"/>
+		<sound file="UTS_102.mp3"/>
+		<sound file="UTS_103.mp3"/>
+		<sound file="UTS_103a.mp3"/>
+		<sound file="UTS_104.mp3"/>
+		<sound file="UTS_105.mp3"/>
+		<sound file="UTS_106.mp3"/>
+		<sound file="UTS_107.mp3"/>
+		<sound file="UTS_108.mp3"/>
+		<sound file="UTS_109.mp3"/>
+		<sound file="UTS_110.mp3"/>
+		<sound file="UTS_111.mp3"/>
+		<sound file="UTS_112.mp3"/>
+		<sound file="UTS_113.mp3"/>
+		<sound file="UTS_114.mp3"/>
+		<sound file="UTS_115.mp3"/>
+		<sound file="UTS_116.mp3"/>
+		<sound file="UTS_117.mp3"/>
+		<sound file="UTS_118.mp3"/>
+		<sound file="UTS_119.mp3"/>
+		<sound file="UTS_120.mp3"/>
+		<sound file="UTS_121.mp3"/>
+		<sound file="UTS_122.mp3"/>
+		<sound file="UTS_123.mp3"/>
+		<sound file="UTS_124.mp3"/>
+		<sound file="UTS_125.mp3"/>
+		<sound file="UTS_126.mp3"/>
+		<sound file="UTS_127.mp3"/>
+		<sound file="UTS_128.mp3"/>
+		<sound file="UTS_129.mp3"/>
+		<sound file="UTS_130.mp3"/>
+		<sound file="UTS_131.mp3"/>
+		<sound file="UTS_132.mp3"/>
+		<sound file="UTS_133.mp3"/>
+		<sound file="UTS_134.mp3"/>
+		<sound file="UTS_135.mp3"/>
+		<sound file="UTS_136.mp3"/>
+		<sound file="UTS_137.mp3"/>
+		<sound file="UTS_138.mp3"/>
+		<sound file="UTS_139.mp3"/>
+		<sound file="UTS_140.mp3"/>
+		<sound file="UTS_141.mp3"/>
+		<sound file="UTS_142.mp3"/>
+		<sound file="UTS_143.mp3"/>
+		<sound file="UTS_144.mp3"/>
+		<sound file="UTS_145.mp3"/>
+		<sound file="UTS_146.mp3"/>
+		<sound file="UTS_147.mp3"/>
+		<sound file="UTS_148.mp3"/>
+		<sound file="UTS_149.mp3"/>
+		<sound file="UTS_150.mp3"/>
+		<sound file="UTS_151.mp3"/>
+		<sound file="UTS_152.mp3"/>
+		<sound file="UTS_153.mp3"/>
+		<sound file="UTS_154.mp3"/>
+		<sound file="UTS_155.mp3"/>
+		<sound file="UTS_156.mp3"/>
+		<sound file="UTS_156a.mp3"/>
+		<sound file="UTS_157.mp3"/>
+		<sound file="UTS_158.mp3"/>
+		<sound file="UTS_159.mp3"/>
+		<sound file="UTS_160.mp3"/>
+		<sound file="UTS_161.mp3"/>
+		<sound file="UTS_162.mp3"/>
+		<sound file="UTS_163.mp3"/>
+		<sound file="UTS_164.mp3"/>
+		<sound file="UTS_165.mp3"/>
+		<sound file="UTS_166.mp3"/>
+		<sound file="UTS_167.mp3"/>
+
+		<sound file="UTS_169.mp3"/>
+		<sound file="UTS_170.mp3"/>
+		<sound file="UTS_171.mp3"/>
+		<sound file="UTS_172.mp3"/>
+		<sound file="UTS_173.mp3"/>
+		<sound file="UTS_174.mp3"/>
+		<sound file="UTS_175.mp3"/>
+		<sound file="UTS_176.mp3"/>
+		<sound file="UTS_177.mp3"/>
+		<sound file="UTS_178.mp3"/>
+		<sound file="UTS_179.mp3"/>
+		<sound file="UTS_180.mp3"/>
+		<sound file="UTS_181.mp3"/>
+		<sound file="UTS_182.mp3"/>
+		<sound file="UTS_183.mp3"/>
+		<sound file="UTS_183a.mp3"/>
+		<sound file="UTS_184.mp3"/>
+		<sound file="UTS_185.mp3"/>
+		<sound file="UTS_186.mp3"/>
+		<sound file="UTS_187.mp3"/>
+		<sound file="UTS_188.mp3"/>
+		<sound file="UTS_189.mp3"/>
+		<sound file="UTS_190.mp3"/>
+		<sound file="UTS_191.mp3"/>
+		<sound file="UTS_192.mp3"/>
+		<sound file="UTS_193.mp3"/>
+		<sound file="UTS_194.mp3"/>
+		<sound file="UTS_195.mp3"/>
+		<sound file="UTS_196.mp3"/>
+		<sound file="UTS_197.mp3"/>
+		<sound file="UTS_198.mp3"/>
+		<sound file="UTS_199.mp3"/>
+		<sound file="UTS_200.mp3"/>
+		<sound file="UTS_201.mp3"/>
+		<sound file="UTS_202.mp3"/>
+		<sound file="UTS_203.mp3"/>
+		<sound file="UTS_204.mp3"/>
+		<sound file="UTS_205.mp3"/>
+		<sound file="UTS_206.mp3"/>
+		<sound file="UTS_207.mp3"/>
+		<sound file="UTS_208.mp3"/>
+		<sound file="UTS_209.mp3"/>
+		<sound file="UTS_210.mp3"/>
+		<sound file="UTS_211.mp3"/>
+		<sound file="UTS_212.mp3"/>
+		<sound file="UTS_213.mp3"/>
+		<sound file="UTS_214.mp3"/>
+		<sound file="UTS_215.mp3"/>
+		<sound file="UTS_216.mp3"/>
+		<sound file="UTS_217.mp3"/>
+		<sound file="UTS_218.mp3"/>
+		<sound file="UTS_219.mp3"/>
+		<sound file="UTS_220.mp3"/>
+		<sound file="UTS_221.mp3"/>
+		<sound file="UTS_222.mp3"/>
+		<sound file="UTS_223.mp3"/>
+		<sound file="UTS_224.mp3"/>
+		<sound file="UTS_225.mp3"/>
+		<sound file="UTS_226.mp3"/>
+		<sound file="UTS_227.mp3"/>
+		<sound file="UTS_228.mp3"/>
+		<sound file="UTS_229.mp3"/>
+
+	</vo>
+	
+	<sfx channel="sfx">
+		<sound file="silence.mp3"/>
+		<sound file="spinTop" id="spinTop" volume="70" inLibrary="true" />
+		<sound file="blockSlide" id="blockSlide" volume="50" inLibrary="true" />
+		<sound file="bone1" id="bone" volume="60" inLibrary="true" />
+		<sound file="bone2" id="bone" volume="60" inLibrary="true" />
+		<sound file="bone3" id="bone" volume="60" inLibrary="true" />
+		<sound file="bone4" id="bone" volume="60" inLibrary="true" />
+		<sound file="bone5" id="bone" volume="60" inLibrary="true" />
+		<sound file="bouncyBall" id="bouncyBall" volume="70" inLibrary="true" />
+		<sound file="bowlOfBones" id="bowlOfBones" volume="100" inLibrary="true" />
+		<sound file="bugles" id="bugles" volume="50" inLibrary="true" />
+		<sound file="dinoSlide" id="dinoSlide" volume="50" inLibrary="true" />
+		<sound file="frog" id="frog" volume="60" inLibrary="true" />
+		<sound file="jump" id="jump" volume="30" inLibrary="true" />
+		<sound file="bouncyBubble" id="bouncyBubble" volume="70" inLibrary="true" />
+		<sound file="toyPlane" id="toyPlane" volume="70" inLibrary="true" />
+		<sound file="CA" id="CA" volume="50" inLibrary="true" />
+		<sound file="CA1" id="CA1" volume="100" inLibrary="true" />
+		<sound file="CA2" id="CA2" volume="100" inLibrary="true" />
+		<sound file="CA3" id="CA3" volume="100" inLibrary="true" />
+		<sound file="WA" id="WA" volume="80" inLibrary="true" />
+		<sound file="jumpBack" id="jumpBack" volume="60" inLibrary="true" />
+		<sound file="trick1" id="trick1" volume="100" inLibrary="true" />
+		<sound file="trick2" id="trick2" volume="100" inLibrary="true" />
+		<sound file="trick3" id="trick3" volume="100" inLibrary="true" />
+		<sound file="ro1" id="ro1" volume="20" inLibrary="true" />
+		<sound file="ro2" id="ro2" volume="20" inLibrary="true" />
+		<sound file="ro3" id="ro3" volume="20" inLibrary="true" />
+		<sound file="click1" id="click1" volume="20" inLibrary="true" />
+		<sound file="click2" id="click2" volume="20" inLibrary="true" />
+
+	</sfx>
+	
+	<music channel="music">
+		<sound file="silence.mp3"/>
+		<sound file="sting1" id="introSting" loops="1" volume="50" inLibrary="true" />
+		<sound file="musicL1" id="musicL1" volume="50" inLibrary="true" />
+		<sound file="musicL2" id="musicL2" volume="50" inLibrary="true" />
+		<sound file="musicL3" id="musicL3" volume="40" inLibrary="true" />
+		<sound file="musicHelp" id="musicHelp" volume="50" inLibrary="true" />
+		
+	</music>
+	
+	
+	
+</data>

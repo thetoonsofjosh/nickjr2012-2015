@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ChunkLayout Width="960" Height="576">
+  <CollisionSegments>
+    <CollisionSegment X0="0" Y0="512" X1="383" Y1="512" CSType="Road">
+    </CollisionSegment>
+    <CollisionSegment X0="383" Y0="512" X1="447" Y1="448" CSType="Road">
+    </CollisionSegment>
+    <CollisionSegment X0="447" Y0="448" X1="704" Y1="448" CSType="Road">
+    </CollisionSegment>
+    <CollisionSegment X0="704" Y0="448" X1="768" Y1="512" CSType="Road">
+    </CollisionSegment>
+    <CollisionSegment X0="768" Y0="512" X1="959" Y1="512" CSType="Road">
+    </CollisionSegment>
+    <CollisionSegment X0="959" Y0="512" X1="959" Y1="575" CSType="Road">
+    </CollisionSegment>
+  </CollisionSegments>
+  <Placements>
+    <Placement X="287" Y="437" PlacementType="StartPoint">
+    </Placement>
+    <Placement X="863" Y="448" PlacementType="Enemy">
+    </Placement>
+  </Placements>
+</ChunkLayout>

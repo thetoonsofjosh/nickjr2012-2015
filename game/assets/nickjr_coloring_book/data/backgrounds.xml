@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<backgrounds>
+	<!-- dora -->
+	<background displayName="dora_fairytale" handle="dora_fairytale" iconHandle="backgrounds/bw/dora_fairytale/thumb.jpg" imageHandle="backgrounds/bw/dora_fairytale/printable.swf" show="dora" />
+	<background displayName="dora_horse" handle="dora_horse" iconHandle="backgrounds/bw/dora_horse/thumb.jpg" imageHandle="backgrounds/bw/dora_horse/printable.swf" show="dora" />
+	<background displayName="dora_mermaid" handle="dora_mermaid" iconHandle="backgrounds/bw/dora_mermaid/thumb.jpg" imageHandle="backgrounds/bw/dora_mermaid/printable.swf" show="dora" />
+	<background displayName="dora_ridingincar" handle="dora_ridingincar" iconHandle="backgrounds/bw/dora_ridingincar/thumb.jpg" imageHandle="backgrounds/bw/dora_ridingincar/printable.swf" show="dora" />
+	<background displayName="dora_world" handle="dora_world" iconHandle="backgrounds/bw/dora_world/thumb.jpg" imageHandle="backgrounds/bw/dora_world/printable.swf" show="dora" />
+	<!-- dieg -->
+	<background displayName="dieg_dino" handle="dieg_dino" iconHandle="backgrounds/bw/dieg_dino/thumb.jpg" imageHandle="backgrounds/bw/dieg_dino/printable.swf" show="dieg" />
+	<background displayName="dieg_surf" handle="dieg_surf" iconHandle="backgrounds/bw/dieg_surf/thumb.jpg" imageHandle="backgrounds/bw/dieg_surf/printable.swf" show="dieg" />
+	<background displayName="dieg_doradiegoraft" handle="dieg_doradiegoraft" iconHandle="backgrounds/bw/dieg_doradiegoraft/thumb.jpg" imageHandle="backgrounds/bw/dieg_doradiegoraft/printable.swf" show="dieg" />
+	<background displayName="dieg_swing" handle="dieg_swing" iconHandle="backgrounds/bw/dieg_swing/thumb.jpg" imageHandle="backgrounds/bw/dieg_swing/printable.swf" show="dieg" />
+	<background displayName="dieg_jaguar" handle="dieg_jaguar" iconHandle="backgrounds/bw/dieg_jaguar/thumb.jpg" imageHandle="backgrounds/bw/dieg_jaguar/printable.swf" show="dieg" />
+	<!-- wonderpets -->
+	<background displayName="wond_linny" handle="wond_linny" iconHandle="backgrounds/bw/wond_linny/thumb.jpg" imageHandle="backgrounds/bw/wond_linny/printable.swf" show="wond" />
+	<background displayName="wond_mingming" handle="wond_mingming" iconHandle="backgrounds/bw/wond_mingming/thumb.jpg" imageHandle="backgrounds/bw/wond_mingming/printable.swf" show="wond" />
+	<background displayName="wond_tuck" handle="wond_tuck" iconHandle="backgrounds/bw/wond_tuck/thumb.jpg" imageHandle="backgrounds/bw/wond_tuck/printable.swf" show="wond" />
+	<background displayName="wond_wonder" handle="wond_wonder" iconHandle="backgrounds/bw/wond_wonder/thumb.jpg" imageHandle="backgrounds/bw/wond_wonder/printable.swf" show="wond" />
+	<background displayName="wond_ship" handle="wond_ship" iconHandle="backgrounds/bw/wond_ship/thumb.jpg" imageHandle="backgrounds/bw/wond_ship/printable.swf" show="wond" />
+	<!-- yoga -->
+	<background displayName="yoga_muno" handle="yoga_muno" iconHandle="backgrounds/bw/yoga_muno/thumb.jpg" imageHandle="backgrounds/bw/yoga_muno/printable.swf" show="yoga" />
+	<background displayName="yoga_brobee" handle="yoga_brobee" iconHandle="backgrounds/bw/yoga_brobee/thumb.jpg" imageHandle="backgrounds/bw/yoga_brobee/printable.swf" show="yoga" />
+	<background displayName="yoga_foofa" handle="yoga_foofa" iconHandle="backgrounds/bw/yoga_foofa/thumb.jpg" imageHandle="backgrounds/bw/yoga_foofa/printable.swf" show="yoga" />
+	<background displayName="yoga_todee" handle="yoga_todee" iconHandle="backgrounds/bw/yoga_todee/thumb.jpg" imageHandle="backgrounds/bw/yoga_todee/printable.swf" show="yoga" />
+	<background displayName="yoga_plex" handle="yoga_plex" iconHandle="backgrounds/bw/yoga_plex/thumb.jpg" imageHandle="backgrounds/bw/yoga_plex/printable.swf" show="yoga" />
+	<!-- blue -->
+	<background displayName="blue_sprinkles" handle="blue_sprinkles" iconHandle="backgrounds/bw/blue_sprinkles/thumb.jpg" imageHandle="backgrounds/bw/blue_sprinkles/printable.swf" show="blue" />
+	<background displayName="blue_room" handle="blue_room" iconHandle="backgrounds/bw/blue_room/thumb.jpg" imageHandle="backgrounds/bw/blue_room/printable.swf" show="blue" />
+	<background displayName="blue_read" handle="blue_read" iconHandle="backgrounds/bw/blue_read/thumb.jpg" imageHandle="backgrounds/bw/blue_read/printable.swf" show="blue" />
+	<background displayName="blue_dog" handle="blue_read" iconHandle="backgrounds/bw/blue_dog/thumb.jpg" imageHandle="backgrounds/bw/blue_dog/printable.swf" show="blue" />
+	<background displayName="blue_sleigh" handle="blue_sleigh" iconHandle="backgrounds/bw/blue_sleigh/thumb.jpg" imageHandle="backgrounds/bw/blue_sleigh/printable.swf" show="blue" />
+	<!-- niha -->
+	<background displayName="niha_dragon" handle="niha_dragon" iconHandle="backgrounds/bw/niha_dragon/thumb.jpg" imageHandle="backgrounds/bw/niha_dragon/printable.swf" show="niha" />
+	<background displayName="niha_grandpa" handle="niha_grandpa" iconHandle="backgrounds/bw/niha_grandpa/thumb.jpg" imageHandle="backgrounds/bw/niha_grandpa/printable.swf" show="niha" />
+	<background displayName="niha_group" handle="niha_group" iconHandle="backgrounds/bw/niha_group/thumb.jpg" imageHandle="backgrounds/bw/niha_group/printable.swf" show="niha" />
+	<background displayName="niha_halloween" handle="niha_halloween" iconHandle="backgrounds/bw/niha_halloween/thumb.jpg" imageHandle="backgrounds/bw/niha_halloween/printable.swf" show="niha" />
+	<background displayName="niha_sleigh" handle="niha_sleigh" iconHandle="backgrounds/bw/niha_sleigh/thumb.jpg" imageHandle="backgrounds/bw/niha_sleigh/printable.swf" show="niha" />
+	<!-- back -->
+	<background displayName="back_clowns" handle="back_clowns" iconHandle="backgrounds/bw/back_clowns/thumb.jpg" imageHandle="backgrounds/bw/back_clowns/printable.swf" show="back" />
+	<background displayName="back_dragon" handle="back_dragon" iconHandle="backgrounds/bw/back_dragon/thumb.jpg" imageHandle="backgrounds/bw/back_dragon/printable.swf" show="back" />
+	<background displayName="back_sleigh" handle="back_sleigh" iconHandle="backgrounds/bw/back_sleigh/thumb.jpg" imageHandle="backgrounds/bw/back_sleigh/printable.swf" show="back" />
+	<background displayName="back_spy" handle="back_spy" iconHandle="backgrounds/bw/back_spy/thumb.jpg" imageHandle="backgrounds/bw/back_spy/printable.swf" show="back" />
+	<background displayName="back_uniqua" handle="back_uniqua" iconHandle="backgrounds/bw/back_uniqua/thumb.jpg" imageHandle="backgrounds/bw/back_uniqua/printable.swf" show="back" />
+	<!-- oliv -->
+	<background displayName="oliv_bike" handle="oliv_bike" iconHandle="backgrounds/bw/oliv_bike/thumb.jpg" imageHandle="backgrounds/bw/oliv_bike/printable.swf" show="oliv" />
+	<background displayName="oliv_cat" handle="oliv_cat" iconHandle="backgrounds/bw/oliv_cat/thumb.jpg" imageHandle="backgrounds/bw/oliv_cat/printable.swf" show="oliv" />
+	<background displayName="oliv_family" handle="oliv_family" iconHandle="backgrounds/bw/oliv_family/thumb.jpg" imageHandle="backgrounds/bw/oliv_family/printable.swf" show="oliv" />
+	<background displayName="oliv_friends" handle="oliv_friends" iconHandle="backgrounds/bw/oliv_friends/thumb.jpg" imageHandle="backgrounds/bw/oliv_friends/printable.swf" show="oliv" />
+	<background displayName="oliv_roses" handle="oliv_roses" iconHandle="backgrounds/bw/oliv_roses/thumb.jpg" imageHandle="backgrounds/bw/oliv_roses/printable.swf" show="oliv" />
+</backgrounds>

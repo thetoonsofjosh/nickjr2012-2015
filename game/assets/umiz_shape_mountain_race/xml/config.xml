@@ -1,0 +1,584 @@
+<data>
+	<gameSettings>		
+		
+		<!-- whether to use regular tracking calls. This is only checked if Phantom tracking is disabled -->
+		<useTracking><![CDATA[true]]></useTracking>
+		
+		<enablePrintable>true</enablePrintable> <!-- true or false, determines print button visibility -->
+		
+		<keyCaptureFixPath>/game/assets/umiz_shape_mountain_race/swfs/keyCaptureFix.swf</keyCaptureFixPath>
+		
+		 <!-- Debugging tool. Set to true to clear LSO "hasPlayedBefore", so skip buttons won't be shown to returning players -->		
+		<resetLSO>false</resetLSO> <!-- should be false on live -->
+		
+	</gameSettings>
+	
+	<obstacleData>
+		<sprite id="fence" 		width="59"  height="62"  frames="1"  animName="" hitWidth="" hitHeight="" />
+		<sprite id="oilslick" 	width="106" height="36"  frames="1"  animName="" hitWidth="" hitHeight="" />
+		<sprite id="bush" 		width="59"  height="62"  frames="1"  animName="" hitWidth="" hitHeight="" />
+		<sprite id="seagull" 	width="128" height="128" frames="1"  animName="" hitWidth="" hitHeight="" />
+		<sprite id="buoy" 		width="128" height="128" frames="1"  animName="" hitWidth="" hitHeight="" />
+		<sprite id="small" 		width="59"  height="62"  frames="1"  animName="" hitWidth="" hitHeight="" />
+		<sprite id="large" 		width="59"  height="62"  frames="1"  animName="" hitWidth="" hitHeight="" />
+		<sprite id="log2" 		width="120" height="52"  frames="18" animName="loop" hitWidth="" hitHeight="" />
+		<sprite id="monkeyup" 	width="120" height="52"  frames="1"  animName="" hitWidth="" hitHeight="" />
+		<sprite id="monkeydown"	width="120" height="52"  frames="1"  animName="" hitWidth="" hitHeight="" />
+		<sprite id="whirlpool"	width="115" height="53"  frames="24" animName="loop" hitWidth="" hitHeight="" />
+		<sprite id="log"		width="120" height="52"  frames="18" animName="loop" hitWidth="" hitHeight="" />
+		<sprite id="rock"		width="82"  height="42"  frames="1"  animName="" hitWidth="" hitHeight="" />
+		<sprite id="mud"		width="99"  height="34"  frames="1"  animName="" hitWidth="" hitHeight="" />
+	</obstacleData>
+	
+	<shapeData>
+		<sprite id="cube-green" 		width="64" height="80" frames="7" animName="" hitWidth="" hitHeight="" xOffset="15" />
+		<sprite id="cube-purple" 		width="56" height="68" frames="1" animName="" hitWidth="" hitHeight="" xOffset="15"/>
+		<sprite id="cube-blue" 			width="56" height="68" frames="1" animName="" hitWidth="" hitHeight="" xOffset="15"/>
+		<sprite id="cylinder-green" 	width="48" height="70" frames="1" animName="" hitWidth="" hitHeight="" xOffset="10"/>
+		<sprite id="cylinder-purple" 	width="48" height="70" frames="1" animName="" hitWidth="" hitHeight="" xOffset="10"/>
+		<sprite id="cylinder-blue" 		width="48" height="70" frames="1" animName="" hitWidth="" hitHeight="" xOffset="10"/>
+		<sprite id="cone-green" 		width="49" height="68" frames="1" animName="" hitWidth="" hitHeight="" xOffset="10"/>
+		<sprite id="cone-purple" 		width="49" height="68" frames="1" animName="" hitWidth="" hitHeight="" xOffset="10"/>
+		<sprite id="cone-blue" 			width="49" height="68" frames="1" animName="" hitWidth="" hitHeight="" xOffset="10"/>
+		<sprite id="pyramid-green" 		width="51" height="74" frames="1" animName="" hitWidth="" hitHeight="" xOffset="10"/>
+		<sprite id="pyramid-purple" 	width="51" height="74" frames="1" animName="" hitWidth="" hitHeight="" xOffset="10"/>
+		<sprite id="pyramid-blue" 		width="60" height="87" frames="7" animName="" hitWidth="" hitHeight="" xOffset="10"/>
+		<sprite id="rectangle-green" 	width="49" height="77" frames="1" animName="" hitWidth="" hitHeight="" xOffset="15"/>
+		<sprite id="rectangle-purple" 	width="49" height="77" frames="1" animName="" hitWidth="" hitHeight="" xOffset="15"/>
+		<sprite id="rectangle-blue" 	width="49" height="77" frames="1" animName="" hitWidth="" hitHeight="" xOffset="15" />
+		<sprite id="sphere-green" 		width="53" height="67" frames="1" animName="" hitWidth="" hitHeight="" xOffset="10"/>
+		<sprite id="sphere-purple" 		width="60" height="79" frames="7" animName="" hitWidth="" hitHeight="" xOffset="10"/>
+		<sprite id="sphere-blue" 		width="53" height="67" frames="1" animName="" hitWidth="" hitHeight="" xOffset="10"/>		
+	</shapeData>
+	
+	<playerData>
+		<sprite id="level1"		width="211"  height="141"  frames="118"  animName="" hitWidth="" hitHeight="" />
+		<sprite id="level2"		width="225"  height="127"  frames="118"  animName="" hitWidth="" hitHeight="" />
+		<sprite id="level3"		width="209"  height="144"  frames="118"  animName="" hitWidth="" hitHeight="" />
+	</playerData>
+	
+	<!-- 
+	Determines whether the skip button can be displayed. It will stay invisible until sufficient items have been loaded
+	for the next level
+	-->
+	<loaderOrderByLevel>
+		<level id="0"  minimumRequired="1" />
+		<level id="1"  minimumRequired="3" />
+		<level id="2"  minimumRequired="5" />
+		<level id="3"  minimumRequired="7" />
+	</loaderOrderByLevel>
+	
+	<!-- Language attribute not used (yet?) -->
+	<fontBank path="/game/assets/umiz_shape_mountain_race/swfs/embeddedFonts.swf" language="english" />
+	<localization path="/game/assets/umiz_shape_mountain_race/xml/translation.xml" language="english" />
+	
+	<assets minimumRequiredToPlay="1">
+		<asset loadOrder="0"	type="swf"	id="content"		filename="/game/assets/umiz_shape_mountain_race/swfs/umicar_content.swf" 		domain="shared" />
+		<asset loadOrder="0"	type="swf"	id="transition"		filename="/game/assets/umiz_shape_mountain_race/swfs/umizoomi_transition.swf" domain="shared" />
+		<asset loadOrder="0"	type="mp3"	id="splash_1"		filename="/game/assets/umiz_shape_mountain_race/audio/splash_1.mp3"			domain="shared" />
+		<asset loadOrder="0"	type="mp3"	id="splash_2"		filename="/game/assets/umiz_shape_mountain_race/audio/splash_2.mp3"			domain="shared" />
+		<asset loadOrder="0"	type="mp3"	id="music_loop_how_to"	filename="/game/assets/umiz_shape_mountain_race/audio/music_loop_how_to.mp3"	domain="shared" />
+		<asset loadOrder="0"	type="mp3"	id="btn_play"		filename="/game/assets/umiz_shape_mountain_race/audio/play.mp3"				domain="shared" />
+		<asset loadOrder="0"	type="mp3"	id="btn_skip"		filename="/game/assets/umiz_shape_mountain_race/audio/skip.mp3"				domain="shared" />
+		<asset loadOrder="0"	type="swf"	id="cutscene_1"		filename="/game/assets/umiz_shape_mountain_race/swfs/cutscene_1.swf" 			domain="shared" />
+	
+		<asset loadOrder="0"	type="swf"	id="soundbank"		filename="/game/assets/umiz_shape_mountain_race/swfs/sound_bank.swf" 		domain="shared" />
+		<asset loadOrder="0"	type="mp3"	id="story1_1"		filename="/game/assets/umiz_shape_mountain_race/audio/story1_1.mp3"		domain="shared" />
+		<asset loadOrder="0"	type="mp3"	id="story1_2"		filename="/game/assets/umiz_shape_mountain_race/audio/story1_2.mp3"		domain="shared" />
+		<asset loadOrder="0"	type="mp3"	id="story1_3"		filename="/game/assets/umiz_shape_mountain_race/audio/story1_3.mp3"		domain="shared" />
+		<asset loadOrder="0"	type="mp3"	id="story1_3A"		filename="/game/assets/umiz_shape_mountain_race/audio/story1_3A.mp3"		domain="shared" />
+		<asset loadOrder="0"	type="mp3"	id="geo_count_1"	filename="/game/assets/umiz_shape_mountain_race/audio/geo_count_1.mp3"	domain="shared" />
+		<asset loadOrder="0"	type="mp3"	id="geo_count_2"	filename="/game/assets/umiz_shape_mountain_race/audio/geo_count_2.mp3"	domain="shared" />
+		<asset loadOrder="0"	type="mp3"	id="geo_count_3"	filename="/game/assets/umiz_shape_mountain_race/audio/geo_count_3.mp3"	domain="shared" />
+		<asset loadOrder="0"	type="mp3"	id="geo_count_4"	filename="/game/assets/umiz_shape_mountain_race/audio/geo_count_4.mp3"	domain="shared" />
+		<asset loadOrder="0"	type="mp3"	id="geo_count_5"	filename="/game/assets/umiz_shape_mountain_race/audio/geo_count_5.mp3"	domain="shared" />
+		<asset loadOrder="0"	type="mp3"	id="geo_count_6"	filename="/game/assets/umiz_shape_mountain_race/audio/geo_count_6.mp3"	domain="shared" />
+		<asset loadOrder="0"	type="mp3"	id="geo_count_7"	filename="/game/assets/umiz_shape_mountain_race/audio/geo_count_7.mp3"	domain="shared" />
+		<asset loadOrder="0"	type="mp3"	id="geo_count_8"	filename="/game/assets/umiz_shape_mountain_race/audio/geo_count_8.mp3"	domain="shared" />
+		<asset loadOrder="0"	type="mp3"	id="geo_count_9"	filename="/game/assets/umiz_shape_mountain_race/audio/geo_count_9.mp3"	domain="shared" />
+		<asset loadOrder="0"	type="mp3"	id="geo_count_10"	filename="/game/assets/umiz_shape_mountain_race/audio/geo_count_10.mp3"	domain="shared" />
+		<asset loadOrder="0"	type="mp3"	id="geo_count_11"	filename="/game/assets/umiz_shape_mountain_race/audio/geo_count_11.mp3"	domain="shared" />
+		<asset loadOrder="0"	type="mp3"	id="geo_count_12"	filename="/game/assets/umiz_shape_mountain_race/audio/geo_count_12.mp3"	domain="shared" />		
+		
+		<asset loadOrder="0"	type="mp3"	id="story1_3B"		filename="/game/assets/umiz_shape_mountain_race/audio/story1_3B.mp3"		domain="shared" />
+		<asset loadOrder="0"	type="mp3"	id="story1_4"		filename="/game/assets/umiz_shape_mountain_race/audio/story1_4.mp3"		domain="shared" />
+		<asset loadOrder="0"	type="mp3"	id="story1_5"		filename="/game/assets/umiz_shape_mountain_race/audio/story1_5.mp3"		domain="shared" />
+		<asset loadOrder="0"	type="mp3"	id="story1_6"		filename="/game/assets/umiz_shape_mountain_race/audio/story1_6.mp3"		domain="shared" />
+		<asset loadOrder="0"	type="mp3"	id="story1_7"		filename="/game/assets/umiz_shape_mountain_race/audio/story1_7.mp3"		domain="shared" />
+		<asset loadOrder="0"	type="mp3"	id="story1_7a"		filename="/game/assets/umiz_shape_mountain_race/audio/Story1_7A.mp3"		domain="shared" />
+		<asset loadOrder="0"	type="mp3"	id="story1_7b"		filename="/game/assets/umiz_shape_mountain_race/audio/Story1_7B.mp3"		domain="shared" />
+		<asset loadOrder="0"	type="mp3"	id="story1_8"		filename="/game/assets/umiz_shape_mountain_race/audio/story1_8.mp3"		domain="shared" />
+		<asset loadOrder="0"	type="mp3"	id="story1_9"		filename="/game/assets/umiz_shape_mountain_race/audio/story1_9.mp3"		domain="shared" />
+		<asset loadOrder="0"	type="mp3"	id="story1_10"		filename="/game/assets/umiz_shape_mountain_race/audio/story1_10.mp3"		domain="shared" />
+		<asset loadOrder="0"	type="mp3"	id="story1_11"		filename="/game/assets/umiz_shape_mountain_race/audio/story1_11.mp3"		domain="shared" />
+		<asset loadOrder="0"	type="mp3"	id="story1_12"		filename="/game/assets/umiz_shape_mountain_race/audio/story1_12.mp3"		domain="shared" />
+		<asset loadOrder="0"	type="mp3"	id="story_1_13"		filename="/game/assets/umiz_shape_mountain_race/audio/story_1_13.mp3"		domain="shared" />
+		<asset loadOrder="0"	type="mp3"	id="howto0_1_alt"	filename="/game/assets/umiz_shape_mountain_race/audio/howto0_1_alt.mp3"	domain="shared" />
+		<asset loadOrder="0"	type="mp3"	id="howto0_1a_alt"	filename="/game/assets/umiz_shape_mountain_race/audio/howto0_1A_alt.mp3"	domain="shared" />
+		<asset loadOrder="0"	type="mp3"	id="howto0_2"		filename="/game/assets/umiz_shape_mountain_race/audio/howto0_2.mp3"		domain="shared" />
+		<asset loadOrder="0"	type="mp3"	id="howto0_4"		filename="/game/assets/umiz_shape_mountain_race/audio/howto0_4.mp3"		domain="shared" />
+		<asset loadOrder="0"	type="mp3"	id="howto0_3"		filename="/game/assets/umiz_shape_mountain_race/audio/howto0_3.mp3"		domain="shared" />
+		<asset loadOrder="0"	type="mp3"	id="howto1_1"		filename="/game/assets/umiz_shape_mountain_race/audio/howto1_1.mp3"		domain="shared" />
+		<asset loadOrder="0"	type="mp3"	id="howto1_1a"		filename="/game/assets/umiz_shape_mountain_race/audio/howto1_1A.mp3"		domain="shared" />
+		<asset loadOrder="0"	type="mp3"	id="howto1_2"		filename="/game/assets/umiz_shape_mountain_race/audio/howto1_2.mp3"		domain="shared" />
+		<asset loadOrder="0"	type="mp3"	id="geo_count_1a"	filename="/game/assets/umiz_shape_mountain_race/audio/geo_count_1.mp3"	domain="shared" />
+		<asset loadOrder="0"	type="mp3"	id="geo_count_2a"	filename="/game/assets/umiz_shape_mountain_race/audio/geo_count_2.mp3"	domain="shared" />
+		<asset loadOrder="0"	type="mp3"	id="geo_count_3a"	filename="/game/assets/umiz_shape_mountain_race/audio/geo_count_3.mp3"	domain="shared" />
+		<asset loadOrder="0"	type="mp3"	id="geo_count_4a"	filename="/game/assets/umiz_shape_mountain_race/audio/geo_count_4.mp3"	domain="shared" />
+		<asset loadOrder="0"	type="mp3"	id="geo_count_5a"	filename="/game/assets/umiz_shape_mountain_race/audio/geo_count_5.mp3"	domain="shared" />
+		<asset loadOrder="0"	type="mp3"	id="geo_count_6_ending"	filename="/game/assets/umiz_shape_mountain_race/audio/geo_count_6_ending.mp3"	domain="shared" />
+		<asset loadOrder="0"	type="mp3"	id="howto1_3"		filename="/game/assets/umiz_shape_mountain_race/audio/howto1_3.mp3"		domain="shared" />
+		<asset loadOrder="0"	type="mp3"	id="howto1_4"		filename="/game/assets/umiz_shape_mountain_race/audio/howto1_4.mp3"		domain="shared" />
+		<asset loadOrder="0"	type="mp3"	id="howto1_3_a"		filename="/game/assets/umiz_shape_mountain_race/audio/howto1_3_A.mp3"		domain="shared" />
+	
+		<asset loadOrder="1"	type="swf"	id="level1"			filename="/game/assets/umiz_shape_mountain_race/swfs/umicar.swf" 			domain="shared" />
+	
+		<!-- Level 1 VO -->
+		<asset loadOrder="1"	type="mp3"	id="wrongshape_level_1_1"		filename="/game/assets/umiz_shape_mountain_race/audio/ingame_L1_wrongshape_a.mp3"	domain="shared" />
+		<asset loadOrder="1"	type="mp3"	id="wrongshape_level_1_2"		filename="/game/assets/umiz_shape_mountain_race/audio/ingame_L1_wrongshape_a.mp3"	domain="shared" />
+		<asset loadOrder="1"	type="mp3"	id="completed_level_1"			filename="/game/assets/umiz_shape_mountain_race/audio/ingame_L1_outro_a.mp3"	domain="shared" />
+		<asset loadOrder="1"	type="mp3"	id="goal_prompt_cube"			filename="/game/assets/umiz_shape_mountain_race/audio/ingame_L1_cube_prompt.mp3"	domain="shared" />
+		<asset loadOrder="1"	type="mp3"	id="ingame__L1_cubes_halfway"	filename="/game/assets/umiz_shape_mountain_race/audio/ingame_L1_cubes_halfway.mp3"	domain="shared" />
+		<asset loadOrder="1"	type="mp3"	id="one_shape_remaining_cube"	filename="/game/assets/umiz_shape_mountain_race/audio/ingame_L1_cubes_oneleft.mp3"	domain="shared" />
+		<asset loadOrder="1"	type="mp3"	id="oilslick_appears"			filename="/game/assets/umiz_shape_mountain_race/audio/ingame_L1_oil_appears.mp3"	domain="shared" />
+		<asset loadOrder="1"	type="mp3"	id="fence_appears"				filename="/game/assets/umiz_shape_mountain_race/audio/ingame_L1_Rblock_appears.mp3"	domain="shared" />
+		<asset loadOrder="1"	type="mp3"	id="cube_reminder_1"			filename="/game/assets/umiz_shape_mountain_race/audio/ingame_L1_cubes_reminder_a.mp3"	domain="shared" />
+		<asset loadOrder="1"	type="mp3"	id="cube_reminder_2"			filename="/game/assets/umiz_shape_mountain_race/audio/ingame_L1_cubes_reminder_b.mp3"	domain="shared" />
+		<asset loadOrder="1"	type="mp3"	id="cube_reminder_3"			filename="/game/assets/umiz_shape_mountain_race/audio/ingame_L1_cubes_reminder_3rd.mp3"	domain="shared" />
+		<asset loadOrder="1"	type="mp3"	id="cube_kudos_1"				filename="/game/assets/umiz_shape_mountain_race/audio/ingame_L1_gotcube_prebonus_a.mp3"	domain="shared" />
+		<asset loadOrder="1"	type="mp3"	id="cube_kudos_2"				filename="/game/assets/umiz_shape_mountain_race/audio/ingame_L1_gotcube_prebonus_b.mp3"	domain="shared" />
+		
+		<!-- Common VO -->
+		<asset loadOrder="1"	type="mp3"	id="star_pickup_1"				filename="/game/assets/umiz_shape_mountain_race/audio/ingame_L2_star_kudos_a_alt.mp3"	domain="shared" />
+		<asset loadOrder="1"	type="mp3"	id="star_pickup_2"				filename="/game/assets/umiz_shape_mountain_race/audio/ingame_L2_star_kudos_b_alt.mp3"	domain="shared" />
+		<asset loadOrder="1"	type="mp3"	id="ingame_all_kudos_c"			filename="/game/assets/umiz_shape_mountain_race/audio/ingame_all_kudos_c.mp3"	domain="shared" />
+		<asset loadOrder="1"	type="mp3"	id="wrongshape_all_1"			filename="/game/assets/umiz_shape_mountain_race/audio/ingame_all_wrongshape_a.mp3"	domain="shared" />
+		<asset loadOrder="1"	type="mp3"	id="wrongshape_all_2"			filename="/game/assets/umiz_shape_mountain_race/audio/ingame_all_wrongshape_b.mp3"	domain="shared" />
+		<asset loadOrder="1"	type="mp3"	id="ingame_all_obstacle_1"		filename="/game/assets/umiz_shape_mountain_race/audio/ingame_bump_obstacle_b.mp3"	domain="shared" />
+		<asset loadOrder="1"	type="mp3"	id="ingame_all_obstacle_2"		filename="/game/assets/umiz_shape_mountain_race/audio/ingame_bump_obstacle_c.mp3"	domain="shared" />
+		<asset loadOrder="1"	type="mp3"	id="ingame_spin_obstacle_a"		filename="/game/assets/umiz_shape_mountain_race/audio/ingame_spin_obstacle_a.mp3"	domain="shared" />
+		<asset loadOrder="1"	type="mp3"	id="ingame_spin_obstacle_b"		filename="/game/assets/umiz_shape_mountain_race/audio/ingame_spin_obstacle_b.mp3"	domain="shared" />
+		<asset loadOrder="1"	type="mp3"	id="ingame_spin_obstacle_c"		filename="/game/assets/umiz_shape_mountain_race/audio/ingame_spin_obstacle_c.mp3"	domain="shared" />
+		<asset loadOrder="1"	type="mp3"	id="ingame_speedbonus_1"		filename="/game/assets/umiz_shape_mountain_race/audio/ingame_speedbonus_a.mp3"	domain="shared" />
+		<asset loadOrder="1"	type="mp3"	id="ingame_speedbonus_2"		filename="/game/assets/umiz_shape_mountain_race/audio/ingame_speedbonus_b.mp3"	domain="shared" />
+		<asset loadOrder="1"	type="mp3"	id="ingame_speedbonus_3"		filename="/game/assets/umiz_shape_mountain_race/audio/ingame_speedbonus_c.mp3"	domain="shared" />
+		<asset loadOrder="1"	type="mp3"	id="ingame_speedbonus_4"		filename="/game/assets/umiz_shape_mountain_race/audio/ingame_speedbonus_e.mp3"	domain="shared" />
+		<asset loadOrder="1"	type="mp3"	id="ingame_speedbonus_5"		filename="/game/assets/umiz_shape_mountain_race/audio/ingame_speedbonus_f.mp3"	domain="shared" />
+	
+		<!-- Cutscene 2 -->
+		<asset loadOrder="2"	type="swf"	id="cutscene_2"					filename="/game/assets/umiz_shape_mountain_race/swfs/cutscene_2.swf" 		domain="shared" />
+		<asset loadOrder="3"	type="mp3"	id="story2_1"					filename="/game/assets/umiz_shape_mountain_race/audio/story2_1.mp3"		domain="shared" />
+		<asset loadOrder="3"	type="mp3"	id="story2_3"					filename="/game/assets/umiz_shape_mountain_race/audio/story2_3.mp3"		domain="shared" />
+		<asset loadOrder="3"	type="mp3"	id="story2_4"					filename="/game/assets/umiz_shape_mountain_race/audio/story2_4.mp3"		domain="shared" />
+		<asset loadOrder="3"	type="mp3"	id="story2_5"					filename="/game/assets/umiz_shape_mountain_race/audio/story2_5.mp3"		domain="shared" />
+		<asset loadOrder="3"	type="mp3"	id="story2_6"					filename="/game/assets/umiz_shape_mountain_race/audio/story2_6.mp3"		domain="shared" />
+		<asset loadOrder="3"	type="mp3"	id="story2_7"					filename="/game/assets/umiz_shape_mountain_race/audio/story2_7.mp3"		domain="shared" />
+		<asset loadOrder="3"	type="mp3"	id="story2_8"					filename="/game/assets/umiz_shape_mountain_race/audio/story2_8.mp3"		domain="shared" />
+		<asset loadOrder="3"	type="mp3"	id="howto2_1"					filename="/game/assets/umiz_shape_mountain_race/audio/howto2_1.mp3"		domain="shared" />
+		<asset loadOrder="3"	type="mp3"	id="howto2_1A"					filename="/game/assets/umiz_shape_mountain_race/audio/howto2_1A.mp3"		domain="shared" />
+		<asset loadOrder="3"	type="mp3"	id="howto2_2"					filename="/game/assets/umiz_shape_mountain_race/audio/howto2_2.mp3"		domain="shared" />
+		<asset loadOrder="3"	type="mp3"	id="howto2_4"					filename="/game/assets/umiz_shape_mountain_race/audio/howto2_4.mp3"		domain="shared" />
+		<asset loadOrder="3"	type="mp3"	id="howto2_3"					filename="/game/assets/umiz_shape_mountain_race/audio/howto2_3.mp3"		domain="shared" />
+		
+		<!-- Level 2 VO -->
+		<asset loadOrder="4"	type="mp3"	id="wrongshape_level_2_1"		filename="/game/assets/umiz_shape_mountain_race/audio/ingame_L2_wrongshape_a.mp3"	domain="shared" />
+		<asset loadOrder="4"	type="mp3"	id="wrongshape_level_2_2"		filename="/game/assets/umiz_shape_mountain_race/audio/ingame_L2_wrongshape_b.mp3"	domain="shared" />
+	 	<asset loadOrder="4"	type="mp3"	id="completed_level_2"			filename="/game/assets/umiz_shape_mountain_race/audio/ingame_L2_outro_d.mp3"		domain="shared" />
+		<asset loadOrder="4"	type="mp3"	id="one_shape_remaining_sphere"	filename="/game/assets/umiz_shape_mountain_race/audio/ingame_L2_sph_oneleft.mp3"	domain="shared" />
+	 	<asset loadOrder="4"	type="mp3"	id="half_way_sphere"			filename="/game/assets/umiz_shape_mountain_race/audio/ingame_L2_sph_halfway.mp3"	domain="shared" />
+		<asset loadOrder="4"	type="mp3"	id="goal_prompt_sphere"			filename="/game/assets/umiz_shape_mountain_race/audio/ingame_L1_sph_prompt.mp3"	domain="shared" />
+		<asset loadOrder="4"	type="mp3"	id="sphere_reminder_1"			filename="/game/assets/umiz_shape_mountain_race/audio/ingame_L2_sph_reminder_a.mp3"	domain="shared" />
+		<asset loadOrder="4"	type="mp3"	id="sphere_reminder_2"			filename="/game/assets/umiz_shape_mountain_race/audio/ingame_L2_sph_reminder_b.mp3"	domain="shared" />
+		<asset loadOrder="4"	type="mp3"	id="sphere_reminder_3"			filename="/game/assets/umiz_shape_mountain_race/audio/ingame_L2_sph_reminder_3rd.mp3"	domain="shared" />
+		<asset loadOrder="4"	type="mp3"	id="sphere_kudos_1"				filename="/game/assets/umiz_shape_mountain_race/audio/ingame_L2_gotsph_prebonus_a.mp3"	domain="shared" />
+		<asset loadOrder="4"	type="mp3"	id="sphere_kudos_2"				filename="/game/assets/umiz_shape_mountain_race/audio/ingame_L2_gotsph_prebonus_b.mp3"	domain="shared" />		
+		<asset loadOrder="4"	type="mp3"	id="log_appears"				filename="/game/assets/umiz_shape_mountain_race/audio/ingame_L2_log_appears.mp3"	domain="shared" />
+		<asset loadOrder="4"	type="mp3"	id="whirlpool_appears"			filename="/game/assets/umiz_shape_mountain_race/audio/ingame_L1_Wpool_appears.mp3"	domain="shared" />
+	
+		<!-- Cutscene 3 -->
+		<asset loadOrder="5"	type="swf"	id="cutscene_3"			filename="/game/assets/umiz_shape_mountain_race/swfs/cutscene_3.swf" 		domain="shared" />
+		<asset loadOrder="5"	type="mp3"	id="story3_1"			filename="/game/assets/umiz_shape_mountain_race/audio/story3_1.mp3"		domain="shared" />
+		<asset loadOrder="5"	type="mp3"	id="story3_2"			filename="/game/assets/umiz_shape_mountain_race/audio/story3_2.mp3"		domain="shared" />
+		<asset loadOrder="5"	type="mp3"	id="story3_3_alt"		filename="/game/assets/umiz_shape_mountain_race/audio/story3_3_alt.mp3"	domain="shared" />
+		<asset loadOrder="5"	type="mp3"	id="story3_4"			filename="/game/assets/umiz_shape_mountain_race/audio/story3_4.mp3"		domain="shared" />
+		<asset loadOrder="5"	type="mp3"	id="story3_5"			filename="/game/assets/umiz_shape_mountain_race/audio/story3_5.mp3"		domain="shared" />
+		<asset loadOrder="5"	type="mp3"	id="story3_6"			filename="/game/assets/umiz_shape_mountain_race/audio/story3_6.mp3"		domain="shared" />
+		<asset loadOrder="5"	type="mp3"	id="howto3_1"			filename="/game/assets/umiz_shape_mountain_race/audio/howto3_1.mp3"		domain="shared" />
+		<asset loadOrder="5"	type="mp3"	id="howto3_1A"			filename="/game/assets/umiz_shape_mountain_race/audio/howto3_1A.mp3"		domain="shared" />
+		<asset loadOrder="5"	type="mp3"	id="howto3_2"			filename="/game/assets/umiz_shape_mountain_race/audio/howto3_2.mp3"		domain="shared" />
+	<!-- Already loaded for previous scenes
+	<asset loadOrder="5"	type="mp3"	id="geo_count_1"		filename="/game/assets/umiz_shape_mountain_race/audio/geo_count_1.mp3"		domain="shared" />
+		-->
+		<asset loadOrder="5"	type="mp3"	id="howto3_5"			filename="/game/assets/umiz_shape_mountain_race/audio/howto3_5.mp3"		domain="shared" />
+		<asset loadOrder="5"	type="mp3"	id="howto3_4"			filename="/game/assets/umiz_shape_mountain_race/audio/howto3_4.mp3"		domain="shared" />
+		
+		<!-- Level 3 VO -->
+		<asset loadOrder="6"	type="mp3"	id="geo_count_4_ending"				filename="/game/assets/umiz_shape_mountain_race/audio/geo_count_4_ending.mp3"	domain="shared" />
+		<asset loadOrder="6"	type="mp3"	id="one_shape_remaining_pyramid"	filename="/game/assets/umiz_shape_mountain_race/audio/ingame_L3_pyramid_oneleft.mp3"	domain="shared" />
+		<asset loadOrder="6"	type="mp3"	id="wrongshape_level_3_1"			filename="/game/assets/umiz_shape_mountain_race/audio/ingame_L3_wrongshape_a.mp3"	domain="shared" />
+		<asset loadOrder="6"	type="mp3"	id="wrongshape_level_3_2"			filename="/game/assets/umiz_shape_mountain_race/audio/ingame_L3_wrongshape_a.mp3"	domain="shared" />
+		<asset loadOrder="6"	type="mp3"	id="half_way_pyramid"				filename="/game/assets/umiz_shape_mountain_race/audio/ingame_L2_sph_halfway.mp3"	domain="shared" />
+		<asset loadOrder="6"	type="mp3"	id="goal_prompt_pyramid"			filename="/game/assets/umiz_shape_mountain_race/audio/ingame_L3_pyramid_prompt.mp3"	domain="shared" />
+		<asset loadOrder="6"	type="mp3"	id="pyramid_reminder_1"				filename="/game/assets/umiz_shape_mountain_race/audio/ingame_L3_Pmid_reminder_a.mp3"	domain="shared" />
+		<asset loadOrder="6"	type="mp3"	id="pyramid_reminder_2"				filename="/game/assets/umiz_shape_mountain_race/audio/ingame_L3_Pmid_reminder_b.mp3"	domain="shared" />
+		<asset loadOrder="6"	type="mp3"	id="pyramid_reminder_3"				filename="/game/assets/umiz_shape_mountain_race/audio/ingame_L3_Pmid_reminder_3rd.mp3"	domain="shared" />
+		<asset loadOrder="6"	type="mp3"	id="pyramid_kudos_1"				filename="/game/assets/umiz_shape_mountain_race/audio/ingame_L3_gotPmid_prebonus_a.mp3"	domain="shared" />
+		<asset loadOrder="6"	type="mp3"	id="pyramid_kudos_2"				filename="/game/assets/umiz_shape_mountain_race/audio/ingame_L3_gotPmid_prebonus_b.mp3"	domain="shared" />		
+		<asset loadOrder="6"	type="mp3"	id="completed_level_3"				filename="/game/assets/umiz_shape_mountain_race/audio/ingame_L3_outro_f.mp3"	domain="shared" />
+		<asset loadOrder="6"	type="mp3"	id="mud_appears"					filename="/game/assets/umiz_shape_mountain_race/audio/ingame_L1_mud_appears.mp3"	domain="shared" />
+		<asset loadOrder="6"	type="mp3"	id="rock_appears"					filename="/game/assets/umiz_shape_mountain_race/audio/ingame_L2_rock_appears.mp3"	domain="shared" />
+				
+		
+		<asset loadOrder="7"	type="swf"	id="printable"						filename="/game/assets/umiz_shape_mountain_race/swfs/umicar_printable.swf" 	domain="shared" />
+		<asset loadOrder="7"	type="img"	id="printable_image"				filename="img/umicar_printable.png" 	domain="shared" />
+		<!-- Payoff Audio -->
+		<asset loadOrder="7"	type="mp3"	id="btn_play_again"					filename="/game/assets/umiz_shape_mountain_race/audio/play_again.mp3"		domain="shared" />
+		<asset loadOrder="7"	type="mp3"	id="btn_print"						filename="/game/assets/umiz_shape_mountain_race/audio/print.mp3"			domain="shared" />
+		<asset loadOrder="7"	type="swf"	id="cutscene_4"						filename="/game/assets/umiz_shape_mountain_race/swfs/cutscene_4.swf" 		domain="shared" />
+		<asset loadOrder="7"	type="mp3"	id="story_end_0"					filename="/game/assets/umiz_shape_mountain_race/audio/story_end_0.mp3"	domain="shared" />
+		<asset loadOrder="7"	type="mp3"	id="story_end_1"					filename="/game/assets/umiz_shape_mountain_race/audio/story_end_1.mp3"	domain="shared" />
+		<asset loadOrder="7"	type="mp3"	id="story_end_2"					filename="/game/assets/umiz_shape_mountain_race/audio/story_end_2.mp3"	domain="shared" />
+		<asset loadOrder="7"	type="mp3"	id="story_end_3"					filename="/game/assets/umiz_shape_mountain_race/audio/story_end_3.mp3"	domain="shared" />
+		<asset loadOrder="7"	type="mp3"	id="story_end_4"					filename="/game/assets/umiz_shape_mountain_race/audio/story_end_4.mp3"	domain="shared" />
+		<asset loadOrder="7"	type="mp3"	id="story_end_5"					filename="/game/assets/umiz_shape_mountain_race/audio/story_end_5.mp3"	domain="shared" />
+		<asset loadOrder="7"	type="mp3"	id="story_end_6"					filename="/game/assets/umiz_shape_mountain_race/audio/story_end_6.mp3"	domain="shared" />
+		<asset loadOrder="7"	type="mp3"	id="story_end_7"					filename="/game/assets/umiz_shape_mountain_race/audio/story_end_7.mp3"	domain="shared" />
+		<asset loadOrder="7"	type="mp3"	id="story_end_8"					filename="/game/assets/umiz_shape_mountain_race/audio/story_end_8.mp3"	domain="shared" />
+		<asset loadOrder="7"	type="mp3"	id="story_end_9"					filename="/game/assets/umiz_shape_mountain_race/audio/story_end_9.mp3"	domain="shared" />
+		<asset loadOrder="7"	type="mp3"	id="story_end_9A"					filename="/game/assets/umiz_shape_mountain_race/audio/story_end_9A.mp3"	domain="shared" />
+		<asset loadOrder="7"	type="mp3"	id="story_end_10"					filename="/game/assets/umiz_shape_mountain_race/audio/story_end_10.mp3"	domain="shared" />
+		<asset loadOrder="7"	type="mp3"	id="story_end_11"					filename="/game/assets/umiz_shape_mountain_race/audio/story_end_11.mp3"	domain="shared" />
+		<asset loadOrder="7"	type="mp3"	id="story_end_12"					filename="/game/assets/umiz_shape_mountain_race/audio/story_end_12.mp3"	domain="shared" />
+		<asset loadOrder="7"	type="mp3"	id="story_end_TO"					filename="/game/assets/umiz_shape_mountain_race/audio/story_end_TO.mp3"	domain="shared" />
+		
+	</assets>
+	
+	<levelSettings>
+		<!-- At least 2 patterns are required since the game will avoid repeating the same pattern in a row -->
+		<patterns1>	
+			<pattern level="1" id="0" spawnValue="300" extraSpacing="0" yMin="0" yMax="0" >
+				<obj type="points" xPos="0"  yPos="170" chance="100" />
+				<obj type="points" xPos="60"  yPos="150" chance="100" />
+				<obj type="points" xPos="120"  yPos="135" chance="100" />
+				<obj type="points" xPos="180"  yPos="130" chance="100" />
+				<obj type="points" xPos="240"  yPos="135" chance="100" />
+				<obj type="points" xPos="300"  yPos="150" chance="100" />
+				<obj type="points" xPos="360"  yPos="166" chance="100" />
+				<obj type="points" xPos="420"  yPos="170" chance="100" />
+				<obj type="points" xPos="480"  yPos="159" chance="100" />
+				<obj type="points" xPos="540"  yPos="135" chance="100" />
+				<obj type="points" xPos="600"  yPos="104" chance="100" />
+				<obj type="points" xPos="660"  yPos="76" chance="100" />
+				<obj type="points" xPos="719"  yPos="52" chance="100" />
+				<obj type="points" xPos="779"  yPos="41" chance="100" />
+				<obj type="points" xPos="839"  yPos="60" chance="100" />
+				<obj type="points" xPos="901"  yPos="87" chance="100" />
+				<obj type="points" xPos="961"  yPos="117" chance="100" />
+				
+				<obj type="fence" xPos="764"  yPos="158" chance="100" />
+			</pattern>
+
+			
+			<pattern level="1" id="1" spawnValue="300" extraSpacing="0" yMin="0" yMax="0" >
+				<obj type="points" xPos="0"  yPos="170" chance="100" />
+				<obj type="points" xPos="60"  yPos="150" chance="100" />
+				<obj type="points" xPos="120"  yPos="135" chance="100" />
+				<obj type="points" xPos="180"  yPos="130" chance="100" />
+				<obj type="points" xPos="240"  yPos="135" chance="100" />
+				<obj type="points" xPos="300"  yPos="150" chance="100" />
+				<obj type="points" xPos="360"  yPos="166" chance="100" />
+				<obj type="points" xPos="420"  yPos="170" chance="100" />
+				<obj type="points" xPos="480"  yPos="159" chance="100" />
+				<obj type="points" xPos="540"  yPos="135" chance="100" />
+				<obj type="points" xPos="600"  yPos="104" chance="100" />
+				<obj type="points" xPos="660"  yPos="76" chance="100" />
+				<obj type="points" xPos="719"  yPos="52" chance="100" />
+				<obj type="points" xPos="779"  yPos="41" chance="100" />
+				<obj type="points" xPos="839"  yPos="60" chance="100" />
+				<obj type="points" xPos="901"  yPos="87" chance="100" />
+				<obj type="points" xPos="961"  yPos="117" chance="100" />
+				
+				<obj type="fence" xPos="764"  yPos="158" chance="100" />
+			</pattern>
+
+
+			<pattern level="1" id="2" spawnValue="300" extraSpacing="0" yMin="0" yMax="0" >
+				<obj type="points" xPos="2"  yPos="127" chance="100" />
+				<obj type="points" xPos="60"  yPos="152" chance="100" />
+				<obj type="points" xPos="119"  yPos="177" chance="100" />
+				<obj type="points" xPos="177"  yPos="195" chance="100" />
+				<obj type="points" xPos="237"  yPos="212" chance="100" />
+				<obj type="points" xPos="298"  yPos="216" chance="100" />
+				<obj type="points" xPos="358"  yPos="211" chance="100" />
+				<obj type="points" xPos="415"  yPos="198" chance="100" />
+				<obj type="points" xPos="470"  yPos="174" chance="100" />
+				<obj type="points" xPos="527"  yPos="152" chance="100" />
+				<obj type="points" xPos="583"  yPos="139" chance="100" />
+				<obj type="points" xPos="641"  yPos="131" chance="100" />
+				<obj type="points" xPos="698"  yPos="123" chance="100" />
+				<obj type="points" xPos="754"  yPos="131" chance="100" />
+				<obj type="points" xPos="811"  yPos="141" chance="100" />
+				<obj type="points" xPos="868"  yPos="158" chance="100" />
+				<obj type="points" xPos="925"  yPos="178" chance="100" />
+				
+				<obj type="oilslick" xPos="175"  yPos="52" chance="100" />
+			</pattern>
+
+
+			<pattern level="1" id="3" spawnValue="300" extraSpacing="0" yMin="0" yMax="0" >
+				<obj type="fence" xPos="750"  yPos="55" chance="100" />
+				<obj type="points" xPos="20"  yPos="125" chance="100" />
+				<obj type="points" xPos="90"  yPos="110" chance="100" />
+				<obj type="points" xPos="160"  yPos="100" chance="100" />
+				<obj type="points" xPos="230"  yPos="115" chance="100" />
+				<obj type="points" xPos="300"  yPos="135" chance="100" />
+				<obj type="points" xPos="370"  yPos="115" chance="100" />
+				<obj type="points" xPos="440"  yPos="105" chance="100" />
+				<obj type="points" xPos="510"  yPos="120" chance="100" />
+				<obj type="points" xPos="583"  yPos="150" chance="100" />
+				<obj type="points" xPos="660"  yPos="170" chance="100" />
+				<obj type="points" xPos="730"  yPos="185" chance="100" />
+				<obj type="points" xPos="800"  yPos="205" chance="100" />
+				<obj type="points" xPos="870"  yPos="175" chance="100" />
+				<obj type="points" xPos="940"  yPos="140" chance="100" />
+				<obj type="points" xPos="1010"  yPos="130" chance="100" />
+				<obj type="oilslick" xPos="230"  yPos="260" chance="100" />
+			</pattern>
+
+			
+		 <pattern level="1" id="4" spawnValue="300" extraSpacing="0" yMin="0" yMax="0" >
+				<obj type="points" xPos="10"  yPos="110" chance="100" />
+				<obj type="points" xPos="80"  yPos="125" chance="100" />
+				<obj type="points" xPos="150"  yPos="145" chance="100" />
+				<obj type="points" xPos="220"  yPos="165" chance="100" />
+				<obj type="points" xPos="290"  yPos="145" chance="100" />
+				<obj type="points" xPos="360"  yPos="120" chance="100" />
+				<obj type="points" xPos="430"  yPos="90" chance="100" />
+				<obj type="points" xPos="500"  yPos="75" chance="100" />
+				<obj type="points" xPos="570"  yPos="65" chance="100" />
+				<obj type="points" xPos="640"  yPos="70" chance="100" />
+				<obj type="points" xPos="710"  yPos="80" chance="100" />
+				<obj type="points" xPos="780"  yPos="90" chance="100" />
+				<obj type="points" xPos="850"  yPos="115" chance="100" />
+				<obj type="points" xPos="920"  yPos="145" chance="100" />
+				<obj type="points" xPos="990"  yPos="165" chance="100" />
+				<obj type="oilslick" xPos="630"  yPos="200" chance="100" />
+				<obj type="fence" xPos="240"  yPos="50" chance="100" />
+			</pattern>
+
+			
+		</patterns1>
+		<patterns2>			
+			
+			<pattern level="2" id="0" spawnValue="300" extraSpacing="0" yMin="0" yMax="0" >
+				<obj type="points" xPos="10"  yPos="145" chance="100" />
+				<obj type="points" xPos="80"  yPos="135" chance="100" />
+				<obj type="points" xPos="150"  yPos="125" chance="100" />
+				<obj type="points" xPos="220"  yPos="145" chance="100" />
+				<obj type="points" xPos="290"  yPos="160" chance="100" />
+				<obj type="points" xPos="360"  yPos="185" chance="100" />
+				<obj type="points" xPos="430"  yPos="165" chance="100" />
+				<obj type="points" xPos="500"  yPos="135" chance="100" />
+				<obj type="points" xPos="570"  yPos="105" chance="100" />
+				<obj type="points" xPos="640"  yPos="75" chance="100" />
+				<obj type="points" xPos="710"  yPos="50" chance="100" />
+				<obj type="points" xPos="779"  yPos="41" chance="100" />
+				<obj type="points" xPos="850"  yPos="60" chance="100" />
+				<obj type="points" xPos="920"  yPos="90" chance="100" />
+				<obj type="points" xPos="990"  yPos="120" chance="100" />
+				<obj type="whirlpool" xPos="140"  yPos="75" chance="100" />
+				<obj type="log" xPos="764"  yPos="158" chance="100" />
+			</pattern>
+			
+			<pattern level="2" id="1" spawnValue="300" extraSpacing="0" yMin="0" yMax="0" >
+				<obj type="points" xPos="20"  yPos="175" chance="100" />
+				<obj type="points" xPos="90"  yPos="195" chance="100" />
+				<obj type="points" xPos="160"  yPos="210" chance="100" />
+				<obj type="points" xPos="230"  yPos="225" chance="100" />
+				<obj type="points" xPos="300"  yPos="245" chance="100" />
+				<obj type="points" xPos="370"  yPos="235" chance="100" />
+				<obj type="points" xPos="440"  yPos="210" chance="100" />
+				<obj type="points" xPos="510"  yPos="175" chance="100" />
+				<obj type="points" xPos="580"  yPos="150" chance="100" />
+				<obj type="points" xPos="650"  yPos="130" chance="100" />
+				<obj type="points" xPos="720"  yPos="125" chance="100" />
+				<obj type="points" xPos="790"  yPos="130" chance="100" />
+				<obj type="points" xPos="860"  yPos="135" chance="100" />
+				<obj type="points" xPos="930"  yPos="155" chance="100" />
+				<obj type="points" xPos="1000"  yPos="190" chance="100" />
+				<obj type="log" xPos="175"  yPos="72" chance="100" />
+				<obj type="log" xPos="699"  yPos="228" chance="100" />
+				<obj type="whirlpool" xPos="390"  yPos="105" chance="100" />
+			</pattern>
+
+			<pattern level="2" id="2" spawnValue="300" extraSpacing="0" yMin="0" yMax="0" >
+				<obj type="points" xPos="20"  yPos="135" chance="100" />
+				<obj type="points" xPos="90"  yPos="165" chance="100" />
+				<obj type="points" xPos="160"  yPos="200" chance="100" />
+				<obj type="points" xPos="230"  yPos="210" chance="100" />
+				<obj type="points" xPos="300"  yPos="210" chance="100" />
+				<obj type="points" xPos="370"  yPos="190" chance="100" />
+				<obj type="points" xPos="440"  yPos="170" chance="100" />
+				<obj type="points" xPos="510"  yPos="160" chance="100" />
+				<obj type="points" xPos="583"  yPos="139" chance="100" />
+				<obj type="points" xPos="660"  yPos="130" chance="100" />
+				<obj type="points" xPos="730"  yPos="115" chance="100" />
+				<obj type="points" xPos="800"  yPos="125" chance="100" />
+				<obj type="points" xPos="870"  yPos="140" chance="100" />
+				<obj type="points" xPos="940"  yPos="160" chance="100" />
+				<obj type="points" xPos="1010"  yPos="180" chance="100" />
+				<obj type="log" xPos="590"  yPos="268" chance="100" />
+				<obj type="whirlpool" xPos="911"  yPos="62" chance="100" />
+				<obj type="whirlpool" xPos="16"  yPos="254" chance="100" />
+			</pattern>
+
+			<pattern level="2" id="3" spawnValue="300" extraSpacing="0" yMin="0" yMax="0" >
+				<obj type="points" xPos="20"  yPos="125" chance="100" />
+				<obj type="points" xPos="90"  yPos="110" chance="100" />
+				<obj type="points" xPos="160"  yPos="95" chance="100" />
+				<obj type="points" xPos="230"  yPos="110" chance="100" />
+				<obj type="points" xPos="300"  yPos="130" chance="100" />
+				<obj type="points" xPos="370"  yPos="115" chance="100" />
+				<obj type="points" xPos="440"  yPos="100" chance="100" />
+				<obj type="points" xPos="510"  yPos="120" chance="100" />
+				<obj type="points" xPos="583"  yPos="150" chance="100" />
+				<obj type="points" xPos="650"  yPos="170" chance="100" />
+				<obj type="points" xPos="720"  yPos="185" chance="100" />
+				<obj type="points" xPos="790"  yPos="205" chance="100" />
+				<obj type="points" xPos="860"  yPos="175" chance="100" />
+				<obj type="points" xPos="930"  yPos="145" chance="100" />
+				<obj type="points" xPos="1000"  yPos="125" chance="100" />
+				<obj type="whirlpool" xPos="230"  yPos="240" chance="100" />
+				<obj type="whirlpool" xPos="610"  yPos="65" chance="100" />
+			</pattern>
+
+			
+			<pattern level="2" id="4" spawnValue="300" extraSpacing="0" yMin="0" yMax="0" >
+				<obj type="points" xPos="10"  yPos="105" chance="100" />
+				<obj type="points" xPos="80"  yPos="115" chance="100" />
+				<obj type="points" xPos="150"  yPos="150" chance="100" />
+				<obj type="points" xPos="220"  yPos="165" chance="100" />
+				<obj type="points" xPos="290"  yPos="135" chance="100" />
+				<obj type="points" xPos="360"  yPos="115" chance="100" />
+				<obj type="points" xPos="430"  yPos="90" chance="100" />
+				<obj type="points" xPos="500"  yPos="70" chance="100" />
+				<obj type="points" xPos="574"  yPos="64" chance="100" />
+				<obj type="points" xPos="640"  yPos="75" chance="100" />
+				<obj type="points" xPos="710"  yPos="80" chance="100" />
+				<obj type="points" xPos="780"  yPos="85" chance="100" />
+				<obj type="points" xPos="850"  yPos="100" chance="100" />
+				<obj type="points" xPos="920"  yPos="130" chance="100" />
+				<obj type="points" xPos="990"  yPos="160" chance="100" />
+				<obj type="log" xPos="20"  yPos="215" chance="100" />
+				<obj type="random" xPos="597"  yPos="202" chance="100" />
+			</pattern>
+
+		</patterns2>
+		
+		<patterns3>	
+			<pattern level="3" id="0" spawnValue="300" extraSpacing="0" yMin="20" yMax="20" >
+				<obj type="points" xPos="10"  yPos="135" chance="100" />
+				<obj type="points" xPos="80"  yPos="130" chance="100" />
+				<obj type="points" xPos="150"  yPos="150" chance="100" />
+				<obj type="points" xPos="220"  yPos="150" chance="100" />
+				<obj type="points" xPos="290"  yPos="150" chance="100" />
+				<obj type="points" xPos="360"  yPos="140" chance="100" />
+				<obj type="points" xPos="430"  yPos="130" chance="100" />
+				<obj type="points" xPos="500"  yPos="130" chance="100" />
+				<obj type="points" xPos="570"  yPos="120" chance="100" />
+				<obj type="points" xPos="640"  yPos="105" chance="100" />
+				<obj type="points" xPos="710"  yPos="90" chance="100" />
+				<obj type="points" xPos="780"  yPos="85" chance="100" />
+				<obj type="points" xPos="850"  yPos="90" chance="100" />
+				<obj type="points" xPos="920"  yPos="105" chance="100" />
+				<obj type="points" xPos="990"  yPos="140" chance="100" />
+				<obj type="mud" xPos="40"  yPos="210" chance="100" />
+				<obj type="rock" xPos="470"  yPos="200" chance="100" />
+				<obj type="random" xPos="780"  yPos="175" chance="100" />
+			</pattern>
+			
+			<pattern level="3" id="1" spawnValue="300" extraSpacing="0" yMin="0" yMax="0" >
+				<obj type="points" xPos="10"  yPos="190" chance="100" />
+				<obj type="points" xPos="80"  yPos="200" chance="100" />
+				<obj type="points" xPos="150"  yPos="215" chance="100" />
+				<obj type="points" xPos="220"  yPos="225" chance="100" />
+				<obj type="points" xPos="290"  yPos="220" chance="100" />
+				<obj type="points" xPos="360"  yPos="210" chance="100" />
+				<obj type="points" xPos="430"  yPos="190" chance="100" />
+				<obj type="points" xPos="500"  yPos="180" chance="100" />
+				<obj type="points" xPos="570"  yPos="160" chance="100" />
+				<obj type="points" xPos="640"  yPos="145" chance="100" />
+				<obj type="points" xPos="710"  yPos="130" chance="100" />
+				<obj type="points" xPos="780"  yPos="135" chance="100" />
+				<obj type="points" xPos="850"  yPos="150" chance="100" />
+				<obj type="points" xPos="920"  yPos="175" chance="100" />
+				<obj type="points" xPos="990"  yPos="210" chance="100" />
+				<obj type="random" xPos="270"  yPos="145" chance="100" />
+				<obj type="mud" xPos="699"  yPos="228" chance="100" />
+				<obj type="random" xPos="990"  yPos="115" chance="100" />
+			</pattern>
+			
+			<pattern level="3" id="2" spawnValue="300" extraSpacing="0" yMin="0" yMax="0" >
+				<obj type="points" xPos="0"  yPos="135" chance="100" />
+				<obj type="points" xPos="70"  yPos="150" chance="100" />
+				<obj type="points" xPos="140"  yPos="170" chance="100" />
+				<obj type="points" xPos="210"  yPos="175" chance="100" />
+				<obj type="points" xPos="280"  yPos="180" chance="100" />
+				<obj type="points" xPos="350"  yPos="180" chance="100" />
+				<obj type="points" xPos="420"  yPos="175" chance="100" />
+				<obj type="points" xPos="490"  yPos="155" chance="100" />
+				<obj type="points" xPos="560"  yPos="140" chance="100" />
+				<obj type="points" xPos="630"  yPos="125" chance="100" />
+				<obj type="points" xPos="700"  yPos="125" chance="100" />
+				<obj type="points" xPos="770"  yPos="135" chance="100" />
+				<obj type="points" xPos="840"  yPos="145" chance="100" />
+				<obj type="points" xPos="910"  yPos="160" chance="100" />
+				<obj type="points" xPos="980"  yPos="180" chance="100" />
+				<obj type="mud" xPos="670"  yPos="205" chance="100" />
+				<obj type="random" xPos="20"  yPos="235" chance="100" />
+			</pattern>
+
+			<pattern level="3" id="3" spawnValue="300" extraSpacing="0" yMin="0" yMax="0" >
+				<obj type="points" xPos="20"  yPos="160" chance="100" />
+				<obj type="points" xPos="90"  yPos="145" chance="100" />
+				<obj type="points" xPos="160"  yPos="120" chance="100" />
+				<obj type="points" xPos="230"  yPos="125" chance="100" />
+				<obj type="points" xPos="300"  yPos="140" chance="100" />
+				<obj type="points" xPos="370"  yPos="155" chance="100" />
+				<obj type="points" xPos="440"  yPos="140" chance="100" />
+				<obj type="points" xPos="510"  yPos="125" chance="100" />
+				<obj type="points" xPos="580"  yPos="150" chance="100" />
+				<obj type="points" xPos="650"  yPos="170" chance="100" />
+				<obj type="points" xPos="720"  yPos="180" chance="100" />
+				<obj type="points" xPos="780"  yPos="205" chance="100" />
+				<obj type="points" xPos="850"  yPos="225" chance="100" />
+				<obj type="points" xPos="920"  yPos="210" chance="100" />
+				<obj type="points" xPos="990"  yPos="185" chance="100" />
+				<obj type="random" xPos="220"  yPos="220" chance="100" />
+				<obj type="random" xPos="850"  yPos="130" chance="100" />
+			</pattern>
+			
+			<pattern level="3" id="4" spawnValue="300" extraSpacing="0" yMin="10" yMax="10" >
+				<obj type="points" xPos="2"  yPos="160" chance="100" />
+				<obj type="points" xPos="70"  yPos="140" chance="100" />
+				<obj type="points" xPos="140"  yPos="155" chance="100" />
+				<obj type="points" xPos="210"  yPos="190" chance="100" />
+				<obj type="points" xPos="280"  yPos="200" chance="100" />
+				<obj type="points" xPos="350"  yPos="170" chance="100" />
+				<obj type="points" xPos="420"  yPos="135" chance="100" />
+				<obj type="points" xPos="500"  yPos="115" chance="100" />
+				<obj type="points" xPos="570"  yPos="105" chance="100" />
+				<obj type="points" xPos="640"  yPos="105" chance="100" />
+				<obj type="points" xPos="710"  yPos="120" chance="100" />
+				<obj type="points" xPos="780"  yPos="125" chance="100" />
+				<obj type="points" xPos="850"  yPos="115" chance="100" />
+				<obj type="points" xPos="920"  yPos="130" chance="100" />
+				<obj type="points" xPos="980"  yPos="155" chance="100" />
+				<obj type="random" xPos="80"  yPos="235" chance="100" />
+				<obj type="rock" xPos="270"  yPos="105" chance="100" />
+			</pattern>
+
+		</patterns3>
+	</levelSettings>
+	
+</data>

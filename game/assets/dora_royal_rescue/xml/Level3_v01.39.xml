@@ -1,0 +1,618 @@
+<level id="1" width="18500" height="3200" startX="225" startY="950">
+  <scene name="Skybox" parallax="true"/>
+  <scene name="Background" parallax="true">
+    <gameObject id="Decal" props="x:n0,y:n75,width:n3000,height:n2000,color:u0xff">
+      <artAsset classname="L3_castleMid1" insertType="insert" x="0" y="0"/>
+      <artAsset classname="L3_castleMid1" insertType="insert" x="740" y="0"/>
+      <artAsset classname="L3_castleMid1" insertType="insert" x="1480" y="0"/>
+      <artAsset classname="L3_castleMid1" insertType="insert" x="2220" y="0"/>
+    </gameObject>
+  </scene>
+  <scene name="GodRays2" parallax="true">
+    <gameObject id="Decal" props="x:n150,y:n200,width:n28000,height:n3000,color:u0xff">
+      <artAsset classname="light_shaft_mc" insertType="insert" x="750" y="0"/>
+      <artAsset classname="light_shaft_mc" insertType="insert" x="1800" y="0"/>
+      <artAsset classname="light_shaft_mc" insertType="insert" x="2800" y="0"/>
+      <artAsset classname="light_shaft_mc" insertType="insert" x="5620" y="0"/>
+      <artAsset classname="light_shaft_mc" insertType="insert" x="6000" y="0"/>
+      <artAsset classname="light_shaft_mc" insertType="insert" x="6600" y="0"/>
+      <artAsset classname="light_shaft_mc" insertType="insert" x="10000" y="0"/>
+      <artAsset classname="light_shaft_mc" insertType="insert" x="12000" y="0"/>
+      <artAsset classname="light_shaft_mc" insertType="insert" x="13750" y="0"/>
+    </gameObject>
+  </scene>
+  <scene name="Midground Walls" parallax="false">
+    <gameObject id="Decal" props="x:n-200,y:n725,width:n400,height:n300,color:u0xff">
+      <artAsset classname="L3_wallTile" insertType="insert" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="Decal" props="x:n-200,y:n425,width:n400,height:n300,color:u0xff">
+      <artAsset classname="L3_wallTile" insertType="insert" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="Decal" props="x:n200,y:n725,width:n400,height:n300,color:u0xff">
+      <artAsset classname="L3_wallTile" insertType="insert" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="Decal" props="x:n7000,y:n425,width:n400,height:n300,color:u0xff">
+      <artAsset classname="L3_wallTile" insertType="insert" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="Decal" props="x:n6600,y:n425,width:n400,height:n300,color:u0xff">
+      <artAsset classname="L3_wallTile" insertType="insert" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="Decal" props="x:n6200,y:n425,width:n400,height:n300,color:u0xff">
+      <artAsset classname="L3_wallTile" insertType="insert" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="Decal" props="x:n1400,y:n150,width:n400,height:n300,color:u0xff">
+      <artAsset classname="L3_wallTile" insertType="insert" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="Decal" props="x:n5800,y:n425,width:n400,height:n300,color:u0xff">
+      <artAsset classname="L3_wallTile" insertType="insert" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="Decal" props="x:n1800,y:n150,width:n400,height:n300,color:u0xff">
+      <artAsset classname="L3_wallTile" insertType="insert" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="Decal" props="x:n2200,y:n150,width:n400,height:n300,color:u0xff">
+      <artAsset classname="L3_wallTile" insertType="insert" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="Decal" props="x:n2600,y:n125,width:n400,height:n300,color:u0xff">
+      <artAsset classname="L3_wallTile" insertType="insert" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="Decal" props="x:n1000,y:n725,width:n400,height:n300,color:u0xff">
+      <artAsset classname="L3_wallTile" insertType="insert" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="Decal" props="x:n1400,y:n725,width:n400,height:n300,color:u0xff">
+      <artAsset classname="L3_wallTile" insertType="insert" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="Decal" props="x:n1800,y:n725,width:n400,height:n300,color:u0xff">
+      <artAsset classname="L3_wallTile" insertType="insert" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="Decal" props="x:n2200,y:n725,width:n400,height:n300,color:u0xff">
+      <artAsset classname="L3_wallTile" insertType="insert" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="Decal" props="x:n2200,y:n425,width:n400,height:n300,color:u0xff">
+      <artAsset classname="L3_wallTile" insertType="insert" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="Decal" props="x:n2600,y:n725,width:n400,height:n300,color:u0xff">
+      <artAsset classname="L3_wallTile" insertType="insert" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="Decal" props="x:n2600,y:n425,width:n400,height:n300,color:u0xff">
+      <artAsset classname="L3_wallTile" insertType="insert" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="Decal" props="x:n3400,y:n425,width:n400,height:n300,color:u0xff">
+      <artAsset classname="L3_wallTile" insertType="insert" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="Decal" props="x:n3400,y:n725,width:n400,height:n300,color:u0xff">
+      <artAsset classname="L3_wallTile" insertType="insert" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="Decal" props="x:n3800,y:n725,width:n400,height:n300,color:u0xff">
+      <artAsset classname="L3_wallTile" insertType="insert" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="Decal" props="x:n4200,y:n725,width:n400,height:n300,color:u0xff">
+      <artAsset classname="L3_wallTile" insertType="insert" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="Decal" props="x:n4600,y:n725,width:n400,height:n300,color:u0xff">
+      <artAsset classname="L3_wallTile" insertType="insert" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="Decal" props="x:n5000,y:n725,width:n400,height:n300,color:u0xff">
+      <artAsset classname="L3_wallTile" insertType="insert" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="Decal" props="x:n5800,y:n725,width:n400,height:n300,color:u0xff">
+      <artAsset classname="L3_wallTile" insertType="insert" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="Decal" props="x:n6200,y:n725,width:n400,height:n300,color:u0xff">
+      <artAsset classname="L3_wallTile" insertType="insert" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="Decal" props="x:n6600,y:n725,width:n400,height:n300,color:u0xff">
+      <artAsset classname="L3_wallTile" insertType="insert" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="Decal" props="x:n7000,y:n725,width:n400,height:n300,color:u0xff">
+      <artAsset classname="L3_wallTile" insertType="insert" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="Decal" props="x:n3000,y:n125,width:n400,height:n300,color:u0xff">
+      <artAsset classname="L3_wallTile" insertType="insert" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="Decal" props="x:n7400,y:n425,width:n400,height:n300,color:u0xff">
+      <artAsset classname="L3_wallTile" insertType="insert" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="Decal" props="x:n7400,y:n725,width:n400,height:n300,color:u0xff">
+      <artAsset classname="L3_wallTile" insertType="insert" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="Decal" props="x:n7800,y:n425,width:n400,height:n300,color:u0xff">
+      <artAsset classname="L3_wallTile" insertType="insert" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="Decal" props="x:n8200,y:n425,width:n400,height:n300,color:u0xff">
+      <artAsset classname="L3_wallTile" insertType="insert" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="Decal" props="x:n3000,y:n725,width:n400,height:n300,color:u0xff">
+      <artAsset classname="L3_wallTile" insertType="insert" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="Decal" props="x:n5400,y:n425,width:n400,height:n300,color:u0xff">
+      <artAsset classname="L3_wallTile" insertType="insert" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="Decal" props="x:n5000,y:n425,width:n400,height:n300,color:u0xff">
+      <artAsset classname="L3_wallTile" insertType="insert" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="Decal" props="x:n3000,y:n425,width:n400,height:n300,color:u0xff">
+      <artAsset classname="L3_arch" insertType="insert" x="0" y="0"/>
+      <artAsset classname="L3_base_arch" insertType="insert" x="0" y="275"/>
+    </gameObject>
+    <gameObject id="Decal" props="x:n5400,y:n725,width:n400,height:n300,color:u0xff">
+      <artAsset classname="L3_arch" insertType="insert" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="Decal" props="x:n600,y:n425,width:n400,height:n300,color:u0xff">
+      <artAsset classname="L3_wallTile" insertType="insert" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="Decal" props="x:n4600,y:n425,width:n400,height:n300,color:u0xff">
+      <artAsset classname="L3_wallTile" insertType="insert" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="Decal" props="x:n4200,y:n425,width:n400,height:n300,color:u0xff">
+      <artAsset classname="L3_wallTile" insertType="insert" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="Decal" props="x:n600,y:n725,width:n400,height:n300,color:u0xff">
+      <artAsset classname="L3_arch" insertType="insert" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="Decal" props="x:n3800,y:n425,width:n400,height:n300,color:u0xff">
+      <artAsset classname="L3_wallTile" insertType="insert" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="Decal" props="x:n3400,y:n125,width:n400,height:n300,color:u0xff">
+      <artAsset classname="L3_wallTile" insertType="insert" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="Decal" props="x:n1800,y:n425,width:n400,height:n300,color:u0xff">
+      <artAsset classname="L3_wallTile" insertType="insert" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="Decal" props="x:n1400,y:n425,width:n400,height:n300,color:u0xff">
+      <artAsset classname="L3_wallTile" insertType="insert" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="Decal" props="x:n1000,y:n425,width:n400,height:n300,color:u0xff">
+      <artAsset classname="L3_wallTile" insertType="insert" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="Decal" props="x:n200,y:n425,width:n400,height:n300,color:u0xff">
+      <artAsset classname="L3_wallTile" insertType="insert" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="Decal" props="x:n3800,y:n125,width:n400,height:n300,color:u0xff">
+      <artAsset classname="L3_wallTile" insertType="insert" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="Decal" props="x:n4200,y:n125,width:n400,height:n300,color:u0xff">
+      <artAsset classname="L3_wallTile" insertType="insert" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="Decal" props="x:n4600,y:n125,width:n400,height:n300,color:u0xff">
+      <artAsset classname="L3_wallTile" insertType="insert" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="Decal" props="x:n5000,y:n125,width:n400,height:n300,color:u0xff">
+      <artAsset classname="L3_wallTile" insertType="insert" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="Decal" props="x:n5400,y:n125,width:n400,height:n300,color:u0xff">
+      <artAsset classname="L3_wallTile" insertType="insert" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="Decal" props="x:n5800,y:n125,width:n400,height:n300,color:u0xff">
+      <artAsset classname="L3_wallTile" insertType="insert" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="Decal" props="x:n6200,y:n125,width:n400,height:n300,color:u0xff">
+      <artAsset classname="L3_wallTile" insertType="insert" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="Decal" props="x:n6600,y:n125,width:n400,height:n300,color:u0xff">
+      <artAsset classname="L3_wallTile" insertType="insert" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="Decal" props="x:n7000,y:n125,width:n400,height:n300,color:u0xff">
+      <artAsset classname="L3_wallTile" insertType="insert" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="Decal" props="x:n7400,y:n125,width:n400,height:n300,color:u0xff">
+      <artAsset classname="L3_wallTile" insertType="insert" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="Decal" props="x:n7800,y:n125,width:n400,height:n300,color:u0xff">
+      <artAsset classname="L3_wallTile" insertType="insert" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="Decal" props="x:n8200,y:n125,width:n400,height:n300,color:u0xff">
+      <artAsset classname="L3_wallTile" insertType="insert" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="Decal" props="x:n8200,y:n725,width:n400,height:n300,color:u0xff">
+      <artAsset classname="L3_wallTile" insertType="insert" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="Decal" props="x:n7800,y:n725,width:n400,height:n300,color:u0xff">
+      <artAsset classname="L3_wallTile" insertType="insert" x="0" y="0"/>
+    </gameObject>
+  </scene>
+  <scene name="JumpThrough" parallax="false">
+    <gameObject id="JumpThroughPlatform" props="x:n600,y:n925,width:n125,height:n25,color:u0xff"/>
+    <gameObject id="JumpThroughPlatform" props="x:n700,y:n800,width:n200,height:n25,color:u0xff"/>
+    <gameObject id="JumpThroughPlatform" props="x:n875,y:n925,width:n125,height:n25,color:u0xff"/>
+    <gameObject id="JumpThroughPlatform" props="x:n1550,y:n975,width:n250,height:n75,color:u0xff">
+      <artAsset classname="L3_stonePlatform_tile" insertType="insert" x="25" y="0"/>
+      <artAsset classname="L3_stonePlatform_left" insertType="insert" x="0" y="0"/>
+      <artAsset classname="L3_stonePlatform_right" insertType="insert" x="225" y="0"/>
+      <artAsset classname="L3_stonePlatform_tile" insertType="insert" x="125" y="0"/>
+    </gameObject>
+    <gameObject id="JumpThroughPlatform" props="x:n1175,y:n850,width:n250,height:n25,color:u0xff">
+      <artAsset classname="L3_stonePlatform_tile" insertType="insert" x="25" y="0"/>
+      <artAsset classname="L3_stonePlatform_tile" insertType="insert" x="125" y="0"/>
+      <artAsset classname="L3_stonePlatform_left" insertType="insert" x="0" y="0"/>
+      <artAsset classname="L3_stonePlatform_right" insertType="insert" x="225" y="0"/>
+    </gameObject>
+    <gameObject id="JumpThroughPlatform" props="x:n2225,y:n950,width:n150,height:n50,color:u0xff"/>
+    <gameObject id="JumpThroughPlatform" props="x:n3000,y:n625,width:n125,height:n25,color:u0xff"/>
+    <gameObject id="JumpThroughPlatform" props="x:n3100,y:n500,width:n200,height:n25,color:u0xff"/>
+    <gameObject id="JumpThroughPlatform" props="x:n3275,y:n625,width:n125,height:n25,color:u0xff"/>
+    <gameObject id="JumpThroughPlatform" props="x:n4275,y:n950,width:n150,height:n25,color:u0xff"/>
+    <gameObject id="JumpThroughPlatform" props="x:n5400,y:n925,width:n125,height:n25,color:u0xff"/>
+    <gameObject id="JumpThroughPlatform" props="x:n5675,y:n925,width:n125,height:n25,color:u0xff"/>
+    <gameObject id="JumpThroughPlatform" props="x:n5500,y:n800,width:n200,height:n25,color:u0xff"/>
+    <gameObject id="JumpThroughPlatform" props="x:n5975,y:n700,width:n150,height:n25,color:u0xff">
+      <artAsset classname="L3_stonePlatform_left" insertType="insert" x="0" y="0"/>
+      <artAsset classname="L3_stonePlatform_right" insertType="insert" x="125" y="0"/>
+      <artAsset classname="L3_stonePlatform_tile" insertType="insert" x="25" y="0"/>
+    </gameObject>
+    <gameObject id="JumpThroughPlatform" props="x:n6775,y:n500,width:n550,height:n25,color:u0xff">
+      <artAsset classname="L3_stonePlatform_left" insertType="insert" x="0" y="0"/>
+      <artAsset classname="L3_stonePlatform_right" insertType="insert" x="525" y="0"/>
+      <artAsset classname="L3_stonePlatform_tile" insertType="insert" x="425" y="0"/>
+      <artAsset classname="L3_stonePlatform_tile" insertType="insert" x="125" y="0"/>
+      <artAsset classname="L3_stonePlatform_tile" insertType="insert" x="325" y="0"/>
+      <artAsset classname="L3_stonePlatform_tile" insertType="insert" x="225" y="0"/>
+      <artAsset classname="L3_stonePlatform_tile" insertType="insert" x="25" y="0"/>
+    </gameObject>
+    <gameObject id="JumpThroughPlatform" props="x:n6625,y:n700,width:n250,height:n25,color:u0xff">
+      <artAsset classname="L3_stonePlatform_left" insertType="insert" x="0" y="0"/>
+      <artAsset classname="L3_stonePlatform_right" insertType="insert" x="225" y="0"/>
+      <artAsset classname="L3_stonePlatform_tile" insertType="insert" x="25" y="0"/>
+      <artAsset classname="L3_stonePlatform_tile" insertType="insert" x="125" y="0"/>
+    </gameObject>
+    <gameObject id="JumpThroughPlatform" props="x:n4775,y:n875,width:n150,height:n25,color:u0xff">
+      <artAsset classname="L3_stonePlatform_left" insertType="insert" x="0" y="0"/>
+      <artAsset classname="L3_stonePlatform_right" insertType="insert" x="125" y="0"/>
+      <artAsset classname="L3_stonePlatform_tile" insertType="insert" x="25" y="0"/>
+    </gameObject>
+    <gameObject id="JumpThroughPlatform" props="x:n4600,y:n675,width:n250,height:n25,color:u0xff">
+      <artAsset classname="L3_stonePlatform_left" insertType="insert" x="0" y="0"/>
+      <artAsset classname="L3_stonePlatform_right" insertType="insert" x="225" y="0"/>
+      <artAsset classname="L3_stonePlatform_tile" insertType="insert" x="25" y="0"/>
+      <artAsset classname="L3_stonePlatform_tile" insertType="insert" x="125" y="0"/>
+    </gameObject>
+    <gameObject id="JumpThroughPlatform" props="x:n4400,y:n600,width:n250,height:n25,color:u0xff">
+      <artAsset classname="L3_stonePlatform_left" insertType="insert" x="0" y="0"/>
+      <artAsset classname="L3_stonePlatform_right" insertType="insert" x="225" y="0"/>
+      <artAsset classname="L3_stonePlatform_tile" insertType="insert" x="25" y="0"/>
+      <artAsset classname="L3_stonePlatform_tile" insertType="insert" x="125" y="0"/>
+    </gameObject>
+    <gameObject id="JumpThroughPlatform" props="x:n6250,y:n900,width:n150,height:n25,color:u0xff">
+      <artAsset classname="L3_stonePlatform_left" insertType="insert" x="0" y="0"/>
+      <artAsset classname="L3_stonePlatform_right" insertType="insert" x="125" y="0"/>
+      <artAsset classname="L3_stonePlatform_tile" insertType="insert" x="25" y="0"/>
+    </gameObject>
+    <gameObject id="JumpThroughPlatform" props="x:n4825,y:n750,width:n450,height:n25,color:u0xff">
+      <artAsset classname="L3_stonePlatform_left" insertType="insert" x="0" y="0"/>
+      <artAsset classname="L3_stonePlatform_right" insertType="insert" x="425" y="0"/>
+      <artAsset classname="L3_stonePlatform_tile" insertType="insert" x="125" y="0"/>
+      <artAsset classname="L3_stonePlatform_tile" insertType="insert" x="25" y="0"/>
+      <artAsset classname="L3_stonePlatform_tile" insertType="insert" x="325" y="0"/>
+      <artAsset classname="L3_stonePlatform_tile" insertType="insert" x="225" y="0"/>
+    </gameObject>
+    <gameObject id="JumpThroughPlatform" props="x:n2175,y:n550,width:n350,height:n25,color:u0xff">
+      <artAsset classname="L3_stonePlatform_right" insertType="insert" x="325" y="0"/>
+      <artAsset classname="L3_stonePlatform_tile" insertType="insert" x="25" y="0"/>
+      <artAsset classname="L3_stonePlatform_left" insertType="insert" x="0" y="0"/>
+      <artAsset classname="L3_stonePlatform_tile" insertType="insert" x="125" y="0"/>
+      <artAsset classname="L3_stonePlatform_tile" insertType="insert" x="225" y="0"/>
+    </gameObject>
+  </scene>
+  <scene name="MovingPlatforms" parallax="false">
+    <gameObject id="MovingPlatform" props="x:n1425,y:n850,width:n100,height:n25,color:u0xff00,minXMove:n0,maxXMove:n600,minYMove:n0,maxYMove:n0,speedX:n4,speedY:n0,platformType:sdefault">
+      <artAsset classname="L3_magicPlatform" insertType="insert" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="MovingPlatform" props="x:n2250,y:n600,width:n100,height:n25,color:u0xff00,minXMove:n0,maxXMove:n0,minYMove:n0,maxYMove:n300,speedX:n0,speedY:n3,platformType:sfountain">
+      <artAsset classname="L3_waterSpout" insertType="insert" x="25" y="0"/>
+      <artAsset classname="L3_waterPlatform" insertType="insert" x="-25" y="-25"/>
+    </gameObject>
+    <gameObject id="MovingPlatform" props="x:n2525,y:n550,width:n100,height:n25,color:u0xff00,minXMove:n0,maxXMove:n375,minYMove:n0,maxYMove:n0,speedX:n4,speedY:n0,platformType:sdefault">
+      <artAsset classname="L3_magicPlatform" insertType="insert" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="MovingPlatform" props="x:n5275,y:n750,width:n100,height:n25,color:u0xff00,minXMove:n0,maxXMove:n625,minYMove:n0,maxYMove:n0,speedX:n4,speedY:n0,platformType:sdefault">
+      <artAsset classname="L3_magicPlatform" insertType="insert" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="MovingPlatform" props="x:n6125,y:n700,width:n100,height:n25,color:u0xff00,minXMove:n0,maxXMove:n400,minYMove:n0,maxYMove:n0,speedX:n4,speedY:n0,platformType:sdefault">
+      <artAsset classname="L3_magicPlatform" insertType="insert" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="MovingPlatform" props="x:n4300,y:n550,width:n100,height:n25,color:u0xff00,minXMove:n0,maxXMove:n0,minYMove:n0,maxYMove:n350,speedX:n0,speedY:n3,platformType:sfountain">
+      <artAsset classname="L3_waterSpout" insertType="insert" x="25" y="0"/>
+      <artAsset classname="L3_waterPlatform" insertType="insert" x="-25" y="-23"/>
+    </gameObject>
+  </scene>
+  <scene name="Floors" parallax="false">
+    <gameObject id="Platform" props="x:n-200,y:n1050,width:n400,height:n150,color:u0xff00">
+      <artAsset classname="platformTexture" insertType="" x="0" y="0"/>
+      <artAsset classname="L3_groundTexture" insertType="insert" x="0" y="-25"/>
+    </gameObject>
+    <gameObject id="Platform" props="x:n200,y:n1050,width:n400,height:n150,color:u0xff00">
+      <artAsset classname="platformTexture" insertType="" x="0" y="0"/>
+      <artAsset classname="L3_groundTexture" insertType="insert" x="0" y="-25"/>
+    </gameObject>
+    <gameObject id="Platform" props="x:n600,y:n1050,width:n400,height:n150,color:u0xff00">
+      <artAsset classname="platformTexture" insertType="" x="0" y="0"/>
+      <artAsset classname="L3_groundTexture" insertType="insert" x="0" y="-25"/>
+      <artAsset classname="L3_base_arch" insertType="insert" x="0" y="-50"/>
+    </gameObject>
+    <gameObject id="Platform" props="x:n1000,y:n1050,width:n400,height:n150,color:u0xff00">
+      <artAsset classname="platformTexture" insertType="" x="0" y="0"/>
+      <artAsset classname="L3_groundTexture" insertType="insert" x="0" y="-25"/>
+    </gameObject>
+    <gameObject id="Platform" props="x:n1400,y:n1050,width:n400,height:n150,color:u0xff00">
+      <artAsset classname="platformTexture" insertType="" x="0" y="0"/>
+      <artAsset classname="L3_groundTexture" insertType="insert" x="0" y="-25"/>
+    </gameObject>
+    <gameObject id="Platform" props="x:n1800,y:n1050,width:n400,height:n150,color:u0xff00">
+      <artAsset classname="platformTexture" insertType="" x="0" y="0"/>
+      <artAsset classname="L3_groundTexture" insertType="insert" x="0" y="-25"/>
+    </gameObject>
+    <gameObject id="Platform" props="x:n2200,y:n1050,width:n400,height:n150,color:u0xff00">
+      <artAsset classname="platformTexture" insertType="" x="0" y="0"/>
+      <artAsset classname="L3_groundTexture" insertType="insert" x="0" y="-25"/>
+    </gameObject>
+    <gameObject id="Platform" props="x:n2600,y:n1050,width:n400,height:n150,color:u0xff00">
+      <artAsset classname="platformTexture" insertType="" x="0" y="0"/>
+      <artAsset classname="L3_groundTexture" insertType="insert" x="0" y="-25"/>
+    </gameObject>
+    <gameObject id="Platform" props="x:n2900,y:n1050,width:n400,height:n150,color:u0xff00">
+      <artAsset classname="platformTexture" insertType="" x="0" y="0"/>
+      <artAsset classname="L3_groundTexture" insertType="insert" x="0" y="-25"/>
+    </gameObject>
+    <gameObject id="Platform" props="x:n3300,y:n1050,width:n400,height:n150,color:u0xff00">
+      <artAsset classname="platformTexture" insertType="" x="0" y="0"/>
+      <artAsset classname="L3_groundTexture" insertType="insert" x="0" y="-25"/>
+    </gameObject>
+    <gameObject id="Platform" props="x:n3600,y:n1050,width:n400,height:n150,color:u0xff00">
+      <artAsset classname="platformTexture" insertType="" x="0" y="0"/>
+      <artAsset classname="L3_groundTexture" insertType="insert" x="0" y="-25"/>
+    </gameObject>
+    <gameObject id="Platform" props="x:n4000,y:n1050,width:n400,height:n150,color:u0xff00">
+      <artAsset classname="platformTexture" insertType="" x="0" y="0"/>
+      <artAsset classname="L3_groundTexture" insertType="insert" x="0" y="-25"/>
+    </gameObject>
+    <gameObject id="Platform" props="x:n4400,y:n1050,width:n400,height:n150,color:u0xff00">
+      <artAsset classname="platformTexture" insertType="" x="0" y="0"/>
+      <artAsset classname="L3_groundTexture" insertType="insert" x="0" y="-25"/>
+    </gameObject>
+    <gameObject id="Platform" props="x:n4800,y:n1050,width:n400,height:n150,color:u0xff00">
+      <artAsset classname="platformTexture" insertType="" x="0" y="0"/>
+      <artAsset classname="L3_groundTexture" insertType="insert" x="0" y="-25"/>
+    </gameObject>
+    <gameObject id="Platform" props="x:n5600,y:n1050,width:n400,height:n150,color:u0xff00">
+      <artAsset classname="platformTexture" insertType="" x="0" y="0"/>
+      <artAsset classname="L3_groundTexture" insertType="insert" x="0" y="-25"/>
+    </gameObject>
+    <gameObject id="Platform" props="x:n5200,y:n1050,width:n400,height:n150,color:u0xff00">
+      <artAsset classname="platformTexture" insertType="" x="0" y="0"/>
+      <artAsset classname="L3_groundTexture" insertType="insert" x="0" y="-25"/>
+      <artAsset classname="L3_base_arch" insertType="insert" x="200" y="-50"/>
+    </gameObject>
+    <gameObject id="Platform" props="x:n6000,y:n1050,width:n400,height:n150,color:u0xff00">
+      <artAsset classname="platformTexture" insertType="" x="0" y="0"/>
+      <artAsset classname="L3_groundTexture" insertType="insert" x="0" y="-25"/>
+    </gameObject>
+    <gameObject id="Platform" props="x:n6400,y:n1050,width:n400,height:n150,color:u0xff00">
+      <artAsset classname="platformTexture" insertType="" x="0" y="0"/>
+      <artAsset classname="L3_groundTexture" insertType="insert" x="0" y="-25"/>
+    </gameObject>
+    <gameObject id="Platform" props="x:n6800,y:n1050,width:n400,height:n150,color:u0xff00">
+      <artAsset classname="platformTexture" insertType="" x="0" y="0"/>
+      <artAsset classname="L3_groundTexture" insertType="insert" x="0" y="-25"/>
+    </gameObject>
+    <gameObject id="Platform" props="x:n7200,y:n1050,width:n400,height:n150,color:u0xff00">
+      <artAsset classname="platformTexture" insertType="" x="0" y="0"/>
+      <artAsset classname="L3_groundTexture" insertType="insert" x="0" y="-25"/>
+    </gameObject>
+    <gameObject id="Platform" props="x:n7600,y:n1050,width:n400,height:n150,color:u0xff00">
+      <artAsset classname="platformTexture" insertType="" x="0" y="0"/>
+      <artAsset classname="L3_groundTexture" insertType="insert" x="0" y="-25"/>
+    </gameObject>
+  </scene>
+  <scene name="Bouncy" parallax="false">
+    <gameObject id="BouncyPlatform" props="x:n1175,y:n0,width:n100,height:n25,color:u0xff00">
+      <artAsset classname="platformTexture" insertType="" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="BouncyPlatform" props="x:n1225,y:n1000,width:n100,height:n25,color:u0xff00">
+      <artAsset classname="L3_bouncyPlatform" insertType="insert" x="0" y="-25"/>
+    </gameObject>
+    <gameObject id="BouncyPlatform" props="x:n4800,y:n1000,width:n100,height:n25,color:u0xff00">
+      <artAsset classname="L3_bouncyPlatform" insertType="insert" x="0" y="-25"/>
+    </gameObject>
+    <gameObject id="BouncyPlatform" props="x:n6275,y:n1000,width:n100,height:n25,color:u0xff00">
+      <artAsset classname="L3_bouncyPlatform" insertType="insert" x="0" y="-25"/>
+    </gameObject>
+    <gameObject id="BouncyPlatform" props="x:n6275,y:n850,width:n100,height:n25,color:u0xff00">
+      <artAsset classname="L3_bouncyPlatform" insertType="insert" x="0" y="-25"/>
+    </gameObject>
+    <gameObject id="BouncyPlatform" props="x:n6775,y:n650,width:n100,height:n25,color:u0xff00">
+      <artAsset classname="L3_bouncyPlatform" insertType="insert" x="0" y="-25"/>
+    </gameObject>
+  </scene>
+  <scene name="StaticPlatforms" parallax="false">
+    <gameObject id="Platform" props="x:n7900,y:n750,width:n400,height:n300,color:u0xff00">
+      <artAsset classname="L3_balcony" insertType="insert" x="0" y="-50"/>
+    </gameObject>
+    <gameObject id="Platform" props="x:n2950,y:n750,width:n400,height:n300,color:u0xff00">
+      <artAsset classname="L3_balcony" insertType="insert" x="0" y="-50"/>
+    </gameObject>
+    <gameObject id="Platform" props="x:n3350,y:n750,width:n400,height:n300,color:u0xff00">
+      <artAsset classname="platformTexture" insertType="" x="0" y="0"/>
+      <artAsset classname="L3_balcony" insertType="insert" x="0" y="-50"/>
+    </gameObject>
+    <gameObject id="Platform" props="x:n200,y:n450,width:n25,height:n600,color:u0xff00">
+      <artAsset classname="platformTexture" insertType="" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="Platform" props="x:n7100,y:n750,width:n400,height:n300,color:u0xff00">
+      <artAsset classname="L3_balcony" insertType="insert" x="0" y="-50"/>
+    </gameObject>
+    <gameObject id="Platform" props="x:n7500,y:n750,width:n400,height:n300,color:u0xff00">
+      <artAsset classname="L3_balcony" insertType="insert" x="0" y="-50"/>
+    </gameObject>
+    <gameObject id="Platform" props="x:n8300,y:n750,width:n400,height:n300,color:u0xff00">
+      <artAsset classname="L3_balcony" insertType="insert" x="0" y="-50"/>
+    </gameObject>
+    <gameObject id="Platform" props="x:n8375,y:n725,width:n400,height:n300,color:u0xff00">
+      <artAsset classname="L3_balcony" insertType="insert" x="0" y="-50"/>
+    </gameObject>
+  </scene>
+  <scene name="Decals" parallax="false">
+    <gameObject id="JumpThroughPlatform" props="x:n2200,y:n1000,width:n200,height:n50,color:u0xff">
+      <artAsset classname="L3_fountain" insertType="insert" x="0" y="-50"/>
+    </gameObject>
+    <gameObject id="JumpThroughPlatform" props="x:n4250,y:n1000,width:n200,height:n25,color:u0xff">
+      <artAsset classname="L3_fountain" insertType="insert" x="0" y="-50"/>
+    </gameObject>
+    <gameObject id="Decal" props="x:n2150,y:n725,width:n50,height:n75,color:u0xff">
+      <artAsset classname="L3_flagDecal" insertType="insert" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="Decal" props="x:n1050,y:n725,width:n50,height:n75,color:u0xff">
+      <artAsset classname="L3_shieldDecal" insertType="insert" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="Decal" props="x:n475,y:n725,width:n50,height:n75,color:u0xff">
+      <artAsset classname="L3_shieldDecal" insertType="insert" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="Decal" props="x:n2400,y:n725,width:n50,height:n75,color:u0xff">
+      <artAsset classname="L3_flagDecal" insertType="insert" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="Decal" props="x:n2900,y:n400,width:n50,height:n75,color:u0xff">
+      <artAsset classname="L3_shieldDecal" insertType="insert" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="Decal" props="x:n3450,y:n400,width:n50,height:n75,color:u0xff">
+      <artAsset classname="L3_shieldDecal" insertType="insert" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="Decal" props="x:n5300,y:n875,width:n50,height:n75,color:u0xff">
+      <artAsset classname="L3_shieldDecal" insertType="insert" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="Decal" props="x:n5850,y:n875,width:n50,height:n75,color:u0xff">
+      <artAsset classname="L3_shieldDecal" insertType="insert" x="0" y="0"/>
+    </gameObject>
+  </scene>
+  <scene name="Region" parallax="false">
+    <gameObject id="Region" props="x:n7800,y:n550,width:n25,height:n200,color:u0xff000,regionType:send_level">
+      <artAsset classname="L3_door" insertType="insert" x="100" y="-150"/>
+    </gameObject>
+    <gameObject id="VORegion" props="x:n4150,y:n825,width:n25,height:n150,color:u0xff000,regionType:svo,voString:sDRR_36-ALT8,shouldRespawn:bfalse,respawnTime:i5"/>
+    <gameObject id="VORegion" props="x:n2050,y:n775,width:n25,height:n200,color:u0xff000,regionType:svo,voString:sDRR_36-ALT7,shouldRespawn:bfalse,respawnTime:i5"/>
+    <gameObject id="VORegion" props="x:n1075,y:n800,width:n25,height:n200,color:u0xff000,regionType:svo,voString:sDRR_36-ALT5,shouldRespawn:bfalse,respawnTime:i5"/>
+    <gameObject id="VORegion" props="x:n4675,y:n850,width:n25,height:n200,color:u0xff000,regionType:svo,voString:sDRR_36-ALT6,shouldRespawn:bfalse,respawnTime:i5"/>
+    <gameObject id="VORegion" props="x:n6100,y:n825,width:n25,height:n200,color:u0xff000,regionType:svo,voString:sDRR_36-ALT6,shouldRespawn:bfalse,respawnTime:i5"/>
+  </scene>
+  <scene name="Player" parallax="false">
+    <gameObject id="Player" props="x:n225,y:n950,width:n50,height:n100,color:u0x0">
+      <artAsset classname="char_anim" insertType="insert" x="0" y="0"/>
+    </gameObject>
+  </scene>
+  <scene name="Collectible" parallax="false">
+    <gameObject id="Pickup" props="x:n775,y:n700,width:n75,height:n50,color:u0xff,pickupType:sbook">
+      <artAsset classname="book3" insertType="" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="Pickup" props="x:n1275,y:n725,width:n75,height:n50,color:u0xff,pickupType:sbook">
+      <artAsset classname="book1" insertType="" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="Pickup" props="x:n1700,y:n725,width:n75,height:n50,color:u0xff,pickupType:sbook">
+      <artAsset classname="book2" insertType="" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="Pickup" props="x:n2275,y:n450,width:n75,height:n50,color:u0xff,pickupType:sbook">
+      <artAsset classname="book1" insertType="" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="Pickup" props="x:n2700,y:n450,width:n75,height:n50,color:u0xff,pickupType:sbook">
+      <artAsset classname="book1" insertType="" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="Pickup" props="x:n3175,y:n400,width:n75,height:n50,color:u0xff,pickupType:sbook">
+      <artAsset classname="book1" insertType="" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="Pickup" props="x:n3934,y:n784,width:n50,height:n50,color:u0xff,pickupType:sbook">
+      <artAsset classname="book3" insertType="" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="Pickup" props="x:n5000,y:n625,width:n75,height:n50,color:u0xff,pickupType:sbook">
+      <artAsset classname="book1" insertType="" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="Pickup" props="x:n4825,y:n775,width:n75,height:n50,color:u0xff,pickupType:sbook">
+      <artAsset classname="book1" insertType="" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="Pickup" props="x:n4725,y:n575,width:n75,height:n50,color:u0xff,pickupType:sbook">
+      <artAsset classname="book2" insertType="" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="Pickup" props="x:n5475,y:n650,width:n75,height:n50,color:u0xff,pickupType:sbook">
+      <artAsset classname="book2" insertType="" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="Pickup" props="x:n4600,y:n500,width:n75,height:n50,color:u0xff0000,pickupType:scrayon">
+      <artAsset classname="crayon5" insertType="insert" x="25" y="0"/>
+    </gameObject>
+    <gameObject id="Pickup" props="x:n6650,y:n600,width:n75,height:n50,color:u0xff,pickupType:sbook">
+      <artAsset classname="book2" insertType="" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="Pickup" props="x:n6800,y:n400,width:n75,height:n50,color:u0xff,pickupType:sbook">
+      <artAsset classname="book1" insertType="" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="Pickup" props="x:n7325,y:n400,width:n75,height:n50,color:u0xff,pickupType:sbook">
+      <artAsset classname="book2" insertType="" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="Pickup" props="x:n6850,y:n800,width:n50,height:n50,color:u0xff,pickupType:sbook">
+      <artAsset classname="book2" insertType="" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="Pickup" props="x:n625,y:n825,width:n75,height:n50,color:u0xff,pickupType:sbook">
+      <artAsset classname="book3" insertType="" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="VORegion" props="x:n4250,y:n625,width:n200,height:n25,color:u0xff000,regionType:svo,voString:sDRR_40,shouldRespawn:bfalse,respawnTime:i5"/>
+    <gameObject id="Pickup" props="x:n6300,y:n575,width:n75,height:n50,color:u0xff,pickupType:sbook">
+      <artAsset classname="book1" insertType="" x="0" y="0"/>
+    </gameObject>
+  </scene>
+  <scene name="Railings" parallax="false">
+    <gameObject id="Decal" props="x:n2950,y:n700,width:n400,height:n50,color:u0xff">
+      <artAsset classname="L3_railing" insertType="insert" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="Decal" props="x:n3350,y:n700,width:n400,height:n50,color:u0xff">
+      <artAsset classname="L3_railing" insertType="insert" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="Decal" props="x:n7100,y:n700,width:n400,height:n50,color:u0xff">
+      <artAsset classname="L3_railing" insertType="insert" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="Decal" props="x:n7500,y:n700,width:n400,height:n50,color:u0xff">
+      <artAsset classname="L3_railing" insertType="insert" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="Decal" props="x:n8325,y:n725,width:n400,height:n50,color:u0xff">
+      <artAsset classname="L3_railing" insertType="insert" x="0" y="0"/>
+    </gameObject>
+    <gameObject id="SlantedPlatform" props="x:n6800,y:n750,width:n300,height:n300,color:u0xff00,face_right:bfalse,slippery:bfalse">
+      <artAsset classname="L3_stairs_left" insertType="insert" x="300" y="-50"/>
+    </gameObject>
+    <gameObject id="SlantedPlatform" props="x:n3750,y:n750,width:n300,height:n300,color:u0xff00,face_right:btrue,slippery:bfalse">
+      <artAsset classname="L3_stairs_left" insertType="insert" x="0" y="-50"/>
+    </gameObject>
+    <gameObject id="SlantedPlatform" props="x:n2650,y:n750,width:n300,height:n300,color:u0xff00,face_right:bfalse,slippery:bfalse">
+      <artAsset classname="L3_stairs_left" insertType="insert" x="300" y="-50"/>
+    </gameObject>
+    <gameObject id="Region" props="x:n2500,y:n0,width:n25,height:n2000,color:u0xff0000,regionType:sshrink_hitbox"/>
+    <gameObject id="Region" props="x:n3050,y:n0,width:n25,height:n2000,color:u0xff0000,regionType:sshrink_hitbox"/>
+    <gameObject id="Region" props="x:n3625,y:n0,width:n25,height:n2000,color:u0xff0000,regionType:sshrink_hitbox"/>
+    <gameObject id="Region" props="x:n4200,y:n0,width:n25,height:n2000,color:u0xff0000,regionType:sshrink_hitbox"/>
+    <gameObject id="Region" props="x:n6650,y:n0,width:n25,height:n2000,color:u0xff0000,regionType:sshrink_hitbox"/>
+    <gameObject id="Region" props="x:n7225,y:n0,width:n25,height:n2000,color:u0xff0000,regionType:sshrink_hitbox"/>
+    <gameObject id="Region" props="x:n2625,y:n1025,width:n25,height:n25,color:u0xff00,regionType:senlarge_hitbox"/>
+    <gameObject id="Region" props="x:n2950,y:n725,width:n25,height:n25,color:u0xff00,regionType:senlarge_hitbox"/>
+    <gameObject id="Region" props="x:n3725,y:n725,width:n25,height:n25,color:u0xff00,regionType:senlarge_hitbox"/>
+    <gameObject id="Region" props="x:n4050,y:n1025,width:n25,height:n25,color:u0xff00,regionType:senlarge_hitbox"/>
+    <gameObject id="Region" props="x:n6775,y:n1025,width:n25,height:n25,color:u0xff00,regionType:senlarge_hitbox"/>
+    <gameObject id="Region" props="x:n7100,y:n725,width:n25,height:n25,color:u0xff00,regionType:senlarge_hitbox"/>
+  </scene>
+  <scene name="Foreground" parallax="true">
+    <gameObject id="Decal" props="x:n0,y:n1550,width:n36000,height:n8500,color:u0xff">
+      <artAsset classname="L3_forground1" insertType="insert" x="0" y="600"/>
+      <artAsset classname="L3_forground1" insertType="insert" x="740" y="600"/>
+      <artAsset classname="L3_forground1" insertType="insert" x="1480" y="600"/>      
+      <artAsset classname="L3_forground1" insertType="insert" x="2220" y="600"/>
+      <artAsset classname="L3_forground1" insertType="insert" x="2960" y="600"/>
+      <artAsset classname="L3_forground1" insertType="insert" x="3700" y="600"/>
+      <artAsset classname="L3_forground1" insertType="insert" x="4440" y="600"/>
+      <artAsset classname="L3_forground1" insertType="insert" x="5180" y="600"/>
+      <artAsset classname="L3_forground1" insertType="insert" x="5920" y="600"/>      
+      <artAsset classname="L3_forground1" insertType="insert" x="6660" y="600"/>
+      <artAsset classname="L3_forground1" insertType="insert" x="7400" y="600"/>
+      <artAsset classname="L3_forground1" insertType="insert" x="8140" y="600"/>
+      <artAsset classname="L3_forground1" insertType="insert" x="8880" y="600"/>
+      <artAsset classname="L3_forground1" insertType="insert" x="9620" y="600"/>
+      <artAsset classname="L3_forground1" insertType="insert" x="10360" y="600"/>
+      <artAsset classname="L3_forground1" insertType="insert" x="11100" y="600"/>
+      <artAsset classname="L3_forground1" insertType="insert" x="11840" y="600"/>      
+      <artAsset classname="L3_forground1" insertType="insert" x="12580" y="600"/>
+      <artAsset classname="L3_forground1" insertType="insert" x="13320" y="600"/>
+      <artAsset classname="L3_forground1" insertType="insert" x="14060" y="600"/>
+    </gameObject>
+  </scene>
+</level>

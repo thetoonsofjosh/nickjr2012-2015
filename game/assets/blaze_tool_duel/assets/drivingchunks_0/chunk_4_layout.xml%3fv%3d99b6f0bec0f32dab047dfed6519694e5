@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Scene Width="3840" Height="1920" Name="chunk_4_layout.xml">
+  <ImageDefs>
+    <Image ImageName="gp_town0_tree01" X="3584" Y="1432" ImageType="Image" PatternWidth="0" PatternHeight="0" />
+    <Image ImageName="gp_town0_streetlight" X="2496" Y="1416" ImageType="Image" PatternWidth="0" PatternHeight="0" />
+    <Image ImageName="gp_town0_planter01" X="1408" Y="1488" ImageType="Image" PatternWidth="0" PatternHeight="0" />
+    <Image ImageName="gp_ramp_02" X="1856" Y="1408" ImageType="Image" PatternWidth="0" PatternHeight="0" />
+    <Image ImageName="gp_tile_town0_surface" X="1088" Y="1536" ImageType="Image" PatternWidth="0" PatternHeight="0" />
+    <Image ImageName="gp_tile_town0_underground" X="0" Y="1728" ImageType="Pattern" PatternWidth="3840" PatternHeight="128" />
+    <Image ImageName="gp_tile_town0_underground_short" X="0" Y="1664" ImageType="Pattern" PatternWidth="3840" PatternHeight="64" />
+    <Image ImageName="gp_tile_town0_surface" X="1472" Y="1536" ImageType="Image" PatternWidth="0" PatternHeight="0" />
+    <Image ImageName="gp_tile_town0_surface" X="1344" Y="1536" ImageType="Image" PatternWidth="0" PatternHeight="0" />
+    <Image ImageName="gp_tile_town0_surface" X="1216" Y="1536" ImageType="Image" PatternWidth="0" PatternHeight="0" />
+    <Image ImageName="gp_tile_town0_surface" X="1600" Y="1536" ImageType="Pattern" PatternWidth="2240" PatternHeight="128" />
+    <Image ImageName="gp_tile_town0_underground_short" X="1216" Y="1600" ImageType="Image" PatternWidth="0" PatternHeight="0" />
+    <Image ImageName="gp_tile_town0_underground_short" X="1344" Y="1600" ImageType="Image" PatternWidth="0" PatternHeight="0" />
+    <Image ImageName="gp_tile_town0_surface" X="0" Y="1536" ImageType="Pattern" PatternWidth="1088" PatternHeight="128" />
+  </ImageDefs>
+</Scene>

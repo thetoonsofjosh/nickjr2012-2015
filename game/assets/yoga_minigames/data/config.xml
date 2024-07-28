@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<!-- YGG MetaGame Config -->
+<config>
+	<display_name>YGG Meta Game</display_name>
+	<version>0.001</version>
+	<framerate>30</framerate>
+	<flash_version>9</flash_version>
+	<quality>HIGH</quality>	<!-- LOW MEDIUM HIGH -->
+	<scale_mode>noScale</scale_mode>  <!-- noScale showAll -->
+	<width>600</width>
+	<height>390</height>	
+	<show_debug_panel>false</show_debug_panel>
+	<loaderAnimation id="loaderAnimation" src="bh_loader.swf" type="external" x="0" y="0" scale="100"/>
+	<!-- Sequence of Scenes in the game -->			
+	<scenes id="gameSequence" className="com.nickjr.gamedev.game.SceneSequence" >			
+		<!-- TitleScene before the game com.nickjr.display.scene.SceneView -->	
+		<scene id="ygg_gameTitle" className="com.nickjr.app.metaGameEngine.view.scene.TitleSceneView">
+			<media_source id="media_source" value="assets/scenes/ygg_title.swf"/>
+			<data_source  id="data_source" value="data/intro_animation.xml"/>
+			<display_name id="display_name" value="Title Screen" />
+		</scene>			
+		<!-- Intro before the game -->	
+		<!-- 
+		<scene id="ygg_gameIntro" className="com.nickjr.display.scene.SceneView">
+			<media_source id="media_source" value="assets/scenes/ygg_intro.swf"/>
+			<data_source  id="data_source" value="data/intro_animation.xml"/>
+			<display_name id="display_name" value="Intro Screen" />
+		</scene>	
+		-->
+		<!-- Instructions before the game -->
+		<!-- 
+		<scene id="ygg_gameInstructions" className="com.nickjr.display.scene.SceneView">
+			<media_source id="media_source" value="assets/scenes/ygg_instructions.swf"/>
+			<data_source  id="data_source" value="data/intro_animation.xml"/>
+			<display_name id="display_name" value="Instructions Screen" />
+		</scene>
+		-->
+		<!-- MiniGame Hub Scene 
+		id of scene button click will navigate to; ex. <scene id="ygg_gameIntro"
+		configure buttons on main timeline of media_source, ex. assets/scenes/ygg_hub.swf; instance name is id;<button id="games_btn"
+		-->	
+		<!-- 	
+		<scene id="ygg_hub" className="com.nickjr.display.scene.SceneView">
+			<media_source id="media_source" value="assets/scenes/ygg_hub.swf"/>
+			<data_source  id="data_source" value="data/intro_animation.xml"/>
+			<display_name id="display_name" value="MiniGame Hub Scene" />
+			<buttons>
+				<button id="games_btn" class="Button" >
+					<command id="games_btn_command" className="com.nickjr.app.metaGameEngine.command.NavigateToSceneCommand" >
+						<property id="sceneID" value="ygg_gameScene" />
+					</command>
+				</button>
+				<button id="rewards_btn" class="Button" >
+					<command id="rewards_btn_command" className="com.nickjr.app.metaGameEngine.command.NavigateToSceneCommand" >
+						<property id="sceneID" value="ygg_rewardsScene" />
+					</command>
+				</button>				
+			</buttons>
+		</scene>	
+		-->
+		<!-- Game Scene ... starts running minigames -->	
+		<scene id="ygg_gameScene" className="com.nickjr.app.metaGameEngine.view.scene.GameLoaderSceneView">
+			<media_source id="media_source" value="assets/scenes/ygg_game_loader.swf"/>
+			<data_source  id="data_source" value="data/games.xml"/>
+			<display_name id="display_name" value="YGG MiniGame Loader" />
+		</scene>
+		<scene id="ygg_rewardsScene" className="com.nickjr.app.metaGameEngine.view.scene.RewardsSceneView">
+			<media_source id="media_source" value="assets/scenes/ygg_rewards.swf"/>
+			<data_source  id="data_source" value="data/ygg_game_level01.xml"/>
+			<display_name id="display_name" value="YGG Rewards" />
+		</scene>
+		<!-- Rewards Scene ... not part of sequence must click button to navigate to it   <exclude_from_sequence id="exclude_from_sequence" value="true" />	
+		<scene id="ygg_rewardsScene" className="com.nickjr.app.metaGameEngine.view.scene.RewardsSceneView">
+			<media_source id="media_source" value="assets/scenes/ygg_rewards.swf"/>
+			<data_source  id="data_source" value="data/ygg_game_level01.xml"/>
+			<display_name id="display_name" value="YGG Rewards" />
+		</scene>
+		 -->	
+		<!-- Payoff Celebration Outro Scene after the games 
+		<scene id="ygg_gameOutro" className="com.nickjr.display.scene.SceneView">
+			<media_source id="media_source" value="assets/scenes/ygg_rewards.swf"/>
+			<data_source  id="data_source" value="data/intro_animation.xml"/>
+			<display_name id="display_name" value="Payoff Celebration Outro Scene" />	
+		</scene>
+		-->	
+	</scenes>
+ </config>
+ 		<!-- MiniGame Selection Scene -->
+		<!--	
+		<scene id="ygg_game_selection" className="com.nickjr.display.scene.SceneView">
+			<media_source id="media_source" value="assets/scenes/ygg_game_selection.swf"/>
+			<data_source  id="data_source" value="data/intro_animation.xml"/>
+			<display_name id="display_name" value="MiniGame Selection Scene" />
+		</scene>	
+		-->

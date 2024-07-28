@@ -1,0 +1,1252 @@
+{
+    "world": {
+        "x": 0,
+        "y": 0,
+        "width": 10000,
+        "height": 1560,
+        "gridWidth": 50,
+        "gridHeight": 50,
+        "cameraOffsetX": -223,
+        "cameraOffsetY": -340
+    },
+    "layers": [
+        {
+            "key": "Background",
+            "parallax": false,
+            "edit": true,
+            "objects": [
+                {
+                    "key": "Level1BG",
+                    "spriteClass": "mc_BG_level1",
+                    "location": {
+                        "x": 25,
+                        "y": 1575
+                    }
+                },
+                {
+                    "key": "Level1BG",
+                    "spriteClass": "mc_BG_level1",
+                    "location": {
+                        "x": 975,
+                        "y": 1575
+                    }
+                },
+                {
+                    "key": "Level1BG",
+                    "spriteClass": "mc_BG_level1",
+                    "location": {
+                        "x": 1925,
+                        "y": 1575
+                    }
+                },
+                {
+                    "key": "Level1BG",
+                    "spriteClass": "mc_BG_level1",
+                    "location": {
+                        "x": 2875,
+                        "y": 1575
+                    }
+                },
+                {
+                    "key": "Level1BG",
+                    "spriteClass": "mc_BG_level1",
+                    "location": {
+                        "x": 3825,
+                        "y": 1575
+                    }
+                },
+                {
+                    "key": "Level1BG",
+                    "spriteClass": "mc_BG_level1",
+                    "location": {
+                        "x": 4775,
+                        "y": 1575
+                    }
+                },
+                {
+                    "key": "Level1BG",
+                    "spriteClass": "mc_BG_level1",
+                    "location": {
+                        "x": 5725,
+                        "y": 1575
+                    }
+                },
+                {
+                    "key": "Level1BG",
+                    "spriteClass": "mc_BG_level1",
+                    "location": {
+                        "x": 6675,
+                        "y": 1575
+                    }
+                },
+                {
+                    "key": "Level1BG",
+                    "spriteClass": "mc_BG_level1",
+                    "location": {
+                        "x": 7625,
+                        "y": 1575
+                    }
+                },
+                {
+                    "key": "Level1BG",
+                    "spriteClass": "mc_BG_level1",
+                    "location": {
+                        "x": 8575,
+                        "y": 1575
+                    }
+                }
+            ]
+        },
+        {
+            "key": "LevelBoundary",
+            "parallax": false,
+            "edit": true,
+            "objects": [
+                {
+                    "key": "verticalBoundary",
+                    "location": {
+                        "x": 75,
+                        "y": 75
+                    }
+                },
+                {
+                    "key": "horizontalBoundary",
+                    "location": {
+                        "x": 25,
+                        "y": 1575
+                    }
+                },
+                {
+                    "key": "verticalBoundary",
+                    "location": {
+                        "x": 9975,
+                        "y": 25
+                    }
+                }
+            ]
+        },
+        {
+            "key": "Environment",
+            "parallax": false,
+            "edit": true,
+            "objects": [
+                {
+                    "key": "Platform 1",
+                    "spriteClass": "mc_level1_platform1",
+                    "location": {
+                        "x": 925,
+                        "y": 1325
+                    }
+                },
+                {
+                    "key": "Gem",
+                    "spriteClass": "mc_level1_gem",
+                    "location": {
+                        "x": 1075,
+                        "y": 1275
+                    }
+                },
+                {
+                    "key": "Platform 2",
+                    "spriteClass": "mc_level1_platform2",
+                    "location": {
+                        "x": 1525,
+                        "y": 1325
+                    }
+                },
+                {
+                    "key": "Gem",
+                    "spriteClass": "mc_level1_gem",
+                    "location": {
+                        "x": 1625,
+                        "y": 1275
+                    }
+                },
+                {
+                    "key": "Gem",
+                    "spriteClass": "mc_level1_gem",
+                    "location": {
+                        "x": 1725,
+                        "y": 1275
+                    }
+                },
+                {
+                    "key": "Platform 1",
+                    "spriteClass": "mc_level1_platform1",
+                    "location": {
+                        "x": 1775,
+                        "y": 1325
+                    }
+                },
+                {
+                    "key": "Gem",
+                    "spriteClass": "mc_level1_gem",
+                    "location": {
+                        "x": 1875,
+                        "y": 1275
+                    }
+                },
+                {
+                    "key": "Gem",
+                    "spriteClass": "mc_level1_gem",
+                    "location": {
+                        "x": 2025,
+                        "y": 1275
+                    }
+                },
+                {
+                    "key": "Gem",
+                    "spriteClass": "mc_level1_gem",
+                    "location": {
+                        "x": 3625,
+                        "y": 1275
+                    }
+                },
+                {
+                    "key": "Gem",
+                    "spriteClass": "mc_level1_gem",
+                    "location": {
+                        "x": 3725,
+                        "y": 1275
+                    }
+                },
+                {
+                    "key": "Platform 1",
+                    "spriteClass": "mc_level1_platform1",
+                    "location": {
+                        "x": 4275,
+                        "y": 1225
+                    }
+                },
+                {
+                    "key": "Gem",
+                    "spriteClass": "mc_level1_gem",
+                    "location": {
+                        "x": 4325,
+                        "y": 1175
+                    }
+                },
+                {
+                    "key": "Gem",
+                    "spriteClass": "mc_level1_gem",
+                    "location": {
+                        "x": 4475,
+                        "y": 1175
+                    }
+                },
+                {
+                    "key": "Spider",
+                    "spriteClass": "mc_level1_spider_obstacle",
+                    "location": {
+                        "x": 3625,
+                        "y": 1325
+                    },
+                    "params": [
+                        {
+                            "id": "obstacleType",
+                            "value": "spider"
+                        }
+                    ]
+                },
+                {
+                    "key": "Platform 2",
+                    "spriteClass": "mc_level1_platform2",
+                    "location": {
+                        "x": 4225,
+                        "y": 975
+                    }
+                },
+                {
+                    "key": "Spider",
+                    "spriteClass": "mc_level1_spider_obstacle",
+                    "location": {
+                        "x": 4375,
+                        "y": 975
+                    },
+                    "params": [
+                        {
+                            "id": "obstacleType",
+                            "value": "spider"
+                        }
+                    ]
+                },
+                {
+                    "key": "MovingPlatform",
+                    "spriteClass": "mc_level1_elevator",
+                    "location": {
+                        "x": 4775,
+                        "y": 1375
+                    },
+                    "params": [
+                        {
+                            "id": "moveXMin",
+                            "value": 100
+                        },
+                        {
+                            "id": "moveXMax",
+                            "value": 100
+                        },
+                        {
+                            "id": "moveYMin",
+                            "value": 100
+                        },
+                        {
+                            "id": "moveYMax",
+                            "value": 100
+                        },
+                        {
+                            "id": "xDuration",
+                            "value": 4
+                        },
+                        {
+                            "id": "yDuration",
+                            "value": 2
+                        }
+                    ]
+                },
+                {
+                    "key": "Platform 2",
+                    "spriteClass": "mc_level1_platform2",
+                    "location": {
+                        "x": 5025,
+                        "y": 1125
+                    }
+                },
+                {
+                    "key": "Platform 1",
+                    "spriteClass": "mc_level1_platform1",
+                    "location": {
+                        "x": 5275,
+                        "y": 1125
+                    }
+                },
+                {
+                    "key": "Gem",
+                    "spriteClass": "mc_level1_gem",
+                    "location": {
+                        "x": 5175,
+                        "y": 1075
+                    }
+                },
+                {
+                    "key": "Gem",
+                    "spriteClass": "mc_level1_gem",
+                    "location": {
+                        "x": 5325,
+                        "y": 1075
+                    }
+                },
+                {
+                    "key": "Gem",
+                    "spriteClass": "mc_level1_gem",
+                    "location": {
+                        "x": 5475,
+                        "y": 1075
+                    }
+                },
+                {
+                    "key": "Gem",
+                    "spriteClass": "mc_level1_gem",
+                    "location": {
+                        "x": 625,
+                        "y": 1475
+                    }
+                },
+                {
+                    "key": "Gem",
+                    "spriteClass": "mc_level1_gem",
+                    "location": {
+                        "x": 825,
+                        "y": 1475
+                    }
+                },
+                {
+                    "key": "Gem",
+                    "spriteClass": "mc_level1_gem",
+                    "location": {
+                        "x": 1325,
+                        "y": 1475
+                    }
+                },
+                {
+                    "key": "Gem",
+                    "spriteClass": "mc_level1_gem",
+                    "location": {
+                        "x": 3275,
+                        "y": 1475
+                    }
+                },
+                {
+                    "key": "Gem",
+                    "spriteClass": "mc_level1_gem",
+                    "location": {
+                        "x": 7175,
+                        "y": 1475
+                    }
+                },
+                {
+                    "key": "Gem",
+                    "spriteClass": "mc_level1_gem",
+                    "location": {
+                        "x": 6775,
+                        "y": 1475
+                    }
+                },
+                {
+                    "key": "Gem",
+                    "spriteClass": "mc_level1_gem",
+                    "location": {
+                        "x": 6675,
+                        "y": 1475
+                    }
+                },
+                {
+                    "key": "Gem",
+                    "spriteClass": "mc_level1_gem",
+                    "location": {
+                        "x": 6875,
+                        "y": 1475
+                    }
+                },
+                {
+                    "key": "Gem",
+                    "spriteClass": "mc_level1_gem",
+                    "location": {
+                        "x": 8775,
+                        "y": 1475
+                    }
+                },
+                {
+                    "key": "Gem",
+                    "spriteClass": "mc_level1_gem",
+                    "location": {
+                        "x": 8875,
+                        "y": 1475
+                    }
+                },
+                {
+                    "key": "Gem",
+                    "spriteClass": "mc_level1_gem",
+                    "location": {
+                        "x": 3125,
+                        "y": 1475
+                    }
+                },
+                {
+                    "key": "Gem",
+                    "spriteClass": "mc_level1_gem",
+                    "location": {
+                        "x": 3425,
+                        "y": 1475
+                    }
+                },
+                {
+                    "key": "Rockpile",
+                    "spriteClass": "mc_level1_rockpile_obstacle",
+                    "location": {
+                        "x": 4325,
+                        "y": 975
+                    },
+                    "params": [
+                        {
+                            "id": "obstacleType",
+                            "value": "rock"
+                        }
+                    ]
+                },
+                {
+                    "key": "Gem",
+                    "spriteClass": "mc_level1_gem",
+                    "location": {
+                        "x": 4725,
+                        "y": 1475
+                    }
+                },
+                {
+                    "key": "Gem",
+                    "spriteClass": "mc_level1_gem",
+                    "location": {
+                        "x": 4625,
+                        "y": 1475
+                    }
+                },
+                {
+                    "key": "minigameregion",
+                    "location": {
+                        "x": 7525,
+                        "y": 1525
+                    },
+                    "params": [
+                        {
+                            "id": "regionType",
+                            "value": "minigame"
+                        }
+                    ]
+                },
+                {
+                    "key": "Gem",
+                    "spriteClass": "mc_level1_gem",
+                    "location": {
+                        "x": 9075,
+                        "y": 1475
+                    }
+                },
+                {
+                    "key": "Platform 1",
+                    "spriteClass": "mc_level1_platform1",
+                    "location": {
+                        "x": 8925,
+                        "y": 1325
+                    }
+                },
+                {
+                    "key": "Gem",
+                    "spriteClass": "mc_level1_gem",
+                    "location": {
+                        "x": 9025,
+                        "y": 1275
+                    }
+                },
+                {
+                    "key": "Gem",
+                    "spriteClass": "mc_level1_gem",
+                    "location": {
+                        "x": 9125,
+                        "y": 1275
+                    }
+                },
+                {
+                    "key": "Platform 1",
+                    "spriteClass": "mc_level1_platform1",
+                    "location": {
+                        "x": 2025,
+                        "y": 1175
+                    }
+                },
+                {
+                    "key": "Gem",
+                    "spriteClass": "mc_level1_gem",
+                    "location": {
+                        "x": 2125,
+                        "y": 1125
+                    }
+                },
+                {
+                    "key": "Gem",
+                    "spriteClass": "mc_level1_gem",
+                    "location": {
+                        "x": 2475,
+                        "y": 1125
+                    }
+                },
+                {
+                    "key": "Platform 1",
+                    "spriteClass": "mc_level1_platform1",
+                    "location": {
+                        "x": 2275,
+                        "y": 1175
+                    }
+                },
+                {
+                    "key": "Platform 2",
+                    "spriteClass": "mc_level1_platform2",
+                    "location": {
+                        "x": 2475,
+                        "y": 1375
+                    }
+                },
+                {
+                    "key": "Platform 2",
+                    "spriteClass": "mc_level1_platform2",
+                    "location": {
+                        "x": 2725,
+                        "y": 1375
+                    }
+                },
+                {
+                    "key": "Gem",
+                    "spriteClass": "mc_level1_gem",
+                    "location": {
+                        "x": 2625,
+                        "y": 1325
+                    }
+                },
+                {
+                    "key": "Gem",
+                    "spriteClass": "mc_level1_gem",
+                    "location": {
+                        "x": 2775,
+                        "y": 1325
+                    }
+                },
+                {
+                    "key": "Gem",
+                    "spriteClass": "mc_level1_gem",
+                    "location": {
+                        "x": 2925,
+                        "y": 1325
+                    }
+                },
+                {
+                    "key": "Platform 2",
+                    "spriteClass": "mc_level1_platform2",
+                    "location": {
+                        "x": 2975,
+                        "y": 1175
+                    }
+                },
+                {
+                    "key": "Platform 2",
+                    "spriteClass": "mc_level1_platform2",
+                    "location": {
+                        "x": 3225,
+                        "y": 1175
+                    }
+                },
+                {
+                    "key": "Rockpile",
+                    "spriteClass": "mc_level1_rockpile_obstacle",
+                    "location": {
+                        "x": 3275,
+                        "y": 1175
+                    },
+                    "params": [
+                        {
+                            "id": "obstacleType",
+                            "value": "rock"
+                        }
+                    ]
+                },
+                {
+                    "key": "Gem",
+                    "spriteClass": "mc_level1_gem",
+                    "location": {
+                        "x": 3075,
+                        "y": 1125
+                    }
+                },
+                {
+                    "key": "Gem",
+                    "spriteClass": "mc_level1_gem",
+                    "location": {
+                        "x": 3175,
+                        "y": 1125
+                    }
+                },
+                {
+                    "key": "Platform 2",
+                    "spriteClass": "mc_level1_platform2",
+                    "location": {
+                        "x": 3475,
+                        "y": 1325
+                    }
+                },
+                {
+                    "key": "Gem",
+                    "spriteClass": "mc_level1_gem",
+                    "location": {
+                        "x": 8425,
+                        "y": 1125
+                    }
+                },
+                {
+                    "key": "Gem",
+                    "spriteClass": "mc_level1_gem",
+                    "location": {
+                        "x": 8225,
+                        "y": 1125
+                    }
+                },
+                {
+                    "key": "Gem",
+                    "spriteClass": "mc_level1_gem",
+                    "location": {
+                        "x": 9075,
+                        "y": 1175
+                    }
+                },
+                {
+                    "key": "Platform 1",
+                    "spriteClass": "mc_level1_platform1",
+                    "location": {
+                        "x": 7025,
+                        "y": 1125
+                    }
+                },
+                {
+                    "key": "Gem",
+                    "spriteClass": "mc_level1_gem",
+                    "location": {
+                        "x": 7125,
+                        "y": 1075
+                    }
+                },
+                {
+                    "key": "Gem",
+                    "spriteClass": "mc_level1_gem",
+                    "location": {
+                        "x": 7225,
+                        "y": 1075
+                    }
+                },
+                {
+                    "key": "Gem",
+                    "spriteClass": "mc_level1_gem",
+                    "location": {
+                        "x": 7175,
+                        "y": 1025
+                    }
+                },
+                {
+                    "key": "Platform 2",
+                    "spriteClass": "mc_level1_platform2",
+                    "location": {
+                        "x": 8075,
+                        "y": 1325
+                    }
+                },
+                {
+                    "key": "Gem",
+                    "spriteClass": "mc_level1_gem",
+                    "location": {
+                        "x": 8225,
+                        "y": 1275
+                    }
+                },
+                {
+                    "key": "Gem",
+                    "spriteClass": "mc_level1_gem",
+                    "location": {
+                        "x": 8325,
+                        "y": 1275
+                    }
+                },
+                {
+                    "key": "Gem",
+                    "spriteClass": "mc_level1_gem",
+                    "location": {
+                        "x": 8325,
+                        "y": 1025
+                    }
+                },
+                {
+                    "key": "Gem",
+                    "spriteClass": "mc_level1_gem",
+                    "location": {
+                        "x": 8975,
+                        "y": 1475
+                    }
+                },
+                {
+                    "key": "Level1BG",
+                    "spriteClass": "mc_BG_level1",
+                    "location": {
+                        "x": 9525,
+                        "y": 1575
+                    }
+                },
+                {
+                    "key": "Wall",
+                    "spriteClass": "mc_level1_wall",
+                    "location": {
+                        "x": 7625,
+                        "y": 1525
+                    }
+                },
+                {
+                    "key": "Platform 1",
+                    "spriteClass": "mc_level1_platform1",
+                    "location": {
+                        "x": 7075,
+                        "y": 1325
+                    }
+                },
+                {
+                    "key": "Gem",
+                    "spriteClass": "mc_level1_gem",
+                    "location": {
+                        "x": 7175,
+                        "y": 1275
+                    }
+                },
+                {
+                    "key": "Gem",
+                    "spriteClass": "mc_level1_gem",
+                    "location": {
+                        "x": 7275,
+                        "y": 1275
+                    }
+                },
+                {
+                    "key": "MovingPlatform",
+                    "spriteClass": "mc_level1_elevator",
+                    "location": {
+                        "x": 6625,
+                        "y": 1175
+                    },
+                    "params": [
+                        {
+                            "id": "moveXMin",
+                            "value": 100
+                        },
+                        {
+                            "id": "moveXMax",
+                            "value": 100
+                        },
+                        {
+                            "id": "moveYMin",
+                            "value": 100
+                        },
+                        {
+                            "id": "moveYMax",
+                            "value": 100
+                        },
+                        {
+                            "id": "xDuration",
+                            "value": 4
+                        },
+                        {
+                            "id": "yDuration",
+                            "value": 2
+                        }
+                    ]
+                },
+                {
+                    "key": "Spider",
+                    "spriteClass": "mc_level1_spider_obstacle",
+                    "location": {
+                        "x": 6375,
+                        "y": 975
+                    },
+                    "params": [
+                        {
+                            "id": "obstacleType",
+                            "value": "spider"
+                        }
+                    ]
+                },
+                {
+                    "key": "Gem",
+                    "spriteClass": "mc_level1_gem",
+                    "location": {
+                        "x": 8225,
+                        "y": 1425
+                    }
+                },
+                {
+                    "key": "MovingPlatform",
+                    "spriteClass": "mc_level1_elevator",
+                    "location": {
+                        "x": 8425,
+                        "y": 1375
+                    },
+                    "params": [
+                        {
+                            "id": "moveXMin",
+                            "value": 100
+                        },
+                        {
+                            "id": "moveXMax",
+                            "value": 100
+                        },
+                        {
+                            "id": "moveYMin",
+                            "value": 100
+                        },
+                        {
+                            "id": "moveYMax",
+                            "value": 100
+                        },
+                        {
+                            "id": "xDuration",
+                            "value": 4
+                        },
+                        {
+                            "id": "yDuration",
+                            "value": 2
+                        }
+                    ]
+                },
+                {
+                    "key": "Platform 2",
+                    "spriteClass": "mc_level1_platform2",
+                    "location": {
+                        "x": 8175,
+                        "y": 1175
+                    }
+                },
+                {
+                    "key": "Gem",
+                    "spriteClass": "mc_level1_gem",
+                    "location": {
+                        "x": 8325,
+                        "y": 1125
+                    }
+                },
+                {
+                    "key": "Platform 2",
+                    "spriteClass": "mc_level1_platform2",
+                    "location": {
+                        "x": 3775,
+                        "y": 1175
+                    }
+                },
+                {
+                    "key": "Platform 2",
+                    "spriteClass": "mc_level1_platform2",
+                    "location": {
+                        "x": 5475,
+                        "y": 1325
+                    }
+                },
+                {
+                    "key": "Rockpile",
+                    "spriteClass": "mc_level1_rockpile_obstacle",
+                    "location": {
+                        "x": 5675,
+                        "y": 1525
+                    },
+                    "params": [
+                        {
+                            "id": "obstacleType",
+                            "value": "rock"
+                        }
+                    ]
+                },
+                {
+                    "key": "Platform 2",
+                    "spriteClass": "mc_level1_platform2",
+                    "location": {
+                        "x": 6225,
+                        "y": 975
+                    }
+                },
+                {
+                    "key": "Platform 1",
+                    "spriteClass": "mc_level1_platform1",
+                    "location": {
+                        "x": 3975,
+                        "y": 1375
+                    }
+                },
+                {
+                    "key": "Platform 1",
+                    "spriteClass": "mc_level1_platform1",
+                    "location": {
+                        "x": 5775,
+                        "y": 1125
+                    }
+                },
+                {
+                    "key": "Rockpile",
+                    "spriteClass": "mc_level1_rockpile_obstacle",
+                    "location": {
+                        "x": 6325,
+                        "y": 975
+                    },
+                    "params": [
+                        {
+                            "id": "obstacleType",
+                            "value": "rock"
+                        }
+                    ]
+                },
+                {
+                    "key": "Platform 1",
+                    "spriteClass": "mc_level1_platform1",
+                    "location": {
+                        "x": 6025,
+                        "y": 1275
+                    }
+                },
+                {
+                    "key": "Platform 1",
+                    "spriteClass": "mc_level1_platform1",
+                    "location": {
+                        "x": 6275,
+                        "y": 1275
+                    }
+                },
+                {
+                    "key": "Level1EndWall",
+                    "spriteClass": "mc_level1_End",
+                    "location": {
+                        "x": 9825,
+                        "y": 1575
+                    }
+                },
+                {
+                    "key": "Soccer Ball",
+                    "spriteClass": "mc_soccerBall",
+                    "location": {
+                        "x": 9675,
+                        "y": 1500
+                    },
+                    "params": [
+                        {
+                            "id": "regionType",
+                            "value": "endOfLevel"
+                        }
+                    ]
+                },
+                {
+                    "key": "minigameregion",
+                    "location": {
+                        "x": 475,
+                        "y": 1375
+                    },
+                    "params": [
+                        {
+                            "id": "regionType",
+                            "value": "minigame"
+                        }
+                    ]
+                },
+                {
+                    "key": "Statue",
+                    "spriteClass": "mc_level1_statue_obstacle",
+                    "location": {
+                        "x": 2325,
+                        "y": 1175
+                    },
+                    "params": [
+                        {
+                            "id": "obstacleType",
+                            "value": "statue"
+                        }
+                    ]
+                },
+                {
+                    "key": "Rockpile",
+                    "spriteClass": "mc_level1_rockpile_obstacle",
+                    "location": {
+                        "x": 2625,
+                        "y": 1525
+                    },
+                    "params": [
+                        {
+                            "id": "obstacleType",
+                            "value": "rock"
+                        }
+                    ]
+                },
+                {
+                    "key": "Rockpile",
+                    "spriteClass": "mc_level1_rockpile_obstacle",
+                    "location": {
+                        "x": 1775,
+                        "y": 1525
+                    },
+                    "params": [
+                        {
+                            "id": "obstacleType",
+                            "value": "rock"
+                        }
+                    ]
+                },
+                {
+                    "key": "Statue",
+                    "spriteClass": "mc_level1_statue_obstacle",
+                    "location": {
+                        "x": 5225,
+                        "y": 1525
+                    },
+                    "params": [
+                        {
+                            "id": "obstacleType",
+                            "value": "statue"
+                        }
+                    ]
+                },
+                {
+                    "key": "Statue",
+                    "spriteClass": "mc_level1_statue_obstacle",
+                    "location": {
+                        "x": 6075,
+                        "y": 1525
+                    },
+                    "params": [
+                        {
+                            "id": "obstacleType",
+                            "value": "statue"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "key": "Player",
+            "parallax": false,
+            "edit": true,
+            "objects": [
+                {
+                    "key": "Dora",
+                    "spriteClass": "mc_scooter_level1",
+                    "location": {
+                        "x": 350,
+                        "y": 1525
+                    }
+                }
+            ]
+        },
+        {
+            "key": "Collectibles",
+            "parallax": false,
+            "edit": true,
+            "objects": [
+                {
+                    "key": "Gem",
+                    "spriteClass": "mc_level1_gem",
+                    "location": {
+                        "x": 3875,
+                        "y": 1125
+                    }
+                },
+                {
+                    "key": "Gem",
+                    "spriteClass": "mc_level1_gem",
+                    "location": {
+                        "x": 3975,
+                        "y": 1125
+                    }
+                },
+                {
+                    "key": "Gem",
+                    "spriteClass": "mc_level1_gem",
+                    "location": {
+                        "x": 3925,
+                        "y": 1075
+                    }
+                },
+                {
+                    "key": "Gem",
+                    "spriteClass": "mc_level1_gem",
+                    "location": {
+                        "x": 5575,
+                        "y": 1275
+                    }
+                },
+                {
+                    "key": "Gem",
+                    "spriteClass": "mc_level1_gem",
+                    "location": {
+                        "x": 5675,
+                        "y": 1275
+                    }
+                },
+                {
+                    "key": "Gem",
+                    "spriteClass": "mc_level1_gem",
+                    "location": {
+                        "x": 8625,
+                        "y": 1225
+                    }
+                },
+                {
+                    "key": "Gem",
+                    "spriteClass": "mc_level1_gem",
+                    "location": {
+                        "x": 8625,
+                        "y": 1325
+                    }
+                },
+                {
+                    "key": "Gem",
+                    "spriteClass": "mc_level1_gem",
+                    "location": {
+                        "x": 8625,
+                        "y": 1425
+                    }
+                },
+                {
+                    "key": "Gem",
+                    "spriteClass": "mc_level1_gem",
+                    "location": {
+                        "x": 9375,
+                        "y": 1475
+                    }
+                },
+                {
+                    "key": "Gem",
+                    "spriteClass": "mc_level1_gem",
+                    "location": {
+                        "x": 9475,
+                        "y": 1475
+                    }
+                },
+                {
+                    "key": "Gem",
+                    "spriteClass": "mc_level1_gem",
+                    "location": {
+                        "x": 4125,
+                        "y": 1325
+                    }
+                },
+                {
+                    "key": "Gem",
+                    "spriteClass": "mc_level1_gem",
+                    "location": {
+                        "x": 5875,
+                        "y": 1075
+                    }
+                },
+                {
+                    "key": "Gem",
+                    "spriteClass": "mc_level1_gem",
+                    "location": {
+                        "x": 5975,
+                        "y": 1075
+                    }
+                },
+                {
+                    "key": "Gem",
+                    "spriteClass": "mc_level1_gem",
+                    "location": {
+                        "x": 5925,
+                        "y": 1025
+                    }
+                },
+                {
+                    "key": "Gem",
+                    "spriteClass": "mc_level1_gem",
+                    "location": {
+                        "x": 6175,
+                        "y": 1225
+                    }
+                },
+                {
+                    "key": "Gem",
+                    "spriteClass": "mc_level1_gem",
+                    "location": {
+                        "x": 6275,
+                        "y": 1225
+                    }
+                },
+                {
+                    "key": "Gem",
+                    "spriteClass": "mc_level1_gem",
+                    "location": {
+                        "x": 6375,
+                        "y": 1225
+                    }
+                },
+                {
+                    "key": "Gem",
+                    "spriteClass": "mc_level1_gem",
+                    "location": {
+                        "x": 6475,
+                        "y": 1225
+                    }
+                },
+                {
+                    "key": "Gem",
+                    "spriteClass": "mc_level1_gem",
+                    "location": {
+                        "x": 2225,
+                        "y": 1125
+                    }
+                }
+            ]
+        }
+    ]
+}

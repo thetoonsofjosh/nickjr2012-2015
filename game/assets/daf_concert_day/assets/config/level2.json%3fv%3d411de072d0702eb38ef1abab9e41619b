@@ -1,0 +1,1831 @@
+{
+    "world": {
+        "width": 22000,
+        "x": 0,
+        "y": 11,
+        "height": 375,
+        "gridWidth": 150,
+        "gridHeight": 148,
+        "cameraOffsetX": -430,
+        "cameraOffsetY": 0
+    },
+    "layers": [
+        {
+            "key": "BG",
+            "parallax": false,
+            "edit": false,
+            "objects": [
+                {
+                    "key": "Level2BG",
+                    "tile": true,
+                    "spriteID": "mc_skyBG",
+                    "spriteBounds": {
+                        "x": 0,
+                        "y": 0
+                    }
+                },
+                {
+                    "key": "Level2BG",
+                    "spriteBounds": {
+                        "x": 990,
+                        "y": 0
+                    },
+                    "tile": true,
+                    "spriteID": "mc_skyBG"
+                },
+                {
+                    "key": "Level2BG",
+                    "spriteBounds": {
+                        "x": 1980,
+                        "y": 0
+                    },
+                    "tile": true,
+                    "spriteID": "mc_skyBG"
+                },
+                {
+                    "key": "Level2BG",
+                    "spriteBounds": {
+                        "x": 2970,
+                        "y": 0
+                    },
+                    "tile": true,
+                    "spriteID": "mc_skyBG"
+                },
+                {
+                    "key": "Level2BG",
+                    "spriteBounds": {
+                        "x": 3960,
+                        "y": 0
+                    },
+                    "tile": true,
+                    "spriteID": "mc_skyBG"
+                },
+                {
+                    "key": "Level2BG",
+                    "spriteBounds": {
+                        "x": 4950,
+                        "y": 0
+                    },
+                    "tile": true,
+                    "spriteID": "mc_skyBG"
+                },
+                {
+                    "key": "Level2BG",
+                    "spriteBounds": {
+                        "x": 5940,
+                        "y": 0
+                    },
+                    "tile": true,
+                    "spriteID": "mc_skyBG"
+                },
+                {
+                    "key": "Level2BG",
+                    "spriteBounds": {
+                        "x": 6930,
+                        "y": 0
+                    },
+                    "tile": true,
+                    "spriteID": "mc_skyBG"
+                },
+                {
+                    "key": "Level2BG",
+                    "spriteBounds": {
+                        "x": 7920,
+                        "y": 0
+                    },
+                    "tile": true,
+                    "spriteID": "mc_skyBG"
+                },
+                {
+                    "key": "Level2BG",
+                    "spriteBounds": {
+                        "x": 8910,
+                        "y": 0
+                    },
+                    "tile": true,
+                    "spriteID": "mc_skyBG"
+                },
+                {
+                    "key": "Level2BG",
+                    "spriteBounds": {
+                        "x": 9900,
+                        "y": 0
+                    },
+                    "tile": true,
+                    "spriteID": "mc_skyBG"
+                },
+                {
+                    "key": "Level2BG",
+                    "spriteBounds": {
+                        "x": 10890,
+                        "y": 0
+                    },
+                    "tile": true,
+                    "spriteID": "mc_skyBG"
+                },
+                {
+                    "key": "Level2BG",
+                    "spriteBounds": {
+                        "x": 11880,
+                        "y": 0
+                    },
+                    "tile": true,
+                    "spriteID": "mc_skyBG"
+                }
+            ]
+        },
+        {
+            "key": "Mountains",
+            "parallax": true,
+            "edit": false,
+            "objects": [
+                {
+                    "key": "Mountains",
+                    "tile": true,
+                    "spriteID": "mc_hills_level2",
+                    "spriteBounds": {
+                        "x": 0,
+                        "y": 498
+                    }
+                },
+                {
+                    "key": "Mountains",
+                    "spriteBounds": {
+                        "x": 960,
+                        "y": 498
+                    },
+                    "tile": true,
+                    "spriteID": "mc_hills_level2"
+                },
+                {
+                    "key": "Mountains",
+                    "spriteBounds": {
+                        "x": 1920,
+                        "y": 498
+                    },
+                    "tile": true,
+                    "spriteID": "mc_hills_level2"
+                },
+                {
+                    "key": "Mountains",
+                    "spriteBounds": {
+                        "x": 2880,
+                        "y": 498
+                    },
+                    "tile": true,
+                    "spriteID": "mc_hills_level2"
+                },
+                {
+                    "key": "Mountains",
+                    "spriteBounds": {
+                        "x": 3840,
+                        "y": 498
+                    },
+                    "tile": true,
+                    "spriteID": "mc_hills_level2"
+                },
+                {
+                    "key": "Mountains",
+                    "spriteBounds": {
+                        "x": 4800,
+                        "y": 498
+                    },
+                    "tile": true,
+                    "spriteID": "mc_hills_level2"
+                },
+                {
+                    "key": "Mountains",
+                    "spriteBounds": {
+                        "x": 5760,
+                        "y": 498
+                    },
+                    "tile": true,
+                    "spriteID": "mc_hills_level2"
+                },
+                {
+                    "key": "Mountains",
+                    "spriteBounds": {
+                        "x": 6720,
+                        "y": 498
+                    },
+                    "tile": true,
+                    "spriteID": "mc_hills_level2"
+                },
+                {
+                    "key": "Mountains",
+                    "spriteBounds": {
+                        "x": 7680,
+                        "y": 498
+                    },
+                    "tile": true,
+                    "spriteID": "mc_hills_level2"
+                },
+                {
+                    "key": "Mountains",
+                    "spriteBounds": {
+                        "x": 8640,
+                        "y": 498
+                    },
+                    "tile": true,
+                    "spriteID": "mc_hills_level2"
+                },
+                {
+                    "key": "Mountains",
+                    "spriteBounds": {
+                        "x": 9600,
+                        "y": 498
+                    },
+                    "tile": true,
+                    "spriteID": "mc_hills_level2"
+                },
+                {
+                    "key": "Mountains",
+                    "spriteBounds": {
+                        "x": 10560,
+                        "y": 498
+                    },
+                    "tile": true,
+                    "spriteID": "mc_hills_level2"
+                },
+                {
+                    "key": "Mountains",
+                    "spriteBounds": {
+                        "x": 11520,
+                        "y": 498
+                    },
+                    "tile": true,
+                    "spriteID": "mc_hills_level2"
+                }
+            ]
+        },
+        {
+            "key": "Objects",
+            "parallax": false,
+            "edit": true,
+            "objects": [
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_balloon2",
+                    "spriteBounds": {
+                        "x": 2850,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_obstacle2_level2",
+                    "spriteBounds": {
+                        "x": 4200,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": 54,
+                        "y": 80,
+                        "width": 290,
+                        "height": 85
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_balloon1",
+                    "spriteBounds": {
+                        "x": 1500,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_balloon3",
+                    "spriteBounds": {
+                        "x": 1800,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_balloon2",
+                    "spriteBounds": {
+                        "x": 2100,
+                        "y": 307
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_balloon3",
+                    "spriteBounds": {
+                        "x": 2400,
+                        "y": 307
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "region",
+                    "spriteID": "mc_speed_icon2",
+                    "spriteBounds": {
+                        "x": 3450,
+                        "y": 11
+                    },
+                    "hitBounds": {
+                        "x": -23,
+                        "y": 131,
+                        "width": 230,
+                        "height": 70
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_balloon1",
+                    "spriteBounds": {
+                        "x": 3300,
+                        "y": 11
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_balloon2",
+                    "spriteBounds": {
+                        "x": 3750,
+                        "y": 11
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_balloon3",
+                    "spriteBounds": {
+                        "x": 4050,
+                        "y": 11
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_balloon1",
+                    "spriteBounds": {
+                        "x": 4350,
+                        "y": 11
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_balloon2",
+                    "spriteBounds": {
+                        "x": 4650,
+                        "y": 11
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_balloon3",
+                    "spriteBounds": {
+                        "x": 4950,
+                        "y": 11
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_balloon1",
+                    "spriteBounds": {
+                        "x": 5250,
+                        "y": 11
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_obstacle1_level2",
+                    "spriteBounds": {
+                        "x": 7650,
+                        "y": 307
+                    },
+                    "hitBounds": {
+                        "x": 40,
+                        "y": 56,
+                        "width": 136,
+                        "height": 80
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_obstacle2_level2",
+                    "spriteBounds": {
+                        "x": 9300,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": 54,
+                        "y": 80,
+                        "width": 290,
+                        "height": 85
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_obstacle2_level2",
+                    "spriteBounds": {
+                        "x": 10200,
+                        "y": 11
+                    },
+                    "hitBounds": {
+                        "x": 54,
+                        "y": 80,
+                        "width": 290,
+                        "height": 85
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_balloon2",
+                    "spriteBounds": {
+                        "x": 5550,
+                        "y": 11
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_balloon3",
+                    "spriteBounds": {
+                        "x": 5850,
+                        "y": 11
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_obstacle4",
+                    "spriteBounds": {
+                        "x": 5550,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": 40,
+                        "y": 56,
+                        "width": 136,
+                        "height": 80
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_balloon3",
+                    "spriteBounds": {
+                        "x": 3150,
+                        "y": 11
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_obstacle2_level2",
+                    "spriteBounds": {
+                        "x": 7800,
+                        "y": 11
+                    },
+                    "hitBounds": {
+                        "x": 54,
+                        "y": 80,
+                        "width": 290,
+                        "height": 85
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_obstacle4",
+                    "spriteBounds": {
+                        "x": 8550,
+                        "y": 11
+                    },
+                    "hitBounds": {
+                        "x": 40,
+                        "y": 56,
+                        "width": 136,
+                        "height": 80
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_balloon3",
+                    "spriteBounds": {
+                        "x": 12150,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_balloon1",
+                    "spriteBounds": {
+                        "x": 12450,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_balloon1",
+                    "spriteBounds": {
+                        "x": 13800,
+                        "y": 307
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_obstacle2_level2",
+                    "spriteBounds": {
+                        "x": 2550,
+                        "y": 11
+                    },
+                    "hitBounds": {
+                        "x": 54,
+                        "y": 80,
+                        "width": 290,
+                        "height": 85
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_balloon1",
+                    "spriteBounds": {
+                        "x": 2700,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_obstacle1_level2",
+                    "spriteBounds": {
+                        "x": 4950,
+                        "y": 307
+                    },
+                    "hitBounds": {
+                        "x": 40,
+                        "y": 56,
+                        "width": 136,
+                        "height": 80
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_balloon1",
+                    "spriteBounds": {
+                        "x": 6150,
+                        "y": 11
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_balloon2",
+                    "spriteBounds": {
+                        "x": 6450,
+                        "y": 11
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_balloon2",
+                    "spriteBounds": {
+                        "x": 2550,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_obstacle3",
+                    "spriteBounds": {
+                        "x": 1950,
+                        "y": 11
+                    },
+                    "hitBounds": {
+                        "x": 40,
+                        "y": 56,
+                        "width": 136,
+                        "height": 80
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_obstacle1_level2",
+                    "spriteBounds": {
+                        "x": 3450,
+                        "y": 307
+                    },
+                    "hitBounds": {
+                        "x": 40,
+                        "y": 56,
+                        "width": 136,
+                        "height": 80
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_obstacle2_level2",
+                    "spriteBounds": {
+                        "x": 6000,
+                        "y": 307
+                    },
+                    "hitBounds": {
+                        "x": 54,
+                        "y": 80,
+                        "width": 290,
+                        "height": 85
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_balloon3",
+                    "spriteBounds": {
+                        "x": 6750,
+                        "y": 11
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_balloon1",
+                    "spriteBounds": {
+                        "x": 7050,
+                        "y": 11
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_balloon1",
+                    "spriteBounds": {
+                        "x": 8550,
+                        "y": 307
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_balloon3",
+                    "spriteBounds": {
+                        "x": 9000,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_balloon3",
+                    "spriteBounds": {
+                        "x": 9600,
+                        "y": 11
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "region",
+                    "spriteID": "mc_speed_icon2",
+                    "spriteBounds": {
+                        "x": 10050,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": -23,
+                        "y": 131,
+                        "width": 230,
+                        "height": 70
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_balloon3",
+                    "spriteBounds": {
+                        "x": 10350,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_balloon1",
+                    "spriteBounds": {
+                        "x": 10650,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_balloon2",
+                    "spriteBounds": {
+                        "x": 10950,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_balloon3",
+                    "spriteBounds": {
+                        "x": 11250,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_obstacle1_level2",
+                    "spriteBounds": {
+                        "x": 11100,
+                        "y": 307
+                    },
+                    "hitBounds": {
+                        "x": 40,
+                        "y": 56,
+                        "width": 136,
+                        "height": 80
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_balloon2",
+                    "spriteBounds": {
+                        "x": 11550,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_balloon1",
+                    "spriteBounds": {
+                        "x": 11850,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_balloon2",
+                    "spriteBounds": {
+                        "x": 12750,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_balloon3",
+                    "spriteBounds": {
+                        "x": 13050,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_balloon1",
+                    "spriteBounds": {
+                        "x": 13350,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_balloon3",
+                    "spriteBounds": {
+                        "x": 13650,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_obstacle2_level2",
+                    "spriteBounds": {
+                        "x": 14100,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": 54,
+                        "y": 80,
+                        "width": 290,
+                        "height": 85
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_balloon2",
+                    "spriteBounds": {
+                        "x": 14100,
+                        "y": 307
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_obstacle1_level2",
+                    "spriteBounds": {
+                        "x": 14700,
+                        "y": 11
+                    },
+                    "hitBounds": {
+                        "x": 40,
+                        "y": 56,
+                        "width": 136,
+                        "height": 80
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_obstacle2_level2",
+                    "spriteBounds": {
+                        "x": 11700,
+                        "y": 11
+                    },
+                    "hitBounds": {
+                        "x": 54,
+                        "y": 80,
+                        "width": 290,
+                        "height": 85
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_obstacle2_level2",
+                    "spriteBounds": {
+                        "x": 12450,
+                        "y": 307
+                    },
+                    "hitBounds": {
+                        "x": 54,
+                        "y": 80,
+                        "width": 290,
+                        "height": 85
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_obstacle3",
+                    "spriteBounds": {
+                        "x": 13200,
+                        "y": 11
+                    },
+                    "hitBounds": {
+                        "x": 40,
+                        "y": 56,
+                        "width": 136,
+                        "height": 80
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_balloon3",
+                    "spriteBounds": {
+                        "x": 14400,
+                        "y": 307
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_balloon1",
+                    "spriteBounds": {
+                        "x": 14700,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_balloon2",
+                    "spriteBounds": {
+                        "x": 14850,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_obstacle2_level2",
+                    "spriteBounds": {
+                        "x": 15000,
+                        "y": 307
+                    },
+                    "hitBounds": {
+                        "x": 54,
+                        "y": 80,
+                        "width": 290,
+                        "height": 85
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_obstacle3",
+                    "spriteBounds": {
+                        "x": 15450,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": 40,
+                        "y": 56,
+                        "width": 136,
+                        "height": 80
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_balloon3",
+                    "spriteBounds": {
+                        "x": 15150,
+                        "y": 11
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_balloon1",
+                    "spriteBounds": {
+                        "x": 15450,
+                        "y": 11
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_balloon2",
+                    "spriteBounds": {
+                        "x": 15750,
+                        "y": 11
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_balloon2",
+                    "spriteBounds": {
+                        "x": 15900,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_balloon2",
+                    "spriteBounds": {
+                        "x": 16200,
+                        "y": 307
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_obstacle2_level2",
+                    "spriteBounds": {
+                        "x": 16200,
+                        "y": 11
+                    },
+                    "hitBounds": {
+                        "x": 54,
+                        "y": 80,
+                        "width": 290,
+                        "height": 85
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_balloon1",
+                    "spriteBounds": {
+                        "x": 18000,
+                        "y": 307
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_balloon2",
+                    "spriteBounds": {
+                        "x": 18300,
+                        "y": 307
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_balloon3",
+                    "spriteBounds": {
+                        "x": 18600,
+                        "y": 307
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_balloon1",
+                    "spriteBounds": {
+                        "x": 18900,
+                        "y": 307
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_balloon2",
+                    "spriteBounds": {
+                        "x": 19200,
+                        "y": 307
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_balloon3",
+                    "spriteBounds": {
+                        "x": 19500,
+                        "y": 307
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_balloon1",
+                    "spriteBounds": {
+                        "x": 19800,
+                        "y": 307
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_balloon2",
+                    "spriteBounds": {
+                        "x": 20100,
+                        "y": 307
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_balloon3",
+                    "spriteBounds": {
+                        "x": 20400,
+                        "y": 307
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_balloon1",
+                    "spriteBounds": {
+                        "x": 20700,
+                        "y": 307
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_balloon2",
+                    "spriteBounds": {
+                        "x": 21000,
+                        "y": 307
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_balloon3",
+                    "spriteBounds": {
+                        "x": 21300,
+                        "y": 307
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_balloon1",
+                    "spriteBounds": {
+                        "x": 16500,
+                        "y": 307
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_balloon2",
+                    "spriteBounds": {
+                        "x": 16800,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_balloon1",
+                    "spriteBounds": {
+                        "x": 16950,
+                        "y": 11
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_balloon3",
+                    "spriteBounds": {
+                        "x": 17100,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_balloon2",
+                    "spriteBounds": {
+                        "x": 17250,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "region",
+                    "spriteID": "mc_speed_icon2",
+                    "spriteBounds": {
+                        "x": 17700,
+                        "y": 307
+                    },
+                    "hitBounds": {
+                        "x": -23,
+                        "y": 131,
+                        "width": 230,
+                        "height": 70
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_balloon1",
+                    "spriteBounds": {
+                        "x": 17400,
+                        "y": 307
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_balloon3",
+                    "spriteBounds": {
+                        "x": 16650,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_obstacle3",
+                    "spriteBounds": {
+                        "x": 16950,
+                        "y": 307
+                    },
+                    "hitBounds": {
+                        "x": 40,
+                        "y": 56,
+                        "width": 136,
+                        "height": 80
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_obstacle4",
+                    "spriteBounds": {
+                        "x": 17700,
+                        "y": 11
+                    },
+                    "hitBounds": {
+                        "x": 40,
+                        "y": 56,
+                        "width": 136,
+                        "height": 80
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_obstacle2_level2",
+                    "spriteBounds": {
+                        "x": 18300,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": 54,
+                        "y": 80,
+                        "width": 290,
+                        "height": 85
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_obstacle2_level2",
+                    "spriteBounds": {
+                        "x": 18900,
+                        "y": 11
+                    },
+                    "hitBounds": {
+                        "x": 54,
+                        "y": 80,
+                        "width": 290,
+                        "height": 85
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_obstacle3",
+                    "spriteBounds": {
+                        "x": 19650,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": 40,
+                        "y": 56,
+                        "width": 136,
+                        "height": 80
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_obstacle1_level2",
+                    "spriteBounds": {
+                        "x": 20400,
+                        "y": 11
+                    },
+                    "hitBounds": {
+                        "x": 40,
+                        "y": 56,
+                        "width": 136,
+                        "height": 80
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_obstacle2_level2",
+                    "spriteBounds": {
+                        "x": 21000,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": 54,
+                        "y": 80,
+                        "width": 290,
+                        "height": 85
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_obstacle4",
+                    "spriteBounds": {
+                        "x": 21600,
+                        "y": 11
+                    },
+                    "hitBounds": {
+                        "x": 40,
+                        "y": 56,
+                        "width": 136,
+                        "height": 80
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_balloon2",
+                    "spriteBounds": {
+                        "x": 7200,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_balloon1",
+                    "spriteBounds": {
+                        "x": 7500,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_balloon3",
+                    "spriteBounds": {
+                        "x": 7650,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_balloon2",
+                    "spriteBounds": {
+                        "x": 7800,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_balloon2",
+                    "spriteBounds": {
+                        "x": 8100,
+                        "y": 307
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_balloon3",
+                    "spriteBounds": {
+                        "x": 8250,
+                        "y": 307
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_balloon2",
+                    "spriteBounds": {
+                        "x": 8700,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_balloon2",
+                    "spriteBounds": {
+                        "x": 8400,
+                        "y": 307
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_balloon1",
+                    "spriteBounds": {
+                        "x": 8850,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_balloon2",
+                    "spriteBounds": {
+                        "x": 9900,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_balloon2",
+                    "spriteBounds": {
+                        "x": 9450,
+                        "y": 11
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_balloon1",
+                    "spriteBounds": {
+                        "x": 9300,
+                        "y": 11
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_obstacle1_level2",
+                    "spriteBounds": {
+                        "x": 6750,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": 40,
+                        "y": 56,
+                        "width": 136,
+                        "height": 80
+                    }
+                }
+            ]
+        },
+        {
+            "key": "Hero",
+            "parallax": false,
+            "edit": false,
+            "objects": [
+                {
+                    "key": "Dora2",
+                    "collision": "player",
+                    "spriteID": "mc_birdflying",
+                    "spriteBounds": {
+                        "x": 80,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": 10,
+                        "y": 95,
+                        "width": 200,
+                        "height": 63
+                    }
+                }
+            ]
+        }
+    ]
+}

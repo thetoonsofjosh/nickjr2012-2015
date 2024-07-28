@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- *************  WARNING  ************ -->
+<!-- DO NOT EDIT THIS DOCUMENT DIRECTLY   -->
+<!-- USE THE LOCALIZATION TOOL TO EDIT    -->
+<!-- ************************************ -->
+<strings>
+<language id="0">american_latin</language>
+<string id="id_ui_loading_label" fontName="Arial Unicode MS" fontSize="18" charSpace="0" lineSpace="0" catID="0" ><![CDATA[LOADING]]></string>
+<string id="id_ui_loading_building" fontName="Arial Unicode MS" fontSize="18" charSpace="0" lineSpace="0" catID="0" ><![CDATA[OPTIMIZING]]></string>
+<string id="id_ui_loading_progress" fontName="Arial Unicode MS" fontSize="16" charSpace="0" lineSpace="0" catID="0" ><![CDATA[$value$]]></string>
+<string id="id_ui_intro_button_skip" fontName="MarshmallowRegular" fontSize="20" charSpace="0" lineSpace="0" catID="1" ><![CDATA[Skip]]></string>
+<string id="id_ui_title_button_play" fontName="MarshmallowRegular" fontSize="22" charSpace="0" lineSpace="0" catID="1" ><![CDATA[Play]]></string>
+<string id="id_ui_endLevel_button_next" fontName="MarshmallowRegular" fontSize="20" charSpace="0" lineSpace="0" catID="2" ><![CDATA[Next]]></string>
+<string id="id_ui_win_button_playagain" fontName="MarshmallowRegular" fontSize="20" charSpace="0" lineSpace="0" catID="3" ><![CDATA[Play Again]]></string>
+<string id="id_ui_hud_score" fontName="Arial Unicode MS" fontSize="30" charSpace="0" lineSpace="0" catID="4" ><![CDATA[$value$]]></string>
+<string id="id_ui_print_title" fontName="VAGRounded BT" fontSize="24" charSpace="0" lineSpace="0" catID="5" ><![CDATA[Choose your printable doll!]]></string>
+<string id="id_ui_print_button_back" fontName="MarshmallowRegular" fontSize="20" charSpace="0" lineSpace="0" catID="5" ><![CDATA[Back]]></string>
+<string id="id_ui_print_button_print" fontName="MarshmallowRegular" fontSize="20" charSpace="0" lineSpace="0" catID="5" ><![CDATA[Print]]></string>
+<categories>
+<category id="0">Loading</category>
+<category id="1">Title</category>
+<category id="2">End level</category>
+<category id="3">Win</category>
+<category id="4">Hud</category>
+<category id="5">Print</category>
+</categories>
+</strings>

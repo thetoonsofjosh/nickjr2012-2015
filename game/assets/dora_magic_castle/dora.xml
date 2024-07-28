@@ -1,0 +1,47 @@
+<!--
+	Diego Game XML 
+-->
+
+<activity>
+
+	<!-- 
+		Screens - logo, teaser, walkthrough, and entry
+		id : String // unique identifier used to reference the following values
+		path : String // relative path to the screen
+		active : Boolean // toggle to be loaded and shown 
+	-->
+	<screens>
+		<screen>
+			<id>logo</id>
+			<path>shell_swfs/logo.swf</path>
+			<active>true</active>
+		</screen>
+		<screen>
+			<id>intro</id>
+			<path>shell_swfs/intro.swf</path>
+			<active>true</active>
+		</screen>
+		
+		
+		<screen>
+			<id>walkthrough</id>
+			<path>shell_swfs/walkthrough.swf</path>
+			<active>true</active>
+		</screen>
+		<screen>
+			<id>entry</id>
+			<path>shell_swfs/entry.swf</path>
+			<active>true</active>
+		</screen>
+	</screens>
+	
+	<!-- 
+
+	-->
+	<games>
+		<game>
+			<path>CastleAdventure.swf</path>
+		</game>
+	</games>
+
+</activity>

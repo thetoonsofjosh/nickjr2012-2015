@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE gbfwConfig [
+<!--
+a gbfwConfig consists of two parts:
+
+the loop element, which specifies which of the dictionary words
+are to be presented in the main loop. they will be presented in
+the same order as they appear in the loop element.
+
+the dictionary element, which specifies the list of words to be
+presented in the Book of Great Big Fancy Words. they will be
+sorted alphabetically by the Flash program
+-->
+<!ELEMENT word			(#PCDATA)>
+
+<!ELEMENT loop			(word+)>
+
+<!ELEMENT dictionary	(word+)>
+
+<!ELEMENT gbfwConfig	(loop, dictionary)>
+]>
+
+<gbfwConfig>
+	<loop>
+		<word>suspense</word>
+		<word>hullabaloo</word>
+        <word>journey</word>
+		<word>expert</word>
+		<word>collaborate</word>
+		<word>disruptive</word>
+		<word>discouraged</word>
+		<word>flustered</word>
+		<word>unique</word>
+<!-- new word set 1-5-->
+       <word>mortified</word>
+		<word>reluctant</word>
+		<word>adventure</word>
+		<word>vegetarian</word>
+		<word>panic</word>
+
+
+<!-- word set 1-5-->
+		<word>gargantuan</word>
+		<word>frustrated</word>
+		<word>ridiculous</word>
+		<word>grumpy</word>
+		<word>investigate</word>
+
+
+<!-- word set 6-10 -->
+		<word>scrumptious</word>
+		<word>celebration</word>
+		<word>terrifying</word>
+	    <word>engrossed</word>
+		<word>apprehensive</word>
+
+
+<!-- word set 11-15 -->
+		<word>habitat</word>
+		<word>shrink</word>
+		<word>hideous</word>
+		<word>experiment</word>
+		<word>duplicate</word>
+
+<!-- word 16-20 -->
+		<word>assemble</word>
+		<word>gigantic</word>
+		<word>labyrinth</word>
+		<word>ukulele</word>
+		<word>xylophone</word>
+
+
+	</loop>
+	<dictionary>
+		<word>gargantuan</word>
+		<word>frustrated</word>
+		<word>ridiculous</word>
+		<word>grumpy</word>
+		<word>investigate</word>
+		<word>scrumptious</word>
+		<word>celebration</word>
+		<word>terrifying</word>
+		<word>engrossed</word>
+		<word>apprehensive</word>
+		<word>habitat</word>
+		<word>shrink</word>
+		<word>hideous</word>
+		<word>experiment</word>
+		<word>duplicate</word>
+		<word>assemble</word>
+		<word>gigantic</word>
+		<word>labyrinth</word>
+		<word>ukulele</word>
+		<word>xylophone</word>
+
+	</dictionary>
+	<!--<dictionary>
+		<word>suspense</word>
+		<word>hullabaloo</word>
+		<word>journey</word>
+		<word>expert</word>
+		<word>collaborate</word>
+		<word>disruptive</word>
+		<word>discouraged</word>
+		<word>collaborate</word>
+		<word>disruptive</word>
+		<word>discouraged</word>
+		<word>flustered</word>
+		<word>unique</word>
+	    <word>mortified</word>
+		<word>reluctant</word>
+	    <word>adventure</word>
+		<word>vegetarian</word>
+		<word>panic</word>
+		<word>gargantuan</word>
+		<word>frustrated</word>
+		<word>ridiculous</word>
+		<word>grumpy</word>
+		<word>investigate</word>
+		<word>scrumptious</word>
+		<word>celebration</word>
+		<word>terrifying</word>
+		<word>engrossed</word>
+		<word>apprehensive</word>
+		<word>habitat</word>
+		<word>shrink</word>
+		<word>hideous</word>
+		<word>experiment</word>
+		<word>duplicate</word>
+		<word>assemble</word>
+		<word>gigantic</word>
+		<word>labyrinth</word>
+		<word>ukulele</word>
+		<word>xylophone</word>
+
+	</dictionary>-->
+</gbfwConfig>

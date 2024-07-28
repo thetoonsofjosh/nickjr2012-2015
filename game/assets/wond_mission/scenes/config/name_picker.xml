@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<!--config file for Wonderpets Game Picker -->
+<config>
+	<display_name>Wonderpets Name Picker</display_name>
+	<version>0.001</version>
+	<quality>HIGH</quality>	<!-- LOW MEDIUM HIGH -->
+	<scale_mode>noScale</scale_mode>  <!-- noScale showAll -->
+	<intro_anim id="PHONE_scene" x="0" y="0" />
+	<allowedInactivityTime>15000</allowedInactivityTime> <!-- milliseconds -->	
+	
+	
+	 <!-- Audio settings -->
+	<audio>
+		<!-- audioChannels, dynamic movieclips that sound objects attached to -->
+		<!-- flash8 can support up to 32 simultaneous audio channels -->
+		<audioChannels>
+			<audioChannel id="VO"/>
+			<audioChannel id="SFX"/>
+			<audioChannel id="BG_MUSIC"/>
+			<audioChannel id="MISC"/>
+			<audioChannel id="MISC2"/>
+		</audioChannels>
+		<audioItems>
+			<!-- <audioItem id="wpL_04.aif" loc="embedded" type="vo" channelID="VO" handle="audioVoOutro01ID" callback="audioVoOutro02ID" offset="0" loops="0" duration="100%"/> -->
+			<!-- <audioItem id="wpL_05.aif" loc="embedded" type="vo" channelID="VO" handle="audioVoOutro02ID" callback="onCompleteVoOutro02ID" offset="0" loops="0" duration="100%"/> -->
+			<audioItem id="L_namescreen_s01.aif" loc="embedded" type="vo" channelID="VO" handle="audioInstructionVoID" callback="onCompleteVoOutro02ID" offset="0" loops="0" duration="100%"/>
+			<audioItem id="ambient_kids_02.aif" loc="embedded" type="bg_music"  channelID="BG_MUSIC" handle="audioBackgroundMusicID" callback="null" offset="0" loops="500" duration="100%"/>
+			<audioItem id="vo_typeclick_01.aif" loc="embedded" type="bg_music"  channelID="MISC" handle="audioVoInactivityPrompt" callback="null" offset="0" loops="500" duration="100%"/>
+			<audioItem id="select_04.aif" loc="embedded" type="sfx"  channelID="SFX" handle="audioSfxOnButtonClick" callback="null" offset="0" loops="0" duration="100%"/>
+		</audioItems>
+	</audio>
+</config>

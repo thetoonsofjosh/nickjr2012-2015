@@ -1,0 +1,297 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<config>
+	<!--Trackables-->
+	<playButton>
+		<func>trackKidsGamePlay</func>
+		<urlAlias>sample-property-sample-game-name</urlAlias>
+	</playButton>
+	<printButton><!--ExternalInterface.call("printTracker",'yoga_robots','game','Yo Gabba Gabba!','1')-->
+		<func>printTracker</func>
+		<urlAlias>sample-property-sample-game-name</urlAlias>
+		<contentType>game</contentType>
+		<showID>Sample Game Printable</showID>
+		<numPages>1</numPages>
+	</printButton>
+	<scoreTracking>
+		<gameID>sample-game-name</gameID>
+	</scoreTracking>
+	
+	<assets>
+		<!-- List of materials to load -->
+		<materials base="materials" default="white">
+			
+			<color id="red" value="#E51900" />
+			<color id="orange" value="#ff7e00" />
+			<color id="yellow" value="#ffd200" />
+			<color id="green" value="#85DB02" />
+			<color id="purple" value="#B543E7" />
+			<color id="white" value="#E5E5E5" />
+			<color id="blue" value="#0089FF" />
+			<color id="pink" value="#F77ABC" />
+			<color id="black" value="#383838" />
+			
+			<pattern id="polkadot" src="polkadot.jpg"/>
+			<pattern id="dimonds" src="dimonds.jpg"/>
+			<pattern id="flowers" src="flowers.jpg"/>
+			<pattern id="stars" src="stars.jpg"/>	
+			<pattern id="wood" src="wood.jpg"/>			
+			<pattern id="starrysky" src="starrysky.jpg"/>
+					
+		</materials>
+		
+		<!-- List of part assets to load -->
+		<textures base="textures">
+			<!-- weight -->
+			<asset id="weightUV" src="weight_uv.jpg" />
+			<!-- Terrain -->
+			<asset id="terrainUV" src="terrain.jpg" />
+			<!-- Hotspots -->
+			<asset id="hotspot_flip" src="hotspots/hotspot_flip.png" />
+			<asset id="hotspot_pump" src="hotspots/hotspot_pump.png" />
+			<asset id="hotspot_spin" src="hotspots/hotspot_spin.png" />
+			<asset id="hotspot_wave" src="hotspots/hotspot_wave.png" />
+			<asset id="hotspot_separate" src="hotspots/hotspot_separate.png" />
+			<!-- <asset id="terrainUV" src="terrain_uv_render.jpg" /> -->
+			<!-- robot 1 -->
+			<asset id="head1" src="robot1/headShade.jpg" />
+			<asset id="head1Map" src="robot1/headMap.png" />
+			<asset id="body1" src="robot1/bodyShade.jpg" />
+			<asset id="body1Map" src="robot1/bodyMap.png" />
+			<asset id="arm1HandLeftMap" src="robot1/handLMap.png" />
+			<asset id="arm1HandRightMap" src="robot1/handRMap.png" />
+			<asset id="arm1HandRight" src="robot1/handRShade.jpg" />
+			<asset id="arm1HandLeft" src="robot1/handLShade.jpg" />
+			<asset id="arm1Joint" src="robot1/jointShade.jpg" />
+			<asset id="wheel1" src="robot1/wheelShade.jpg" />
+			<asset id="wheel1Map" src="robot1/wheelMap.png" />
+			<asset id="fork1" src="robot1/forkShade.jpg" />
+			<asset id="fork1Map" src="robot1/forkMap.png" />
+			<!-- robot 2 -->
+			<asset id="head2" src="robot2/headShade.jpg" />
+			<asset id="head2Map" src="robot2/headMap.png" />
+			<asset id="body2" src="robot2/bodyShade.jpg" />
+			<asset id="body2Map" src="robot2/bodyMap.png" />
+			<asset id="arm2LowerRight" src="robot2/lowerArmRShade.jpg" />
+			<asset id="arm2LowerLeft" src="robot2/lowerArmLShade.jpg" />
+			<asset id="arm2HandLeftMap" src="robot2/armLMap.png" />
+			<asset id="arm2HandRightMap" src="robot2/armRMap.png" />
+			<asset id="arm2Upper" src="robot2/upperArmShade.jpg" />
+			<asset id="arm2UpperMap" src="robot2/upperArmMap.png" />
+			<asset id="wheel2" src="robot2/wheelShade.jpg" />
+			<asset id="wheel2Map" src="robot2/wheelMap.png" />
+			<asset id="fork2" src="robot2/forkShade.jpg" />
+			<asset id="fork2Map" src="robot2/forkMap.png" />
+			<!-- robot 3 -->
+			<asset id="head3" src="robot3/headShade.jpg" />
+			<asset id="head3Map" src="robot3/headMap.png" />
+			<asset id="body3" src="robot3/bodyShade.jpg" />
+			<asset id="body3Map" src="robot3/bodyMap.png" />
+			<asset id="arm3LowerRight" src="robot3/lowerArmRShade.jpg" />
+			<asset id="arm3LowerLeft" src="robot3/lowerArmLShade.jpg" />
+			<asset id="arm3HandLeftMap" src="robot3/lowerArmLMap.png" />
+			<asset id="arm3HandRightMap" src="robot3/lowerArmRMap.png" />
+			<asset id="arm3Upper" src="robot3/upperArmShade.jpg" />
+			<asset id="arm3UpperMap" src="robot3/upperArmMap.png" />
+			<asset id="leg3" src="robot3/legShade.jpg" />
+			<asset id="leg3Map" src="robot3/legMap.png" />
+			<!-- robot 4 -->
+			<asset id="head4" src="robot4/headShade.jpg"/>
+			<asset id="head4Map" src="robot4/headMap.png" />
+			<asset id="body4" src="robot4/bodyShade.jpg"/>
+			<asset id="body4Map" src="robot4/bodyMap.png" />
+			<asset id="leg4" src="robot4/legShade.jpg"/>
+			<asset id="lowerArm4" src="robot4/lowerArmShade.jpg"/>
+			<asset id="upperArm4" src="robot4/upperArmShade.jpg"/>
+			<asset id="arm4HandMap" src="robot4/lowerArmMap.png" />
+			<asset id="arm4UpperMap" src="blank_uv.png" />
+			<asset id="wheel4" src="robot4/wheelShade.jpg"/>
+			<asset id="wheel4Map" src="robot4/wheelMap.png" />
+		</textures>
+		
+		<!-- List of backgrounds to load -->
+		<backgrounds base="backgrounds">
+			<asset id="footer" src="footer.swf" />
+			<asset id="bg1" src="bg_1.jpg" />
+			<asset id="bg2" src="bg_2.jpg" />
+			<asset id="bg3" src="bg_3.jpg" />
+			<asset id="bg4" src="bg_4.jpg" />
+			<asset id="bg5" src="bg_5.jpg" />
+		</backgrounds>
+		
+		<!-- List of sound assets to load -->
+		<sounds base="audio">
+			<pool id="background">
+				<!-- old setup for old references -->
+				<asset id="gameloop" src="background/bg_loop_gameplay.mp3" maxVolume=".9" overlap="noPlay"/>
+				<asset id="screenloop" src="background/bg_loop_screens.mp3" maxVolume=".9" overlap="noPlay"/>
+				<!-- new setup -->
+				<asset id="title" src="background/bg_loop_titleScreen.mp3" maxVolume=".9" overlap="noPlay"/>
+				<asset id="garage" src="background/bg_loop_builder.mp3" maxVolume=".9" overlap="noPlay"/>
+				<asset id="freePaint" src="background/bg_loop_screens.mp3" maxVolume=".9" overlap="noPlay"/>
+				<asset id="freePlay" src="background/bg_loop_freePlay.mp3" maxVolume=".9" overlap="noPlay"/>
+				<asset id="pushTest" src="background/bg_loop_pushTest.mp3" maxVolume=".9" overlap="noPlay"/>
+				<asset id="posePrint" src="background/bg_loop_gameplay.mp3" maxVolume=".9" overlap="noPlay"/>
+			</pool>
+			
+			<pool id="body_part">
+				<asset id="intro" src="body_part/Plex_Body_Part_Selection_01.mp3"/>
+				<asset id="selectParts" src="body_part/Plex_Body_Part_Selection_02.mp3"/>
+				<asset id="pickColors" src="body_part/Plex_Body_Part_Selection_03.mp3"/>
+				<asset id="happyNext" src="body_part/Plex_Body_Part_Selection_04.mp3"/>
+				<asset id="happyDone" src="body_part/Plex_Body_Part_Selection_05.mp3"/>
+				<asset id="bodies" src="body_part/Plex_Body_Part_Selection_06.mp3"/>
+				<asset id="heads" src="body_part/Plex_Body_Part_Selection_07.mp3"/>
+				<asset id="arms" src="body_part/Plex_Body_Part_Selection_08.mp3"/>
+				<asset id="legs" src="body_part/Plex_Body_Part_Selection_09.mp3"/>
+				<asset id="colors" src="body_part/Plex_Body_Part_Selection_10.mp3"/>
+				<asset id="nice" src="body_part/Plex_Body_Part_Selection_11.mp3"/>
+				<asset id="good" src="body_part/Plex_Body_Part_Selection_12.mp3"/>
+				<asset id="greatColor" src="body_part/Plex_Body_Part_Selection_13.mp3"/>
+				<asset id="bases" src="body_part/Plex_Misc_BASES.mp3"/>
+				<asset id="wheelbases" src="body_part/Plex_Misc_WHEELBASES.mp3"/>
+				<asset id="wheels" src="body_part/Plex_Misc_WHEELS.mp3"/>
+			</pool>
+			
+			<pool id="buttons" overlap="noPlay">
+				<asset id="play" src="buttons/Plex_Button_Rollover_01.mp3"/>
+				<asset id="playAgain" src="buttons/Plex_Button_Rollover_02.mp3"/>
+				<asset id="skip" src="buttons/Plex_Button_Rollover_03.mp3"/>
+				<asset id="createNew" src="buttons/Plex_Button_Rollover_04.mp3"/>
+				<asset id="new" src="buttons/Plex_Button_Rollover_05.mp3"/>
+				<asset id="next" src="buttons/Plex_Button_Rollover_06.mp3"/>
+				<asset id="done" src="buttons/Plex_Button_Rollover_07.mp3"/>
+				<asset id="back" src="buttons/Plex_Button_Rollover_08.mp3"/>
+				<asset id="yes" src="buttons/Plex_Button_Rollover_09.mp3"/>
+				<asset id="no" src="buttons/Plex_Button_Rollover_10.mp3"/>
+			</pool>
+			
+			<pool id="encouragement" overlap="noPlay">
+				<asset id="hoorayAlt" src="encouragement/Plex_Encouragement_01_ALT.mp3"/>
+				<asset id="hooray" src="encouragement/Plex_Encouragement_01.mp3"/>
+				<asset id="wee" src="encouragement/Plex_Encouragement_02.mp3"/>
+				<asset id="yay" src="encouragement/Plex_Encouragement_03.mp3"/>
+				<asset id="radRobot" src="encouragement/Plex_Encouragement_04.mp3"/>
+				<asset id="wooHoo" src="encouragement/Plex_Encouragement_05.mp3"/>
+				<asset id="looksGreat" src="encouragement/Plex_Encouragement_06.mp3"/>
+				<asset id="robotastic" src="encouragement/Plex_Encouragement_07.mp3"/>
+				<asset id="greatJob" src="encouragement/Plex_Encouragement_08.mp3"/>
+			</pool>
+			
+			<pool id="free_paint" overlap="noPlay">
+				<asset id="intro" src="free_paint/Plex_Free_Paint_Section_01.mp3"/>
+				<!-- <asset id="greatJob" src="free_paint/Plex_Free_Paint_Section_02.mp3"/> -->        <!-- same as previous Plex_Free_Paint_Section_01.mp3 -->
+				<asset id="startOverNew" src="free_paint/Plex_Free_Paint_Section_03.mp3"/>
+				<asset id="startOverBack" src="free_paint/Plex_Free_Paint_Section_04.mp3"/>
+				<asset id="clickColor" src="free_paint/Plex_Free_Paint_Section_05.mp3"/>
+				<asset id="howDecorate" src="free_paint/Plex_Free_Paint_Section_06.mp3"/>
+				<asset id="letsPaint" src="free_paint/Plex_Free_Paint_Section_07.mp3"/>
+				<asset id="letsDecorate" src="free_paint/Plex_Free_Paint_Section_08.mp3"/>
+				<asset id="greatColor" src="free_paint/Plex_Free_Paint_Section_09.mp3"/>
+				<asset id="superSticker" src="free_paint/Plex_Free_Paint_Section_10.mp3"/>
+				<asset id="superStickerAlt" src="free_paint/Plex_Free_Paint_Section_10_ALT.mp3"/>
+				<asset id="outro" src="free_paint/Plex_Free_Paint_Section_11.mp3"/>
+				<asset id="freePaintInstructions" src="free_paint/Plex_Free_Paint_Section_12.mp3"/>
+			</pool>
+			
+			<pool id="pose_print">
+				<asset id="intro" src="pose_print/Plex_Pose_And_Print_01.mp3"/>
+				<asset id="selectPose" src="pose_print/Plex_Pose_And_Print_02.mp3"/>
+				<asset id="clickToPrint" src="pose_print/Plex_Pose_And_Print_03.mp3"/>
+				<asset id="print" src="pose_print/Plex_Pose_And_Print_04.mp3"/>
+				<asset id="coolRobot" src="pose_print/Plex_Pose_And_Print_05.mp3"/>
+				<asset id="outro" src="pose_print/Plex_Pose_And_Print_06.mp3"/>
+				<asset id="camClick" src="pose_print/Plex_Pose_And_Print_07.mp3"/>
+			</pool>
+			
+			<pool id="strength_test">
+				<asset id="intro" src="strength_test/Plex_Robot_Strength_Test_01.mp3"/>
+				<asset id="clickPush" src="strength_test/Plex_Robot_Strength_Test_02.mp3"/>
+				<asset id="fourTries" src="strength_test/Plex_Robot_Strength_Test_03.mp3"/>
+				<asset id="push" src="strength_test/Plex_Robot_Strength_Test_04.mp3"/>
+				<asset id="comeOnAlt" src="strength_test/Plex_Robot_Strength_Test_05_ALT.mp3"/>
+				<asset id="comeOn" src="strength_test/Plex_Robot_Strength_Test_05.mp3"/>
+				<asset id="didGreat" src="strength_test/Plex_Robot_Strength_Test_06.mp3"/>
+				<asset id="tryAgain" src="strength_test/Plex_Robot_Strength_Test_07.mp3"/>
+				<asset id="outro" src="strength_test/Plex_Robot_Strength_Test_08.mp3"/>
+				<asset id="synth" src="strength_test/synth_sound.mp3" />
+				<asset id="complete" src="strength_test/scifi_noise.mp3" overlap="noPlay" />
+				
+				<asset id="goal" src="extras/goal.mp3" />
+				<asset id="pushOff" src="extras/pushOff.mp3" />
+				<asset id="pushLoop" src="extras/pushLoop.mp3" />
+				<asset id="powerLoop" src="extras/powerLoopALT.mp3" />
+				<asset id="powerClick" src="extras/powerClickALT.mp3" />
+			</pool>
+			
+			<pool id="testing_ground">
+				<asset id="intro" src="testing_ground/Plex_Robot_Testing_Grounds_01_new.mp3"/>
+				<asset id="instructionsButtons" src="testing_ground/Plex_Robot_Testing_Grounds_02.mp3"/>
+				<asset id="instructionsMouse" src="testing_ground/Plex_Robot_Testing_Grounds_03.mp3"/>
+				<asset id="instructionsArrows" src="testing_ground/Plex_Robot_Testing_Grounds_04.mp3"/>
+				<asset id="clickButtons" src="testing_ground/Plex_Robot_Testing_Grounds_05.mp3"/>
+				<asset id="newRobotNew" src="testing_ground/Plex_Robot_Testing_Grounds_06.mp3"/>
+				<asset id="newRobotBack" src="testing_ground/Plex_Robot_Testing_Grounds_07.mp3"/>
+				<asset id="specialSpot" src="testing_ground/Plex_Robot_Testing_Grounds_10.mp3"/>
+				<asset id="outro" src="testing_ground/Plex_Robot_Testing_Grounds_12.mp3"/>
+			</pool>
+			
+			<pool id="testing_ground_buttons" overlap="playNew">
+				<asset id="newRobot" src="testing_ground/Plex_Robot_Testing_Grounds_11.mp3" overlap="noPlay" />
+				<asset id="strengthTest" src="testing_ground/Plex_Robot_Testing_Grounds_08.mp3" overlap="noPlay" />
+				<asset id="posePrintAlt" src="testing_ground/Plex_Robot_Testing_Grounds_09_ALT.mp3" overlap="noPlay" />				
+			</pool>
+			
+			<pool id="title">
+				<asset id="creationStation" src="title/Plex_Title_Screen_01.mp3"/>
+				<asset id="yoGabba" src="title/Plex_Title_Screen_02.mp3"/>
+				<asset id="clickPlay" src="title/Plex_Title_Screen_03.mp3"/>
+				<asset id="hereWeGo" src="title/Plex_Title_Screen_04.mp3"/>
+				<asset id="initInstructions" src="title/Plex_Title_Screen_05.mp3"/>
+			</pool>
+			
+			<pool id="robot_sounds" overlap="noPlay">
+				<asset id="roboPool01" src="robotSounds/roboPool_client01.mp3"/>
+				<asset id="roboPool02" src="robotSounds/roboPool_client02.mp3"/>
+				<asset id="roboPool03" src="robotSounds/roboPool_client03.mp3"/>
+				<asset id="roboPool04" src="robotSounds/roboPool_04.mp3"/>
+				<asset id="roboPool05" src="robotSounds/roboPool_client04.mp3"/>
+				<asset id="roboPool06" src="robotSounds/roboPool_06.mp3"/>
+				<asset id="roboPool07" src="robotSounds/roboPool_07.mp3"/>
+				<asset id="roboPool08" src="robotSounds/roboPool_client05.mp3"/>
+				<asset id="roboPool09" src="robotSounds/roboPool_09.mp3"/>
+				<asset id="roboPool10" src="robotSounds/roboPool_10.mp3"/>
+				<asset id="roboPool11" src="robotSounds/roboPool_client06.mp3"/>
+				<asset id="roboPool12" src="robotSounds/roboPool_client07.mp3"/>
+				<asset id="roboPool13" src="robotSounds/roboPool_client08.mp3"/>
+			</pool>
+			
+			<pool id="robot_builder">
+				<asset id="builder01" src="robotBuilder/builder_01.mp3"/>
+				<asset id="builder02" src="robotBuilder/builder_02.mp3"/>
+				<asset id="builder03" src="robotBuilder/builder_03.mp3"/>
+				<asset id="builder04" src="robotBuilder/builder_04.mp3"/>
+				<asset id="builder05" src="robotBuilder/builder_05.mp3"/>
+				<asset id="builder06" src="robotBuilder/builder_06.mp3"/>
+				<asset id="builder07" src="robotBuilder/builder_07.mp3"/>
+				<asset id="builder08" src="robotBuilder/builder_08.mp3"/>
+			</pool>
+			
+				<pool id="button_sounds">
+				<asset id="btnOver" src="robotSounds/roboPool_client03.mp3"/>
+				<asset id="btnClick" src="robotSounds/roboPool_client08.mp3"/>
+			</pool>
+			
+				<pool id="hot_spots">
+				<asset id="spot01" src="extras/hotSpot01.mp3"/>
+				<asset id="spot02" src="extras/hotSpot02.mp3"/>		
+				<asset id="spot03" src="extras/hotSpot03.mp3"/>
+			</pool>
+			
+			<pool id="screen_wipe" overlap="noPlay">
+				<asset id= "wipe" src="wipe/wipe.mp3"/>
+			</pool>
+		</sounds>
+		
+	</assets>
+</config>

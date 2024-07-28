@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Scene Width="18432" Height="3072" Name="world_0_bg">
+  <ImageDefs>
+    <Image ImageName="bg_sky" X="0" Y="0" ImageType="Pattern" PatternWidth="18432" PatternHeight="3072" />
+    <Image ImageName="bg_skyline_02" X="0" Y="2344" ImageType="Pattern" PatternWidth="14336" PatternHeight="600" />
+    <Image ImageName="bg_skyline_02" X="15360" Y="2344" ImageType="Pattern" PatternWidth="3072" PatternHeight="600" />
+    <Image ImageName="bg_skyline_factory" X="14336" Y="2344" ImageType="Image" PatternWidth="0" PatternHeight="0" />
+  </ImageDefs>
+</Scene>

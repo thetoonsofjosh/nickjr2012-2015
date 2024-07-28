@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<!-- Brobees Hungry Game MiniGame -->
+<!-- 
+	scenes
+	reward icon
+	GameClass
+	
+-->	
+<game>
+	<display_name>Brobees Hungry MiniGame</display_name>
+	<version>0.001</version>
+	<framerate>30</framerate>
+	<flash_version>9</flash_version>
+	<quality>HIGH</quality>	<!-- LOW MEDIUM HIGH -->
+	<scale_mode>noScale</scale_mode>  <!-- noScale showAll -->
+	<width>600</width>
+	<height>390</height>	
+	<show_debug_panel>false</show_debug_panel>
+	<duration>11000</duration><!-- in milliseconds -->
+	<!-- 
+	<loader id="gameLoader" className="Loader">
+		<media_source id="media_source" value="assets/games/muno_vac/assets/scenes/loader.swf"/>
+		<data_source  id="data_source" value="assets/games/muno_vac/data/loader.xml"/>	
+	</loader>
+	-->	
+	<scenes id="gameSequence" className="com.nickjr.gamedev.game.SceneSequence" >		
+		<scene id="inGameIntroScene" className="com.nickjr.display.scene.SceneView">
+			<media_source id="media_source" value="assets/scenes/ingame_intro.swf"/>
+			<data_source  id="data_source" value="data/intro_animation.xml"/>
+			<display_name id="display_name" value="In Game Intro Screen" />
+		</scene>
+	</scenes>	
+	
+	<gui>
+		<gui_item id="frame_border" className="MovieClip" x="0" y="0">
+			<media_source id="media_source" value="frameBorderMC" library="assets/container.swf"/>
+		</gui_item>	
+		<gui_item id="score" className="MovieClip" x="500" y="20">
+			<media_source id="media_source" value="scoreMC" library="assets/container.swf"/>
+		</gui_item>	
+		<gui_item id="timer" className="MovieClip" x="40" y="40">
+			<media_source id="media_source" value="timerMC" library="assets/container.swf"/>
+		</gui_item>
+		<!-- 			
+		<gui_item id="logo" className="MovieClip" x="200" y="0">
+			<media_source id="media_source" value="logoMC" library="assets/container.swf"/>
+		</gui_item>
+		-->			
+		<gui_item id="gui_background" className="MovieClip" x="0" y="0">
+			<media_source id="media_source" value="guiBackgroundMC" library="assets/container.swf"/>
+		</gui_item>	
+		<gui_item id="game_foreground" className="MovieClip" x="0" y="0">
+			<media_source id="media_source" value="gameForegroundMC" library="assets/container.swf"/>
+		</gui_item>			
+		<gui_item id="background" className="MovieClip" x="0" y="0">
+			<media_source id="media_source" value="backgroundMC" library="assets/container.swf"/>
+		</gui_item>			
+	</gui>
+	<game_entities>
+		<character id="mainCharacter" className="com.nickjr.app.yggBrobeesHungryGame.view.CharacterView" width="117" height="136" >
+			<!-- NON-ANIM -->
+			<movementArea id="movementArea" value="55,180,480,340" type="Rectangle" />  
+			<!-- ANIM -->
+			<!-- <movementArea id="movementArea" value="20,315,560,370" type="Rectangle" />  -->
+			<mouseDelay id="mouseDelay" value="6" />
+			<!-- NON-ANIM -->
+			<hitarea id="hitarea" value="120,155,30,15" type="Rectangle" visible="false" />
+			<!-- ANIM -->
+			<!-- <hitarea id="hitarea" value="60,0,30,136" type="Rectangle" visible="true" /> -->
+			<media_source id="media_source" value="assets/characters/vac_muno.swf" container="sprite_mc" className="KeyframeAnimation" />
+				<states>
+				  <state id="ready" frame="ready" duration="2" direction="forward" loop="false" allowPositioning="false" framerateReflectsPosition="false"/>
+				  <state id="trans_left_right" frame="ready" duration="2" direction="forward" loop="false"  allowPositioning="true" framerateReflectsPosition="false"/><!-- walkE walkW_trans_walkE -->
+				  <state id="trans_right_left" frame="ready" duration="2" direction="forward" loop="false"  allowPositioning="true" framerateReflectsPosition="false"/><!-- walkW walkE_trans_walkW -->
+				  <state id="run_right" frame="walkE" duration="20" direction="forward" loop="true" allowPositioning="true" framerateReflectsPosition="true" />
+				  <state id="run_left" frame="walkW" duration="20" direction="forward" loop="true" allowPositioning="true" framerateReflectsPosition="true"/>
+				  <state id="celebrate_right" frame="ready" duration="2" direction="forward" loop="false" allowPositioning="true" framerateReflectsPosition="false"/>
+				  <state id="celebrate_left" frame="ready" duration="2" direction="forward" loop="false" allowPositioning="true" framerateReflectsPosition="false"/>
+				  <state id="fail_right" frame="ready" duration="2" direction="forward" loop="false" allowPositioning="true" framerateReflectsPosition="false"/>
+				  <state id="fail_left" frame="ready" duration="2" direction="forward" loop="false" allowPositioning="true" framerateReflectsPosition="false"/>
+				</states>
+		</character>
+		<collectables>
+			<!-- com.nickjr.games.generator.CollectableEmitter com.nickjr.games.generator.CollectableGenerator -->
+			<!-- NON-ANIM collectableArea="150,250,450,400" 120,250,550,400-->	
+			<collectableGenerator id="collectableGenerator" collectableArea="120,220,450,170" type="generate" className="com.nickjr.games.generator.CollectableGenerator" />
+			<!-- ANIM -->
+			<!-- <collectableGenerator id="collectableGenerator" collectableArea="30,0,500,400" type="animate" className="com.nickjr.games.generator.CollectableEmitter" durationSeconds="5" />  -->
+			<!-- good -->
+		<!-- Main Grouping -->
+			<collectable id="goodCollectable01" className="com.nickjr.app.yggBrobeesHungryGame.view.GoodCollectable" type="good">
+				<hitarea id="hitarea" value="0,0,20,20" type="Rectangle" visible="false" /><!-- hitarea  value="hitareaMC" type="instance" -->
+				<media_source id="media_source" value="goodCollectable01" library="assets/container.swf" />
+			</collectable>
+			<collectable id="goodCollectable02" className="com.nickjr.app.yggBrobeesHungryGame.view.GoodCollectable" type="good">
+				<hitarea id="hitarea" value="0,0,20,20" type="Rectangle" visible="false" /><!-- hitarea  value="hitareaMC" type="instance" -->
+				<media_source id="media_source" value="goodCollectable02" library="assets/container.swf" />
+			</collectable>	
+			<collectable id="goodCollectable03" className="com.nickjr.app.yggBrobeesHungryGame.view.GoodCollectable" type="good">
+				<hitarea id="hitarea" value="0,0,20,20" type="Rectangle" visible="false" /><!-- hitarea  value="hitareaMC" type="instance" -->
+				<media_source id="media_source" value="goodCollectable03" library="assets/container.swf" />
+			</collectable>	
+			<collectable id="goodCollectable04" className="com.nickjr.app.yggBrobeesHungryGame.view.GoodCollectable" type="good">
+				<hitarea id="hitarea" value="0,0,20,20" type="Rectangle" visible="false" /><!-- hitarea  value="hitareaMC" type="instance" -->
+				<media_source id="media_source" value="goodCollectable04" library="assets/container.swf" />
+			</collectable>
+		<!-- Main Grouping -->
+			<collectable id="goodCollectable01" className="com.nickjr.app.yggBrobeesHungryGame.view.GoodCollectable" type="good">
+				<hitarea id="hitarea" value="0,0,20,20" type="Rectangle" visible="false" /><!-- hitarea  value="hitareaMC" type="instance" -->
+				<media_source id="media_source" value="goodCollectable01" library="assets/container.swf" />
+			</collectable>
+			<collectable id="goodCollectable02" className="com.nickjr.app.yggBrobeesHungryGame.view.GoodCollectable" type="good">
+				<hitarea id="hitarea" value="0,0,20,20" type="Rectangle" visible="false" /><!-- hitarea  value="hitareaMC" type="instance" -->
+				<media_source id="media_source" value="goodCollectable02" library="assets/container.swf" />
+			</collectable>	
+			<collectable id="goodCollectable03" className="com.nickjr.app.yggBrobeesHungryGame.view.GoodCollectable" type="good">
+				<hitarea id="hitarea" value="0,0,20,20" type="Rectangle" visible="false" /><!-- hitarea  value="hitareaMC" type="instance" -->
+				<media_source id="media_source" value="goodCollectable03" library="assets/container.swf" />
+			</collectable>	
+			<collectable id="goodCollectable04" className="com.nickjr.app.yggBrobeesHungryGame.view.GoodCollectable" type="good">
+				<hitarea id="hitarea" value="0,0,20,20" type="Rectangle" visible="false" /><!-- hitarea  value="hitareaMC" type="instance" -->
+				<media_source id="media_source" value="goodCollectable04" library="assets/container.swf" />
+			</collectable>
+			<collectable id="goodCollectable01" className="com.nickjr.app.yggBrobeesHungryGame.view.GoodCollectable" type="good">
+				<hitarea id="hitarea" value="0,0,20,20" type="Rectangle" visible="false" /><!-- hitarea  value="hitareaMC" type="instance" -->
+				<media_source id="media_source" value="goodCollectable01" library="assets/container.swf" />
+			</collectable>
+			<collectable id="goodCollectable02" className="com.nickjr.app.yggBrobeesHungryGame.view.GoodCollectable" type="good">
+				<hitarea id="hitarea" value="0,0,20,20" type="Rectangle" visible="false" /><!-- hitarea  value="hitareaMC" type="instance" -->
+				<media_source id="media_source" value="goodCollectable02" library="assets/container.swf" />
+			</collectable>	
+			<collectable id="goodCollectable03" className="com.nickjr.app.yggBrobeesHungryGame.view.GoodCollectable" type="good">
+				<hitarea id="hitarea" value="0,0,20,20" type="Rectangle" visible="false" /><!-- hitarea  value="hitareaMC" type="instance" -->
+				<media_source id="media_source" value="goodCollectable03" library="assets/container.swf" />
+			</collectable>	
+			<collectable id="goodCollectable04" className="com.nickjr.app.yggBrobeesHungryGame.view.GoodCollectable" type="good">
+				<hitarea id="hitarea" value="0,0,20,20" type="Rectangle" visible="false" /><!-- hitarea  value="hitareaMC" type="instance" -->
+				<media_source id="media_source" value="goodCollectable04" library="assets/container.swf" />
+			</collectable>
+		<!-- Main Grouping -->
+			<collectable id="goodCollectable01" className="com.nickjr.app.yggBrobeesHungryGame.view.GoodCollectable" type="good">
+				<hitarea id="hitarea" value="0,0,20,20" type="Rectangle" visible="false" /><!-- hitarea  value="hitareaMC" type="instance" -->
+				<media_source id="media_source" value="goodCollectable01" library="assets/container.swf" />
+			</collectable>
+			<collectable id="goodCollectable02" className="com.nickjr.app.yggBrobeesHungryGame.view.GoodCollectable" type="good">
+				<hitarea id="hitarea" value="0,0,20,20" type="Rectangle" visible="false" /><!-- hitarea  value="hitareaMC" type="instance" -->
+				<media_source id="media_source" value="goodCollectable02" library="assets/container.swf" />
+			</collectable>	
+			<collectable id="goodCollectable03" className="com.nickjr.app.yggBrobeesHungryGame.view.GoodCollectable" type="good">
+				<hitarea id="hitarea" value="0,0,20,20" type="Rectangle" visible="false" /><!-- hitarea  value="hitareaMC" type="instance" -->
+				<media_source id="media_source" value="goodCollectable03" library="assets/container.swf" />
+			</collectable>	
+			<collectable id="goodCollectable04" className="com.nickjr.app.yggBrobeesHungryGame.view.GoodCollectable" type="good">
+				<hitarea id="hitarea" value="0,0,20,20" type="Rectangle" visible="false" /><!-- hitarea  value="hitareaMC" type="instance" -->
+				<media_source id="media_source" value="goodCollectable04" library="assets/container.swf" />
+			</collectable>
+			<collectable id="goodCollectable01" className="com.nickjr.app.yggBrobeesHungryGame.view.GoodCollectable" type="good">
+				<hitarea id="hitarea" value="0,0,20,20" type="Rectangle" visible="false" /><!-- hitarea  value="hitareaMC" type="instance" -->
+				<media_source id="media_source" value="goodCollectable01" library="assets/container.swf" />
+			</collectable>
+			<!-- Main Grouping -->
+			<collectable id="goodCollectable01" className="com.nickjr.app.yggBrobeesHungryGame.view.GoodCollectable" type="good">
+				<hitarea id="hitarea" value="0,0,20,20" type="Rectangle" visible="false" /><!-- hitarea  value="hitareaMC" type="instance" -->
+				<media_source id="media_source" value="goodCollectable01" library="assets/container.swf" />
+			</collectable>
+			<collectable id="goodCollectable02" className="com.nickjr.app.yggBrobeesHungryGame.view.GoodCollectable" type="good">
+				<hitarea id="hitarea" value="0,0,20,20" type="Rectangle" visible="false" /><!-- hitarea  value="hitareaMC" type="instance" -->
+				<media_source id="media_source" value="goodCollectable02" library="assets/container.swf" />
+			</collectable>	
+			<collectable id="goodCollectable03" className="com.nickjr.app.yggBrobeesHungryGame.view.GoodCollectable" type="good">
+				<hitarea id="hitarea" value="0,0,20,20" type="Rectangle" visible="false" /><!-- hitarea  value="hitareaMC" type="instance" -->
+				<media_source id="media_source" value="goodCollectable03" library="assets/container.swf" />
+			</collectable>	
+			<collectable id="goodCollectable04" className="com.nickjr.app.yggBrobeesHungryGame.view.GoodCollectable" type="good">
+				<hitarea id="hitarea" value="0,0,20,20" type="Rectangle" visible="false" /><!-- hitarea  value="hitareaMC" type="instance" -->
+				<media_source id="media_source" value="goodCollectable04" library="assets/container.swf" />
+			</collectable>
+			<collectable id="goodCollectable01" className="com.nickjr.app.yggBrobeesHungryGame.view.GoodCollectable" type="good">
+				<hitarea id="hitarea" value="0,0,20,20" type="Rectangle" visible="false" /><!-- hitarea  value="hitareaMC" type="instance" -->
+				<media_source id="media_source" value="goodCollectable01" library="assets/container.swf" />
+			</collectable>
+				<!-- Main Grouping -->
+			<collectable id="goodCollectable01" className="com.nickjr.app.yggBrobeesHungryGame.view.GoodCollectable" type="good">
+				<hitarea id="hitarea" value="0,0,20,20" type="Rectangle" visible="false" /><!-- hitarea  value="hitareaMC" type="instance" -->
+				<media_source id="media_source" value="goodCollectable01" library="assets/container.swf" />
+			</collectable>
+			<collectable id="goodCollectable02" className="com.nickjr.app.yggBrobeesHungryGame.view.GoodCollectable" type="good">
+				<hitarea id="hitarea" value="0,0,20,20" type="Rectangle" visible="false" /><!-- hitarea  value="hitareaMC" type="instance" -->
+				<media_source id="media_source" value="goodCollectable02" library="assets/container.swf" />
+			</collectable>	
+			<collectable id="goodCollectable03" className="com.nickjr.app.yggBrobeesHungryGame.view.GoodCollectable" type="good">
+				<hitarea id="hitarea" value="0,0,20,20" type="Rectangle" visible="false" /><!-- hitarea  value="hitareaMC" type="instance" -->
+				<media_source id="media_source" value="goodCollectable03" library="assets/container.swf" />
+			</collectable>	
+			<collectable id="goodCollectable04" className="com.nickjr.app.yggBrobeesHungryGame.view.GoodCollectable" type="good">
+				<hitarea id="hitarea" value="0,0,20,20" type="Rectangle" visible="false" /><!-- hitarea  value="hitareaMC" type="instance" -->
+				<media_source id="media_source" value="goodCollectable04" library="assets/container.swf" />
+			</collectable>
+			<collectable id="goodCollectable01" className="com.nickjr.app.yggBrobeesHungryGame.view.GoodCollectable" type="good">
+				<hitarea id="hitarea" value="0,0,20,20" type="Rectangle" visible="false" /><!-- hitarea  value="hitareaMC" type="instance" -->
+				<media_source id="media_source" value="goodCollectable01" library="assets/container.swf" />
+			</collectable>	
+				<!-- Main Grouping -->
+			<collectable id="goodCollectable01" className="com.nickjr.app.yggBrobeesHungryGame.view.GoodCollectable" type="good">
+				<hitarea id="hitarea" value="0,0,20,20" type="Rectangle" visible="false" /><!-- hitarea  value="hitareaMC" type="instance" -->
+				<media_source id="media_source" value="goodCollectable01" library="assets/container.swf" />
+			</collectable>
+			<collectable id="goodCollectable02" className="com.nickjr.app.yggBrobeesHungryGame.view.GoodCollectable" type="good">
+				<hitarea id="hitarea" value="0,0,20,20" type="Rectangle" visible="false" /><!-- hitarea  value="hitareaMC" type="instance" -->
+				<media_source id="media_source" value="goodCollectable02" library="assets/container.swf" />
+			</collectable>	
+			<collectable id="goodCollectable03" className="com.nickjr.app.yggBrobeesHungryGame.view.GoodCollectable" type="good">
+				<hitarea id="hitarea" value="0,0,20,20" type="Rectangle" visible="false" /><!-- hitarea  value="hitareaMC" type="instance" -->
+				<media_source id="media_source" value="goodCollectable03" library="assets/container.swf" />
+			</collectable>	
+			<collectable id="goodCollectable04" className="com.nickjr.app.yggBrobeesHungryGame.view.GoodCollectable" type="good">
+				<hitarea id="hitarea" value="0,0,20,20" type="Rectangle" visible="false" /><!-- hitarea  value="hitareaMC" type="instance" -->
+				<media_source id="media_source" value="goodCollectable04" library="assets/container.swf" />
+			</collectable>
+			<collectable id="goodCollectable01" className="com.nickjr.app.yggBrobeesHungryGame.view.GoodCollectable" type="good">
+				<hitarea id="hitarea" value="0,0,20,20" type="Rectangle" visible="false" /><!-- hitarea  value="hitareaMC" type="instance" -->
+				<media_source id="media_source" value="goodCollectable01" library="assets/container.swf" />
+			</collectable>	
+				<!-- Main Grouping -->
+			<collectable id="goodCollectable01" className="com.nickjr.app.yggBrobeesHungryGame.view.GoodCollectable" type="good">
+				<hitarea id="hitarea" value="0,0,20,20" type="Rectangle" visible="false" /><!-- hitarea  value="hitareaMC" type="instance" -->
+				<media_source id="media_source" value="goodCollectable01" library="assets/container.swf" />
+			</collectable>
+			<collectable id="goodCollectable02" className="com.nickjr.app.yggBrobeesHungryGame.view.GoodCollectable" type="good">
+				<hitarea id="hitarea" value="0,0,20,20" type="Rectangle" visible="false" /><!-- hitarea  value="hitareaMC" type="instance" -->
+				<media_source id="media_source" value="goodCollectable02" library="assets/container.swf" />
+			</collectable>	
+			<collectable id="goodCollectable03" className="com.nickjr.app.yggBrobeesHungryGame.view.GoodCollectable" type="good">
+				<hitarea id="hitarea" value="0,0,20,20" type="Rectangle" visible="false" /><!-- hitarea  value="hitareaMC" type="instance" -->
+				<media_source id="media_source" value="goodCollectable03" library="assets/container.swf" />
+			</collectable>	
+			<collectable id="goodCollectable04" className="com.nickjr.app.yggBrobeesHungryGame.view.GoodCollectable" type="good">
+				<hitarea id="hitarea" value="0,0,20,20" type="Rectangle" visible="false" /><!-- hitarea  value="hitareaMC" type="instance" -->
+				<media_source id="media_source" value="goodCollectable04" library="assets/container.swf" />
+			</collectable>
+			<collectable id="goodCollectable01" className="com.nickjr.app.yggBrobeesHungryGame.view.GoodCollectable" type="good">
+				<hitarea id="hitarea" value="0,0,20,20" type="Rectangle" visible="false" /><!-- hitarea  value="hitareaMC" type="instance" -->
+				<media_source id="media_source" value="goodCollectable01" library="assets/container.swf" />
+			</collectable>							
+		</collectables>
+	</game_entities>	
+	
+</game>

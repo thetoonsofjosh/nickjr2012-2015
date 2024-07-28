@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<introSwf path="/game/assets/umiz_city/Umi_Intro1.swf" />
+	<mapSwf path="/game/assets/umiz_city/Umi_Map.swf" />
+	<audioSwf path="/game/assets/umiz_city/UmiShell_Audio.swf" files="xml/UmiShellSoundFiles.xml" />
+</data>

@@ -1,0 +1,106 @@
+<level1>
+	<!-- HERO START POSITION -->
+	<heroStart col="5" row="16"/>
+	
+	<!-- HUD -->
+	<hud>
+		<images>
+			<image pos="0" enabled="false">smokeHorse</image>
+			<image pos="1" enabled="false">greyHorse</image>
+			<image pos="2" enabled="false">naiya</image>
+		</images>
+	</hud>
+	
+	<!--DEFINITIONS -->
+	<objDef>
+		<obj name="horse1">
+			<idle>HorseSmoke_Idle</idle>
+			<found>HorseSmoke_Find</found>
+			<sound>horse</sound>
+			<goal>0</goal>
+		</obj>
+		<obj name="horse2">
+			<idle>HorseGrey_Idle</idle>
+			<found>HorseGrey_Find</found>
+			<sound>horse</sound>
+			<goal>1</goal>
+		</obj>
+		<obj name="naiya">
+			<idle>mcNaiya_Idle</idle>
+			<found>mcNaiya_Find</found>
+			<sound>naiya</sound>
+			<goal>2</goal>
+		</obj>
+		<obj name="puddle">
+			<idle>mcPuddle</idle>
+			<sound>puddle</sound>
+		</obj>
+		<obj name="snake">
+			<idle>mcSnake</idle>
+			<sound>snake</sound>
+		</obj>
+		<obj name="bandit">
+			<idle>mcBanditBush</idle>
+			<sound>bandit</sound>
+		</obj>
+	</objDef>
+	
+	<!-- OBJECTS -->
+	<objs>
+		<obj name="horse1" col="11" row="20" />
+		<obj name="horse2" col="20" row="12" />
+		<obj name="naiya" col="25" row="13" />
+		<obj name="bandit" col="10" row="17" />
+		<obj name="bandit" col="19" row="9" />
+		<obj name="puddle" col="9" row="17" />
+		<obj name="snake" col="18" row="9" />
+	</objs>
+	
+	<!-- ROAD BLOCKS -->
+
+	<roadBlocks>
+		<roadBlock col="10" row="21">
+			<removeObs col="9" row="17" />
+			<addObs>
+				<obj name="puddle" col="8" row="19" />
+			</addObs>
+		</roadBlock>
+		<roadBlock col="10" row="12">
+			<removeObs col="8" row="19" />
+			<addObs>
+				<obj name="puddle" col="9" row="14" />
+			</addObs>
+		</roadBlock>
+		<roadBlock col="12" row="15">
+			<removeObs col="9" row="14" />
+			<addObs>
+				<obj name="puddle" col="11" row="13" />
+			</addObs>
+		</roadBlock>
+		<roadBlock col="15" row="9">
+			<removeObs col="11" row="13" />
+			<addObs>
+				<obj name="snake" col="14" row="7" />
+			</addObs>
+		</roadBlock>
+		<roadBlock col="19" row="13">
+			<removeObs col="18" row="9" />
+			<addObs>
+				<obj name="snake" col="17" row="11" />
+			</addObs>
+		</roadBlock>
+		<roadBlock col="21" row="13">
+			<removeObs col="17" row="11" />
+			<addObs>
+				<obj name="snake" col="22" row="11" />
+			</addObs>
+		</roadBlock>
+		<roadBlock col="21" row="20">
+			<removeObs col="22" row="11" />
+			<addObs>
+				<obj name="snake" col="22" row="16" />
+			</addObs>
+		</roadBlock>
+	</roadBlocks>
+
+</level1>

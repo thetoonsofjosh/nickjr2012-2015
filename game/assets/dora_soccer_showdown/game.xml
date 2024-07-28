@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<game>	
+
+	<common defLevelInd="1" napeDebugFlag="false" safe="false" />
+
+	<hero acceleration="25" duckSpeed="100" jumpHeight="250" maxVelocity="200" jumpAcceleration="50" boostAcceleration="25" boostMaxVelocity="300" boostJumpHeight="350" boostJumpAcceleration="100">
+
+	</hero>
+
+	<level id="1" numSlices="10" descr="Jungle">
+
+	</level>
+
+	<level id="2" descr="Mini game 1">
+
+		<hero speed="5" scope="30" bounds="160,120,230,220" />
+
+		<adversary speed="3" />
+
+		<ball speed="10" />		 
+
+	</level>
+
+	<level id="3" numSlices="10" descr="River">
+
+	</level>
+
+	<level id="4" descr="Mini game 2">
+
+		<hero speed="5" bounds="0,115,720,290" />
+
+		<adversary speed="5" />
+
+	</level>
+
+	<level id="5" numSlices="10" descr="City">
+
+	</level>
+
+	<level id="6" descr="Mini game 3">
+
+		<hero speed="5" bounds="0,0,300,320" />
+
+		<adversary speed="5"  reflex="0.5" scope="50" bounds="430,170,430,340" />
+
+		<ball speed="15" />		 
+
+	</level>
+
+	<level id="7" descr="Mini game 4">
+
+		<adversary speed="10" />
+
+	</level>
+
+	<other balloonFlyTime="10" heroBoostTime="10" rampSpeed="150">
+
+	</other>
+
+</game>

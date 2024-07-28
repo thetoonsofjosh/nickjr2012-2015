@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+	
+	<!-- Level number -->
+	<property name="nLVL">							<![CDATA[3]]>						</property>
+	
+	<!-- PEER PAR LEVEL MAXIMUM PEER = 7 -->
+	<property name="nPEER_LVL_1">					<![CDATA[3]]>						</property>
+	<property name="nPEER_LVL_2">					<![CDATA[5]]>						</property>
+	<property name="nPEER_LVL_3">					<![CDATA[7]]>						</property>
+	
+	<!-- COLOR LEVEL : POSSIBLE COLOR [red,green,yellow,blue] -->
+	<property name="nCOLOR_LVL_1">					<![CDATA[red,green,yellow,blue]]>	</property>
+	<property name="nCOLOR_LVL_2">					<![CDATA[red,green,yellow,blue]]>	</property>
+	<property name="nCOLOR_LVL_3">					<![CDATA[red,green,yellow,blue]]>	</property>
+	
+	<!-- HAT PERCENTAGE LEVEL -->
+	<property name="nHAT_PERCENTAGE_LVL_1">			<![CDATA[0]]>						</property>
+	<property name="nHAT_PERCENTAGE_LVL_2">			<![CDATA[100]]>						</property>
+	<property name="nHAT_PERCENTAGE_LVL_3">			<![CDATA[50]]>						</property>
+	
+	<!-- HAT & CLOTH HAVE TO FIT WITH COLOR -->
+	<property name="bFIT_LVL_1">					<![CDATA[true]]>					</property>
+	<property name="bFIT_LVL_2">					<![CDATA[true]]>					</property>
+	<property name="bFIT_LVL_3">					<![CDATA[false]]>					</property>
+	
+	<!-- ERROR COUNTER -->
+	<property name="nERROR_COUNT">					<![CDATA[3]]>						</property>
+	
+	<!-- HINT TIME IN SECOND -->
+	<property name="nHINT_TIME">					<![CDATA[5]]>						</property>
+	<property name="nHINT_COLOR">					<![CDATA[0xCCFF00]]>				</property>
+	
+	<!-- HIGHLIGHT COLOR -->
+	<property name="nHIGHLIGHT_COLOR">				<![CDATA[0xFFFFFF]]>				</property>
+	<property name="nHIGHLIGHT_ALPHA">				<![CDATA[1]]>						</property>
+	<property name="nHIGHLIGHT_BLUR">				<![CDATA[9]]>						</property>
+	<property name="nHIGHLIGHT_STRENGTH">			<![CDATA[40]]>						</property>
+	
+	<!-- DELAY BEFORE HELPING PLAYER TO MAKE CHOICE IN SECONDS -->
+	<property name="nDELAY_HELPING">				<![CDATA[30]]>						</property>
+	
+	// NICK GAME SETTING //
+	
+	<!-- Flag : Nick high score enabled -->
+	<property name="nick_highscores_available">		<![CDATA[true]]>					</property>
+	<!-- Game's nick HSB ID -->
+	<property name="nick_highscores_hs_id">			<![CDATA[av_fight2]]>				</property>	
+	<!-- Game's nick GameID for tracking -->
+	<property name="nick_game_id">					<![CDATA[av_fight2]]>				</property>	
+
+	// VOLUME SETTING  //
+
+	<!-- Music default volume -->
+	<property name="nDEFAULT_VOLUME_MUSIC">			<![CDATA[1]]>						</property>
+		
+	<!-- Sound default volume -->
+	<property name="nDEFAULT_VOLUME_SOUNDS">		<![CDATA[1]]>						</property>
+	
+		<!-- Default AbstractView IN volume-->
+	<property name="nDEFAULT_POPUP_VOL_IN">			<![CDATA[1]]>						</property>
+	
+	<!-- Default AbstractView OUT volume-->
+	<property name="nDEFAULT_POPUP_VOL_OUT">		<![CDATA[1]]>						</property>
+
+	<!-- Default UI Button click volume-->
+	<property name="nDEFAULT_MOUSE_VOL_CLICK">		<![CDATA[1]]>						</property>
+	
+	<!-- Default UI Button rollOver volume-->
+	<property name="nDEFAULT_MOUSE_VOL_ROLL">		<![CDATA[1]]>						</property>
+
+	<!-- Default UI Transition IN volume -->
+	<property name="nDEFAULT_TRANSITION_VOL_IN">	<![CDATA[1]]>						</property>
+	
+	<!-- Default UI Button rollOver volume-->
+	<property name="nDEFAULT_TRANSITION_VOL_OUT">	<![CDATA[1]]>						</property>
+	
+</config>

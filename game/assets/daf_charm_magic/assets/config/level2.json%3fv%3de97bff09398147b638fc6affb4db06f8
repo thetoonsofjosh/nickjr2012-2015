@@ -1,0 +1,1386 @@
+{
+    "world": {
+        "x": 0,
+        "y": 0,
+        "width": 10500,
+        "height": 1560,
+        "gridWidth": 50,
+        "gridHeight": 50,
+        "cameraOffsetX": -223,
+        "cameraOffsetY": -340
+    },
+    "layers": [
+        {
+            "key": "Background",
+            "parallax": false,
+            "edit": true,
+            "objects": [
+                {
+                    "key": "Level2BG",
+                    "spriteClass": "mc_BG_level2",
+                    "location": {
+                        "x": 25,
+                        "y": 1575
+                    }
+                },
+                {
+                    "key": "Level2BG",
+                    "spriteClass": "mc_BG_level2",
+                    "location": {
+                        "x": 975,
+                        "y": 1575
+                    }
+                },
+                {
+                    "key": "Level2BG",
+                    "spriteClass": "mc_BG_level2",
+                    "location": {
+                        "x": 1925,
+                        "y": 1575
+                    }
+                },
+                {
+                    "key": "Level2BG",
+                    "spriteClass": "mc_BG_level2",
+                    "location": {
+                        "x": 2875,
+                        "y": 1575
+                    }
+                },
+                {
+                    "key": "Level2BG",
+                    "spriteClass": "mc_BG_level2",
+                    "location": {
+                        "x": 3825,
+                        "y": 1575
+                    }
+                },
+                {
+                    "key": "Level2BG",
+                    "spriteClass": "mc_BG_level2",
+                    "location": {
+                        "x": 4775,
+                        "y": 1575
+                    }
+                },
+                {
+                    "key": "Level2BG",
+                    "spriteClass": "mc_BG_level2",
+                    "location": {
+                        "x": 5725,
+                        "y": 1575
+                    }
+                },
+                {
+                    "key": "Level2BG",
+                    "spriteClass": "mc_BG_level2",
+                    "location": {
+                        "x": 6675,
+                        "y": 1575
+                    }
+                },
+                {
+                    "key": "Level2BG",
+                    "spriteClass": "mc_BG_level2",
+                    "location": {
+                        "x": 7625,
+                        "y": 1575
+                    }
+                },
+                {
+                    "key": "Level2BG",
+                    "spriteClass": "mc_BG_level2",
+                    "location": {
+                        "x": 8575,
+                        "y": 1575
+                    }
+                },
+                {
+                    "key": "Level2BG",
+                    "spriteClass": "mc_BG_level2",
+                    "location": {
+                        "x": 9525,
+                        "y": 1575
+                    }
+                },
+                {
+                    "key": "Level2BG",
+                    "spriteClass": "mc_BG_level2",
+                    "location": {
+                        "x": 10475,
+                        "y": 1575
+                    }
+                }
+            ]
+        },
+        {
+            "key": "LevelBoundary",
+            "parallax": false,
+            "edit": true,
+            "objects": [
+                {
+                    "key": "verticalBoundary",
+                    "location": {
+                        "x": 75,
+                        "y": 75
+                    }
+                },
+                {
+                    "key": "horizontalBoundary",
+                    "location": {
+                        "x": 25,
+                        "y": 1575
+                    }
+                },
+                {
+                    "key": "minigameregion",
+                    "location": {
+                        "x": 7325,
+                        "y": 1525
+                    },
+                    "params": [
+                        {
+                            "id": "regionType",
+                            "value": "minigame"
+                        }
+                    ]
+                },
+                {
+                    "key": "endOfLevelRegion",
+                    "location": {
+                        "x": 10175,
+                        "y": 1525
+                    },
+                    "params": [
+                        {
+                            "id": "regionType",
+                            "value": "endOfLevel"
+                        }
+                    ]
+                },
+                {
+                    "key": "verticalBoundary",
+                    "location": {
+                        "x": 10425,
+                        "y": 1525
+                    }
+                }
+            ]
+        },
+        {
+            "key": "Environment",
+            "parallax": false,
+            "edit": true,
+            "objects": [
+                {
+                    "key": "L2 Platform 1",
+                    "spriteClass": "mc_level2_platform1",
+                    "location": {
+                        "x": 625,
+                        "y": 1325
+                    }
+                },
+                {
+                    "key": "L2 Platform 2",
+                    "spriteClass": "mc_level2_platform2",
+                    "location": {
+                        "x": 925,
+                        "y": 1175
+                    }
+                },
+                {
+                    "key": "L2 Platform 2",
+                    "spriteClass": "mc_level2_platform2",
+                    "location": {
+                        "x": 1175,
+                        "y": 1175
+                    }
+                },
+                {
+                    "key": "L2 Platform 1",
+                    "spriteClass": "mc_level2_platform1",
+                    "location": {
+                        "x": 1375,
+                        "y": 1325
+                    }
+                },
+                {
+                    "key": "L2 Platform 1",
+                    "spriteClass": "mc_level2_platform1",
+                    "location": {
+                        "x": 1625,
+                        "y": 1325
+                    }
+                },
+                {
+                    "key": "L2 Platform 2",
+                    "spriteClass": "mc_level2_platform2",
+                    "location": {
+                        "x": 2275,
+                        "y": 1225
+                    }
+                },
+                {
+                    "key": "L2 Platform 2",
+                    "spriteClass": "mc_level2_platform2",
+                    "location": {
+                        "x": 1825,
+                        "y": 1125
+                    }
+                },
+                {
+                    "key": "L2 Platform 1",
+                    "spriteClass": "mc_level2_platform1",
+                    "location": {
+                        "x": 2525,
+                        "y": 1325
+                    }
+                },
+                {
+                    "key": "L2 MovingPlatform",
+                    "spriteClass": "mc_level2_elevator",
+                    "location": {
+                        "x": 3525,
+                        "y": 1375
+                    },
+                    "params": [
+                        {
+                            "id": "moveXMin",
+                            "value": 100
+                        },
+                        {
+                            "id": "moveXMax",
+                            "value": 100
+                        },
+                        {
+                            "id": "moveYMin",
+                            "value": 100
+                        },
+                        {
+                            "id": "moveYMax",
+                            "value": 100
+                        },
+                        {
+                            "id": "xDuration",
+                            "value": 4
+                        },
+                        {
+                            "id": "yDuration",
+                            "value": 2
+                        }
+                    ]
+                },
+                {
+                    "key": "L2 Platform 2",
+                    "spriteClass": "mc_level2_platform2",
+                    "location": {
+                        "x": 2975,
+                        "y": 1175
+                    }
+                },
+                {
+                    "key": "L2 Platform 2",
+                    "spriteClass": "mc_level2_platform2",
+                    "location": {
+                        "x": 3825,
+                        "y": 1225
+                    }
+                },
+                {
+                    "key": "L2 Platform 2",
+                    "spriteClass": "mc_level2_platform2",
+                    "location": {
+                        "x": 4075,
+                        "y": 1225
+                    }
+                },
+                {
+                    "key": "L2 MovingPlatform",
+                    "spriteClass": "mc_level2_elevator",
+                    "location": {
+                        "x": 4525,
+                        "y": 1375
+                    },
+                    "params": [
+                        {
+                            "id": "moveXMin",
+                            "value": 100
+                        },
+                        {
+                            "id": "moveXMax",
+                            "value": 100
+                        },
+                        {
+                            "id": "moveYMin",
+                            "value": 100
+                        },
+                        {
+                            "id": "moveYMax",
+                            "value": 100
+                        },
+                        {
+                            "id": "xDuration",
+                            "value": 4
+                        },
+                        {
+                            "id": "yDuration",
+                            "value": 2
+                        }
+                    ]
+                },
+                {
+                    "key": "L2 Platform 1",
+                    "spriteClass": "mc_level2_platform1",
+                    "location": {
+                        "x": 4825,
+                        "y": 1325
+                    }
+                },
+                {
+                    "key": "L2 Platform 2",
+                    "spriteClass": "mc_level2_platform2",
+                    "location": {
+                        "x": 5325,
+                        "y": 1175
+                    }
+                },
+                {
+                    "key": "L2 Platform 2",
+                    "spriteClass": "mc_level2_platform2",
+                    "location": {
+                        "x": 5575,
+                        "y": 1175
+                    }
+                },
+                {
+                    "key": "L2 Platform 1",
+                    "spriteClass": "mc_level2_platform1",
+                    "location": {
+                        "x": 5925,
+                        "y": 1325
+                    }
+                },
+                {
+                    "key": "L2 Platform 2",
+                    "spriteClass": "mc_level2_platform2",
+                    "location": {
+                        "x": 6475,
+                        "y": 1175
+                    }
+                },
+                {
+                    "key": "L2 Platform 2",
+                    "spriteClass": "mc_level2_platform2",
+                    "location": {
+                        "x": 6175,
+                        "y": 1325
+                    }
+                },
+                {
+                    "key": "L2 Platform 1",
+                    "spriteClass": "mc_level2_platform1",
+                    "location": {
+                        "x": 6675,
+                        "y": 1325
+                    }
+                },
+                {
+                    "key": "Puppet1",
+                    "spriteClass": "mc_level2_puppet1",
+                    "location": {
+                        "x": 1075,
+                        "y": 1175
+                    }
+                },
+                {
+                    "key": "Puppet1",
+                    "spriteClass": "mc_level2_puppet1",
+                    "location": {
+                        "x": 1225,
+                        "y": 1175
+                    }
+                },
+                {
+                    "key": "Puppet1",
+                    "spriteClass": "mc_level2_puppet1",
+                    "location": {
+                        "x": 1425,
+                        "y": 1175
+                    }
+                },
+                {
+                    "key": "Puddle",
+                    "spriteClass": "mc_level2_puddle_obstacle",
+                    "location": {
+                        "x": 1075,
+                        "y": 1525
+                    },
+                    "params": [
+                        {
+                            "id": "obstacleType",
+                            "value": "puddle"
+                        }
+                    ]
+                },
+                {
+                    "key": "L2 Platform 1",
+                    "spriteClass": "mc_level2_platform1",
+                    "location": {
+                        "x": 2775,
+                        "y": 1325
+                    }
+                },
+                {
+                    "key": "L2 Platform 1",
+                    "spriteClass": "mc_level2_platform1",
+                    "location": {
+                        "x": 3025,
+                        "y": 1325
+                    }
+                },
+                {
+                    "key": "Stalagmite",
+                    "spriteClass": "mc_level2_rock_obstacle",
+                    "location": {
+                        "x": 3075,
+                        "y": 1325
+                    },
+                    "params": [
+                        {
+                            "id": "obstacleType",
+                            "value": "stalagmite"
+                        }
+                    ]
+                },
+                {
+                    "key": "Stalagmite",
+                    "spriteClass": "mc_level2_rock_obstacle",
+                    "location": {
+                        "x": 5675,
+                        "y": 1175
+                    },
+                    "params": [
+                        {
+                            "id": "obstacleType",
+                            "value": "stalagmite"
+                        }
+                    ]
+                },
+                {
+                    "key": "Stalagmite",
+                    "spriteClass": "mc_level2_rock_obstacle",
+                    "location": {
+                        "x": 6875,
+                        "y": 1525
+                    },
+                    "params": [
+                        {
+                            "id": "obstacleType",
+                            "value": "stalagmite"
+                        }
+                    ]
+                },
+                {
+                    "key": "Stalagmite",
+                    "spriteClass": "mc_level2_rock_obstacle",
+                    "location": {
+                        "x": 6775,
+                        "y": 1525
+                    },
+                    "params": [
+                        {
+                            "id": "obstacleType",
+                            "value": "stalagmite"
+                        }
+                    ]
+                },
+                {
+                    "key": "Bat",
+                    "spriteClass": "mc_level2_bat_obstacle",
+                    "location": {
+                        "x": 5075,
+                        "y": 1075
+                    },
+                    "params": [
+                        {
+                            "id": "obstacleType",
+                            "value": "bat"
+                        }
+                    ]
+                },
+                {
+                    "key": "L2 Platform 2",
+                    "spriteClass": "mc_level2_platform2",
+                    "location": {
+                        "x": 8725,
+                        "y": 1325
+                    }
+                },
+                {
+                    "key": "L2 Platform 2",
+                    "spriteClass": "mc_level2_platform2",
+                    "location": {
+                        "x": 9025,
+                        "y": 1225
+                    }
+                },
+                {
+                    "key": "L2 Platform 2",
+                    "spriteClass": "mc_level2_platform2",
+                    "location": {
+                        "x": 5825,
+                        "y": 1175
+                    }
+                },
+                {
+                    "key": "Puppet2",
+                    "spriteClass": "mc_level2_puppet2",
+                    "location": {
+                        "x": 5925,
+                        "y": 1175
+                    }
+                },
+                {
+                    "key": "L2 Platform 1",
+                    "spriteClass": "mc_level2_platform1",
+                    "location": {
+                        "x": 5075,
+                        "y": 1325
+                    }
+                },
+                {
+                    "key": "L2 Wall",
+                    "spriteClass": "mc_level2_wall",
+                    "location": {
+                        "x": 7375,
+                        "y": 1575
+                    }
+                },
+                {
+                    "key": "Bat",
+                    "spriteClass": "mc_level2_bat_obstacle",
+                    "location": {
+                        "x": 4125,
+                        "y": 1025
+                    },
+                    "params": [
+                        {
+                            "id": "obstacleType",
+                            "value": "bat"
+                        }
+                    ]
+                },
+                {
+                    "key": "L2 Platform 2",
+                    "spriteClass": "mc_level2_platform2",
+                    "location": {
+                        "x": 9275,
+                        "y": 1225
+                    }
+                },
+                {
+                    "key": "Leve21EndWall",
+                    "spriteClass": "mc_level2_End",
+                    "location": {
+                        "x": 10175,
+                        "y": 975
+                    }
+                },
+                {
+                    "key": "Stalagmite",
+                    "spriteClass": "mc_level2_rock_obstacle",
+                    "location": {
+                        "x": 9225,
+                        "y": 1525
+                    },
+                    "params": [
+                        {
+                            "id": "obstacleType",
+                            "value": "stalagmite"
+                        }
+                    ]
+                },
+                {
+                    "key": "Stalagmite",
+                    "spriteClass": "mc_level2_rock_obstacle",
+                    "location": {
+                        "x": 1775,
+                        "y": 1325
+                    },
+                    "params": [
+                        {
+                            "id": "obstacleType",
+                            "value": "stalagmite"
+                        }
+                    ]
+                },
+                {
+                    "key": "Stalagmite",
+                    "spriteClass": "mc_level2_rock_obstacle",
+                    "location": {
+                        "x": 3875,
+                        "y": 1525
+                    },
+                    "params": [
+                        {
+                            "id": "obstacleType",
+                            "value": "stalagmite"
+                        }
+                    ]
+                },
+                {
+                    "key": "Stalagmite",
+                    "spriteClass": "mc_level2_rock_obstacle",
+                    "location": {
+                        "x": 5275,
+                        "y": 1525
+                    },
+                    "params": [
+                        {
+                            "id": "obstacleType",
+                            "value": "stalagmite"
+                        }
+                    ]
+                },
+                {
+                    "key": "Bat",
+                    "spriteClass": "mc_level2_bat_obstacle",
+                    "location": {
+                        "x": 2775,
+                        "y": 1075
+                    },
+                    "params": [
+                        {
+                            "id": "obstacleType",
+                            "value": "bat"
+                        }
+                    ]
+                },
+                {
+                    "key": "Puddle",
+                    "spriteClass": "mc_level2_puddle_obstacle",
+                    "location": {
+                        "x": 2425,
+                        "y": 1525
+                    },
+                    "params": [
+                        {
+                            "id": "obstacleType",
+                            "value": "puddle"
+                        }
+                    ]
+                },
+                {
+                    "key": "Bat",
+                    "spriteClass": "mc_level2_bat_obstacle",
+                    "location": {
+                        "x": 6275,
+                        "y": 1075
+                    },
+                    "params": [
+                        {
+                            "id": "obstacleType",
+                            "value": "bat"
+                        }
+                    ]
+                },
+                {
+                    "key": "Puddle",
+                    "spriteClass": "mc_level2_puddle_obstacle",
+                    "location": {
+                        "x": 6025,
+                        "y": 1525
+                    },
+                    "params": [
+                        {
+                            "id": "obstacleType",
+                            "value": "puddle"
+                        }
+                    ]
+                },
+                {
+                    "key": "Bat",
+                    "spriteClass": "mc_level2_bat_obstacle",
+                    "location": {
+                        "x": 7225,
+                        "y": 1175
+                    },
+                    "params": [
+                        {
+                            "id": "obstacleType",
+                            "value": "bat"
+                        }
+                    ]
+                },
+                {
+                    "key": "Bat",
+                    "spriteClass": "mc_level2_bat_obstacle",
+                    "location": {
+                        "x": 8725,
+                        "y": 1125
+                    },
+                    "params": [
+                        {
+                            "id": "obstacleType",
+                            "value": "bat"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "key": "Player",
+            "parallax": false,
+            "edit": true,
+            "objects": [
+                {
+                    "key": "Dora",
+                    "spriteClass": "mc_scooter_level2",
+                    "location": {
+                        "x": 350,
+                        "y": 1525
+                    }
+                }
+            ]
+        },
+        {
+            "key": "Collectibles",
+            "parallax": false,
+            "edit": true,
+            "objects": [
+                {
+                    "key": "Puppet2",
+                    "spriteClass": "mc_level2_puppet2",
+                    "location": {
+                        "x": 1475,
+                        "y": 1325
+                    }
+                },
+                {
+                    "key": "Puppet2",
+                    "spriteClass": "mc_level2_puppet2",
+                    "location": {
+                        "x": 4575,
+                        "y": 1525
+                    }
+                },
+                {
+                    "key": "Puppet2",
+                    "spriteClass": "mc_level2_puppet2",
+                    "location": {
+                        "x": 4275,
+                        "y": 1225
+                    }
+                },
+                {
+                    "key": "Puppet2",
+                    "spriteClass": "mc_level2_puppet2",
+                    "location": {
+                        "x": 4175,
+                        "y": 1225
+                    }
+                },
+                {
+                    "key": "Puppet2",
+                    "spriteClass": "mc_level2_puppet2",
+                    "location": {
+                        "x": 3925,
+                        "y": 1225
+                    }
+                },
+                {
+                    "key": "Puppet2",
+                    "spriteClass": "mc_level2_puppet2",
+                    "location": {
+                        "x": 2675,
+                        "y": 1325
+                    }
+                },
+                {
+                    "key": "Puppet2",
+                    "spriteClass": "mc_level2_puppet2",
+                    "location": {
+                        "x": 3075,
+                        "y": 1175
+                    }
+                },
+                {
+                    "key": "Puppet2",
+                    "spriteClass": "mc_level2_puppet2",
+                    "location": {
+                        "x": 3175,
+                        "y": 1175
+                    }
+                },
+                {
+                    "key": "Puppet2",
+                    "spriteClass": "mc_level2_puppet2",
+                    "location": {
+                        "x": 2875,
+                        "y": 1525
+                    }
+                },
+                {
+                    "key": "Puppet2",
+                    "spriteClass": "mc_level2_puppet2",
+                    "location": {
+                        "x": 2375,
+                        "y": 1225
+                    }
+                },
+                {
+                    "key": "Puppet2",
+                    "spriteClass": "mc_level2_puppet2",
+                    "location": {
+                        "x": 1925,
+                        "y": 1125
+                    }
+                },
+                {
+                    "key": "Puppet2",
+                    "spriteClass": "mc_level2_puppet2",
+                    "location": {
+                        "x": 2075,
+                        "y": 1525
+                    }
+                },
+                {
+                    "key": "Puppet1",
+                    "spriteClass": "mc_level2_puppet1",
+                    "location": {
+                        "x": 1475,
+                        "y": 1525
+                    }
+                },
+                {
+                    "key": "Puppet1",
+                    "spriteClass": "mc_level2_puppet1",
+                    "location": {
+                        "x": 1575,
+                        "y": 1325
+                    }
+                },
+                {
+                    "key": "Puppet1",
+                    "spriteClass": "mc_level2_puppet1",
+                    "location": {
+                        "x": 1625,
+                        "y": 1525
+                    }
+                },
+                {
+                    "key": "Puppet1",
+                    "spriteClass": "mc_level2_puppet1",
+                    "location": {
+                        "x": 2025,
+                        "y": 1125
+                    }
+                },
+                {
+                    "key": "Puppet1",
+                    "spriteClass": "mc_level2_puppet1",
+                    "location": {
+                        "x": 2175,
+                        "y": 1525
+                    }
+                },
+                {
+                    "key": "Puppet1",
+                    "spriteClass": "mc_level2_puppet1",
+                    "location": {
+                        "x": 2475,
+                        "y": 1225
+                    }
+                },
+                {
+                    "key": "Puppet1",
+                    "spriteClass": "mc_level2_puppet1",
+                    "location": {
+                        "x": 2825,
+                        "y": 1325
+                    }
+                },
+                {
+                    "key": "Puppet1",
+                    "spriteClass": "mc_level2_puppet1",
+                    "location": {
+                        "x": 2975,
+                        "y": 1525
+                    }
+                },
+                {
+                    "key": "Puppet1",
+                    "spriteClass": "mc_level2_puppet1",
+                    "location": {
+                        "x": 2925,
+                        "y": 1325
+                    }
+                },
+                {
+                    "key": "Puppet1",
+                    "spriteClass": "mc_level2_puppet1",
+                    "location": {
+                        "x": 3225,
+                        "y": 1325
+                    }
+                },
+                {
+                    "key": "Puppet1",
+                    "spriteClass": "mc_level2_puppet1",
+                    "location": {
+                        "x": 3125,
+                        "y": 1175
+                    }
+                },
+                {
+                    "key": "Puppet1",
+                    "spriteClass": "mc_level2_puppet1",
+                    "location": {
+                        "x": 3425,
+                        "y": 1525
+                    }
+                },
+                {
+                    "key": "Puppet2",
+                    "spriteClass": "mc_level2_puppet2",
+                    "location": {
+                        "x": 3575,
+                        "y": 1525
+                    }
+                },
+                {
+                    "key": "Puppet1",
+                    "spriteClass": "mc_level2_puppet1",
+                    "location": {
+                        "x": 3725,
+                        "y": 1525
+                    }
+                },
+                {
+                    "key": "Puppet1",
+                    "spriteClass": "mc_level2_puppet1",
+                    "location": {
+                        "x": 4025,
+                        "y": 1225
+                    }
+                },
+                {
+                    "key": "Puppet1",
+                    "spriteClass": "mc_level2_puppet1",
+                    "location": {
+                        "x": 4475,
+                        "y": 1525
+                    }
+                },
+                {
+                    "key": "Puppet1",
+                    "spriteClass": "mc_level2_puppet1",
+                    "location": {
+                        "x": 4675,
+                        "y": 1525
+                    }
+                },
+                {
+                    "key": "Puppet2",
+                    "spriteClass": "mc_level2_puppet2",
+                    "location": {
+                        "x": 6025,
+                        "y": 1325
+                    }
+                },
+                {
+                    "key": "Puppet2",
+                    "spriteClass": "mc_level2_puppet2",
+                    "location": {
+                        "x": 6125,
+                        "y": 1325
+                    }
+                },
+                {
+                    "key": "Puppet1",
+                    "spriteClass": "mc_level2_puppet1",
+                    "location": {
+                        "x": 6775,
+                        "y": 1325
+                    }
+                },
+                {
+                    "key": "Puppet1",
+                    "spriteClass": "mc_level2_puppet1",
+                    "location": {
+                        "x": 6875,
+                        "y": 1325
+                    }
+                },
+                {
+                    "key": "Puppet1",
+                    "spriteClass": "mc_level2_puppet1",
+                    "location": {
+                        "x": 6625,
+                        "y": 1175
+                    }
+                },
+                {
+                    "key": "Puppet1",
+                    "spriteClass": "mc_level2_puppet1",
+                    "location": {
+                        "x": 6275,
+                        "y": 1325
+                    }
+                },
+                {
+                    "key": "Puppet1",
+                    "spriteClass": "mc_level2_puppet1",
+                    "location": {
+                        "x": 6375,
+                        "y": 1325
+                    }
+                },
+                {
+                    "key": "Puppet1",
+                    "spriteClass": "mc_level2_puppet1",
+                    "location": {
+                        "x": 5775,
+                        "y": 1475
+                    }
+                },
+                {
+                    "key": "Puppet1",
+                    "spriteClass": "mc_level2_puppet1",
+                    "location": {
+                        "x": 5525,
+                        "y": 1175
+                    }
+                },
+                {
+                    "key": "Puppet1",
+                    "spriteClass": "mc_level2_puppet1",
+                    "location": {
+                        "x": 5775,
+                        "y": 1175
+                    }
+                },
+                {
+                    "key": "Puppet1",
+                    "spriteClass": "mc_level2_puppet1",
+                    "location": {
+                        "x": 5425,
+                        "y": 1175
+                    }
+                },
+                {
+                    "key": "Puppet1",
+                    "spriteClass": "mc_level2_puppet1",
+                    "location": {
+                        "x": 5275,
+                        "y": 1325
+                    }
+                },
+                {
+                    "key": "Puppet1",
+                    "spriteClass": "mc_level2_puppet1",
+                    "location": {
+                        "x": 5025,
+                        "y": 1325
+                    }
+                },
+                {
+                    "key": "Puppet2",
+                    "spriteClass": "mc_level2_puppet2",
+                    "location": {
+                        "x": 5175,
+                        "y": 1325
+                    }
+                },
+                {
+                    "key": "Puppet2",
+                    "spriteClass": "mc_level2_puppet2",
+                    "location": {
+                        "x": 4925,
+                        "y": 1325
+                    }
+                },
+                {
+                    "key": "Puppet2",
+                    "spriteClass": "mc_level2_puppet2",
+                    "location": {
+                        "x": 875,
+                        "y": 1475
+                    }
+                },
+                {
+                    "key": "Puppet1",
+                    "spriteClass": "mc_level2_puppet1",
+                    "location": {
+                        "x": 675,
+                        "y": 1475
+                    }
+                },
+                {
+                    "key": "Puppet2",
+                    "spriteClass": "mc_level2_puppet2",
+                    "location": {
+                        "x": 775,
+                        "y": 1325
+                    }
+                },
+                {
+                    "key": "Puppet2",
+                    "spriteClass": "mc_level2_puppet2",
+                    "location": {
+                        "x": 1325,
+                        "y": 1525
+                    }
+                },
+                {
+                    "key": "Puppet2",
+                    "spriteClass": "mc_level2_puppet2",
+                    "location": {
+                        "x": 8875,
+                        "y": 1475
+                    }
+                },
+                {
+                    "key": "Puppet2",
+                    "spriteClass": "mc_level2_puppet2",
+                    "location": {
+                        "x": 8675,
+                        "y": 1475
+                    }
+                },
+                {
+                    "key": "Puppet2",
+                    "spriteClass": "mc_level2_puppet2",
+                    "location": {
+                        "x": 8925,
+                        "y": 1325
+                    }
+                },
+                {
+                    "key": "Puppet2",
+                    "spriteClass": "mc_level2_puppet2",
+                    "location": {
+                        "x": 9225,
+                        "y": 1225
+                    }
+                },
+                {
+                    "key": "Puppet1",
+                    "spriteClass": "mc_level2_puppet1",
+                    "location": {
+                        "x": 8625,
+                        "y": 1475
+                    }
+                },
+                {
+                    "key": "Puppet1",
+                    "spriteClass": "mc_level2_puppet1",
+                    "location": {
+                        "x": 8825,
+                        "y": 1325
+                    }
+                },
+                {
+                    "key": "Puppet1",
+                    "spriteClass": "mc_level2_puppet1",
+                    "location": {
+                        "x": 8875,
+                        "y": 1325
+                    }
+                },
+                {
+                    "key": "Puppet1",
+                    "spriteClass": "mc_level2_puppet1",
+                    "location": {
+                        "x": 9175,
+                        "y": 1225
+                    }
+                },
+                {
+                    "key": "Puppet1",
+                    "spriteClass": "mc_level2_puppet1",
+                    "location": {
+                        "x": 9125,
+                        "y": 1225
+                    }
+                },
+                {
+                    "key": "Puppet1",
+                    "spriteClass": "mc_level2_puppet1",
+                    "location": {
+                        "x": 8825,
+                        "y": 1475
+                    }
+                },
+                {
+                    "key": "Puppet1",
+                    "spriteClass": "mc_level2_puppet1",
+                    "location": {
+                        "x": 8725,
+                        "y": 1475
+                    }
+                },
+                {
+                    "key": "Puppet2",
+                    "spriteClass": "mc_level2_puppet2",
+                    "location": {
+                        "x": 8775,
+                        "y": 1475
+                    }
+                },
+                {
+                    "key": "Puppet1",
+                    "spriteClass": "mc_level2_puppet1",
+                    "location": {
+                        "x": 9275,
+                        "y": 1225
+                    }
+                },
+                {
+                    "key": "Puppet1",
+                    "spriteClass": "mc_level2_puppet1",
+                    "location": {
+                        "x": 9375,
+                        "y": 1225
+                    }
+                },
+                {
+                    "key": "Puppet2",
+                    "spriteClass": "mc_level2_puppet2",
+                    "location": {
+                        "x": 9325,
+                        "y": 1225
+                    }
+                },
+                {
+                    "key": "Puppet2",
+                    "spriteClass": "mc_level2_puppet2",
+                    "location": {
+                        "x": 9425,
+                        "y": 1225
+                    }
+                },
+                {
+                    "key": "Puppet2",
+                    "spriteClass": "mc_level2_puppet2",
+                    "location": {
+                        "x": 9475,
+                        "y": 1225
+                    }
+                },
+                {
+                    "key": "Puppet2",
+                    "spriteClass": "mc_level2_puppet2",
+                    "location": {
+                        "x": 9375,
+                        "y": 1525
+                    }
+                },
+                {
+                    "key": "Puppet2",
+                    "spriteClass": "mc_level2_puppet2",
+                    "location": {
+                        "x": 9425,
+                        "y": 1525
+                    }
+                },
+                {
+                    "key": "Puppet1",
+                    "spriteClass": "mc_level2_puppet1",
+                    "location": {
+                        "x": 9625,
+                        "y": 1525
+                    }
+                },
+                {
+                    "key": "Puppet1",
+                    "spriteClass": "mc_level2_puppet1",
+                    "location": {
+                        "x": 9675,
+                        "y": 1525
+                    }
+                },
+                {
+                    "key": "Puppet1",
+                    "spriteClass": "mc_level2_puppet1",
+                    "location": {
+                        "x": 9725,
+                        "y": 1525
+                    }
+                },
+                {
+                    "key": "Puppet2",
+                    "spriteClass": "mc_level2_puppet2",
+                    "location": {
+                        "x": 3175,
+                        "y": 1525
+                    }
+                },
+                {
+                    "key": "Puppet2",
+                    "spriteClass": "mc_level2_puppet2",
+                    "location": {
+                        "x": 3275,
+                        "y": 1525
+                    }
+                },
+                {
+                    "key": "Puppet2",
+                    "spriteClass": "mc_level2_puppet2",
+                    "location": {
+                        "x": 4175,
+                        "y": 1525
+                    }
+                },
+                {
+                    "key": "Puppet2",
+                    "spriteClass": "mc_level2_puppet2",
+                    "location": {
+                        "x": 5575,
+                        "y": 1475
+                    }
+                },
+                {
+                    "key": "Puppet1",
+                    "spriteClass": "mc_level2_puppet1",
+                    "location": {
+                        "x": 10125,
+                        "y": 1525
+                    }
+                },
+                {
+                    "key": "Puppet2",
+                    "spriteClass": "mc_level2_puppet2",
+                    "location": {
+                        "x": 2275,
+                        "y": 1525
+                    }
+                },
+                {
+                    "key": "Puppet1",
+                    "spriteClass": "mc_level2_puppet1",
+                    "location": {
+                        "x": 2675,
+                        "y": 1525
+                    }
+                },
+                {
+                    "key": "Puppet2",
+                    "spriteClass": "mc_level2_puppet2",
+                    "location": {
+                        "x": 6575,
+                        "y": 1525
+                    }
+                },
+                {
+                    "key": "Puppet2",
+                    "spriteClass": "mc_level2_puppet2",
+                    "location": {
+                        "x": 7075,
+                        "y": 1525
+                    }
+                }
+            ]
+        }
+    ]
+}

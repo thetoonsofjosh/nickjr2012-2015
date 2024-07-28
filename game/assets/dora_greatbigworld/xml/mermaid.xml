@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Settings>
+	
+	<BonusStickers>
+		<!-- 
+			name	: The stickerID returned from the server
+			value	: A frame label in the bonus sticker.  Should be all lower case.
+			type	: "character" if the sticker appears in the characters tab.  "environment" if the character appears in the environments tab.
+		-->
+		
+                <Sticker name="144712" value="dorabubblefish" type="character"/>
+                <Sticker name="144713" value="chickenfish" type="character"/>
+                <Sticker name="144714" value="dorahopscotch" type="character"/>
+                <Sticker name="144715" value="merman" type="character"/>
+	</BonusStickers>
+	
+	<SwfsToLoad>		
+		<SwfToLoad id="coreStickers" path="chr_mermaid.swf" target="none"/>
+		<SwfToLoad id="environmentStickers" path="env_mermaid.swf" target="none"/>
+		<SwfToLoad id="fontLibrary" path="font/fontEnglish.swf" target="none"/>
+		
+		<SwfToLoad id="music" path="music_mermaid.swf" target="none"/>
+	</SwfsToLoad>
+	
+	<SwfsToLoadInBG>
+		
+	</SwfsToLoadInBG>
+	
+	<SoundsToLoad dir="mp3/">		
+		
+		<!-- rollover vo 
+		<sound path="DW_17.mp3"  list="skip_btn"/>
+		-->
+		<!-- sticker scene rollover vo -->
+		
+		<sound path="DW_82.mp3"  list="roll_mappy_btn"/>
+		<sound path="DW_83.mp3"  list="roll_print_btn"/>
+		<sound path="DW_84.mp3"  list="roll_help_btn"/>
+		<sound path="DW_84b.mp3"  list="roll_clearAll_btn"/>
+		<sound path="DW_95.mp3"  list="roll_closebutton"/>
+		<sound path="DW_85.mp3"  list="roll_objects_tab"/>
+		<sound path="DW_86.mp3"  list="roll_characters_tab"/>
+		<sound path="DW_87.mp3"  list="roll_scale"/>
+		<sound path="DW_88.mp3"  list="roll_animate"/>
+		
+		<sound path="DW_90.mp3"  list="roll_magnifying_mc"/>
+		<sound path="DW_91h.mp3"  list="roll_underwaterflashlight_mc"/>
+		<sound path="DW_91i.mp3"  list="roll_necklace_mc"/>
+		
+		
+		<sound path="DW_92.mp3"  list="roll_minigame_mc"/>
+		<sound path="DW_23.mp3"  list="roll_loginRegister_btn"/>
+		<sound path="DW_24.mp3"  list="roll_freeplay_btn"/>
+		<sound path="DW_24a.mp3"  list="roll_adduser_mc"/>
+		<sound path="DW_104.mp3"  list="roll_yes_mc"/>
+		<sound path="DW_105.mp3"  list="roll_no_mc"/>
+		<sound path="DW_3.mp3"  list="roll_startButton_mc"/>
+		
+	
+			
+		<!-- erase everything -->
+		<sound path="DW_103.mp3"  list="DoraSticker_ConfirmClear_Sentence_0"  meta=""/>
+		
+		<!-- print menu -->
+		<sound path="DW_93.mp3"  list="DoraSticker_PrintMenu_Sentence_0"  meta="print_color"/>
+		<sound path="DW_94.mp3"  list="DoraSticker_PrintMenu_Sentence_0"  meta="print_bw"/>
+		
+		
+		<!-- first tool gotten -->
+		<sound path="DW_128b.mp3"  list="dora_toolpickup_magnifying"/>
+		<sound path="DW_155.mp3"  list="dora_toolpickup_underwaterflashlight"/>
+		<sound path="DW_154.mp3"  list="dora_toolpickup_necklace"/>
+		
+		
+		<sound path="DW_126h.mp3"  list="noDora_toolpickup_underwaterflashlight"/>
+		<sound path="DW_126i.mp3"  list="noDora_toolpickup_necklace"/>
+		<sound path="DW_126c.mp3"  list="noDora_toolpickup_magnifying"/>
+		
+		
+		
+		
+		
+		<!-- sticker reward vo -->
+		
+		<sound path="DoraChorusChunkNew.mp3"  list="sticker_dora1"  meta="sticker"/>
+		<sound path="DW_96.mp3"  list="Reward_0"  meta=""/>
+		<sound path="DW_97.mp3"  list="Reward_1"  meta=""/>
+		<sound path="DW_98.mp3"  list="Reward_2"  meta=""/>
+		<sound path="DW_99.mp3"  list="Reward_3"  meta=""/>
+		<sound path="DW_100.mp3"  list="Reward_4"  meta=""/>
+		<sound path="DW_101.mp3"  list="Reward_5"  meta=""/>
+		<sound path="DW_102.mp3"  list="Reward_6"  meta=""/>
+		
+		
+		<sound path="DW_306ex.mp3"  list="isagardenhoe_sticker"  meta="sticker"/>
+		<sound path="DW_309ex.mp3"  list="dora_dandelion"  meta="sticker"/>
+		<sound path="DW_307aex.mp3"  list="sticker_gardeningGloves"  meta="sticker"/>
+			
+			
+		<sound path="giggle100.mp3"  list="sticker_doramermaid"  meta="sticker"/>
+		<sound path="hopscotch100.mp3"  list="sticker_dorahopscotch"  meta="sticker"/>
+
+		<!-- explore tools localization VO -->
+		<sound path="HeartStar100.mp3"  list="explore_inset_magnifying_1"  meta="explore"/>
+		<sound path="F_isForFish100.mp3"  list="explore_inset_magnifying_3"  meta="explore"/>
+		<sound path="Rojo100.mp3"  list="explore_inset_flashlight_0"  meta="explore"/>
+		<sound path="Starfish100.mp3"  list="explore_inset_flashlight_3"  meta="explore"/>
+		<sound path="Kelp100.mp3"  list="explore_inset_necklace_0"  meta="explore"/>
+		<sound path="oct100.mp3"  list="explore_inset_necklace_2"  meta="explore"/>
+
+	</SoundsToLoad>	
+	
+	<Configs>
+		<!-- values are...
+			"always" - Always show the minigame button.
+			"never" - Never show the minigame button.
+			"normal" - Show or do not show the button by the normal rules.
+		-->
+		<Config name="showMinigameOverride" value="always"/>
+		<Config name="showToolsOverride" value="always"/>
+ 		<!--
+			'always' - Always show bonus stickers.
+			'normal' - Only show bonus stickers if they're logged in.
+		-->
+		<Config name="showBonusStickersOverride" value="always"/>
+		
+		<Config name="minigameURL" value="/game/assets/dora_mermaid/mermaid_as3bridge.swf" />
+		<Config name="minigameCMSID" value="dora-mermaid-adventure" />
+		
+		
+		<Config name="standalone" value="true"/>
+golf_as3bridge.swf" />
+		-->
+-->
+
+		<!--  
+		
+			Debug setting.  If the tools are visible, set this "true" to make them non-clickable 
+		
+		<Config name="exploreToolsClickable" value="false"/>
+		-->	
+			
+		<Config name="unexpectedTools" value="underwaterflashlight_mc,necklace_mc"/>
+		
+		<Config name="enableDatabaseCalls" value="true"/>
+	</Configs>
+
+</Settings>

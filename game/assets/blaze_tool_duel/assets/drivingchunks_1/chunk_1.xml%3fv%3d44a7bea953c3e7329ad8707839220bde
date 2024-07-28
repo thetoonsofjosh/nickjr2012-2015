@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ChunkLayout Width="3840" Height="1536">
+  <CollisionSegments>
+    <CollisionSegment X0="512" Y0="1535" X1="639" Y1="1408" CSType="Road">
+    </CollisionSegment>
+    <CollisionSegment X0="639" Y0="1408" X1="639" Y1="1535" CSType="Road">
+    </CollisionSegment>
+    <CollisionSegment X0="768" Y0="1280" X1="1024" Y1="1280" CSType="Road">
+    </CollisionSegment>
+    <CollisionSegment X0="1024" Y0="1280" X1="1024" Y1="1535" CSType="Road">
+    </CollisionSegment>
+    <CollisionSegment X0="640" Y0="1408" X1="767" Y1="1281" CSType="Ramp">
+    </CollisionSegment>
+    <CollisionSegment X0="767" Y0="1281" X1="767" Y1="1535" CSType="Ramp">
+    </CollisionSegment>
+  </CollisionSegments>
+  <Placements>
+    <Placement X="50" Y="1427" PlacementType="Tool">
+    </Placement>
+    <Placement X="818" Y="1171" PlacementType="Tool">
+    </Placement>
+    <Placement X="946" Y="1171" PlacementType="Tool">
+    </Placement>
+    <Placement X="1522" Y="1299" PlacementType="Tool">
+    </Placement>
+    <Placement X="1970" Y="1427" PlacementType="Tool">
+    </Placement>
+    <Placement X="2162" Y="1427" PlacementType="Tool">
+    </Placement>
+    <Placement X="2354" Y="1299" PlacementType="Tool">
+    </Placement>
+    <Placement X="2546" Y="1299" PlacementType="Tool">
+    </Placement>
+    <Placement X="2738" Y="1299" PlacementType="Tool">
+    </Placement>
+    <Placement X="2930" Y="1299" PlacementType="Tool">
+    </Placement>
+    <Placement X="2319" Y="1536" PlacementType="EnemyMud">
+    </Placement>
+  </Placements>
+</ChunkLayout>

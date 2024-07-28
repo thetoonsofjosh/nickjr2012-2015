@@ -1,0 +1,1725 @@
+{
+    "world": {
+        "width": 22500,
+        "x": 0,
+        "y": 11,
+        "height": 375,
+        "gridWidth": 150,
+        "gridHeight": 148,
+        "cameraOffsetX": -430,
+        "cameraOffsetY": 0
+    },
+    "layers": [
+        {
+            "key": "BG",
+            "parallax": false,
+            "edit": false,
+            "objects": [
+                {
+                    "key": "Level3BG",
+                    "tile": true,
+                    "spriteID": "mc_bg_level3",
+                    "spriteBounds": {
+                        "x": 0,
+                        "y": 0
+                    }
+                }
+            ]
+        },
+        {
+            "key": "Objects",
+            "parallax": false,
+            "edit": true,
+            "objects": [
+                {
+                    "collision": "region",
+                    "spriteID": "mc_speed_icon3",
+                    "spriteBounds": {
+                        "x": 3900,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": -23,
+                        "y": 131,
+                        "width": 230,
+                        "height": 70
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_instrument1",
+                    "spriteBounds": {
+                        "x": 4650,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_instrument1",
+                    "spriteBounds": {
+                        "x": 1350,
+                        "y": 307
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_instrument2",
+                    "spriteBounds": {
+                        "x": 1800,
+                        "y": 307
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_instrument3",
+                    "spriteBounds": {
+                        "x": 2100,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_instrument2",
+                    "spriteBounds": {
+                        "x": 2850,
+                        "y": 11
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_instrument3",
+                    "spriteBounds": {
+                        "x": 3300,
+                        "y": 11
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_instrument2",
+                    "spriteBounds": {
+                        "x": 3600,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "region",
+                    "spriteID": "mc_obstacle6",
+                    "spriteBounds": {
+                        "x": 4350,
+                        "y": 11
+                    },
+                    "hitBounds": {
+                        "x": -7,
+                        "y": 85,
+                        "width": 83,
+                        "height": 100
+                    }
+                },
+                {
+                    "collision": "region",
+                    "spriteID": "mc_obstacle5",
+                    "spriteBounds": {
+                        "x": 4350,
+                        "y": 307
+                    },
+                    "hitBounds": {
+                        "x": -13,
+                        "y": 130,
+                        "width": 268,
+                        "height": 63
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_instrument3",
+                    "spriteBounds": {
+                        "x": 4350,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "region",
+                    "spriteID": "mc_obstacle6",
+                    "spriteBounds": {
+                        "x": 4950,
+                        "y": 307
+                    },
+                    "hitBounds": {
+                        "x": -7,
+                        "y": 85,
+                        "width": 83,
+                        "height": 100
+                    }
+                },
+                {
+                    "collision": "region",
+                    "spriteID": "mc_obstacle6",
+                    "spriteBounds": {
+                        "x": 5550,
+                        "y": 11
+                    },
+                    "hitBounds": {
+                        "x": -7,
+                        "y": 85,
+                        "width": 83,
+                        "height": 100
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_instrument3",
+                    "spriteBounds": {
+                        "x": 5400,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_instrument1",
+                    "spriteBounds": {
+                        "x": 5700,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "region",
+                    "spriteID": "mc_obstacle5",
+                    "spriteBounds": {
+                        "x": 5850,
+                        "y": 307
+                    },
+                    "hitBounds": {
+                        "x": -13,
+                        "y": 130,
+                        "width": 268,
+                        "height": 63
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_instrument2",
+                    "spriteBounds": {
+                        "x": 6000,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_instrument1",
+                    "spriteBounds": {
+                        "x": 6300,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "region",
+                    "spriteID": "mc_obstacle6",
+                    "spriteBounds": {
+                        "x": 6150,
+                        "y": 11
+                    },
+                    "hitBounds": {
+                        "x": -7,
+                        "y": 85,
+                        "width": 83,
+                        "height": 100
+                    }
+                },
+                {
+                    "collision": "region",
+                    "spriteID": "mc_obstacle5",
+                    "spriteBounds": {
+                        "x": 6600,
+                        "y": 11
+                    },
+                    "hitBounds": {
+                        "x": -13,
+                        "y": 130,
+                        "width": 268,
+                        "height": 63
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_instrument3",
+                    "spriteBounds": {
+                        "x": 7200,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_instrument1",
+                    "spriteBounds": {
+                        "x": 7950,
+                        "y": 11
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "region",
+                    "spriteID": "mc_obstacle6",
+                    "spriteBounds": {
+                        "x": 8700,
+                        "y": 307
+                    },
+                    "hitBounds": {
+                        "x": -7,
+                        "y": 85,
+                        "width": 83,
+                        "height": 100
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_instrument1",
+                    "spriteBounds": {
+                        "x": 8850,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "region",
+                    "spriteID": "mc_obstacle6",
+                    "spriteBounds": {
+                        "x": 9300,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": -7,
+                        "y": 85,
+                        "width": 83,
+                        "height": 100
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_instrument3",
+                    "spriteBounds": {
+                        "x": 9150,
+                        "y": 11
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_instrument2",
+                    "spriteBounds": {
+                        "x": 9450,
+                        "y": 11
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "region",
+                    "spriteID": "mc_obstacle5",
+                    "spriteBounds": {
+                        "x": 10050,
+                        "y": 11
+                    },
+                    "hitBounds": {
+                        "x": -13,
+                        "y": 130,
+                        "width": 268,
+                        "height": 63
+                    }
+                },
+                {
+                    "collision": "region",
+                    "spriteID": "mc_obstacle6",
+                    "spriteBounds": {
+                        "x": 10350,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": -7,
+                        "y": 85,
+                        "width": 83,
+                        "height": 100
+                    }
+                },
+                {
+                    "collision": "region",
+                    "spriteID": "mc_obstacle6",
+                    "spriteBounds": {
+                        "x": 10500,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": -7,
+                        "y": 85,
+                        "width": 83,
+                        "height": 100
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_instrument2",
+                    "spriteBounds": {
+                        "x": 10800,
+                        "y": 307
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_instrument3",
+                    "spriteBounds": {
+                        "x": 11100,
+                        "y": 307
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_instrument1",
+                    "spriteBounds": {
+                        "x": 11400,
+                        "y": 307
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_instrument1",
+                    "spriteBounds": {
+                        "x": 11550,
+                        "y": 307
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "region",
+                    "spriteID": "mc_obstacle6",
+                    "spriteBounds": {
+                        "x": 10800,
+                        "y": 11
+                    },
+                    "hitBounds": {
+                        "x": -7,
+                        "y": 85,
+                        "width": 83,
+                        "height": 100
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_instrument2",
+                    "spriteBounds": {
+                        "x": 11850,
+                        "y": 307
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_instrument3",
+                    "spriteBounds": {
+                        "x": 12300,
+                        "y": 307
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "region",
+                    "spriteID": "mc_obstacle6",
+                    "spriteBounds": {
+                        "x": 11700,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": -7,
+                        "y": 85,
+                        "width": 83,
+                        "height": 100
+                    }
+                },
+                {
+                    "collision": "region",
+                    "spriteID": "mc_obstacle6",
+                    "spriteBounds": {
+                        "x": 12900,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": -7,
+                        "y": 85,
+                        "width": 83,
+                        "height": 100
+                    }
+                },
+                {
+                    "collision": "region",
+                    "spriteID": "mc_obstacle6",
+                    "spriteBounds": {
+                        "x": 13500,
+                        "y": 11
+                    },
+                    "hitBounds": {
+                        "x": -7,
+                        "y": 85,
+                        "width": 83,
+                        "height": 100
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_instrument1",
+                    "spriteBounds": {
+                        "x": 14550,
+                        "y": 11
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_instrument3",
+                    "spriteBounds": {
+                        "x": 14850,
+                        "y": 11
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_instrument2",
+                    "spriteBounds": {
+                        "x": 15000,
+                        "y": 11
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "region",
+                    "spriteID": "mc_obstacle6",
+                    "spriteBounds": {
+                        "x": 1650,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": -7,
+                        "y": 85,
+                        "width": 83,
+                        "height": 100
+                    }
+                },
+                {
+                    "collision": "region",
+                    "spriteID": "mc_obstacle5",
+                    "spriteBounds": {
+                        "x": 2100,
+                        "y": 11
+                    },
+                    "hitBounds": {
+                        "x": -13,
+                        "y": 130,
+                        "width": 268,
+                        "height": 63
+                    }
+                },
+                {
+                    "collision": "region",
+                    "spriteID": "mc_obstacle6",
+                    "spriteBounds": {
+                        "x": 2550,
+                        "y": 307
+                    },
+                    "hitBounds": {
+                        "x": -7,
+                        "y": 85,
+                        "width": 83,
+                        "height": 100
+                    }
+                },
+                {
+                    "collision": "region",
+                    "spriteID": "mc_obstacle6",
+                    "spriteBounds": {
+                        "x": 3000,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": -7,
+                        "y": 85,
+                        "width": 83,
+                        "height": 100
+                    }
+                },
+                {
+                    "collision": "region",
+                    "spriteID": "mc_obstacle6",
+                    "spriteBounds": {
+                        "x": 3750,
+                        "y": 11
+                    },
+                    "hitBounds": {
+                        "x": -7,
+                        "y": 85,
+                        "width": 83,
+                        "height": 100
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_instrument2",
+                    "spriteBounds": {
+                        "x": 2250,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_instrument1",
+                    "spriteBounds": {
+                        "x": 2550,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_instrument1",
+                    "spriteBounds": {
+                        "x": 3450,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_instrument3",
+                    "spriteBounds": {
+                        "x": 3150,
+                        "y": 11
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "region",
+                    "spriteID": "mc_obstacle6",
+                    "spriteBounds": {
+                        "x": 4950,
+                        "y": 11
+                    },
+                    "hitBounds": {
+                        "x": -7,
+                        "y": 85,
+                        "width": 83,
+                        "height": 100
+                    }
+                },
+                {
+                    "collision": "region",
+                    "spriteID": "mc_obstacle6",
+                    "spriteBounds": {
+                        "x": 15000,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": -7,
+                        "y": 85,
+                        "width": 83,
+                        "height": 100
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_instrument3",
+                    "spriteBounds": {
+                        "x": 6600,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_instrument2",
+                    "spriteBounds": {
+                        "x": 6900,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "region",
+                    "spriteID": "mc_obstacle6",
+                    "spriteBounds": {
+                        "x": 7200,
+                        "y": 307
+                    },
+                    "hitBounds": {
+                        "x": -7,
+                        "y": 85,
+                        "width": 83,
+                        "height": 100
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_instrument2",
+                    "spriteBounds": {
+                        "x": 4950,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_instrument3",
+                    "spriteBounds": {
+                        "x": 7500,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "region",
+                    "spriteID": "mc_obstacle5",
+                    "spriteBounds": {
+                        "x": 7950,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": -13,
+                        "y": 130,
+                        "width": 268,
+                        "height": 63
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_instrument2",
+                    "spriteBounds": {
+                        "x": 7650,
+                        "y": 11
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_instrument3",
+                    "spriteBounds": {
+                        "x": 8250,
+                        "y": 11
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_instrument2",
+                    "spriteBounds": {
+                        "x": 8550,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "region",
+                    "spriteID": "mc_speed_icon3",
+                    "spriteBounds": {
+                        "x": 10350,
+                        "y": 307
+                    },
+                    "hitBounds": {
+                        "x": -23,
+                        "y": 131,
+                        "width": 230,
+                        "height": 70
+                    }
+                },
+                {
+                    "collision": "region",
+                    "spriteID": "mc_obstacle5",
+                    "spriteBounds": {
+                        "x": 12000,
+                        "y": 11
+                    },
+                    "hitBounds": {
+                        "x": -13,
+                        "y": 130,
+                        "width": 268,
+                        "height": 63
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_instrument1",
+                    "spriteBounds": {
+                        "x": 12600,
+                        "y": 307
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_instrument2",
+                    "spriteBounds": {
+                        "x": 12900,
+                        "y": 307
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_instrument3",
+                    "spriteBounds": {
+                        "x": 13200,
+                        "y": 307
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_instrument1",
+                    "spriteBounds": {
+                        "x": 13500,
+                        "y": 307
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_instrument2",
+                    "spriteBounds": {
+                        "x": 13800,
+                        "y": 307
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_instrument3",
+                    "spriteBounds": {
+                        "x": 14250,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "region",
+                    "spriteID": "mc_obstacle6",
+                    "spriteBounds": {
+                        "x": 14550,
+                        "y": 307
+                    },
+                    "hitBounds": {
+                        "x": -7,
+                        "y": 85,
+                        "width": 83,
+                        "height": 100
+                    }
+                },
+                {
+                    "collision": "region",
+                    "spriteID": "mc_obstacle5",
+                    "spriteBounds": {
+                        "x": 15300,
+                        "y": 307
+                    },
+                    "hitBounds": {
+                        "x": -13,
+                        "y": 130,
+                        "width": 268,
+                        "height": 63
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_instrument3",
+                    "spriteBounds": {
+                        "x": 14400,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_instrument3",
+                    "spriteBounds": {
+                        "x": 15300,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_instrument1",
+                    "spriteBounds": {
+                        "x": 15450,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "region",
+                    "spriteID": "mc_obstacle6",
+                    "spriteBounds": {
+                        "x": 17850,
+                        "y": 307
+                    },
+                    "hitBounds": {
+                        "x": -7,
+                        "y": 85,
+                        "width": 83,
+                        "height": 100
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_instrument3",
+                    "spriteBounds": {
+                        "x": 17850,
+                        "y": 11
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_instrument1",
+                    "spriteBounds": {
+                        "x": 18450,
+                        "y": 11
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_instrument3",
+                    "spriteBounds": {
+                        "x": 18750,
+                        "y": 11
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "region",
+                    "spriteID": "mc_obstacle6",
+                    "spriteBounds": {
+                        "x": 19350,
+                        "y": 307
+                    },
+                    "hitBounds": {
+                        "x": -7,
+                        "y": 85,
+                        "width": 83,
+                        "height": 100
+                    }
+                },
+                {
+                    "collision": "region",
+                    "spriteID": "mc_obstacle6",
+                    "spriteBounds": {
+                        "x": 18900,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": -7,
+                        "y": 85,
+                        "width": 83,
+                        "height": 100
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_instrument2",
+                    "spriteBounds": {
+                        "x": 19050,
+                        "y": 11
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_instrument2",
+                    "spriteBounds": {
+                        "x": 14700,
+                        "y": 11
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "region",
+                    "spriteID": "mc_obstacle6",
+                    "spriteBounds": {
+                        "x": 15750,
+                        "y": 11
+                    },
+                    "hitBounds": {
+                        "x": -7,
+                        "y": 85,
+                        "width": 83,
+                        "height": 100
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_instrument2",
+                    "spriteBounds": {
+                        "x": 15750,
+                        "y": 307
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_instrument3",
+                    "spriteBounds": {
+                        "x": 16200,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_instrument2",
+                    "spriteBounds": {
+                        "x": 16350,
+                        "y": 11
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_instrument1",
+                    "spriteBounds": {
+                        "x": 19350,
+                        "y": 11
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_instrument3",
+                    "spriteBounds": {
+                        "x": 19650,
+                        "y": 11
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_instrument2",
+                    "spriteBounds": {
+                        "x": 19950,
+                        "y": 11
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "region",
+                    "spriteID": "mc_obstacle5",
+                    "spriteBounds": {
+                        "x": 19950,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": -13,
+                        "y": 130,
+                        "width": 268,
+                        "height": 63
+                    }
+                },
+                {
+                    "collision": "region",
+                    "spriteID": "mc_obstacle6",
+                    "spriteBounds": {
+                        "x": 20700,
+                        "y": 307
+                    },
+                    "hitBounds": {
+                        "x": -7,
+                        "y": 85,
+                        "width": 83,
+                        "height": 100
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_instrument1",
+                    "spriteBounds": {
+                        "x": 20250,
+                        "y": 11
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_instrument3",
+                    "spriteBounds": {
+                        "x": 16950,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "region",
+                    "spriteID": "mc_obstacle6",
+                    "spriteBounds": {
+                        "x": 16500,
+                        "y": 307
+                    },
+                    "hitBounds": {
+                        "x": -7,
+                        "y": 85,
+                        "width": 83,
+                        "height": 100
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_instrument2",
+                    "spriteBounds": {
+                        "x": 17550,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_instrument1",
+                    "spriteBounds": {
+                        "x": 17400,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_instrument3",
+                    "spriteBounds": {
+                        "x": 17250,
+                        "y": 307
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_instrument2",
+                    "spriteBounds": {
+                        "x": 17100,
+                        "y": 307
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_instrument1",
+                    "spriteBounds": {
+                        "x": 17700,
+                        "y": 11
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "region",
+                    "spriteID": "mc_obstacle6",
+                    "spriteBounds": {
+                        "x": 18150,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": -7,
+                        "y": 85,
+                        "width": 83,
+                        "height": 100
+                    }
+                },
+                {
+                    "collision": "region",
+                    "spriteID": "mc_speed_icon3",
+                    "spriteBounds": {
+                        "x": 18000,
+                        "y": 11
+                    },
+                    "hitBounds": {
+                        "x": -23,
+                        "y": 131,
+                        "width": 230,
+                        "height": 70
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_instrument3",
+                    "spriteBounds": {
+                        "x": 20550,
+                        "y": 11
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_instrument2",
+                    "spriteBounds": {
+                        "x": 20850,
+                        "y": 11
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_instrument3",
+                    "spriteBounds": {
+                        "x": 21150,
+                        "y": 11
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_instrument1",
+                    "spriteBounds": {
+                        "x": 21450,
+                        "y": 11
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_instrument2",
+                    "spriteBounds": {
+                        "x": 21750,
+                        "y": 11
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_instrument3",
+                    "spriteBounds": {
+                        "x": 22050,
+                        "y": 11
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "region",
+                    "spriteID": "mc_obstacle6",
+                    "spriteBounds": {
+                        "x": 21450,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": -7,
+                        "y": 85,
+                        "width": 83,
+                        "height": 100
+                    }
+                },
+                {
+                    "collision": "region",
+                    "spriteID": "mc_obstacle6",
+                    "spriteBounds": {
+                        "x": 21900,
+                        "y": 307
+                    },
+                    "hitBounds": {
+                        "x": -7,
+                        "y": 85,
+                        "width": 83,
+                        "height": 100
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_instrument3",
+                    "spriteBounds": {
+                        "x": 9900,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_instrument1",
+                    "spriteBounds": {
+                        "x": 9750,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_instrument2",
+                    "spriteBounds": {
+                        "x": 10050,
+                        "y": 307
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "region",
+                    "spriteID": "mc_obstacle5",
+                    "spriteBounds": {
+                        "x": 13950,
+                        "y": 11
+                    },
+                    "hitBounds": {
+                        "x": -13,
+                        "y": 130,
+                        "width": 268,
+                        "height": 63
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_instrument1",
+                    "spriteBounds": {
+                        "x": 16050,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_instrument3",
+                    "spriteBounds": {
+                        "x": 16500,
+                        "y": 11
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_instrument1",
+                    "spriteBounds": {
+                        "x": 16650,
+                        "y": 11
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                },
+                {
+                    "collision": "gameCollectibles",
+                    "spriteID": "mc_instrument3",
+                    "spriteBounds": {
+                        "x": 18300,
+                        "y": 11
+                    },
+                    "hitBounds": {
+                        "x": 33,
+                        "y": 85,
+                        "width": 29,
+                        "height": 37
+                    }
+                }
+            ]
+        },
+        {
+            "key": "Hero",
+            "parallax": false,
+            "edit": false,
+            "objects": [
+                {
+                    "key": "Dora3",
+                    "collision": "player",
+                    "spriteID": "mc_dora_rowboat",
+                    "spriteBounds": {
+                        "x": 80,
+                        "y": 159
+                    },
+                    "hitBounds": {
+                        "x": 10,
+                        "y": 95,
+                        "width": 200,
+                        "height": 63
+                    }
+                }
+            ]
+        }
+    ]
+}

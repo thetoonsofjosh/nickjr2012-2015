@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Scene Width="3840" Height="1920" Name="chunk_9_layout.xml">
+  <ImageDefs>
+    <Image ImageName="gp_ramp_02" X="1984" Y="1408" ImageType="Image" PatternWidth="0" PatternHeight="0" />
+    <Image ImageName="gp_ramp_01" X="576" Y="1408" ImageType="Image" PatternWidth="0" PatternHeight="0" />
+    <Image ImageName="gp_tile_town0_surface" X="0" Y="1536" ImageType="Pattern" PatternWidth="3840" PatternHeight="128" />
+    <Image ImageName="gp_tile_town0_underground" X="0" Y="1664" ImageType="Pattern" PatternWidth="3840" PatternHeight="256" />
+  </ImageDefs>
+</Scene>

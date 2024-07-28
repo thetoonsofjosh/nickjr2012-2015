@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<data>
+
+	<assets>
+
+		<item id="splashscreen" type="swf" url="nickJrMusicGame_splash.swf" />	
+		<item id="endscreen" type="swf" url="nickJrMusicGame_endscreen.swf" />	
+		<item id="tutorial" type="swf" url="nickJrMusicGame_tutorial.swf" />	
+		
+		<!-- general button overs -->
+		<item id="play_btn_over" type="audio" url="audio/vo/Dora_btn_over_play.mp3" /> 	
+		<item id="skip_btn_over" type="audio" url="audio/vo/Dora_btn_over_skip.mp3" />
+		<item id="next_btn_over" type="audio" url="audio/vo/Dora_btn_over_next.mp3" />	
+		<item id="back_btn_over" type="audio" url="audio/vo/Dora_btn_over_back.mp3" />
+		<item id="play_again_btn_over" type="audio" url="audio/vo/Dora_btn_over_play_again.mp3" />
+
+		<!-- song choice screen -->
+		<item id="pick_a_song_prompt" type="audio" url="audio/vo/Dora_pick_song.mp3" />
+		<item id="click_next_prompt" type="audio" url="audio/vo/Dora_tutorial_2.mp3" />
+
+		<item id="song_choice_kudos_1" group="songChoiceKudos" type="audio" url="audio/vo/Dora_kudos_excellent.mp3" />
+		<item id="song_choice_kudos_2" group="songChoiceKudos" type="audio" url="audio/vo/Dora_kudos_good_idea.mp3" />
+		<item id="song_choice_kudos_3" group="songChoiceKudos" type="audio" url="audio/vo/Dora_kudos_great_choice.mp3" />
+		
+		<!-- song title vo -->
+		<item id="songTitle_fbbsong1" type="audio" url="audio/vo/Dora_btn_over_fbb.mp3" />
+		<item id="songTitle_dorasong1" type="audio" url="audio/vo/Dora_btn_over_dora.mp3" />
+		<item id="songTitle_kailansong1" type="audio" url="audio/vo/Dora_btn_over_nhkl.mp3" />
+		<item id="songTitle_umisong1" type="audio" url="audio/vo/Dora_btn_over_umi.mp3" />
+		
+
+			
+		
+	</assets>
+	
+	<tuneInMessage enabled="true" url="tuneInMessage.swf">
+		<message songID="fbbsong1"><![CDATA[Tune in to The Fresh Beat Band on Nick and Nick Jr.]]></message>
+		<message songID="dorasong1"><![CDATA[Tune in to Dora The Explorer on Nick and Nick Jr.]]></message>
+		<message songID="umisong1"><![CDATA[Tune in to Team Umizoomi on Nick and Nick Jr.]]></message>
+		<message songID="kailansong1"><![CDATA[Tune in to Ni Hao, Kai-lan on Nick and Nick Jr.]]></message>
+	</tuneInMessage>
+	
+	<songs>
+		<!-- 
+			Note: instrumentListOrder determines how the instrument tracks appear on screen. 
+			The instrument with an instrumentListOrder of "1" appears as an icon at the top 
+			of the instrument track list.  Highest number is at the bottom.  
+		-->
+		<song id="fbbsong1" src="audio/soundBank_fbbsong1.swf">
+			<voices>
+				<track id="fbbsong1_vox" />				
+			</voices>
+			<instruments>
+				<track id="fbbsong1_guitar" instrumentListOrder="1" instrumentID="guitar" />
+				<track id="fbbsong1_keys" instrumentListOrder="2" instrumentID="keys" />
+				<track id="fbbsong1_bass" instrumentListOrder="3" instrumentID="bass" />
+				<track id="fbbsong1_drums" instrumentListOrder="4" instrumentID="drums" />
+			</instruments>
+		</song>
+
+		<song id="dorasong1" src="audio/soundBank_dorasong1.swf">
+			<voices>
+				<track id="dorasong1_vox" />				
+			</voices>
+			<instruments>
+				<track id="dorasong1_horns" instrumentListOrder="1" instrumentID="horns" />
+				<track id="dorasong1_keys" instrumentListOrder="2" instrumentID="keys" />
+				<track id="dorasong1_tuba" instrumentListOrder="3" instrumentID="tuba" />
+				<track id="dorasong1_percussion" instrumentListOrder="4" instrumentID="percussion" />
+			</instruments>
+		</song>		
+
+		<song id="umisong1" src="audio/soundBank_umisong1.swf">
+			<voices>
+				<track id="umisong1_vox" />				
+			</voices>
+			<instruments>
+				<track id="umisong1_guitar" instrumentListOrder="1" instrumentID="guitar" />
+				<track id="umisong1_keys" instrumentListOrder="2" instrumentID="keys" />
+				<track id="umisong1_bass" instrumentListOrder="3" instrumentID="bass" />
+				<track id="umisong1_drums" instrumentListOrder="4" instrumentID="drums" />
+			</instruments>
+		</song>			
+
+		<song id="kailansong1" src="audio/soundBank_kailansong1.swf">
+			<voices>
+				<track id="kailansong1_vox" />				
+			</voices>
+			<instruments>
+				<track id="kailansong1_guitar" instrumentListOrder="1" instrumentID="guitar" />
+				<track id="kailansong1_keys" instrumentListOrder="2" instrumentID="keys" />
+				<track id="kailansong1_bass" instrumentListOrder="3" instrumentID="bass" />
+				<track id="kailansong1_percussion" instrumentListOrder="4" instrumentID="percussion" />
+			</instruments>
+		</song>			
+		
+	</songs>
+	
+	
+	<game>
+		<tracks>
+			<menu buttonStartY="-40">
+				<item x="8.9" y="81" color="green" tweenDelayFrames="5" />
+				<item x="8.9" y="124" color="pink" tweenDelayFrames="4" />
+				<item x="8.9" y="167" color="green" tweenDelayFrames="2" />
+				<item x="8.9" y="210" color="pink" tweenDelayFrames="0" />
+			</menu>
+		</tracks>
+		
+	</game>
+
+
+	
+</data>

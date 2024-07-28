@@ -1,0 +1,5 @@
+<config>
+<services>
+	<service type="eventReporting" enabled="true" />
+</services>
+</config>

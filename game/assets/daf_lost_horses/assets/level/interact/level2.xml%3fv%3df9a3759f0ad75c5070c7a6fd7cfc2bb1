@@ -1,0 +1,111 @@
+<level2>
+	<!-- HERO START POSITION -->
+	<heroStart col="24" row="10"/>
+	
+	<!-- HUD -->
+	<hud>
+		<images>
+			<image pos="0" enabled="false">whiteHorse</image>
+			<image pos="1" enabled="false">alana</image>
+			<image pos="2" enabled="false">Dulce</image>
+		</images>
+	</hud>
+	
+	<!--DEFINITIONS -->
+	<objDef>
+		<obj name="horse">
+			<idle>HorseWhite_Idle</idle>
+			<found>HorseWhite_Find</found>
+			<sound>horse</sound>
+			<goal>0</goal>
+		</obj>
+		<obj name="alana">
+			<idle>mcAlana_Idle</idle>
+			<found>mcAlana_Find</found>
+			<sound>alana</sound>
+			<goal>1</goal>
+		</obj>
+		<obj name="dulce">
+			<idle>Dulce_Idle</idle>
+			<found>Dulce_Find</found>
+			<sound>dulce</sound>
+			<goal>2</goal>
+		</obj>
+		<obj name="bat">
+			<idle>mcBat</idle>
+			<sound>bat</sound>
+		</obj>
+		<obj name="web">
+			<idle>mcWeb</idle>
+			<sound>web</sound>
+		</obj>
+		<obj name="bandit">
+			<idle>mcBanditRock</idle>
+			<sound>bandit</sound>
+		</obj>
+	</objDef>
+	
+	<!-- Objects on the level -->
+	<objs>
+		<obj name="horse" col="12" row="9" />
+		<obj name="alana" col="9" row="22" />
+		<obj name="dulce" col="3" row="11" />
+		<obj name="bandit" col="14" row="8" />
+		<obj name="bandit" col="5" row="8" />
+		<obj name="bat" col="19" row="12" />
+		<obj name="web" col="14" row="12" />
+		<obj name="bat" col="10" row="17" />
+	</objs>
+	
+	<!-- Road blocks. -->
+	<roadBlocks>
+		<roadBlock col="18" row="15">
+			<removeObs col="19" row="12" />
+			<addObs>
+				<obj name="web" col="19" row="13" />
+			</addObs>
+		</roadBlock>
+		<roadBlock col="18" row="20">
+			<removeObs col="19" row="13" />
+			<addObs>
+				<obj name="bat" col="19" row="22" />
+			</addObs>
+		</roadBlock>
+		<roadBlock col="15" row="15">
+			<removeObs col="19" row="22" />
+			<addObs>
+				<obj name="bat" col="16" row="17" />
+			</addObs>
+		</roadBlock>
+		<roadBlock col="13" row="8">
+			<removeObs col="14" row="12" />
+			<addObs>
+				<obj name="bat" col="15" row="12" />
+			</addObs>
+		</roadBlock>
+		<roadBlock col="12" row="19">
+			<removeObs col="15" row="12" />
+			<addObs>
+				<obj name="web" col="14" row="16" />
+			</addObs>
+		</roadBlock>
+		<roadBlock col="9" row="21">
+			<removeObs col="10" row="17" />
+			<addObs>
+				<obj name="web" col="11" row="17" />
+			</addObs>
+		</roadBlock>
+		<roadBlock col="10" row="10">
+			<removeObs col="11" row="17" />
+			<addObs>
+				<obj name="bat" col="11" row="13" />
+			</addObs>
+		</roadBlock>
+		<roadBlock col="6" row="11">
+			<removeObs col="11" row="13" />
+			<addObs>
+				<obj name="bat" col="6" row="13" />
+			</addObs>
+		</roadBlock>
+	</roadBlocks>
+</level2>

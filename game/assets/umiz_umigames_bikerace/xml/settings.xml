@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	
+	<general>
+		<printablePdfUrl>pdf/umi.pdf</printablePdfUrl>
+	</general>
+	
+	<race>
+		<ticRate>50</ticRate>
+		<startSpeed>8</startSpeed>
+		<minSpeed>5</minSpeed>
+		<maxSpeed>13</maxSpeed>
+		<speedboostAdd>7</speedboostAdd>
+		<speedboostTime>2000</speedboostTime>
+		<speedInc>5</speedInc>
+		<startX>80</startX>
+		<speedXChange>15</speedXChange>
+		<laneChangeSpeed>.5</laneChangeSpeed>
+	</race>
+	
+	<level1>
+		<endX>10500</endX>
+		<badGuySpeed>5</badGuySpeed>
+		<badGuySpacing>200</badGuySpacing>
+		<minbadGuySpacing>170</minbadGuySpacing>
+		<flagSpacing>400</flagSpacing>
+		<stripSpacing>20000</stripSpacing>
+		<jumpSpacing>1700</jumpSpacing>
+		<coneSpacing>20000</coneSpacing>
+		<burstSpacing>20000</burstSpacing>
+		<speedupSpacing>1000</speedupSpacing>
+		<firstItem>250</firstItem>
+		<fudgeFactor>150</fudgeFactor>
+	</level1>
+	
+	<level2>
+		<endX>10500</endX>
+		<badGuySpeed>5</badGuySpeed>
+		<badGuySpacing>225</badGuySpacing>
+		<minbadGuySpacing>170</minbadGuySpacing>
+		<flagSpacing>350</flagSpacing>
+		<stripSpacing>1000</stripSpacing>
+		<jumpSpacing>1500</jumpSpacing>
+		<coneSpacing>20000</coneSpacing>
+		<burstSpacing>20000</burstSpacing>
+		<speedupSpacing>1000</speedupSpacing>
+		<firstItem>250</firstItem>
+		<fudgeFactor>150</fudgeFactor>
+	</level2>
+	
+	
+	<level3>
+		<endX>10500</endX>
+		<badGuySpeed>5</badGuySpeed>
+		<badGuySpacing>250</badGuySpacing>
+		<minbadGuySpacing>170</minbadGuySpacing>
+		<flagSpacing>300</flagSpacing>
+		<stripSpacing>800</stripSpacing>
+		<jumpSpacing>1300</jumpSpacing>
+		<coneSpacing>700</coneSpacing>
+		<burstSpacing>20000</burstSpacing>
+		<speedupSpacing>1000</speedupSpacing>
+		<firstItem>250</firstItem>
+		<fudgeFactor>150</fudgeFactor>
+	</level3>
+	
+	
+	<level4>
+		<endX>10500</endX>
+		<badGuySpeed>5</badGuySpeed>
+		<badGuySpacing>250</badGuySpacing>
+		<minbadGuySpacing>170</minbadGuySpacing>
+		<flagSpacing>250</flagSpacing>
+		<stripSpacing>600</stripSpacing>
+		<jumpSpacing>1000</jumpSpacing>
+		<coneSpacing>500</coneSpacing>
+		<burstSpacing>2500</burstSpacing>
+		<speedupSpacing>800</speedupSpacing>
+		<firstItem>250</firstItem>
+		<fudgeFactor>150</fudgeFactor>
+	</level4>
+</data>

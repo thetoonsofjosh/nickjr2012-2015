@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+<string id = "play" fontName = "ButtonFont" fontScale = "1" offsetX = "0" offsetY = "0"><![CDATA[PLAY]]></string>
+<string id = "skip" fontName = "ButtonFont" fontScale = "1" offsetX = "0" offsetY = "0"><![CDATA[SKIP]]></string>
+<string id = "again" fontName = "ButtonFont" fontScale = "1" offsetX = "0" offsetY = "0"><![CDATA[PLAY AGAIN]]></string>
+<string id = "print" fontName = "ButtonFont" fontScale = "1" offsetX = "0" offsetY = "0"><![CDATA[IMPRIMER]]></string>
+</data>

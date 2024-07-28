@@ -1,0 +1,23 @@
+<xml>
+	<loadSchema preloader="preloader.swf" localizationXML="xml/strings.xml" fontSWF="fonts.swf" loader="loader.swf" loaderBG="img/loaderBG.jpg" audioXML="xml/soundFiles.xml" primaryBatch="primary" autoLoadQueue="" />
+	
+	<primary>
+		<!---- swf id="childswf" file="childswf.swf" -->
+		<!---- xml id="xml" file="xml.xml" -->
+		<!---- img id="img" file="img.jpg" -->
+		<!---- txtData id="childswf" file="txt.cvs" -->
+		<audioLoadList groupIDQueue="music,sfx,vo.title,vo.intro,vo.game1,vo.challenge1,vo.game2,vo.challenge2,vo.game3,vo.challenge3,vo.game4,vo.gameover" />
+		<xml id="gameSettings" file="xml/settings.xml" />
+		<swf id="titlescreen" file="titlescreen.swf" />
+		<swf id="mainintro" file="mainintro.swf" />
+		<swf id="bikegame" file="bikegame.swf" />
+		<swf id="endflag" file="flag.swf" />
+		<audioswf id="audioSWF" file="audioswf.swf" />
+		<swf id="challenge1" file="tiretrouble.swf" />
+		<swf id="challenge2" file="spokegame.swf" />
+		<swf id="challenge3" file="buildabike.swf" />
+		<swf id="gameover" file="gameover.swf" />	
+	</primary>
+	
+	
+</xml>

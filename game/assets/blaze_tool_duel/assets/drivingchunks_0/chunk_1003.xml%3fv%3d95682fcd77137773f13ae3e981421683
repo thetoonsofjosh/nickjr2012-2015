@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ChunkLayout Width="1920" Height="1536">
+  <CollisionSegments>
+    <CollisionSegment X0="545" Y0="1535" X1="671" Y1="1409" CSType="Ramp">
+    </CollisionSegment>
+    <CollisionSegment X0="671" Y0="1409" X1="672" Y1="1535" CSType="Ramp">
+    </CollisionSegment>
+  </CollisionSegments>
+  <Placements>
+  </Placements>
+</ChunkLayout>

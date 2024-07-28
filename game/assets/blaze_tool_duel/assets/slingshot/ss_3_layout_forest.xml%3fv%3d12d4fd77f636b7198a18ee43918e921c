@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Scene Width="960" Height="832" Name="ss_3_layout.xml">
+  <ImageDefs>
+    <Image ImageName="gp_tile_forest0_surface" X="768" Y="256" ImageType="Pattern" PatternWidth="192" PatternHeight="384" />
+    <Image ImageName="gp_tile_forest0_surface" X="640" Y="512" ImageType="Image" PatternWidth="0" PatternHeight="0" />
+    <Image ImageName="gp_tile_forest0_surface" X="640" Y="384" ImageType="Image" PatternWidth="0" PatternHeight="0" />
+    <Image ImageName="gp_tile_forest0_surface" X="512" Y="512" ImageType="Image" PatternWidth="0" PatternHeight="0" />
+    <Image ImageName="gp_tile_forest0_surface" X="0" Y="640" ImageType="Pattern" PatternWidth="960" PatternHeight="128" />
+    <Image ImageName="gp_tile_forest0_underground" X="768" Y="128" ImageType="Pattern" PatternWidth="192" PatternHeight="128" />
+    <Image ImageName="gp_tile_forest0_underground" X="256" Y="512" ImageType="Image" PatternWidth="0" PatternHeight="0" />
+    <Image ImageName="gp_tile_forest0_underground" X="128" Y="512" ImageType="Image" PatternWidth="0" PatternHeight="0" />
+    <Image ImageName="gp_tile_forest0_underground" X="0" Y="512" ImageType="Image" PatternWidth="0" PatternHeight="0" />
+    <Image ImageName="gp_tile_forest0_surface_diag_up" X="640" Y="128" ImageType="Image" PatternWidth="0" PatternHeight="0" />
+    <Image ImageName="gp_tile_forest0_surface_diag_up" X="512" Y="256" ImageType="Image" PatternWidth="0" PatternHeight="0" />
+    <Image ImageName="gp_tile_forest0_surface_diag_up" X="384" Y="384" ImageType="Image" PatternWidth="0" PatternHeight="0" />
+  </ImageDefs>
+</Scene>

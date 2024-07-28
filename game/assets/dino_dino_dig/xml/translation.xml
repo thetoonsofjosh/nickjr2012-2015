@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- *************  WARNING  ************ -->
+<!-- DO NOT EDIT THIS DOCUMENT DIRECTLY   -->
+<!-- USE THE LOCALIZATION TOOL TO EDIT    -->
+<!-- ************************************ -->
+<strings>
+  <language id="0">american_latin</language>
+  <string id="id_ui_loading_label" fontName="Arial%20Rounded%20MT%20Bold" fontSize="18" charSpace="0" lineSpace="0" catID="0"><![CDATA[LOADING]]></string>
+  <string id="id_ui_loading_building" fontName="Arial%20Rounded%20MT%20Bold" fontSize="18" charSpace="0" lineSpace="0" catID="0"><![CDATA[OPTIMIZING]]></string>
+  <string id="id_ui_loading_progress" fontName="Arial%20Rounded%20MT%20Bold" fontSize="22" charSpace="0" lineSpace="0" catID="0"><![CDATA[%24value%24]]></string>
+  <string id="id_ui_title_button_play" fontName="Uneasy" fontSize="20" charSpace="0" lineSpace="0" catID="1"><![CDATA[Play]]></string>
+  <string id="id_ui_title_button_howtoplay" fontName="Uneasy" fontSize="16" charSpace="0" lineSpace="0" catID="1"><![CDATA[How%20to%20Play]]></string>
+  <string id="id_ui_title_button_viewhs" fontName="Uneasy" fontSize="16" charSpace="0" lineSpace="0" catID="1"><![CDATA[Leaderboard]]></string>
+  <string id="id_ui_hud_button_menu" fontName="Arial%20Unicode%20MS" fontSize="16" charSpace="0" lineSpace="0" catID="5"><![CDATA[Menu]]></string>
+  <string id="id_ui_hud_score" fontName="Arial%20Unicode%20MS" fontSize="16" charSpace="0" lineSpace="0" catID="5"><![CDATA[Score%3A%20%24value%24]]></string>
+  <string id="id_ui_hud_button_vivarium" fontName="Arial%20Unicode%20MS" fontSize="16" charSpace="0" lineSpace="0" catID="5"><![CDATA[Vivarium]]></string>
+  <string id="id_ui_hud_button_guide" fontName="Arial%20Unicode%20MS" fontSize="16" charSpace="0" lineSpace="0" catID="5"><![CDATA[Field%20Guide]]></string>
+  <string id="id_ui_vivarium_herbivore_title" fontName="Uneasy" fontSize="25" charSpace="0" lineSpace="0" catID="8"><![CDATA[Herbivore]]></string>
+  <string id="id_ui_vivarium_carnivore_title" fontName="Uneasy" fontSize="25" charSpace="0" lineSpace="0" catID="8"><![CDATA[Carnivore]]></string>
+  <string id="id_ui_vivarium_button_play" fontName="Uneasy" fontSize="20" charSpace="0" lineSpace="0" catID="8"><![CDATA[Play]]></string>
+  <string id="id_ui_vivarium_button_guide" fontName="Uneasy" fontSize="16" charSpace="0" lineSpace="0" catID="8"><![CDATA[Field%20Guide]]></string>
+  <string id="id_ui_vivarium_button_foodH1" fontName="Uneasy" fontSize="16" charSpace="0" lineSpace="0" catID="8"><![CDATA[Food%201]]></string>
+  <string id="id_ui_vivarium_button_foodH2" fontName="Uneasy" fontSize="16" charSpace="0" lineSpace="0" catID="8"><![CDATA[Food%202]]></string>
+  <string id="id_ui_vivarium_button_foodH3" fontName="Uneasy" fontSize="16" charSpace="0" lineSpace="0" catID="8"><![CDATA[Food%203]]></string>
+  <string id="id_ui_vivarium_button_foodC1" fontName="Uneasy" fontSize="16" charSpace="0" lineSpace="0" catID="8"><![CDATA[Food%201]]></string>
+  <string id="id_ui_vivarium_button_foodC2" fontName="Uneasy" fontSize="16" charSpace="0" lineSpace="0" catID="8"><![CDATA[Food%202]]></string>
+  <string id="id_ui_vivarium_button_foodC3" fontName="Uneasy" fontSize="16" charSpace="0" lineSpace="0" catID="8"><![CDATA[Food%203]]></string>
+  <string id="id_ui_vivarium_button_carnivore" fontName="Uneasy" fontSize="16" charSpace="0" lineSpace="0" catID="8"><![CDATA[Carnivore]]></string>
+  <string id="id_ui_vivarium_button_herbivore" fontName="Uneasy" fontSize="16" charSpace="0" lineSpace="0" catID="8"><![CDATA[Herbivore]]></string>
+  <string id="id_guide_dino1_name" fontName="Uneasy" fontSize="20" charSpace="0" lineSpace="0" catID="9"><![CDATA[Triceratops]]></string>
+  <string id="id_guide_dino2_name" fontName="Uneasy" fontSize="20" charSpace="0" lineSpace="0" catID="9"><![CDATA[Diplodocus]]></string>
+  <string id="id_guide_dino4_name" fontName="Uneasy" fontSize="20" charSpace="0" lineSpace="0" catID="9"><![CDATA[Spinosaurus]]></string>
+  <string id="id_guide_dino3_name" fontName="Uneasy" fontSize="20" charSpace="0" lineSpace="0" catID="9"><![CDATA[Tyrannosaurus%20Rex]]></string>
+  <string id="id_guide_page" fontName="Arial%20Rounded%20MT%20Bold" fontSize="18" charSpace="0" lineSpace="0" catID="9"><![CDATA[%24value%24]]></string>
+  <string id="id_guide_button_next" fontName="Uneasy" fontSize="16" charSpace="0" lineSpace="0" catID="9"><![CDATA[Next]]></string>
+  <string id="id_guide_button_back" fontName="Uneasy" fontSize="16" charSpace="0" lineSpace="0" catID="9"><![CDATA[Back]]></string>
+  <string id="id_guide_button_play" fontName="Uneasy" fontSize="16" charSpace="0" lineSpace="0" catID="9"><![CDATA[Play]]></string>
+  <string id="id_guide_button_vivarium" fontName="Uneasy" fontSize="16" charSpace="0" lineSpace="0" catID="9"><![CDATA[Vivarium]]></string>
+  <string id="id_guide_button_print" fontName="Uneasy" fontSize="16" charSpace="0" lineSpace="0" catID="9"><![CDATA[Print]]></string>
+  <string id="id_ui_hud_button_skip" fontName="Uneasy" fontSize="16" charSpace="0" lineSpace="0" catID="5"><![CDATA[Skip]]></string>
+  <string id="id_ui_hud_button_play_again" fontName="Uneasy" fontSize="16" charSpace="0" lineSpace="0" catID="5"><![CDATA[Play Again]]></string>
+  <categories>
+    <category id="0">Loading</category>
+    <category id="1">Title</category>
+    <category id="5">Hud</category>
+    <category id="8">vivarium</category>
+    <category id="9">guide</category>
+  </categories>
+</strings>

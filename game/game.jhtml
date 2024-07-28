@@ -1,0 +1,104 @@
+<importbean bean="/atg/dynamo/droplet/Switch" />
+<importbean bean="/atg/dynamo/droplet/IsEmpty" />
+<importbean bean="/com/nickonline/common/Concat" />
+<importbean bean="/com/nickonline/common/Request" />
+
+<java>/* Old Game template, currently still used by ages-and-stages, schedueled to be dropped Post-launch */</java>
+
+<droplet src="/common/droplets/minibar/index.jhtml">MiniBar Droplet</droplet>
+<droplet bean="IsEmpty">
+  <param name="value" value="param:item.contentHeader" />
+	<oparam name="true"></oparam>
+	<oparam name="false">
+		<img src="param:item.contentHeader.url" width="470" height="14" alt="param:item.contentHeader.caption" /><br />
+	</oparam>
+</droplet>
+<droplet src="/common/droplets/flash_title/index.jhtml">Flash Title Droplet</droplet>
+<droplet bean="IsEmpty">
+  <param name="value" value="param:item.subtitle" />
+	<oparam name="true"></oparam>
+	<oparam name="false">
+		<b><valueof param="item.subtitle" valueishtml>Subtitle Copy</valueof></b><br />
+		<img src="/common/assets/spacer.gif" width="10" height="10" /><br>
+	</oparam>
+</droplet>
+<droplet bean="IsEmpty">
+	<param name="value" value="param:item.adSlug" />
+	<oparam name="true"></oparam>
+	<oparam name="false">
+		<div class="text5" align="center"><valueof param="item.adSlug" valueishtml>Advertisment Copy</valueof></div>
+		<img src="/common/assets/spacer.gif" width="255" height="3" /><br />
+	</oparam>
+</droplet>
+
+<droplet bean="Switch">
+  <param name="value" value="param:item.media.format" />
+	<oparam name="swf">
+		<java>
+			if(request.getParameter("item.urlAlias").compareTo("blues_musical_ecard_receive") == 0){
+				String url = request.getParameter("item.media.url") +
+				"?fromName=" + request.getParameter("fromName") +
+				"&toName=" + request.getParameter("toName") +
+				"&character=" + request.getParameter("character") +
+				"&music=" + request.getParameter("music") +
+				"&message=" + request.getParameter("message");
+				
+				request.setParameter("urlString", url);
+			}else{
+				request.setParameter("urlString", request.getParameter("item.media.url"));
+			}
+		</java>
+		
+		<droplet src="/common/droplets/concat_static_host/index.jhtml">
+			<param name="path" value="param:urlString" />
+		</droplet>
+		
+		<droplet src="/common/detect/flash_embed.jhtml">
+			<param name="pluginChoser" value="bean:/com/nickonline/common/ConcatPlugin.value1">
+			<param name="width" value="param:item.media.width">
+			<param name="height" value="param:item.media.height">
+			<param name="flashSrc" value="bean:Request.params.path">
+			<param name="useContainer" value="false">
+			<param name="RequireVersion" value="6">
+			<param name="alternatePage" value="/common/detect/flash_dir/index.jhtml">
+		</droplet>
+	</oparam>
+	<oparam name="dcr">
+		<droplet bean="Switch">
+  			<param name="value" value="param:item.preloader" />
+			<oparam name="groove">
+				<droplet src="/common/detect/shockwave_switch.jhtml"></droplet>
+				<droplet src="/common/detect/shockwave_embed.jhtml">
+				<param name="pluginChoser" value="bean:/com/nickonline/common/ConcatPlugin.value1">
+					<param name="width" value="param:item.media.width">
+					<param name="height" value="param:item.media.height">
+					<param name="shockwaveSrc" value="/kids/flash_site/common/shockwave/shock_preloader/nickjr_groove_loader_600x320.dcr">
+					<param name="sw1" value="param:item.media.url">
+					<param name="sw2" value="nothing">
+					<param name="sw4" value="javascript:window.close();"> 
+					<oparam name="alternateContent"><droplet src="/common/detect/shockwave_dir/parents_shockwave.jhtml">Sorry, you cannot play this game without the Shockwave plugin.</droplet></oparam>
+				</droplet>
+			</oparam>
+			<oparam name="bunnys">
+				<droplet src="/common/detect/shockwave_switch.jhtml"></droplet>
+				<droplet src="/common/detect/shockwave_embed.jhtml">
+				<param name="pluginChoser" value="bean:/com/nickonline/common/ConcatPlugin.value1">
+					<param name="width" value="param:item.media.width">
+					<param name="height" value="param:item.media.height">
+					<param name="shockwaveSrc" value="/kids/flash_site/common/shockwave/shock_preloader/preloader_bunny.dcr">
+					<param name="sw1" value="/kids/flash_site/common/shockwave/shock_preloader/preloader_bunnyNoFlash.dcr">
+					<param name="sw2" value="param:item.media.url">
+					<param name="sw4" value="javascript:window.close();"> 
+					<oparam name="alternateContent"><droplet src="/common/detect/shockwave_dir/parents_shockwave.jhtml">Sorry, you cannot play this game without the Shockwave plugin.</droplet></oparam>
+				</droplet>
+			</oparam>
+		</droplet>
+	</oparam>
+</droplet>
+<droplet name="IsEmpty">
+	<param name="value" value="param:item.copyright">
+	<oparam name="true"></oparam>
+	<oparam name="false">
+		<div align="center" class="text3"><valueof param="item.copyright" valueishtml>Copyright</valueof></div>
+	</oparam>
+</droplet>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+	
+	<tracking enabled="false">
+		<gameName>YourTrackingName</gameName>
+		<!-- The localization region to load. Loads string files in strings/strings_<two letter locale>.xml. or, will load string.xml by default. -->
+		<!-- <locale>ru</locale> -->
+	</tracking>
+
+	<options>
+		<showFPS>false</showFPS>
+		<showPrintButton>true</showPrintButton>
+		<showPrintButtonMobile>false</showPrintButtonMobile>
+	</options>
+
+</config>

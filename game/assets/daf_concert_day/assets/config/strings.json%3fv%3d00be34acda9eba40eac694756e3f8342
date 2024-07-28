@@ -1,0 +1,76 @@
+{
+      "settings" : 
+    {
+        "useDeviceFonts" : false
+    },
+    "fonts" : [
+    ],
+
+    "strings" : [
+
+        {
+            "id" : "txt_scoreDisplay",
+            "style" : 
+            {
+                "fontFamily" : "Sweater School Rg",
+                "fontSize" : "36px",
+                "textAlign" : "center",
+                "lineSpacing" : "0px",
+                "color" : "#432682",
+                "rotation" : 0
+            },
+            "textMetrics" : 
+            {
+                "top" : -22,
+                "left" : 30,
+                "width" : 43,
+                "height" : 100
+            },
+            "text" : "12"
+        },
+        {
+            "id" : "txt_minusone",
+            "style" : 
+            {
+                "fontFamily" : "Sweater School Rg",
+                "fontSize" : "35px",
+                "textAlign" : "left",
+                "lineSpacing" : "0px",
+                "color" : "#e63e30",
+                "rotation" : 0
+            },
+            "textMetrics" : 
+            {
+                "top" : 0,
+                "left" : 0,
+                "width" : 29.95,
+                "height" : 46
+            },
+            "text" : "-1"
+        },
+        {
+            "id" : "txt_plusone",
+            "style" : 
+            {
+                "fontFamily" : "Sweater School Rg",
+                "fontSize" : "35px",
+                "textAlign" : "left",
+                "lineSpacing" : "0px",
+                "color" : "#6c3f99",
+                "rotation" : 0
+            },
+            "textMetrics" : 
+            {
+                "top" : 1.9,
+                "left" : 2.85,
+                "width" : 34.3,
+                "height" : 46
+            },
+            "text" : "+1"
+        }
+
+    ],
+
+    "input" : [
+    ]
+}

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ChunkLayout Width="3840" Height="1536">
+  <CollisionSegments>
+    <CollisionSegment X0="2817" Y0="1535" X1="2943" Y1="1409" CSType="Ramp">
+    </CollisionSegment>
+    <CollisionSegment X0="2943" Y0="1409" X1="2943" Y1="1535" CSType="Ramp">
+    </CollisionSegment>
+  </CollisionSegments>
+  <Placements>
+    <Placement X="754" Y="1491" PlacementType="Tool">
+    </Placement>
+    <Placement X="946" Y="1491" PlacementType="Tool">
+    </Placement>
+    <Placement X="1138" Y="1363" PlacementType="Tool">
+    </Placement>
+    <Placement X="1330" Y="1363" PlacementType="Tool">
+    </Placement>
+    <Placement X="1522" Y="1363" PlacementType="Tool">
+    </Placement>
+    <Placement X="1714" Y="1363" PlacementType="Tool">
+    </Placement>
+    <Placement X="2959" Y="1327" PlacementType="Tool">
+    </Placement>
+    <Placement X="3087" Y="1263" PlacementType="Tool">
+    </Placement>
+    <Placement X="3183" Y="1199" PlacementType="Tool">
+    </Placement>
+    <Placement X="3311" Y="1135" PlacementType="Tool">
+    </Placement>
+    <Placement X="1103" Y="1536" PlacementType="EnemyPuddle">
+    </Placement>
+  </Placements>
+</ChunkLayout>

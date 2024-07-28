@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Scene Width="2048" Height="1280" Name="world_tutorial_bg">
+  <ImageDefs>
+    <Image ImageName="bg_sky" X="0" Y="0" ImageType="Pattern" PatternWidth="2048" PatternHeight="1280" />
+    <Image ImageName="bg_skyline_02" X="0" Y="321" ImageType="Pattern" PatternWidth="2048" PatternHeight="600" />
+  </ImageDefs>
+</Scene>

@@ -1,0 +1,27 @@
+{
+    "settings": {
+        "useDeviceFonts": false
+    },
+    "fonts": [],
+    "strings": [
+        {
+            "id": "txt_score",
+            "style": {
+                "fontFamily": "arial",
+                "fontSize": "26px",
+                "textAlign": "center",
+                "lineSpacing": "0px",
+                "color": "#330066",
+                "rotation": 0
+            },
+            "textMetrics": {
+                "top": 0,
+                "left": 0,
+                "width": 36.4,
+                "height": 35.2
+            },
+            "text": "00"
+        }
+    ],
+    "input": []
+}

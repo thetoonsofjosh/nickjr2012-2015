@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- *************  WARNING  ************ -->
+<!-- DO NOT EDIT THIS DOCUMENT DIRECTLY   -->
+<!-- USE THE LOCALIZATION TOOL TO EDIT    -->
+<!-- ************************************ -->
+<strings>
+  <language id="0">american_latin</language>
+  <string id="id_ui_loading_label" fontName="World-One" fontSize="25" charSpace="0" lineSpace="0" catID="0"><![CDATA[LOADING]]></string>
+  <string id="id_ui_loading_building" fontName="World-One" fontSize="18" charSpace="0" lineSpace="0" catID="0"><![CDATA[OPTIMIZING]]></string>
+  <string id="id_ui_loading_progress" fontName="World-One" fontSize="30" charSpace="0" lineSpace="0" catID="0"><![CDATA[%24value%24]]></string>
+  <string id="id_ui_title_button_play" fontName="Moderna" fontSize="25" charSpace="0" lineSpace="0" catID="1"><![CDATA[Play]]></string>
+  <string id="id_ui_howtoplay_button_skip" fontName="Moderna" fontSize="20" charSpace="0" lineSpace="0" catID="2"><![CDATA[Skip]]></string>
+  <string id="id_ui_print_back" fontName="Moderna" fontSize="25" charSpace="0" lineSpace="0" catID="4"><![CDATA[Back]]></string>
+  <string id="id_ui_print_party" fontName="Moderna" fontSize="20" charSpace="0" lineSpace="0" catID="4"><![CDATA[Party%20Time%21]]></string>
+  <string id="id_ui_hud_button_menu" fontName="Moderna" fontSize="16" charSpace="0" lineSpace="0" catID="5"><![CDATA[Menu]]></string>
+  <string id="id_ui_hud_score" fontName="Moderna" fontSize="16" charSpace="0" lineSpace="0" catID="5"><![CDATA[Score%3A%20%24value%24]]></string>
+  <string id="id_ui_popup_confirm_title" fontName="World-One" fontSize="30" charSpace="0" lineSpace="0" catID="7"><![CDATA[Erase]]></string>
+  <string id="id_ui_popup_confirm_text" fontName="Moderna" fontSize="20" charSpace="0" lineSpace="0" catID="7"><![CDATA[Are%20you%20sure%20you%20want%20to%20erase%20all%3F]]></string>
+  <string id="id_ui_popup_confirm_button_yes" fontName="Moderna" fontSize="30" charSpace="0" lineSpace="0" catID="7"><![CDATA[Yes]]></string>
+  <string id="id_ui_popup_confirm_button_no" fontName="Moderna" fontSize="30" charSpace="0" lineSpace="0" catID="7"><![CDATA[No]]></string>
+  <string id="id_finale_bt_bananas" fontName="Moderna" fontSize="12" charSpace="0" lineSpace="-2" catID="3"><![CDATA[GO%20BANANAS%21]]></string>
+  <string id="id_finale_bt_replay" fontName="Moderna" fontSize="18" charSpace="0" lineSpace="0" catID="3"><![CDATA[Play%20Again]]></string>
+  <string id="id_print_bt_no_frame" fontName="Moderna" fontSize="16" charSpace="0" lineSpace="0" catID="4"><![CDATA[No%20Frame]]></string>
+  <string id="id_title_title_in" fontName="World-One" fontSize="14" charSpace="0" lineSpace="0" catID="1"><![CDATA[In]]></string>
+  <string id="id_title_title_toy_land" fontName="World-One" fontSize="34" charSpace="0" lineSpace="0" catID="1"><![CDATA[ToyLand]]></string>
+  <string id="id_title_title_holiday" fontName="World-One" fontSize="40" charSpace="0" lineSpace="0" catID="1"><![CDATA[]]></string>
+  <string id="id_title_copy" fontName="Arial" fontSize="10" charSpace="0" lineSpace="0" catID="1"><![CDATA[%A9%202010%20Viacom%20International%20Inc.%20All%20rights%20reserved.%20Nickelodeon%2C%20The%20Fresh%20Beat%20Band%20and%20all%20related%20titles%2C%20logos%20and%20characters%20are%20trademarks%20of%20Viacom%20International%20Inc.]]></string>
+  <categories>
+    <category id="0">Loading</category>
+    <category id="1">Title</category>
+    <category id="2">How%20to%20play</category>
+    <category id="3">Finale</category>
+    <category id="4">Print</category>
+    <category id="5">Hud</category>
+    <category id="7">Popup%20quit</category>
+  </categories>
+</strings>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Scene Width="1920" Height="1920" Name="chunk_0_layout.xml">
+  <ImageDefs>
+    <Image ImageName="gp_tile_town0_underground" X="0" Y="1664" ImageType="Pattern" PatternWidth="1920" PatternHeight="256" />
+    <Image ImageName="gp_tile_town0_surface" X="0" Y="1536" ImageType="Pattern" PatternWidth="1920" PatternHeight="256" />
+  </ImageDefs>
+</Scene>

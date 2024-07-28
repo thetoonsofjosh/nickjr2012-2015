@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Scene Width="3840" Height="1920" Name="chunk_6_layout.xml">
+  <ImageDefs>
+    <Image ImageName="gp_town0_tree01" X="2624" Y="1432" ImageType="Image" PatternWidth="0" PatternHeight="0" />
+    <Image ImageName="gp_town0_tree01" X="2336" Y="1432" ImageType="Image" PatternWidth="0" PatternHeight="0" />
+    <Image ImageName="gp_town0_tree01" X="2080" Y="1432" ImageType="Image" PatternWidth="0" PatternHeight="0" />
+    <Image ImageName="gp_town0_planter01" X="1440" Y="1488" ImageType="Image" PatternWidth="0" PatternHeight="0" />
+    <Image ImageName="gp_town0_streetlight" X="928" Y="1424" ImageType="Image" PatternWidth="0" PatternHeight="0" />
+    <Image ImageName="gp_town0_streetlight" X="640" Y="1424" ImageType="Image" PatternWidth="0" PatternHeight="0" />
+    <Image ImageName="gp_town0_streetlight" X="352" Y="1424" ImageType="Image" PatternWidth="0" PatternHeight="0" />
+    <Image ImageName="gp_ramp_02" X="1152" Y="1408" ImageType="Image" PatternWidth="0" PatternHeight="0" />
+    <Image ImageName="gp_tile_town0_surface" X="0" Y="1536" ImageType="Pattern" PatternWidth="3840" PatternHeight="128" />
+    <Image ImageName="gp_tile_town0_underground" X="0" Y="1664" ImageType="Pattern" PatternWidth="3840" PatternHeight="256" />
+  </ImageDefs>
+</Scene>

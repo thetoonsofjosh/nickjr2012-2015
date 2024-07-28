@@ -1,0 +1,680 @@
+<backgrounds>
+
+    <!-- PP -->
+    <background displayName="PP_b1"
+            handle="PP_b1"
+            iconHandle="stickers/backgrounds/PP_b1/thumb.jpg"
+            imageHandle="stickers/backgrounds/PP_b1/background.swf"
+            show="PP"
+            />
+
+    <background displayName="PP_b2"
+            handle="PP_b2"
+            iconHandle="stickers/backgrounds/PP_b2/thumb.jpg"
+            imageHandle="stickers/backgrounds/PP_b2/background.swf"
+            show="PP"
+            />
+
+    <background displayName="PP_b3"
+            handle="PP_b3"
+            iconHandle="stickers/backgrounds/PP_b3/thumb.jpg"
+            imageHandle="stickers/backgrounds/PP_b3/background.swf"
+            show="PP"
+            />
+
+    <background displayName="PP_b4"
+            handle="PP_b4"
+            iconHandle="stickers/backgrounds/PP_b4/thumb.jpg"
+            imageHandle="stickers/backgrounds/PP_b4/background.swf"
+            show="PP"
+            />
+
+    <background displayName="PP_b5"
+            handle="PP_b5"
+            iconHandle="stickers/backgrounds/PP_b5/thumb.jpg"
+            imageHandle="stickers/backgrounds/PP_b5/background.swf"
+            show="PP"
+            />
+
+            
+    <!-- JJ -->
+    <background displayName="JJ_b1"
+            handle="JJ_b1"
+            iconHandle="stickers/backgrounds/JJ_b1/thumb.jpg"
+            imageHandle="stickers/backgrounds/JJ_b1/background.swf"
+            show="JJ"
+            />
+
+    <background displayName="JJ_b2"
+            handle="JJ_b2"
+            iconHandle="stickers/backgrounds/JJ_b2/thumb.jpg"
+            imageHandle="stickers/backgrounds/JJ_b2/background.swf"
+            show="JJ"
+            />
+
+    <background displayName="JJ_b3"
+            handle="JJ_b3"
+            iconHandle="stickers/backgrounds/JJ_b3/thumb.jpg"
+            imageHandle="stickers/backgrounds/JJ_b3/background.swf"
+            show="JJ"
+            />
+
+    <background displayName="JJ_b4"
+            handle="JJ_b4"
+            iconHandle="stickers/backgrounds/JJ_b4/thumb.jpg"
+            imageHandle="stickers/backgrounds/JJ_b4/background.swf"
+            show="JJ"
+            />
+
+    <background displayName="JJ_b5"
+            handle="JJ_b5"
+            iconHandle="stickers/backgrounds/JJ_b5/thumb.jpg"
+            imageHandle="stickers/backgrounds/JJ_b5/background.swf"
+            show="JJ"
+            />
+
+    <background displayName="JJ_b6"
+            handle="JJ_b6"
+            iconHandle="stickers/backgrounds/JJ_b6/thumb.jpg"
+            imageHandle="stickers/backgrounds/JJ_b6/background.swf"
+            show="JJ"
+            />
+
+    <background displayName="JJ_b7"
+            handle="JJ_7"
+            iconHandle="stickers/backgrounds/JJ_b7/thumb.jpg"
+            imageHandle="stickers/backgrounds/JJ_b7/background.swf"
+            show="JJ"
+            />
+            
+ 
+    <!-- BMM -->
+    <background displayName="BMM_b1"
+            handle="BMM_b1"
+            iconHandle="stickers/backgrounds/BMM_b1/thumb.jpg"
+            imageHandle="stickers/backgrounds/BMM_b1/background.swf"
+            show="BMM"
+            />
+
+    <background displayName="BMM_b2"
+            handle="BMM_b2"
+            iconHandle="stickers/backgrounds/BMM_b2/thumb.jpg"
+            imageHandle="stickers/backgrounds/BMM_b2/background.swf"
+            show="BMM"
+            />
+
+    <background displayName="BMM_b3"
+            handle="BMM_b3"
+            iconHandle="stickers/backgrounds/BMM_b3/thumb.jpg"
+            imageHandle="stickers/backgrounds/BMM_b3/background.swf"
+            show="BMM"
+            />
+
+    <background displayName="BMM_b4"
+            handle="BMM_b4"
+            iconHandle="stickers/backgrounds/BMM_b4/thumb.jpg"
+            imageHandle="stickers/backgrounds/BMM_b4/background.swf"
+            show="BMM"
+            />
+
+    <background displayName="BMM_b5"
+            handle="BMM_b5"
+            iconHandle="stickers/backgrounds/BMM_b5/thumb.jpg"
+            imageHandle="stickers/backgrounds/BMM_b5/background.swf"
+            show="BMM"
+            />
+
+    <background displayName="BMM_b6"
+            handle="BMM_b6"
+            iconHandle="stickers/backgrounds/BMM_b6/thumb.jpg"
+            imageHandle="stickers/backgrounds/BMM_b6/background.swf"
+            show="BMM"
+            />
+
+    <background displayName="BMM_b7"
+            handle="BMM_7"
+            iconHandle="stickers/backgrounds/BMM_b7/thumb.jpg"
+            imageHandle="stickers/backgrounds/BMM_b7/background.swf"
+            show="BMM"
+            />
+            
+    <background displayName="BMM_b8"
+            handle="BMM_b8"
+            iconHandle="stickers/backgrounds/BMM_b8/thumb.jpg"
+            imageHandle="stickers/backgrounds/BMM_b8/background.swf"
+            show="BMM"
+            />
+    
+
+
+    <!-- dahf -->
+	<background displayName="dahf_b1"
+			handle="dahf_b1"
+			iconHandle="stickers/backgrounds/dahf_b1/thumb.jpg"
+			imageHandle="stickers/backgrounds/dahf_b1/background.swf"
+			show="dahf"
+	/>	
+	
+	<background displayName="dahf_b2"
+			handle="dahf_b2" 
+			iconHandle="stickers/backgrounds/dahf_b2/thumb.jpg"
+			imageHandle="stickers/backgrounds/dahf_b2/background.swf"
+			show="dahf"
+	/>	
+
+	<background displayName="dahf_b3"
+			handle="dahf_b3" 
+			iconHandle="stickers/backgrounds/dahf_b3/thumb.jpg"
+			imageHandle="stickers/backgrounds/dahf_b3/background.swf"
+			show="dahf"
+	/>	
+
+	<background displayName="dahf_b4"
+			handle="dahf_b4" 
+			iconHandle="stickers/backgrounds/dahf_b4/thumb.jpg"
+			imageHandle="stickers/backgrounds/dahf_b4/background.swf"
+			show="dahf"
+	/>	
+
+	<background displayName="dahf_b5"
+			handle="dahf_b5" 
+			iconHandle="stickers/backgrounds/dahf_b5/thumb.jpg"
+			imageHandle="stickers/backgrounds/dahf_b5/background.swf"
+			show="dahf"
+	/>
+	
+	<background displayName="dahf_b6"
+			handle="dahf_b6" 
+			iconHandle="stickers/backgrounds/dahf_b6/thumb.jpg"
+			imageHandle="stickers/backgrounds/dahf_b6/background.swf"
+			show="dahf"
+	/>
+
+
+	<!-- llll -->
+	<background displayName="llll_b1"
+			handle="llll_b1" 
+			iconHandle="stickers/backgrounds/llll_b1/thumb.jpg"
+			imageHandle="stickers/backgrounds/llll_b1/background.swf"
+			show="llll"
+	/>	
+	
+	<background displayName="llll_b2"
+			handle="llll_b2" 
+			iconHandle="stickers/backgrounds/llll_b2/thumb.jpg"
+			imageHandle="stickers/backgrounds/llll_b2/background.swf"
+			show="llll"
+	/>	
+
+	<background displayName="llll_b3"
+			handle="llll_b3" 
+			iconHandle="stickers/backgrounds/llll_b3/thumb.jpg"
+			imageHandle="stickers/backgrounds/llll_b3/background.swf"
+			show="llll"
+	/>	
+
+	<background displayName="llll_b4"
+			handle="llll_b4" 
+			iconHandle="stickers/backgrounds/llll_b4/thumb.jpg"
+			imageHandle="stickers/backgrounds/llll_b4/background.swf"
+			show="llll"
+	/>	
+
+	<background displayName="llll_b5"
+			handle="llll_b5" 
+			iconHandle="stickers/backgrounds/llll_b5/thumb.jpg"
+			imageHandle="stickers/backgrounds/llll_b5/background.swf"
+			show="llll"
+	/>	
+
+
+
+	<!-- pawp -->
+	<background displayName="pawp_restaurant"
+			handle="pawp_restaurant" 
+			iconHandle="stickers/backgrounds/pawp_restaurant/thumb.jpg"
+			imageHandle="stickers/backgrounds/pawp_restaurant/background.swf"
+			show="pawp"
+	/>
+	<background displayName="pawp_ranch"
+			handle="pawp_ranch" 
+			iconHandle="stickers/backgrounds/pawp_ranch/thumb.jpg"
+			imageHandle="stickers/backgrounds/pawp_ranch/background.swf"
+			show="pawp"
+	/>
+	<background displayName="pawp_ranchInt"
+			handle="pawp_ranchInt" 
+			iconHandle="stickers/backgrounds/pawp_ranchInt/thumb.jpg"
+			imageHandle="stickers/backgrounds/pawp_ranchInt/background.swf"
+			show="pawp"
+	/>		
+	<background displayName="pawp_petcare"
+			handle="pawp_petcare" 
+			iconHandle="stickers/backgrounds/pawp_petcare/thumb.jpg"
+			imageHandle="stickers/backgrounds/pawp_petcare/background.swf"
+			show="pawp"
+	/>	
+	<background displayName="pawp_petcareExt"
+			handle="pawp_petcareExt" 
+			iconHandle="stickers/backgrounds/pawp_petcareExt/thumb.jpg"
+			imageHandle="stickers/backgrounds/pawp_petcareExt/background.swf"
+			show="pawp"
+	/>
+	
+	<!-- prab -->
+	<background displayName="prab_gate"
+			handle="prab_gate" 
+			iconHandle="stickers/backgrounds/prab_gate/thumb.jpg"
+			imageHandle="stickers/backgrounds/prab_gate/background.swf"
+			show="prab"
+	/>
+	<background displayName="prab_path"
+			handle="prab_path" 
+			iconHandle="stickers/backgrounds/prab_path/thumb.jpg"
+			imageHandle="stickers/backgrounds/prab_path/background.swf"
+			show="prab"
+	/>
+	<background displayName="prab_path2"
+			handle="prab_path2" 
+			iconHandle="stickers/backgrounds/prab_path2/thumb.jpg"
+			imageHandle="stickers/backgrounds/prab_path2/background.swf"
+			show="prab"
+	/>		
+	<background displayName="prab_lake"
+			handle="prab_lake" 
+			iconHandle="stickers/backgrounds/prab_lake/thumb.jpg"
+			imageHandle="stickers/backgrounds/prab_lake/background.swf"
+			show="prab"
+	/>	
+	<background displayName="prab_snow"
+			handle="prab_snow" 
+			iconHandle="stickers/backgrounds/prab_snow/thumb.jpg"
+			imageHandle="stickers/backgrounds/prab_snow/background.swf"
+			show="prab"
+	/>
+	<!-- dora -->
+	<background displayName="dora_beachsun"
+			handle="dora_beachsun" 
+			iconHandle="stickers/backgrounds/dora_beachsun/thumb.jpg"
+			imageHandle="stickers/backgrounds/dora_beachsun/background.swf"
+			show="dora"
+	/>		
+	<background displayName="dora_road"
+			handle="dora_road" 
+			iconHandle="stickers/backgrounds/dora_road/thumb.jpg"
+			imageHandle="stickers/backgrounds/dora_road/background.swf"
+			show="dora"
+	/>		
+	<background displayName="dora_soccerfield"
+			handle="dora_soccerfield" 
+			iconHandle="stickers/backgrounds/dora_soccerfield/thumb.jpg"
+			imageHandle="stickers/backgrounds/dora_soccerfield/background.swf"
+			show="dora"
+	/>			
+	<background displayName="dora_tunnel"
+			handle="dora_tunnel" 
+			iconHandle="stickers/backgrounds/dora_tunnel/thumb.jpg"
+			imageHandle="stickers/backgrounds/dora_tunnel/background.swf"
+			show="dora"
+	/>			
+	<background displayName="dora_underwater"
+			handle="dora_underwater" 
+			iconHandle="stickers/backgrounds/dora_underwater/thumb.jpg"
+			imageHandle="stickers/backgrounds/dora_underwater/background.swf"
+			show="dora"
+	/>				
+	<!-- dieg -->
+	<background displayName="dieg_lawn"
+			handle="dieg_lawn" 
+			iconHandle="stickers/backgrounds/dieg_lawn/thumb.jpg"
+			imageHandle="stickers/backgrounds/dieg_lawn/background.swf"
+			show="dieg"
+	/>		
+	<background displayName="dieg_log"
+			handle="dieg_log" 
+			iconHandle="stickers/backgrounds/dieg_log/thumb.jpg"
+			imageHandle="stickers/backgrounds/dieg_log/background.swf"
+			show="dieg"
+	/>		
+	<background displayName="dieg_mushroom"
+			handle="dieg_mushroom" 
+			iconHandle="stickers/backgrounds/dieg_mushroom/thumb.jpg"
+			imageHandle="stickers/backgrounds/dieg_mushroom/background.swf"
+			show="dieg"
+	/>		
+	<background displayName="dieg_path"
+			handle="dieg_path" 
+			iconHandle="stickers/backgrounds/dieg_path/thumb.jpg"
+			imageHandle="stickers/backgrounds/dieg_path/background.swf"
+			show="dieg"
+	/>		
+	<background displayName="dieg_rock"
+			handle="dieg_rock" 
+			iconHandle="stickers/backgrounds/dieg_rock/thumb.jpg"
+			imageHandle="stickers/backgrounds/dieg_rock/background.swf"
+			show="dieg"
+	/>		
+
+
+	<!-- back -->
+	<background displayName="back_circus"
+			handle="back_circus" 
+			iconHandle="stickers/backgrounds/back_circus/thumb.jpg"
+			imageHandle="stickers/backgrounds/back_circus/background.swf"
+			show="back"
+	/>
+	<background displayName="back_backyard"
+			handle="back_backyard" 
+			iconHandle="stickers/backgrounds/back_backyard/thumb.jpg"
+			imageHandle="stickers/backgrounds/back_backyard/background.swf"
+			show="back"
+	/>
+	<background displayName="back_castle"
+			handle="back_castle" 
+			iconHandle="stickers/backgrounds/back_castle/thumb.jpg"
+			imageHandle="stickers/backgrounds/back_castle/background.swf"
+			show="back"
+	/>		
+	<background displayName="back_jungle"
+			handle="back_jungle" 
+			iconHandle="stickers/backgrounds/back_jungle/thumb.jpg"
+			imageHandle="stickers/backgrounds/back_jungle/background.swf"
+			show="back"
+	/>	
+	<background displayName="back_snow"
+			handle="back_snow" 
+			iconHandle="stickers/backgrounds/back_snow/thumb.jpg"
+			imageHandle="stickers/backgrounds/back_snow/background.swf"
+			show="back"
+	/>	
+	<!-- wond -->
+	<background displayName="wond_class"
+			handle="wond_class" 
+			iconHandle="stickers/backgrounds/wond_class/thumb.jpg"
+			imageHandle="stickers/backgrounds/wond_class/background.swf"
+			show="wond"
+	/>
+	<background displayName="wond_lot"
+			handle="wond_lot" 
+			iconHandle="stickers/backgrounds/wond_lot/thumb.jpg"
+			imageHandle="stickers/backgrounds/wond_lot/background.swf"
+			show="wond"
+	/>		
+	<background displayName="wond_sea"
+			handle="wond_sea" 
+			iconHandle="stickers/backgrounds/wond_sea/thumb.jpg"
+			imageHandle="stickers/backgrounds/wond_sea/background.swf"
+			show="wond"
+	/>		
+	<background displayName="wond_stage"
+			handle="wond_stage" 
+			iconHandle="stickers/backgrounds/wond_stage/thumb.jpg"
+			imageHandle="stickers/backgrounds/wond_stage/background.swf"
+			show="wond"
+	/>		
+	<background displayName="wond_sumie"
+			handle="wond_sumie" 
+			iconHandle="stickers/backgrounds/wond_sumie/thumb.jpg"
+			imageHandle="stickers/backgrounds/wond_sumie/background.swf"
+			show="wond"
+	/>		
+	<background displayName="wond_woods"
+			handle="wond_woods" 
+			iconHandle="stickers/backgrounds/wond_woods/thumb.jpg"
+			imageHandle="stickers/backgrounds/wond_woods/background.swf"
+			show="wond"
+	/>
+	<!-- yoga -->
+	<background displayName="yoga_brobeeland"
+			handle="yoga_brobeeland" 
+			iconHandle="stickers/backgrounds/yoga_brobeeland/thumb.jpg"
+			imageHandle="stickers/backgrounds/yoga_brobeeland/background.swf"
+			show="yoga"
+	/>	
+	<background displayName="yoga_foofaland"
+			handle="yoga_foofaland" 
+			iconHandle="stickers/backgrounds/yoga_foofaland/thumb.jpg"
+			imageHandle="stickers/backgrounds/yoga_foofaland/background.swf"
+			show="yoga"
+	/>		
+	<background displayName="yoga_munoland"
+			handle="yoga_munoland" 
+			iconHandle="stickers/backgrounds/yoga_munoland/thumb.jpg"
+			imageHandle="stickers/backgrounds/yoga_munoland/background.swf"
+			show="yoga"
+	/>		
+	<background displayName="yoga_toodeeland"
+			handle="yoga_toodeeland" 
+			iconHandle="stickers/backgrounds/yoga_toodeeland/thumb.jpg"
+			imageHandle="stickers/backgrounds/yoga_toodeeland/background.swf"
+			show="yoga"
+	/>					
+	<!-- wubb -->
+	<!---
+	<background displayName="wubb_library"
+			handle="wubb_library" 
+			iconHandle="stickers/backgrounds/wubb_library/thumb.jpg"
+			imageHandle="stickers/backgrounds/wubb_library/background.swf"
+			show="wubb"
+	/>
+	<background displayName="wubb_park"
+			handle="wubb_park" 
+			iconHandle="stickers/backgrounds/wubb_park/thumb.jpg"
+			imageHandle="stickers/backgrounds/wubb_park/background.swf"
+			show="wubb"
+	/>		
+	<background displayName="wubb_trucks"
+			handle="wubb_trucks" 
+			iconHandle="stickers/backgrounds/wubb_trucks/thumb.jpg"
+			imageHandle="stickers/backgrounds/wubb_trucks/background.swf"
+			show="wubb"
+	/>		
+	<background displayName="wubb_waldens"
+			handle="wubb_waldens" 
+			iconHandle="stickers/backgrounds/wubb_waldens/thumb.jpg"
+			imageHandle="stickers/backgrounds/wubb_waldens/background.swf"
+			show="wubb"
+	/>	
+	<background displayName="wubb_wuzzleburg"
+			handle="wubb_wuzzleburg" 
+			iconHandle="stickers/backgrounds/wubb_wuzzleburg/thumb.jpg"
+			imageHandle="stickers/backgrounds/wubb_wuzzleburg/background.swf"
+			show="wubb"
+	/>
+	--->
+	<!-- blue -->
+	<background displayName="blue_grocer"
+			handle="blue_grocer" 
+			iconHandle="stickers/backgrounds/blue_grocer/thumb.jpg"
+			imageHandle="stickers/backgrounds/blue_grocer/background.swf"
+			show="blue"
+	/>
+	<background displayName="blue_lawn"
+			handle="blue_lawn" 
+			iconHandle="stickers/backgrounds/blue_lawn/thumb.jpg"
+			imageHandle="stickers/backgrounds/blue_lawn/background.swf"
+			show="blue"
+	/>		
+	<background displayName="blue_livingroom"
+			handle="blue_livingroom" 
+			iconHandle="stickers/backgrounds/blue_livingroom/thumb.jpg"
+			imageHandle="stickers/backgrounds/blue_livingroom/background.swf"
+			show="blue"
+	/>	
+	<background displayName="blue_party"
+			handle="blue_party" 
+			iconHandle="stickers/backgrounds/blue_party/thumb.jpg"
+			imageHandle="stickers/backgrounds/blue_party/background.swf"
+			show="blue"
+	/>	
+	<background displayName="blue_playroom"
+			handle="blue_playroom" 
+			iconHandle="stickers/backgrounds/blue_playroom/thumb.jpg"
+			imageHandle="stickers/backgrounds/blue_playroom/background.swf"
+			show="blue"
+	/>
+
+	<!-- niha -->
+	<background displayName="niha_room"
+			handle="niha_room" 
+			iconHandle="stickers/backgrounds/niha_room/thumb.jpg"
+			imageHandle="stickers/backgrounds/niha_room/background.swf"
+			show="niha"
+	/>
+	<background displayName="niha_outside1"
+			handle="niha_outside1" 
+			iconHandle="stickers/backgrounds/niha_outside1/thumb.jpg"
+			imageHandle="stickers/backgrounds/niha_outside1/background.swf"
+			show="niha"
+	/>
+	<background displayName="niha_kitchen"
+			handle="niha_kitchen" 
+			iconHandle="stickers/backgrounds/niha_kitchen/thumb.jpg"
+			imageHandle="stickers/backgrounds/niha_kitchen/background.swf"
+			show="niha"
+	/>		
+	<background displayName="niha_livingroom"
+			handle="niha_livingroom" 
+			iconHandle="stickers/backgrounds/niha_livingroom/thumb.jpg"
+			imageHandle="stickers/backgrounds/niha_livingroom/background.swf"
+			show="niha"
+	/>	
+	<background displayName="niha_outside2"
+			handle="niha_outside2" 
+			iconHandle="stickers/backgrounds/niha_outside2/thumb.jpg"
+			imageHandle="stickers/backgrounds/niha_outside2/background.swf"
+			show="niha"
+	/>	
+	<!-- oliv -->
+	<background displayName="oliv_beach"
+			handle="oliv_beach" 
+			iconHandle="stickers/backgrounds/oliv_beach/thumb.jpg"
+			imageHandle="stickers/backgrounds/oliv_beach/background.swf"
+			show="oliv"
+	/>	
+	<background displayName="oliv_camping"
+			handle="oliv_camping" 
+			iconHandle="stickers/backgrounds/oliv_camping/thumb.jpg"
+			imageHandle="stickers/backgrounds/oliv_camping/background.swf"
+			show="oliv"
+	/>		
+	<background displayName="oliv_museum"
+			handle="oliv_museum" 
+			iconHandle="stickers/backgrounds/oliv_museum/thumb.jpg"
+			imageHandle="stickers/backgrounds/oliv_museum/background.swf"
+			show="oliv"
+	/>		
+	<background displayName="oliv_room"
+			handle="oliv_room" 
+			iconHandle="stickers/backgrounds/oliv_room/thumb.jpg"
+			imageHandle="stickers/backgrounds/oliv_room/background.swf"
+			show="oliv"
+	/>
+	<background displayName="oliv_subway"
+			handle="oliv_subway" 
+			iconHandle="stickers/backgrounds/oliv_subway/thumb.jpg"
+			imageHandle="stickers/backgrounds/oliv_subway/background.swf"
+			show="oliv"
+	/>
+
+						
+	<!-- nogg -->
+	<!--<background displayName="nogg_fall"
+			handle="nogg_fall" 
+			iconHandle="stickers/backgrounds/nogg_fall/thumb.jpg"
+			imageHandle="stickers/backgrounds/nogg_fall/background.swf"
+			show="nogg"
+	/>	
+	<background displayName="nogg_parade"
+			handle="nogg_parade" 
+			iconHandle="stickers/backgrounds/nogg_parade/thumb.jpg"
+			imageHandle="stickers/backgrounds/nogg_parade/background.swf"
+			show="nogg"
+	/>		
+	<background displayName="nogg_playground"
+			handle="nogg_playground" 
+			iconHandle="stickers/backgrounds/nogg_playground/thumb.jpg"
+			imageHandle="stickers/backgrounds/nogg_playground/background.swf"
+			show="nogg"
+	/>		
+	<background displayName="nogg_space"
+			handle="nogg_space" 
+			iconHandle="stickers/backgrounds/nogg_space/thumb.jpg"
+			imageHandle="stickers/backgrounds/nogg_space/background.swf"
+			show="nogg"
+	/>
+	<background displayName="nogg_city"
+			handle="nogg_city" 
+			iconHandle="stickers/backgrounds/nogg_city/thumb.jpg"
+			imageHandle="stickers/backgrounds/nogg_city/background.swf"
+			show="nogg"
+	/> -->
+
+	<!-- bg -->
+	<background displayName="bg_ext1"
+			handle="bg_ext1" 
+			iconHandle="stickers/backgrounds/bg_ext1/thumb.jpg"
+			imageHandle="stickers/backgrounds/bg_ext1/background.swf"
+			show="bg"
+	/>
+	<background displayName="bg_ext2"
+			handle="bg_ext2" 
+			iconHandle="stickers/backgrounds/bg_ext2/thumb.jpg"
+			imageHandle="stickers/backgrounds/bg_ext2/background.swf"
+			show="bg"
+	/>
+	<background displayName="bg_class"
+			handle="bg_class" 
+			iconHandle="stickers/backgrounds/bg_class/thumb.jpg"
+			imageHandle="stickers/backgrounds/bg_class/background.swf"
+			show="bg"
+	/>		
+	<background displayName="bg_gen1"
+			handle="bg_gen1" 
+			iconHandle="stickers/backgrounds/bg_gen1/thumb.jpg"
+			imageHandle="stickers/backgrounds/bg_gen1/background.swf"
+			show="bg"
+	/>	
+	<background displayName="bg_gen2"
+			handle="bg_gen2" 
+			iconHandle="stickers/backgrounds/bg_gen2/thumb.jpg"
+			imageHandle="stickers/backgrounds/bg_gen2/background.swf"
+			show="bg"
+	/>
+
+	
+
+	<!-- uzi -->
+	<background displayName="uzi_park"
+			handle="uzi_park" 
+			iconHandle="stickers/backgrounds/uzi_park/thumb.jpg"
+			imageHandle="stickers/backgrounds/uzi_park/background.swf"
+			show="uzi"
+	/>
+	<background displayName="uzi_market"
+			handle="uzi_market" 
+			iconHandle="stickers/backgrounds/uzi_market/thumb.jpg"
+			imageHandle="stickers/backgrounds/uzi_market/background.swf"
+			show="uzi"
+	/>
+	<background displayName="uzi_city"
+			handle="uzi_city" 
+			iconHandle="stickers/backgrounds/uzi_city/thumb.jpg"
+			imageHandle="stickers/backgrounds/uzi_city/background.swf"
+			show="uzi"
+	/>		
+	<background displayName="uzi_street"
+			handle="uzi_street" 
+			iconHandle="stickers/backgrounds/uzi_street/thumb.jpg"
+			imageHandle="stickers/backgrounds/uzi_street/background.swf"
+			show="uzi"
+	/>	
+	<background displayName="uzi_room"
+			handle="uzi_room" 
+			iconHandle="stickers/backgrounds/uzi_room/thumb.jpg"
+			imageHandle="stickers/backgrounds/uzi_room/background.swf"
+			show="uzi"
+	/>
+
+
+</backgrounds>

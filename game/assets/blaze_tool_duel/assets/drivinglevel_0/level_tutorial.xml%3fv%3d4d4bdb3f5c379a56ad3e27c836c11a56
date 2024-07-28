@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LevelLayout>
+  <Chunk ID="1000"/>
+  <!-- loop for intro -->
+  <Chunk ID="1001"/>
+  <Chunk ID="1002"/>
+  <!-- end -->
+  
+  <!-- loop for trick and multitrick -->
+  <Chunk ID="1003"/>
+  <Chunk ID="1002"/>
+  <!-- end -->
+  
+  <!-- loop for start blaze -->
+  <Chunk ID="1001"/>
+  <Chunk ID="1002"/>
+  <!-- end loop -->
+  
+  <!-- blazing ramps -->
+  <Chunk ID="1003"/>
+  <Chunk ID="1002"/>
+  
+  <!-- coin collecting -->
+  <Chunk ID="1004"/>
+  <Chunk ID="1002"/>
+  
+  <!-- loop for jumping -->
+  <Chunk ID="1001"/>
+  <Chunk ID="1002"/>
+  <!-- end -->
+  
+  <Chunk ID="99"/>
+</LevelLayout>

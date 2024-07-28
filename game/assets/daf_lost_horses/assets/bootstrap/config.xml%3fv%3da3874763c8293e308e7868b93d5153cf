@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+	<services>
+        <canadaTracking enabled="false" />
+	</services>
+	
+	<printable>pdf/printable.pdf</printable>
+</config>

@@ -1,0 +1,9 @@
+<title>		
+	<LoaderMax prependURLs="swf/" load="true">
+		<SWFLoader name="intro-swf" url="scenes/intro.swf" autoPlay="false" />
+	</LoaderMax>
+	
+	<LoaderMax prependURLs="audio/intro/" load="true">
+		<MP3Loader name="intro-audio" url="audio.mp3" autoPlay="false" />
+	</LoaderMax>
+</title>

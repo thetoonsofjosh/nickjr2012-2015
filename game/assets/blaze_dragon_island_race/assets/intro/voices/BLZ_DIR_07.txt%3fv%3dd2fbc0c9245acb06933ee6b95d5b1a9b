@@ -1,0 +1,41 @@
+phn 5 195 53 x
+word 195 355 And
+phn 195 295 73 AE
+phn 295 355 56 n
+word 355 615 I'm
+phn 355 525 92 AY
+phn 525 615 38 m
+phn 615 755 0 x
+word 755 1335 definitely
+phn 755 915 80 d
+phn 915 995 68 EH
+phn 995 1095 45 f
+phn 1095 1145 65 AH
+phn 1145 1175 62 n
+phn 1175 1215 65 AH
+phn 1215 1245 30 t
+phn 1245 1275 45 l
+phn 1275 1335 65 IY
+word 1335 1815 going
+phn 1335 1445 64 g
+phn 1445 1515 66 OW
+phn 1515 1645 81 IH
+phn 1645 1815 68 NG
+word 1815 1975 to
+phn 1815 1845 89 t
+phn 1845 1975 82 IH
+word 1975 2125 win
+phn 1975 2005 65 w
+phn 2005 2095 66 IH
+phn 2095 2125 30 n
+word 2125 2335 this
+phn 2125 2165 74 DH
+phn 2165 2295 83 IH
+phn 2295 2335 67 s
+word 2335 3125 time
+phn 2335 2615 78 t
+phn 2615 3005 151 AY
+phn 3005 3125 27 m
+punct 3125 3235 !
+phn 3125 3235 0 x
+end_markers

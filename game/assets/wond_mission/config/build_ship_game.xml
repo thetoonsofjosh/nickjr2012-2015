@@ -1,0 +1,194 @@
+﻿<?xml version="1.0"?>
+<!--config file for Wonderpets Dress Up Game-->
+<config>
+	<display_name>Wonderpets Build Ship Game</display_name>
+	<version>0.001</version>
+	<quality>HIGH</quality>	<!-- LOW MEDIUM HIGH -->
+	<scale_mode>noScale</scale_mode>  <!-- noScale showAll -->
+	<outro_anim>FB_outro_anim_mc</outro_anim>
+	
+	 <!-- Audio settings -->
+	<audio>
+		<!-- audioChannels, dynamic movieclips that sound objects attached to -->
+		<!-- flash8 can support up to 32 simultaneous audio channels -->
+		<audioChannels>
+			<audioChannel id="VO"/>
+			<audioChannel id="SFX"/>
+			<audioChannel id="BG_MUSIC"/>
+			<audioChannel id="MISC"/>
+			<audioChannel id="MISC2"/>
+		</audioChannels>
+		<audioItems>
+			<audioItem id="rr_01.wav" loc="embedded" type="vo" channelID="VO" handle="audioInstructionVoID" callback="onCompleteInstructionSequence" offset="0" loops="0" duration="100%"/>
+			<audioItem id="wp_instruct_music_end01.aif" loc="embedded" type="sfx"  channelID="SFX" handle="audioInterstitialMusicID" callback="onCompleteInterstitialMusic" offset="0" loops="0" duration="100%"/>
+			<audioItem id="flyboatgameloop 01.aif" loc="embedded" type="bg_music"  channelID="BG_MUSIC" handle="audioBackgroundMusicID" callback="null" offset="0" loops="500" duration="100%"/>			<audioItem id="beach music end.aif" loc="embedded" type="bg_music"  channelID="BG_MUSIC" handle="audioBackgroundMusicEndID" callback="null" offset="0" loops="0" duration="100%"/>
+			<audioItem id="L_boatflys_s03.aif" loc="embedded" type="bg_music"  channelID="BG_MUSIC" handle="audioPreOutroMusicID" callback="null" offset="0" loops="0" duration="100%"/>
+			<audioItem id="fanfare 01.aif" loc="embedded" type="sfx"  channelID="SFX" handle="audioSfxSuccess" callback="null" offset="0" loops="0" duration="100%"/>					
+			<audioItem id="Place_01.aif" loc="embedded" type="sfx"  channelID="SFX" handle="audioSfxOnCorrectMove" callback="null" offset="0" loops="0" duration="100%"/>				
+		</audioItems>
+	</audio>
+	
+	<container_items>
+		<container_item linkage="FB_ship_unassembled_mc" type="embedded" >
+			<hitarea type="shape"/>
+			<start x="147.9" y="174.5" scale="80" rotation="45" depth="35" />
+		</container_item>
+	</container_items>
+	
+	<!-- Game settings -->
+	<overlay_items>
+		<!-- item start depth is determined by order in xml, but can be overridden if explicitly defined in "start" node  depth="35" || depth="null"  -->
+		<overlay_item linkage="GP_intro" type="embedded" mode="character"  display_name="LINNY">
+			<hitarea type="box"/>
+			<start x="528.8" y="305.9" scale="20" rotation="0" depth="null" />
+			<character id="LINNY">
+				<intro_anim id="GP_intro"/>
+				<idle_anim id="GP_idle"/>
+				<preoutro_anim id="GP_L_boatflys_s03AIF"/>
+				<encouragement_anims>
+					<encouragement_anim id="GP_wpL_13AIF"/>
+					<encouragement_anim id="GP_wpL_14AIF"/>
+					<encouragement_anim id="GP_wpL_15AIF"/>
+					<encouragement_anim id="GP_wpL_16AIF"/>
+					<encouragement_anim id="GP_wpL_17AIF"/>
+				</encouragement_anims>
+				<inactivity_anims>
+					<inactivity_anim id="GP_wpL_18AIF" display_name="WHEEL"/>
+					<inactivity_anim id="GP_wpL_19AIF" display_name="SAIL"/>
+					<inactivity_anim id="GP_wpL_20AIF" display_name="MAST"/>
+				</inactivity_anims>	
+			</character>
+		</overlay_item>
+		
+		<overlay_item linkage="MM_intro" type="embedded" mode="character"  display_name="MINGMING">
+			<hitarea type="box"/>
+			<start x="124.0" y="256.8" scale="20" rotation="0" depth="null" />
+			<character id="MINGMING">
+				<intro_anim id="MM_intro"/>
+				<idle_anim id="MM_idle"/>
+				<preoutro_anim id="null"/>
+				<encouragement_anims>
+					<encouragement_anim id="MM_wpm_05AIF"/>
+					<encouragement_anim id="MM_wpm_06AIF"/>
+				</encouragement_anims>
+				<inactivity_anims>null</inactivity_anims>	
+			</character>
+		</overlay_item>	
+		
+		<overlay_item linkage="TT_intro" type="embedded" mode="character"  display_name="TUCK">
+			<hitarea type="box"/>
+			<start x="376.9" y="126.8" scale="20" rotation="0" depth="null" />
+			<character id="TUCK">
+				<intro_anim id="TT_intro"/>
+				<idle_anim id="TT_idle"/>
+				<preoutro_anim id="null"/>
+				<encouragement_anims>
+					<encouragement_anim id="TT_wpt_03AIF"/>
+					<encouragement_anim id="TT_wpt_03AIF"/>
+				</encouragement_anims>
+				<inactivity_anims>null</inactivity_anims>	
+			</character>
+		</overlay_item>	
+		
+		<overlay_item linkage="FB_basket_shelf_mc" type="embedded">
+			<hitarea type="shape"/>
+			<start x="-10" y="34" scale="100" rotation="0" depth="null" />
+		</overlay_item>		
+		<overlay_item linkage="FB_ball_mc" type="embedded">
+			<hitarea type="shape"/>
+			<start x="158.6" y="75" scale="80" rotation="0" depth="null" />
+		</overlay_item>
+		<overlay_item linkage="FB_basket_mc" type="embedded">
+			<hitarea type="shape"/>
+			<start x="400" y="129" scale="90" rotation="0" depth="null" />
+		</overlay_item>
+		<overlay_item linkage="FB_block_mc" type="embedded">
+			<hitarea type="shape"/>
+			<start x="428" y="287.9" scale="100" rotation="0" depth="null" />
+		</overlay_item>		
+		<overlay_item linkage="FB_guitar_mc" type="embedded">
+			<hitarea type="shape"/>
+			<start x="386" y="218" scale="100" rotation="0" depth="null" />
+		</overlay_item>		
+		<overlay_item linkage="FB_piano_mc" type="embedded">
+			<hitarea type="shape"/>
+			<start x="-21" y="169" scale="90" rotation="0" depth="null" />
+		</overlay_item>		
+		<overlay_item linkage="FB_recordplayer_mc" type="embedded">
+			<hitarea type="shape"/>
+			<start x="439" y="43" scale="80" rotation="0" depth="null" />
+		</overlay_item>
+		<overlay_item linkage="FB_swan_mc" type="embedded">
+			<hitarea type="shape"/>
+			<start x="-12" y="62" scale="80" rotation="0" depth="null" />
+		</overlay_item>		
+		<overlay_item linkage="FB_truck_mc" type="embedded">
+			<hitarea type="shape"/>
+			<start x="217" y="246" scale="100" rotation="0" depth="null" />
+		</overlay_item>
+		<overlay_item linkage="FB_stuff_mc" type="embedded">
+			<hitarea type="shape"/>
+			<start x="-7" y="270.7" scale="100" rotation="0" depth="null" />
+		</overlay_item>		
+	</overlay_items>
+
+	<hidden_items>
+		<!-- item start depth is determined by order in xml, but can be overridden if explicitly defined in "start" node  depth="35" || depth="null"  -->
+		<hidden_item linkage="FB_mast_mc" type="embedded" display_name="MAST">
+			<hitarea type="shape"/>
+			<anims>
+				<anim event="onRollOver" anim_style="Bounce" filter="glow" />
+				<anim event="onStartDrag" anim_style="Bounce" filter="shadow"/>
+				<anim event="onStopDrag" anim_style="Bounce" filter="glow" />				
+				<anim event="onPress" anim_style="null" filter="null" />
+				<anim event="onRelease" anim_style="null" filter="null"/>
+			</anims>
+			<start x="20" y="50" scale="100" rotation="45" depth="35" />
+			<targets>
+				<target x="105.5" y="27.8" frame="2" depth="102" event_handler="showItem"/>				
+				<target x="361.4" y="169.2" frame="2" depth="102" event_handler="showItem"/>				
+				<target x="429" y="-4.3" frame="2" depth="102" event_handler="showItem"/>				
+				<target x="552.5" y="44.7" frame="2" depth="102" event_handler="showItem"/>				
+				<!-- <target x="400" y="197" frame="2" depth="102" event_handler="showItem"/>  -->			
+			</targets>
+		</hidden_item>
+		<hidden_item linkage="FB_sail_mc" type="embedded" display_name="SAIL">
+			<hitarea type="shape"/>
+			<anims>
+				<anim event="onRollOver" anim_style="Bounce" filter="glow" />
+				<anim event="onStartDrag" anim_style="Bounce" filter="shadow"/>
+				<anim event="onStopDrag" anim_style="Bounce" filter="glow" />				
+				<anim event="onPress" anim_style="null" filter="null" />
+				<anim event="onRelease" anim_style="null" filter="null"/>
+			</anims>
+			<start x="20" y="50" scale="100" rotation="45" depth="35" />
+			<targets>
+				<target x="11.2" y="7.2" frame="2" depth="101" event_handler="showItem"/>
+				<target x="136.6" y="47.6" frame="2" depth="101" event_handler="showItem"/>
+				<target x="462.2" y="24.3" frame="2" depth="101" event_handler="showItem"/>
+				<target x="36" y="224.5" frame="2" depth="101" event_handler="showItem"/>
+				<!-- <target x="2" y="139" frame="2" depth="101" event_handler="showItem"/>  -->
+			</targets>			
+		</hidden_item>
+		<hidden_item linkage="FB_wheel_mc" type="embedded" display_name="WHEEL">
+			<hitarea type="shape"/>
+			<anims>
+				<anim event="onRollOver" anim_style="Bounce" filter="glow" />
+				<anim event="onStartDrag" anim_style="Bounce" filter="shadow"/>
+				<anim event="onStopDrag" anim_style="Bounce" filter="glow" />				
+				<anim event="onPress" anim_style="null" filter="null" />
+				<anim event="onRelease" anim_style="null" filter="null"/>
+			</anims>
+			<start x="20" y="50" scale="100" rotation="45" depth="35"/>
+			<targets>
+				<target x="84.7" y="189.5" frame="2" depth="103" event_handler="showItem"/>
+				<target x="199.5" y="96.1" frame="2" depth="103" event_handler="showItem"/>
+				<target x="147.4" y="282.7" frame="2" depth="103" event_handler="showItem"/>
+				<target x="462.2" y="215" frame="2" depth="103" event_handler="showItem"/>
+				<!-- <target x="156" y="294" frame="2" depth="103" event_handler="showItem"/>  -->
+			</targets>
+		</hidden_item>			
+	</hidden_items>
+	
+	
+</config>

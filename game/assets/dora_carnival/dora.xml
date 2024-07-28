@@ -1,0 +1,136 @@
+<?xml version="1.0" ?>
+	<!--
+		Tag Key
+		id 			: String 	// used to look up help copy and active flag, associated with in-game movieclip name
+		name		: String	// name of game, prize, or generic screen
+		cost		: Int		// ticket value to purchase the prize
+		path		: String 	// relative path to game, prize, or screen content if applicable
+		help		: String 	// copy shown in the dynamic popup box
+		active		: Boolean 	// if entire entry should be skipped in the xml parsing
+		audio		: Boolean 	// if to begin a random audio loop at the beginning of the game or prize activity
+	-->
+<activity>
+
+	<games>
+		<game>
+			<id>crane</id>
+			<name>Crane Game</name>
+			<path>/game/assets/dora_carnival/games/crane.swf</path>
+			<help>Some boots contain tickets and others have fun surprises. Guide the crane with your mouse, and then click to drop the crane and pick up a boot.</help>
+			<active>true</active>
+			<audio>true</audio>
+		</game>
+		<game>
+			<id>sliderace</id>
+			<name>Slide Race</name>
+			<path>/game/assets/dora_carnival/games/SlipperySlide.swf</path>
+			<help>Use your mouse to trace a path down the slide. Win tickets when you reach the finish line at the bottom. Try to stay in the middle of your lane: when you hit the sides of the lane, you slow down.</help>
+			<active>true</active>
+			<audio>true</audio>
+		</game>
+		<game>
+			<id>airhockey</id>
+			<name>Air Hockey</name>
+			<path>/game/assets/dora_carnival/games/AirHockey.swf</path>
+			<help>Click and hold the mouse down to move your paddle. Try to hit the puck into Swiper's goal. You win a ticket for every goal you make. But watch out! You need to protect your goal too.</help>
+			<active>true</active>
+			<audio>true</audio>
+		</game>
+	</games>
+
+	<prizes>
+		<prize>
+			<id>printmap</id>
+			<name>Printable Map</name>
+			<cost>5</cost>
+			<path>/game/assets/dora_carnival/prizes/printable_map.swf</path>
+			<help>Click on the button to print your carnival maze!</help>
+			<active>true</active>
+			<audio>true</audio>
+		</prize>
+		<prize>
+			<id>dressup</id>
+			<name>Dress-up Block</name>
+			<cost>10</cost>
+			<path>/game/assets/dora_carnival/prizes/dressup.swf</path>
+			<help>Click on the different sections of the block to change Dora's outfit.</help>
+			<active>true</active>
+			<audio>true</audio>
+		</prize>
+		<prize>
+			<id>box</id>
+			<name>Swiper Box</name>
+			<cost>20</cost>
+			<path>/game/assets/dora_carnival/prizes/swiperbox.swf</path>
+			<help>Click on the handle to start the handle turning. When the handle stops, see what silly thing Swiper does.</help>
+			<active>true</active>
+			<audio>false</audio>
+		</prize>
+	</prizes>
+
+	<!--
+		Any Screen that should be loaded on demand should have its active tag set to false and its path defined.
+	 	Otherwise, set the active tag to true and define the path in order for the item to be considered as part of the loader
+	 -->
+
+	<screens>
+		<screen>
+			<id>logo</id>
+			<name></name> <!-- No help title -->
+			<path>/game/assets/dora_carnival/logo.swf</path>
+			<help></help> <!-- No help for the logo intro -->
+			<active>true</active>
+		</screen>
+		<screen>
+			<id>teaser</id>
+			<name></name> <!-- No help title -->
+			<path>/game/assets/dora_carnival/teaser.swf</path>
+			<help></help> <!-- No help for the teaser -->
+			<active>false</active> <!-- Teaser inactive in the NickJr version -->
+		</screen>
+		<screen>
+			<id>walkthrough</id>
+			<name></name> <!-- No help title -->
+			<path>/game/assets/dora_carnival/walkthrough.swf</path>
+			<help></help> <!-- No help for the walkthrough -->
+			<active>true</active>
+		</screen>
+		<screen>
+			<id>entry</id>
+			<name>Treasure Chest Selection Screen</name>
+			<path>/game/assets/dora_carnival/entry.swf</path>
+			<help>This is the Treasure Chest Selection Screen</help>
+			<active>true</active>
+		</screen>
+		<screen>
+			<id>map</id>
+			<name>Carnival Map</name>
+			<path>/game/assets/dora_carnival/map.swf</path>
+			<help>You can visit all the games at the carnival by clicking the booths on Map. Dora tells you what the game is when you roll over the booth with your mouse.</help>
+			<active>true</active>
+		</screen>
+		<screen>
+			<id>store</id>
+			<name>HOW TO CHOOSE YOUR TREASURE</name>
+			<path>/game/assets/dora_carnival/store.swf</path>
+			<help>Trade your tickets for prizes. The amount you need is indicated underneath each prize. A lock on the prize means you don't have enough tickets yet—so keep playing! If a prize has a check mark, you already have it in your treasure chest.</help>
+			<active>false</active> <!-- Loaded on demand -->
+		</screen>
+		<screen>
+			<id>treasure</id>
+			<name>Treasure Chest</name>
+			<path>/game/assets/dora_carnival/treasure.swf</path>
+			<help>Your treasure chest holds all your prizes! You can play with your prizes or print them out by clicking on them. If you see a question mark, then you don't have that prize yet. Go to the prize booth to trade your tickets for those prizes.</help>
+			<active>false</active> <!-- Loaded on demand -->
+		</screen>
+		<screen>
+			<id>general</id>
+			<name>About the Carnival</name>
+			<path></path> <!-- Part of the shell -->
+			<help>Play games to earn tickets, and then trade your tickets for prizes at the store. Use Map to visit all the carnival booths and play all the games at the carnival. Click on your treasure chest anytime to play with your prizes.</help>
+			<active>false</active>
+		</screen>
+	</screens>
+
+</activity>
+

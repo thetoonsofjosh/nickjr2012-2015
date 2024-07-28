@@ -1,0 +1,229 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Settings>
+	<game width="740" height="320" edit="false" />
+	<content swf="GameContent.swf"/>
+	<transitions swf="animations.swf"/>
+	<localization isEnglish="true" path="xml/strings.xml"/>
+	<music swf="Music.swf"/>
+	<gameObjects>ladderHint,Ladder,wall,potion,dragon0,dragon50,dragon100,light,decor002,decor004,decor005,endScreen</gameObjects>
+	<keycodes>
+		<left val="37"/>
+		<right val="39"/>
+		<up val="38"/>
+		<down val="40"/>
+		<alt val="32"/>
+	</keycodes>
+	<SoundsToLoad dir="mp3">
+		<sound path="OGK_23.mp3"  id="pl-a" />
+		<sound path="OGK_24.mp3"  id="pl-b" />
+		<sound path="OGK_25.mp3"  id="pl-c" />
+		<sound path="OGK_26.mp3"  id="pl-d" />
+		<sound path="OGK_27.mp3"  id="pl-e" />
+		<sound path="OGK_28.mp3"  id="pl-f" />
+		<sound path="OGK_29.mp3"  id="pl-g" />
+		<sound path="OGK_30.mp3"  id="pl-h" />
+		<sound path="OGK_31.mp3"  id="pl-i" />
+		<sound path="OGK_32.mp3"  id="pl-j" />
+		<sound path="OGK_33.mp3"  id="pl-k" />
+		<sound path="OGK_34.mp3"  id="pl-l" />
+		<sound path="OGK_35.mp3"  id="pl-m" />
+		<sound path="OGK_36.mp3"  id="pl-n" />
+		<sound path="OGK_37.mp3"  id="pl-o" />
+		<sound path="OGK_38.mp3"  id="pl-p" />
+		<sound path="OGK_39.mp3"  id="pl-q" />
+		<sound path="OGK_40.mp3"  id="pl-r" />
+		<sound path="OGK_41.mp3"  id="pl-s" />
+		<sound path="OGK_42.mp3"  id="pl-t" />
+		<sound path="OGK_43.mp3"  id="pl-u" />
+		<sound path="OGK_44.mp3"  id="pl-v" />
+		<sound path="OGK_45.mp3"  id="pl-w" />
+		<sound path="OGK_46.mp3"  id="pl-x" />
+		<sound path="OGK_47.mp3"  id="pl-y" />
+		<sound path="OGK_48.mp3"  id="pl-z" />
+		
+		<sound path="OGK_49.mp3"  id="sg-a" />
+		<sound path="OGK_50.mp3"  id="sg-b" />
+		<sound path="OGK_51.mp3"  id="sg-c" />
+		<sound path="OGK_52.mp3"  id="sg-d" />
+		<sound path="OGK_53.mp3"  id="sg-e" />
+		<sound path="OGK_54.mp3"  id="sg-f" />
+		<sound path="OGK_55.mp3"  id="sg-g" />
+		<sound path="OGK_56.mp3"  id="sg-h" />
+		<sound path="OGK_57.mp3"  id="sg-i" />
+		<sound path="OGK_58.mp3"  id="sg-j" />
+		<sound path="OGK_59.mp3"  id="sg-k" />
+		<sound path="OGK_60.mp3"  id="sg-l" />
+		<sound path="OGK_61.mp3"  id="sg-m" />
+		<sound path="OGK_62.mp3"  id="sg-n" />
+		<sound path="OGK_63.mp3"  id="sg-o" />
+		<sound path="OGK_64.mp3"  id="sg-p" />
+		<sound path="OGK_65.mp3"  id="sg-q" />
+		<sound path="OGK_66.mp3"  id="sg-r" />
+		<sound path="OGK_67.mp3"  id="sg-s" />
+		<sound path="OGK_68.mp3"  id="sg-t" />
+		<sound path="OGK_69.mp3"  id="sg-u" />
+		<sound path="OGK_70.mp3"  id="sg-v" />
+		<sound path="OGK_71.mp3"  id="sg-w" />
+		<sound path="OGK_72.mp3"  id="sg-x" />
+		<sound path="OGK_73.mp3"  id="sg-y" />
+		<sound path="OGK_74.mp3"  id="sg-z" />
+		
+		<sound path="NOGK_135.mp3"  id="sg-a-sound" />
+		<sound path="OGK_136.mp3"  id="sg-b-sound" />
+		<sound path="OGK_144.mp3"  id="sg-c-sound" />
+		<sound path="OGK_137.mp3"  id="sg-d-sound" />
+		<sound path="NOGK_138.mp3"  id="sg-e-sound" />
+		<sound path="OGK_139.mp3"  id="sg-f-sound" />
+		<sound path="OGK_140.mp3"  id="sg-g-sound" />
+		<sound path="OGK_141.mp3"  id="sg-h-sound" />
+		<sound path="NOGK_142.mp3"  id="sg-i-sound" />
+		<sound path="OGK_143.mp3"  id="sg-j-sound" />
+		<sound path="OGK_144.mp3"  id="sg-k-sound" />
+		<sound path="OGK_145.mp3"  id="sg-l-sound" />
+		<sound path="OGK_146.mp3"  id="sg-m-sound" />
+		<sound path="NOGK_147.mp3"  id="sg-n-sound" />
+		<sound path="NOGK_148.mp3"  id="sg-o-sound" />
+		<sound path="OGK_149.mp3"  id="sg-p-sound" />
+		<sound path="NOGK_149A.mp3"  id="sg-q-sound" />
+		<sound path="OGK_150.mp3"  id="sg-r-sound" />
+		<sound path="OGK_151.mp3"  id="sg-s-sound" />
+		<sound path="OGK_152.mp3"  id="sg-t-sound" />
+		<sound path="NOGK_153.mp3"  id="sg-u-sound" />
+		<sound path="OGK_154.mp3"  id="sg-v-sound" />
+		<sound path="OGK_155.mp3"  id="sg-w-sound" />
+		<sound path="NOGK_155A.mp3"  id="sg-x-sound" />
+		<sound path="OGK_156.mp3"  id="sg-y-sound" />
+		<sound path="OGK_157.mp3"  id="sg-z-sound" />
+		
+		<sound path="NOGK_16.mp3"  id="l1-q1" />
+		<sound path="NOGK_17.mp3"  id="l1-q2" />
+		<sound path="OGK_18.mp3"  id="l1-q3" />
+		<sound path="OGK_19.mp3"  id="l1-q4" />
+		<sound path="OGK_20.mp3"  id="l1-q5" />
+		<sound path="OGK_21.mp3"  id="l1-q6" />
+		<sound path="OGK_22.mp3"  id="l1-q7" />
+		
+		<sound path="OGK_75.mp3"  id="l1-hint1" />
+		<sound path="NOGK_76.mp3"  id="l1-hint2-1" />
+		<sound path="NOGK_77.mp3"  id="l1-hint2-2" />
+		<sound path="OGK_78.mp3"  id="l1-hint3" />
+		
+		<sound path="OGK_79.mp3"  id="OGK_79" />
+		<sound path="OGK_80.mp3"  id="OGK_80" />
+		<sound path="OGK_81.mp3"  id="OGK_81" />
+		
+		<sound path="OGK_82.mp3"  id="correct-1" />
+		<sound path="OGK_83.mp3"  id="correct-2" />
+		<sound path="OGK_84.mp3"  id="correct-3" />
+		<sound path="OGK_85.mp3"  id="correct-4" />
+		<sound path="OGK_86.mp3"  id="correct-5" />
+		<sound path="OGK_87.mp3"  id="correct-6" />
+		
+		<sound path="OGK_88.mp3"  id="correct_followup" />
+		
+		<sound path="OGK_121.mp3"  id="L2correct-1" />
+		<sound path="OGK_122.mp3"  id="L2correct-2" />
+		<sound path="OGK_123.mp3"  id="L2correct-3" />
+		<sound path="OGK_124.mp3"  id="L2correct-4" />
+		<sound path="OGK_125.mp3"  id="L2correct-5" />
+		<sound path="OGK_126.mp3"  id="L2correct-6" />
+		
+		<sound path="OGK_127.mp3"  id="L2correct_followup" />
+		
+		<sound path="OGK_90.mp3"  id="correct_end1" />
+		<sound path="NOGK_187.mp3"  id="correct_end2" />
+		
+		<sound path="OGK_130.mp3"  id="l3-q1" />
+		<sound path="NOGK_131.mp3"  id="l3-q2" />
+		<sound path="OGK_132.mp3"  id="l3-q3" />
+		
+		<sound path="OGK_107.mp3"  id="OGK_107" />
+		<sound path="OGK_108.mp3"  id="OGK_108" />
+		<sound path="OGK_109.mp3"  id="OGK_109" />
+		<sound path="OGK_110.mp3"  id="OGK_110" />
+		<sound path="OGK_111.mp3"  id="OGK_111" />
+		<sound path="OGK_112.mp3"  id="OGK_112" />
+		<sound path="OGK_113.mp3"  id="OGK_113" />
+		<sound path="OGK_114.mp3"  id="OGK_114" />
+		<sound path="OGK_115.mp3"  id="OGK_115" />
+		<sound path="OGK_116.mp3"  id="OGK_116" />
+		<sound path="OGK_117.mp3"  id="OGK_117" />
+		<sound path="OGK_118.mp3"  id="OGK_118" />
+		<sound path="NOGK_118A.mp3"  id="OGK_118a" />
+		<sound path="OGK_119.mp3"  id="OGK_119" />
+		<sound path="OGK_120.mp3"  id="OGK_120" />
+		
+		<sound path="OGK_158.mp3"  id="OGK_158" />
+		<sound path="OGK_159.mp3"  id="OGK_159" />
+		<sound path="OGK_160.mp3"  id="OGK_160" />
+		<sound path="OGK_161.mp3"  id="OGK_161" />
+		<sound path="OGK_162.mp3"  id="OGK_162" />
+		<sound path="OGK_163.mp3"  id="OGK_163" />
+		
+		<sound path="OGK_111.mp3"  id="OGK_119" />
+		
+		<sound path="Ding.mp3" id="ding" />
+		
+		<sound path="OGK_177.mp3"  id="first_tickle_setup_1" />
+		<sound path="OGK_178.mp3"  id="first_tickle_setup_2" />
+		
+		<sound path="OGK_171.mp3"  id="tickle_hint1" />
+		<sound path="OGK_172.mp3"  id="tickle_hint2" />
+		
+		<sound path="OGK_96.mp3"  id="escape_1" />
+		<sound path="OGK_173.mp3"  id="escape_2" />
+		
+		<sound path="OGK_91.mp3"  id="caught_1" />
+		<sound path="OGK_97.mp3"  id="caught_2" />
+		<sound path="OGK_98.mp3"  id="caught_3" />
+		<sound path="OGK_94.mp3"  id="caught_4" />
+		<sound path="OGK_95.mp3"  id="caught_5" />
+		<sound path="OGK_92.mp3"  id="caught_6" />
+		<sound path="OGK_93.mp3"  id="caught_7" />
+		<sound path="OGK_99.mp3"  id="caught_8" />
+		<sound path="OGK_100.mp3"  id="caught_9" />
+		<sound path="OGK_101.mp3"  id="caught_10" />
+		
+		<sound path="OGK_1.mp3"  id="OGK_1" />
+		<sound path="OGK_2.mp3"  id="OGK_2" />
+		<sound path="OGK_3.mp3"  id="OGK_3" />
+		<sound path="OGK_4.mp3"  id="OGK_4" />
+		<sound path="OGK_5.mp3"  id="OGK_5" />
+		<sound path="NOGK_6.mp3"  id="OGK_6" />
+		<sound path="OGK_7.mp3"  id="OGK_7" />
+		<sound path="OGK_8.mp3"  id="OGK_8" />
+		<sound path="OGK_9.mp3"  id="OGK_9" />
+		<sound path="OGK_10.mp3"  id="OGK_10" />
+		<sound path="OGK_11.mp3"  id="OGK_11" />
+		<sound path="NOGK_12.mp3"  id="OGK_12" />
+		<sound path="OGK_13.mp3"  id="OGK_13" />
+		<sound path="OGK_14.mp3"  id="OGK_14" />
+		<sound path="OGK_15.mp3"  id="OGK_15" />
+		
+		<sound path="OGK_104.mp3"  id="OGK_104" />
+		<sound path="OGK_105.mp3"  id="OGK_105" />
+		<sound path="NOGK_106.mp3"  id="OGK_106" />
+		<sound path="OGK_128.mp3"  id="OGK_128" />
+		<sound path="OGK_129.mp3"  id="OGK_129" />
+		
+		<sound path="OGK_164.mp3"  id="OGK_164" />
+		<sound path="OGK_165.mp3"  id="OGK_165" />
+		<sound path="NOGK_166.mp3"  id="OGK_166" />
+		<sound path="NOGK_167.mp3"  id="OGK_167" />
+		<sound path="OGK_168.mp3"  id="OGK_168" />
+		<sound path="OGK_169.mp3"  id="OGK_169" />
+		<sound path="NOGK_179.mp3"  id="OGK_179" />
+		<sound path="NOGK_180.mp3"  id="OGK_180" />
+		<sound path="NOGK_181.mp3"  id="OGK_181" />
+		<sound path="NOGK_182.mp3"  id="OGK_182" />
+		<sound path="NOGK_183.mp3"  id="OGK_183" />
+		<sound path="NOGK_184.mp3"  id="OGK_184" />
+		<sound path="NOGK_185.mp3"  id="OGK_185" />
+		<sound path="NOGK_186.mp3"  id="OGK_186" />
+		
+		<sound path="NOGK_190.mp3"  id="startLevelPrompt1" />
+		<sound path="NOGK_191.mp3"  id="startLevelPrompt2" />
+		
+		<sound path="nothing_HalfSecond.mp3"  id="shortPause" />
+	</SoundsToLoad>
+</Settings>

@@ -1,0 +1,143 @@
+<data dir="mp3/">
+  <music channel="music" volume="50">
+	<sound id="titleSting" file="sting1" volume="40" loops="0" inLibrary="false" packName="" />
+	<sound id="introMusic1`" file="introMusic1" volume="40" loops="0" inLibrary="false" packName="" />
+	<sound id="introMusic2" file="introMusic2" volume="40" loops="0" inLibrary="false" packName="" />
+	<sound id="mainLoop" file="mainLoop" volume="40" loops="1" inLibrary="false" packName="" />
+	<sound id="endMusic"file="endMusic" volume="40" loops="1" inLibrary="false" packName="" />
+</music>
+  
+  <sfx channel="sfx" volume="50">
+	<sound file="introHit11" volume="70" inLibrary="false" packName="" />
+
+	<sound file="spit" volume="100" inLibrary="false" packName="" />
+	<sound file="afterSpit" volume="100" inLibrary="false" packName="" />
+	
+	<sound file="mirror" volume="40" inLibrary="false" packName="" />
+	<sound file="poke" volume="60" inLibrary="false" packName="" />
+	<sound file="click1" volume="20" inLibrary="false" packName="" />
+	<sound file="click2" volume="20" inLibrary="false" packName="" />
+	<sound file="snip" volume="50" inLibrary="false" packName="" />
+	<sound file="hairColor" volume="30" inLibrary="false" packName="" />
+	<sound file="clickAccessory" volume="30" inLibrary="false" packName="" />
+	<sound file="camera" volume="50" inLibrary="false" packName="" />
+	<sound file="shampoo" volume="50" inLibrary="false" packName="" />
+	<sound file="dryer" volume="50" inLibrary="false" packName="" />
+	<sound file="click4" volume="20" inLibrary="false" packName="" />
+	
+	<sound file="hairballMove1" volume="50" inLibrary="false" packName="" />
+	<sound file="changeGuppy" volume="20" inLibrary="false" packName="" />
+	<sound file="redButton" volume="80" inLibrary="false" packName="" />
+  </sfx>
+  
+  <vo channel="vo" volume="50">
+	<sound volume="100" inLibrary="false" file="BGHD_9.mp3" id="gil_intro" packName="" />
+	
+	<!-- TOUCH -->
+	<sound volume="51" inLibrary="false" file="GHD_2.mp3" id="play_to_start" packName="soundTouchPack" />
+	<sound volume="51" inLibrary="false" file="GHD_28.mp3" id="molly_GHD_28" packName="soundTouchPack" />
+	<sound volume="51" inLibrary="false" file="GHD_29.mp3" id="molly_GHD_29" packName="soundTouchPack" />
+	<sound volume="51" inLibrary="false" file="GHD_30.mp3" id="molly_GHD_30" packName="soundTouchPack" />
+	<sound volume="51" inLibrary="false" file="GHD_31.mp3" id="molly_GHD_31" packName="soundTouchPack" />
+	<sound volume="51" inLibrary="false" file="GHD_36.mp3" id="GHD_36" packName="soundTouchPack" />
+	<sound volume="51" inLibrary="false" file="GHD_78.mp3" id="molly_GHD_78" packName="soundTouchPack" />
+	<sound volume="51" inLibrary="false" file="GHD_79.mp3" id="molly_hairball_enter_touch" packName="soundTouchPack" />
+	<sound volume="51" inLibrary="false" file="GHD_86.mp3" id="GHD_86" packName="soundTouchPack" />
+	<sound volume="51" inLibrary="false" file="GHD_87a.mp3" id="GHD_87a" packName="soundTouchPack" />
+	
+	<!-- COMMON -->
+	<sound volume="51" inLibrary="false" file="GHD_55a.mp3" id="molly_styleAllGuppies_0" packName="" />
+	<sound volume="51" inLibrary="false" file="GHD_55b.mp3" id="molly_styleAllGuppies_1" packName="" />
+	
+	<sound volume="51" inLibrary="false" file="GHD_80b.mp3" id="molly_defeatHairball_0" packName="" />
+	<sound volume="51" inLibrary="false" file="GHD_82b.mp3" id="molly_defeatHairball_1" packName="" />
+	
+	<sound volume="51" inLibrary="false" file="GHD_1010.mp3" id="molly_GHD_1010" packName="" />
+	<sound volume="51" inLibrary="false" file="GHD_1011.mp3" id="molly_GHD_1011" packName="" />
+	
+	<sound volume="51" inLibrary="false" file="GHD_16.mp3" id="molly_GHD_16" packName="" />
+	<sound volume="51" inLibrary="false" file="GHD_17.mp3" id="molly_GHD_17" packName="" />
+	
+	<sound volume="51" inLibrary="false" file="GHD_1.mp3" id="title" packName="" />
+	<sound volume="51" inLibrary="false" file="GHD_4.mp3" id="play" packName="" />
+	<sound volume="51" inLibrary="false" file="GHD_5.mp3" id="molly_skip" packName="" />
+	<sound volume="51" inLibrary="false" file="GHD_6.mp3" id="play_again" packName="" />
+	<sound volume="51" inLibrary="false" file="GHD_7.mp3" id="print" packName="" />
+	<sound volume="51" inLibrary="false" file="GHD_8.mp3" id="GHD_8" packName="" />
+	<sound volume="51" inLibrary="false" file="GHD_9.mp3" id="GHD_9" packName="" />
+	<sound volume="51" inLibrary="false" file="GHD_10.mp3" id="GHD_10" packName="" />
+	<sound volume="51" inLibrary="false" file="GHD_11.mp3" id="GHD_11" packName="" />
+	<sound volume="51" inLibrary="false" file="GHD_12.mp3" id="GHD_12" packName="" />
+	<sound volume="51" inLibrary="false" file="GHD_13.mp3" id="GHD_13" packName="" />
+	<sound volume="51" inLibrary="false" file="GHD_14.mp3" id="molly_GHD_14" packName="" />
+	<sound volume="51" inLibrary="false" file="GHD_15.mp3" id="molly_GHD_15" packName="" />
+	<sound volume="51" inLibrary="false" file="GHD_18.mp3" id="molly_GHD_18" packName="" />
+	<sound volume="51" inLibrary="false" file="GHD_19.mp3" id="molly_GHD_19" packName="" />
+	<sound volume="51" inLibrary="false" file="GHD_20.mp3" id="molly_GHD_20" packName="" />
+	<sound volume="51" inLibrary="false" file="GHD_21.mp3" id="molly_GHD_21" packName="" />
+	<sound volume="51" inLibrary="false" file="GHD_22.mp3" id="molly_GHD_22" packName="" />
+	<sound volume="51" inLibrary="false" file="GHD_23.mp3" id="molly_GHD_23" packName="" />
+	<sound volume="51" inLibrary="false" file="GHD_24.mp3" id="molly_GHD_24" packName="" />
+	<sound volume="51" inLibrary="false" file="GHD_25.mp3" id="GHD_25" packName="" />
+	<sound volume="51" inLibrary="false" file="GHD_26.mp3" id="GHD_26" packName="" />
+	<sound volume="51" inLibrary="false" file="GHD_27.mp3" id="GHD_27" packName="" />
+	
+	<sound volume="51" inLibrary="false" file="GHD_38.mp3" id="GHD_38" packName="" />
+	<sound volume="51" inLibrary="false" file="GHD_39.mp3" id="GHD_39" packName="" />
+	
+	<sound volume="51" inLibrary="false" file="GHD_40.mp3" id="molly_tabName_styles" packName="" />
+	<sound volume="51" inLibrary="false" file="GHD_41.mp3" id="molly_tabName_colors" packName="" />
+	<sound volume="51" inLibrary="false" file="GHD_42.mp3" id="molly_tabName_colorsALT" packName="" />
+	<sound volume="51" inLibrary="false" file="GHD_43.mp3" id="molly_tabName_accessories" packName="" />
+	
+	<sound volume="51" inLibrary="false" file="GHD_44.mp3" id="molly_guppySelect_0" packName="" />
+	<sound volume="51" inLibrary="false" file="GHD_45.mp3" id="molly_guppySelect_1" packName="" />
+	<sound volume="51" inLibrary="false" file="GHD_46.mp3" id="molly_guppySelect_2" packName="" />
+	<sound volume="51" inLibrary="false" file="GHD_47.mp3" id="molly_guppySelect_3" packName="" />
+	
+	<sound volume="51" inLibrary="false" file="GHD_48.mp3" id="molly_hairChange_0" packName="" />
+	<sound volume="51" inLibrary="false" file="GHD_49.mp3" id="molly_hairChange_1" packName="" />
+	<sound volume="51" inLibrary="false" file="GHD_50.mp3" id="molly_hairChange_2" packName="" />
+	<sound volume="51" inLibrary="false" file="GHD_51.mp3" id="molly_hairChange_3" packName="" />
+	
+	<sound volume="51" inLibrary="false" file="GHD_52.mp3" id="gil_hairChange_0" packName="" />
+	<sound volume="51" inLibrary="false" file="GHD_53.mp3" id="gil_hairChange_1" packName="" />
+	<sound volume="51" inLibrary="false" file="GHD_54.mp3" id="gil_hairChange_2" packName="" />
+	<sound volume="51" inLibrary="false" file="GHD_55.mp3" id="gil_hairChange_3" packName="" />
+	
+	<sound volume="51" inLibrary="false" file="GHD_56.mp3" id="molly_blastResponse_0" packName="" />
+	<sound volume="51" inLibrary="false" file="GHD_57.mp3" id="gil_blastResponse_0" packName="" />
+	<sound volume="51" inLibrary="false" file="GHD_60.mp3" id="molly_blastResponse_1" packName="" />
+	<sound volume="51" inLibrary="false" file="GHD_61.mp3" id="gil_blastResponse_1" packName="" />
+	
+	<sound volume="51" inLibrary="false" file="GHD_58.mp3" id="molly_blastResponse_ALT" packName="" />
+	<sound volume="51" inLibrary="false" file="GHD_59.mp3" id="gil_blastResponse_ALT" packName="" />
+	
+	<sound volume="51" inLibrary="false" file="GHD_62.mp3" id="molly_blastRecover" packName="" />
+	<sound volume="51" inLibrary="false" file="GHD_63.mp3" id="gil_blastRecover" packName="" />
+	
+	<sound volume="51" inLibrary="false" file="GHD_64.mp3" id="molly_mirrorUse_0" packName="" />
+	<sound volume="51" inLibrary="false" file="GHD_65.mp3" id="molly_mirrorUse_1" packName="" />
+	<sound volume="51" inLibrary="false" file="GHD_66.mp3" id="molly_mirrorUse_2" packName="" />
+	<sound volume="51" inLibrary="false" file="GHD_67.mp3" id="molly_mirrorUse_3" packName="" />
+	<sound volume="51" inLibrary="false" file="GHD_68.mp3" id="gil_mirrorUse_0" packName="" />
+	<sound volume="51" inLibrary="false" file="GHD_69.mp3" id="gil_mirrorUse_1" packName="" />
+	<sound volume="51" inLibrary="false" file="GHD_70.mp3" id="gil_mirrorUse_2" packName="" />
+	<sound volume="51" inLibrary="false" file="GHD_71.mp3" id="gil_mirrorUse_3" packName="" />
+	
+	<sound volume="51" inLibrary="false" file="GHD_72.mp3" id="molly_shampooPicked_0" packName="" />
+	<sound volume="51" inLibrary="false" file="GHD_73.mp3" id="gil_shampooPicked_0" packName="" />
+	<sound volume="51" inLibrary="false" file="GHD_74.mp3" id="molly_shampooPicked_1" packName="" />
+	<sound volume="51" inLibrary="false" file="GHD_75.mp3" id="gil_shampooPicked_1" packName="" />
+	
+	<sound volume="51" inLibrary="false" file="GHD_76.mp3" id="molly_firstTimeDryer" packName="" />
+	
+	<sound volume="51" inLibrary="false" file="GHD_80.mp3" id="molly_zapResponse_0" packName="" />
+	<sound volume="51" inLibrary="false" file="GHD_81.mp3" id="gil_zapResponse_0" packName="" />
+	<sound volume="51" inLibrary="false" file="GHD_82.mp3" id="molly_zapResponse_1" packName="" />
+	<sound volume="51" inLibrary="false" file="GHD_83.mp3" id="gil_zapResponse_1" packName="" />
+	
+	<sound volume="51" inLibrary="false" file="GHD_84.mp3" id="GHD_84" packName="" />
+	<sound volume="51" inLibrary="false" file="GHD_85.mp3" id="GHD_85" packName="" />
+  </vo>
+</data>

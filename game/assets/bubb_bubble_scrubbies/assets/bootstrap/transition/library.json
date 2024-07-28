@@ -1,0 +1,3825 @@
+{
+  "frameRate": 30,
+  "movies": [
+    {
+      "id": "fx_transition_bubbles",
+      "layers": [
+        {
+          "name": "base",
+          "keyframes": [
+            {
+              "index": 0,
+              "duration": 10
+            },
+            {
+              "ref": "color_overlay",
+              "loc": [
+                481.5,
+                280
+              ],
+              "duration": 6,
+              "pivot": [
+                16.05,
+                16
+              ],
+              "index": 10,
+              "alpha": 0,
+              "scale": [
+                29.9995,
+                17.5007
+              ]
+            },
+            {
+              "ref": "color_overlay",
+              "loc": [
+                482.35,
+                279.55
+              ],
+              "duration": 4,
+              "pivot": [
+                16.05,
+                16
+              ],
+              "index": 16,
+              "scale": [
+                29.9995,
+                17.5007
+              ]
+            },
+            {
+              "ref": "color_overlay",
+              "loc": [
+                482.35,
+                279.55
+              ],
+              "duration": 6,
+              "pivot": [
+                16.05,
+                16
+              ],
+              "index": 20,
+              "scale": [
+                29.9995,
+                17.5007
+              ]
+            },
+            {
+              "ref": "color_overlay",
+              "loc": [
+                482.35,
+                279.55
+              ],
+              "duration": 1,
+              "pivot": [
+                16.05,
+                16
+              ],
+              "index": 26,
+              "alpha": 0,
+              "scale": [
+                29.9995,
+                17.5007
+              ]
+            },
+            {
+              "index": 27,
+              "duration": 33
+            }
+          ]
+        },
+        {
+          "name": "small01",
+          "keyframes": [
+            {
+              "index": 0,
+              "duration": 1
+            },
+            {
+              "ref": "fx_bubble_lg",
+              "loc": [
+                859,
+                618.95
+              ],
+              "duration": 5,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 1,
+              "alpha": 0.1992,
+              "scale": [
+                0.5631,
+                0.5631
+              ]
+            },
+            {
+              "ref": "fx_bubble_lg",
+              "loc": [
+                904.9,
+                390.85
+              ],
+              "duration": 6,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 6,
+              "scale": [
+                0.5631,
+                0.5631
+              ]
+            },
+            {
+              "ref": "fx_bubble_lg",
+              "loc": [
+                834.95,
+                152.9
+              ],
+              "duration": 6,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 12,
+              "scale": [
+                0.5631,
+                0.5631
+              ]
+            },
+            {
+              "ref": "fx_bubble_lg",
+              "loc": [
+                862.9,
+                -90.55
+              ],
+              "duration": 1,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 18,
+              "scale": [
+                0.5631,
+                0.5631
+              ]
+            },
+            {
+              "index": 19,
+              "duration": 41
+            }
+          ]
+        },
+        {
+          "name": "med01",
+          "keyframes": [
+            {
+              "index": 0,
+              "duration": 2
+            },
+            {
+              "ref": "fx_bubble_lg",
+              "loc": [
+                805.4,
+                788.25
+              ],
+              "duration": 5,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 2,
+              "alpha": 0.1992,
+              "scale": [
+                0.7506,
+                0.7506
+              ]
+            },
+            {
+              "ref": "fx_bubble_lg",
+              "loc": [
+                765.25,
+                484.25
+              ],
+              "duration": 6,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 7,
+              "scale": [
+                0.7506,
+                0.7506
+              ]
+            },
+            {
+              "ref": "fx_bubble_lg",
+              "loc": [
+                871.95,
+                167.2
+              ],
+              "duration": 6,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 13,
+              "scale": [
+                0.7506,
+                0.7506
+              ]
+            },
+            {
+              "ref": "fx_bubble_lg",
+              "loc": [
+                810.65,
+                -157.35
+              ],
+              "duration": 1,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 19,
+              "scale": [
+                0.7506,
+                0.7506
+              ]
+            },
+            {
+              "index": 20,
+              "duration": 40
+            }
+          ]
+        },
+        {
+          "name": "big01",
+          "keyframes": [
+            {
+              "index": 0,
+              "duration": 3
+            },
+            {
+              "loc": [
+                364.15,
+                735.95
+              ],
+              "duration": 5,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 3,
+              "alpha": 0.1992,
+              "ref": "fx_bubble_lg"
+            },
+            {
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 8,
+              "loc": [
+                310.7,
+                330.9
+              ],
+              "duration": 6,
+              "ref": "fx_bubble_lg"
+            },
+            {
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 14,
+              "loc": [
+                452.85,
+                -91.5
+              ],
+              "duration": 6,
+              "ref": "fx_bubble_lg"
+            },
+            {
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 20,
+              "loc": [
+                371.15,
+                -523.9
+              ],
+              "duration": 1,
+              "ref": "fx_bubble_lg"
+            },
+            {
+              "index": 21,
+              "duration": 39
+            }
+          ]
+        },
+        {
+          "name": "small02",
+          "keyframes": [
+            {
+              "index": 0,
+              "duration": 4
+            },
+            {
+              "ref": "fx_bubble_lg",
+              "loc": [
+                486.15,
+                583.9
+              ],
+              "duration": 5,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 4,
+              "alpha": 0.1992,
+              "scale": [
+                0.5631,
+                0.5631
+              ]
+            },
+            {
+              "ref": "fx_bubble_lg",
+              "loc": [
+                456.05,
+                355.8
+              ],
+              "duration": 6,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 9,
+              "scale": [
+                0.5631,
+                0.5631
+              ]
+            },
+            {
+              "ref": "fx_bubble_lg",
+              "loc": [
+                536.1,
+                117.85
+              ],
+              "duration": 6,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 15,
+              "scale": [
+                0.5631,
+                0.5631
+              ]
+            },
+            {
+              "ref": "fx_bubble_lg",
+              "loc": [
+                490.05,
+                -125.6
+              ],
+              "duration": 1,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 21,
+              "scale": [
+                0.5631,
+                0.5631
+              ]
+            },
+            {
+              "index": 22,
+              "duration": 38
+            }
+          ]
+        },
+        {
+          "name": "med02",
+          "keyframes": [
+            {
+              "index": 0,
+              "duration": 5
+            },
+            {
+              "ref": "fx_bubble_lg",
+              "loc": [
+                188.65,
+                718.3
+              ],
+              "duration": 5,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 5,
+              "alpha": 0.1992,
+              "scale": [
+                0.7506,
+                0.7506
+              ]
+            },
+            {
+              "ref": "fx_bubble_lg",
+              "loc": [
+                256.5,
+                414.3
+              ],
+              "duration": 6,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 10,
+              "scale": [
+                0.7506,
+                0.7506
+              ]
+            },
+            {
+              "ref": "fx_bubble_lg",
+              "loc": [
+                131.2,
+                97.25
+              ],
+              "duration": 6,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 16,
+              "scale": [
+                0.7506,
+                0.7506
+              ]
+            },
+            {
+              "ref": "fx_bubble_lg",
+              "loc": [
+                193.9,
+                -227.3
+              ],
+              "duration": 1,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 22,
+              "scale": [
+                0.7506,
+                0.7506
+              ]
+            },
+            {
+              "index": 23,
+              "duration": 37
+            }
+          ]
+        },
+        {
+          "name": "big02",
+          "keyframes": [
+            {
+              "index": 0,
+              "duration": 6
+            },
+            {
+              "loc": [
+                104.2,
+                927.9
+              ],
+              "duration": 5,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 6,
+              "alpha": 0.1992,
+              "ref": "fx_bubble_lg"
+            },
+            {
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 11,
+              "loc": [
+                186.75,
+                522.85
+              ],
+              "duration": 6,
+              "ref": "fx_bubble_lg"
+            },
+            {
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 17,
+              "loc": [
+                70.9,
+                100.45
+              ],
+              "duration": 6,
+              "ref": "fx_bubble_lg"
+            },
+            {
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 23,
+              "loc": [
+                111.2,
+                -331.95
+              ],
+              "duration": 1,
+              "ref": "fx_bubble_lg"
+            },
+            {
+              "index": 24,
+              "duration": 36
+            }
+          ]
+        },
+        {
+          "name": "small03",
+          "keyframes": [
+            {
+              "index": 0,
+              "duration": 7
+            },
+            {
+              "ref": "fx_bubble_lg",
+              "loc": [
+                271.2,
+                658.9
+              ],
+              "duration": 5,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 7,
+              "alpha": 0.1992,
+              "scale": [
+                0.5631,
+                0.5631
+              ]
+            },
+            {
+              "ref": "fx_bubble_lg",
+              "loc": [
+                317.1,
+                430.8
+              ],
+              "duration": 6,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 12,
+              "scale": [
+                0.5631,
+                0.5631
+              ]
+            },
+            {
+              "ref": "fx_bubble_lg",
+              "loc": [
+                247.15,
+                192.85
+              ],
+              "duration": 6,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 18,
+              "scale": [
+                0.5631,
+                0.5631
+              ]
+            },
+            {
+              "ref": "fx_bubble_lg",
+              "loc": [
+                275.1,
+                -50.6
+              ],
+              "duration": 1,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 24,
+              "scale": [
+                0.5631,
+                0.5631
+              ]
+            },
+            {
+              "index": 25,
+              "duration": 35
+            }
+          ]
+        },
+        {
+          "name": "med03",
+          "keyframes": [
+            {
+              "index": 0,
+              "duration": 8
+            },
+            {
+              "ref": "fx_bubble_lg",
+              "loc": [
+                347.55,
+                828.25
+              ],
+              "duration": 5,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 8,
+              "alpha": 0.1992,
+              "scale": [
+                0.7506,
+                0.7506
+              ]
+            },
+            {
+              "ref": "fx_bubble_lg",
+              "loc": [
+                307.4,
+                524.25
+              ],
+              "duration": 6,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 13,
+              "scale": [
+                0.7506,
+                0.7506
+              ]
+            },
+            {
+              "ref": "fx_bubble_lg",
+              "loc": [
+                414.1,
+                207.2
+              ],
+              "duration": 6,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 19,
+              "scale": [
+                0.7506,
+                0.7506
+              ]
+            },
+            {
+              "ref": "fx_bubble_lg",
+              "loc": [
+                352.8,
+                -117.35
+              ],
+              "duration": 1,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 25,
+              "scale": [
+                0.7506,
+                0.7506
+              ]
+            },
+            {
+              "index": 26,
+              "duration": 34
+            }
+          ]
+        },
+        {
+          "name": "big03",
+          "keyframes": [
+            {
+              "index": 0,
+              "duration": 9
+            },
+            {
+              "loc": [
+                826,
+                927.95
+              ],
+              "duration": 5,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 9,
+              "alpha": 0.1992,
+              "ref": "fx_bubble_lg"
+            },
+            {
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 14,
+              "loc": [
+                772.55,
+                522.9
+              ],
+              "duration": 6,
+              "ref": "fx_bubble_lg"
+            },
+            {
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 20,
+              "loc": [
+                914.7,
+                100.5
+              ],
+              "duration": 6,
+              "ref": "fx_bubble_lg"
+            },
+            {
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 26,
+              "loc": [
+                833,
+                -331.9
+              ],
+              "duration": 1,
+              "ref": "fx_bubble_lg"
+            },
+            {
+              "index": 27,
+              "duration": 33
+            }
+          ]
+        },
+        {
+          "name": "small04",
+          "keyframes": [
+            {
+              "index": 0,
+              "duration": 10
+            },
+            {
+              "ref": "fx_bubble_lg",
+              "loc": [
+                26.3,
+                637.9
+              ],
+              "duration": 5,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 10,
+              "alpha": 0.1992,
+              "scale": [
+                0.5631,
+                0.5631
+              ]
+            },
+            {
+              "ref": "fx_bubble_lg",
+              "loc": [
+                -3.8,
+                409.8
+              ],
+              "duration": 6,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 15,
+              "scale": [
+                0.5631,
+                0.5631
+              ]
+            },
+            {
+              "ref": "fx_bubble_lg",
+              "loc": [
+                76.25,
+                171.85
+              ],
+              "duration": 6,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 21,
+              "scale": [
+                0.5631,
+                0.5631
+              ]
+            },
+            {
+              "ref": "fx_bubble_lg",
+              "loc": [
+                30.2,
+                -71.6
+              ],
+              "duration": 1,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 27,
+              "scale": [
+                0.5631,
+                0.5631
+              ]
+            },
+            {
+              "index": 28,
+              "duration": 32
+            }
+          ]
+        },
+        {
+          "name": "med04",
+          "keyframes": [
+            {
+              "index": 0,
+              "duration": 11
+            },
+            {
+              "ref": "fx_bubble_lg",
+              "loc": [
+                582.5,
+                696.3
+              ],
+              "duration": 5,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 11,
+              "alpha": 0.1992,
+              "scale": [
+                0.7506,
+                0.7506
+              ]
+            },
+            {
+              "ref": "fx_bubble_lg",
+              "loc": [
+                650.35,
+                392.3
+              ],
+              "duration": 6,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 16,
+              "scale": [
+                0.7506,
+                0.7506
+              ]
+            },
+            {
+              "ref": "fx_bubble_lg",
+              "loc": [
+                525.05,
+                75.25
+              ],
+              "duration": 6,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 22,
+              "scale": [
+                0.7506,
+                0.7506
+              ]
+            },
+            {
+              "ref": "fx_bubble_lg",
+              "loc": [
+                587.75,
+                -249.3
+              ],
+              "duration": 1,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 28,
+              "scale": [
+                0.7506,
+                0.7506
+              ]
+            },
+            {
+              "index": 29,
+              "duration": 31
+            }
+          ]
+        },
+        {
+          "name": "big04",
+          "keyframes": [
+            {
+              "index": 0,
+              "duration": 10
+            },
+            {
+              "loc": [
+                594.05,
+                983.9
+              ],
+              "duration": 5,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 10,
+              "alpha": 0.1992,
+              "ref": "fx_bubble_lg"
+            },
+            {
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 15,
+              "loc": [
+                676.6,
+                578.85
+              ],
+              "duration": 6,
+              "ref": "fx_bubble_lg"
+            },
+            {
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 21,
+              "loc": [
+                560.75,
+                156.45
+              ],
+              "duration": 6,
+              "ref": "fx_bubble_lg"
+            },
+            {
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 27,
+              "loc": [
+                601.05,
+                -275.95
+              ],
+              "duration": 1,
+              "ref": "fx_bubble_lg"
+            },
+            {
+              "index": 28,
+              "duration": 32
+            }
+          ]
+        },
+        {
+          "name": "small05",
+          "keyframes": [
+            {
+              "index": 0,
+              "duration": 9
+            },
+            {
+              "ref": "fx_bubble_lg",
+              "loc": [
+                785.05,
+                620.95
+              ],
+              "duration": 5,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 9,
+              "alpha": 0.1992,
+              "scale": [
+                0.5631,
+                0.5631
+              ]
+            },
+            {
+              "ref": "fx_bubble_lg",
+              "loc": [
+                830.95,
+                392.85
+              ],
+              "duration": 6,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 14,
+              "scale": [
+                0.5631,
+                0.5631
+              ]
+            },
+            {
+              "ref": "fx_bubble_lg",
+              "loc": [
+                761,
+                154.9
+              ],
+              "duration": 6,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 20,
+              "scale": [
+                0.5631,
+                0.5631
+              ]
+            },
+            {
+              "ref": "fx_bubble_lg",
+              "loc": [
+                788.95,
+                -88.55
+              ],
+              "duration": 1,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 26,
+              "scale": [
+                0.5631,
+                0.5631
+              ]
+            },
+            {
+              "index": 27,
+              "duration": 33
+            }
+          ]
+        },
+        {
+          "name": "med05",
+          "keyframes": [
+            {
+              "index": 0,
+              "duration": 8
+            },
+            {
+              "ref": "fx_bubble_lg",
+              "loc": [
+                877.35,
+                648.3
+              ],
+              "duration": 5,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 8,
+              "alpha": 0.1992,
+              "scale": [
+                0.7506,
+                0.7506
+              ]
+            },
+            {
+              "ref": "fx_bubble_lg",
+              "loc": [
+                837.2,
+                344.3
+              ],
+              "duration": 6,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 13,
+              "scale": [
+                0.7506,
+                0.7506
+              ]
+            },
+            {
+              "ref": "fx_bubble_lg",
+              "loc": [
+                943.9,
+                27.25
+              ],
+              "duration": 6,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 19,
+              "scale": [
+                0.7506,
+                0.7506
+              ]
+            },
+            {
+              "ref": "fx_bubble_lg",
+              "loc": [
+                882.6,
+                -297.3
+              ],
+              "duration": 1,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 25,
+              "scale": [
+                0.7506,
+                0.7506
+              ]
+            },
+            {
+              "index": 26,
+              "duration": 34
+            }
+          ]
+        },
+        {
+          "name": "big05",
+          "keyframes": [
+            {
+              "index": 0,
+              "duration": 7
+            },
+            {
+              "loc": [
+                198.25,
+                741.95
+              ],
+              "duration": 5,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 7,
+              "alpha": 0.1992,
+              "ref": "fx_bubble_lg"
+            },
+            {
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 12,
+              "loc": [
+                144.8,
+                336.9
+              ],
+              "duration": 6,
+              "ref": "fx_bubble_lg"
+            },
+            {
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 18,
+              "loc": [
+                286.95,
+                -85.5
+              ],
+              "duration": 6,
+              "ref": "fx_bubble_lg"
+            },
+            {
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 24,
+              "loc": [
+                205.25,
+                -517.9
+              ],
+              "duration": 1,
+              "ref": "fx_bubble_lg"
+            },
+            {
+              "index": 25,
+              "duration": 35
+            }
+          ]
+        },
+        {
+          "name": "small06",
+          "keyframes": [
+            {
+              "index": 0,
+              "duration": 6
+            },
+            {
+              "ref": "fx_bubble_lg",
+              "loc": [
+                570.1,
+                593.85
+              ],
+              "duration": 5,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 6,
+              "alpha": 0.1992,
+              "scale": [
+                0.5631,
+                0.5631
+              ]
+            },
+            {
+              "ref": "fx_bubble_lg",
+              "loc": [
+                540,
+                365.75
+              ],
+              "duration": 6,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 11,
+              "scale": [
+                0.5631,
+                0.5631
+              ]
+            },
+            {
+              "ref": "fx_bubble_lg",
+              "loc": [
+                620.05,
+                127.8
+              ],
+              "duration": 6,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 17,
+              "scale": [
+                0.5631,
+                0.5631
+              ]
+            },
+            {
+              "ref": "fx_bubble_lg",
+              "loc": [
+                574,
+                -115.65
+              ],
+              "duration": 1,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 23,
+              "scale": [
+                0.5631,
+                0.5631
+              ]
+            },
+            {
+              "index": 24,
+              "duration": 36
+            }
+          ]
+        },
+        {
+          "name": "med06",
+          "keyframes": [
+            {
+              "index": 0,
+              "duration": 5
+            },
+            {
+              "ref": "fx_bubble_lg",
+              "loc": [
+                536.5,
+                656.3
+              ],
+              "duration": 5,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 5,
+              "alpha": 0.1992,
+              "scale": [
+                0.7506,
+                0.7506
+              ]
+            },
+            {
+              "ref": "fx_bubble_lg",
+              "loc": [
+                604.35,
+                352.3
+              ],
+              "duration": 6,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 10,
+              "scale": [
+                0.7506,
+                0.7506
+              ]
+            },
+            {
+              "ref": "fx_bubble_lg",
+              "loc": [
+                479.05,
+                35.25
+              ],
+              "duration": 6,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 16,
+              "scale": [
+                0.7506,
+                0.7506
+              ]
+            },
+            {
+              "ref": "fx_bubble_lg",
+              "loc": [
+                541.75,
+                -289.3
+              ],
+              "duration": 1,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 22,
+              "scale": [
+                0.7506,
+                0.7506
+              ]
+            },
+            {
+              "index": 23,
+              "duration": 37
+            }
+          ]
+        },
+        {
+          "name": "big06",
+          "keyframes": [
+            {
+              "index": 0,
+              "duration": 4
+            },
+            {
+              "loc": [
+                370.1,
+                879.9
+              ],
+              "duration": 5,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 4,
+              "alpha": 0.1992,
+              "ref": "fx_bubble_lg"
+            },
+            {
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 9,
+              "loc": [
+                452.65,
+                474.85
+              ],
+              "duration": 6,
+              "ref": "fx_bubble_lg"
+            },
+            {
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 15,
+              "loc": [
+                336.8,
+                52.45
+              ],
+              "duration": 6,
+              "ref": "fx_bubble_lg"
+            },
+            {
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 21,
+              "loc": [
+                377.1,
+                -379.95
+              ],
+              "duration": 1,
+              "ref": "fx_bubble_lg"
+            },
+            {
+              "index": 22,
+              "duration": 38
+            }
+          ]
+        },
+        {
+          "name": "small07",
+          "keyframes": [
+            {
+              "index": 0,
+              "duration": 3
+            },
+            {
+              "ref": "fx_bubble_lg",
+              "loc": [
+                179.2,
+                630.9
+              ],
+              "duration": 5,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 3,
+              "alpha": 0.1992,
+              "scale": [
+                0.5631,
+                0.5631
+              ]
+            },
+            {
+              "ref": "fx_bubble_lg",
+              "loc": [
+                225.1,
+                402.8
+              ],
+              "duration": 6,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 8,
+              "scale": [
+                0.5631,
+                0.5631
+              ]
+            },
+            {
+              "ref": "fx_bubble_lg",
+              "loc": [
+                155.15,
+                164.85
+              ],
+              "duration": 6,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 14,
+              "scale": [
+                0.5631,
+                0.5631
+              ]
+            },
+            {
+              "ref": "fx_bubble_lg",
+              "loc": [
+                183.1,
+                -78.6
+              ],
+              "duration": 1,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 20,
+              "scale": [
+                0.5631,
+                0.5631
+              ]
+            },
+            {
+              "index": 21,
+              "duration": 39
+            }
+          ]
+        },
+        {
+          "name": "med07",
+          "keyframes": [
+            {
+              "index": 0,
+              "duration": 2
+            },
+            {
+              "ref": "fx_bubble_lg",
+              "loc": [
+                -2.35,
+                696.3
+              ],
+              "duration": 5,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 2,
+              "alpha": 0.1992,
+              "scale": [
+                0.7506,
+                0.7506
+              ]
+            },
+            {
+              "ref": "fx_bubble_lg",
+              "loc": [
+                -42.5,
+                392.3
+              ],
+              "duration": 6,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 7,
+              "scale": [
+                0.7506,
+                0.7506
+              ]
+            },
+            {
+              "ref": "fx_bubble_lg",
+              "loc": [
+                64.2,
+                75.25
+              ],
+              "duration": 6,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 13,
+              "scale": [
+                0.7506,
+                0.7506
+              ]
+            },
+            {
+              "ref": "fx_bubble_lg",
+              "loc": [
+                2.9,
+                -249.3
+              ],
+              "duration": 1,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 19,
+              "scale": [
+                0.7506,
+                0.7506
+              ]
+            },
+            {
+              "index": 20,
+              "duration": 40
+            }
+          ]
+        },
+        {
+          "name": "big07",
+          "keyframes": [
+            {
+              "index": 0,
+              "duration": 3
+            },
+            {
+              "loc": [
+                820,
+                811.95
+              ],
+              "duration": 5,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 3,
+              "alpha": 0.1992,
+              "ref": "fx_bubble_lg"
+            },
+            {
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 8,
+              "loc": [
+                766.55,
+                406.9
+              ],
+              "duration": 6,
+              "ref": "fx_bubble_lg"
+            },
+            {
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 14,
+              "loc": [
+                908.7,
+                -15.5
+              ],
+              "duration": 6,
+              "ref": "fx_bubble_lg"
+            },
+            {
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 20,
+              "loc": [
+                827,
+                -447.9
+              ],
+              "duration": 1,
+              "ref": "fx_bubble_lg"
+            },
+            {
+              "index": 21,
+              "duration": 39
+            }
+          ]
+        },
+        {
+          "name": "small08",
+          "keyframes": [
+            {
+              "index": 0,
+              "duration": 4
+            },
+            {
+              "ref": "fx_bubble_lg",
+              "loc": [
+                370.2,
+                661.9
+              ],
+              "duration": 5,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 4,
+              "alpha": 0.1992,
+              "scale": [
+                0.5631,
+                0.5631
+              ]
+            },
+            {
+              "ref": "fx_bubble_lg",
+              "loc": [
+                340.1,
+                433.8
+              ],
+              "duration": 6,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 9,
+              "scale": [
+                0.5631,
+                0.5631
+              ]
+            },
+            {
+              "ref": "fx_bubble_lg",
+              "loc": [
+                420.15,
+                195.85
+              ],
+              "duration": 6,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 15,
+              "scale": [
+                0.5631,
+                0.5631
+              ]
+            },
+            {
+              "ref": "fx_bubble_lg",
+              "loc": [
+                374.1,
+                -47.6
+              ],
+              "duration": 1,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 21,
+              "scale": [
+                0.5631,
+                0.5631
+              ]
+            },
+            {
+              "index": 22,
+              "duration": 38
+            }
+          ]
+        },
+        {
+          "name": "med08",
+          "keyframes": [
+            {
+              "index": 0,
+              "duration": 5
+            },
+            {
+              "ref": "fx_bubble_lg",
+              "loc": [
+                648.5,
+                820.25
+              ],
+              "duration": 5,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 5,
+              "alpha": 0.1992,
+              "scale": [
+                0.7506,
+                0.7506
+              ]
+            },
+            {
+              "ref": "fx_bubble_lg",
+              "loc": [
+                716.35,
+                516.25
+              ],
+              "duration": 6,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 10,
+              "scale": [
+                0.7506,
+                0.7506
+              ]
+            },
+            {
+              "ref": "fx_bubble_lg",
+              "loc": [
+                591.05,
+                199.2
+              ],
+              "duration": 6,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 16,
+              "scale": [
+                0.7506,
+                0.7506
+              ]
+            },
+            {
+              "ref": "fx_bubble_lg",
+              "loc": [
+                653.75,
+                -125.35
+              ],
+              "duration": 1,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 22,
+              "scale": [
+                0.7506,
+                0.7506
+              ]
+            },
+            {
+              "index": 23,
+              "duration": 37
+            }
+          ]
+        },
+        {
+          "name": "big08",
+          "keyframes": [
+            {
+              "index": 0,
+              "duration": 6
+            },
+            {
+              "loc": [
+                642,
+                1105.85
+              ],
+              "duration": 5,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 6,
+              "alpha": 0.1992,
+              "ref": "fx_bubble_lg"
+            },
+            {
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 11,
+              "loc": [
+                724.55,
+                700.8
+              ],
+              "duration": 6,
+              "ref": "fx_bubble_lg"
+            },
+            {
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 17,
+              "loc": [
+                608.7,
+                278.4
+              ],
+              "duration": 6,
+              "ref": "fx_bubble_lg"
+            },
+            {
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 23,
+              "loc": [
+                649,
+                -154
+              ],
+              "duration": 1,
+              "ref": "fx_bubble_lg"
+            },
+            {
+              "index": 24,
+              "duration": 36
+            }
+          ]
+        },
+        {
+          "name": "small01",
+          "keyframes": [
+            {
+              "index": 0,
+              "duration": 10
+            },
+            {
+              "ref": "fx_bubble_lg",
+              "loc": [
+                859,
+                618.95
+              ],
+              "duration": 5,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 10,
+              "scale": [
+                0.5631,
+                0.5631
+              ]
+            },
+            {
+              "ref": "fx_bubble_lg",
+              "loc": [
+                904.9,
+                390.85
+              ],
+              "duration": 6,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 15,
+              "scale": [
+                0.5631,
+                0.5631
+              ]
+            },
+            {
+              "ref": "fx_bubble_lg",
+              "loc": [
+                834.95,
+                152.9
+              ],
+              "duration": 6,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 21,
+              "scale": [
+                0.5631,
+                0.5631
+              ]
+            },
+            {
+              "ref": "fx_bubble_lg",
+              "loc": [
+                862.9,
+                -90.55
+              ],
+              "duration": 1,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 27,
+              "alpha": 0.1992,
+              "scale": [
+                0.5631,
+                0.5631
+              ]
+            },
+            {
+              "index": 28,
+              "duration": 32
+            }
+          ]
+        },
+        {
+          "name": "med01",
+          "keyframes": [
+            {
+              "index": 0,
+              "duration": 11
+            },
+            {
+              "ref": "fx_bubble_lg",
+              "loc": [
+                805.4,
+                788.25
+              ],
+              "duration": 5,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 11,
+              "scale": [
+                0.7506,
+                0.7506
+              ]
+            },
+            {
+              "ref": "fx_bubble_lg",
+              "loc": [
+                765.25,
+                484.25
+              ],
+              "duration": 6,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 16,
+              "scale": [
+                0.7506,
+                0.7506
+              ]
+            },
+            {
+              "ref": "fx_bubble_lg",
+              "loc": [
+                871.95,
+                167.2
+              ],
+              "duration": 6,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 22,
+              "scale": [
+                0.7506,
+                0.7506
+              ]
+            },
+            {
+              "ref": "fx_bubble_lg",
+              "loc": [
+                810.65,
+                -157.35
+              ],
+              "duration": 1,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 28,
+              "alpha": 0.1992,
+              "scale": [
+                0.7506,
+                0.7506
+              ]
+            },
+            {
+              "index": 29,
+              "duration": 31
+            }
+          ]
+        },
+        {
+          "name": "big01",
+          "keyframes": [
+            {
+              "index": 0,
+              "duration": 12
+            },
+            {
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 12,
+              "loc": [
+                364.15,
+                735.95
+              ],
+              "duration": 5,
+              "ref": "fx_bubble_lg"
+            },
+            {
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 17,
+              "loc": [
+                310.7,
+                330.9
+              ],
+              "duration": 2,
+              "ref": "fx_bubble_lg"
+            },
+            {
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 19,
+              "loc": [
+                358.1,
+                190.1
+              ],
+              "duration": 4,
+              "ref": "fx_bubble_lg"
+            },
+            {
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 23,
+              "loc": [
+                452.85,
+                -91.5
+              ],
+              "duration": 6,
+              "ref": "fx_bubble_lg"
+            },
+            {
+              "loc": [
+                371.15,
+                -523.9
+              ],
+              "duration": 1,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 29,
+              "alpha": 0.1992,
+              "ref": "fx_bubble_lg"
+            },
+            {
+              "index": 30,
+              "duration": 30
+            }
+          ]
+        },
+        {
+          "name": "small02",
+          "keyframes": [
+            {
+              "index": 0,
+              "duration": 13
+            },
+            {
+              "ref": "fx_bubble_lg",
+              "loc": [
+                486.15,
+                583.9
+              ],
+              "duration": 5,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 13,
+              "scale": [
+                0.5631,
+                0.5631
+              ]
+            },
+            {
+              "ref": "fx_bubble_lg",
+              "loc": [
+                456.05,
+                355.8
+              ],
+              "duration": 6,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 18,
+              "scale": [
+                0.5631,
+                0.5631
+              ]
+            },
+            {
+              "ref": "fx_bubble_lg",
+              "loc": [
+                536.1,
+                117.85
+              ],
+              "duration": 6,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 24,
+              "scale": [
+                0.5631,
+                0.5631
+              ]
+            },
+            {
+              "ref": "fx_bubble_lg",
+              "loc": [
+                490.05,
+                -125.6
+              ],
+              "duration": 1,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 30,
+              "alpha": 0.1992,
+              "scale": [
+                0.5631,
+                0.5631
+              ]
+            },
+            {
+              "index": 31,
+              "duration": 29
+            }
+          ]
+        },
+        {
+          "name": "med02",
+          "keyframes": [
+            {
+              "index": 0,
+              "duration": 14
+            },
+            {
+              "ref": "fx_bubble_lg",
+              "loc": [
+                188.65,
+                718.3
+              ],
+              "duration": 5,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 14,
+              "scale": [
+                0.7506,
+                0.7506
+              ]
+            },
+            {
+              "ref": "fx_bubble_lg",
+              "loc": [
+                256.5,
+                414.3
+              ],
+              "duration": 6,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 19,
+              "scale": [
+                0.7506,
+                0.7506
+              ]
+            },
+            {
+              "ref": "fx_bubble_lg",
+              "loc": [
+                131.2,
+                97.25
+              ],
+              "duration": 6,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 25,
+              "scale": [
+                0.7506,
+                0.7506
+              ]
+            },
+            {
+              "ref": "fx_bubble_lg",
+              "loc": [
+                193.9,
+                -227.3
+              ],
+              "duration": 1,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 31,
+              "alpha": 0.1992,
+              "scale": [
+                0.7506,
+                0.7506
+              ]
+            },
+            {
+              "index": 32,
+              "duration": 28
+            }
+          ]
+        },
+        {
+          "name": "big02",
+          "keyframes": [
+            {
+              "index": 0,
+              "duration": 15
+            },
+            {
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 15,
+              "loc": [
+                104.2,
+                927.9
+              ],
+              "duration": 5,
+              "ref": "fx_bubble_lg"
+            },
+            {
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 20,
+              "loc": [
+                186.75,
+                522.85
+              ],
+              "duration": 6,
+              "ref": "fx_bubble_lg"
+            },
+            {
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 26,
+              "loc": [
+                70.9,
+                100.45
+              ],
+              "duration": 6,
+              "ref": "fx_bubble_lg"
+            },
+            {
+              "loc": [
+                111.2,
+                -331.95
+              ],
+              "duration": 1,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 32,
+              "alpha": 0.1992,
+              "ref": "fx_bubble_lg"
+            },
+            {
+              "index": 33,
+              "duration": 27
+            }
+          ]
+        },
+        {
+          "name": "small03",
+          "keyframes": [
+            {
+              "index": 0,
+              "duration": 16
+            },
+            {
+              "ref": "fx_bubble_lg",
+              "loc": [
+                271.2,
+                658.9
+              ],
+              "duration": 5,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 16,
+              "scale": [
+                0.5631,
+                0.5631
+              ]
+            },
+            {
+              "ref": "fx_bubble_lg",
+              "loc": [
+                317.1,
+                430.8
+              ],
+              "duration": 6,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 21,
+              "scale": [
+                0.5631,
+                0.5631
+              ]
+            },
+            {
+              "ref": "fx_bubble_lg",
+              "loc": [
+                247.15,
+                192.85
+              ],
+              "duration": 6,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 27,
+              "scale": [
+                0.5631,
+                0.5631
+              ]
+            },
+            {
+              "ref": "fx_bubble_lg",
+              "loc": [
+                275.1,
+                -50.6
+              ],
+              "duration": 1,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 33,
+              "alpha": 0.1992,
+              "scale": [
+                0.5631,
+                0.5631
+              ]
+            },
+            {
+              "index": 34,
+              "duration": 26
+            }
+          ]
+        },
+        {
+          "name": "med03",
+          "keyframes": [
+            {
+              "index": 0,
+              "duration": 17
+            },
+            {
+              "ref": "fx_bubble_lg",
+              "loc": [
+                347.55,
+                828.25
+              ],
+              "duration": 5,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 17,
+              "scale": [
+                0.7506,
+                0.7506
+              ]
+            },
+            {
+              "ref": "fx_bubble_lg",
+              "loc": [
+                307.4,
+                524.25
+              ],
+              "duration": 6,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 22,
+              "scale": [
+                0.7506,
+                0.7506
+              ]
+            },
+            {
+              "ref": "fx_bubble_lg",
+              "loc": [
+                414.1,
+                207.2
+              ],
+              "duration": 6,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 28,
+              "scale": [
+                0.7506,
+                0.7506
+              ]
+            },
+            {
+              "ref": "fx_bubble_lg",
+              "loc": [
+                352.8,
+                -117.35
+              ],
+              "duration": 1,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 34,
+              "alpha": 0.1992,
+              "scale": [
+                0.7506,
+                0.7506
+              ]
+            },
+            {
+              "index": 35,
+              "duration": 25
+            }
+          ]
+        },
+        {
+          "name": "big03",
+          "keyframes": [
+            {
+              "index": 0,
+              "duration": 18
+            },
+            {
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 18,
+              "loc": [
+                826,
+                927.95
+              ],
+              "duration": 5,
+              "ref": "fx_bubble_lg"
+            },
+            {
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 23,
+              "loc": [
+                772.55,
+                522.9
+              ],
+              "duration": 6,
+              "ref": "fx_bubble_lg"
+            },
+            {
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 29,
+              "loc": [
+                914.7,
+                100.5
+              ],
+              "duration": 6,
+              "ref": "fx_bubble_lg"
+            },
+            {
+              "loc": [
+                833,
+                -331.9
+              ],
+              "duration": 1,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 35,
+              "alpha": 0.1992,
+              "ref": "fx_bubble_lg"
+            },
+            {
+              "index": 36,
+              "duration": 24
+            }
+          ]
+        },
+        {
+          "name": "small04",
+          "keyframes": [
+            {
+              "index": 0,
+              "duration": 19
+            },
+            {
+              "ref": "fx_bubble_lg",
+              "loc": [
+                26.3,
+                637.9
+              ],
+              "duration": 5,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 19,
+              "scale": [
+                0.5631,
+                0.5631
+              ]
+            },
+            {
+              "ref": "fx_bubble_lg",
+              "loc": [
+                -3.8,
+                409.8
+              ],
+              "duration": 6,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 24,
+              "scale": [
+                0.5631,
+                0.5631
+              ]
+            },
+            {
+              "ref": "fx_bubble_lg",
+              "loc": [
+                76.25,
+                171.85
+              ],
+              "duration": 6,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 30,
+              "scale": [
+                0.5631,
+                0.5631
+              ]
+            },
+            {
+              "ref": "fx_bubble_lg",
+              "loc": [
+                30.2,
+                -71.6
+              ],
+              "duration": 1,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 36,
+              "alpha": 0.1992,
+              "scale": [
+                0.5631,
+                0.5631
+              ]
+            },
+            {
+              "index": 37,
+              "duration": 23
+            }
+          ]
+        },
+        {
+          "name": "med04",
+          "keyframes": [
+            {
+              "index": 0,
+              "duration": 20
+            },
+            {
+              "ref": "fx_bubble_lg",
+              "loc": [
+                734.5,
+                696.3
+              ],
+              "duration": 5,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 20,
+              "scale": [
+                0.7506,
+                0.7506
+              ]
+            },
+            {
+              "ref": "fx_bubble_lg",
+              "loc": [
+                802.35,
+                392.3
+              ],
+              "duration": 6,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 25,
+              "scale": [
+                0.7506,
+                0.7506
+              ]
+            },
+            {
+              "ref": "fx_bubble_lg",
+              "loc": [
+                677.05,
+                75.25
+              ],
+              "duration": 6,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 31,
+              "scale": [
+                0.7506,
+                0.7506
+              ]
+            },
+            {
+              "ref": "fx_bubble_lg",
+              "loc": [
+                739.75,
+                -249.3
+              ],
+              "duration": 1,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 37,
+              "alpha": 0.1992,
+              "scale": [
+                0.7506,
+                0.7506
+              ]
+            },
+            {
+              "index": 38,
+              "duration": 22
+            }
+          ]
+        },
+        {
+          "name": "big04",
+          "keyframes": [
+            {
+              "index": 0,
+              "duration": 19
+            },
+            {
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 19,
+              "loc": [
+                594.05,
+                983.9
+              ],
+              "duration": 5,
+              "ref": "fx_bubble_lg"
+            },
+            {
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 24,
+              "loc": [
+                676.6,
+                578.85
+              ],
+              "duration": 6,
+              "ref": "fx_bubble_lg"
+            },
+            {
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 30,
+              "loc": [
+                560.75,
+                156.45
+              ],
+              "duration": 6,
+              "ref": "fx_bubble_lg"
+            },
+            {
+              "loc": [
+                601.05,
+                -275.95
+              ],
+              "duration": 1,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 36,
+              "alpha": 0.1992,
+              "ref": "fx_bubble_lg"
+            },
+            {
+              "index": 37,
+              "duration": 23
+            }
+          ]
+        },
+        {
+          "name": "small05",
+          "keyframes": [
+            {
+              "index": 0,
+              "duration": 18
+            },
+            {
+              "ref": "fx_bubble_lg",
+              "loc": [
+                785.05,
+                620.95
+              ],
+              "duration": 5,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 18,
+              "scale": [
+                0.5631,
+                0.5631
+              ]
+            },
+            {
+              "ref": "fx_bubble_lg",
+              "loc": [
+                830.95,
+                392.85
+              ],
+              "duration": 6,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 23,
+              "scale": [
+                0.5631,
+                0.5631
+              ]
+            },
+            {
+              "ref": "fx_bubble_lg",
+              "loc": [
+                761,
+                154.9
+              ],
+              "duration": 6,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 29,
+              "scale": [
+                0.5631,
+                0.5631
+              ]
+            },
+            {
+              "ref": "fx_bubble_lg",
+              "loc": [
+                788.95,
+                -88.55
+              ],
+              "duration": 1,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 35,
+              "alpha": 0.1992,
+              "scale": [
+                0.5631,
+                0.5631
+              ]
+            },
+            {
+              "index": 36,
+              "duration": 24
+            }
+          ]
+        },
+        {
+          "name": "med05",
+          "keyframes": [
+            {
+              "index": 0,
+              "duration": 17
+            },
+            {
+              "ref": "fx_bubble_lg",
+              "loc": [
+                877.35,
+                648.3
+              ],
+              "duration": 5,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 17,
+              "scale": [
+                0.7506,
+                0.7506
+              ]
+            },
+            {
+              "ref": "fx_bubble_lg",
+              "loc": [
+                837.2,
+                344.3
+              ],
+              "duration": 6,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 22,
+              "scale": [
+                0.7506,
+                0.7506
+              ]
+            },
+            {
+              "ref": "fx_bubble_lg",
+              "loc": [
+                943.9,
+                27.25
+              ],
+              "duration": 6,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 28,
+              "scale": [
+                0.7506,
+                0.7506
+              ]
+            },
+            {
+              "ref": "fx_bubble_lg",
+              "loc": [
+                882.6,
+                -297.3
+              ],
+              "duration": 1,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 34,
+              "alpha": 0.1992,
+              "scale": [
+                0.7506,
+                0.7506
+              ]
+            },
+            {
+              "index": 35,
+              "duration": 25
+            }
+          ]
+        },
+        {
+          "name": "big05",
+          "keyframes": [
+            {
+              "index": 0,
+              "duration": 16
+            },
+            {
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 16,
+              "loc": [
+                198.25,
+                741.95
+              ],
+              "duration": 5,
+              "ref": "fx_bubble_lg"
+            },
+            {
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 21,
+              "loc": [
+                144.8,
+                336.9
+              ],
+              "duration": 6,
+              "ref": "fx_bubble_lg"
+            },
+            {
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 27,
+              "loc": [
+                286.95,
+                -85.5
+              ],
+              "duration": 6,
+              "ref": "fx_bubble_lg"
+            },
+            {
+              "loc": [
+                205.25,
+                -517.9
+              ],
+              "duration": 1,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 33,
+              "alpha": 0.1992,
+              "ref": "fx_bubble_lg"
+            },
+            {
+              "index": 34,
+              "duration": 26
+            }
+          ]
+        },
+        {
+          "name": "small06",
+          "keyframes": [
+            {
+              "index": 0,
+              "duration": 15
+            },
+            {
+              "ref": "fx_bubble_lg",
+              "loc": [
+                570.1,
+                593.85
+              ],
+              "duration": 5,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 15,
+              "scale": [
+                0.5631,
+                0.5631
+              ]
+            },
+            {
+              "ref": "fx_bubble_lg",
+              "loc": [
+                540,
+                365.75
+              ],
+              "duration": 6,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 20,
+              "scale": [
+                0.5631,
+                0.5631
+              ]
+            },
+            {
+              "ref": "fx_bubble_lg",
+              "loc": [
+                620.05,
+                127.8
+              ],
+              "duration": 6,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 26,
+              "scale": [
+                0.5631,
+                0.5631
+              ]
+            },
+            {
+              "ref": "fx_bubble_lg",
+              "loc": [
+                574,
+                -115.65
+              ],
+              "duration": 1,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 32,
+              "alpha": 0.1992,
+              "scale": [
+                0.5631,
+                0.5631
+              ]
+            },
+            {
+              "index": 33,
+              "duration": 27
+            }
+          ]
+        },
+        {
+          "name": "med06",
+          "keyframes": [
+            {
+              "index": 0,
+              "duration": 14
+            },
+            {
+              "ref": "fx_bubble_lg",
+              "loc": [
+                408.5,
+                656.3
+              ],
+              "duration": 5,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 14,
+              "scale": [
+                0.7506,
+                0.7506
+              ]
+            },
+            {
+              "ref": "fx_bubble_lg",
+              "loc": [
+                476.35,
+                352.3
+              ],
+              "duration": 6,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 19,
+              "scale": [
+                0.7506,
+                0.7506
+              ]
+            },
+            {
+              "ref": "fx_bubble_lg",
+              "loc": [
+                351.05,
+                35.25
+              ],
+              "duration": 6,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 25,
+              "scale": [
+                0.7506,
+                0.7506
+              ]
+            },
+            {
+              "ref": "fx_bubble_lg",
+              "loc": [
+                413.75,
+                -289.3
+              ],
+              "duration": 1,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 31,
+              "alpha": 0.1992,
+              "scale": [
+                0.7506,
+                0.7506
+              ]
+            },
+            {
+              "index": 32,
+              "duration": 28
+            }
+          ]
+        },
+        {
+          "name": "big06",
+          "keyframes": [
+            {
+              "index": 0,
+              "duration": 13
+            },
+            {
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 13,
+              "loc": [
+                370.1,
+                879.9
+              ],
+              "duration": 5,
+              "ref": "fx_bubble_lg"
+            },
+            {
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 18,
+              "loc": [
+                452.65,
+                474.85
+              ],
+              "duration": 6,
+              "ref": "fx_bubble_lg"
+            },
+            {
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 24,
+              "loc": [
+                336.8,
+                52.45
+              ],
+              "duration": 6,
+              "ref": "fx_bubble_lg"
+            },
+            {
+              "loc": [
+                377.1,
+                -379.95
+              ],
+              "duration": 1,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 30,
+              "alpha": 0.1992,
+              "ref": "fx_bubble_lg"
+            },
+            {
+              "index": 31,
+              "duration": 29
+            }
+          ]
+        },
+        {
+          "name": "small07",
+          "keyframes": [
+            {
+              "index": 0,
+              "duration": 12
+            },
+            {
+              "ref": "fx_bubble_lg",
+              "loc": [
+                179.2,
+                630.9
+              ],
+              "duration": 5,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 12,
+              "scale": [
+                0.5631,
+                0.5631
+              ]
+            },
+            {
+              "ref": "fx_bubble_lg",
+              "loc": [
+                225.1,
+                402.8
+              ],
+              "duration": 6,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 17,
+              "scale": [
+                0.5631,
+                0.5631
+              ]
+            },
+            {
+              "ref": "fx_bubble_lg",
+              "loc": [
+                155.15,
+                164.85
+              ],
+              "duration": 6,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 23,
+              "scale": [
+                0.5631,
+                0.5631
+              ]
+            },
+            {
+              "ref": "fx_bubble_lg",
+              "loc": [
+                183.1,
+                -78.6
+              ],
+              "duration": 1,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 29,
+              "alpha": 0.1992,
+              "scale": [
+                0.5631,
+                0.5631
+              ]
+            },
+            {
+              "index": 30,
+              "duration": 30
+            }
+          ]
+        },
+        {
+          "name": "med07",
+          "keyframes": [
+            {
+              "index": 0,
+              "duration": 11
+            },
+            {
+              "ref": "fx_bubble_lg",
+              "loc": [
+                -2.35,
+                696.3
+              ],
+              "duration": 5,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 11,
+              "scale": [
+                0.7506,
+                0.7506
+              ]
+            },
+            {
+              "ref": "fx_bubble_lg",
+              "loc": [
+                -42.5,
+                392.3
+              ],
+              "duration": 6,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 16,
+              "scale": [
+                0.7506,
+                0.7506
+              ]
+            },
+            {
+              "ref": "fx_bubble_lg",
+              "loc": [
+                64.2,
+                75.25
+              ],
+              "duration": 6,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 22,
+              "scale": [
+                0.7506,
+                0.7506
+              ]
+            },
+            {
+              "ref": "fx_bubble_lg",
+              "loc": [
+                2.9,
+                -249.3
+              ],
+              "duration": 1,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 28,
+              "alpha": 0.1992,
+              "scale": [
+                0.7506,
+                0.7506
+              ]
+            },
+            {
+              "index": 29,
+              "duration": 31
+            }
+          ]
+        },
+        {
+          "name": "big07",
+          "keyframes": [
+            {
+              "index": 0,
+              "duration": 12
+            },
+            {
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 12,
+              "loc": [
+                820,
+                811.95
+              ],
+              "duration": 5,
+              "ref": "fx_bubble_lg"
+            },
+            {
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 17,
+              "loc": [
+                766.55,
+                406.9
+              ],
+              "duration": 6,
+              "ref": "fx_bubble_lg"
+            },
+            {
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 23,
+              "loc": [
+                908.7,
+                -15.5
+              ],
+              "duration": 6,
+              "ref": "fx_bubble_lg"
+            },
+            {
+              "loc": [
+                827,
+                -447.9
+              ],
+              "duration": 1,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 29,
+              "alpha": 0.1992,
+              "ref": "fx_bubble_lg"
+            },
+            {
+              "index": 30,
+              "duration": 30
+            }
+          ]
+        },
+        {
+          "name": "small08",
+          "keyframes": [
+            {
+              "index": 0,
+              "duration": 13
+            },
+            {
+              "ref": "fx_bubble_lg",
+              "loc": [
+                370.2,
+                661.9
+              ],
+              "duration": 5,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 13,
+              "scale": [
+                0.5631,
+                0.5631
+              ]
+            },
+            {
+              "ref": "fx_bubble_lg",
+              "loc": [
+                340.1,
+                433.8
+              ],
+              "duration": 6,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 18,
+              "scale": [
+                0.5631,
+                0.5631
+              ]
+            },
+            {
+              "ref": "fx_bubble_lg",
+              "loc": [
+                420.15,
+                195.85
+              ],
+              "duration": 6,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 24,
+              "scale": [
+                0.5631,
+                0.5631
+              ]
+            },
+            {
+              "ref": "fx_bubble_lg",
+              "loc": [
+                374.1,
+                -47.6
+              ],
+              "duration": 1,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 30,
+              "alpha": 0.1992,
+              "scale": [
+                0.5631,
+                0.5631
+              ]
+            },
+            {
+              "index": 31,
+              "duration": 29
+            }
+          ]
+        },
+        {
+          "name": "med08",
+          "keyframes": [
+            {
+              "index": 0,
+              "duration": 14
+            },
+            {
+              "ref": "fx_bubble_lg",
+              "loc": [
+                648.5,
+                820.25
+              ],
+              "duration": 5,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 14,
+              "scale": [
+                0.7506,
+                0.7506
+              ]
+            },
+            {
+              "ref": "fx_bubble_lg",
+              "loc": [
+                716.35,
+                516.25
+              ],
+              "duration": 6,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 19,
+              "scale": [
+                0.7506,
+                0.7506
+              ]
+            },
+            {
+              "ref": "fx_bubble_lg",
+              "loc": [
+                591.05,
+                199.2
+              ],
+              "duration": 6,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 25,
+              "scale": [
+                0.7506,
+                0.7506
+              ]
+            },
+            {
+              "ref": "fx_bubble_lg",
+              "loc": [
+                653.75,
+                -125.35
+              ],
+              "duration": 1,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 31,
+              "alpha": 0.1992,
+              "scale": [
+                0.7506,
+                0.7506
+              ]
+            },
+            {
+              "index": 32,
+              "duration": 28
+            }
+          ]
+        },
+        {
+          "name": "big08",
+          "keyframes": [
+            {
+              "index": 0,
+              "duration": 15
+            },
+            {
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 15,
+              "loc": [
+                642,
+                1105.85
+              ],
+              "duration": 5,
+              "ref": "fx_bubble_lg"
+            },
+            {
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 20,
+              "loc": [
+                724.55,
+                700.8
+              ],
+              "duration": 6,
+              "ref": "fx_bubble_lg"
+            },
+            {
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 26,
+              "loc": [
+                608.7,
+                278.4
+              ],
+              "duration": 6,
+              "ref": "fx_bubble_lg"
+            },
+            {
+              "loc": [
+                649,
+                -154
+              ],
+              "duration": 1,
+              "pivot": [
+                125.9,
+                125.9
+              ],
+              "index": 32,
+              "alpha": 0.1992,
+              "ref": "fx_bubble_lg"
+            },
+            {
+              "index": 33,
+              "duration": 27
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "md5": "c4d85096518301618e3f88df1ed39536",
+  "textureGroups": [
+    {
+      "scaleFactor": 1,
+      "atlases": [
+        {
+          "file": "atlas0.png",
+          "textures": [
+            {
+              "symbol": "fx_bubble_lg",
+              "origin": [
+                125.9,
+                125.9
+              ],
+              "rect": [
+                2,
+                2,
+                251,
+                251
+              ]
+            },
+            {
+              "symbol": "color_overlay",
+              "origin": [
+                16,
+                16
+              ],
+              "rect": [
+                2,
+                257,
+                32,
+                32
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

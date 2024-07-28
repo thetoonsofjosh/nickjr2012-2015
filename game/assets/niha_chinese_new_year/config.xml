@@ -1,0 +1,36 @@
+<data>
+	<!-- Tune-in swf -->
+	<tuneInSwf>TuneInNHKL_03.swf</tuneInSwf>
+	
+	<!-- Total number of levels --> 
+	<levels>3</levels>
+	
+	<!-- Number of coins to pick before the level is complete -->
+	<!-- Enter number between and including 3 and 10 -->
+	<totalPickUp>6</totalPickUp>
+	
+	<!-- Speed range in seconds --> 
+	<!-- Frequency with which every object appears on screen. The larger the number, the less frequent objects are created. -->
+	<speedLow>1</speedLow>
+	<speedHigh>3</speedHigh>
+	
+	<!-- Number of seconds it takes for objects to move down path -->
+	<velocityOfGame>15</velocityOfGame>
+	
+	<!-- Number of wrong coins picked up before a warning is issued -->
+	<totalMistakes>5</totalMistakes>
+	
+	<!-- Probability of target coins being generated as compared to the non-target coins -->
+	<!-- In percentage. Enter number between 0 and 100. 0 being no target coins and 100 being all the coins being target coins -->
+	<freqOfTargetCoins>45</freqOfTargetCoins>
+	
+	<percentageOfCoinsLevelOne>65</percentageOfCoinsLevelOne>
+	<percentageOfObstaclesLevelOne>35</percentageOfObstaclesLevelOne>
+	
+	<percentageOfCoinsLevelTwo>55</percentageOfCoinsLevelTwo>
+	<percentageOfObstaclesLevelTwo>45</percentageOfObstaclesLevelTwo>
+	
+	<percentageOfCoinsLevelThree>40</percentageOfCoinsLevelThree>
+	<percentageOfObstaclesLevelThree>60</percentageOfObstaclesLevelThree>
+		
+</data>

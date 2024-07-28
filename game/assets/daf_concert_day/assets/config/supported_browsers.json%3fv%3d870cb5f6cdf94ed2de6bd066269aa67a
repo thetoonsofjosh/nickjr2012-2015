@@ -1,0 +1,93 @@
+{
+	"allowAll":true,
+	"browsers" : [
+		{
+			"type" : "MSIE",
+			"platforms" : [
+				{
+					"type" : "Windows"
+				}
+			],
+			"minVersion" : 9.0
+		},
+		{
+			"type" : "Firefox",
+			"platforms"  : [
+				{
+					"type" : "Windows"
+				},
+				{
+					"type" : "Mac"
+				},
+				{
+					"type" : "Android"
+				},
+				{
+					"type" : "Linux"
+				}
+			],
+			"minVersion" : 3.6
+		},
+		{
+			"type" : "Chrome",
+			"platforms"  : [
+				{
+					"type" : "Windows"
+				},
+				{
+					"type" : "Mac"
+				},
+				{
+					"type" : "Android",
+					"minVersion" : 4.0
+				},
+				{
+					"type" : "Linux"
+				},
+				{
+					"type" : "iOS",
+					"minVersion" : 5.0
+				}
+			],
+			"minVersion" : 5.0
+		},
+		{
+			"type" : "Safari",
+			"platforms" : [
+				{
+					"type" : "Windows"
+				},
+				{
+					"type" : "Mac"
+				},
+				{
+					"type" : "iOS",
+					"minVersion" : 5.0
+				}
+			],
+			"minVersion" : 5.0
+		},
+		{
+			"type" : "Silk",
+			"platforms" : [
+				{
+					"type" : "Linux"
+				},
+				{
+					"type" : "Android"
+				}
+			],
+			"minVersion" : 1.0
+		}
+	],
+	"standalones" : [
+		{
+			"type" : "iOS",
+			"minVersion" : 5.0
+		},
+		{
+			"type" : "Android",
+			"minVersion" : 4.0
+		}
+	]
+}

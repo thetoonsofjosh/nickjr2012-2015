@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<sounds>
+  <sound name="mrss_themeloop" Soundfile="mp3/mrsg_themeloop.mp3" PlayCategory="musicloop" volume="85" VolumeGroup="" HearRange2D="" LoadOnStartup="yes" LoadCategory="" UnloadOnPlayDone="" mp3Bitrate="128" size="200195"/>
+  <sound name="Intro_1" Soundfile="mp3/mrsg_rvo_01.mp3" PlayCategory="ruby" volume="100" VolumeGroup="" HearRange2D="" LoadOnStartup="yes" LoadCategory="" UnloadOnPlayDone="" mp3Bitrate="" size="115978"/>
+  <sound name="Intro_2" Soundfile="mp3/mrsg_rvo_02.mp3" PlayCategory="ruby" volume="100" VolumeGroup="" HearRange2D="" LoadOnStartup="yes" LoadCategory="" UnloadOnPlayDone="" mp3Bitrate="" size="102596"/>
+  <sound name="Intro_3" Soundfile="mp3/mrsg_rvo_03.mp3" PlayCategory="ruby" volume="100" VolumeGroup="" HearRange2D="" LoadOnStartup="yes" LoadCategory="" UnloadOnPlayDone="" mp3Bitrate="" size="69167"/>
+  <sound name="Intro_4" Soundfile="mp3/mrsg_rvo_04.mp3" PlayCategory="ruby" volume="100" VolumeGroup="" HearRange2D="" LoadOnStartup="yes" LoadCategory="" UnloadOnPlayDone="" mp3Bitrate="" size="93824"/>
+  <sound name="LevelStart0" Soundfile="mp3/levelstart2.mp3" PlayCategory="ruby" volume="100" VolumeGroup="" HearRange2D="" LoadOnStartup="yes" LoadCategory="" UnloadOnPlayDone="" mp3Bitrate="" size="11689"/>
+  <sound name="LevelStart1" Soundfile="mp3/levelstart4.mp3" PlayCategory="roger" volume="100" VolumeGroup="" HearRange2D="" LoadOnStartup="yes" LoadCategory="" UnloadOnPlayDone="" mp3Bitrate="" size="12534"/>
+  <sound name="LevelStart2" Soundfile="mp3/levelstart5.mp3" PlayCategory="ruby" volume="100" VolumeGroup="" HearRange2D="" LoadOnStartup="yes" LoadCategory="" UnloadOnPlayDone="" mp3Bitrate="" size="9818"/>
+  <sound name="TimeAlmostUp" Soundfile="mp3/timealmostup1.mp3" PlayCategory="ruby" volume="100" VolumeGroup="" HearRange2D="" LoadOnStartup="yes" LoadCategory="" UnloadOnPlayDone="" mp3Bitrate="" size="14199"/>
+  <sound name="TimeAlmostUp" Soundfile="mp3/timealmostup2.mp3" PlayCategory="roger" volume="100" VolumeGroup="" HearRange2D="" LoadOnStartup="yes" LoadCategory="" UnloadOnPlayDone="" mp3Bitrate="" size="15661"/>
+  <sound name="TimeUp" Soundfile="mp3/timeup.mp3" PlayCategory="ruby" volume="100" VolumeGroup="" HearRange2D="" LoadOnStartup="yes" LoadCategory="" UnloadOnPlayDone="" mp3Bitrate="" size="6894"/>
+  <sound name="TricksCompleted" Soundfile="mp3/mrsg_rvo_08.mp3" PlayCategory="ruby" volume="100" VolumeGroup="" HearRange2D="" LoadOnStartup="yes" LoadCategory="" UnloadOnPlayDone="" mp3Bitrate="" size="28415"/>
+  <sound name="GameOver" Soundfile="mp3/gameover.mp3" PlayCategory="ruby" volume="100" VolumeGroup="" HearRange2D="" LoadOnStartup="yes" LoadCategory="" UnloadOnPlayDone="" mp3Bitrate="" size="11274"/>
+  <sound name="Yes" Soundfile="mp3/yes.mp3" PlayCategory="ruby" volume="100" VolumeGroup="" HearRange2D="" LoadOnStartup="yes" LoadCategory="" UnloadOnPlayDone="" mp3Bitrate="" size="5222"/>
+  <sound name="No" Soundfile="mp3/no.mp3" PlayCategory="ruby" volume="100" VolumeGroup="" HearRange2D="" LoadOnStartup="yes" LoadCategory="" UnloadOnPlayDone="" mp3Bitrate="" size="4585"/>
+  <sound name="Play" Soundfile="mp3/play.mp3" PlayCategory="ruby" volume="100" VolumeGroup="" HearRange2D="" LoadOnStartup="yes" LoadCategory="" UnloadOnPlayDone="" mp3Bitrate="" size="3966"/>
+  <sound name="PlayAgain" Soundfile="mp3/gameover.mp3" PlayCategory="ruby" volume="100" VolumeGroup="" HearRange2D="" LoadOnStartup="yes" LoadCategory="" UnloadOnPlayDone="" mp3Bitrate="" size="11274"/>
+  <sound name="PlayAgainButton" Soundfile="mp3/playagain.mp3" PlayCategory="ruby" volume="100" VolumeGroup="" HearRange2D="" LoadOnStartup="yes" LoadCategory="" UnloadOnPlayDone="" mp3Bitrate="" size="6466"/>
+  <sound name="Quit" Soundfile="mp3/quit.mp3" PlayCategory="ruby" volume="100" VolumeGroup="" HearRange2D="" LoadOnStartup="yes" LoadCategory="" UnloadOnPlayDone="" mp3Bitrate="" size="3129"/>
+  <sound name="TrickDoneFeedback" Soundfile="mp3/mrsg_rvo_06.mp3" PlayCategory="ruby" volume="100" VolumeGroup="" HearRange2D="" LoadOnStartup="yes" LoadCategory="" UnloadOnPlayDone="" mp3Bitrate="" size="34472"/>
+  <sound name="TrickDoneFeedback" Soundfile="mp3/mrsg_rvo_07.mp3" PlayCategory="ruby" volume="100" VolumeGroup="" HearRange2D="" LoadOnStartup="yes" LoadCategory="" UnloadOnPlayDone="" mp3Bitrate="" size="36349"/>
+  <sound name="PosFeedback" Soundfile="mp3/posfeedback1.mp3" PlayCategory="ruby" volume="100" VolumeGroup="" HearRange2D="" LoadOnStartup="yes" LoadCategory="" UnloadOnPlayDone="" mp3Bitrate="" size="9400"/>
+  <sound name="PosFeedback" Soundfile="mp3/posfeedback2.mp3" PlayCategory="ruby" volume="100" VolumeGroup="" HearRange2D="" LoadOnStartup="yes" LoadCategory="" UnloadOnPlayDone="" mp3Bitrate="" size="10014"/>
+  <sound name="PosFeedback" Soundfile="mp3/posfeedback3.mp3" PlayCategory="ruby" volume="100" VolumeGroup="" HearRange2D="" LoadOnStartup="yes" LoadCategory="" UnloadOnPlayDone="" mp3Bitrate="" size="7519"/>
+  <sound name="PosFeedback" Soundfile="mp3/posfeedback4.mp3" PlayCategory="ruby" volume="100" VolumeGroup="" HearRange2D="" LoadOnStartup="yes" LoadCategory="" UnloadOnPlayDone="" mp3Bitrate="" size="7937"/>
+  <sound name="NegFeedback" Soundfile="mp3/mrsg_rvo_10.mp3" PlayCategory="" volume="100" VolumeGroup="" HearRange2D="" LoadOnStartup="yes" LoadCategory="" UnloadOnPlayDone="" mp3Bitrate="" size="5627"/>
+  <sound name="NegFeedback" Soundfile="mp3/mrsg_rvo_11.mp3" PlayCategory="" volume="100" VolumeGroup="" HearRange2D="" LoadOnStartup="yes" LoadCategory="" UnloadOnPlayDone="" mp3Bitrate="" size="6056"/>
+  <sound name="Skate" Soundfile="mp3/skate0.mp3" PlayCategory="" volume="" VolumeGroup="fx" HearRange2D="600" LoadOnStartup="yes" LoadCategory="" UnloadOnPlayDone="" mp3Bitrate="" size="3341"/>
+  <sound name="Skate" Soundfile="mp3/skate1.mp3" PlayCategory="" volume="" VolumeGroup="fx" HearRange2D="600" LoadOnStartup="yes" LoadCategory="" UnloadOnPlayDone="" mp3Bitrate="" size="2711"/>
+  <sound name="Skate" Soundfile="mp3/skate2.mp3" PlayCategory="" volume="" VolumeGroup="fx" HearRange2D="600" LoadOnStartup="yes" LoadCategory="" UnloadOnPlayDone="" mp3Bitrate="" size="1878"/>
+  <sound name="Skate" Soundfile="mp3/skate3.mp3" PlayCategory="" volume="" VolumeGroup="fx" HearRange2D="600" LoadOnStartup="yes" LoadCategory="" UnloadOnPlayDone="" mp3Bitrate="" size="2292"/>
+  <sound name="Skate" Soundfile="mp3/skate4.mp3" PlayCategory="" volume="" VolumeGroup="fx" HearRange2D="600" LoadOnStartup="yes" LoadCategory="" UnloadOnPlayDone="" mp3Bitrate="" size="2086"/>
+  <sound name="Stone" Soundfile="mp3/mrsg_bounceintoobject_fall.mp3" PlayCategory="" volume="" VolumeGroup="fx" HearRange2D="" LoadOnStartup="yes" LoadCategory="" UnloadOnPlayDone="" mp3Bitrate="" size="6258"/>
+  <sound name="Bounce" Soundfile="mp3/mrsg_bounceintoouterwall.mp3" PlayCategory="" volume="" VolumeGroup="fx" HearRange2D="" LoadOnStartup="yes" LoadCategory="" UnloadOnPlayDone="" mp3Bitrate="" size="1872"/>
+  <sound name="PickupNoTrick" Soundfile="mp3/mrsg_pickuptoyv1.mp3" PlayCategory="" volume="" VolumeGroup="fx" HearRange2D="" LoadOnStartup="yes" LoadCategory="" UnloadOnPlayDone="" mp3Bitrate="" size="3759"/>
+  <sound name="PickupDoTrick" Soundfile="mp3/mrsg_pickuptoyv2.mp3" PlayCategory="" volume="" VolumeGroup="fx" HearRange2D="" LoadOnStartup="yes" LoadCategory="" UnloadOnPlayDone="" mp3Bitrate="" size="4173"/>
+  <sound name="Level 1" Soundfile="mp3/mrsg_gameloopv1.mp3" PlayCategory="musicloop" volume="100" VolumeGroup="" HearRange2D="" LoadOnStartup="yes" LoadCategory="" UnloadOnPlayDone="" mp3Bitrate="128" size="522024"/>
+  <sound name="Level 2" Soundfile="mp3/mrsg_gameloopv2.mp3" PlayCategory="musicloop" volume="100" VolumeGroup="" HearRange2D="" LoadOnStartup="yes" LoadCategory="" UnloadOnPlayDone="" mp3Bitrate="128" size="270826"/>
+  <sound name="Level 3" Soundfile="mp3/mrsg_gameloopv3.mp3" PlayCategory="musicloop" volume="100" VolumeGroup="" HearRange2D="" LoadOnStartup="yes" LoadCategory="" UnloadOnPlayDone="" mp3Bitrate="128" size="410013"/>
+  <sound name="ruby_score" Soundfile="mp3/ball_score.mp3" PlayCategory="ruby" volume="100" VolumeGroup="" HearRange2D="" LoadOnStartup="yes" LoadCategory="" UnloadOnPlayDone="" mp3Bitrate="" size="22142"/>
+  <sound name="kids_cheer" Soundfile="mp3/mrss_goal_kidscheer.mp3" PlayCategory="" volume="100" VolumeGroup="" HearRange2D="" LoadOnStartup="yes" LoadCategory="" UnloadOnPlayDone="" mp3Bitrate="" size="23602"/>
+  <sound name="ball_miss" Soundfile="mp3/mrss_fanfare_nogoal.mp3" PlayCategory="" volume="100" VolumeGroup="" HearRange2D="" LoadOnStartup="yes" LoadCategory="" UnloadOnPlayDone="" mp3Bitrate="" size="12534"/>
+  <sound name="Max_Fall" Soundfile="mp3/max fall.mp3" PlayCategory="max" volume="100" VolumeGroup="" HearRange2D="" LoadOnStartup="yes" LoadCategory="" UnloadOnPlayDone="" mp3Bitrate="128" size="6680"/>
+  <sound name="HaHaHa" Soundfile="mp3/mrsg_rvo_14.mp3" PlayCategory="" volume="100" VolumeGroup="" HearRange2D="" LoadOnStartup="yes" LoadCategory="" UnloadOnPlayDone="" mp3Bitrate="" size="8346"/>
+  <sound name="HaHa" Soundfile="mp3/mrsg_rvo_15.mp3" PlayCategory="" volume="100" VolumeGroup="" HearRange2D="" LoadOnStartup="yes" LoadCategory="" UnloadOnPlayDone="" mp3Bitrate="" size="3130"/>
+  <sound name="RubyFall" Soundfile="mp3/mrsg_rvo_12.mp3" PlayCategory="" volume="101" VolumeGroup="" HearRange2D="" LoadOnStartup="yes" LoadCategory="" UnloadOnPlayDone="" mp3Bitrate="" size="3757"/>
+  <sound name="btn_mouseover" Soundfile="mp3/mouseover.mp3" PlayCategory="" volume="100" VolumeGroup="" HearRange2D="" LoadOnStartup="yes" LoadCategory="" UnloadOnPlayDone="" mp3Bitrate="" size="6889"/>
+  <sound name="btn_mousedown" Soundfile="mp3/mrsg_interfacev1.mp3" PlayCategory="" volume="100" VolumeGroup="" HearRange2D="" LoadOnStartup="yes" LoadCategory="" UnloadOnPlayDone="" mp3Bitrate="" size="3749"/>
+  <sound name="btn_continue" Soundfile="mp3/mrsg_rvo_09.mp3" PlayCategory="" volume="101" VolumeGroup="" HearRange2D="" LoadOnStartup="yes" LoadCategory="" UnloadOnPlayDone="" mp3Bitrate="" size="6887"/>
+  <sound name="Transition" Soundfile="mp3/mrsg_transition_lick_03.mp3" PlayCategory="" volume="100" VolumeGroup="" HearRange2D="" LoadOnStartup="yes" LoadCategory="" UnloadOnPlayDone="" mp3Bitrate="128" size="42210"/>
+  <sound name="end_lick_01" Soundfile="mp3/mrsg__end_lick_01.mp3" PlayCategory="" volume="100" VolumeGroup="" HearRange2D="" LoadOnStartup="yes" LoadCategory="" UnloadOnPlayDone="" mp3Bitrate="" size="19220"/>
+  <sound name="end_lick_02" Soundfile="mp3/mrsg_end_lick_02.mp3" PlayCategory="" volume="100" VolumeGroup="" HearRange2D="" LoadOnStartup="yes" LoadCategory="" UnloadOnPlayDone="" mp3Bitrate="" size="15453"/>
+  <sound name="end_sting" Soundfile="mp3/mrsg_end_sting_01.mp3" PlayCategory="musicloop" volume="100" VolumeGroup="" HearRange2D="" LoadOnStartup="yes" LoadCategory="" UnloadOnPlayDone="" mp3Bitrate="" size="23188"/>
+  <sound name="louise_cheer" Soundfile="mp3/louise01.mp3" PlayCategory="louise" volume="100" VolumeGroup="" HearRange2D="" LoadOnStartup="yes" LoadCategory="" UnloadOnPlayDone="" mp3Bitrate="" size="16508"/>
+  <sound name="louise_cheer_goal" Soundfile="mp3/louise06.mp3" PlayCategory="louise" volume="100" VolumeGroup="" HearRange2D="" LoadOnStartup="yes" LoadCategory="" UnloadOnPlayDone="" mp3Bitrate="" size="13785"/>
+  <sound name="ball_score" Soundfile="mp3/ltsc_fanfare_winner.mp3" PlayCategory="" volume="100" VolumeGroup="" HearRange2D="" LoadOnStartup="yes" LoadCategory="" UnloadOnPlayDone="" mp3Bitrate="" size="10029"/>
+  <sound name="mrss_playagain_quit_rollover" Soundfile="mp3/mrss_playagain_quit_rollover.mp3" PlayCategory="" volume="100" VolumeGroup="" HearRange2D="" LoadOnStartup="yes" LoadCategory="" UnloadOnPlayDone="" mp3Bitrate="" size="1240"/>
+  <sound name="extra1" Soundfile="mp3/extra1.mp3" PlayCategory="ruby" volume="100" VolumeGroup="" HearRange2D="" LoadOnStartup="yes" LoadCategory="" UnloadOnPlayDone="" mp3Bitrate="" size="5430"/>
+  <sound name="Trick_01" Soundfile="mp3/mrsg_trick_animationv1.mp3" PlayCategory="" volume="100" VolumeGroup="" HearRange2D="" LoadOnStartup="yes" LoadCategory="" UnloadOnPlayDone="" mp3Bitrate="128" size="82755"/>
+  <sound name="Trick_02" Soundfile="mp3/mrsg_trick_animationv2.mp3" PlayCategory="" volume="100" VolumeGroup="" HearRange2D="" LoadOnStartup="yes" LoadCategory="" UnloadOnPlayDone="" mp3Bitrate="128" size="90694"/>
+  <sound name="Trick_03" Soundfile="mp3/mrsg_trick_animationv3.mp3" PlayCategory="" volume="100" VolumeGroup="" HearRange2D="" LoadOnStartup="yes" LoadCategory="" UnloadOnPlayDone="" mp3Bitrate="128" size="78575"/>
+  <sound name="Trick_04" Soundfile="mp3/mrsg_trick_animationv4.mp3" PlayCategory="" volume="100" VolumeGroup="" HearRange2D="" LoadOnStartup="yes" LoadCategory="" UnloadOnPlayDone="" mp3Bitrate="128" size="56420"/>
+</sounds>

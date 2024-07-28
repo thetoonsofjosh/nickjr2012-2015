@@ -1,0 +1,32 @@
+<xml>
+	<book id="1" vo="topic_1_animals" voQuestion="topic_ques_1_animals" voExclamation="topic_excl_1_animals">
+		<question id="1" vo="question_1_1" vo2="answer_1_1" voStage2Correct="stage_2_correct_1_1" />
+		<question id="2" vo="question_1_2" vo2="answer_1_2" voStage2Correct="stage_2_correct_1_2" />
+		<question id="3" vo="question_1_3" vo2="answer_1_3" voStage2Correct="stage_2_correct_1_3" />
+	</book>
+	<book id="2" vo="topic_2_colors" voQuestion="topic_ques_2_colors" voExclamation="topic_excl_2_colors">
+		<question id="1" vo="question_2_1" vo2="answer_2_1" voStage2Correct="stage_2_correct_2_1" />
+		<question id="2" vo="question_2_2" vo2="answer_2_2" voStage2Correct="stage_2_correct_2_2" />
+		<question id="3" vo="question_2_3" vo2="answer_2_3" voStage2Correct="stage_2_correct_2_3" />
+	</book>
+	<book id="3" vo="topic_3_food" voQuestion="topic_ques_3_food" voExclamation="topic_excl_3_food">
+		<question id="1" vo="question_3_1" vo2="answer_3_1" voStage2Correct="stage_2_correct_3_1" />
+		<question id="2" vo="question_3_2" vo2="answer_3_2" voStage2Correct="stage_2_correct_3_2" />
+		<question id="3" vo="question_3_3" vo2="answer_3_3" voStage2Correct="stage_2_correct_3_3" />
+	</book>
+	<book id="4" vo="topic_4_numbers" voQuestion="topic_ques_4_numbers" voExclamation="topic_excl_4_numbers">
+		<question id="1" vo="question_4_1" vo2="answer_4_1" voStage2Correct="stage_2_correct_4_1" />
+		<question id="2" vo="question_4_2" vo2="answer_4_2" voStage2Correct="stage_2_correct_4_2" />
+		<question id="3" vo="question_4_3" vo2="answer_4_3" voStage2Correct="stage_2_correct_4_3" />
+	</book>
+	<book id="5" vo="topic_5_letters" voQuestion="topic_ques_5_letters" voExclamation="topic_excl_5_letters">
+		<question id="1" vo="question_5_1" vo2="answer_5_1" voStage2Correct="stage_2_correct_5_1" />
+		<question id="2" vo="question_5_2" vo2="answer_5_2" voStage2Correct="stage_2_correct_5_2" />
+		<question id="3" vo="question_5_3" vo2="answer_5_3" voStage2Correct="stage_2_correct_5_3" />
+	</book>
+	<book id="6" vo="topic_6_shapes" voQuestion="topic_ques_6_shapes" voExclamation="topic_excl_6_shapes">
+		<question id="1" vo="question_6_1" vo2="answer_6_1" voStage2Correct="stage_2_correct_6_1" />
+		<question id="2" vo="question_6_2" vo2="answer_6_2" voStage2Correct="stage_2_correct_6_2" />
+		<question id="3" vo="question_6_3" vo2="answer_6_3" voStage2Correct="stage_2_correct_6_3" />
+	</book>
+</xml>

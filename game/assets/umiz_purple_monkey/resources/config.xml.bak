@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+			
+	<assets>
+		
+		<!-- Categorize assets based on section names -->
+		<global>
+			<asset id="musicLoops" src="assets/swf/music.swf" />
+		</global>
+		<section id="preloader">
+			<asset id="main" src="umizoomi_math_game.swf" />
+		</section>
+		<section id="main">
+			<asset id="printable" src="assets/swf/printable.swf" />
+			<asset id="transition1" src="assets/swf/transition.swf" />
+			<asset id="bot_mouths" src="assets/swf/bot_mouths.swf" />
+			<asset id="geo_mouths" src="assets/swf/geo_mouths.swf" />
+			<asset id="milli_mouths" src="assets/swf/milli_mouths.swf" />
+			<asset id="umizoomi_logo" src="assets/img/umizoomi_logo.png" />
+		</section>
+		
+	</assets>
+
+</config>
