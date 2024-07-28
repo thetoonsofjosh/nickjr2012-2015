@@ -1,8 +1,0 @@
-<tools>
-	<tool displayName="StickerTool" 
-		handle="StickerTool"
-		classHandle="com.nickjr.app.creativity_center.view.tool.StickerTool"
-		stylusHandle="stylus/selection.swf"
-		rotateStylus="false"		
-	/>
-</tools>

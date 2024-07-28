@@ -1,1 +1,0 @@
-Run the "main.swf", and the rest of the files are assets.
