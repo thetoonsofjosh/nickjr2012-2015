@@ -42,9 +42,9 @@
 {
 "urlAlias":"lalaloopsy-friendship-parade",	
 "featured":"",	
-"title":"Friendship Parade", 
-"thumbnail":"/game/assets/lala_friendship_parade/GamesFinder/thumbnail.jpg",
-"promoImage":"/game/assets/lala_friendship_parade/GamesFinder/lala_friendship_parade-kids-game-promo-new.jpg",
+"title":"Lalaloopsy Friendship Parade", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/lala_friendship_parade/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/lala_friendship_parade/GamesFinder/lala_friendship_parade-kids-game-promo-new.jpg",
 "link":"/kids-games/lalaloopsy-friendship-parade.html", 
 "datePosted":"Fri Jul 12 00:00:00 EDT 2002", 
 "numViews":"34634"
@@ -72,8 +72,8 @@
 "featured":"",	
 
 "title":"Dot's Moon Mission", 
-"thumbnail":"/nickjr20122015/dynaboss/assets/videoplayer/kids/videos/lala/101-dots-moon/101-dots-moon-thumb.jpg",
-"promoImage":"/nickjr20122015/dynaboss",
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/assets/videoplayer/kids/videos/lala/101-dots-moon/101-dots-moon-thumb.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss",
 
 "link":"/kids-videos/lalaloopsy-kids-videos.html", 
 "datePosted":"2009-09-21 16:55:05.0", 
