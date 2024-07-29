@@ -1,0 +1,158 @@
+{
+"config":{
+"music":{
+"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/music/silent-loop.swf",
+"volume":"0.3",
+"fadeAfter":"30"
+},
+"animation":{
+"loader":{"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/loaders/general-loader.swf"},
+"urlAlias":"kids-bubble-guppies",
+"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/main-content/bubbleguppies-show-landing.swf",
+"classId":"GameListAnimation"
+},
+"promoSounds":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/promos/global-promo-sounds.swf",
+"promos":[
+
+{
+"loader":{"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/loaders/asset-loader.swf","position":{"x":"75","y":"35"}},
+"classId":"ShowGamesListPromo",
+"localConnectionId":"ShowGameListPromo",
+"urlAlias":"kids-bubble-guppies",
+"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/promos/listing/showGames.swf",
+
+"position":{"x":"316","y":"0"},
+
+"allLink":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/bubble-guppies/",
+"items":[
+
+{
+"urlAlias":"bubble-guppies-bubble-pop",	
+"featured":"",	
+"title":"Bubble Puppy's Bubble Pop!", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/bubb_bubblepop/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/bubb_bubblepop/bubb_popp_01.jpg",
+"link":"/kids-games/bubble-guppies-bubble-pop.html", 
+"datePosted":"Fri Jul 12 00:00:00 EDT 2002", 
+"numViews":"34634"
+}
+
+,
+
+{
+"urlAlias":"bubble-guppies-classroom-play",	
+"featured":"",	
+"title":"Bubble Guppies Classroom Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/bubb_classroom/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/bubb_classroom/GamesFinder/bubb_classroom_01.jpg",
+"link":"/kids-games/bubble-guppies-classroom-play.html", 
+"datePosted":"Thu May 22 00:00:00 EDT 2008", 
+"numViews":"37298"
+}
+
+,
+
+{
+"urlAlias":"bubble-guppies-fairytale-adventure",	
+"featured":"",	
+"title":"Bubble Guppies Fairytale Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/bubb_fairytale_adventure/GamesFinder/bg-fairytale-thumb.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/bubb_fairytale_adventure/bg-fairytale-01.jpg",
+"link":"/kids-games/bubble-guppies-fairytale-game.html", 
+"datePosted":"Fri Jul 12 00:00:00 EDT 2002", 
+"numViews":"34634"
+}
+
+,
+
+{
+"urlAlias":"bubble-guppies-firefighers",	
+"featured":"",	
+"title":"Bubble Guppies Firefighter Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/bubb_firefighterknights/GamesFinder/bubgup-firefighters-thumb.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/bubb_firefighterknights/GamesFinder/blue-is-my-name.jpg",
+"link":"/kids-games/bubble-guppies-firefighers.html", 
+"datePosted":"Thu May 22 00:00:00 EDT 2008", 
+"numViews":"37298"
+}
+
+,
+
+{
+"urlAlias":"bubble-guppies-halloween-party",	
+"featured":"",	
+"title":"Bubble Guppies Halloween Party", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/bubb_halloweenparty/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/bubb_halloweenparty/GamesFinder/bubb-halloween-party-01.jpg",
+"link":"/kids-games/bubble-guppies-halloween-party.html", 
+"datePosted":"Thu May 22 00:00:00 EDT 2008", 
+"numViews":"37298"
+}
+
+,
+
+{
+"urlAlias":"bubble-guppies-lonely-rhino",	
+"featured":"",	
+"title":"Guppies Friend Finders Game!", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/bubb_rhino/GamesFinder/bg-lonely-rhino-friend-finders-thumb.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/bubb_rhino/GamesFinder/bg-lonely-rhino-friend-finders-thumb.jpg",
+"link":"/kids-games/bubble-guppies-lonely-rhino.html", 
+"datePosted":"Thu May 22 00:00:00 EDT 2008", 
+"numViews":"37298"
+}
+,
+
+{
+"urlAlias":"bubble-guppies-treat-pop",	
+"featured":"",	
+"title":"Bubble Puppy Treat Pop Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/bubb_treatpop/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/bubb_treatpop/GamesFinder/bubb-treat-01.jpg",
+"link":"/kids-games/bubble-guppies-treat-pop.html", 
+"datePosted":"Thu May 22 00:00:00 EDT 2008", 
+"numViews":"37298"
+}
+,
+
+{
+"urlAlias":"bubble-guppies-valentines-play",	
+"featured":"",	
+"title":"Happy Valentine's Play!", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/bubb_valentines_play/GamesFinder/bubb_valentines_play-thumb.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/bubb_valentines_play/GamesFinder/bubb_valentines_play-kids-game-promo.jpg",
+"link":"/kids-games/bubble-guppies-valentines-play.html", 
+"datePosted":"Thu May 22 00:00:00 EDT 2008", 
+"numViews":"37298"
+}
+,
+
+{
+"urlAlias":"bubble-guppies-x-marks-the-spot",	
+"featured":"",	
+"title":"Guppies X Marks the Spot Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/bubb_xmarksthespot/GamesFinder/bubble-guppies-xmarksthespot-thumb.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/bubb_xmarksthespot/GamesFinder/bubble-guppies-xmarksthespot-01.jpg",
+"link":"/kids-games/bubble-guppies-xmarksthespot.html", 
+"datePosted":"Thu May 22 00:00:00 EDT 2008", 
+"numViews":"37298"
+}
+
+,
+
+{
+"urlAlias":"bubble-guppies-good-hair-day",	
+"featured":"",
+"title":"Guppies Good Hair Day Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/bubb_hair/GamesFinder/bubb-hair-thumb.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/bubb_hair/GamesFinder/bubb-hair-01.jpg",
+"link":"/kids-games/bubble-guppies-hair-day-game.html", 
+"datePosted":"Thu May 22 00:00:00 EDT 2008", 
+"numViews":"37298"
+}
+
+]
+}
+]
+}
+}
