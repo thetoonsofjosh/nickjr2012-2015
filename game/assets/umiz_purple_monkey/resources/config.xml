@@ -1,24 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <config>
-			
-	<assets>
-		
-		<!-- Categorize assets based on section names -->
-		<global>
-			<asset id="musicLoops" src="https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/umiz_purple_monkey/assets/swf/music.swf" />
-		</global>
-		<section id="preloader">
-			<asset id="main" src="https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/umiz_purple_monkey/umizoomi_math_game.swf" />
-		</section>
-		<section id="main">
-			<asset id="printable" src="https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/umiz_purple_monkey/assets/swf/printable.swf" />
-			<asset id="transition1" src="https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/umiz_purple_monkey/assets/swf/transition.swf" />
-			<asset id="bot_mouths" src="https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/umiz_purple_monkey/assets/swf/bot_mouths.swf" />
-			<asset id="geo_mouths" src="https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/umiz_purple_monkey/assets/swf/geo_mouths.swf" />
-			<asset id="milli_mouths" src="https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/umiz_purple_monkey/assets/swf/milli_mouths.swf" />
-			<asset id="umizoomi_logo" src="https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/umiz_purple_monkey/assets/img/umizoomi_logo.png" />
-		</section>
-		
-	</assets>
-
+<assets>
+<!--  Categorize assets based on section names  -->
+<global>
+<asset id="musicLoops" src="/game/assets/umiz_purple_monkey/assets/swf/music.swf"/>
+</global>
+<section id="preloader">
+<asset id="main" src="/game/assets/umiz_purple_monkey/umizoomi_math_game.swf"/>
+</section>
+<section id="main">
+<asset id="printable" src="/game/assets/umiz_purple_monkey/assets/swf/printable.swf"/>
+<asset id="transition1" src="/game/assets/umiz_purple_monkey/assets/swf/transition.swf"/>
+<asset id="bot_mouths" src="/game/assets/umiz_purple_monkey/assets/swf/bot_mouths.swf"/>
+<asset id="geo_mouths" src="/game/assets/umiz_purple_monkey/assets/swf/geo_mouths.swf"/>
+<asset id="milli_mouths" src="/game/assets/umiz_purple_monkey/assets/swf/milli_mouths.swf"/>
+<asset id="umizoomi_logo" src="/game/assets/umiz_purple_monkey/assets/img/umizoomi_logo.png"/>
+</section>
+</assets>
 </config>
