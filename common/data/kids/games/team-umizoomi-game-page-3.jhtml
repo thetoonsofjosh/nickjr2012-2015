@@ -1,0 +1,80 @@
+{
+"config":{
+"debug":{"showName":"team-umizoomi"},
+"promoSounds":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/promos/global-promo-sounds.swf",
+"buttons":[
+{
+"localConnectionId":"ShowLogo",
+"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/showlogos/TeamUmizoomi.swf", 
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids/team-umizoomi/",
+"position":{"x":"40","y":"52"}	
+}
+],
+"promos":[
+{
+"loader":{"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/loaders/asset-loader.swf","position":{"x":"70","y":"220"}},
+"classId":"MoreGamesPromo",
+"localConnectionId":"MoreGamesPromo",
+"urlAlias":"",
+"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/promos/listing/moreGames.swf",
+"position":{"x":"0","y":"0"},
+"allLink":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/team-umizoomi/",
+"items":[
+
+{
+"urlAlias":"umi-grand-prix",	
+"featured":"",	
+"title":"Umi Grand Prix", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/umiz_grand_prix/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/umiz_grand_prix/GamesFinder/umiz-bot-silly-fix-it-01.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/umi-grand-prix.html", 
+"datePosted":"Thu May 22 00:00:00 EDT 2008", 
+"numViews":"37298"
+}
+
+,
+
+{
+"urlAlias":"umi-shape-bandit-game",	
+"featured":"false",	
+"title":"Umizoomi Shape Bandit Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/umiz_shape_bandit/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/umiz_shape_bandit/GamesFinder/",
+"link":"/kids-games/umi-shape-bandit-game.html", 
+"datePosted":"Wed May 22 00:00:00 EDT 2013", 
+"numViews":"528715"
+}
+
+,
+
+{
+"urlAlias":"bubble-guppies-bubble-pop",	
+"featured":"",	
+"title":"Bubble Puppy's Bubble Pop!", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/bubb_bubblepop/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/bubb_bubblepop/bubb_popp_01.jpg",
+"link":"/kids-games/bubble-guppies-bubble-pop.html", 
+"datePosted":"Thu May 22 00:00:00 EDT 2008", 
+"numViews":"37298"
+}
+
+,
+
+{
+"urlAlias":"diegos-fiercest-animals",	
+"featured":"",	
+"title":"Diego's Fiercest Animals Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dieg_fiercest_animals/GamesFinder/diego-fiercest-animals-thumb.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dieg_fiercest_animals/GamesFinder/diego-fiercest-animals-01.jpg",
+"link":"/kids-games/diegos-fiercest-animals.html", 
+"datePosted":"Thu May 22 00:00:00 EDT 2008", 
+"numViews":"37298"
+}
+
+
+
+]
+}
+]
+}
+}
