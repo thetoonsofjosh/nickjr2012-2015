@@ -1,7 +1,7 @@
 {
 "config":{
 "music":{
-"path":"/nickjr20122015/dynaboss/flash/kids/music/umizoomi-show-loop.swf",
+"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/music/silent-loop.swf",
 "volume":"0.3",
 "fadeAfter":"30"
 },
@@ -148,8 +148,8 @@
 "featured":"false",	
 "title":"Shark Car Race Game", 
 "thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/umiz_sharkcar_ferryrace/GamesFinder/thumbnail.jpg",
-"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/uumiz_sharkcar_ferryrace/GamesFinder/",
-"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/umizoomi-shark-car-ferry-race.html", 
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/umiz_sharkcar_ferryrace/GamesFinder/",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/umi-shark-car-ferry-race.html", 
 "datePosted":"Wed May 22 00:00:00 EDT 2013", 
 "numViews":"528715"
 }
@@ -162,7 +162,20 @@
 "title":"The Stinky Dozen", 
 "thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/umiz_umicops/GamesFinder/thumbnail.jpg",
 "promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/umiz_umicops/GamesFinder/",
-"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/umizoomi-umi-cops.html", 
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/umi-cops.html", 
+"datePosted":"Wed May 22 00:00:00 EDT 2013", 
+"numViews":"528715"
+}
+
+,
+
+{
+"urlAlias":"umi-games-mighty-bike-race",	
+"featured":"false",	
+"title":"Umi Mighty Bike Race Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/umiz_umigames_bikerace/umiz_umigames_bikerace/umiz_umigames_bikerace.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/umiz_umigames_bikerace/umiz_umigames_bikerace/umiz_umigames_bikerace.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/umi-games-mighty-bike-race.html", 
 "datePosted":"Wed May 22 00:00:00 EDT 2013", 
 "numViews":"528715"
 }
