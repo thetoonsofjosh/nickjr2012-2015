@@ -1,14 +1,14 @@
 <xml>
-	<loadSchema preloader="/game/assets/umiz_shape_bandit/preloader.swf"  loader="/game/assets/umiz_shape_bandit/ShapeBandit_Loader.swf" loaderBG="/game/assets/umiz_shape_bandit/img/loaderBG_740_320.jpg" audioXML="/game/assets/umiz_shape_bandit/xml/soundFiles.xml" primaryBatch="primary" autoLoadQueue="" />
+	<loadSchema preloader="https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/umiz_shape_bandit/preloader.swf"  loader="https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/umiz_shape_bandit/ShapeBandit_Loader.swf" loaderBG="https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/umiz_shape_bandit/img/loaderBG_740_320.jpg" audioXML="https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/umiz_shape_bandit/xml/soundFiles.xml" primaryBatch="primary" autoLoadQueue="" />
 	
 	<primary>
 		<!---- swf id="childswf" file="childswf.swf" -->
 		<!---- xml id="xml" file="xml.xml" -->
 		<!---- img id="img" file="img.jpg" -->
 		<!---- txtData id="childswf" file="txt.cvs" -->
-		<audioswf id="audioSWF" file="/game/assets/umiz_shape_bandit/ShapeBandit_Audio.swf" />
-		<swf id="animations" file="/game/assets/umiz_shape_bandit/ShapeBandit_Animation.swf" />
-		<swf id="game" file="/game/assets/umiz_shape_bandit/ShapeBandit_Game.swf" />
+		<audioswf id="audioSWF" file="https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/umiz_shape_bandit/ShapeBandit_Audio.swf" />
+		<swf id="animations" file="https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/umiz_shape_bandit/ShapeBandit_Animation.swf" />
+		<swf id="game" file="https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/umiz_shape_bandit/ShapeBandit_Game.swf" />
 		<audioLoadList groupIDQueue="music,sfx,vo" />
 	</primary>
 </xml>
