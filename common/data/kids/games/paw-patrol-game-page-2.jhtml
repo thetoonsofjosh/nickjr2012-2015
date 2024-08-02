@@ -1,0 +1,80 @@
+{
+"config":{
+"debug":{"showName":"paw-patrol"},
+"promoSounds":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/promos/global-promo-sounds.swf",
+"buttons":[
+{
+"localConnectionId":"ShowLogo",
+"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/showlogos/PawPatrol.swf", 
+"link":"/kids/dora-the-explorer/",
+"position":{"x":"40","y":"52"}	
+}
+],
+"promos":[
+{
+"loader":{"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/loaders/asset-loader.swf","position":{"x":"70","y":"220"}},
+"classId":"MoreGamesPromo",
+"localConnectionId":"MoreGamesPromo",
+"urlAlias":"",
+"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/promos/listing/moreGames.swf",
+"position":{"x":"0","y":"0"},
+"allLink":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/paw-patrol/",
+"items":[
+
+
+{
+"urlAlias":"paw-pups-save-the-farm",	
+"featured":"",	
+"title":"Pups Save the Farm Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/paw_pups_save_the_farm/GamesFinder/paw_pups_save_the_farm-thumb.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/paw_pups_save_the_farm/GamesFinder/paw_pups_save_the_farm-screenshot1.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/paw-pups-save-the-farm.html", 
+"datePosted":"Thu May 22 00:00:00 EDT 2008", 
+"numViews":"37298"
+}
+
+,
+
+{
+"urlAlias":"dora-enchanted-forest-game",	
+"featured":"",	
+"title":"Dora Enchanted Forest Game", 
+"thumbnail":"/game/assets/dora_enchanted/GamesFinder/dora-enchanted-02.jpg",
+"promoImage":"/game/assets/dora_enchanted/GamesFinder/dora-enchanted-thumb.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/dora-enchanted-forest-game.html", 
+"datePosted":"Thu May 22 00:00:00 EDT 2008", 
+"numViews":"37298"
+}
+
+,
+
+{
+"urlAlias":"peter-rabbit-make-a-scene",	
+"featured":"",	
+"title":"Peter Rabbit: Make a Scene!", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/pr_make_a_scene/GamesFinder/pr_make_a_scene-thumb.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/pr_make_a_scene/GamesFinder/pr_make_a_scene-01.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/peter-rabbit-make-a-scene.html", 
+"datePosted":"Thu May 22 00:00:00 EDT 2008", 
+"numViews":"2814"
+}
+
+,
+{
+"urlAlias":"wallykazam-fruit-frenzy",	
+"featured":"",	
+"title":"Wallykazam! Fruit Frenzy!", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/wally_fruit_frenzy/GamesFinder/wally_fruit_frenzy-thumb.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/wally_fruit_frenzy/GamesFinder/wally_fruit_frenzy-01.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/wallykazam-fruit-frenzy.html", 
+"datePosted":"Wed Aug 22 00:00:00 EDT 2012", 
+"numViews":"35867"
+}
+
+
+
+]
+}
+]
+}
+}
