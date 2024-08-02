@@ -1,0 +1,80 @@
+{
+"config":{
+"debug":{"showName":"spinner-space-kid"},
+"promoSounds":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/promos/global-promo-sounds.swf",
+"buttons":[
+{
+"localConnectionId":"ShowLogo",
+"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/showlogos/Spinner.swf", 
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids/spinner-space-kid/",
+"position":{"x":"40","y":"52"}	
+}
+],
+"promos":[
+{
+"loader":{"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/loaders/asset-loader.swf","position":{"x":"70","y":"220"}},
+"classId":"MoreGamesPromo",
+"localConnectionId":"MoreGamesPromo",
+"urlAlias":"",
+"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/promos/listing/moreGames.swf",
+"position":{"x":"0","y":"0"},
+"allLink":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/spinner-space-kid/",
+"items":[
+
+{
+"urlAlias":"spinner-the-space-kid",	
+"featured":"",	
+"title":"Spinner the Space Kid", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/spinner_spacekid/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/spinner_spacekid/GamesFinder/spinner-the-space-kid1.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/spinner-the-space-kid.html", 
+"datePosted":"Fri Jul 12 00:00:00 EDT 2002", 
+"numViews":"34634"
+}
+
+,
+
+{
+"urlAlias":"backyardigans-mission-to-mars",	
+"featured":"",	
+"title":"The Backyardigans Mission to Mars", 
+"thumbnail":"/game/assets/back_mission_to_mars/GamesFinder/thumbnail.jpg",
+"promoImage":"/game/assets/back_mission_to_mars/GamesFinder/thumbnail.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/backyardigans-mission-to-mars.html", 
+"datePosted":"Wed Aug 22 00:00:00 EDT 2012", 
+"numViews":"35867"
+}
+
+,
+
+{
+"urlAlias":"dora-space-adventure",	
+"featured":"",	
+"title":"Dora's Space Adventure", 
+"thumbnail":"/game/assets/dora_space_adv/GamesFinder/thumbnail.jpg",
+"promoImage":"/game/assets/dora_space_adv/GamesFinder/doras-space-adventure3.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/doras-space-adventure.html", 
+"datePosted":"Thu May 22 00:00:00 EDT 2008", 
+"numViews":"37298"
+}
+
+,
+
+{
+"urlAlias":"umi-games-mighty-bike-race",	
+"featured":"",	
+"title":"Umi Mighty Bike Race Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/umiz_umigames_bikerace/umiz_umigames_bikerace.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/umiz_umigames_bikerace/umiz_umigames_bikerace.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/umi-games-mighty-bike-race.html", 
+"datePosted":"Wed May 22 00:00:00 EDT 2013", 
+"numViews":"43"
+}
+
+
+
+]
+}
+]
+}
+}
