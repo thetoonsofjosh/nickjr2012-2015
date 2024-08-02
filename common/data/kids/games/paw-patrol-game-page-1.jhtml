@@ -1,0 +1,82 @@
+{
+"config":{
+"debug":{"showName":"paw-patrol"},
+"promoSounds":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/promos/global-promo-sounds.swf",
+"buttons":[
+{
+"localConnectionId":"ShowLogo",
+"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/showlogos/PawPatrol.swf", 
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids/paw-patrol/",
+"position":{"x":"40","y":"52"}	
+}
+],
+"promos":[
+{
+"loader":{"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/loaders/asset-loader.swf","position":{"x":"70","y":"220"}},
+"classId":"MoreGamesPromo",
+"localConnectionId":"MoreGamesPromo",
+"urlAlias":"",
+"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/promos/listing/moreGames.swf",
+"position":{"x":"0","y":"0"},
+"allLink":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/paw-patrol/",
+"items":[
+
+
+
+{
+"urlAlias":"paw-pups-save-the-day",	
+"featured":"",	
+"title":"Pups Save the Day", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/paw_pups_save_the_day/GamesFinder/paw_pups_save_the_day-thumb.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/paw_pups_save_the_day/GamesFinder/paw_pups_save_the_day-kids-game-promo.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/paw-pups-save-the-day.html", 
+"datePosted":"Thu May 22 00:00:00 EDT 2008", 
+"numViews":"37298"
+}
+
+,
+
+{
+"urlAlias":"the-ants'-adventure",	
+"featured":"",	
+"title":"The Ants' Adventure", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/niha_ants/Gamesfinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/niha_ants/kids-game-promo.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/ants-adventure.html", 
+"datePosted":"Fri Jul 12 00:00:00 EDT 2002", 
+"numViews":"34634"
+}
+
+,
+
+{
+"urlAlias":"dora-roller-skating-adventure",	
+"featured":"",	
+"title":"Dora's Roller Skate Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dora_rollerskating/GamesFinder/thumb.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dora_rollerskating/GamesFinder/screenshot2.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/dora-roller-skating-adventure.html", 
+"datePosted":"Thu May 22 00:00:00 EDT 2008", 
+"numViews":"37298"
+}
+
+,
+
+{
+"urlAlias":"mike-the-knight-apples-arrows",	
+"featured":"",	
+"title":"Mike the Knight Apples &amp; Arrows", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/mtk_apples_arrows/GamesFinder/mike-the-knight-apples-and-arrows-thumb.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/mtk_apples_arrows/GamesFinder/mike-the-knight-apples-and-arrows-thumb.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/mike-the-knight-apples-arrows.html", 
+"datePosted":"Thu May 22 00:00:00 EDT 2008", 
+"numViews":"37298"
+}
+
+
+
+]
+}
+]
+}
+}
