@@ -1,0 +1,80 @@
+{
+"config":{
+"debug":{"showName":"bubble-guppies"},
+"promoSounds":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/promos/global-promo-sounds.swf",
+"buttons":[
+{
+"localConnectionId":"ShowLogo",
+"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/showlogos/Bubbleguppies.swf", 
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids/bubble-guppies/",
+"position":{"x":"40","y":"52"}	
+}
+],
+"promos":[
+{
+"loader":{"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/loaders/asset-loader.swf","position":{"x":"70","y":"220"}},
+"classId":"MoreGamesPromo",
+"localConnectionId":"MoreGamesPromo",
+"urlAlias":"",
+"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/promos/listing/moreGames.swf",
+"position":{"x":"0","y":"0"},
+"allLink":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/bubble-guppies/",
+"items":[
+
+
+{
+"urlAlias":"bubble-guppies-halloween-party",	
+"featured":"",	
+"title":"Bubble Guppies Halloween Party", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/bubb_halloweenparty/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/bubb_halloweenparty/GamesFinder/bubb-halloween-party-01.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/bubble-guppies-halloween-party.html", 
+"datePosted":"Thu May 22 00:00:00 EDT 2008", 
+"numViews":"37298"
+}
+
+,
+
+{
+"urlAlias":"peter-rabbit-nut-catch",	
+"featured":"",	
+"title":"Peter Rabbit Acorn Catch Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/pr_nutcatch/GamesFinder/peter-rabbit-nutkin-catch-thumb.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/pr_nutcatch/GamesFinder/peter-rabbit-nutkin-catch-01.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/peter-rabbit-nut-catch.html", 
+"datePosted":"Thu May 22 00:00:00 EDT 2008", 
+"numViews":"37298"
+}
+
+,
+
+{
+"urlAlias":"mega-music-game",	
+"featured":"",	
+"title":"Mega Music Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/moos_mega_music/GamesFinder/dora-megamusic-game-thumb.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/moos_mega_music/GamesFinder/dora-mega-music-01.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/mega-music-game.html", 
+"datePosted":"Thu May 22 00:00:00 EDT 2008", 
+"numViews":"2814"
+}
+
+,
+{
+"urlAlias":"mike-the-knight-viking-bounce",	
+"featured":"",	
+"title":"Mike the Knight Viking Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/mtk_viking_bounce/GamesFinder/mike-the-knight-viking-bounce-thumb.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/mtk_viking_bounce/GamesFinder/mike-the-knight-viking-bounce-thumb.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/mike-the-knight-viking-bounce.html", 
+"datePosted":"Wed Aug 22 00:00:00 EDT 2012", 
+"numViews":"35867"
+}
+
+
+
+]
+}
+]
+}
+}
