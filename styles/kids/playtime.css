@@ -1,0 +1,97 @@
+.large-game-style #kidsTopAdWrapper {
+	height: 120px;
+	width: 1014px;
+	margin: 0 auto;
+	padding-top: 12px;
+}
+
+.large-game-style #kidsTopAdWrapper .pushdown {
+	position: relative;
+	width: 1014px;
+	height: 120px;
+	margin: 0 auto;
+	padding: 0;
+	background: url(https://thetoonsofjosh.github.io/nickjr2012-2015//assets/repaint/top-white.jpg) no-repeat;
+}
+
+.large-game-style .spacer {
+	position: absolute;
+	display: block !important;
+	width: 1014px;
+	top: 30px;
+	height: 90px;
+	z-index: -1;
+	background: url(https://thetoonsofjosh.github.io/nickjr2012-2015//assets/repaint/mid-white.jpg) repeat-y;
+}
+
+.large-game-style #top-advertisement {
+	position: absolute;
+	top: 12px;
+	right: 24px;
+	width: 742px;
+	height: 90px;
+	z-index: 2;
+}
+
+.large-game-style #top-advertisement #adOPA {
+	width: 742px;
+}
+
+/* Since our kidsTopAdWrapper will now handle this top border */
+.large-game-style #body-top { display: none; }
+
+.large-game-style #kidsTopAdWrapper .logo {
+	width: 239px;
+	height: 77px;
+	background: transparent url(https://thetoonsofjosh.github.io/nickjr2012-2015//assets/playtime/logo-pt.png) no-repeat 0 0;
+}
+
+.large-game-style #kidsTopAdWrapper .carousel { /* same width as logo, no-repeat centered */
+	position: relative;
+	width: 239px;
+	height: 41px;
+	cursor: pointer;
+	background: transparent url(https://thetoonsofjosh.github.io/nickjr2012-2015//assets/playtime/icon_carousel.jpg) no-repeat center center;
+}
+
+.large-game-style #headNavWrapper { overflow: hidden; }
+.large-game-style #contentWrapper { margin-top: 0; }
+
+.large-game-style .tuneInContainerGames {
+	margin-bottom: 10px;
+	margin-top: 0;
+}
+
+.large-game-style .tuneInContainerGames .tuneInHeader { font-size: 16px; }
+.large-game-style .tuneInContainerGames .tuneInText { font-size: 13px; }
+
+.large-game-style .logo-hider {
+	position: absolute;
+	top: 0;
+	left: 0;
+	display: block;
+	width: 300px;
+	height: 80px;
+	z-index: 2;
+	background-color: #fff;
+}
+
+.large-game-style .kidsspaceholder {
+	height: 175px !important;
+}
+
+.large-game-style #kidsheadnavswf {
+	margin-top: 0;
+}
+
+.large-game-style #kids88x31Logo {
+	top: 0;
+}
+/*
+     FILE ARCHIVED ON 01:00:00 Dec 05, 2014 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 20:58:20 Aug 05, 2024.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
