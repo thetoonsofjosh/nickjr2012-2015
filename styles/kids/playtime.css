@@ -11,7 +11,7 @@
 	height: 120px;
 	margin: 0 auto;
 	padding: 0;
-	background: url(https://thetoonsofjosh.github.io/nickjr2012-2015//assets/repaint/top-white.jpg) no-repeat;
+	background: url(https://thetoonsofjosh.github.io/nickjr2012-2015/assets/repaint/top-white.jpg) no-repeat;
 }
 
 .large-game-style .spacer {
@@ -21,7 +21,7 @@
 	top: 30px;
 	height: 90px;
 	z-index: -1;
-	background: url(https://thetoonsofjosh.github.io/nickjr2012-2015//assets/repaint/mid-white.jpg) repeat-y;
+	background: url(https://thetoonsofjosh.github.io/nickjr2012-2015/assets/repaint/mid-white.jpg) repeat-y;
 }
 
 .large-game-style #top-advertisement {
@@ -43,7 +43,7 @@
 .large-game-style #kidsTopAdWrapper .logo {
 	width: 239px;
 	height: 77px;
-	background: transparent url(https://thetoonsofjosh.github.io/nickjr2012-2015//assets/playtime/logo-pt.png) no-repeat 0 0;
+	background: transparent url(https://thetoonsofjosh.github.io/nickjr2012-2015/assets/playtime/logo-pt.png) no-repeat 0 0;
 }
 
 .large-game-style #kidsTopAdWrapper .carousel { /* same width as logo, no-repeat centered */
@@ -51,7 +51,7 @@
 	width: 239px;
 	height: 41px;
 	cursor: pointer;
-	background: transparent url(https://thetoonsofjosh.github.io/nickjr2012-2015//assets/playtime/icon_carousel.jpg) no-repeat center center;
+	background: transparent url(https://thetoonsofjosh.github.io/nickjr2012-2015/assets/playtime/icon_carousel.jpg) no-repeat center center;
 }
 
 .large-game-style #headNavWrapper { overflow: hidden; }
