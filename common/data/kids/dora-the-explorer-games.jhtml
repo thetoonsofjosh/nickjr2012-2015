@@ -6,24 +6,24 @@
 "fadeAfter":"30"
 },
 "animation":{
-"loader":{"path":"/nickjr20122015/dynaboss/flash/kids/loaders/general-loader.swf"},
+"loader":{"path":"https://thetoonsofjosh.github.io/dynaboss/flash/kids/loaders/general-loader.swf"},
 "urlAlias":"kids-dora-the-explorer-games",
-"path":"/nickjr20122015/dynaboss/flash/kids/main-content/dora-show-landing.swf",
+"path":"https://thetoonsofjosh.github.io/dynaboss/flash/kids/main-content/dora-show-landing.swf",
 "classId":"GameListAnimation"
 },
-"promoSounds":"/nickjr20122015/dynaboss/flash/kids/promos/global-promo-sounds.swf",
+"promoSounds":"https://thetoonsofjosh.github.io/dynaboss/flash/kids/promos/global-promo-sounds.swf",
 "promos":[
 
 {
-"loader":{"path":"/nickjr20122015/dynaboss/flash/kids/loaders/asset-loader.swf","position":{"x":"455","y":"155"}},
+"loader":{"path":"https://thetoonsofjosh.github.io/dynaboss/flash/kids/loaders/asset-loader.swf","position":{"x":"455","y":"155"}},
 "classId":"ShowGamesListPromo",
 "localConnectionId":"ShowGameListPromo",
-"urlAlias":"kids-nick-jr-assorted",
-"path":"/nickjr20122015/dynaboss/flash/kids/promos/listing/showGames.swf",
+"urlAlias":"kids-dora-the-explorer",
+"path":"https://thetoonsofjosh.github.io/dynaboss/flash/kids/promos/listing/showGames.swf",
 
 "position":{"x":"316","y":"0"},
 
-"allLink":"/kids-games/nick-jr-assorted/",
+"allLink":"https://thetoonsofjosh.github.io/kids-games/dora-the-explorer/",
 "items":[
 
 {
