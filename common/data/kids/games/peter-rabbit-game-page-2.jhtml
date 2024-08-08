@@ -1,0 +1,78 @@
+{
+"config":{
+"debug":{"showName":"peter-rabbit"},
+"promoSounds":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/promos/global-promo-sounds.swf",
+"buttons":[
+{
+"localConnectionId":"ShowLogo",
+"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/showlogos/peter.swf", 
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids/peter-rabbit/",
+"position":{"x":"40","y":"52"}	
+}
+],
+"promos":[
+{
+"loader":{"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/loaders/asset-loader.swf","position":{"x":"70","y":"220"}},
+"classId":"MoreGamesPromo",
+"localConnectionId":"MoreGamesPromo",
+"urlAlias":"",
+"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/promos/listing/moreGames.swf",
+"position":{"x":"0","y":"0"},
+"allLink":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/peter-rabbit/",
+"items":[
+
+{
+"urlAlias":"peter-rabbit-make-a-scene",	
+"featured":"false",	
+"title":"Peter Rabbit: Make a Scene!", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/pr_make_a_scene/GamesFinder/pr_make_a_scene-thumb.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/pr_make_a_scene/GamesFinder/pr_make_a_scene-01.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/peter-rabbit-make-a-scene.html", 
+"datePosted":"Wed May 22 00:00:00 EDT 2013", 
+"numViews":"528715"
+}
+
+,
+
+{
+"urlAlias":"umi-city-mighty-math-missions",	
+"featured":"",	
+"title":"Umi City: Mighty Missions Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/umiz_city/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/umiz_city/GamesFinder/umiz-city-01.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/umi-city-mighty-math-missions.html", 
+"datePosted":"Thu May 22 00:00:00 EDT 2008", 
+"numViews":"2814"
+}
+
+,
+
+{
+"urlAlias":"ready-set-dino",	
+"featured":"",	
+"title":"Ready, Set, Dino Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dino_readysetdino/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dino_readysetdino/kids-game-promo.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/ready-set-dino.html", 
+"datePosted":"Thu May 22 00:00:00 EDT 2008", 
+"numViews":"37298"
+}
+
+,
+
+{
+"urlAlias":"dora-magic-land-adventure",	
+"featured":"",	
+"title":"Dora's Magic Adventure Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dora_magicland_adventure/GamesFinder/dora-magic-land-thumb.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dora_magicland_adventure/GamesFinder/dora-magic-land-01.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/dora-magic-land-adventure.html", 
+"datePosted":"Thu May 22 00:00:00 EDT 2008", 
+"numViews":"37298"
+}
+
+]
+}
+]
+}
+}
