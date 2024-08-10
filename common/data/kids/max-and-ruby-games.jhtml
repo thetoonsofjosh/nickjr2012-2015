@@ -1,0 +1,109 @@
+{
+"config":{
+"music":{
+"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/music/silent-loop.swf",
+"volume":"0.3",
+"fadeAfter":"30"
+},
+"animation":{
+"loader":{"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/loaders/general-loader.swf"},
+"urlAlias":"kids-max-and-ruby",
+"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/main-content/maxandruby-show-landing.swf",
+"classId":"GameListAnimation"
+},
+"promoSounds":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/promos/global-promo-sounds.swf",
+"promos":[
+
+{
+"loader":{"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/loaders/asset-loader.swf","position":{"x":"75","y":"35"}},
+"classId":"ShowGamesListPromo",
+"localConnectionId":"ShowGameListPromo",
+"urlAlias":"kids-max-and-ruby",
+"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/promos/listing/showGames.swf",
+
+"position":{"x":"316","y":"0"},
+
+"allLink":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/max-and-ruby/",
+"items":[
+
+{
+"urlAlias":"wheres-max",	
+"featured":"",	
+"title":"Where's Max?", 
+"thumbnail":"/game/assets/maxr_wheresmax/GamesFinder/thumbnail.jpg",
+"promoImage":"/game/assets/maxr_wheresmax/GamesFinder/max-and-rubys-wheres-max1.jpg",
+"link":"/kids-games/wheres-max.html", 
+"datePosted":"Thu May 22 00:00:00 EDT 2008", 
+"numViews":"37298"
+}
+
+,
+
+{
+"urlAlias":"max-ruby-toy-bowling",	
+"featured":"",	
+"title":"Toy Bowling", 
+"thumbnail":"/game/assets/max_ruby_bowling/GamesFinder/thumbnail.jpg",
+"promoImage":"/game/assets/max_ruby_bowling/GamesFinder/thumbnail.jpg",
+"link":"/kids-games/max-ruby-toy-bowling.html", 
+"datePosted":"Thu May 22 00:00:00 EDT 2008", 
+"numViews":"2814"
+}
+
+,
+
+{
+"urlAlias":"max-ruby-dress-up",	
+"featured":"",	
+"title":"Max & Ruby Dress-up Games", 
+"thumbnail":"/game/assets/maxr_dressup/GamesFinder/thumbnail.jpg",
+"promoImage":"/game/assets/maxr_dressup/GamesFinder/thumbnail.jpg",
+"link":"/kids-games/max-ruby-dress-up.html", 
+"datePosted":"Wed Aug 22 00:00:00 EDT 2012", 
+"numViews":"35867"
+}
+
+,
+
+{
+"urlAlias":"max-ruby-soccer",	
+"featured":"",	
+"title":"Ruby's Soccer Shootout", 
+"thumbnail":"/game/assets/maxr_soccer/GamesFinder/thumbnail.jpg",
+"promoImage":"/game/assets/maxr_soccer/GamesFinder/rubys-soccer-shootout1.jpg",
+"link":"/kids-games/max-ruby-soccer.html", 
+"datePosted":"Thu May 22 00:00:00 EDT 2008", 
+"numViews":"2814"
+}
+
+,
+
+{
+"urlAlias":"max-ruby-skating",	
+"featured":"",	
+"title":"Ruby's Figure Skating", 
+"thumbnail":"/game/assets/maxr_skating/GamesFinder/thumbnail.jpg",
+"promoImage":"/game/assets/maxr_skating/GamesFinder/Maxr-Skating-01.jpg",
+"link":"/kids-games/max-ruby-skating.html", 
+"datePosted":"Thu May 22 00:00:00 EDT 2008", 
+"numViews":"37298"
+}
+
+,
+
+{
+"urlAlias":"max-ruby-toy-parade",	
+"featured":"",	
+"title":"Max's Toy Parade", 
+"thumbnail":"/game/assets/maxr_toy_parade/GamesFinder/thumbnail.jpg",
+"promoImage":"/game/assets/maxr_toy_parade/GamesFinder/max-and-rubys-toy-parade1.jpg",
+"link":"/kids-games/max-ruby-toy-parade.html", 
+"datePosted":"Thu May 22 00:00:00 EDT 2008", 
+"numViews":"37298"
+}
+
+]
+}
+]
+}
+}
