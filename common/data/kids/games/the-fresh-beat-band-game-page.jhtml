@@ -23,42 +23,18 @@
 
 
 {
-"urlAlias":"bubble-guppies-firefighers",	
+"urlAlias":"fresh-beat-band-in-toyland",	
 "featured":"",	
-"title":"Bubble Guppies Firefighter Game", 
-"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/bubb_firefighterknights/GamesFinder/bubgup-firefighters-thumb.jpg",
-"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/bubb_firefighterknights/GamesFinder/bubgup-firefighters-01.jpg",
-"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/bubble-guppies-firefighters.html", 
+"title":"Fresh Beats in Toyland Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/fres_toyland/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/fres_toyland/GamesFinder/fres_toyland_01.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/fresh-beat-band-in-toyland.html", 
 "datePosted":"Thu May 22 00:00:00 EDT 2008", 
 "numViews":"37298"
 }
 
 
 
-,
-
-{
-"urlAlias":"bubble-guppies-fairytale-adventure",	
-"featured":"",	
-"title":"Bubble Guppies Fairytale Game", 
-"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/bubb_fairytale_adventure/GamesFinder/bg-fairytale-thumb.jpg",
-"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/bubb_fairytale_adventure/bg-fairytale-01.jpg",
-"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/bubble-guppies-fairytale-game.html", 
-"datePosted":"Fri Jul 12 00:00:00 EDT 2002", 
-"numViews":"34634"
-}
-,
-
-{
-"urlAlias":"diego-puzzle-pyramid",	
-"featured":"",	
-"title":"Diego's Puzzle Pyramid", 
-"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dieg_puzzle/GamesFinder/thumbnail.jpg",
-"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dieg_puzzle/GamesFinder/diegos-puzzle-pyramid1.jpg",
-"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/diegos-puzzle-pyramid.html", 
-"datePosted":"Thu May 22 00:00:00 EDT 2008", 
-"numViews":"37298"
-}
 ,
 
 {
@@ -66,8 +42,32 @@
 "featured":"",	
 "title":"Music Is Everywhere Game", 
 "thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/fres_music_everywhere/GamesFinder/thumbnail.jpg",
-"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/fres_music_video/GamesFinder/fres-music-video-01.jpg",
-"link":":https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/music-is-everywhere.html", 
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/fres_music_everywhere/GamesFinder/fres-music-everywhere-01.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/music-is-everywhere.html", 
+"datePosted":"Fri Jul 12 00:00:00 EDT 2002", 
+"numViews":"34634"
+}
+,
+
+{
+"urlAlias":"purple-monkey-rescue",	
+"featured":"",	
+"title":"Purple Monkey Rescue Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/umiz_purple_monkey/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/umiz_purple_monkey/GamesFinder/umiz_purple_monkey_02.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/purple-monkey-rescue.html", 
+"datePosted":"Thu May 22 00:00:00 EDT 2008", 
+"numViews":"37298"
+}
+,
+
+{
+"urlAlias":"umi-shape-bandit-game",	
+"featured":"",	
+"title":"Umizoomi Shape Bandit Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/umiz_shape_bandit/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/umiz_shape_bandit/GamesFinder/",
+"link":":https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/umi-shape-bandit-game.html", 
 "datePosted":"Thu May 22 00:00:00 EDT 2008", 
 "numViews":"37298"
 }
