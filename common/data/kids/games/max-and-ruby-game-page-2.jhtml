@@ -1,0 +1,78 @@
+{
+"config":{
+"debug":{"showName":"max-and-ruby"},
+"promoSounds":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/promos/global-promo-sounds.swf",
+"buttons":[
+{
+"localConnectionId":"ShowLogo",
+"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/showlogos/MaxRuby.swf", 
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids/max-and-ruby/",
+"position":{"x":"40","y":"52"}	
+}
+],
+"promos":[
+{
+"loader":{"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/loaders/asset-loader.swf","position":{"x":"70","y":"220"}},
+"classId":"MoreGamesPromo",
+"localConnectionId":"MoreGamesPromo",
+"urlAlias":"",
+"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/promos/listing/moreGames.swf",
+"position":{"x":"0","y":"0"},
+"allLink":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/max-and-ruby/",
+"items":[
+
+
+{
+"urlAlias":"max-ruby-toy-bowling",	
+"featured":"",	
+"title":"Max & Ruby Toy Bowling Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/max_ruby_bowling/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/max_ruby_bowling/GamesFinder/thumbnail.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/max-ruby-toy-bowling.html", 
+"datePosted":"Thu May 22 00:00:00 EDT 2008", 
+"numViews":"2814"
+}
+
+,
+
+{
+"urlAlias":"rubys-soccer-shootout",	
+"featured":"",	
+"title":"Ruby's Soccer Shootout Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/maxr_soccer/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/maxr_soccer/GamesFinder/rubys-soccer-shootout1.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/max-ruby-soccer.html", 
+"datePosted":"Thu May 22 00:00:00 EDT 2008", 
+"numViews":"2814"
+}
+
+,
+
+{
+"urlAlias":"yo-gabba-gabba-magic-word-find",	
+"featured":"",	
+"title":"Yo Gabba Gabba! Magic Word", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/yoga_magic_word/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/yoga_magic_word/kids-game-promo.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/yo-gabba-gabba-magic-word-find.html", 
+"datePosted":"Mon Sep 26 00:00:00 EDT 2011", 
+"numViews":"35867"
+}
+
+,
+
+{
+"urlAlias":"doras-ballet-adventure",	
+"featured":"",	
+"title":"Dora's Ballet Adventure Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dora_ballet/GamesFinder/doras-ballet-adventure-thumb.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dora_ballet/kids-game-promo.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/doras-ballet-adventure.html", 
+"datePosted":"Thu May 22 00:00:00 EDT 2008", 
+"numViews":"37298"
+}
+]
+}
+]
+}
+}
