@@ -1,0 +1,78 @@
+{
+"config":{
+"debug":{"showName":"max-and-ruby"},
+"promoSounds":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/promos/global-promo-sounds.swf",
+"buttons":[
+{
+"localConnectionId":"ShowLogo",
+"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/showlogos/MaxRuby.swf", 
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids/max-and-ruby/",
+"position":{"x":"40","y":"52"}	
+}
+],
+"promos":[
+{
+"loader":{"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/loaders/asset-loader.swf","position":{"x":"70","y":"220"}},
+"classId":"MoreGamesPromo",
+"localConnectionId":"MoreGamesPromo",
+"urlAlias":"",
+"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/promos/listing/moreGames.swf",
+"position":{"x":"0","y":"0"},
+"allLink":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/max-and-ruby/",
+"items":[
+
+{
+"urlAlias":"max-rubys-wheres-max",	
+"featured":"",	
+"title":"Max & Ruby's Where's Max Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/maxr_wheresmax/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/maxr_wheresmax/GamesFinder/max-and-rubys-wheres-max1.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/max-rubys-wheres-max.html", 
+"datePosted":"Thu May 22 00:00:00 EDT 2008", 
+"numViews":"37298"
+}
+
+,
+
+{
+"urlAlias":"max-and-ruby-figure-skating",	
+"featured":"",	
+"title":"Figure Skating Max & Ruby Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/maxr_skating/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/maxr_skating/GamesFinder/Maxr-Skating-01.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/max-ruby-skating.html", 
+"datePosted":"Thu May 22 00:00:00 EDT 2008", 
+"numViews":"37298"
+}
+
+,
+
+{
+"urlAlias":"doras-adventure-dress-up",	
+"featured":"",	
+"title":"Dora's Adventure Dress-Up", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dora_dressup/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dora_dressup/GamesFinder/doras-adventure-dress-up3.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/doras-adventure-dress-up.html", 
+"datePosted":"Fri Jul 12 00:00:00 EDT 2002", 
+"numViews":"34634"
+}
+
+,
+
+{
+"urlAlias":"dora-meet-friends",	
+"featured":"",	
+"title":"Meet My Friends", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dora_meetmyfriends/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dora_meetmyfriends/GamesFinder/doras-meet-my-friends-03.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/dora-meet-friends.html", 
+"datePosted":"Thu May 22 00:00:00 EDT 2008", 
+"numViews":"37298"
+}
+
+]
+}
+]
+}
+}
