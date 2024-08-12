@@ -1,0 +1,78 @@
+{
+"config":{
+"debug":{"showName":"dino-dan"},
+"promoSounds":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/promos/global-promo-sounds.swf",
+"buttons":[
+{
+"localConnectionId":"ShowLogo",
+"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/showlogos/DinoDan.swf", 
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids/dino-dan/",
+"position":{"x":"40","y":"52"}	
+}
+],
+"promos":[
+{
+"loader":{"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/loaders/asset-loader.swf","position":{"x":"70","y":"220"}},
+"classId":"MoreGamesPromo",
+"localConnectionId":"MoreGamesPromo",
+"urlAlias":"",
+"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/promos/listing/moreGames.swf",
+"position":{"x":"0","y":"0"},
+"allLink":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/dino-dan/",
+"items":[
+
+{
+"urlAlias":"dino-dan-ready-set-dino",	
+"featured":"",	
+"title":"Ready, Set, Dino Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dino_readysetdino/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dino_readysetdino/GamesFinder/dino-ready-set-dino1.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/ready-set-dino.html", 
+"datePosted":"Thu May 22 00:00:00 EDT 2008", 
+"numViews":"2814"
+}
+
+,
+
+{
+"urlAlias":"adventures-in-wonderland",	
+"featured":"",	
+"title":"Adventures in Wonderland", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/wond_wonderland/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/wond_wonderland/kids-game-promo.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/adventures-in-wonderland.html", 
+"datePosted":"Thu May 22 00:00:00 EDT 2008", 
+"numViews":"2814"
+}
+
+,
+
+{
+"urlAlias":"dora-we-are-thankful",	
+"featured":"",	
+"title":"Dora's Thankful Old Troll Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dora_we_are_thankful/GamesFinder/dora-we-are-thankful-thumb.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dora_we_are_thankful/GamesFinder/dora-we-are-thankful-kids-game-promo.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/dora-we-are-thankful.html", 
+"datePosted":"Thu May 22 00:00:00 EDT 2008", 
+"numViews":"37298"
+}
+
+,
+
+{
+"urlAlias":"diego-ultimate-rescue",	
+"featured":"",	
+"title":"Diego's Ultimate Rescue Game", 
+"thumbnail":""https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dieg_ultimate/GamesFinder/thumbnail.jpg",
+"promoImage":""https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dieg_ultimate/kids-game-promo.jpg",
+"link":""https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/diego-ultimate-rescue.html", 
+"datePosted":"Tue Feb 24 00:00:00 EST 2009", 
+"numViews":"1"
+}
+
+]
+}
+]
+}
+}
