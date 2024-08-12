@@ -1,0 +1,226 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	
+	<localizationSettings>
+		<enableHighScores>true</enableHighScores>
+		<enableNickPoints>false</enableNickPoints>
+		<enableRightToLeftText>false</enableRightToLeftText>
+	</localizationSettings>	
+		
+	<!--Trackables-->
+	<tracking>
+		<urlAlias>dino_dan_dino_race</urlAlias>
+		<contentType>game</contentType>
+		<showID>Dino Dan</showID>		
+	</tracking>
+	
+	<playAgainButton>
+		<func>trackKidsGamePlay</func>
+		<urlAlias>dino_dan_dino_race</urlAlias>
+	</playAgainButton>
+	<printButton>
+		<func>printTracker</func>
+		<numPages>1</numPages>
+	</printButton>
+	
+	
+	
+	<videos>
+		<video id="dromaeoTutorial" src="assets/video/Dino_Dan_Instr-DromaeosaurusTransitions.flv" />
+		<video id="stygiTutorial" src="assets/video/Dino_Dan_Instr-StygimolochTransitions.flv" />
+	</videos>
+	
+	<assets>
+		
+		<global>
+			<asset id="character" src="assets/swfs/characters/Dan.swf" />
+		</global>
+				
+		<section id="main">
+			<asset id="mainSection"		src="Game.swf" />
+			<asset id="tutorialSection"	src="assets/swfs/sections/Tutorial.swf" />
+			<asset id="raceSection"		src="assets/swfs/sections/Race.swf" />
+			<asset id="endGameSection"	src="assets/swfs/sections/EndGame.swf" />
+			<asset id="fieldBookSection" src="assets/swfs/sections/FieldBook.swf" />
+		
+		
+			<!-- EXAMPLE LOADING IMAGE ASSETS -->
+			
+			<!-- LEVEL 1 ASSETS -->
+			<!-- 
+			<asset id="images/LVL_1_background.jpg"					src="images/LVL_1_background.jpg"/>
+			<asset id="images/LVL_1_cageBack.png"					src="images/LVL_1_cageBack.png"/>
+			<asset id="images/LVL_1_cageFront.png"					src="images/LVL_1_cageFront.png"/>
+			<asset id="images/LVL_1_cagePlatform.png"				src="images/LVL_1_cagePlatform.png"/>
+			<asset id="images/LVL_1_trashcan.png"					src="images/LVL_1_trashcan.png"/>
+			<asset id="images/LVL_1_buildings.png"					src="images/LVL_1_buildings.png"/>
+			<asset id="images/LVL_1_rock.png"						src="images/LVL_1_rock.png"/>
+			<asset id="images/LVL_1_streetCrackRocks.png"			src="images/LVL_1_streetCrackRocks.png"/>
+			-->
+		
+		</section>
+		
+		<section id="race">
+			<!-- <asset id="dromaeosaurus"></asset> -->
+		</section>
+		
+		<section id="endGame">
+			<!-- <asset id="dromaeosaurus"></asset> -->
+		</section>
+		
+		<section id="tutorial">
+		</section>
+		
+		<section id="fieldBook">
+			<!-- <asset id="dromaeosaurus"></asset> -->
+		</section>
+
+			
+		
+		<!-- EXAMPLE LOADING SOUNDS -->
+		
+		
+		<sounds base="assets/audio">
+			<pool id="vo">
+				<!-- TITLE SCREEN -->
+				<asset id="gameTitle" src="titlescreen/RSD_Dan_01.mp3" maxVolume="1" overlap="noPlay" />
+				<asset id="ctaPlay" src="titlescreen/RSD_Dan_02.mp3" maxVolume="1" overlap="noPlay" />
+				<!-- DINO/TRACK SELECT SCREEN -->
+				<asset id="hi" src="selectscreen/RSD_Dan_03.mp3" maxVolume="1" overlap="noPlay"/>
+				<asset id="experiment" src="selectscreen/RSD_Dan_05.mp3" maxVolume="1" overlap="noPlay"/>
+				<asset id="pickDino" src="selectscreen/RSD_Dan_06.mp3" maxVolume="1" overlap="noPlay"/>				
+				<asset id="stygimoloch" src="selectscreen/RSD_Dan_08c.mp3" maxVolume="1" overlap="noPlay"/>
+				<asset id="dromaeosaurus" src="selectscreen/RSD_Dan_08d.mp3" maxVolume="1" overlap="noPlay"/>
+				<asset id="pickCourse" src="selectscreen/RSD_Dan_10.mp3" maxVolume="1" overlap="noPlay"/>
+				<asset id="park" src="selectscreen/RSD_Dan_12c.mp3" maxVolume="1" overlap="noPlay"/>
+				<asset id="school" src="selectscreen/RSD_Dan_12b.mp3" maxVolume="1" overlap="noPlay"/>
+				<asset id="great" src="selectscreen/RSD_Dan_09.mp3" maxVolume="1" overlap="noPlay"/>
+				<asset id="clickStygimoloch" src="selectscreen/RSD_Dan_07a.mp3" maxVolume="1" overlap="noPlay"/>
+				<asset id="orDromaeosaurus" src="selectscreen/RSD_Dan_08b.mp3" maxVolume="1" overlap="noPlay"/>
+				<asset id="theSchool" src="selectscreen/RSD_Dan_11a.mp3" maxVolume="1" overlap="noPlay"/>
+				<asset id="orPath" src="selectscreen/RSD_Dan_12a.mp3" maxVolume="1" overlap="noPlay"/>
+				<asset id="cmon" src="selectscreen/RSD_Dan_13a.mp3" maxVolume="1" overlap="noPlay"/>
+				<asset id="clickDino" src="selectscreen/RSD_Dan_14.mp3" maxVolume="1" overlap="noPlay"/>
+				<asset id="clickCourse" src="selectscreen/RSD_Dan_15a.mp3" maxVolume="1" overlap="noPlay"/>
+				<!-- <asset id="inactive_dino" src="selectscreen/RSD_Dan_14.mp3" maxVolume="1" overlap="noPlay"/>
+				<asset id="inactive_course" src="selectscreen/RSD_Dan_15a.mp3" maxVolume="1" overlap="noPlay"/> -->
+				<!-- TUTORIAL -->
+				<asset id="forward" src="tutorial/RSD_Dan_16d.mp3" maxVolume="1" overlap="noPlay"/>
+				<asset id="dromaeo_special" src="tutorial/RSD_Dan_18.mp3" maxVolume="1" overlap="noPlay"/>
+				<asset id="stygi_special" src="tutorial/RSD_Dan_17.mp3" maxVolume="1" overlap="noPlay"/>
+				<asset id="signs" src="tutorial/RSD_Dan_19.mp3" maxVolume="1" overlap="noPlay"/>
+				<asset id="great_race" src="tutorial/RSD_Dan_19c.mp3" maxVolume="1" overlap="noPlay"/>
+				<asset id="pressUpandDown" src="tutorial/RSD_Dan_16+16a_edit.mp3" maxVolume="1" overlap="noPlay"/>
+				<!-- END SCREEN -->
+				<asset id="way_to_go" src="endscreen/RSD_Dan_44.mp3" maxVolume="1" overlap="noPlay"/>
+				<asset id="so_close" src="endscreen/RSD_Dan_45.mp3" maxVolume="1" overlap="noPlay"/>
+				<asset id="close_race" src="endscreen/RSD_Dan_46.mp3" maxVolume="1" overlap="noPlay"/>
+				<asset id="dino_facts" src="endscreen/RSD_Dan_47.mp3" maxVolume="1" overlap="noPlay"/>
+				<asset id="check_out" src="endscreen/RSD_Dan_48.mp3" maxVolume="1" overlap="noPlay"/>
+				<!-- FIELD BOOK -->
+				<asset id="clickDinosTo" src="fieldbook/RSD_Dan_73.mp3" maxVolume="1" overlap="noPlay"/>
+				<asset id="ifYouWanna" src="fieldbook/RSD_Dan_79.mp3" maxVolume="1" overlap="noPlay"/>
+				<asset id="clickPrint" src="fieldbook/RSD_Dan_74a.mp3" maxVolume="1" overlap="noPlay"/>
+				<asset id="letsRace" src="fieldbook/RSD_Dan_80.mp3" maxVolume="1" overlap="noPlay"/>
+				<asset id="click_a_dino" src="fieldbook/RSD_Dan_49a.mp3" maxVolume="1" overlap="noPlay"/>
+				<asset id="click_a_sign" src="fieldbook/RSD_Dan_49b.mp3" maxVolume="1" overlap="noPlay"/>
+				<asset id="dromaeoFact1" src="fieldbook/RSD_Dan_66.mp3" maxVolume="1" overlap="noPlay"/>
+				<asset id="dromaeoFact2" src="fieldbook/RSD_Dan_67.mp3" maxVolume="1" overlap="noPlay"/>
+				<asset id="dromaeoFact3" src="fieldbook/RSD_Dan_68a.mp3" maxVolume="1" overlap="noPlay"/>
+				<asset id="trexFact1" src="fieldbook/RSD_Dan_50a.mp3" maxVolume="1" overlap="noPlay"/>
+				<asset id="trexFact2" src="fieldbook/RSD_Dan_51.mp3" maxVolume="1" overlap="noPlay"/>
+				<asset id="trexFact3" src="fieldbook/RSD_Dan_52.mp3" maxVolume="1" overlap="noPlay"/>
+				<asset id="compsFact1" src="fieldbook/RSD_Dan_58.mp3" maxVolume="1" overlap="noPlay"/>
+				<asset id="compsFact2" src="fieldbook/RSD_Dan_59.mp3" maxVolume="1" overlap="noPlay"/>
+				<asset id="compsFact3" src="fieldbook/RSD_Dan_60.mp3" maxVolume="1" overlap="noPlay"/>
+				<asset id="spinoFact1" src="fieldbook/RSD_Dan_70.mp3" maxVolume="1" overlap="noPlay"/>
+				<asset id="spinoFact2" src="fieldbook/RSD_Dan_71.mp3" maxVolume="1" overlap="noPlay"/>
+				<asset id="spinoFact3" src="fieldbook/RSD_Dan_72a.mp3" maxVolume="1" overlap="noPlay"/>
+				<asset id="triFact1" src="fieldbook/RSD_Dan_54.mp3" maxVolume="1" overlap="noPlay"/>
+				<asset id="triFact2" src="fieldbook/RSD_Dan_55.mp3" maxVolume="1" overlap="noPlay"/>
+				<asset id="triFact3" src="fieldbook/RSD_Dan_56.mp3" maxVolume="1" overlap="noPlay"/>
+				<asset id="stygiFact1" src="fieldbook/RSD_Dan_62.mp3" maxVolume="1" overlap="noPlay"/>
+				<asset id="stygiFact2" src="fieldbook/RSD_Dan_63.mp3" maxVolume="1" overlap="noPlay"/>
+				<asset id="stygiFact3" src="fieldbook/RSD_Dan_64.mp3" maxVolume="1" overlap="noPlay"/>				
+				<asset id="inactive" src="fieldbook/RSD_Dan_73a.mp3" maxVolume="1" overlap="noPlay"/>								
+				<asset id="dromaeo" src="fieldbook/RSD_Dan_65.mp3" maxVolume="1" overlap="noPlay"/>								
+				<asset id="trex" src="fieldbook/RSD_Dan_50.mp3" maxVolume="1" overlap="noPlay"/>								
+				<asset id="comps" src="fieldbook/RSD_Dan_57.mp3" maxVolume="1" overlap="noPlay"/>								
+				<asset id="spino" src="fieldbook/RSD_Dan_69.mp3" maxVolume="1" overlap="noPlay"/>								
+				<asset id="tri" src="fieldbook/RSD_Dan_53.mp3" maxVolume="1" overlap="noPlay"/>								
+				<asset id="stygi" src="fieldbook/RSD_Dan_61.mp3" maxVolume="1" overlap="noPlay"/>								
+				<!-- RACE -->
+				<asset id="spacebar" src="race/RSD_Dan_21.mp3" maxVolume="1" overlap="noPlay"/>
+				<asset id="keep_an_eye" src="race/RSD_Dan_19a.mp3" maxVolume="1" overlap="noPlay"/>
+				<asset id="a_dino_sign" src="race/RSD_Dan_43a.mp3" maxVolume="1" overlap="noPlay"/>
+				<asset id="readySet" src="race/RSD_Dan_24.mp3" maxVolume="1" overlap="noPlay"/>
+				<asset id="notMeat" src="race/RSD_Dan_42.mp3" maxVolume="1" overlap="noPlay"/>
+				<asset id="notPlant" src="race/RSD_Dan_43.mp3" maxVolume="1" overlap="noPlay"/>
+				<asset id="anotherSign" src="race/RSD_Dan_43b.mp3" maxVolume="1" overlap="noPlay"/>
+				<asset id="gotIt" src="race/RSD_Dan_43c.mp3" maxVolume="1" overlap="noPlay"/>
+				<asset id="meateater" src="race/RSD_Dan_meateater.mp3" maxVolume="1" overlap="noPlay"/>
+				<asset id="planteater" src="race/RSD_Dan_planteater.mp3" maxVolume="1" overlap="noPlay"/>
+				<!-- BUTTONS -->
+				<asset id="play" src="buttons/RSD_Dan_81a.mp3" maxVolume="1" overlap="noPlay"/>
+				<asset id="play_again" src="buttons/RSD_Dan_82.mp3" maxVolume="1" overlap="noPlay"/>
+				<asset id="skip" src="buttons/RSD_Dan_83.mp3" maxVolume="1" overlap="noPlay"/>
+				<asset id="back" src="buttons/RSD_Dan_84.mp3" maxVolume="1" overlap="noPlay"/>
+				<asset id="print" src="buttons/RSD_Dan_85.mp3" maxVolume="1" overlap="noPlay"/>
+				<asset id="next" src="buttons/RSD_Dan_86.mp3" maxVolume="1" overlap="noPlay"/>
+				<asset id="close" src="buttons/RSD_Dan_87.mp3" maxVolume="1" overlap="noPlay"/>				
+			</pool>
+			<pool id="food_feedback_good">
+				<asset id="food_good1" src="race/RSD_Dan_34.mp3" maxVolume="1" overlap="noPlay"/>
+				<asset id="food_good2" src="race/RSD_Dan_34a.mp3" maxVolume="1" overlap="noPlay"/>
+			</pool>
+			<pool id="food_feedback_bad">
+				<asset id="food_bad1" src="race/RSD_Dan_40.mp3" maxVolume="1" overlap="noPlay" />
+				<asset id="food_bad2" src="race/RSD_Dan_41.mp3" maxVolume="1" overlap="noPlay" />
+			</pool>
+			<pool id="feedback_good">
+				<asset id="good1" src="race/RSD_Dan_25.mp3" maxVolume="1" overlap="noPlay" />				
+				<asset id="good2" src="race/RSD_Dan_26.mp3" maxVolume="1" overlap="noPlay" />				
+				<asset id="good3" src="race/RSD_Dan_27.mp3" maxVolume="1" overlap="noPlay" />				
+				<asset id="good4" src="race/RSD_Dan_28.mp3" maxVolume="1" overlap="noPlay" />				
+			</pool>
+			<pool id="feedback_bad">
+				<asset id="bad1" src="race/RSD_Dan_35.mp3" maxVolume="1" overlap="noPlay" />				
+				<asset id="bad2" src="race/RSD_Dan_36.mp3" maxVolume="1" overlap="noPlay" />				
+				<asset id="bad3" src="race/RSD_Dan_37.mp3" maxVolume="1" overlap="noPlay" />			
+			</pool>
+			<pool id="endscreen_inactivity">
+				<asset id="clickPrint" src="fieldbook/RSD_Dan_74a.mp3" maxVolume="1" overlap="noPlay"/>		
+				<asset id="clickPlayAgainDino" src="fieldbook/RSD_Dan_77.mp3" maxVolume="1" overlap="noPlay"/>			
+				<asset id="clickPlayAgainCourse" src="fieldbook/RSD_Dan_78.mp3" maxVolume="1" overlap="noPlay"/>			
+				<asset id="clickDinosTo" src="fieldbook/RSD_Dan_73.mp3" maxVolume="1" overlap="noPlay"/>			
+			</pool>
+			<pool id="race_sfx">
+				<!-- RACE -->
+				<!-- <asset id="bgm" src="race/bgm_race.mp3" maxVolume="1" overlap="noPlay"/> -->
+				<asset id="footsteps" src="race/footsteps_loop.mp3" maxVolume="1" overlap="noPlay" />
+				<asset id="footsteps_mud" src="race/footsteps_loop_puddle.mp3" maxVolume="1" overlap="noPlay" />
+				<asset id="footsteps_sand" src="race/footsteps_sand.mp3" maxVolume="1" overlap="noPlay" />				
+				<asset id="special_dromeo" src="race/special_dromeo.mp3" maxVolume="1" overlap="noPlay" />
+				<asset id="special_stygi" src="race/special_stygi.mp3" maxVolume="1" overlap="noPlay" />
+				<asset id="sign_sting" src="race/sign_collect3.mp3" maxVolume="1" overlap="noPlay" />
+				<asset id="hazard_hit" src="race/hazard_hit.mp3" maxVolume="1" overlap="noPlay" />
+				<asset id="food_good" src="race/food_good.mp3" maxVolume="1" overlap="noPlay" />
+				<asset id="food_bad" src="race/food_bad.mp3" maxVolume="1" overlap="noPlay" />
+				<asset id="finish_line" src="race/finishLine.mp3" maxVolume="1" overlap="noPlay" />
+			</pool>
+			<pool id="barks">
+				<asset id="bark1" src="race/bark1.mp3" maxVolume="1" overlap="noPlay" />
+				<asset id="bark2" src="race/bark2.mp3" maxVolume="1" overlap="noPlay" />
+				<asset id="bark3" src="race/bark3.mp3" maxVolume="1" overlap="noPlay" />
+			</pool>
+			<pool id="screens">
+				<asset id="whoosh" src="selectscreen/transition_whoosh.mp3" maxVolume="1" overlap="noPlay" />
+				<asset id="stone_land" src="selectscreen/stone_land.mp3" maxVolume="1" overlap="noPlay" />
+				<asset id="click" src="selectscreen/stone_click.mp3" maxVolume="1" overlap="noPlay" />
+				<!-- <asset id="bgm" src="titlescreen/bgm_screensLoop.mp3" maxVolume="1" overlap="noPlay" /> -->
+			</pool>
+		</sounds>		
+		
+	</assets>
+	
+</config>
