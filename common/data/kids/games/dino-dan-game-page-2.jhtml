@@ -23,37 +23,24 @@
 
 {
 "urlAlias":"dino-dan-ready-set-dino",	
-"featured":"",	
+"featured":"false",	
 "title":"Ready, Set, Dino Game", 
 "thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dino_readysetdino/GamesFinder/thumbnail.jpg",
 "promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dino_readysetdino/GamesFinder/dino-ready-set-dino1.jpg",
 "link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/ready-set-dino.html", 
-"datePosted":"Thu May 22 00:00:00 EDT 2008", 
-"numViews":"2814"
+"datePosted":"Wed May 22 00:00:00 EDT 2013", 
+"numViews":"528715"
 }
 
 ,
 
 {
-"urlAlias":"adventures-in-wonderland",	
+"urlAlias":"dora-number-pyramid",	
 "featured":"",	
-"title":"Adventures in Wonderland", 
-"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/wond_wonderland/GamesFinder/thumbnail.jpg",
-"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/wond_wonderland/kids-game-promo.jpg",
-"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/adventures-in-wonderland.html", 
-"datePosted":"Thu May 22 00:00:00 EDT 2008", 
-"numViews":"2814"
-}
-
-,
-
-{
-"urlAlias":"dora-we-are-thankful",	
-"featured":"",	
-"title":"Dora's Thankful Old Troll Game", 
-"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dora_we_are_thankful/GamesFinder/dora-we-are-thankful-thumb.jpg",
-"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dora_we_are_thankful/GamesFinder/dora-we-are-thankful-kids-game-promo.jpg",
-"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/dora-we-are-thankful.html", 
+"title":"Dora's Number Pyramid Adventure", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dora_number_pyramid/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dora_number_pyramid/GamesFinder/dora-number-pyramid-01.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/dora-number-pyramid.html", 
 "datePosted":"Thu May 22 00:00:00 EDT 2008", 
 "numViews":"37298"
 }
@@ -61,14 +48,27 @@
 ,
 
 {
-"urlAlias":"diego-ultimate-rescue",	
+"urlAlias":"umi-grand-prix",	
+"featured":"false",	
+"title":"Umi Grand Prix", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/umiz_grand_prix/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/umiz_grand_prix/GamesFinder/umiz-grand-prix-01.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/umi-grand-prix.html", 
+"datePosted":"Wed May 22 00:00:00 EDT 2013", 
+"numViews":"528715"
+}
+
+,
+
+{
+"urlAlias":"umi-city-mighty-math-missions",	
 "featured":"",	
-"title":"Diego's Ultimate Rescue Game", 
-"thumbnail":""https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dieg_ultimate/GamesFinder/thumbnail.jpg",
-"promoImage":""https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dieg_ultimate/kids-game-promo.jpg",
-"link":""https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/diego-ultimate-rescue.html", 
-"datePosted":"Tue Feb 24 00:00:00 EST 2009", 
-"numViews":"1"
+"title":"Umi City: Mighty Missions Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/umiz_city/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/umiz_city/GamesFinder/umiz-city-01.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/umi-city-mighty-math-missions.html", 
+"datePosted":"Thu May 22 00:00:00 EDT 2008", 
+"numViews":"2814"
 }
 
 ]
