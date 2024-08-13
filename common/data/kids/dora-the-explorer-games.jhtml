@@ -386,33 +386,33 @@
 "urlAlias":"dora-wheres-map",	
 "featured":"",	
 "title":"Where's Map?", 
-"thumbnail":"/game/assets/dora_map/GamesFinder/thumbnail.jpg",
-"promoImage":"/game/assets/dora_map/GamesFinder/dora-wheres-map_01.jpg",
-"link":"/kids-games/dora-wheres-map.html", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dora_map/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dora_map/GamesFinder/dora-wheres-map_03.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/dora-wheres-map.html", 
 "datePosted":"Thu May 22 00:00:00 EDT 2008", 
 "numViews":"37298"
 }
 ,
 
 {
-"urlAlias":"dora-matching",	
+"urlAlias":"doras-matching-game",	
 "featured":"",	
 "title":"Dora's Matching Game", 
-"thumbnail":"/game/assets/dora_matching/GamesFinder/thumbnail.jpg",
-"promoImage":"/game/assets/dora_matching/GamesFinder/doras-matching-game2.jpg",
-"link":"/kids-games/dora-matching.html", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dora_matching/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dora_matching/GamesFinder/doras-matching-game3.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/doras-matching-game.html", 
 "datePosted":"Thu May 22 00:00:00 EDT 2008", 
 "numViews":"37298"
 }
 ,
 
 {
-"urlAlias":"doras-meet-my-friends",	
+"urlAlias":"dora-meet-friends",	
 "featured":"",	
-"title":"Dora's Meet my Friends", 
-"thumbnail":"/game/assets/dora_meetmyfriends/GamesFinder/thumbnail.jpg",
-"promoImage":"/game/assets/dora_meetmyfriends/GamesFinder/doras-meet-my-friends-03.jpg",
-"link":"/kids-games/doras-meet-my-friends.html", 
+"title":"Meet My Friends", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dora_meetmyfriends/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dora_meetmyfriends/GamesFinder/doras-meet-my-friends-03.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/dora-meet-friends.html", 
 "datePosted":"Thu May 22 00:00:00 EDT 2008", 
 "numViews":"37298"
 }
@@ -422,9 +422,9 @@
 "urlAlias":"doras-mermaid-adventure",	
 "featured":"",	
 "title":"Dora's Mermaid Adventure", 
-"thumbnail":"/game/assets/dora_mermaid/GamesFinder/thumbnail.jpg",
-"promoImage":"/game/assets/dora_mermaid/GamesFinder/doras-mermaid-adventure3.jpg",
-"link":"/kids-games/doras-mermaid-adventure.html", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dora_mermaid/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dora_mermaid/GamesFinder/doras-mermaid-adventure1.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/doras-mermaid-adventure.html", 
 "datePosted":"Thu May 22 00:00:00 EDT 2008", 
 "numViews":"37298"
 }
@@ -434,9 +434,9 @@
 "urlAlias":"doras-mermaid-adventure-game",	
 "featured":"",	
 "title":"Dora's Mermaid Adventure Game", 
-"thumbnail":"/game/assets/dora_mermaid_adventure/GamesFinder/dora_mermaid_adventure-thumb.jpg",
-"promoImage":"/game/assets/dora_mermaid_adventure/GamesFinder/dora_mermaid_adventure-01.jpg",
-"link":"/kids-games/doras-mermaid-adventure-game.html", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dora_mermaid_adventure/GamesFinder/dora_mermaid_adventure-thumb.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dora_mermaid_adventure/GamesFinder/dora_mermaid_adventure-01.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/doras-mermaid-adventure-game.html", 
 "datePosted":"Thu May 22 00:00:00 EDT 2008", 
 "numViews":"37298"
 }
@@ -445,10 +445,10 @@
 {
 "urlAlias":"doras-music-maker",	
 "featured":"",	
-"title":"Dora's Music Maker", 
-"thumbnail":"/game/assets/dora_musicmaker/GamesFinder/thumbnail.jpg",
-"promoImage":"/game/assets/dora_musicmaker/GamesFinder/doras-music-maker1.jpg",
-"link":"/kids-games/doras-music-maker.html", 
+"title":"Dora's Music Maker Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dora_musicmaker/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dora_musicmaker/GamesFinder/doras-music-maker3.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/doras-music-maker.html", 
 "datePosted":"Thu May 22 00:00:00 EDT 2008", 
 "numViews":"37298"
 }
@@ -458,9 +458,9 @@
 "urlAlias":"dora-number-pyramid",	
 "featured":"",	
 "title":"Dora's Number Pyramid Adventure", 
-"thumbnail":"/game/assets/dora_number_pyramid/GamesFinder/thumbnail.jpg",
-"promoImage":"/game/assets/dora_number_pyramid/GamesFinder/dora-number-pyramid-01.jpg",
-"link":"/kids-games/dora-number-pyramid.html", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dora_number_pyramid/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dora_number_pyramid/GamesFinder/dora-number-pyramid-01.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/dora-number-pyramid.html", 
 "datePosted":"Thu May 22 00:00:00 EDT 2008", 
 "numViews":"37298"
 }
@@ -469,22 +469,22 @@
 {
 "urlAlias":"doras-pegasus-adventure-game",	
 "featured":"",	
-"title":"Dora's Pegasus Adventure", 
-"thumbnail":"/game/assets/dora_pegasus_adventure/GamesFinder/thumbnail.jpg",
-"promoImage":"/game/assets/dora_pegasus_adventure/GamesFinder/dora-pegasus-adventure-game-01.jpg",
-"link":"/kids-games/doras-pegasus-adventure-game.html", 
+"title":"Dora's Pegaso Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dora_pegasus_adventure/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dora_pegasus_adventure/GamesFinder/dora-pegasus-adventure-game-01.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/doras-pegasus-adventure-game.html", 
 "datePosted":"Thu May 22 00:00:00 EDT 2008", 
 "numViews":"37298"
 }
 ,
 
 {
-"urlAlias":"dora-perritos-puppy-tricks",	
+"urlAlias":"perritos-puppy-tricks",	
 "featured":"",	
 "title":"Perrito's Puppy Tricks", 
-"thumbnail":"/game/assets/dora_perrito/GamesFinder/thumbnail.jpg",
-"promoImage":"/game/assets/dora_perrito/GamesFinder/perritos-puppy-tricks2.jpg",
-"link":"/kids-games/dora-perritos-puppy-tricks.html", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dora_perrito/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dora_perrito/GamesFinder/perritos-puppy-tricks2.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/perritos-puppy-tricks.html", 
 "datePosted":"Thu May 22 00:00:00 EDT 2008", 
 "numViews":"37298"
 }
@@ -493,22 +493,22 @@
 {
 "urlAlias":"doras-pony-adventure",	
 "featured":"",	
-"title":"Dora's Pony Adventure", 
-"thumbnail":"/game/assets/dora_pony/Gamesfinder/thumbnail.jpg",
-"promoImage":"/game/assets/dora_pony/Gamesfinder/dora-pony-01.jpg",
-"link":"/kids-games/doras-pony-adventure.html", 
+"title":"Dora's Pony Adventure Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dora_pony/Gamesfinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dora_pony/Gamesfinder/dora-pony-01.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/doras-pony-adventure.html", 
 "datePosted":"Thu May 22 00:00:00 EDT 2008", 
 "numViews":"37298"
 }
 ,
 
 {
-"urlAlias":"dora-saves-the-prince",	
+"urlAlias":"dora-saves-prince",	
 "featured":"",	
 "title":"Dora Saves the Prince", 
-"thumbnail":"/game/assets/dora_prince/GamesFinder/thumbnail.jpg",
-"promoImage":"/game/assets/dora_prince/GamesFinder/dora-prince-03.jpg",
-"link":"/kids-games/dora-saves-the-prince.html", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dora_prince/GamesFinder/thumbnail.jpg,
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dora_prince/GamesFinder/dora-prince-03.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/dora-saves-prince.html", 
 "datePosted":"Thu May 22 00:00:00 EDT 2008", 
 "numViews":"37298"
 }
@@ -518,9 +518,9 @@
 "urlAlias":"doras-puppy-adventure",	
 "featured":"",	
 "title":"Dora's Puppy Adventure", 
-"thumbnail":"/game/assets/dora_puppy/GamesFinder/thumbnail.jpg",
-"promoImage":"/game/assets/dora_puppy/GamesFinder/doras-puppy-adventure3.jpg",
-"link":"/kids-games/doras-puppy-adventure.html", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dora_puppy/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dora_puppy/GamesFinder/doras-puppy-adventure2.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/doras-puppy-adventure.html", 
 "datePosted":"Thu May 22 00:00:00 EDT 2008", 
 "numViews":"37298"
 }
@@ -530,45 +530,33 @@
 "urlAlias":"doras-purple-planet-adventure",	
 "featured":"",	
 "title":"Dora's Purple Planet Adventure", 
-"thumbnail":"/game/assets/dora_purpleplanet/GamesFinder/dora_purple_planet-thumb.jpg",
-"promoImage":"/game/assets/dora_purpleplanet/GamesFinder/doras-purple-planet-adventure1.jpg",
-"link":"/kids-games/doras-purple-planet-adventure.html", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dora_purpleplanet/GamesFinder/dora_purple_planet-thumb.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dora_purpleplanet/GamesFinder/doras-purple-planet-adventure3.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/doras-purple-planet-adventure.html", 
 "datePosted":"Thu May 22 00:00:00 EDT 2008", 
 "numViews":"37298"
 }
 ,
 
 {
-"urlAlias":"doras-puzzle-bridge",	
+"urlAlias":"dora-puzzle-bridge",	
 "featured":"",	
-"title":"Puzzle Birdge", 
-"thumbnail":"/game/assets/dora_puzzlebridge/GamesFinder/thumbnail.jpg",
-"promoImage":"/game/assets/dora_puzzlebridge/GamesFinder/dora-puzzle-bridge3.jpg",
-"link":"/kids-games/doras-puzzle-bridge.html", 
+"title":"Dora Puzzle Bridge", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dora_puzzlebridge/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dora_puzzlebridge/GamesFinder/dora-puzzle-bridge3.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/dora-puzzle-bridge.html", 
 "datePosted":"Thu May 22 00:00:00 EDT 2008", 
 "numViews":"37298"
 }
 ,
 
 {
-"urlAlias":"dora-3d-pyramid-adventure",	
-"featured":"",	
-"title":"Dora's 3D Pyramid Adventure", 
-"thumbnail":"/game/assets/dora_pyramid/GamesFinder/thumbnail.jpg",
-"promoImage":"/game/assets/dora_pyramid/GamesFinder/doras-3d-pyramid-adventure1.jpg",
-"link":"/kids-games/dora-3d-pyramid-adventure.html", 
-"datePosted":"Thu May 22 00:00:00 EDT 2008", 
-"numViews":"37298"
-}
-,
-
-{
-"urlAlias":"doras-rapido-river-raft-race",	
+"urlAlias":"doras-river-raft-race",	
 "featured":"",	
 "title":"Dora's Rapido River Raft Race", 
-"thumbnail":"/game/assets/dora_river_rafting_race/GamesFinder/thumbnail.jpg",
-"promoImage":"/game/assets/dora_river_rafting_race/GamesFinder/doras-rapido-river-raft-race2.jpg",
-"link":"/kids-games/doras-rapido-river-raft-race.html", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dora_river_rafting_race/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dora_river_rafting_race/GamesFinder/doras-rapido-river-raft-race3.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/doras-river-raft-race.html", 
 "datePosted":"Thu May 22 00:00:00 EDT 2008", 
 "numViews":"37298"
 }
@@ -577,10 +565,10 @@
 {
 "urlAlias":"doras-sing-along-party",	
 "featured":"",	
-"title":"Dora Rocks Sing-a-long Party", 
-"thumbnail":"/game/assets/dora_rocks/GamesFinder/thumbnail.jpg",
-"promoImage":"/game/assets/dora_rocks/GamesFinder/dora-rocks-02.jpg",
-"link":"/kids-games/doras-sing-along-party.html", 
+"title":"Dora Rocks Sing-Along Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dora_rocks/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dora_rocks/GamesFinder/dora-rocks-02.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/doras-sing-along-party.html", 
 "datePosted":"Thu May 22 00:00:00 EDT 2008", 
 "numViews":"37298"
 }
@@ -589,10 +577,10 @@
 {
 "urlAlias":"dora-roller-skating-adventure",	
 "featured":"",	
-"title":"Dora's Rollerskating Adventure", 
-"thumbnail":"/game/assets/dora_rollerskating/GamesFinder/thumb.jpg",
-"promoImage":"/game/assets/dora_rollerskating/GamesFinder/screenshot2.jpg",
-"link":"/kids-games/dora-roller-skating-adventure.html", 
+"title":"Dora's Roller Skate Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dora_rollerskating/GamesFinder/thumb.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dora_rollerskating/GamesFinder/screenshot2.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/dora-roller-skating-adventure.html", 
 "datePosted":"Thu May 22 00:00:00 EDT 2008", 
 "numViews":"37298"
 }
@@ -601,10 +589,10 @@
 {
 "urlAlias":"doras-royal-rescue",	
 "featured":"",	
-"title":"Dora's Royal Rescue", 
-"thumbnail":"/game/assets/dora_royal_rescue/GamesFinder/dora-royal-rescue-thumb.jpg",
-"promoImage":"/game/assets/dora_royal_rescue/GamesFinder/dora-royal-rescue-03.jpg",
-"link":"/kids-games/doras-royal-rescue.html", 
+"title":"Dora's Royal Rescue Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dora_royal_rescue/GamesFinder/dora-royal-rescue-thumb.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dora_royal_rescue/GamesFinder/dora-royal-rescue-03.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/doras-royal-rescue.html", 
 "datePosted":"Thu May 22 00:00:00 EDT 2008", 
 "numViews":"37298"
 }
@@ -614,10 +602,10 @@
 {
 "urlAlias":"dora-alphabet-forest-adventure",	
 "featured":"",	
-"title":"Dora's Alphabet Forest Adventure", 
-"thumbnail":"/game/assets/dora_alphabet_forest_adventure/GamesFinder/dora-alphabet-forest-adventure-thumb.jpg",
-"promoImage":"/game/assets/dora_alphabet_forest_adventure/GamesFinder/dora-alphabet-forest-adventure-01.jpg",
-"link":"/kids-games/dora-alphabet-forest-adventure.html", 
+"title":"Dora's Alphabet Adventure Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dora_alphabet_forest_adventure/GamesFinder/dora-alphabet-forest-adventure-thumb.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dora_alphabet_forest_adventure/GamesFinder/dora-alphabet-forest-adventure-01.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/dora-alphabet-forest-adventure.html", 
 "datePosted":"Thu May 22 00:00:00 EDT 2008", 
 "numViews":"37298"
 }
@@ -627,21 +615,21 @@
 "urlAlias":"dora-saves-map",	
 "featured":"",	
 "title":"Dora Saves Map", 
-"thumbnail":"/game/assets/dora_savesmap/Gamesfinder/thumbnail.jpg",
-"promoImage":"/game/assets/dora_savesmap/Gamesfinder/Dora-SavesMap-02.jpg",
-"link":"/kids-games/dora-saves-map.html", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dora_savesmap/Gamesfinder/dora_savesmap-thumb.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dora_savesmap/Gamesfinder/Dora-SavesMap-01.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/dora-saves-map.html", 
 "datePosted":"Thu May 22 00:00:00 EDT 2008", 
 "numViews":"37298"
 }
 ,
 
 {
-"urlAlias":"dora-say-it-two-ways",	
+"urlAlias":"say-it-two-ways",	
 "featured":"",	
 "title":"Say it Two Ways", 
-"thumbnail":"/game/assets/dora_sayittwoways/GamesFinder/thumbnail.jpg",
-"promoImage":"/game/assets/dora_sayittwoways/GamesFinder/dora-say-it-two-ways-03.jpg",
-"link":"/kids-games/dora-say-it-two-ways.html", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dora_sayittwoways/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dora_sayittwoways/GamesFinder/dora-say-it-two-ways-03.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/say-it-two-ways.html", 
 "datePosted":"Thu May 22 00:00:00 EDT 2008", 
 "numViews":"37298"
 }
@@ -651,9 +639,9 @@
 "urlAlias":"dora-save-snow-princess",	
 "featured":"",	
 "title":"Dora Saves the Snow Princess", 
-"thumbnail":"/game/assets/dora_snowprincess/GamesFinder/thumbnail.jpg",
-"promoImage":"/game/assets/dora_snowprincess/GamesFinder/dora-saves-the-snow-princess-02.jpg",
-"link":"/kids-games/dora-save-snow-princess.html", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dora_snowprincess/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dora_snowprincess/GamesFinder/dora-saves-the-snow-princess-03.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/dora-saves-the-snow-princess.html", 
 "datePosted":"Thu May 22 00:00:00 EDT 2008", 
 "numViews":"37298"
 }
@@ -663,45 +651,45 @@
 "urlAlias":"dora-super-soccer-showdown",	
 "featured":"",	
 "title":"Dora's Super Soccer Showdown", 
-"thumbnail":"/game/assets/dora_soccer_showdown/GamesFinder/dora_soccer_showdown-thumb.jpg",
-"promoImage":"/game/assets/dora_soccer_showdown/GamesFinder/dora_soccer_showdown-screenshot3.jpg",
-"link":"/kids-games/dora-super-soccer-showdown.html", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dora_soccer_showdown/GamesFinder/dora_soccer_showdown-thumb.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dora_soccer_showdown/GamesFinder/dora_soccer_showdown-screenshot3.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/dora-super-soccer-showdown.html", 
 "datePosted":"Thu May 22 00:00:00 EDT 2008", 
 "numViews":"37298"
 }
 ,
 
 {
-"urlAlias":"dora-space-adventure",	
+"urlAlias":"doras-space-adventure",	
 "featured":"",	
 "title":"Dora's Space Adventure", 
-"thumbnail":"/game/assets/dora_space_adv/GamesFinder/thumbnail.jpg",
-"promoImage":"/game/assets/dora_space_adv/GamesFinder/doras-space-adventure3.jpg",
-"link":"/kids-games/dora-space-adventure.html", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dora_space_adv/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dora_space_adv/GamesFinder/doras-space-adventure2.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/doras-space-adventure.html", 
 "datePosted":"Thu May 22 00:00:00 EDT 2008", 
 "numViews":"37298"
 }
 ,
 
 {
-"urlAlias":"dora-spooky-forest",	
+"urlAlias":"doras-spooky-forest",	
 "featured":"",	
-"title":"Spooky Forest", 
-"thumbnail":"/game/assets/dora_spookyforest/GamesFinder/thumbnail.jpg",
-"promoImage":"/game/assets/dora_spookyforest/GamesFinder/doras-spooky-forest-02.jpg",
-"link":"/kids-games/dora-spooky-forest.html", 
+"title":"Dora's Spooky Forest Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dora_spookyforest/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dora_spookyforest/GamesFinder/doras-spooky-forest-03.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/doras-spooky-forest.html", 
 "datePosted":"Thu May 22 00:00:00 EDT 2008", 
 "numViews":"37298"
 }
 ,
 
 {
-"urlAlias":"dora-star-mountain",	
+"urlAlias":"doras-star-mountain-mini-golf",	
 "featured":"",	
-"title":"Dora's Star Mountain Mini Golf", 
-"thumbnail":"/game/assets/dora_star_mountain/GamesFinder/thumbnail.jpg",
-"promoImage":"/game/assets/dora_star_mountain/GamesFinder/doras-star-mountain-mini-golf2.jpg",
-"link":"/kids-games/dora-star-mountain.html", 
+"title":"Dora's Star Mountain Mini-Golf", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dora_star_mountain/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dora_star_mountain/GamesFinder/doras-star-mountain-mini-golf3.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/doras-star-mountain-mini-golf.html", 
 "datePosted":"Thu May 22 00:00:00 EDT 2008", 
 "numViews":"37298"
 }
