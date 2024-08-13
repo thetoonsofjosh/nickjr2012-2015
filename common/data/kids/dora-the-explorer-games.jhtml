@@ -50,30 +50,18 @@
 "numViews":"37298"
 }
 
-,
-
-{
-"urlAlias":"dora-backpack-adventure",	
-"featured":"",	
-"title":"Dora's 3D Backpack Adventure", 
-"thumbnail":"/game/assets/dora_backpack/GamesFinder/thumbnail.jpg",
-"promoImage":"/game/assetsblue_checkup/dora-3D-backpack-adventure2.jpg",
-"link":"/kids-games/dora-backpack-adventure.html", 
-"datePosted":"Fri Jul 12 00:00:00 EDT 2002", 
-"numViews":"34634"
-}
 
 ,
 
 {
-"urlAlias":"dora-3d-soccer",	
+"urlAlias":"dora-candyland",	
 "featured":"",	
-"title":"Dora's 3D Soccer", 
-"thumbnail":"/game/assets/doras_3d_soccer/GamesFinder/thumbnail.jpg",
-"promoImage":"/game/assets/doras_3d_soccer/doras-3d-soccer2.jpg",
-"link":"/kids-games/dora-3d-soccer.html", 
-"datePosted":"Fri Jul 12 00:00:00 EDT 2002", 
-"numViews":"34634"
+"title":"Candy Land", 
+"thumbnail":"/game/assets/dora_candyland/GamesFinder/thumbnail.jpg",
+"promoImage":"/game/assets/dora_candyland/GamesFinder/dora-candy-land2.jpg",
+"link":"/kids-games/dora-candyland.html", 
+"datePosted":"Thu May 22 00:00:00 EDT 2008", 
+"numViews":"37298"
 }
 
 ,
