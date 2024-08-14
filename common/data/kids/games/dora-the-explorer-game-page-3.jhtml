@@ -1,0 +1,80 @@
+{
+"config":{
+"debug":{"showName":"dora-the-explorer"},
+"promoSounds":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/promos/global-promo-sounds.swf",
+"buttons":[
+{
+"localConnectionId":"ShowLogo",
+"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/showlogos/Dora.swf", 
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids/dora-the-explorer/",
+"position":{"x":"40","y":"52"}	
+}
+],
+"promos":[
+{
+"loader":{"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/loaders/asset-loader.swf","position":{"x":"70","y":"220"}},
+"classId":"MoreGamesPromo",
+"localConnectionId":"MoreGamesPromo",
+"urlAlias":"",
+"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/promos/listing/moreGames.swf",
+"position":{"x":"0","y":"0"},
+"allLink":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/dora-the-explorer/",
+"items":[
+
+
+{
+"urlAlias":"doras-ballet-adventure",	
+"featured":"",	
+"title":"Dora's Ballet Adventure Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dora_ballet/GamesFinder/doras-ballet-adventure-thumb.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dora_ballet/GamesFinder/dora_ballet_02.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/doras-ballet-adventure.html", 
+"datePosted":"Thu May 22 00:00:00 EDT 2008", 
+"numViews":"37298"
+}
+
+,
+
+{
+"urlAlias":"fresh-beat-band-concert-maker",	
+"featured":"",	
+"title":"Hip Hop &amp; Pop Concert Maker", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/fres_concert_maker/GamesFinder/fres-concert-maker-thumb.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/fres_concert_maker/GamesFinder/fres-concert-maker-01.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/fresh-beat-band-concert-maker.html", 
+"datePosted":"Thu May 22 00:00:00 EDT 2008", 
+"numViews":"37298"
+}
+
+,
+
+{
+"urlAlias":"wallykazam-fruit-frenzy",	
+"featured":"",	
+"title":"Wallykazam! Fruit Frenzy!", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/wally_fruit_frenzy/GamesFinder/wally_fruit_frenzy-thumb.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/wally_fruit_frenzy/GamesFinder/wally_fruit_frenzy-01.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/wallykazam-fruit-frenzy.html", 
+"datePosted":"Thu May 22 00:00:00 EDT 2008", 
+"numViews":"37298"
+}
+
+,
+{
+"urlAlias":"lalaloopsy-friendship-parade",	
+"featured":"",	
+"title":"Lalaloopsy Friendship Parade", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/lala_friendship_parade/GamesFinder/lala_friendship_parade-thumb.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/lala_friendship_parade/GamesFinder/lala_friendship_parade-kids-game-promo-new.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/lalaloopsy-friendship-parade.html", 
+"datePosted":"Thu May 22 00:00:00 EDT 2008", 
+"numViews":"37298"
+}
+
+
+
+]
+}
+]
+}
+}

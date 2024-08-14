@@ -1,0 +1,80 @@
+{
+"config":{
+"debug":{"showName":"dora-the-explorer"},
+"promoSounds":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/promos/global-promo-sounds.swf",
+"buttons":[
+{
+"localConnectionId":"ShowLogo",
+"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/showlogos/Dora.swf", 
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids/dora-the-explorer/",
+"position":{"x":"40","y":"52"}	
+}
+],
+"promos":[
+{
+"loader":{"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/loaders/asset-loader.swf","position":{"x":"70","y":"220"}},
+"classId":"MoreGamesPromo",
+"localConnectionId":"MoreGamesPromo",
+"urlAlias":"",
+"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/promos/listing/moreGames.swf",
+"position":{"x":"0","y":"0"},
+"allLink":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/dora-the-explorer/",
+"items":[
+
+
+{
+"urlAlias":"doras-sing-along-party",	
+"featured":"",	
+"title":"Dora Rocks Sing-Along Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dora_rocks/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dora_rocks/GamesFinder/dora-rocks-02.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/doras-sing-along-party.html", 
+"datePosted":"Thu May 22 00:00:00 EDT 2008", 
+"numViews":"37298"
+}
+
+,
+
+{
+"urlAlias":"diego-fiercest-animals",	
+"featured":"",	
+"title":"Diego's Fiercest Animals Rescue", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dieg_fiercest_animals/GamesFinder/diego-fiercest-animals-thumb.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dieg_fiercest_animals/GamesFinder/diego-fiercest-animals-01.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/diegos-fiercest-animals.html", 
+"datePosted":"Thu May 22 00:00:00 EDT 2008", 
+"numViews":"37298"
+}
+
+,
+
+{
+"urlAlias":"paw-patrol-save-their-friends",	
+"featured":"",	
+"title":"Pups Save Their Friends!", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/paw_save_their_friends/GamesFinder/paw_save_their_friends-thumb.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/paw_save_their_friends/GamesFinder/paw_save_their_friends-kids-game-promo.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/paw-patrol-save-their-friends.html", 
+"datePosted":"Thu May 22 00:00:00 EDT 2008", 
+"numViews":"37298"
+}
+
+,
+{
+"urlAlias":"purple-monkey-rescue",	
+"featured":"",	
+"title":"Purple Monkey Rescue Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/umiz_purple_monkey/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/umiz_purple_monkey/GamesFinder/umiz_purple_monkey_02.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/purple-monkey-rescue.html", 
+"datePosted":"Thu May 22 00:00:00 EDT 2008", 
+"numViews":"37298"
+}
+
+
+
+]
+}
+]
+}
+}
