@@ -1,5 +1,28 @@
 <shows>	
 
+
+	<show displayName="Dora and Friends"
+			handle="dahf" 
+			iconHandle="stickers/shows/dahf_icon.jpg"
+			show="dahf"
+	/>
+	
+	<show displayName="Lalaloopsy Land"
+			handle="llll" 
+			iconHandle="stickers/shows/llll_icon.jpg"
+			show="llll"
+	/>
+	
+	<show displayName="Paw Patrol"
+			handle="pawp" 
+			iconHandle="stickers/shows/pawp_icon.jpg"
+			show="pawp"
+	/>
+	<show displayName="Peter Rabbit"
+			handle="prab" 
+			iconHandle="stickers/shows/prab_icon.jpg"
+			show="prab"
+	/>
 	<show displayName="Dora"
 			handle="dora" 
 			iconHandle="stickers/shows/dora_icon.jpg"
@@ -25,13 +48,13 @@
 			iconHandle="stickers/shows/yoga_icon.jpg"
 			show="yoga"
 	/>
-	
+	<!---
 	<show displayName="Wubb"
 			handle="wubb" 
 			iconHandle="stickers/shows/wubb_icon.jpg"
 			show="wubb"
 	/>	
-	
+	--->
 	<show displayName="Blue"
 			handle="blue" 
 			iconHandle="stickers/shows/blue_icon.jpg"
@@ -47,6 +70,21 @@
 			iconHandle="stickers/shows/oliv_icon.jpg"
 			show="oliv"
 	/>	
+	<!--<show displayName="Noggin"
+			handle="nogg" 
+			iconHandle="stickers/shows/nogg_icon.jpg"
+			show="nogg"
+	/>-->
+	<show displayName="Bubble Guppies"
+			handle="bg" 
+			iconHandle="stickers/shows/bg_icon.jpg"
+			show="bg"
+	/>
+	<show displayName="Team Umizoomi"
+			handle="uzi" 
+			iconHandle="stickers/shows/uzi_icon.jpg"
+			show="uzi"
+	/>
 
 
 
