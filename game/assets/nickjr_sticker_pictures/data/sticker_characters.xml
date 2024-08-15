@@ -1,6 +1,340 @@
 <characters>
 
-    	<!-- dora -->	
+    <!-- PP -->
+    <character displayName="PP_peppa1"
+            handle="PP_peppa1"
+            iconHandle="stickers/characters/PP_peppa1/thumb.jpg"
+            imageHandle="stickers/characters/PP_peppa1/char.swf"
+            show="PP"
+            />
+
+    <character displayName="PP_george"
+            handle="PP_george"
+            iconHandle="stickers/characters/PP_george/thumb.jpg"
+            imageHandle="stickers/characters/PP_george/char.swf"
+            show="PP"
+            />
+
+    <character displayName="PP_daddyPig"
+            handle="PP_daddyPig"
+            iconHandle="stickers/characters/PP_daddyPig/thumb.jpg"
+            imageHandle="stickers/characters/PP_daddyPig/char.swf"
+            show="PP"
+            />
+
+    <character displayName="PP_mummyPig"
+            handle="PP_mummyPig"
+            iconHandle="stickers/characters/PP_mummyPig/thumb.jpg"
+            imageHandle="stickers/characters/PP_mummyPig/char.swf"
+            show="PP"
+            />
+
+    <character displayName="PP_peppa2"
+            handle="PP_peppa2"
+            iconHandle="stickers/characters/PP_peppa2/thumb.jpg"
+            imageHandle="stickers/characters/PP_peppa2/char.swf"
+            show="PP"
+            />
+            
+    <character displayName="PP_suzySheep"
+            handle="PP_suzySheep"
+            iconHandle="stickers/characters/PP_suzySheep/thumb.jpg"
+            imageHandle="stickers/characters/PP_suzySheep/char.swf"
+            show="PP"
+            />
+
+    <character displayName="PP_zoeZebra"
+            handle="PP_zoeZebra"
+            iconHandle="stickers/characters/PP_zoeZebra/thumb.jpg"
+            imageHandle="stickers/characters/PP_zoeZebra/char.swf"
+            show="PP"
+            />
+
+
+
+    <!-- JJ -->
+    <character displayName="JJ_julius"
+            handle="JJ_julius"
+            iconHandle="stickers/characters/JJ_julius/thumb.jpg"
+            imageHandle="stickers/characters/JJ_julius/char.swf"
+            show="JJ"
+            />
+
+    <character displayName="JJ_clancy"
+            handle="JJ_clancy"
+            iconHandle="stickers/characters/JJ_clancy/thumb.jpg"
+            imageHandle="stickers/characters/JJ_clancy/char.swf"
+            show="JJ"
+            />
+
+    <character displayName="JJ_ping"
+            handle="JJ_ping"
+            iconHandle="stickers/characters/JJ_ping/thumb.jpg"
+            imageHandle="stickers/characters/JJ_ping/char.swf"
+            show="JJ"
+            />
+
+    <character displayName="JJ_sheree"
+            handle="JJ_sheree"
+            iconHandle="stickers/characters/JJ_sheree/thumb.jpg"
+            imageHandle="stickers/characters/JJ_sheree/char.swf"
+            show="JJ"
+            />
+
+    <character displayName="JJ_worrybear"
+            handle="JJ_worrybear"
+            iconHandle="stickers/characters/JJ_worrybear/thumb.jpg"
+            imageHandle="stickers/characters/JJ_worrybear/char.swf"
+            show="JJ"
+            />
+
+
+    <!-- BMM -->
+    <character displayName="BMM_blaze"
+            handle="BMM_blaze"
+            iconHandle="stickers/characters/BMM_blaze/thumb.jpg"
+            imageHandle="stickers/characters/BMM_blaze/char.swf"
+            show="BMM"
+            />
+
+    <character displayName="BMM_aj"
+            handle="BMM_aj"
+            iconHandle="stickers/characters/BMM_aj/thumb.jpg"
+            imageHandle="stickers/characters/BMM_aj/char.swf"
+            show="BMM"
+            />
+
+    <character displayName="BMM_crusher"
+            handle="BMM_crusher"
+            iconHandle="stickers/characters/BMM_crusher/thumb.jpg"
+            imageHandle="stickers/characters/BMM_crusher/char.swf"
+            show="BMM"
+            />
+
+    <character displayName="BMM_gabby"
+            handle="BMM_gabby"
+            iconHandle="stickers/characters/BMM_gabby/thumb.jpg"
+            imageHandle="stickers/characters/BMM_gabby/char.swf"
+            show="BMM"
+            />
+
+    <character displayName="BMM_pickle"
+            handle="BMM_pickle"
+            iconHandle="stickers/characters/BMM_pickle/thumb.jpg"
+            imageHandle="stickers/characters/BMM_pickle/char.swf"
+            show="BMM"
+            />
+
+    <character displayName="BMM_starla"
+            handle="BMM_starla"
+            iconHandle="stickers/characters/BMM_starla/thumb.jpg"
+            imageHandle="stickers/characters/BMM_starla/char.swf"
+            show="BMM"
+            />
+
+    <character displayName="BMM_stripes"
+            handle="BMM_stripes"
+            iconHandle="stickers/characters/BMM_stripes/thumb.jpg"
+            imageHandle="stickers/characters/BMM_stripes/char.swf"
+            show="BMM"
+            />
+
+    <character displayName="BMM_zeg"
+            handle="BMM_zeg"
+            iconHandle="stickers/characters/BMM_zeg/thumb.jpg"
+            imageHandle="stickers/characters/BMM_zeg/char.swf"
+            show="BMM"
+            />
+
+
+	<!-- dahf -->
+	<character displayName="dahf_1"
+			handle="dahf_1"
+			iconHandle="stickers/characters/dahf_1/thumb.jpg"
+			imageHandle="stickers/characters/dahf_1/char.swf"
+			show="dahf"
+	/>	
+	<character displayName="dahf_2"
+			handle="dahf_2"
+			iconHandle="stickers/characters/dahf_2/thumb.jpg"
+			imageHandle="stickers/characters/dahf_2/char.swf"
+			show="dahf"
+	/>		
+	<character displayName="dahf_3"
+			handle="dahf_3"
+			iconHandle="stickers/characters/dahf_3/thumb.jpg"
+			imageHandle="stickers/characters/dahf_3/char.swf"
+			show="dahf"
+	/>			
+	<character displayName="dahf_4"
+			handle="dahf_4"
+			iconHandle="stickers/characters/dahf_4/thumb.jpg"
+			imageHandle="stickers/characters/dahf_4/char.swf"
+			show="dahf"
+	/>			
+	<character displayName="dahf_5"
+			handle="dahf_5"
+			iconHandle="stickers/characters/dahf_5/thumb.jpg"
+			imageHandle="stickers/characters/dahf_5/char.swf"
+			show="dahf"
+	/>
+	<character displayName="dahf_6"
+			handle="dahf_6"
+			iconHandle="stickers/characters/dahf_6/thumb.jpg"
+			imageHandle="stickers/characters/dahf_6/char.swf"
+			show="dahf"
+
+	/>
+
+
+	<!-- llll -->	
+	<character displayName="llll_1"
+			handle="llll_1"
+			iconHandle="stickers/characters/llll_1/thumb.jpg"
+			imageHandle="stickers/characters/llll_1/char.swf"
+			show="llll"
+	/>	
+	<character displayName="llll_2"
+			handle="llll_2"
+			iconHandle="stickers/characters/llll_2/thumb.jpg"
+			imageHandle="stickers/characters/llll_2/char.swf"
+			show="llll"
+	/>		
+	<character displayName="llll_3"
+			handle="llll_3"
+			iconHandle="stickers/characters/llll_3/thumb.jpg"
+			imageHandle="stickers/characters/llll_3/char.swf"
+			show="llll"
+	/>			
+	<character displayName="llll_4"
+			handle="llll_4"
+			iconHandle="stickers/characters/llll_4/thumb.jpg"
+			imageHandle="stickers/characters/llll_4/char.swf"
+			show="llll"
+	/>			
+	<character displayName="llll_5"
+			handle="llll_5"
+			iconHandle="stickers/characters/llll_5/thumb.jpg"
+			imageHandle="stickers/characters/llll_5/char.swf"
+			show="llll"
+	/>
+	<character displayName="llll_6"
+			handle="llll_6"
+			iconHandle="stickers/characters/llll_6/thumb.jpg"
+			imageHandle="stickers/characters/llll_6/char.swf"
+			show="llll"
+	/>
+	<character displayName="llll_7"
+			handle="llll_7"
+			iconHandle="stickers/characters/llll_7/thumb.jpg"
+			imageHandle="stickers/characters/llll_7/char.swf"
+			show="llll"
+	/>
+	<character displayName="llll_8"
+			handle="llll_8"
+			iconHandle="stickers/characters/llll_8/thumb.jpg"
+			imageHandle="stickers/characters/llll_8/char.swf"
+			show="llll"
+	/>
+
+	<!-- pawp -->	
+
+    <character displayName="pawp_robo"
+            handle="pawp_robo"
+            iconHandle="stickers/characters/pawp_robo/thumb.jpg"
+            imageHandle="stickers/characters/pawp_robo/char.swf"
+            show="pawp"
+	/>
+
+    <character displayName="pawp_marshall2"
+            handle="pawp_marshall2"
+            iconHandle="stickers/characters/pawp_marshall2/thumb.jpg"
+            imageHandle="stickers/characters/pawp_marshall2/char.swf"
+            show="pawp"
+	/>
+    <character displayName="pawp_chaseSpy"
+            handle="pawp_chaseSpy"
+            iconHandle="stickers/characters/pawp_chaseSpy/thumb.jpg"
+            imageHandle="stickers/characters/pawp_chaseSpy/char.swf"
+            show="pawp"
+	/>
+    <character displayName="pawp_zuma"
+			handle="pawp_zuma"
+			iconHandle="stickers/characters/pawp_zuma/thumb.jpg"
+			imageHandle="stickers/characters/pawp_zuma/char.swf"
+			show="pawp"
+	/>	
+	<character displayName="pawp_skye"
+			handle="pawp_skye" 
+			iconHandle="stickers/characters/pawp_skye/thumb.jpg"
+			imageHandle="stickers/characters/pawp_skye/char.swf"
+			show="pawp"
+	/>		
+	<character displayName="pawp_ryder"
+			handle="pawp_ryder" 
+			iconHandle="stickers/characters/pawp_ryder/thumb.jpg"
+			imageHandle="stickers/characters/pawp_ryder/char.swf"
+			show="pawp"
+	/>			
+	<character displayName="pawp_rubble"
+			handle="pawp_rubble" 
+			iconHandle="stickers/characters/pawp_rubble/thumb.jpg"
+			imageHandle="stickers/characters/pawp_rubble/char.swf"
+			show="pawp"
+	/>			
+	<character displayName="pawp_rocky"
+			handle="pawp_rocky" 
+			iconHandle="stickers/characters/pawp_rocky/thumb.jpg"
+			imageHandle="stickers/characters/pawp_rocky/char.swf"
+			show="pawp"
+	/>
+	<character displayName="pawp_marshall"
+			handle="pawp_marshall" 
+			iconHandle="stickers/characters/pawp_marshall/thumb.jpg"
+			imageHandle="stickers/characters/pawp_marshall/char.swf"
+			show="pawp"
+	/>
+	<character displayName="pawp_chase"
+			handle="pawp_chase" 
+			iconHandle="stickers/characters/pawp_chase/thumb.jpg"
+			imageHandle="stickers/characters/pawp_chase/char.swf"
+			show="pawp"
+	/>
+
+
+	<!-- prab -->	
+	<character displayName="prab_lily"
+			handle="prab_lily"
+			iconHandle="stickers/characters/prab_lily/thumb.jpg"
+			imageHandle="stickers/characters/prab_lily/char.swf"
+			show="prab"
+	/>	
+	<character displayName="prab_peter"
+			handle="prab_peter" 
+			iconHandle="stickers/characters/prab_peter/thumb.jpg"
+			imageHandle="stickers/characters/prab_peter/char.swf"
+			show="prab"
+	/>		
+	<character displayName="prab_benjamin"
+			handle="prab_benjamin" 
+			iconHandle="stickers/characters/prab_benjamin/thumb.jpg"
+			imageHandle="stickers/characters/prab_benjamin/char.swf"
+			show="prab"
+	/>			
+	<character displayName="prab_nutkin"
+			handle="prab_nutkin" 
+			iconHandle="stickers/characters/prab_nutkin/thumb.jpg"
+			imageHandle="stickers/characters/prab_nutkin/char.swf"
+			show="prab"
+	/>			
+	<character displayName="prab_mrsBunny"
+			handle="prab_mrsBunny" 
+			iconHandle="stickers/characters/prab_mrsBunny/thumb.jpg"
+			imageHandle="stickers/characters/prab_mrsBunny/char.swf"
+			show="prab"
+	/>
+	
+	<!-- dora -->	
 	<character displayName="dora_boots"
 			handle="dora_boots" 
 			iconHandle="stickers/characters/dora_boots/thumb.jpg"
@@ -159,7 +493,7 @@
 	/>	
 
 	<!-- wubb -->	
-	
+	<!---
 	<character displayName="wubb_fro"
 			handle="wubb_fro" 
 			iconHandle="stickers/characters/wubb_fro/thumb.jpg"
@@ -190,7 +524,7 @@
 			imageHandle="stickers/characters/wubb_wubstand/char.swf"
 			show="wubb"
 	/>
-	
+	--->
 	<!-- blue -->	
 	<character displayName="blue_joe"
 			handle="blue_joe"
@@ -285,6 +619,127 @@
 			imageHandle="stickers/characters/oliv_surf/char.swf"
 			show="oliv"
 	/>	
+
+
+	<!-- nogg -->	
+	<!--<character displayName="nogg_moosemummy"
+			handle="nogg_moosemummy" 
+			iconHandle="stickers/characters/nogg_moosemummy/thumb.jpg"
+			imageHandle="stickers/characters/nogg_moosemummy/char.swf"
+			show="nogg"
+	/>	
+	<character displayName="nogg_mooseparade"
+			handle="nogg_mooseparade" 
+			iconHandle="stickers/characters/nogg_mooseparade/thumb.jpg"
+			imageHandle="stickers/characters/nogg_mooseparade/char.swf"
+			show="nogg"
+	/>		
+	<character displayName="nogg_moosetux"
+			handle="nogg_moosetux" 
+			iconHandle="stickers/characters/nogg_moosetux/thumb.jpg"
+			imageHandle="stickers/characters/nogg_moosetux/char.swf"
+			show="nogg"
+	/>		
+	<character displayName="nogg_zeeparade"
+			handle="nogg_zeeparade" 
+			iconHandle="stickers/characters/nogg_zeeparade/thumb.jpg"
+			imageHandle="stickers/characters/nogg_zeeparade/char.swf"
+			show="nogg"
+	/>		
+	<character displayName="nogg_zeetux"
+			handle="nogg_zeetux" 
+			iconHandle="stickers/characters/nogg_zeetux/thumb.jpg"
+			imageHandle="stickers/characters/nogg_zeetux/char.swf"
+			show="nogg"
+	/>
+	<character displayName="nogg_zeevamp"
+			handle="nogg_zeevamp" 
+			iconHandle="stickers/characters/nogg_zeevamp/thumb.jpg"
+			imageHandle="stickers/characters/nogg_zeevamp/char.swf"
+			show="nogg"
+	/> -->
+	<!-- bg -->	
+	<character displayName="bg_deema"
+			handle="bg_deema"
+			iconHandle="stickers/characters/bg_deema/thumb.jpg"
+			imageHandle="stickers/characters/bg_deema/char.swf"
+			show="bg"
+	/>	
+	<character displayName="bg_gil"
+			handle="bg_gil" 
+			iconHandle="stickers/characters/bg_gil/thumb.jpg"
+			imageHandle="stickers/characters/bg_gil/char.swf"
+			show="bg"
+	/>		
+	<character displayName="bg_goby"
+			handle="bg_goby" 
+			iconHandle="stickers/characters/bg_goby/thumb.jpg"
+			imageHandle="stickers/characters/bg_goby/char.swf"
+			show="bg"
+	/>			
+	<character displayName="bg_molly"
+			handle="bg_molly" 
+			iconHandle="stickers/characters/bg_molly/thumb.jpg"
+			imageHandle="stickers/characters/bg_molly/char.swf"
+			show="bg"
+	/>			
+	<character displayName="bg_nonny"
+			handle="bg_nonny" 
+			iconHandle="stickers/characters/bg_nonny/thumb.jpg"
+			imageHandle="stickers/characters/bg_nonny/char.swf"
+			show="bg"
+	/>
+	<character displayName="bg_oona"
+			handle="bg_oona" 
+			iconHandle="stickers/characters/bg_oona/thumb.jpg"
+			imageHandle="stickers/characters/bg_oona/char.swf"
+			show="bg"
+	/>
+	<character displayName="bg_bPup"
+			handle="bg_bPup" 
+			iconHandle="stickers/characters/bg_bPup/thumb.jpg"
+			imageHandle="stickers/characters/bg_bPup/char.swf"
+			show="bg"
+	/>
+	<character displayName="bg_mrG"
+			handle="bg_mrG" 
+			iconHandle="stickers/characters/bg_mrG/thumb.jpg"
+			imageHandle="stickers/characters/bg_mrG/char.swf"
+			show="bg"
+	/>
+
+	<!-- uzi -->	
+	<character displayName="uzi_geo"
+			handle="uzi_geo"
+			iconHandle="stickers/characters/uzi_geo/thumb.jpg"
+			imageHandle="stickers/characters/uzi_geo/char.swf"
+			show="uzi"
+	/>	
+	<character displayName="uzi_milli"
+			handle="uzi_milli" 
+			iconHandle="stickers/characters/uzi_milli/thumb.jpg"
+			imageHandle="stickers/characters/uzi_milli/char.swf"
+			show="uzi"
+	/>		
+	<character displayName="uzi_bot"
+			handle="uzi_bot" 
+			iconHandle="stickers/characters/uzi_bot/thumb.jpg"
+			imageHandle="stickers/characters/uzi_bot/char.swf"
+			show="uzi"
+	/>			
+	<character displayName="uzi_umicar"
+			handle="uzi_umicar" 
+			iconHandle="stickers/characters/uzi_umicar/thumb.jpg"
+			imageHandle="stickers/characters/uzi_umicar/char.swf"
+			show="uzi"
+	/>			
+	<character displayName="uzi_umicar2"
+			handle="uzi_umicar2" 
+			iconHandle="stickers/characters/uzi_umicar2/thumb.jpg"
+			imageHandle="stickers/characters/uzi_umicar2/char.swf"
+			show="uzi"
+	/>
+
 
 			
 </characters>
