@@ -1,0 +1,266 @@
+{
+"config":{
+"music":{
+"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/music/silent-show-loop.swf",
+"volume":"0.3",
+"fadeAfter":"30"
+},
+"animation":{
+"loader":{"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/loaders/general-loader.swf"},
+"urlAlias":"kids-blues-clues",
+"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/main-content/blueclues-show-landing.swf",
+"classId":"GameListAnimation"
+},
+"promoSounds":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/promos/global-promo-sounds.swf",
+"promos":[
+
+{
+"loader":{"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/loaders/asset-loader.swf","position":{"x":"75","y":"35"}},
+"classId":"ShowGamesListPromo",
+"localConnectionId":"ShowGameListPromo",
+"urlAlias":"kids-blues-clues",
+"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/promos/listing/showGames.swf",
+
+"position":{"x":"316","y":"0"},
+
+"allLink":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/blues-clues/",
+"items":[
+
+{
+"urlAlias":"blues-clues-ghost-hunt",	
+"featured":"",
+"title":"Blue's Clues Ghost Hunt", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/blue_ghosthunt/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/blue_ghosthunt/GamesFinder/blues-clues-ghost-hunt3.jpg",
+"link":"/kids-games/blues-clues-ghost-hunt.html", 
+"datePosted":"Thu May 22 00:00:00 EDT 2008", 
+"numViews":"37298"
+}
+
+,
+
+{
+"urlAlias":"blue-answers",	
+"featured":"",	
+"title":"Blue Answers Your Questions", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/blue_answers/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/blue_answers/GamesFinder/blue-answers-01.jpg",
+"link":"/kids-games/blue-answers-your-questions.html", 
+"datePosted":"Thu May 22 00:00:00 EDT 2008", 
+"numViews":"37298"
+}
+
+,
+
+{
+"urlAlias":"blues-clues-birthday-dress-up",	
+"featured":"",	
+"title":"Blue's Birthday Party Dress-Up", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/blue_birthdaydressup/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/blue_birthdaydressup/GamesFinder/blues-birthday-party-dress-up2.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/blues-birthday-party-dress-up.html", 
+"datePosted":"Thu May 22 00:00:00 EDT 2008", 
+"numViews":"37298"
+}
+
+,
+
+{
+"urlAlias":"blues-clues-checkup",	
+"featured":"",	
+"title":"Blue's Checkup", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/blue_checkup/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assetsblue_checkup/blue_checkup1.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/blues-checkup.html", 
+"datePosted":"Fri Jul 12 00:00:00 EDT 2002", 
+"numViews":"34634"
+}
+
+,
+
+{
+"urlAlias":"blues-clues-blue-is-my-name",	
+"featured":"",	
+"title":"Blue Is My Name", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/blue_blueismyname/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/blue_blueismyname/GamesFinder/blue-is-my-name.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/blue-is-my-name.html", 
+"datePosted":"Thu May 22 00:00:00 EDT 2008", 
+"numViews":"37298"
+}
+
+,
+
+{
+"urlAlias":"blues-clues-bluesroom",	
+"featured":"",	
+"title":"Blue's Room", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/blue_bluesroom/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/bblue_bluesroom/GamesFinder/blue-bluesroom-01.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/blues-room.html", 
+"datePosted":"Thu May 22 00:00:00 EDT 2008", 
+"numViews":"37298"
+}
+
+,
+
+{
+"urlAlias":"blues-clues-bubble-puzzle",	
+"featured":"",	
+"title":"Polka Dot's Bubble Puzzle", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/blue_bubblepuzzle/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/blue_bubblepuzzle/GamesFinder/polka-dots-bubble-puzzle3.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/gf-polka-dots-bubble-puzzle.html", 
+"datePosted":"Thu May 22 00:00:00 EDT 2008", 
+"numViews":"37298"
+}
+,
+
+{
+"urlAlias":"color-with-blue",	
+"featured":"",	
+"title":"Color with Blue", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/blue_color/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/blue_color/GamesFinder/blues-counting-with-cash-register1.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/color-with-blue.html", 
+"datePosted":"Thu May 22 00:00:00 EDT 2008", 
+"numViews":"37298"
+}
+,
+
+{
+"urlAlias":"blues-clues-doodle",	
+"featured":"",	
+"title":"Doodle, Doodle, Guess & Draw", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/blue_doodle/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/blue_doodle/GamesFinder/doodle-doodle-guess-draw1jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/doodle-doodle-guess-draw.html", 
+"datePosted":"Thu May 22 00:00:00 EDT 2008", 
+"numViews":"37298"
+}
+,
+
+{
+"urlAlias":"blues-clues-do-the-blue",	
+"featured":"",	
+"title":"Do the Blue", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/blue_dotheblue/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/blue_dotheblue/GamesFinder/do-the-blue1.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/do-the-blue.html", 
+"datePosted":"Thu May 22 00:00:00 EDT 2008", 
+"numViews":"37298"
+}
+,
+
+{
+"urlAlias":"blues-clues-mix-n-match-dressup",	
+"featured":"",	
+"title":"Blue's Mix 'n Match Dress-Up", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/blue_dressup/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/blue_dressup/GamesFinder/blues-mix-n-match-dressup2.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/blues-mix-n-match-dressup.html", 
+"datePosted":"Thu May 22 00:00:00 EDT 2008", 
+"numViews":"37298"
+}
+,
+
+{
+"urlAlias":"blues-gold-clues-challenge",	
+"featured":"",	
+"title":"Blue's Gold Clues Challenge", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/blue_gold_clues/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/blue_gold_clues/GamesFinder/blues-mix-n-match-dressup2.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/blues-gold-clues-challenge.html", 
+"datePosted":"Thu May 22 00:00:00 EDT 2008", 
+"numViews":"37298"
+}
+,
+
+{
+"urlAlias":"blues-clues-goodnight-bird",	
+"featured":"",	
+"title":"Goodnight Bird", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/blue_goodnightbird/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/blue_goodnightbird/GamesFinder/goodnight-bird2.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/goodnight-bird.html", 
+"datePosted":"Thu May 22 00:00:00 EDT 2008", 
+"numViews":"37298"
+}
+,
+
+{
+"urlAlias":"blues-clues-joes-scrapbook-journey",	
+"featured":"",	
+"title":"Joe's Scrapbook Journey", 
+"thumbnail":"/game/assets/blue_joescrapbook/GamesFinder/thumbnail.jpg",
+"promoImage":"/game/assets/blue_joescrapbook/GamesFinder/joes-scrapbook-journey2.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/joes-scrapbook-journey.html", 
+"datePosted":"Thu May 22 00:00:00 EDT 2008", 
+"numViews":"37298"
+}
+,
+
+{
+"urlAlias":"blues-clues-matching",	
+"featured":"",	
+"title":"Blue's Matching Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/blue_matching/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/blue_matching/GamesFinder/blues-matching-game3.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/blues-matching-game.html", 
+"datePosted":"Thu May 22 00:00:00 EDT 2008", 
+"numViews":"37298"
+}
+,
+
+{
+"urlAlias":"blues-clues-music-maker",	
+"featured":"",	
+"title":"Blue's Music Maker Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/blue_musicmaker/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/blue_musicmaker/GamesFinder/blues-music-maker3.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/blues-music-maker.html", 
+"datePosted":"Thu May 22 00:00:00 EDT 2008", 
+"numViews":"37298"
+}
+,
+
+{
+"urlAlias":"blues-clues-puppy-maker",	
+"featured":"",	
+"title":"Blue's Puppy Maker", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/blue_puppymaker/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/blue_puppymaker/GamesFinder/blues-puppy-maker3.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/blues-puppy-maker.html", 
+"datePosted":"Thu May 22 00:00:00 EDT 2008", 
+"numViews":"37298"
+}
+,
+
+{
+"urlAlias":"blues-clues-where-do-slippers-sleep",	
+"featured":"",	
+"title":"Where Do Slippers Sleep?", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/blue_slippers/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/blue_slippers/GamesFinder/blues-where-do-slippers-sleep2.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/where-do-slippers-sleep.html", 
+"datePosted":"Thu May 22 00:00:00 EDT 2008", 
+"numViews":"37298"
+}
+,
+
+{
+"urlAlias":"blues-clues-whats-in-the-box",	
+"featured":"",	
+"title":"Blue's What's in the Box?", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/blue_whatsinbox/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/blue_whatsinbox/GamesFinder/blues-whats-in-the-box3.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/blues-whats-in-the-box.html", 
+"datePosted":"Thu May 22 00:00:00 EDT 2008", 
+"numViews":"37298"
+}
+
+]
+}
+]
+}
+}
