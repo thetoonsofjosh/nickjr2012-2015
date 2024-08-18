@@ -1,0 +1,77 @@
+
+{
+"config":{
+"debug":{"showName":"blues-clues"},
+"promoSounds":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/promos/global-promo-sounds.swf",
+"buttons":[
+{
+"localConnectionId":"ShowLogo",
+"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/showlogos/BluesClues.swf", 
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids/blues-clues/",
+"position":{"x":"40","y":"52"}	
+}
+],
+"promos":[
+{
+"loader":{"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/loaders/asset-loader.swf","position":{"x":"70","y":"220"}},
+"classId":"MoreGamesPromo",
+"localConnectionId":"MoreGamesPromo",
+"urlAlias":"",
+"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/promos/listing/moreGames.swf",
+"position":{"x":"0","y":"0"},
+"allLink":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/blues-clues/",
+"items":[
+
+
+{
+"urlAlias":"blues-clues-puppy-maker",	
+"featured":"",	
+"title":"Blue's Puppy Maker", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/blue_puppymaker/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/blue_puppymaker/GamesFinder/blues-puppy-maker3.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/blues-puppy-maker.html", 
+"datePosted":"Thu May 22 00:00:00 EDT 2008", 
+"numViews":"37298"
+}
+
+,
+{
+"urlAlias":"oliv-dressup-with-olivia",	
+"featured":"",	
+"title":"Olivia Dress-Up Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/oliv_dressup/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/oliv_dressup/kids-game-promo.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/oliv-dressup-with-olivia.html", 
+"datePosted":"Thu May 22 00:00:00 EDT 2008", 
+"numViews":"37298"
+}
+,
+{
+"urlAlias":"kailan-super-snow-dragon",	
+"featured":"",	
+"title":"Kai-lan Super Snow Dragon Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/niha_supersnowdragon/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/niha_supersnowdragon/kids-game-promo.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/kailan-super-snow-dragon.html", 
+"datePosted":"Thu May 22 00:00:00 EDT 2008", 
+"numViews":"2814"
+}
+
+,
+
+{
+"urlAlias":"umi-city-mighty-math-missions",	
+"featured":"",	
+"title":"Umi City: Mighty Missions Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/umiz_city/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/umiz_city/GamesFinder/umiz-city-01.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/umi-city-mighty-math-missions.html", 
+"datePosted":"Thu May 22 00:00:00 EDT 2008", 
+"numViews":"2814"
+}
+
+]
+}
+]
+}
+}
