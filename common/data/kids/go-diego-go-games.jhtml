@@ -1,0 +1,279 @@
+{
+"config":{
+"music":{
+"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/music/silent-show-loop.swf",
+"volume":"0.3",
+"fadeAfter":"30"
+},
+"animation":{
+"loader":{"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/loaders/general-loader.swf"},
+"urlAlias":"kids-go-diego-go",
+"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/main-content/diego-show-landing.swf",
+"classId":"GameListAnimation"
+},
+"promoSounds":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/promos/global-promo-sounds.swf",
+"promos":[
+
+{
+"loader":{"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/loaders/asset-loader.swf","position":{"x":"75","y":"35"}},
+"classId":"ShowGamesListPromo",
+"localConnectionId":"ShowGameListPromo",
+"urlAlias":"kids-go-diego-go",
+"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/promos/listing/showGames.swf",
+
+"position":{"x":"316","y":"0"},
+
+"allLink":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/go-diego-go/",
+"items":[
+
+{
+"urlAlias":"diego-dinosaur-adventure",	
+"featured":"",	
+"title":"Diego's Dinosaur Adventure Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dieg_dino/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dieg_dino/GamesFinder/diegos-dinosaur-adventure1.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/diegos-dinosaur-adventure.html", 
+"datePosted":"Thu May 22 00:00:00 EDT 2008", 
+"numViews":"37298"
+}
+
+,
+
+{
+"urlAlias":"diego-great-jaguar-rescue",	
+"featured":"",	
+"title":"Diego's Great Jaguar Rescue", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dieg_great_jaguar_rescue/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dieg_great_jaguar_rescue/GamesFinder/diegos-great-jaguar-rescue1.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/diegos-great-jaguar-rescue.html", 
+"datePosted":"Thu May 22 00:00:00 EDT 2008", 
+"numViews":"2814"
+}
+
+,
+
+{
+"urlAlias":"diego-hermit-crab-rescue",	
+"featured":"",	
+"title":"Diego's Hermit Crab Rescue", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dieg_hermitcrab/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dieg_hermitcrab/GamesFinder/dieg-hermitcrab-01.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/diego-hermit-crab-rescue.html", 
+"datePosted":"Wed Aug 22 00:00:00 EDT 2012", 
+"numViews":"35867"
+}
+
+,
+
+{
+"urlAlias":"diego-hippo-adventure",	
+"featured":"",	
+"title":"Diego's Hippopotamus Adventure", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dieg_hippo_adventure/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dieg_hippo_adventure/GamesFinder/thumbnail.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/diego-hippo-adventure.html", 
+"datePosted":"Wed Aug 22 00:00:00 EDT 2012", 
+"numViews":"35867"
+}
+
+,
+
+{
+"urlAlias":"diego-field-journal",	
+"featured":"",	
+"title":"Diego Field Journal", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dieg_journal/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dieg_journal/GamesFinder/diego-field-journal1.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/diego-field-journal.html", 
+"datePosted":"Thu May 22 00:00:00 EDT 2008", 
+"numViews":"2814"
+}
+
+,
+
+{
+"urlAlias":"diego-puzzle-pyramid",	
+"featured":"",	
+"title":"Diego's Puzzle Pyramid", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dieg_puzzle/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dieg_puzzle/GamesFinder/diegos-puzzle-pyramid1.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/diegos-puzzle-pyramid.html?", 
+"datePosted":"Thu May 22 00:00:00 EDT 2008", 
+"numViews":"37298"
+}
+
+,
+
+{
+"urlAlias":"diego-mudboarding-adventure",	
+"featured":"",	
+"title":"Diego Mudboarding Adventure", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dieg_mudboarding/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dieg_mudboarding/GamesFinder/diego-mudboarding-adventure1.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/diego-mudboarding-adventure.html", 
+"datePosted":"Thu May 22 00:00:00 EDT 2008", 
+"numViews":"37298"
+}
+
+,
+
+{
+"urlAlias":"diego-arctic-rescue",	
+"featured":"",	
+"title":"Diego's Arctic Rescue Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dieg_arctic/GamesFinder/dieg_arctic-thumb.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dieg_arctic/GamesFinder/Diego-Arctic-01.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/dieg-arctic-rescue.html", 
+"datePosted":"Thu May 22 00:00:00 EDT 2008", 
+"numViews":"37298"
+}
+
+,
+
+{
+"urlAlias":"diego-railroad-rescue",	
+"featured":"",	
+"title":"Diego's Railroad Rescue", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dieg_railroad/Gamesfinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dieg_railroad/Gamesfinder/diegos-railroad-rescue1.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/diegos-railroad-rescue.html", 
+"datePosted":"Thu May 22 00:00:00 EDT 2008", 
+"numViews":"37298"
+}
+
+,
+
+{
+"urlAlias":"diego-rainforest-adventure",	
+"featured":"",	
+"title":"Diego Rain Forest Adventure", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dieg_rainforest/Gamesfinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dieg_rainforest/Gamesfinder/diego-rain-forest-adventure1.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/diego-rain-forest-adventure.html", 
+"datePosted":"Thu May 22 00:00:00 EDT 2008", 
+"numViews":"37298"
+}
+
+,
+
+{
+"urlAlias":"diego-roadrunner-race",	
+"featured":"",	
+"title":"The Great Roadrunner Race", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dieg_roadrunner/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dieg_roadrunner/GamesFinder/dieg-roadrunner-01.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/diego-roadrunner-race.html", 
+"datePosted":"Thu May 22 00:00:00 EDT 2008", 
+"numViews":"37298"
+}
+
+,
+
+{
+"urlAlias":"diego-safari-rescue",	
+"featured":"",	
+"title":"Diego's Safari Rescue Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dieg_safari/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dieg_safari/GamesFinder/diegos-safari-rescue1.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/diegos-safari-rescue.html", 
+"datePosted":"Thu May 22 00:00:00 EDT 2008", 
+"numViews":"37298"
+}
+
+,
+
+{
+"urlAlias":"diego-snowboarding",	
+"featured":"",	
+"title":"Diego's Snowboard Rescue Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dieg_snowboard/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dieg_snowboard/GamesFinder/diegos-snowboard-rescue1.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/diegos-snowboard-rescue.html", 
+"datePosted":"Thu May 22 00:00:00 EDT 2008", 
+"numViews":"37298"
+}
+
+,
+
+{
+"urlAlias":"diego-tuga-the-sea-turtle",	
+"featured":"",	
+"title":"Diego's Tuga the Sea Turtle", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dieg_tuga/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dieg_tuga/GamesFinder/diegos-tuga-the-sea-turtle1.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/diegos-tuga-the-sea-turtle.html", 
+"datePosted":"Thu May 22 00:00:00 EDT 2008", 
+"numViews":"37298"
+}
+
+,
+
+{
+"urlAlias":"diego-ultimate-rescue-league",	
+"featured":"",	
+"title":"Diego's Ultimate Rescue Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dieg_ultimate/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dieg_ultimate/GamesFinder/dieg_ultimate_01.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/diego-ultimate-rescue.html", 
+"datePosted":"Thu May 22 00:00:00 EDT 2008", 
+"numViews":"37298"
+}
+
+,
+
+{
+"urlAlias":"diego-underwater-adventure",	
+"featured":"",	
+"title":"Diego's Underwater Rescue Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dieg_underwater/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dieg_underwater/GamesFinder/Diego_Underwater_01.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/diegos-underwater-adventure.html", 
+"datePosted":"Thu May 22 00:00:00 EDT 2008", 
+"numViews":"37298"
+}
+
+,
+
+{
+"urlAlias":"diego-african-offroad-rescue",	
+"featured":"",	
+"title":"Diego's African Off-Road Rescue", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dieg_offroad/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dieg_offroad/GamesFinder/Diego_Offroad_01.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/diegos-african-off-road-rescue.html", 
+"datePosted":"Thu May 22 00:00:00 EDT 2008", 
+"numViews":"37298"
+}
+
+,
+
+{
+"urlAlias":"diego-dino-flyer",	
+"featured":"",	
+"title":"Diego's Dino Flyer Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dieg_dinoflyer/GamesFinder/diegos-dino-flyer-rescue-thumb.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dieg_dinoflyer/GamesFinder/diegos-dino-flyer-rescue1.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/diegos-dino-flyer-rescue.html", 
+"datePosted":"Thu May 22 00:00:00 EDT 2008", 
+"numViews":"37298"
+}
+
+,
+
+{
+"urlAlias":"diego-fiercest-animals",	
+"featured":"",	
+"title":"Diego's Fiercest Animals Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dieg_fiercest_animals/GamesFinder/diego-fiercest-animals-thumb.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dieg_fiercest_animals/GamesFinder/diego-fiercest-animals-01.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/diego-fiercest-animals.html", 
+"datePosted":"Thu May 22 00:00:00 EDT 2008", 
+"numViews":"37298"
+}
+
+
+]
+}
+]
+}
+}
