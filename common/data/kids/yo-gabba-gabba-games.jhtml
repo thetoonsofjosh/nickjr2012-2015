@@ -1,0 +1,109 @@
+{
+"config":{
+"music":{
+"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/music/silent-show-loop.swf",
+"volume":"0.3",
+"fadeAfter":"30"
+},
+"animation":{
+"loader":{"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/loaders/general-loader.swf"},
+"urlAlias":"kids-yo-gabba-gabba",
+"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/flash/kids/main-content/yogabbagabba-show-landing.swf",
+"classId":"GameListAnimation"
+},
+"promoSounds":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/promos/global-promo-sounds.swf",
+"promos":[
+
+{
+"loader":{"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/loaders/asset-loader.swf","position":{"x":"75","y":"35"}},
+"classId":"ShowGamesListPromo",
+"localConnectionId":"ShowGameListPromo",
+"urlAlias":"kids-yo-gabba-gabba",
+"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/promos/listing/showGames.swf",
+
+"position":{"x":"316","y":"0"},
+
+"allLink":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/yo-gabba-gabba/",
+"items":[
+
+{
+"urlAlias":"yo-gabba-gabba-mini-arcade",	
+"featured":"",	
+"title":"Yo Gabba Gabba! Mini Arcade", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/yoga_minigames/GamesFinder/yoga_minigames-thumb.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/yoga_minigames/GamesFinder/kids-game-promo.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/yo-gabba-gabba-mini-arcade.html", 
+"datePosted":"Mon Aug 25 00:00:00 EDT 2014", 
+"numViews":"34634"
+}
+
+,
+
+{
+"urlAlias":"munos-volcano-volleyball",	
+"featured":"",	
+"title":"Muno's Volcano Volleyball", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/yoga_muno_volleyball/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/yoga_muno_volleyball/GamesFinder/munos-volcano-volleyball1.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/munos-volcano-volleyball.html", 
+"datePosted":"Wed Aug 22 00:00:00 EDT 2012", 
+"numViews":"35867"
+}
+
+,
+
+{
+"urlAlias":"brobees-dancey-dance-moves",	
+"featured":"",	
+"title":"Brobee's Dancey Dance Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/yoga_brobee_dance/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/yoga_brobee_dance/GamesFinder/brobees-dancey-dance-moves1.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/brobees-dancey-dance-moves.html", 
+"datePosted":"Thu May 22 00:00:00 EDT 2008", 
+"numViews":"2814"
+}
+
+,
+
+{
+"urlAlias":"foofas-happy-flower-garden",	
+"featured":"",	
+"title":"Foofa's Flower Garden Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/yoga_foofa_flowers/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/yoga_foofa_flowers/GamesFinder/foofas-happy-flower-garden1.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/foofas-happy-flower-garden.html", 
+"datePosted":"Thu May 22 00:00:00 EDT 2008", 
+"numViews":"37298"
+}
+
+,
+
+{
+"urlAlias":"yo-gabba-gabba-magic-word-find",	
+"featured":"",	
+"title":"Yo Gabba Gabba! Magic Word", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/yoga_magic_word/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/yoga_magic_word/kids-game-promo.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/yo-gabba-gabba-magic-word-find.html", 
+"datePosted":"Thu May 22 00:00:00 EDT 2008", 
+"numViews":"37298"
+}
+
+,
+
+{
+"urlAlias":"plex-robot-creation-station",	
+"featured":"",	
+"title":"Robot Creation Station Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/yoga_robot/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/yoga_robot/kids-game-promo.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/plex-robot-creation-station.html", 
+"datePosted":"Tue Aug 26 00:00:00 EDT 2014", 
+"numViews":"37298"
+}
+
+]
+}
+]
+}
+}
