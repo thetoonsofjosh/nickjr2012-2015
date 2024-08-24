@@ -1,0 +1,80 @@
+
+{
+"config":{
+"debug":{"showName":"yo-gabba-gabba"},
+"promoSounds":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/promos/global-promo-sounds.swf",
+"buttons":[
+{
+"localConnectionId":"ShowLogo",
+"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/showlogos/YoGabbaGabba.swf", 
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids/yo-gabba-gabba/",
+"position":{"x":"40","y":"52"}	
+}
+],
+"promos":[
+{
+"loader":{"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/loaders/asset-loader.swf","position":{"x":"70","y":"220"}},
+"classId":"MoreGamesPromo",
+"localConnectionId":"MoreGamesPromo",
+"urlAlias":"",
+"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/promos/listing/moreGames.swf",
+"position":{"x":"0","y":"0"},
+"allLink":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/yo-gabba-gabba/",
+"items":[
+
+{
+"urlAlias":"yo-gabba-gabba-mini-arcade",	
+"featured":"",	
+"title":"Yo Gabba Gabba! Mini Arcade", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/yoga_minigames/GamesFinder/yoga_minigames-thumb.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/yoga_minigames/GamesFinder/kids-game-promo.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/yo-gabba-gabba-mini-arcade.html", 
+"datePosted":"Mon Aug 25 00:00:00 EDT 2014", 
+"numViews":"34634"
+}
+
+,
+
+{
+"urlAlias":"bots-silly-fix-it-game",	
+"featured":"",	
+"title":"Bot's Silly Fix It Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/umiz_bot_mini/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/umiz_bot_mini/kids-game-promo.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/bots-silly-fix-it-game.html", 
+"datePosted":"Wed Dec 16 00:00:00 EST 2009", 
+"numViews":"35867"
+}
+
+,
+
+{
+"urlAlias":"wonder-pets-save-the-circus",	
+"featured":"",	
+"title":"Wonder Pets Join the Circus", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/wond_circus/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/wond_circus/kids-game-promo.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/wonder-pets-save-the-circus.html", 
+"datePosted":"Thu May 22 00:00:00 EDT 2008", 
+"numViews":"2814"
+}
+
+,
+
+{
+"urlAlias":"doras-purple-planet-adventure",	
+"featured":"",	
+"title":"Dora's Purple Planet Adventure", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dora_purpleplanet/GamesFinder/dora_purple_planet-thumb.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dora_purpleplanet/kids-game-promo.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/doras-purple-planet-adventure.html", 
+"datePosted":"Thu May 22 00:00:00 EDT 2008", 
+"numViews":"37298"
+}
+
+
+]
+}
+]
+}
+}

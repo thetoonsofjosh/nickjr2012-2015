@@ -1,0 +1,80 @@
+
+{
+"config":{
+"debug":{"showName":"yo-gabba-gabba"},
+"promoSounds":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/promos/global-promo-sounds.swf",
+"buttons":[
+{
+"localConnectionId":"ShowLogo",
+"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/showlogos/YoGabbaGabba.swf", 
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids/yo-gabba-gabba/",
+"position":{"x":"40","y":"52"}	
+}
+],
+"promos":[
+{
+"loader":{"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/loaders/asset-loader.swf","position":{"x":"70","y":"220"}},
+"classId":"MoreGamesPromo",
+"localConnectionId":"MoreGamesPromo",
+"urlAlias":"",
+"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/promos/listing/moreGames.swf",
+"position":{"x":"0","y":"0"},
+"allLink":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/yo-gabba-gabba/",
+"items":[
+
+{
+"urlAlias":"brobees-dancey-dance-moves",	
+"featured":"",	
+"title":"Brobee's Dancey Dance Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/yoga_brobee_dance/GamesFinder/thumbnail.jpg",
+"promoImage":"",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/brobees-dancey-dance-moves.html", 
+"datePosted":"Mon Aug 25 00:00:00 EDT 2014", 
+"numViews":"34634"
+}
+
+,
+
+{
+"urlAlias":"dieg-arctic-rescue",	
+"featured":"",	
+"title":"Diego's Arctic Rescue Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dieg_arctic/GamesFinder/dieg_arctic-thumb.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dieg_arctic/GamesFinder/dieg_arctic-kids-game-promo.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/dieg-arctic-rescue.html", 
+"datePosted":"Wed Dec 16 00:00:00 EST 2009", 
+"numViews":"35867"
+}
+
+,
+
+{
+"urlAlias":"wonder-pets-phone-game",	
+"featured":"",	
+"title":"Wonder Pets! Phone Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/wond_telephone/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/wond_telephone/kids-game-promo.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/wonder-pets-phone-game.html", 
+"datePosted":"Thu May 22 00:00:00 EDT 2008", 
+"numViews":"2814"
+}
+
+,
+
+{
+"urlAlias":"fresh-beats-freezy-smoothies",	
+"featured":"",	
+"title":"Fresh Beat Freezy Smoothie Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/fres_freeze_dance/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/fres_freeze_dance/kids-game-promo.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/fresh-beats-freezy-smoothies.html", 
+"datePosted":"Wed Feb 15 00:00:00 EST 2012", 
+"numViews":"37298"
+}
+
+
+]
+}
+]
+}
+}
