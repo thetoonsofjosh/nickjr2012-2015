@@ -8,7 +8,7 @@
 "animation":{
 "loader":{"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/loaders/general-loader.swf"},
 "urlAlias":"kids-yo-gabba-gabba",
-"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/flash/kids/main-content/yogabbagabba-show-landing.swf",
+"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/main-content/yogabbagabba-show-landing.swf",
 "classId":"GameListAnimation"
 },
 "promoSounds":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/promos/global-promo-sounds.swf",
