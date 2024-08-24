@@ -1,0 +1,79 @@
+{
+"config":{
+"debug":{"showName":"mike-the-knight"},
+"promoSounds":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/promos/global-promo-sounds.swf",
+"buttons":[
+{
+"localConnectionId":"ShowLogo",
+"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/showlogos/MikeKnight.swf", 
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids/mike-the-knight/",
+"position":{"x":"40","y":"52"}	
+}
+],
+"promos":[
+{
+"loader":{"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/loaders/asset-loader.swf","position":{"x":"70","y":"220"}},
+"classId":"MoreGamesPromo",
+"localConnectionId":"MoreGamesPromo",
+"urlAlias":"",
+"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/promos/listing/moreGames.swf",
+"position":{"x":"0","y":"0"},
+"allLink":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/mike-the-knight/",
+"items":[
+
+
+{
+"urlAlias":"mike-the-knight-galahads-gallop",	
+"featured":"",	
+"title":"Mike's Galahad Gallop Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/mtk_gallahads_gallop/GamesFinder/mike-the-knight-galahads-gallop-thumb.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/mtk_gallahads_gallop/kids-game-promo.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/mike-the-knight-galahads-gallop.html", 
+"datePosted":"Thu May 22 00:00:00 EDT 2008", 
+"numViews":"37298"
+}
+
+
+
+,
+
+{
+"urlAlias":"doras-royal-rescue",	
+"featured":"",	
+"title":"Dora's Royal Rescue Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dora_royal_rescue/GamesFinder/dora-royal-rescue-thumb.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dora_royal_rescue/dora-royal-rescue-kids-game-promo-new.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/doras-royal-rescue.html", 
+"datePosted":"Fri Jul 12 00:00:00 EDT 2002", 
+"numViews":"34634"
+}
+,
+
+{
+"urlAlias":"backyardigans-tale-mighty-knight",	
+"featured":"",	
+"title":"Tale of the Mighty Knights Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/back_mighty_knights/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/back_mighty_knights/kids-game-promo.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/backyardigans-tale-mighty-knight.html", 
+"datePosted":"Thu May 22 00:00:00 EDT 2008", 
+"numViews":"37298"
+}
+,
+
+{
+"urlAlias":"umi-games-mighty-bike-race",	
+"featured":"",	
+"title":"Umi Mighty Bike Race Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/umiz_umigames_bikerace/GamesFinder/umi-sports-game-thumb.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/umiz_umigames_bikerace/kids-game-promo.jpg",
+"link":":https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/umi-games-mighty-bike-race.html", 
+"datePosted":"Thu May 22 00:00:00 EDT 2008", 
+"numViews":"37298"
+}
+
+]
+}
+]
+}
+}

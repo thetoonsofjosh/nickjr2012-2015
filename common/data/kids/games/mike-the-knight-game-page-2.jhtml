@@ -1,0 +1,79 @@
+{
+"config":{
+"debug":{"showName":"mike-the-knight"},
+"promoSounds":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/promos/global-promo-sounds.swf",
+"buttons":[
+{
+"localConnectionId":"ShowLogo",
+"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/showlogos/MikeKnight.swf", 
+"link":"/kids/mike-the-knight/",
+"position":{"x":"40","y":"52"}	
+}
+],
+"promos":[
+{
+"loader":{"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/loaders/asset-loader.swf","position":{"x":"70","y":"220"}},
+"classId":"MoreGamesPromo",
+"localConnectionId":"MoreGamesPromo",
+"urlAlias":"",
+"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/promos/listing/moreGames.swf",
+"position":{"x":"0","y":"0"},
+"allLink":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/mike-the-knight/",
+"items":[
+
+
+{
+"urlAlias":"mike-the-knight-apples-arrows",	
+"featured":"",	
+"title":"Mike the Knight Apples &amp; Arrows", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/mtk_apples_arrows/GamesFinder/mike-the-knight-apples-and-arrows-thumb.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/mtk_apples_arrows/kids-game-promo.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/mike-the-knight-apples-arrows.html", 
+"datePosted":"Thu May 22 00:00:00 EDT 2008", 
+"numViews":"37298"
+}
+
+
+
+,
+
+{
+"urlAlias":"wonder-pets-save-the-day",	
+"featured":"",	
+"title":"Wonder Pets! Save the Day Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/wond_mission/GamesFinder/wonder-pets-save-the-day-thumb.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/wond_mission/kids-game-promo.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/wonder-pets-save-the-day.html", 
+"datePosted":"Fri Jul 12 00:00:00 EDT 2002", 
+"numViews":"34634"
+}
+,
+
+{
+"urlAlias":"doras-city-adventure",	
+"featured":"",	
+"title":"Dora's City Adventure Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dora_city_adventure/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dora_city_adventure/kids-game-promo.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/doras-city-adventure.html", 
+"datePosted":"Thu May 22 00:00:00 EDT 2008", 
+"numViews":"37298"
+}
+,
+
+{
+"urlAlias":"niha-apple-surprise",	
+"featured":"",	
+"title":"Kai-lan's Super Apple Surprise", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/niha_apple_surprise/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/niha_apple_surprise/kids-game-promo.jpg",
+"link":":https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/niha-apple-surprise.html", 
+"datePosted":"Thu May 22 00:00:00 EDT 2008", 
+"numViews":"37298"
+}
+
+]
+}
+]
+}
+}
