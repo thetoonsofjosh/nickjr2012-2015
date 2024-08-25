@@ -1,0 +1,82 @@
+
+{
+"config":{
+"debug":{"showName":"ni-hao-kai-lan"},
+"promoSounds":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/promos/global-promo-sounds.swf",
+"buttons":[
+{
+"localConnectionId":"ShowLogo",
+"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/showlogos/NiHaoKailan.swf", 
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids/ni-hao-kai-lan/",
+"position":{"x":"40","y":"52"}	
+}
+],
+"promos":[
+{
+"loader":{"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/loaders/asset-loader.swf","position":{"x":"70","y":"220"}},
+"classId":"MoreGamesPromo",
+"localConnectionId":"MoreGamesPromo",
+"urlAlias":"",
+"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/promos/listing/moreGames.swf",
+"position":{"x":"0","y":"0"},
+"allLink":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/ni-hao-kai-lan/",
+"items":[
+
+
+{
+"urlAlias":"ladybug-festival-adventure",	
+"featured":"",	
+"title":"Kai-lan Ladybug Adventure Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/niha_ladybug/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/niha_ladybug/kids-game-promo.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/ladybug-festival-adventure.html", 
+"datePosted":"Wed Jan 19 00:00:00 EST 2011", 
+"numViews":"1"
+}
+
+,
+
+{
+"urlAlias":"umi-grand-prix",	
+"featured":"",	
+"title":"Umi Grand Prix Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/umiz_grand_prix/GamesFinder/umi-grand-prix-thumb.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/umiz_grand_prix/umi-grand-prix-kids-game-new-promo.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/umi-grand-prix.html", 
+"datePosted":"Wed Sep 25 00:00:00 EDT 2013", 
+"numViews":"1"
+}
+
+,
+
+{
+"urlAlias":"diego-hippo-adventure",	
+"featured":"",	
+"title":"Diego's Hippopotamus Adventure", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dieg_hippo_adventure/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dieg_hippo_adventure/kids-game-promo.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/diego-hippo-adventure.html", 
+"datePosted":"Thu May 22 00:00:00 EDT 2008", 
+"numViews":"37298"
+}
+
+,
+
+{
+"urlAlias":"munos-volcano-volleyball",	
+"featured":"",	
+"title":"Muno's Volcano Volleyball", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/yoga_muno_volleyball/GamesFinder/thumbnail.jpg",
+"promoImage":"",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/munos-volcano-volleyball.html", 
+"datePosted":"Fri Jul 13 00:00:00 EDT 2012", 
+"numViews":"34634"
+}
+
+
+
+]
+}
+]
+}
+}

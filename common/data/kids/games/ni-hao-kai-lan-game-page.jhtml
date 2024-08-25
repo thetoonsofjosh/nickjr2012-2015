@@ -1,0 +1,82 @@
+
+{
+"config":{
+"debug":{"showName":"ni-hao-kai-lan"},
+"promoSounds":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/promos/global-promo-sounds.swf",
+"buttons":[
+{
+"localConnectionId":"ShowLogo",
+"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/showlogos/NiHaoKailan.swf", 
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids/ni-hao-kai-lan/",
+"position":{"x":"40","y":"52"}	
+}
+],
+"promos":[
+{
+"loader":{"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/loaders/asset-loader.swf","position":{"x":"70","y":"220"}},
+"classId":"MoreGamesPromo",
+"localConnectionId":"MoreGamesPromo",
+"urlAlias":"",
+"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/promos/listing/moreGames.swf",
+"position":{"x":"0","y":"0"},
+"allLink":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/ni-hao-kai-lan/",
+"items":[
+
+
+{
+"urlAlias":"kai-lans-puddle-hop",	
+"featured":"",	
+"title":"Kai-lan's Puddle Hop!", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/niha_kailan_puddle/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/niha_kailan_puddle/kids-game-promo.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/kai-lans-puddle-hop.html", 
+"datePosted":"Wed Jan 19 00:00:00 EST 2011", 
+"numViews":"1"
+}
+
+,
+
+{
+"urlAlias":"max-and-ruby-figure-skating",	
+"featured":"",	
+"title":"Figure Skating Max &amp; Ruby Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/maxr_skating/GamesFinder/maxr_skating-thumb.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/maxr_skating/kids-game-promo.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/ladybug-festival-adventure.html", 
+"datePosted":"Wed Nov 17 00:00:00 EST 2010", 
+"numViews":"1"
+}
+
+,
+
+{
+"urlAlias":"dora-we-are-thankful",	
+"featured":"",	
+"title":"Dora's Thankful Old Troll Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dora_we_are_thankful/GamesFinder/dora-we-are-thankful-thumb.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dora_we_are_thankful/GamesFinder/dora-we-are-thankful-kids-game-promo.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/dora-we-are-thankful.html", 
+"datePosted":"Thu May 22 00:00:00 EDT 2008", 
+"numViews":"37298"
+}
+
+,
+
+{
+"urlAlias":"bubble-guppies-lonely-rhino",	
+"featured":"",	
+"title":"Guppies Friend Finders Game!", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/bubb_rhino/GamesFinder/bg-lonely-rhino-friend-finders-thumb.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/bubb_rhino/kids-game-promo.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/bubble-guppies-lonely-rhino.html", 
+"datePosted":"Fri Jul 13 00:00:00 EDT 2012", 
+"numViews":"34634"
+}
+
+
+
+]
+}
+]
+}
+}

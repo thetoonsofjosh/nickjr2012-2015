@@ -1,0 +1,82 @@
+
+{
+"config":{
+"debug":{"showName":"ni-hao-kai-lan"},
+"promoSounds":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/promos/global-promo-sounds.swf",
+"buttons":[
+{
+"localConnectionId":"ShowLogo",
+"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/showlogos/NiHaoKailan.swf", 
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids/ni-hao-kai-lan/",
+"position":{"x":"40","y":"52"}	
+}
+],
+"promos":[
+{
+"loader":{"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/loaders/asset-loader.swf","position":{"x":"70","y":"220"}},
+"classId":"MoreGamesPromo",
+"localConnectionId":"MoreGamesPromo",
+"urlAlias":"",
+"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/promos/listing/moreGames.swf",
+"position":{"x":"0","y":"0"},
+"allLink":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/ni-hao-kai-lan/",
+"items":[
+
+
+{
+"urlAlias":"tolees-bamboo-bounce",	
+"featured":"",	
+"title":"Tolee's Bamboo Bounce!", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/niha_tolee_bamboo//GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/niha_tolee_bamboo//kids-game-promo.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/tolees-bamboo-bounce.html", 
+"datePosted":"Fri Oct 08 00:00:00 EST 2010", 
+"numViews":"1"
+}
+
+,
+
+{
+"urlAlias":"diego-ultimate-rescue",	
+"featured":"",	
+"title":"Diego's Ultimate Rescue Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dieg_ultimate/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dieg_ultimate/kids-game-promo.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/diego-ultimate-rescue.html", 
+"datePosted":"Wed Sep 15 00:00:00 EDT 2010", 
+"numViews":"1"
+}
+
+,
+
+{
+"urlAlias":"olivia-deep",	
+"featured":"",	
+"title":"Olivia of the Deep Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/oliv_deep/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/oliv_deep/kids-game-promo.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/olivia-deep.html", 
+"datePosted":"Thu May 22 00:00:00 EDT 2008", 
+"numViews":"37298"
+}
+
+,
+
+{
+"urlAlias":"dora-birthday-adventure",	
+"featured":"",	
+"title":"Big Birthday Adventure Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dora_birthday/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dora_birthday/kids-game-promo.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/dora-birthday-adventure.html", 
+"datePosted":"Mon Aug 06 00:00:00 EDT 2012", 
+"numViews":"34634"
+}
+
+
+
+]
+}
+]
+}
+}
