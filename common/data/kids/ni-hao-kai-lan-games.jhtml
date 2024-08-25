@@ -1,0 +1,202 @@
+{
+"config":{
+"music":{
+"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/music/silent-show-loop.swf",
+"volume":"0.3",
+"fadeAfter":"30"
+},
+"animation":{
+"loader":{"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/loaders/general-loader.swf"},
+"urlAlias":"kids-ni-hao-kai-lan",
+"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/main-content/kailan-show-landing.swf",
+"classId":"GameListAnimation"
+},
+"promoSounds":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/promos/global-promo-sounds.swf",
+"promos":[
+
+{
+"loader":{"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/loaders/asset-loader.swf","position":{"x":"75","y":"35"}},
+"classId":"ShowGamesListPromo",
+"localConnectionId":"ShowGameListPromo",
+"urlAlias":"kids-ni-hao-kai-lan",
+"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/promos/listing/showGames.swf",
+
+"position":{"x":"316","y":"0"},
+
+"allLink":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/ni-hao-kai-lan/",
+"items":[
+
+{
+"urlAlias":"ni-hao-kai-lan-lanterns",	
+"featured":"",	
+"title":"Ni-Hao, Kai-lan Lanterns Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/niha_paper_lanterns/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/niha_paper_lanterns/kids-game-promo.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/ni-hao-kai-lan-lanterns.html", 
+"datePosted":"Tue Jul 05 00:00:00 EDT 2011", 
+"numViews":"36211"
+}
+
+,
+
+{
+"urlAlias":"kailan-super-snow-dragon",	
+"featured":"",	
+"title":"Kai-lan Super Snow Dragon Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/niha_supersnowdragon/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/niha_supersnowdragon/kids-game-promo.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/kailan-super-snow-dragon.html", 
+"datePosted":"Wed Jan 19 00:00:00 EST 2011", 
+"numViews":"1"
+}
+
+,
+
+{
+"urlAlias":"ladybug-festival-adventure",	
+"featured":"",	
+"title":"Kai-lan Ladybug Adventure Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/niha_ladybug/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/niha_ladybug/kids-game-promo.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/ladybug-festival-adventure.html", 
+"datePosted":"Wed Nov 17 00:00:00 EST 2010", 
+"numViews":"1"
+}
+
+,
+
+{
+"urlAlias":"kai-lan-matching",	
+"featured":"",	
+"title":"Kai-Lan's Super Matching Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/niha_princess/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/niha_princess/kids-game-promo.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/kai-lan-matching.html", 
+"datePosted":"Fri Oct 08 00:00:00 EDT 2010", 
+"numViews":"14799"
+}
+
+,
+
+{
+"urlAlias":"kai-lans-puddle-hop",	
+"featured":"",	
+"title":"Kai-lan's Puddle Hop!", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/niha_kailan_puddle/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/niha_kailan_puddle/kids-game-promo.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/kai-lans-puddle-hop.html", 
+"datePosted":"Fri Oct 08 00:00:00 EDT 2010", 
+"numViews":"14799"
+}
+
+,
+
+{
+"urlAlias":"ants-adventure",	
+"featured":"",	
+"title":"The Ants' Adventure", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/niha_ants/Gamesfinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/niha_ants/kids-game-promo.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/ants-adventure.html", 
+"datePosted":"Wed Sep 16 00:00:00 EDT 2009", 
+"numViews":"1"
+}
+
+,
+
+{
+"urlAlias":"kailan-great-trip-to-china",	
+"featured":"",	
+"title":"Kai-lan's Trip to China Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/niha_chinatrip/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/niha_chinatrip/kids-game-promo.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/kailan-great-trip-to-china.html", 
+"datePosted":"Tue Aug 04 00:00:00 EDT 2009", 
+"numViews":"1"
+}
+
+,
+
+{
+"urlAlias":"meet-the-baby-panda",	
+"featured":"",	
+"title":"It's Playtime With a Baby Panda", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/niha_panda/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/niha_panda/kids-game-promo.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/meet-the-baby-panda.html", 
+"datePosted":"Tue Jul 21 00:00:00 EDT 2009", 
+"numViews":"8"
+}
+
+,
+
+{
+"urlAlias":"tolees-bamboo-bounce",	
+"featured":"",	
+"title":"Tolee's Bamboo Bounce!", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/niha_tolee_bamboo//GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/niha_tolee_bamboo//kids-game-promo.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/tolees-bamboo-bounce.html", 
+"datePosted":"Fri Oct 08 00:00:00 EDT 2010", 
+"numViews":"14799"
+}
+
+
+,
+
+{
+"urlAlias":"niha-apple-surprise",	
+"featured":"",	
+"title":"Kai-lan's Super Apple Surprise", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/niha_apple_surprise/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/niha_apple_surprise/kids-game-promo.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/niha-apple-surprise.html", 
+"datePosted":"Thu Apr 30 00:00:00 EDT 2009", 
+"numViews":"43"
+}
+
+,
+
+{
+"urlAlias":"niha-chinese-new-year",	
+"featured":"",	
+"title":"Chinese New Year Coin Catch", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/niha_chinese_new_year/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/niha_chinese_new_year/kids-game-promo.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/niha-chinese-new-year.html", 
+"datePosted":"Wed Jan 14 00:00:00 EST 2009", 
+"numViews":"23"
+}
+
+
+,
+
+{
+"urlAlias":"rintoos-dragon-boat-race",	
+"featured":"",	
+"title":"Rintoo's Dragon Boat Race!", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/niha_rintoo_boat/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/niha_rintoo_boat/kids-game-promo.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/rintoos-dragon-boat-race.html", 
+"datePosted":"Wed Nov 12 00:00:00 EST 2008", 
+"numViews":"14799"
+}
+
+,
+
+{
+"urlAlias":"niha-dj-hohos-dance-party",	
+"featured":"",	
+"title":"DJ Hoho's Dance Party", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/niha_djhoho/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/niha_djhoho/kids-game-promo.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/niha-dj-hohos-dance-party.html", 
+"datePosted":"Wed Nov 12 00:00:00 EST 2008", 
+"numViews":"1"
+}
+
+]
+}
+]
+}
+}
