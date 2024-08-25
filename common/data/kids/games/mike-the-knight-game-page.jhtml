@@ -6,7 +6,7 @@
 {
 "localConnectionId":"ShowLogo",
 "path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/showlogos/MikeKnight.swf", 
-"link":"/kids/mike-the-knight/",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids/mike-the-knight/",
 "position":{"x":"40","y":"52"}	
 }
 ],
@@ -23,12 +23,12 @@
 
 
 {
-"urlAlias":"mike-the-knight-galahads-gallop",	
+"urlAlias":"mike-the-knight-viking-bounce",	
 "featured":"",	
-"title":"Mike's Galahad Gallop Game", 
-"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/mtk_gallahads_gallop/GamesFinder/mike-the-knight-galahads-gallop-thumb.jpg",
-"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/mtk_gallahads_gallop/GamesFinder/mike-the-knight-galahads-gallop-thumb.jpg",
-"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/mike-the-knight-galahads-gallop.html", 
+"title":"Mike the Knight Viking Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/mtk_viking_bounce/GamesFinder/mike-the-knight-viking-bounce-thumb.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/mtk_viking_bounce/GamesFinder/mike-the-knight-viking-bounce-thumb.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/mike-the-knight-viking-bounce.html", 
 "datePosted":"Thu May 22 00:00:00 EDT 2008", 
 "numViews":"37298"
 }
