@@ -1,0 +1,78 @@
+{
+"config":{
+"debug":{"showName":"the-backyardigans"},
+"promoSounds":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/promos/global-promo-sounds.swf",
+"buttons":[
+{
+"localConnectionId":"ShowLogo",
+"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/showlogos/Backyardigans.swf", 
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids/the-backyardigans/",
+"position":{"x":"40","y":"52"}	
+}
+],
+"promos":[
+{
+"loader":{"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/loaders/asset-loader.swf","position":{"x":"70","y":"220"}},
+"classId":"MoreGamesPromo",
+"localConnectionId":"MoreGamesPromo",
+"urlAlias":"",
+"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/promos/listing/moreGames.swf",
+"position":{"x":"0","y":"0"},
+"allLink":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/the-backyardigans/",
+"items":[
+
+
+{
+"urlAlias":"backyardigans-mighty-knights",	
+"featured":"",	
+"title":"Tale of the Mighty Knights Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/back_mighty_knights/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/back_mighty_knights/GamesFinder/backyardigans-mighty-knights2.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/backyardigans-tale-mighty-knight.html", 
+"datePosted":"Thu May 22 00:00:00 EDT 2008", 
+"numViews":"2814"
+}
+
+,
+
+{
+"urlAlias":"doras-great-big-world-game",	
+"featured":"",	
+"title":"Dora's Great Big World Game", 
+"thumbnail":"/game/assets/dora_greatbigworld/GamesFinder/thumbnail.jpg",
+"promoImage":"/game/assets/dora_greatbigworld/GamesFinder/kids-game-promo.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/doras-great-big-world-game.html", 
+"datePosted":"Wed Oct 3 00:00:00 EST 2012", 
+"numViews":"37298"
+}
+
+,
+
+{
+"urlAlias":"wonder-pets-save-the-day",	
+"featured":"",	
+"title":"Wonder Pets! Save the Day Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/wond_mission/GamesFinder/wonder-pets-save-the-day-thumb.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/wond_mission/kids-game-promo.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/wonder-pets-save-the-day.html", 
+"datePosted":"Thu May 22 00:00:00 EDT 2008", 
+"numViews":"37298"
+}
+
+,
+
+{
+"urlAlias":"color-things-that-go",	
+"featured":"",	
+"title":"Color Things That Go", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/orig_colorthingsgo/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/orig_colorthingsgo/kids-game-promo.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/color-things-that-go.html", 
+"datePosted":"Thu May 22 00:00:00 EDT 2008", 
+"numViews":"37298"
+}
+]
+}
+]
+}
+}

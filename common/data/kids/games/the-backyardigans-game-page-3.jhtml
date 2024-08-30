@@ -1,0 +1,78 @@
+{
+"config":{
+"debug":{"showName":"the-backyardigans"},
+"promoSounds":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/promos/global-promo-sounds.swf",
+"buttons":[
+{
+"localConnectionId":"ShowLogo",
+"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/showlogos/Backyardigans.swf", 
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids/the-backyardigans/",
+"position":{"x":"40","y":"52"}	
+}
+],
+"promos":[
+{
+"loader":{"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/loaders/asset-loader.swf","position":{"x":"70","y":"220"}},
+"classId":"MoreGamesPromo",
+"localConnectionId":"MoreGamesPromo",
+"urlAlias":"",
+"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/promos/listing/moreGames.swf",
+"position":{"x":"0","y":"0"},
+"allLink":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/the-backyardigans/",
+"items":[
+
+
+{
+"urlAlias":"backyardigans-halloween-dressup",	
+"featured":"",	
+"title":"Trick-or-Treat Dress-Up Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/back_halloween/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/back_halloween/GamesFinder/backyardigans-halloween-dressup1.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/backyardigans-halloween-dressup.html", 
+"datePosted":"Thu May 22 00:00:00 EDT 2008", 
+"numViews":"2814"
+}
+
+,
+
+{
+"urlAlias":"doras-pegasus-adventure-game",	
+"featured":"",	
+"title":"Dora's Pegaso Game", 
+"thumbnail":"/game/assets/dora_pegasus_adventure/GamesFinder/thumbnail.jpg",
+"promoImage":"/game/assets/dora_pegasus_adventure/GamesFinder/kids-game-promo.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/doras-pegasus-adventure-game.html", 
+"datePosted":"Wed Sep 04 00:00:00 EDT 2013", 
+"numViews":"37298"
+}
+
+,
+
+{
+"urlAlias":"diego-ultimate-rescue",	
+"featured":"",	
+"title":"Diego's Ultimate Rescue Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dieg_ultimate/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dieg_ultimate/kids-game-promo.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/diego-ultimate-rescue.html", 
+"datePosted":"Thu May 22 00:00:00 EDT 2008", 
+"numViews":"37298"
+}
+
+,
+
+{
+"urlAlias":"hide-and-seek-with-milli",	
+"featured":"",	
+"title":"Milli's Hide &amp; Seek Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/umiz_milli_mini/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/umiz_milli_mini/kids-game-promo.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/hide-and-seek-with-milli.html", 
+"datePosted":"Thu May 27 00:00:00 EDT 2010", 
+"numViews":"37298"
+}
+]
+}
+]
+}
+}

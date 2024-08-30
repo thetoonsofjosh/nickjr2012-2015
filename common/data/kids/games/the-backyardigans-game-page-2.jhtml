@@ -1,0 +1,78 @@
+{
+"config":{
+"debug":{"showName":"the-backyardigans"},
+"promoSounds":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/promos/global-promo-sounds.swf",
+"buttons":[
+{
+"localConnectionId":"ShowLogo",
+"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/showlogos/Backyardigans.swf", 
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids/the-backyardigans/",
+"position":{"x":"40","y":"52"}	
+}
+],
+"promos":[
+{
+"loader":{"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/loaders/asset-loader.swf","position":{"x":"70","y":"220"}},
+"classId":"MoreGamesPromo",
+"localConnectionId":"MoreGamesPromo",
+"urlAlias":"",
+"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/promos/listing/moreGames.swf",
+"position":{"x":"0","y":"0"},
+"allLink":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/the-backyardigans/",
+"items":[
+
+
+{
+"urlAlias":"back-robin-hood-the-clean",	
+"featured":"",	
+"title":"Robin Hood the Clean", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/back_robinhood/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/back_robinhood/GamesFinder/back-robinhood-01.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/back-robin-hood-the-clean.html", 
+"datePosted":"Thu May 22 00:00:00 EDT 2008", 
+"numViews":"2814"
+}
+
+,
+
+{
+"urlAlias":"fresh-beat-band-concert-maker",	
+"featured":"",	
+"title":"Hip Hop &amp; Pop Concert Maker", 
+"thumbnail":"/game/assets/fres_concert_maker/GamesFinder/fres-concert-maker-thumb.jpg",
+"promoImage":"/game/assets/fres_concert_maker/kids-game-promo.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/fresh-beat-band-concert-maker.html", 
+"datePosted":"Wed Oct 3 00:00:00 EST 2012", 
+"numViews":"37298"
+}
+
+,
+
+{
+"urlAlias":"max-and-ruby-figure-skating",	
+"featured":"",	
+"title":"Figure Skating Max &amp; Ruby Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/maxr_skating/GamesFinder/maxr_skating-thumb.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/maxr_skating/kids-game-promo.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/max-and-ruby-figure-skating.html", 
+"datePosted":"Thu May 22 00:00:00 EDT 2008", 
+"numViews":"37298"
+}
+
+,
+
+{
+"urlAlias":"dora-we-are-thankful",	
+"featured":"",	
+"title":"Dora's Thankful Old Troll Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dora_we_are_thankful/GamesFinder/dora-we-are-thankful-thumb.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dora_we_are_thankful/GamesFinder/dora-we-are-thankful-kids-game-promo.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/dora-we-are-thankful.html", 
+"datePosted":"Fri Nov 01 00:00:00 EDT 2012", 
+"numViews":"37298"
+}
+]
+}
+]
+}
+}
