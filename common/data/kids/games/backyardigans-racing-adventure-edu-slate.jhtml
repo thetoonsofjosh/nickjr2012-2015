@@ -1,0 +1,34 @@
+{	
+"config":{
+"buttons":[
+{
+"localConnectionId":"ShowLogo",
+"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/showlogos/Backyardigans.swf", 
+"position":{"x":"298","y":"17"}	
+}
+],
+"preloader":{
+"eduslate":{
+"slate":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/loaders/edu-slate.swf", 
+"title":"The Backyardigans Racing Adventure", 
+"audio":"/dynaboss", 
+"displayTime":"8",
+"icons":[
+
+{
+"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/finder/game/assets/badges/large/read.png", 
+"title":"READ with us"	
+}
+
+,
+{
+"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/finder/game/assets/badges/large/count.png", 
+"title":"COUNT with us"	
+}
+
+]	
+}
+}
+}
+}	
+
