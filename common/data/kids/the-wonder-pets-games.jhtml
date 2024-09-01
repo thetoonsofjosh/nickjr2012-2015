@@ -1,0 +1,136 @@
+{
+"config":{
+"music":{
+"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/music/silent-show-loop.swf",
+"volume":"0.3",
+"fadeAfter":"30"
+},
+"animation":{
+"loader":{"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/loaders/general-loader.swf"},
+"urlAlias":"kids-the-wonderpets",
+"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/main-content/wonderpets-show-landing.swf",
+"classId":"GameListAnimation"
+},
+"promoSounds":"/nickjr20122015/dynaboss/flash/kids/promos/global-promo-sounds.swf",
+"promos":[
+
+{
+"loader":{"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/loaders/asset-loader.swf","position":{"x":"75","y":"35"}},
+"classId":"ShowGamesListPromo",
+"localConnectionId":"ShowGameListPromo",
+"urlAlias":"kids-the-wonderpets",
+"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/promos/listing/showGames.swf",
+
+"position":{"x":"316","y":"0"},
+
+"allLink":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/the-wonder-pets/",
+"items":[
+
+{
+"urlAlias":"wond-holiday-treats-mouse-king",	
+"featured":"",	
+"title":"Wonder Pets Holiday Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/wond_mouseking/GamesFinder/wond_mouseking-thumb.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/wond_mouseking/GamesFinder/wond_mouseking-kids-game-promo.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/wond-holiday-treats-mouse-king.html", 
+"datePosted":"Mon Dec 23 00:00:00 EST 2013", 
+"numViews":"53438"
+}
+
+,
+
+{
+"urlAlias":"adventures-in-wonderland",	
+"featured":"",	
+"title":"Adventures in Wonderland", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/wond_wonderland/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/wond_wonderland/kids-game-promo.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/adventures-in-wonderland.html", 
+"datePosted":"Wed Aug 22 00:00:00 EDT 2012", 
+"numViews":"35867"
+}
+
+,
+
+{
+"urlAlias":"wonder-pets-save-the-day",	
+"featured":"",	
+"title":"Wonder Pets! Save the Day Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/wond_mission/GamesFinder/wonder-pets-save-the-day-thumb.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/wond_mission/kids-game-promo.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/wonder-pets-save-the-day.html", 
+"datePosted":"Wed Mar 07 00:00:00 EST 2012", 
+"numViews":"44147"
+}
+
+,
+
+{
+"urlAlias":"wonder-pets-save-the-circus",	
+"featured":"",	
+"title":"Wonder Pets Join the Circus", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/wond_circus/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/wond_circus/kids-game-promo.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/wonder-pets-save-the-circus.html", 
+"datePosted":"Tue Feb 24 00:00:00 EST 2009", 
+"numViews":"1"
+}
+
+,
+
+{
+"urlAlias":"wonder-pets-bengal-tigers-bash",	
+"featured":"",	
+"title":"Wonder Pets Bengal Tiger's Bash", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/wond_bengaltiger/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/wond_bengaltiger/kids-game-promo.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/wonder-pets-bengal-tigers-bash.html", 
+"datePosted":"Wed Aug 13 00:00:00 EDT 2008", 
+"numViews":"5"
+}
+
+,
+
+{
+"urlAlias":"wonder-pets-phone-game",	
+"featured":"",	
+"title":"Wonder Pets! Phone Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/wond_telephone/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/wond_telephone/kids-game-promo.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/wonder-pets-phone-game.html", 
+"datePosted":"Thu May 22 00:00:00 EDT 2008", 
+"numViews":"37298"
+}
+
+,
+
+{
+"urlAlias":"wonder-pets-dinosaur",	
+"featured":"",	
+"title":"Wonder Pets Save a Baby Dinosaur", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/wond_dinosaur/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/wond_dinosaur/kids-game-promo.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/wonder-pets-save-a-dinosaur.html", 
+"datePosted":"Tue Feb 24 00:00:00 EST 2009", 
+"numViews":"1"
+}
+
+,
+
+{
+"urlAlias":"wonder-pets-sea-creatures",	
+"featured":"",	
+"title":"Wonder Pets Save The Sea Creatures", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/wond_sea_creatures/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/wond_sea_creatures/kids-game-promo.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/wonder-pets-save-sea-creatures.html", 
+"datePosted":"Wed Aug 13 00:00:00 EDT 2008", 
+"numViews":"5"
+
+}
+
+]
+}
+]
+}
+}
