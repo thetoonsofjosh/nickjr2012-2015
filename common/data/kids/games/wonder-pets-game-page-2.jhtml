@@ -1,0 +1,80 @@
+{
+"config":{
+"debug":{"showName":"the-wonder-pets"},
+"promoSounds":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/promos/global-promo-sounds.swf",
+"buttons":[
+{
+"localConnectionId":"ShowLogo",
+"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/showlogos/WonderPets.swf", 
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids/the-wonder-pets/",
+"position":{"x":"40","y":"52"}	
+}
+],
+"promos":[
+{
+"loader":{"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/loaders/asset-loader.swf","position":{"x":"70","y":"220"}},
+"classId":"MoreGamesPromo",
+"localConnectionId":"MoreGamesPromo",
+"urlAlias":"",
+"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/promos/listing/moreGames.swf",
+"position":{"x":"0","y":"0"},
+"allLink":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/the-wonder-pets/",
+"items":[
+
+{
+"urlAlias":"wonder-pets-phone-game",	
+"featured":"",	
+"title":"Wonder Pets! Phone Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/wond_telephone/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/wond_telephone/kids-game-promo.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/wonder-pets-phone-game.html", 
+"datePosted":"Wed Aug 13 00:00:00 EDT 2008", 
+"numViews":"5"
+}
+
+,
+
+{
+"urlAlias":"backyardigans-pirate-adventure",	
+"featured":"",	
+"title":"Backyardigans Pirate Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/back_pirateadv/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/back_pirateadv/kids-game-promo.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/backyardigans-pirate-adventure.html", 
+"datePosted":"Mon Jun 03 00:00:00 EDT 2013", 
+"numViews":"1"
+}
+
+,
+
+{
+"urlAlias":"umi-city-mighty-math-missions",	
+"featured":"",	
+"title":"Umi City: Mighty Missions Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/umiz_city/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/umiz_city/GamesFinder/umiz-city-01.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/umi-city-mighty-math-missions.html", 
+"datePosted":"Wed May 22 00:00:00 EDT 2013", 
+"numViews":"37298"
+}
+
+,
+
+{
+"urlAlias":"diegos-fiercest-animals",	
+"featured":"",	
+"title":"Diego's Fiercest Animals Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dieg_fiercest_animals/GamesFinder/diego-fiercest-animals-thumb.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dieg_fiercest_animals/kids-game-promo.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/diegos-fiercest-animals.html", 
+"datePosted":"Wed Mar 06 00:00:00 EST 2013", 
+"numViews":"37298"
+}
+
+
+
+]
+}
+]
+}
+}

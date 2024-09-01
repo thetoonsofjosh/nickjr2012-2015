@@ -1,0 +1,80 @@
+{
+"config":{
+"debug":{"showName":"the-wonder-pets"},
+"promoSounds":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/promos/global-promo-sounds.swf",
+"buttons":[
+{
+"localConnectionId":"ShowLogo",
+"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/showlogos/WonderPets.swf", 
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids/the-wonder-pets/",
+"position":{"x":"40","y":"52"}	
+}
+],
+"promos":[
+{
+"loader":{"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/loaders/asset-loader.swf","position":{"x":"70","y":"220"}},
+"classId":"MoreGamesPromo",
+"localConnectionId":"MoreGamesPromo",
+"urlAlias":"",
+"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/promos/listing/moreGames.swf",
+"position":{"x":"0","y":"0"},
+"allLink":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/the-wonder-pets/",
+"items":[
+
+{
+"urlAlias":"adventures-in-wonderland",	
+"featured":"",	
+"title":"Adventures in Wonderland", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/wond_wonderland/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/wond_wonderland/kids-game-promo.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/adventures-in-wonderland.html", 
+"datePosted":"Wed Aug 22 00:00:00 EDT 2012", 
+"numViews":"5"
+}
+
+,
+
+{
+"urlAlias":"doras-royal-rescue",	
+"featured":"",	
+"title":"Dora's Royal Rescue Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dora_royal_rescue/GamesFinder/dora-royal-rescue-thumb.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dora_royal_rescue/dora-royal-rescue-kids-game-promo-new.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/doras-royal-rescue.html", 
+"datePosted":"Wed Oct 17 00:00:00 EDT 2012", 
+"numViews":"1"
+}
+
+,
+
+{
+"urlAlias":"umi-city-mighty-math-missions",	
+"featured":"",	
+"title":"Umi City: Mighty Missions Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/umiz_city/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/umiz_city/GamesFinder/umiz-city-01.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/umi-city-mighty-math-missions.html", 
+"datePosted":"Wed May 22 00:00:00 EDT 2013", 
+"numViews":"37298"
+}
+
+,
+
+{
+"urlAlias":"fresh-beats-freezy-smoothies",	
+"featured":"",	
+"title":"Fresh Beat Freezy Smoothie Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/fres_freeze_dance/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/fres_freeze_dance/kids-game-promo.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/fresh-beats-freezy-smoothies.html", 
+"datePosted":"Wed Feb 15 00:00:00 EST 2012", 
+"numViews":"37298"
+}
+
+
+
+]
+}
+]
+}
+}

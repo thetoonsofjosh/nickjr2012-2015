@@ -1,0 +1,80 @@
+{
+"config":{
+"debug":{"showName":"the-wonder-pets"},
+"promoSounds":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/promos/global-promo-sounds.swf",
+"buttons":[
+{
+"localConnectionId":"ShowLogo",
+"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/showlogos/WonderPets.swf", 
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids/the-wonder-pets/",
+"position":{"x":"40","y":"52"}	
+}
+],
+"promos":[
+{
+"loader":{"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/loaders/asset-loader.swf","position":{"x":"70","y":"220"}},
+"classId":"MoreGamesPromo",
+"localConnectionId":"MoreGamesPromo",
+"urlAlias":"",
+"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/promos/listing/moreGames.swf",
+"position":{"x":"0","y":"0"},
+"allLink":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/the-wonder-pets/",
+"items":[
+
+{
+"urlAlias":"wonder-pets-sea-creatures",	
+"featured":"",	
+"title":"Wonder Pets Save Sea Creatures", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/wond_sea_creatures/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/wond_sea_creatures/kids-game-promo.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/wonder-pets-save-sea-creatures.html", 
+"datePosted":"Wed Aug 13 00:00:00 EDT 2008", 
+"numViews":"5"
+}
+
+,
+
+{
+"urlAlias":"umi-cops",	
+"featured":"",	
+"title":"The Stinky Dozen", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/umiz_umicops/GamesFinder/umi_cops-thumb.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/umiz_umicops/GamesFinder/umi_cops-kids-game-promo-new.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/umi-cops.html", 
+"datePosted":"Wed Jun 11 00:00:00 EDT 2014", 
+"numViews":"1"
+}
+
+,
+
+{
+"urlAlias":"doras-pony-adventure",	
+"featured":"",	
+"title":"Dora's Pony Adventure Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dora_pony/Gamesfinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dora_pony/kids-game-promo.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/doras-pony-adventure.html", 
+"datePosted":"Fri Sep 7 00:00:00 EST 2012", 
+"numViews":"37298"
+}
+
+,
+
+{
+"urlAlias":"paw-pups-save-the-day",	
+"featured":"",	
+"title":"Pups Save the Day", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/paw_pups_save_the_day/GamesFinder/paw_pups_save_the_day-thumb.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/paw_pups_save_the_day/GamesFinder/paw_pups_save_the_day-kids-game-promo-new.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/paw-pups-save-the-day.html", 
+"datePosted":"Wed Dec 18 00:00:00 EST 2013", 
+"numViews":"37298"
+}
+
+
+
+]
+}
+]
+}
+}
