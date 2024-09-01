@@ -1,0 +1,44 @@
+
+{	
+"config":{
+"buttons":[
+{
+"localConnectionId":"ShowLogo",
+"path":"/nickjr20122015/dynaboss/flash/kids/showlogos/GoDiegoGo.swf", 
+"position":{"x":"298","y":"17"}	
+}
+],
+"preloader":{
+"eduslate":{
+"slate":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/loaders/edu-slate.swf", 
+"title":"Diego's Dinosaur Adventure", 
+"audio":"/dynaboss", 
+"displayTime":"8",
+"icons":[
+
+{
+"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/finder/game/assets/badges/large/explore.png", 
+"title":"EXPLORE with us"	
+}
+
+,
+{
+"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/finder/game/assets/badges/large/discover.png", 
+"title":"DISCOVER with us"	
+}
+
+,
+{
+"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/finder/game/assets/badges/large/read.png", 
+"title":"READ with us"	
+}
+
+
+
+
+]	
+}
+}
+}
+}	
+
