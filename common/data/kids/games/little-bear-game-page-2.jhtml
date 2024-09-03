@@ -1,0 +1,78 @@
+{
+"config":{
+"debug":{"showName":"little-bear"},
+"promoSounds":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/promos/global-promo-sounds.swf",
+"buttons":[
+{
+"localConnectionId":"ShowLogo",
+"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/showlogos/LittleBear.swf", 
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids/little-bear/",
+"position":{"x":"40","y":"52"}	
+}
+],
+"promos":[
+{
+"loader":{"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/loaders/asset-loader.swf","position":{"x":"70","y":"220"}},
+"classId":"MoreGamesPromo",
+"localConnectionId":"MoreGamesPromo",
+"urlAlias":"",
+"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/promos/listing/moreGames.swf",
+"position":{"x":"0","y":"0"},
+"allLink":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/little-bear/",
+"items":[
+
+{
+"urlAlias":"little-bears-dress-up",	
+"featured":"",	
+"title":"Little Bear's Dress-Up", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/bear_dressup/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/bear_dressup/kids-game-promo.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/little-bears-dress-up.html", 
+"datePosted":"Thu May 22 00:00:00 EDT 2008", 
+"numViews":"37298"
+}
+
+,
+
+{
+"urlAlias":"dora-we-are-thankful",	
+"featured":"false",	
+"title":"Dora's Thankful Old Troll Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dora_we_are_thankful/GamesFinder/dora-we-are-thankful-thumb.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dora_we_are_thankful/GamesFinder/dora-we-are-thankful-kids-game-promo.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/dora-we-are-thankful.html", 
+"datePosted":"Wed May 22 00:00:00 EDT 2013", 
+"numViews":"528715"
+}
+
+,
+
+{
+"urlAlias":"diegos-dino-flyer-rescue",	
+"featured":"",	
+"title":"Diego's Dino Flyer Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dieg_dinoflyer/GamesFinder/diegos-dino-flyer-rescue-thumb.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dieg_dinoflyer/kids-game-promo.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/diegos-dino-flyer-rescue.html", 
+"datePosted":"Mon Jun 02 00:00:00 EST 2014", 
+"numViews":"37298"
+}
+
+
+,
+
+{
+"urlAlias":"purple-monkey-rescue",	
+"featured":"",	
+"title":"Purple Monkey Rescue Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/umiz_purple_monkey/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/umiz_purple_monkey/kids-game-promo.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/purple-monkey-rescue.html", 
+"datePosted":"Wed May 04 00:00:00 EST 2011", 
+"numViews":"37298"
+}
+]
+}
+]
+}
+}
