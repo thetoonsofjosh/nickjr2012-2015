@@ -1,0 +1,78 @@
+{
+"config":{
+"debug":{"showName":"little-bill"},
+"promoSounds":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/promos/global-promo-sounds.swf",
+"buttons":[
+{
+"localConnectionId":"ShowLogo",
+"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/showlogos/LittleBill.swf", 
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids/little-bill/",
+"position":{"x":"40","y":"52"}	
+}
+],
+"promos":[
+{
+"loader":{"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/loaders/asset-loader.swf","position":{"x":"70","y":"220"}},
+"classId":"MoreGamesPromo",
+"localConnectionId":"MoreGamesPromo",
+"urlAlias":"",
+"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/promos/listing/moreGames.swf",
+"position":{"x":"0","y":"0"},
+"allLink":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/little-bill/",
+"items":[
+
+{
+"urlAlias":"captain-brainstorm-adventure",	
+"featured":"false",	
+"title":"Captain Brainstorm Adventure", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/bill_brainstorm/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/bill_brainstorm/kids-game-promo.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/captain-brainstorm-adventure.html", 
+"datePosted":"Wed May 22 00:00:00 EDT 2013", 
+"numViews":"528715"
+}
+
+,
+
+{
+"urlAlias":"color-with-dora",	
+"featured":"",	
+"title":"Color with Dora Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dora_color/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dora_color/kids-game-promo.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/color-with-dora.html", 
+"datePosted":"Thu May 22 00:00:00 EDT 2008", 
+"numViews":"37298"
+}
+
+,
+
+{
+"urlAlias":"doodle-doodle-guess-draw",	
+"featured":"",	
+"title":"Doodle, Doodle, Guess &amp; Draw", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/blue_doodle/GamesFinder/thumbnail.jpg"",
+"promoImage":"",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/doodle-doodle-guess-draw.html", 
+"datePosted":"Fri Jul 12 00:00:00 EDT 2002", 
+"numViews":"34634"
+}
+
+,
+
+{
+"urlAlias":"hide-and-seek-with-milli",	
+"featured":"",	
+"title":"Milli's Hide &amp; Seek Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/umiz_milli_mini/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/umiz_milli_mini/kids-game-promo.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/hide-and-seek-with-milli.html", 
+"datePosted":"Thu May 22 00:00:00 EDT 2008", 
+"numViews":"37298"
+}
+
+]
+}
+]
+}
+}

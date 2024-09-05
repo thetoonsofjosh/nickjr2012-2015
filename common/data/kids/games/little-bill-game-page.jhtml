@@ -1,0 +1,78 @@
+{
+"config":{
+"debug":{"showName":"little-bill"},
+"promoSounds":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/promos/global-promo-sounds.swf",
+"buttons":[
+{
+"localConnectionId":"ShowLogo",
+"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/showlogos/LittleBill.swf", 
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids/little-bill/",
+"position":{"x":"40","y":"52"}	
+}
+],
+"promos":[
+{
+"loader":{"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/loaders/asset-loader.swf","position":{"x":"70","y":"220"}},
+"classId":"MoreGamesPromo",
+"localConnectionId":"MoreGamesPromo",
+"urlAlias":"",
+"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/promos/listing/moreGames.swf",
+"position":{"x":"0","y":"0"},
+"allLink":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/little-bill/",
+"items":[
+
+{
+"urlAlias":"color-with-bill",	
+"featured":"false",	
+"title":"Let's Color Little Bill", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/bill_color/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/bill_color/GamesFinder/lets-color-little-bill2.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/lets-color-little-bill.html", 
+"datePosted":"Wed May 22 00:00:00 EDT 2013", 
+"numViews":"528715"
+}
+
+,
+
+{
+"urlAlias":"backyardigans-halloween-dressup",	
+"featured":"",	
+"title":"Trick-or-Treat Dress-Up Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/back_halloween/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/back_halloween/kids-game-promo.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/backyardigans-halloween-dressup.html", 
+"datePosted":"Thu May 22 00:00:00 EDT 2008", 
+"numViews":"37298"
+}
+
+,
+
+{
+"urlAlias":"max-ruby-dress-up",	
+"featured":"",	
+"title":"Max &amp; Ruby Dress-Up Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/maxr_dressup/GamesFinder/maxr_dressup-thumb.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/maxr_dressup/GamesFinder/kids-game-promo.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/max-ruby-dress-up.html", 
+"datePosted":"Fri Jul 12 00:00:00 EDT 2002", 
+"numViews":"34634"
+}
+
+,
+
+{
+"urlAlias":"dora-isa-garden",	
+"featured":"",	
+"title":"Exploring Isa's Garden", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dora_isa_garden/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dora_isa_garden/kids-game-promo.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/dora-isa-garden.html", 
+"datePosted":"Thu May 22 00:00:00 EDT 2008", 
+"numViews":"37298"
+}
+
+]
+}
+]
+}
+}
