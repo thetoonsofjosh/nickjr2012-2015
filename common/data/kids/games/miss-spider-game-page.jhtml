@@ -1,0 +1,78 @@
+{
+"config":{
+"debug":{"showName":"miss-spider"},
+"promoSounds":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/promos/global-promo-sounds.swf",
+"buttons":[
+{
+"localConnectionId":"ShowLogo",
+"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/showlogos/MissSpider.swf", 
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids/miss-spider-sunny-patch-friends/",
+"position":{"x":"40","y":"52"}	
+}
+],
+"promos":[
+{
+"loader":{"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/loaders/asset-loader.swf","position":{"x":"70","y":"220"}},
+"classId":"MoreGamesPromo",
+"localConnectionId":"MoreGamesPromo",
+"urlAlias":"",
+"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/promos/listing/moreGames.swf",
+"position":{"x":"0","y":"0"},
+"allLink":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/miss-spider/",
+"items":[
+
+{
+"urlAlias":"dora-lost-valentine",	
+"featured":"",	
+"title":"Dora and the Lost Valentine", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dora_valentine/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dora_valentine/kids-game-promo.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/dora-lost-valentine.html", 
+"datePosted":"Thu May 22 00:00:00 EDT 2008", 
+"numViews":"2814"
+}
+
+,
+
+{
+"urlAlias":"wond-holiday-treats-mouse-king",	
+"featured":"",	
+"title":"Wonder Pets Holiday Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/wond_mouseking/GamesFinder/wond_mouseking-thumb.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/wond_mouseking/GamesFinder/wond_mouseking-kids-game-promo.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/wond-holiday-treats-mouse-king.html", 
+"datePosted":"Mon Dec 23 00:00:00 EST 2013", 
+"numViews":"37298"
+}
+
+,
+
+{
+"urlAlias":"ni-hao-kai-lan-lanterns",	
+"featured":"",	
+"title":"Ni-Hao, Kai-lan Lanterns Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/niha_paper_lanterns/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/niha_paper_lanterns/kids-game-promo.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/ni-hao-kai-lan-lanterns.html", 
+"datePosted":"Thu May 22 00:00:00 EDT 2008", 
+"numViews":"37298"
+}
+
+,
+
+{
+"urlAlias":"color-things-that-go",	
+"featured":"false",	
+"title":"Color Things That Go", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/orig_colorthingsgo/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/orig_colorthingsgo/kids-game-promo.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/color-things-that-go.html", 
+"datePosted":"Tue Nov 16 00:00:00 EDT 2010", 
+"numViews":"528715"
+}
+
+]
+}
+]
+}
+}
