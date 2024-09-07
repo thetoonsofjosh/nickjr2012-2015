@@ -1,0 +1,81 @@
+
+{
+"config":{
+"debug":{"showName":"oobi"},
+"promoSounds":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/promos/global-promo-sounds.swf",
+"buttons":[
+{
+"localConnectionId":"ShowLogo",
+"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/showlogos/Oobi.swf", 
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids/oobi/",
+"position":{"x":"40","y":"52"}	
+}
+],
+"promos":[
+{
+"loader":{"path":"/nickjr20122015/dynaboss/flash/kids/loaders/asset-loader.swf","position":{"x":"70","y":"220"}},
+"classId":"MoreGamesPromo",
+"localConnectionId":"MoreGamesPromo",
+"urlAlias":"",
+"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/promos/listing/moreGames.swf",
+"position":{"x":"0","y":"0"},
+"allLink":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/oobi/",
+"items":[
+
+{
+"urlAlias":"oobi-rhymes",	
+"featured":"",	
+"title":"Oobi Rhymes", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/nogg_oobirhyme/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/nogg_oobirhyme/GamesFinder/oobi-rhyme-01.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/oobi-rhymes.html", 
+"datePosted":"Fri Jul 12 00:00:00 EDT 2002", 
+"numViews":"34634"
+}
+
+
+,
+
+{
+"urlAlias":"diegos-underwater-adventure",	
+"featured":"",	
+"title":"Diego's Underwater Rescue Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dieg_underwater/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dieg_underwater/kids-game-promo.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/diegos-underwater-adventure.html", 
+"datePosted":"Fri Aug 09 00:00:00 EDT 2008", 
+"numViews":"34634"
+}
+
+,
+
+
+{
+"urlAlias":"doras-purple-planet-adventure",	
+"featured":"",	
+"title":"Dora's Purple Planet Adventure", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dora_purpleplanet/GamesFinder/dora_purple_planet-thumb.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dora_purpleplanet/kids-game-promo.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/doras-purple-planet-adventure.html", 
+"datePosted":"Thu May 22 00:00:00 EDT 2008", 
+"numViews":"2814"
+}
+
+,
+
+{
+"urlAlias":"one-good-knight-dragon-tower",	
+"featured":"",	
+"title":"One Good Knight - Dragon Tower", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/knig_dragon_tower/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/knig_dragon_tower/kids-game-promo.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/one-good-knight-dragon-tower.html", 
+"datePosted":"Wed Dec 08 00:00:00 EDT 2010", 
+"numViews":"34634"
+}
+
+]
+}
+]
+}
+}
