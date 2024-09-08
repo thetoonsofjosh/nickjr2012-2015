@@ -1,0 +1,78 @@
+{
+"config":{
+"debug":{"showName":"oswald"},
+"promoSounds":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/promos/global-promo-sounds.swf",
+"buttons":[
+{
+"localConnectionId":"ShowLogo",
+"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/showlogos/Oswald.swf", 
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids/oswald/",
+"position":{"x":"40","y":"52"}	
+}
+],
+"promos":[
+{
+"loader":{"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/loaders/asset-loader.swf","position":{"x":"70","y":"220"}},
+"classId":"MoreGamesPromo",
+"localConnectionId":"MoreGamesPromo",
+"urlAlias":"",
+"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/promos/listing/moreGames.swf",
+"position":{"x":"0","y":"0"},
+"allLink":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/oswald/",
+"items":[
+
+{
+"urlAlias":"oswald-diner",	
+"featured":"",	
+"title":"Oswald's Specials of the Day", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/oswa_bigdiner/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/oswa_bigdiner/kids-game-promo.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/oswalds-specials-of-the-day.html", 
+"datePosted":"Thu May 22 00:00:00 EDT 2008", 
+"numViews":"37298"
+}
+
+,
+
+{
+"urlAlias":"blues-gold-clues-challenge",	
+"featured":"",	
+"title":"Blue's Golden Clues Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/blue_gold_clues/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/blue_gold_clues/kids-game-promo.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/blues-gold-clues-challenge.html", 
+"datePosted":"Thu May 22 00:00:00 EDT 2008", 
+"numViews":"37298"
+}
+
+,
+
+{
+"urlAlias":"doras-pirate-boat-treasure-hunt",	
+"featured":"",	
+"title":"Dora's Treasure Hunt Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dora_treasurehunt/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dora_treasurehunt/kids-game-promo.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/doras-pirate-boat-treasure-hunt.html", 
+"datePosted":"Wed Aug 22 00:00:00 EDT 2012", 
+"numViews":"35867"
+}
+
+,
+
+{
+"urlAlias":"adventures-in-wonderland",	
+"featured":"",	
+"title":"Adventures in Wonderland", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/wond_wonderland/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/wond_wonderland/kids-game-promo.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/adventures-in-wonderland.html", 
+"datePosted":"Tue Nov 16 00:00:00 EST 2010", 
+"numViews":"34634"
+}
+
+]
+}
+]
+}
+}

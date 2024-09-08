@@ -1,0 +1,78 @@
+{
+"config":{
+"debug":{"showName":"oswald"},
+"promoSounds":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/promos/global-promo-sounds.swf",
+"buttons":[
+{
+"localConnectionId":"ShowLogo",
+"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/showlogos/Oswald.swf", 
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids/oswald/",
+"position":{"x":"40","y":"52"}	
+}
+],
+"promos":[
+{
+"loader":{"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/loaders/asset-loader.swf","position":{"x":"70","y":"220"}},
+"classId":"MoreGamesPromo",
+"localConnectionId":"MoreGamesPromo",
+"urlAlias":"",
+"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/promos/listing/moreGames.swf",
+"position":{"x":"0","y":"0"},
+"allLink":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/oswald/",
+"items":[
+
+{
+"urlAlias":"oswald-hat",	
+"featured":"",	
+"title":"Find Oswald's Hat", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/oswa_hat/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/oswa_hat/kids-game-promo.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/find-oswalds-hat.html", 
+"datePosted":"Thu May 22 00:00:00 EDT 2008", 
+"numViews":"37298"
+}
+
+,
+
+{
+"urlAlias":"dora-number-pyramid",	
+"featured":"",	
+"title":"Dora's Number Pyramid Adventure", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dora_number_pyramid/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dora_number_pyramid/kids-game-promo.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/dora-number-pyramid.html", 
+"datePosted":"Thu May 22 00:00:00 EDT 2008", 
+"numViews":"37298"
+}
+
+,
+
+{
+"urlAlias":"wonder-pets-save-the-day",	
+"featured":"",	
+"title":"Wonder Pets! Save the Day Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/wond_mission/GamesFinder/wonder-pets-save-the-day-thumb.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/wond_mission/kids-game-promo.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/wonder-pets-save-the-day.html", 
+"datePosted":"Wed Aug 22 00:00:00 EDT 2012", 
+"numViews":"35867"
+}
+
+,
+
+{
+"urlAlias":"color-jobs",	
+"featured":"",	
+"title":"Color the Jobs", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/orig_colorjobs/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/orig_colorjobs/kids-game-promo.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/color-jobs.html", 
+"datePosted":"Tue Nov 16 00:00:00 EST 2010", 
+"numViews":"34634"
+}
+
+]
+}
+]
+}
+}
