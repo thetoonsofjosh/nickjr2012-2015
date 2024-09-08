@@ -1,0 +1,80 @@
+{
+"config":{
+"debug":{"showName":"spinner-space-kid"},
+"promoSounds":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/promos/global-promo-sounds.swf",
+"buttons":[
+{
+"localConnectionId":"ShowLogo",
+"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/showlogos/Spinner.swf", 
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids/spinner-space-kid/",
+"position":{"x":"40","y":"52"}	
+}
+],
+"promos":[
+{
+"loader":{"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/loaders/asset-loader.swf","position":{"x":"70","y":"220"}},
+"classId":"MoreGamesPromo",
+"localConnectionId":"MoreGamesPromo",
+"urlAlias":"",
+"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/promos/listing/moreGames.swf",
+"position":{"x":"0","y":"0"},
+"allLink":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/spinner-space-kid/",
+"items":[
+
+{
+"urlAlias":"comet-cup-racing",	
+"featured":"",	
+"title":"Spinner's Comet Cup Racing", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/spin_racing/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/spin_racing/GamesFinder/Spinner-Racing-01.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/spinners-comet-cup-racing.html", 
+"datePosted":"Fri Jul 12 00:00:00 EDT 2002", 
+"numViews":"34634"
+}
+
+,
+
+{
+"urlAlias":"casa-de-dora",	
+"featured":"",	
+"title":"La Casa de Dora Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dora_casasite/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dora_casasite/kids-game-promo.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/casa-de-dora.html", 
+"datePosted":"Wed Aug 22 00:00:00 EDT 2012", 
+"numViews":"35867"
+}
+
+,
+
+{
+"urlAlias":"kite-building-adventure",	
+"featured":"",	
+"title":"Geo's Kite Building Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/umiz_kitebuilder/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/umiz_kitebuilder/kids-game-promo.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/kite-building-adventure.html", 
+"datePosted":"Thu May 22 00:00:00 EDT 2008", 
+"numViews":"37298"
+}
+
+,
+
+{
+"urlAlias":"diego-ultimate-rescue",	
+"featured":"",	
+"title":"Diego's Ultimate Rescue Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dieg_ultimate/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dieg_ultimate/kids-game-promo.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/diego-ultimate-rescue.html", 
+"datePosted":"Wed May 22 00:00:00 EDT 2013", 
+"numViews":"43"
+}
+
+
+
+]
+}
+]
+}
+}
