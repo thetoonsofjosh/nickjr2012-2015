@@ -1,0 +1,80 @@
+{
+"config":{
+"debug":{"showName":"nick-jr-assorted"},
+"promoSounds":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/promos/global-promo-sounds.swf",
+"buttons":[
+{
+"localConnectionId":"ShowLogo",
+"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/showlogos/Catchall.swf", 
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids/nick-jr-assorted/",
+"position":{"x":"40","y":"52"}	
+}
+],
+"promos":[
+{
+"loader":{"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/loaders/asset-loader.swf","position":{"x":"70","y":"220"}},
+"classId":"MoreGamesPromo",
+"localConnectionId":"MoreGamesPromo",
+"urlAlias":"",
+"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/promos/listing/moreGames.swf",
+"position":{"x":"0","y":"0"},
+"allLink":"/kids-games/nick-jr-assorted/",
+"items":[
+
+{
+"urlAlias":"one-good-knight-dragon-tower",	
+"featured":"",	
+"title":"One Good Knight - Dragon Tower", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/knig_dragon_tower/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/knig_dragon_tower/kids-game-promo.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/one-good-knight-dragon-tower.html", 
+"datePosted":"Wed Dec 09 00:00:00 EST 2010", 
+"numViews":"34634"
+}
+
+,
+
+{
+"urlAlias":"plex-robot-creation-station",	
+"featured":"",	
+"title":"Robot Creation Station Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/yoga_robot/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/yoga_robot/kids-game-promo.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/plex-robot-creation-station.html", 
+"datePosted":"Tue May 18 00:00:00 EDT 2010", 
+"numViews":"37298"
+}
+
+,
+
+{
+"urlAlias":"bots-silly-fix-it-game",	
+"featured":"",	
+"title":"Bot's Silly Fix It Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/umiz_bot_mini/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/umiz_bot_mini/kids-game-promo.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/bots-silly-fix-it-game.html", 
+"datePosted":"Wed Dec 16 00:00:00 EST 2009", 
+"numViews":"37298"
+}
+
+,
+
+{
+"urlAlias":"doras-purple-planet-adventure",	
+"featured":"",	
+"title":"Dora's Purple Planet Adventure", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dora_purpleplanet/GamesFinder/dora_purple_planet-thumb.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dora_purpleplanet/kids-game-promo.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/doras-purple-planet-adventure.html", 
+"datePosted":"Wed Apr 09 00:00:00 EDT 2008", 
+"numViews":"34634"
+}
+
+
+
+]
+}
+]
+}
+}

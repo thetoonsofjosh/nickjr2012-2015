@@ -1,0 +1,80 @@
+{
+"config":{
+"debug":{"showName":"nick-jr-assorted"},
+"promoSounds":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/promos/global-promo-sounds.swf",
+"buttons":[
+{
+"localConnectionId":"ShowLogo",
+"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/showlogos/Catchall.swf", 
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids/nick-jr-assorted/",
+"position":{"x":"40","y":"52"}	
+}
+],
+"promos":[
+{
+"loader":{"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/loaders/asset-loader.swf","position":{"x":"70","y":"220"}},
+"classId":"MoreGamesPromo",
+"localConnectionId":"MoreGamesPromo",
+"urlAlias":"",
+"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/promos/listing/moreGames.swf",
+"position":{"x":"0","y":"0"},
+"allLink":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/nick-jr-assorted/",
+"items":[
+
+{
+"urlAlias":"numbers-with-face",	
+"featured":"",	
+"title":"Numbers With Face", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/face_numbers/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/face_numbers/kids-game-promo.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/numbers-with-face.html", 
+"datePosted":"Wed Apr 09 00:00:00 EDT 2008", 
+"numViews":"34634"
+}
+
+,
+
+{
+"urlAlias":"hide-and-seek-with-milli",	
+"featured":"",	
+"title":"Milli's Hide &amp; Seek Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/umiz_milli_mini/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/umiz_milli_mini/kids-game-promo.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/hide-and-seek-with-milli.html", 
+"datePosted":"Wed Dec 16 00:00:00 EST 2009", 
+"numViews":"37298"
+}
+
+,
+
+{
+"urlAlias":"kailan-great-trip-to-china",	
+"featured":"",	
+"title":"Kai-lan's Trip to China Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/niha_chinatrip/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/niha_chinatrip/kids-game-promo.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/kailan-great-trip-to-china.html", 
+"datePosted":"Tue Aug 04 00:00:00 EDT 2009", 
+"numViews":"37298"
+}
+
+,
+
+{
+"urlAlias":"dora-saves-map",	
+"featured":"",	
+"title":"Dora Saves Map", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dora_savesmap/Gamesfinder/dora_savesmap-thumb.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dora_savesmap/kids-game-promo.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/dora-saves-map.html"", 
+"datePosted":"Wed Dec 03 00:00:00 EST 2008", 
+"numViews":"34634"
+}
+
+
+
+]
+}
+]
+}
+}

@@ -1,0 +1,80 @@
+{
+"config":{
+"debug":{"showName":"nick-jr-assorted"},
+"promoSounds":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/promos/global-promo-sounds.swf",
+"buttons":[
+{
+"localConnectionId":"ShowLogo",
+"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/showlogos/Catchall.swf", 
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids/nick-jr-assorted/",
+"position":{"x":"40","y":"52"}	
+}
+],
+"promos":[
+{
+"loader":{"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/loaders/asset-loader.swf","position":{"x":"70","y":"220"}},
+"classId":"MoreGamesPromo",
+"localConnectionId":"MoreGamesPromo",
+"urlAlias":"",
+"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/promos/listing/moreGames.swf",
+"position":{"x":"0","y":"0"},
+"allLink":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/nick-jr-assorted/",
+"items":[
+
+{
+"urlAlias":"nick-jr-tic-tac-toe",	
+"featured":"",	
+"title":"Nick Jr. Tic-Tac-Toe", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/orig_tictactoe/GamesFinder/thumbnail.jpg",
+"promoImage":"",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/nick-jr-tic-tac-toe.html", 
+"datePosted":"Tue Jul 19 00:00:00 EDT 2005", 
+"numViews":"34634"
+}
+
+,
+
+{
+"urlAlias":"dora-roller-skating-adventure",	
+"featured":"",	
+"title":"Dora's Roller Skate Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dora_rollerskating/GamesFinder/thumb.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dora_rollerskating/GamesFinder/kids-game-promo.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/dora-roller-skating-adventure.html", 
+"datePosted":"Wed Sep 11 00:00:00 EDT 2013", 
+"numViews":"37298"
+}
+
+,
+
+{
+"urlAlias":"max-ruby-dress-up",	
+"featured":"",	
+"title":"Max &amp; Ruby Dress-Up Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/maxr_dressup/GamesFinder/maxr_dressup-thumb.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/maxr_dressup/GamesFinder/kids-game-promo.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/max-ruby-dress-up.html", 
+"datePosted":"Wed Jan 30 00:00:00 EST 2013", 
+"numViews":"37298"
+}
+
+,
+
+{
+"urlAlias":"kai-lan-matching",	
+"featured":"",	
+"title":"Kai-Lan's Super Matching Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/niha_princess/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/niha_princess/kids-game-promo.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/kai-lan-matching.html", 
+"datePosted":"Fri Oct 08 00:00:00 EDT 2010", 
+"numViews":"34634"
+}
+
+
+
+]
+}
+]
+}
+}
