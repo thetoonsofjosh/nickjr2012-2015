@@ -1,0 +1,298 @@
+{
+"config":{
+"animation":{
+"loader":{"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/loaders/general-loader.swf"},
+"urlAlias":"kids-nick-jr-assorted-games",
+"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/main-content/catchall-show-landing.swf",
+
+"classId":"GameListAnimation"
+
+},
+"promoSounds":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/promos/global-promo-sounds.swf",
+"promos":[
+{
+"loader":{"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/loaders/asset-loader.swf","position":{"x":"290","y":"125"}},
+"classId":"ShowGamesListPromo",
+"localConnectionId":"ShowGamesListPromo",
+"urlAlias":"kids-nick-jr-assorted-games",
+"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/promos/listing/showGames.swf",
+"position":{"x":"316","y":"0"},
+"items":[
+
+{
+"urlAlias":"one-good-knight-dragon-tower",	
+"featured":"",	
+"title":"One Good Knight - Dragon Tower", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/knig_dragon_tower/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/knig_dragon_tower/kids-game-promo.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/one-good-knight-dragon-tower.html", 
+"datePosted":"Wed Dec 08 00:00:00 EST 2010", 
+"numViews":"34419"
+}
+
+,
+
+{
+"urlAlias":"color-animals",	
+"featured":"",	
+"title":"Color the Animals", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/orig_coloranimals/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/orig_coloranimals/kids-game-promo.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/color-animals.html", 
+"datePosted":"Tue Nov 16 00:00:00 EST 2010", 
+"numViews":"1"
+}
+
+,
+
+{
+"urlAlias":"color-things-that-go",	
+"featured":"",	
+"title":"Color Things That Go", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/orig_colorthingsgo/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/orig_colorthingsgo/kids-game-promo.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/color-things-that-go.html", 
+"datePosted":"Tue Nov 16 00:00:00 EST 2010", 
+"numViews":"0"
+}
+
+,
+
+{
+"urlAlias":"color-jobs",	
+"featured":"",	
+"title":"Color the Jobs", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/orig_colorjobs/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/orig_colorjobs/kids-game-promo.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/color-jobs.html", 
+"datePosted":"Tue Nov 16 00:00:00 EST 2010", 
+"numViews":"0"
+}
+
+,
+
+{
+"urlAlias":"curious-buddies-peek-a-boo",	
+"featured":"",	
+"title":"Curious Buddies Peek-a-Boo", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/curi_peekaboo/GamesFinder/thumbnail.jpg",
+"promoImage":"",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/curious-buddies-peek-a-boo.html", 
+"datePosted":"Tue May 27 00:00:00 EDT 2008", 
+"numViews":"0"
+}
+
+,
+
+{
+"urlAlias":"alphabet-with-face",	
+"featured":"",	
+"title":"The Alphabet With Face", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/face_alphabet/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/face_alphabet/kids-game-promo.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/alphabet-with-face.html", 
+"datePosted":"Wed Apr 09 00:00:00 EDT 2008", 
+"numViews":"0"
+}
+
+,
+
+{
+"urlAlias":"numbers-with-face",	
+"featured":"",	
+"title":"Numbers With Face", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/face_numbers/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/face_numbers/kids-game-promo.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/numbers-with-face.html", 
+"datePosted":"Wed Apr 09 00:00:00 EDT 2008", 
+"numViews":"0"
+}
+
+,
+
+{
+"urlAlias":"piper-bubble-game",	
+"featured":"",	
+"title":"Piper's Bubble Guessing Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/piper_bubble_game/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/piper_bubble_game/kids-game-promo.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/piper-bubble-game.html", 
+"datePosted":"Fri Dec 09 00:00:00 EST 2005", 
+"numViews":"0"
+}
+
+,
+
+{
+"urlAlias":"dave-the-brave-the-monster",	
+"featured":"",	
+"title":"Dave the Brave &amp; the Monster", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dave_the_brave/GamesFinder/thumbnail.jpg",
+"promoImage":"",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/dave-the-brave-the-monster.html", 
+"datePosted":"Fri Sep 16 00:00:00 EDT 2005", 
+"numViews":"84235"
+}
+
+,
+
+{
+"urlAlias":"litterbug-blast",	
+"featured":"",	
+"title":"The Litterbug Blast", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/migh_litterbug/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/migh_litterbug/kids-game-promo.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/litterbug-blast.html", 
+"datePosted":"Fri Aug 19 00:00:00 EDT 2005", 
+"numViews":"0"
+}
+
+,
+
+{
+"urlAlias":"nick-jr-tic-tac-toe",	
+"featured":"",	
+"title":"Nick Jr. Tic-Tac-Toe", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/orig_tictactoe/GamesFinder/thumbnail.jpg",
+"promoImage":"",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/nick-jr-tic-tac-toe.html", 
+"datePosted":"Tue Jul 19 00:00:00 EDT 2005", 
+"numViews":"26"
+}
+
+,
+
+{
+"urlAlias":"the-grumpy-bug",	
+"featured":"",	
+"title":"The Grumpy Bug", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/just_grumpybug/GamesFinder/thumbnail.jpg",
+"promoImage":"",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/the-grumpy-bug.html", 
+"datePosted":"Fri Oct 01 00:00:00 EDT 2004", 
+"numViews":"0"
+}
+
+,
+
+{
+"urlAlias":"amazing-ant",	
+"featured":"",	
+"title":"The Amazing Ant", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/orig_ant/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/orig_ant/kids-game-promo.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/amazing-ant.html", 
+"datePosted":"Fri Dec 20 00:00:00 EST 2002", 
+"numViews":"0"
+}
+
+,
+
+{
+"urlAlias":"super-duper-dolphin",	
+"featured":"",	
+"title":"Super Duper Dolphin", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/orig_dolphin/GamesFinder/thumbnail.jpg",
+"promoImage":"",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/super-duper-dolphin.html", 
+"datePosted":"Fri Feb 22 00:00:00 EST 2002", 
+"numViews":"0"
+}
+
+,
+
+{
+"urlAlias":"hairy-face",	
+"featured":"",	
+"title":"Mr. Hairy Face", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/orig_hairyface/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/orig_hairyface/kids-game-promo.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/hairy-face.html", 
+"datePosted":"Fri Feb 22 00:00:00 EST 2002", 
+"numViews":"0"
+}
+
+,
+
+{
+"urlAlias":"nick-jr-take-care-of-baby",	
+"featured":"",	
+"title":"Nick Jr. Take Care of Baby", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/orig_baby/GamesFinder/thumbnail.jpg",
+"promoImage":"",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/nick-jr-take-care-of-baby.html", 
+"datePosted":"Thu Jan 24 00:00:00 EST 2002", 
+"numViews":"42466"
+}
+
+,
+
+{
+"urlAlias":"frogs-on-a-log",	
+"featured":"",	
+"title":"Frogs on a Log", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/orig_frogs/GamesFinder/thumbnail.jpg",
+"promoImage":"",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/frogs-on-a-log.html", 
+"datePosted":"Fri Nov 16 00:00:00 EST 2001", 
+"numViews":"0"
+}
+
+,
+
+{
+"urlAlias":"eggs-in-a-nest",	
+"featured":"",	
+"title":"Eggs in a Nest", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/orig_eggs/GamesFinder/thumbnail.jpg",
+"promoImage":"",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/eggs-in-a-nest.html", 
+"datePosted":"Fri Sep 28 00:00:00 EDT 2001", 
+"numViews":"0"
+}
+
+,
+
+{
+"urlAlias":"rumble-grumble-gurgle-roar",	
+"featured":"",	
+"title":"Rumble, Grumble, Gurgle Roar", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/rumble_grumble_gurgle_roar/GamesFinder/thumbnail.jpg",
+"promoImage":"",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/rumble-grumble-gurgle-roar.html", 
+"datePosted":"Fri Sep 21 00:00:00 EDT 2001", 
+"numViews":"0"
+}
+
+,
+
+{
+"urlAlias":"nick-jrs-singing-sunflowers",	
+"featured":"",	
+"title":"Nick Jr.'s Singing Sunflowers", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/orig_sunflowers/GamesFinder/thumbnail.jpg",
+"promoImage":"",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/nick-jrs-singing-sunflowers.html", 
+"datePosted":"Mon Jun 18 00:00:00 EDT 2001", 
+"numViews":"0"
+}
+
+,
+
+{
+"urlAlias":"nick-jr-phone",	
+"featured":"",	
+"title":"Nick Jr. Phone", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/orig_phone/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/orig_phone/kids-game-promo.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/nick-jr-phone.html", 
+"datePosted":"Fri Jun 15 00:00:00 EDT 2001", 
+"numViews":"0"
+}
+
+]
+}
+]
+}
+}
+
