@@ -13,7 +13,7 @@
 ],
 "promos":[
 {
-"loader":{"path":"/nickjr20122015/dynaboss/flash/kids/loaders/asset-loader.swf","position":{"x":"70","y":"220"}},
+"loader":{"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/loaders/asset-loader.swf","position":{"x":"70","y":"220"}},
 "classId":"MoreGamesPromo",
 "localConnectionId":"MoreGamesPromo",
 "urlAlias":"",
