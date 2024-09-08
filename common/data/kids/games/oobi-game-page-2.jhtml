@@ -1,0 +1,81 @@
+
+{
+"config":{
+"debug":{"showName":"oobi"},
+"promoSounds":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/promos/global-promo-sounds.swf",
+"buttons":[
+{
+"localConnectionId":"ShowLogo",
+"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/showlogos/Oobi.swf", 
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids/oobi/",
+"position":{"x":"40","y":"52"}	
+}
+],
+"promos":[
+{
+"loader":{"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/loaders/asset-loader.swf","position":{"x":"70","y":"220"}},
+"classId":"MoreGamesPromo",
+"localConnectionId":"MoreGamesPromo",
+"urlAlias":"",
+"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/promos/listing/moreGames.swf",
+"position":{"x":"0","y":"0"},
+"allLink":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/oobi/",
+"items":[
+
+{
+"urlAlias":"oobi-number",	
+"featured":"",	
+"title":"Numbers with Oobi", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/nogg_oobinumbers/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/nogg_oobinumbers/oobi-numbers-01.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/oobi-number.html", 
+"datePosted":"Fri Jul 12 00:00:00 EDT 2002", 
+"numViews":"34634"
+}
+
+
+,
+
+{
+"urlAlias":"doras-sing-along-party",	
+"featured":"",	
+"title":"Dora Rocks Sing-Along Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dora_rocks/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dora_rocks/kids-game-promo.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/doras-sing-along-party.html", 
+"datePosted":"Fri Jan 03 00:00:00 EST 2014", 
+"numViews":"34634"
+}
+
+,
+
+
+{
+"urlAlias":"umi-grand-prix",	
+"featured":"",	
+"title":"Umi Grand Prix Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/umiz_grand_prix/GamesFinder/umi-grand-prix-thumb.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/umiz_grand_prix/umi-grand-prix-kids-game-new-promo.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/umi-grand-prix.html", 
+"datePosted":"Wed Sep 25 00:00:00 EDT 2013", 
+"numViews":"2814"
+}
+
+,
+
+{
+"urlAlias":"kailan-super-snow-dragon",	
+"featured":"",	
+"title":"Kai-lan Super Snow Dragon Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/niha_supersnowdragon/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/niha_supersnowdragon/kids-game-promo.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/kailan-super-snow-dragon.html", 
+"datePosted":"Wed Jan 19 00:00:00 EST 2011", 
+"numViews":"34634"
+}
+
+]
+}
+]
+}
+}
