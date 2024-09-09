@@ -1,6 +1,6 @@
 <config>
 	<settings>
-		<instructions>/game/assets/fres_giant_pizza/assets/video/Instructions.flv</instructions>
+		<instructions>assets/video/Instructions.flv</instructions>
 		<crop>3</crop>
 		<!-- The number of each banana needed to be collected -->
 		<bananasNeeded>15</bananasNeeded>
@@ -15,20 +15,20 @@
 				
 		<!-- Assets for the main section -->
 		<section id="preloader">
-			<asset id="audio_loops" src="/game/assets/fres_giant_pizza/assets/swfs/background_audio_loops.swf" />
-			<asset id="mainSection" src="/game/assets/fres_giant_pizza/assets/swfs/main.swf" />
-			<asset id="views" src="/game/assets/fres_giant_pizza/assets/swfs/views.swf" />
-			<asset id="gameplay_views" src="/game/assets/fres_giant_pizza/assets/swfs/gameplay_views.swf" />
-			<asset id="pizza_build_views" src="/game/assets/fres_giant_pizza/assets/swfs/pizza_build_views.swf" />
+			<asset id="audio_loops" src="assets/swfs/background_audio_loops.swf" />
+			<asset id="mainSection" src="assets/swfs/main.swf" />
+			<asset id="views" src="assets/swfs/views.swf" />
+			<asset id="gameplay_views" src="assets/swfs/gameplay_views.swf" />
+			<asset id="pizza_build_views" src="assets/swfs/pizza_build_views.swf" />
 		</section>
 
 		<!-- Assets for the game itself -->
 		<section id="game">
-			<asset id="bg" src="/game/assets/fres_giant_pizza/assets/images/background-tile.jpg" />
+			<asset id="bg" src="assets/images/background-tile.jpg" />
 		</section>
 		
 		<!-- Sounds -->
-		<sounds base="/game/assets/fres_giant_pizza/assets/sounds">
+		<sounds base="assets/sounds">
 			<pool id="button" base="voice_over/buttons">
 				<asset id="back" src="back.mp3" overlap="noPlay" />
 				<asset id="next" src="next.mp3" overlap="noPlay" />
