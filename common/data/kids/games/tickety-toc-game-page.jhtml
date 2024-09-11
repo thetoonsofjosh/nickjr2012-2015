@@ -1,0 +1,80 @@
+{
+"config":{
+"debug":{"showName":"tickety-toc"},
+"promoSounds":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/promos/global-promo-sounds.swf",
+"buttons":[
+{
+"localConnectionId":"ShowLogo",
+"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/showlogos/TicketyTock.swf", 
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids/tickety-toc/",
+"position":{"x":"40","y":"52"}	
+}
+],
+"promos":[
+{
+"loader":{"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/loaders/asset-loader.swf","position":{"x":"70","y":"220"}},
+"classId":"MoreGamesPromo",
+"localConnectionId":"MoreGamesPromo",
+"urlAlias":"",
+"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/promos/listing/moreGames.swf",
+"position":{"x":"0","y":"0"},
+"allLink":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/tickety-toc/",
+"items":[
+
+{
+"urlAlias":"doras-mermaid-adventure-game",	
+"featured":"",	
+"title":"Dora's Mermaid Adventure", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dora_mermaid_adventure/GamesFinder/dora_mermaid_adventure-thumb.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dora_mermaid_adventure/kids-game-promo.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/doras-mermaid-adventure-game.html", 
+"datePosted":"Mon Apr 09 00:00:00 EDT 2012", 
+"numViews":"34634"
+}
+
+,
+
+{
+"urlAlias":"niha-chinese-new-year",	
+"featured":"",	
+"title":"Chinese New Year Coin Catch", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/niha_chinese_new_year/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/niha_chinese_new_year/kids-game-promo.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/niha-chinese-new-year.html", 
+"datePosted":"Wed Jan 14 00:00:00 EDT 2009", 
+"numViews":"35867"
+}
+
+,
+
+{
+"urlAlias":"dora-enchanted-forest-game",	
+"featured":"",	
+"title":"Dora Enchanted Forest Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dora_enchanted/GamesFinder/dora-enchanted-forest-thumb.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dora_enchanted/kids-game-promo-l3.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/dora-enchanted-forest-game.html", 
+"datePosted":"Wed Nov 27 00:00:00 EST 2013", 
+"numViews":"37298"
+}
+
+,
+
+{
+"urlAlias":"backyardigans-halloween-dressup",	
+"featured":"",	
+"title":"Trick-or-Treat Dress-Up Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/back_halloween/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/back_halloween/kids-game-promo.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/backyardigans-halloween-dressup.html", 
+"datePosted":"Wed Oct 16 00:00:00 EDT 2013", 
+"numViews":"43"
+}
+
+
+
+]
+}
+]
+}
+}
