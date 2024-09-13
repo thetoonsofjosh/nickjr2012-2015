@@ -15,7 +15,7 @@
 "promos":[
 
 {
-"loader":{"path":"/nickjr20122015/dynaboss/flash/kids/loaders/asset-loader.swf","position":{"x":"75","y":"35"}},
+"loader":{"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/loaders/asset-loader.swf","position":{"x":"75","y":"35"}},
 "classId":"ShowGamesListPromo",
 "localConnectionId":"ShowGameListPromo",
 "urlAlias":"kids-lalaloopsy",
@@ -32,7 +32,7 @@
 "title":"Lalaloopsy Friendship Parade", 
 "thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/lala_friendship_parade/GamesFinder/lala_friendship_parade-thumb.jpg",
 "promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/lala_friendship_parade/GamesFinder/lala_friendship_parade-kids-game-promo-new.jpg",
-"link":"/kids-games/lalaloopsy-friendship-parade.html", 
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/lalaloopsy-friendship-parade.html", 
 "datePosted":"Fri Jul 12 00:00:00 EDT 2002", 
 "numViews":"34634"
 }
