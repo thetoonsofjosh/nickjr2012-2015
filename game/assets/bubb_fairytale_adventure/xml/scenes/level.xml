@@ -1,0 +1,157 @@
+<level>	
+	<LoaderMax prependURLs="audio/demos/" load="true">
+		<MP3Loader name="0-0" url="0-0.mp3" autoPlay="false" />
+		<MP3Loader name="0-1" url="0-1.mp3" autoPlay="false" />
+		<MP3Loader name="0-4A" url="0-4A.mp3" autoPlay="false" />
+		<MP3Loader name="0-4B" url="0-4B.mp3" autoPlay="false" />
+		<MP3Loader name="0-5" url="0-5.mp3" autoPlay="false" />
+		<MP3Loader name="0-6" url="0-6.mp3" autoPlay="false" />
+		<MP3Loader name="0-7" url="0-7.mp3" autoPlay="false" />
+		<MP3Loader name="2-2" url="2-2.mp3" autoPlay="false" />
+		<MP3Loader name="0-8" url="0-8.mp3" autoPlay="false" />
+		<MP3Loader name="1-0" url="1-0.mp3" autoPlay="false" />
+		<MP3Loader name="1-3" url="1-3.mp3" autoPlay="false" />
+		<MP3Loader name="1-4A" url="1-4A.mp3" autoPlay="false" />
+		<MP3Loader name="1-5A" url="1-5A.mp3" autoPlay="false" />
+		<MP3Loader name="1-5B" url="1-5B.mp3" autoPlay="false" />
+		<MP3Loader name="1-6" url="1-6.mp3" autoPlay="false" />
+		<MP3Loader name="1-7" url="1-7.mp3" autoPlay="false" />
+		<MP3Loader name="2-0" url="2-0.mp3" autoPlay="false" />
+		<MP3Loader name="2-1" url="2-1.mp3" autoPlay="false" />	
+		<MP3Loader name="2-3A" url="2-3A.mp3" autoPlay="false" />
+		<MP3Loader name="2-3B" url="2-3B.mp3" autoPlay="false" />
+		<MP3Loader name="2-4" url="2-4.mp3" autoPlay="false" />
+		<MP3Loader name="2-5A" url="2-5A.mp3" autoPlay="false" />
+		<MP3Loader name="2-5B" url="2-5B.mp3" autoPlay="false" />	
+		<MP3Loader name="HereWeGo" url="HereWeGo.mp3" autoPlay="false" />	
+	</LoaderMax>
+
+	<LoaderMax prependURLs="swf/" load="true">
+		<SWFLoader name="level-swf" url="scenes/level.swf" autoPlay="false" />
+		<SWFLoader name="numbers-swf" url="numbers.swf" autoPlay="false" />
+		<SWFLoader name="gil-swf" url="characters/gil.swf" autoPlay="false" />
+		<SWFLoader name="molly-swf" url="characters/molly.swf" autoPlay="false" />
+		<SWFLoader name="obstacles-swf" url="obstacles.swf" autoPlay="false" />
+		<SWFLoader name="bubbles-swf" url="bubbles.swf" autoPlay="false" />
+		<SWFLoader name="bouncy-flower-swf" url="bouncy-flower.swf" autoPlay="false" />
+	</LoaderMax>
+
+	<LoaderMax prependURLs="xml/levels/" load="true">
+		<XMLLoader name="level-0-xml" url="0.xml" />
+		<XMLLoader name="level-1-xml" url="1.xml" />
+		<XMLLoader name="level-2-xml" url="2.xml" />
+	</LoaderMax>
+	
+	<LoaderMax prependURLs="xml/demos/" load="true">
+		<XMLLoader name="demo-0-xml" url="0.xml" />
+		<XMLLoader name="demo-1-xml" url="1.xml" />
+		<XMLLoader name="demo-2-xml" url="2.xml" />
+	</LoaderMax>
+	
+	<LoaderMax prependURLs="audio/levels/" load="true">
+		<MP3Loader name="level-0-bgm" url="0-bgm.mp3" autoPlay="false" />
+		<MP3Loader name="level-1-bgm" url="1-bgm.mp3" autoPlay="false" />
+		<MP3Loader name="level-2-bgm" url="2-bgm.mp3" autoPlay="false" />
+		
+		<MP3Loader name="level-0-directions" url="0-directions.mp3" autoPlay="false" />
+		<MP3Loader name="level-1-directions" url="1-directions.mp3" autoPlay="false" />
+		<MP3Loader name="level-2-directions" url="2-directions.mp3" autoPlay="false" />
+		
+		<MP3Loader name="jump-sfx" url="jump.mp3" autoPlay="false" />
+		<MP3Loader name="transition-sting" url="transition-sting.mp3" autoPlay="false" />
+		<MP3Loader name="speed-up-sfx" url="speed-up.mp3" autoPlay="false" />
+		
+		<MP3Loader name="flower-jump-sfx" url="flower-jump.mp3" autoPlay="false" />
+		<MP3Loader name="ingredient-collect-sfx" url="ingredient-collect.mp3" autoPlay="false" />
+		
+		<MP3Loader name="bubble-small-sfx" url="bubble-small.mp3" autoPlay="false" />
+		<MP3Loader name="bubble-medium-sfx" url="bubble-medium.mp3" autoPlay="false" />
+		<MP3Loader name="bubble-large-sfx" url="bubble-large.mp3" autoPlay="false" />
+	
+		<MP3Loader name="object-collide-sfx" url="object-collide.mp3" autoPlay="false" />
+	</LoaderMax>
+	
+	<LoaderMax prependURLs="xml/" load="true">
+		<XMLLoader name="ingredients-xml" url="ingredients.xml" />
+		<XMLLoader name="ingredients-gil-xml" url="ingredients-gil.xml" />
+		<XMLLoader name="ingredients-molly-xml" url="ingredients-molly.xml" />
+	</LoaderMax>
+	
+	<LoaderMax prependURLs="image/planes/" load="true">
+		<ImageLoader name="plane-left-0" url="left-0.png" />
+		<ImageLoader name="plane-middle-0" url="middle-0.jpg" />
+		<ImageLoader name="plane-right-0" url="right-0.png" />
+		
+		<ImageLoader name="plane-left-1" url="left-1.png" />
+		<ImageLoader name="plane-middle-1" url="middle-1.jpg" />
+		<ImageLoader name="plane-right-1" url="right-1.png" />
+		
+		<ImageLoader name="plane-left-2" url="left-2.png" />
+		<ImageLoader name="plane-middle-2" url="middle-2.jpg" />
+		<ImageLoader name="plane-right-2" url="right-2.png" />
+	</LoaderMax>
+	
+	<LoaderMax prependURLs="image/specials/" load="true">
+		<ImageLoader name="bouncyFlower-image" url="bouncyFlower.png" />
+		<ImageLoader name="pixieDust-image" url="pixieDust.png" />
+	</LoaderMax>
+	
+	<LoaderMax prependURLs="image/side-objects/" load="true">
+		<ImageLoader name="bushA-image" url="bushA.png" />
+		<ImageLoader name="bushB-image" url="bushB.png" />
+		<ImageLoader name="treeA-image" url="treeA.png" />
+		<ImageLoader name="treeB-image" url="treeB.png" />
+		<ImageLoader name="treeC-image" url="treeC.png" />
+		<ImageLoader name="treeD-image" url="treeD.png" />
+		<ImageLoader name="mushroom1-image" url="mushroom1.png" />
+		<ImageLoader name="mushroom2-image" url="mushroom2.png" />
+		<ImageLoader name="mushroom3-image" url="mushroom3.png" />
+		<ImageLoader name="rock1-image" url="rock1.png" />
+		<ImageLoader name="rock2-image" url="rock2.png" />
+		
+		<ImageLoader name="flowerLeft1-image" url="bushA.png" />
+		<ImageLoader name="flowerLeft2-image" url="bushA.png" />
+		<ImageLoader name="enchantedTreeA-image" url="enchantedTreeA.png" />
+		<ImageLoader name="enchantedTreeB-image" url="enchantedTreeB.png" />
+		<ImageLoader name="enchantedTreeC-image" url="enchantedTreeC.png" />
+		<ImageLoader name="enchantedTreeD-image" url="enchantedTreeD.png" />
+		<ImageLoader name="flowerRight1-image" url="flowerRight1.png" />
+		<ImageLoader name="flowerRight2-image" url="flowerRight2.png" />
+		<ImageLoader name="beanStalk1-image" url="beanStalk1.png" />
+		<ImageLoader name="beanStalk2-image" url="beanStalk2.png" />
+		
+	</LoaderMax>
+	
+	<LoaderMax prependURLs="image/shadows/" load="true">
+		<ImageLoader name="default-shadow" url="default.png" />
+		<ImageLoader name="flyingBroomstick-shadow" url="flyingBroomstick.png" />
+		<ImageLoader name="labCrabs-shadow" url="labCrabs.png" />
+		<ImageLoader name="miniDragon-shadow" url="miniDragon.png" />
+		<ImageLoader name="witchRoadwork-shadow" url="witchRoadwork.png" />
+	</LoaderMax>
+	
+	<LoaderMax prependURLs="image/obstacles/" load="true">
+		<ImageLoader name="flyingBroomstick-image" url="flyingBroomstick.png" />
+		<ImageLoader name="labCrabs-image" url="labCrabs.png" />
+		<ImageLoader name="miniDragon-image" url="miniDragon.png" />
+		<ImageLoader name="witchRoadwork-image" url="witchRoadwork.png" />
+		<ImageLoader name="potionBottle-image" url="potionBottle.png" />
+		<ImageLoader name="toxicBarrel-image" url="toxicBarrel.png" />
+	</LoaderMax>
+
+	<LoaderMax prependURLs="audio/obstacles/" load="true">
+		<MP3Loader name="flyingBroomstick-appear" url="flyingBroomstick-appear.mp3" autoPlay="false" />
+		<MP3Loader name="labCrabs-appear" url="labCrabs-appear.mp3" autoPlay="false" />
+		<MP3Loader name="miniDragon-appear" url="miniDragon-appear.mp3" autoPlay="false" />
+		<MP3Loader name="witchRoadwork-appear" url="witchRoadwork-appear.mp3" autoPlay="false" />
+		<MP3Loader name="potionBottle-appear" url="potionBottle-appear.mp3" autoPlay="false" />
+		<MP3Loader name="toxicBarrel-appear" url="toxicBarrel-appear.mp3" autoPlay="false" />
+		
+		<MP3Loader name="flyingBroomstick-react" url="flyingBroomstick-react.mp3" autoPlay="false" />
+		<MP3Loader name="labCrabs-react" url="labCrabs-react.mp3" autoPlay="false" />
+		<MP3Loader name="miniDragon-react" url="miniDragon-react.mp3" autoPlay="false" />
+		<MP3Loader name="witchRoadwork-react" url="witchRoadwork-react.mp3" autoPlay="false" />
+		<MP3Loader name="potionBottle-react" url="potionBottle-react.mp3" autoPlay="false" />
+		<MP3Loader name="toxicBarrel-react" url="toxicBarrel-react.mp3" autoPlay="false" />
+	</LoaderMax>	
+</level>

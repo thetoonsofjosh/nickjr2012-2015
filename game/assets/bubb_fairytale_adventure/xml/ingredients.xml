@@ -1,0 +1,24 @@
+<ingredients>
+	<LoaderMax prependURLs="image/ingredients/" load="true">
+		<ImageLoader name="apple-image" url="apple.png" />
+		<ImageLoader name="bean-image" url="bean.png" />
+		<ImageLoader name="candy-image" url="candy.png" />
+		<ImageLoader name="cookie-image" url="cookie.png" />
+		<ImageLoader name="crumb-image" url="crumb.png" />
+		<ImageLoader name="gingerbreadHouse-image" url="gingerbreadHouse.png" />
+		<ImageLoader name="gingerbreadMan-image" url="gingerbreadMan.png" />
+		<ImageLoader name="muffin-image" url="muffin.png" />
+		<ImageLoader name="pea-image" url="pea.png" />
+		<ImageLoader name="porridge-image" url="porridge.png" />
+		<ImageLoader name="pumpkin-image" url="pumpkin.png" />
+	</LoaderMax>
+	
+	<LoaderMax prependURLs="image/bubbles/" load="true">
+		<ImageLoader name="bubble-highlight" url="highlight.png" />
+		<ImageLoader name="bubble-back" url="back.png" />
+		<ImageLoader name="bubble-front" url="front.png" />
+		<ImageLoader name="bubbleLarge-image" url="large.png" />
+		<ImageLoader name="bubbleMedium-image" url="medium.png" />
+		<ImageLoader name="bubbleSmall-image" url="small.png" />
+	</LoaderMax>
+</ingredients>

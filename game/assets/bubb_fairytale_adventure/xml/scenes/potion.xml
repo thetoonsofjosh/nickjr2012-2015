@@ -1,0 +1,31 @@
+<potion>	
+	<LoaderMax prependURLs="swf/" load="true">
+		<SWFLoader name="potion-swf" url="scenes/potion.swf" autoPlay="false" />
+		<SWFLoader name="bubble-paths-swf" url="bubble-paths.swf" autoPlay="false" />
+		<SWFLoader name="mixing-potion-swf" url="mixing-potion.swf" autoPlay="false" />
+	</LoaderMax>
+	
+	<LoaderMax prependURLs="audio/potion/" load="true">
+		<MP3Loader name="potion-0-0" url="0-0.mp3" autoPlay="false" />
+		<MP3Loader name="potion-0-1" url="0-1.mp3" autoPlay="false" />
+		<MP3Loader name="potion-0-2" url="0-2.mp3" autoPlay="false" />
+		
+		<MP3Loader name="potion-1-0" url="1-0.mp3" autoPlay="false" />
+		<MP3Loader name="potion-1-1" url="1-1.mp3" autoPlay="false" />
+		
+		<MP3Loader name="bubble-pop" url="bubble-pop.mp3" autoPlay="false" />
+		<MP3Loader name="bubble-boil" url="bubble-boil.mp3" autoPlay="false" />
+		<MP3Loader name="bubble-timeout" url="bubble-timeout.mp3" autoPlay="false" />
+		
+		<MP3Loader name="potion-positive-1" url="positive-1.mp3" autoPlay="false" />
+		<MP3Loader name="potion-positive-2" url="positive-2.mp3" autoPlay="false" />
+		<MP3Loader name="potion-positive-3" url="positive-3.mp3" autoPlay="false" />
+		
+		<MP3Loader name="spoon-0" url="spoon-0.mp3" autoPlay="false" />
+		<MP3Loader name="spoon-1" url="spoon-1.mp3" autoPlay="false" />
+		
+		<MP3Loader name="ingredient-fall-sfx" url="ingredient-fall.mp3" autoPlay="false" />
+		<MP3Loader name="stir-sfx" url="stir.mp3" autoPlay="false" />
+	</LoaderMax>	
+		
+</potion>

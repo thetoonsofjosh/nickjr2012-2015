@@ -1,0 +1,16 @@
+<potion>	
+	<LoaderMax prependURLs="swf/" load="true">
+		<SWFLoader name="outro-swf" url="scenes/outro.swf" autoPlay="false" />
+	</LoaderMax>
+
+	<LoaderMax prependURLs="audio/outro/" load="true">
+		<MP3Loader name="outro-audio" url="audio.mp3" autoPlay="false" />
+		<MP3Loader name="outro-print" url="print.mp3" autoPlay="false" />
+		<MP3Loader name="outro-play-again" url="play-again.mp3" autoPlay="false" />
+	</LoaderMax>
+	
+	<LoaderMax prependURLs="printables/" load="true">
+		<ImageLoader name="printable-1" url="printable1.png" />
+		<ImageLoader name="printable-2" url="printable2.png" />
+	</LoaderMax>
+</potion>

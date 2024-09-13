@@ -1,0 +1,94 @@
+<gil>
+	<LoaderMax prependURLs="audio/gil/" load="true">
+		<MP3Loader name="gil-almost-there" url="almost-there.mp3" autoPlay="false" />
+		<MP3Loader name="gil-&" url="and.mp3" autoPlay="false" />
+		<MP3Loader name="gil-more" url="more.mp3" autoPlay="false" />
+		<MP3Loader name="gil-one-more" url="one-more.mp3" autoPlay="false" />
+		
+		<MP3Loader name="gil-level-transition-0" url="level-transition-0.mp3" autoPlay="false" />
+		<MP3Loader name="gil-level-transition-1" url="level-transition-1.mp3" autoPlay="false" />
+	
+		<MP3Loader name="gil-positive-1" url="positive-1.mp3" autoPlay="false" />
+		<MP3Loader name="gil-positive-2" url="positive-2.mp3" autoPlay="false" />
+		
+		<MP3Loader name="gil-wrong-0" url="wrong-0.mp3" autoPlay="false" />
+		<MP3Loader name="gil-wrong-1" url="wrong-1.mp3" autoPlay="false" />
+		<MP3Loader name="gil-wrong-2" url="wrong-2.mp3" autoPlay="false" />
+		<MP3Loader name="gil-wrong-3" url="wrong-3.mp3" autoPlay="false" />
+		
+		<MP3Loader name="gil-collect-1" url="collect-1.mp3" autoPlay="false" />
+		<MP3Loader name="gil-collect-2" url="collect-2.mp3" autoPlay="false" />
+		<MP3Loader name="gil-collect-3" url="collect-3.mp3" autoPlay="false" />
+		
+		<MP3Loader name="gil-react-random-1" url="react-random-1.mp3" autoPlay="false" />
+		<MP3Loader name="gil-react-random-2" url="react-random-2.mp3" autoPlay="false" />
+		<MP3Loader name="gil-react-random-3" url="react-random-3.mp3" autoPlay="false" />
+		<MP3Loader name="gil-react-random-4" url="react-random-4.mp3" autoPlay="false" />
+	</LoaderMax>
+		
+	<LoaderMax prependURLs="audio/gil/ingredients/" load="true">
+		<MP3Loader name="gil-apple-1" url="apple-1.mp3" autoPlay="false" />
+		<MP3Loader name="gil-apple-2" url="apple-2.mp3" autoPlay="false" />
+		<MP3Loader name="gil-apple-3" url="apple-3.mp3" autoPlay="false" />
+		
+		<MP3Loader name="gil-bean-1" url="bean-1.mp3" autoPlay="false" />
+		<MP3Loader name="gil-bean-2" url="bean-2.mp3" autoPlay="false" />
+		<MP3Loader name="gil-bean-3" url="bean-3.mp3" autoPlay="false" />
+		
+		<MP3Loader name="gil-candy-1" url="candy-1.mp3" autoPlay="false" />
+		<MP3Loader name="gil-candy-2" url="candy-2.mp3" autoPlay="false" />
+		<MP3Loader name="gil-candy-3" url="candy-3.mp3" autoPlay="false" />
+		
+		<MP3Loader name="gil-cookie-1" url="cookie-1.mp3" autoPlay="false" />
+		<MP3Loader name="gil-cookie-2" url="cookie-2.mp3" autoPlay="false" />
+		<MP3Loader name="gil-cookie-3" url="cookie-3.mp3" autoPlay="false" />
+		
+		<MP3Loader name="gil-crumb-1" url="crumb-1.mp3" autoPlay="false" />
+		<MP3Loader name="gil-crumb-2" url="crumb-2.mp3" autoPlay="false" />
+		<MP3Loader name="gil-crumb-3" url="crumb-3.mp3" autoPlay="false" />
+		
+		<MP3Loader name="gil-gingerbreadHouse-1" url="gingerbreadHouse-1.mp3" autoPlay="false" />
+		<MP3Loader name="gil-gingerbreadHouse-2" url="gingerbreadHouse-2.mp3" autoPlay="false" />
+		<MP3Loader name="gil-gingerbreadHouse-3" url="gingerbreadHouse-3.mp3" autoPlay="false" />
+		
+		<MP3Loader name="gil-gingerbreadMan-1" url="gingerbreadMan-1.mp3" autoPlay="false" />
+		<MP3Loader name="gil-gingerbreadMan-2" url="gingerbreadMan-2.mp3" autoPlay="false" />
+		<MP3Loader name="gil-gingerbreadMan-3" url="gingerbreadMan-3.mp3" autoPlay="false" />
+		
+		<MP3Loader name="gil-muffin-1" url="muffin-1.mp3" autoPlay="false" />
+		<MP3Loader name="gil-muffin-2" url="muffin-2.mp3" autoPlay="false" />
+		<MP3Loader name="gil-muffin-3" url="muffin-3.mp3" autoPlay="false" />
+		
+		<MP3Loader name="gil-pea-1" url="pea-1.mp3" autoPlay="false" />
+		<MP3Loader name="gil-pea-2" url="pea-2.mp3" autoPlay="false" />
+		<MP3Loader name="gil-pea-3" url="pea-3.mp3" autoPlay="false" />
+		
+		<MP3Loader name="gil-porridge-1" url="porridge-1.mp3" autoPlay="false" />
+		<MP3Loader name="gil-porridge-2" url="porridge-2.mp3" autoPlay="false" />
+		<MP3Loader name="gil-porridge-3" url="porridge-3.mp3" autoPlay="false" />
+		
+		<MP3Loader name="gil-pumpkin-1" url="pumpkin-1.mp3" autoPlay="false" />
+		<MP3Loader name="gil-pumpkin-2" url="pumpkin-2.mp3" autoPlay="false" />
+		<MP3Loader name="gil-pumpkin-3" url="pumpkin-3.mp3" autoPlay="false" />
+	</LoaderMax>
+	
+	<LoaderMax prependURLs="audio/gil/numbers/" load="true">
+		<MP3Loader name="gil-1" url="1.mp3" autoPlay="false" />
+		<MP3Loader name="gil-2" url="2.mp3" autoPlay="false" />
+		<MP3Loader name="gil-3" url="3.mp3" autoPlay="false" />
+		<MP3Loader name="gil-4" url="4.mp3" autoPlay="false" />
+		<MP3Loader name="gil-5" url="5.mp3" autoPlay="false" />
+		<MP3Loader name="gil-6" url="6.mp3" autoPlay="false" />
+		<MP3Loader name="gil-7" url="7.mp3" autoPlay="false" />
+		<MP3Loader name="gil-8" url="8.mp3" autoPlay="false" />
+		
+		<MP3Loader name="gil-1-excited" url="1-excited.mp3" autoPlay="false" />
+		<MP3Loader name="gil-2-excited" url="2-excited.mp3" autoPlay="false" />
+		<MP3Loader name="gil-3-excited" url="3-excited.mp3" autoPlay="false" />
+		<MP3Loader name="gil-4-excited" url="4-excited.mp3" autoPlay="false" />
+		<MP3Loader name="gil-5-excited" url="5-excited.mp3" autoPlay="false" />
+		<MP3Loader name="gil-6-excited" url="6-excited.mp3" autoPlay="false" />
+		<MP3Loader name="gil-7-excited" url="7-excited.mp3" autoPlay="false" />
+		<MP3Loader name="gil-8-excited" url="8-excited.mp3" autoPlay="false" />
+	</LoaderMax>
+</gil>

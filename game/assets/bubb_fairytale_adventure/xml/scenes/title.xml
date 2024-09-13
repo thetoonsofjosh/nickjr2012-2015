@@ -1,30 +1,30 @@
 <title>	
-	<LoaderMax prependURLs="/game/assets/bubb_fairytale_adventure/audio/title/" load="true">
+	<LoaderMax prependURLs="audio/title/" load="true">
 		<MP3Loader name="title-bgm-start" url="bgm-start.mp3" autoPlay="false" />
 		<MP3Loader name="title-bgm-loop" url="bgm-loop.mp3" autoPlay="false" />
 		<MP3Loader name="title-timeout" url="timeout.mp3" autoPlay="false" />
 		<MP3Loader name="title-play" url="play.mp3" autoPlay="false" />
 	</LoaderMax>
 	
-	<LoaderMax prependURLs="/game/assets/bubb_fairytale_adventure/audio/" load="true">
+	<LoaderMax prependURLs="audio/" load="true">
 		<MP3Loader name="molly-skip" url="molly/skip.mp3" autoPlay="false" />
 		<MP3Loader name="gil-skip" url="gil/skip.mp3" autoPlay="false" />
 		<MP3Loader name="button-click-sfx" url="button-click.mp3" autoPlay="false" />
 	</LoaderMax>
 	
-	<LoaderMax prependURLs="/game/assets/bubb_fairytale_adventure/swf/" load="true">
+	<LoaderMax prependURLs="swf/" load="true">
 		<SWFLoader name="title-swf" url="scenes/title.swf" autoPlay="false" />
 		<SWFLoader name="buttons-swf" url="buttons.swf" autoPlay="false" />
 	</LoaderMax>
 		
 	<!-- ingredients.xml -->
-	<LoaderMax prependURLs="/game/assets/bubb_fairytale_adventure/xml/" load="true">
+	<LoaderMax prependURLs="xml/" load="true">
 		<XMLLoader name="ingredients-xml" url="ingredients.xml" />
 		<XMLLoader name="ingredients-gil-xml" url="ingredients-gil.xml" />
 	</LoaderMax>
 	
 	<!-- level.xml -->
-	<LoaderMax prependURLs="/game/assets/bubb_fairytale_adventure/audio/demos/" load="true">
+	<LoaderMax prependURLs="audio/demos/" load="true">
 		<MP3Loader name="0-0" url="0-0.mp3" autoPlay="false" />
 		<MP3Loader name="0-1" url="0-1.mp3" autoPlay="false" />
 		<MP3Loader name="0-4A" url="0-4A.mp3" autoPlay="false" />
@@ -36,7 +36,7 @@
 		<MP3Loader name="0-8" url="0-8.mp3" autoPlay="false" />
 	</LoaderMax>
 	
-	<LoaderMax prependURLs="/game/assets/bubb_fairytale_adventure/swf/" load="true">
+	<LoaderMax prependURLs="swf/" load="true">
 		<SWFLoader name="level-swf" url="scenes/level.swf" autoPlay="false" />
 		<SWFLoader name="numbers-swf" url="numbers.swf" autoPlay="false" />
 		<SWFLoader name="gil-swf" url="characters/gil.swf" autoPlay="false" />
@@ -44,15 +44,15 @@
 		<SWFLoader name="bubbles-swf" url="bubbles.swf" autoPlay="false" />
 	</LoaderMax>
 	
-	<LoaderMax prependURLs="/game/assets/bubb_fairytale_adventure/xml/levels/" load="true">
+	<LoaderMax prependURLs="xml/levels/" load="true">
 		<XMLLoader name="level-0-xml" url="0.xml" />
 	</LoaderMax>
 	
-	<LoaderMax prependURLs="/game/assets/bubb_fairytale_adventure/xml/demos/" load="true">
+	<LoaderMax prependURLs="xml/demos/" load="true">
 		<XMLLoader name="demo-0-xml" url="0.xml" />
 	</LoaderMax>
 	
-	<LoaderMax prependURLs="/game/assets/bubb_fairytale_adventure/audio/levels/" load="true">
+	<LoaderMax prependURLs="audio/levels/" load="true">
 		<MP3Loader name="level-0-bgm" url="0-bgm.mp3" autoPlay="false" />
 		
 		<MP3Loader name="level-0-directions" url="0-directions.mp3" autoPlay="false" />
@@ -68,17 +68,17 @@
 		<MP3Loader name="object-collide-sfx" url="object-collide.mp3" autoPlay="false" />
 	</LoaderMax>
 		
-	<LoaderMax prependURLs="/game/assets/bubb_fairytale_adventure/image/planes/" load="true">
+	<LoaderMax prependURLs="image/planes/" load="true">
 		<ImageLoader name="plane-left-0" url="left-0.png" />
 		<ImageLoader name="plane-middle-0" url="middle-0.jpg" />
 		<ImageLoader name="plane-right-0" url="right-0.png" />
 	</LoaderMax>
 	
-	<LoaderMax prependURLs="/game/assets/bubb_fairytale_adventure/image/specials/" load="true">
+	<LoaderMax prependURLs="image/specials/" load="true">
 		<ImageLoader name="pixieDust-image" url="pixieDust.png" />
 	</LoaderMax>
 	
-	<LoaderMax prependURLs="/game/assets/bubb_fairytale_adventure/image/side-objects/" load="true">
+	<LoaderMax prependURLs="image/side-objects/" load="true">
 		<ImageLoader name="bushA-image" url="bushA.png" />
 		<ImageLoader name="bushB-image" url="bushB.png" />
 		<ImageLoader name="treeA-image" url="treeA.png" />
@@ -92,17 +92,17 @@
 		<ImageLoader name="rock2-image" url="rock2.png" />
 	</LoaderMax>
 	
-	<LoaderMax prependURLs="/game/assets/bubb_fairytale_adventure/image/shadows/" load="true">
+	<LoaderMax prependURLs="image/shadows/" load="true">
 		<ImageLoader name="default-shadow" url="default.png" />
 		<ImageLoader name="flyingBroomstick-shadow" url="flyingBroomstick.png" />
 	</LoaderMax>
 	
-	<LoaderMax prependURLs="/game/assets/bubb_fairytale_adventure/image/obstacles/" load="true">
+	<LoaderMax prependURLs="image/obstacles/" load="true">
 		<ImageLoader name="flyingBroomstick-image" url="flyingBroomstick.png" />
 		<ImageLoader name="potionBottle-image" url="potionBottle.png" />
 	</LoaderMax>
 
-	<LoaderMax prependURLs="/game/assets/bubb_fairytale_adventure/audio/obstacles/" load="true">
+	<LoaderMax prependURLs="audio/obstacles/" load="true">
 		<MP3Loader name="flyingBroomstick-appear" url="flyingBroomstick-appear.mp3" autoPlay="false" />
 		<MP3Loader name="potionBottle-appear" url="potionBottle-appear.mp3" autoPlay="false" />
 		<MP3Loader name="flyingBroomstick-react" url="flyingBroomstick-react.mp3" autoPlay="false" />

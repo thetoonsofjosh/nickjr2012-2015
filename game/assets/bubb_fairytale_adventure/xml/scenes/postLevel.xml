@@ -1,0 +1,23 @@
+<postLevel>	
+	<LoaderMax prependURLs="swf/" load="true">
+		<SWFLoader name="postLevel-swf" url="scenes/postLevel.swf" autoPlay="false" />
+	</LoaderMax>
+	
+	<LoaderMax prependURLs="audio/postLevel/" load="true">
+		<MP3Loader name="postLevel-molly-pouch" url="pouch-2.mp3" autoPlay="false" />
+		<MP3Loader name="postLevel-molly-0" url="molly-0.mp3" autoPlay="false" />
+		<MP3Loader name="postLevel-molly-1" url="molly-1.mp3" autoPlay="false" />
+		<MP3Loader name="postLevel-molly-collected" url="molly-collected.mp3" autoPlay="false" />
+		
+		<MP3Loader name="postLevel-gil-pouch" url="pouch-1.mp3" autoPlay="false" />
+		<MP3Loader name="postLevel-gil-0" url="gil-0.mp3" autoPlay="false" />
+		<MP3Loader name="postLevel-gil-1" url="gil-1.mp3" autoPlay="false" />
+		<MP3Loader name="postLevel-gil-collected" url="gil-collected.mp3" autoPlay="false" />
+		
+		<MP3Loader name="postLevel-end-0-0" url="end-0-0.mp3" autoPlay="false" />
+		<MP3Loader name="postLevel-end-0-1" url="end-0-1.mp3" autoPlay="false" />
+		
+		<MP3Loader name="postLevel-end-1-0" url="end-1-0.mp3" autoPlay="false" />
+		<MP3Loader name="postLevel-end-1-1" url="end-1-1.mp3" autoPlay="false" />
+	</LoaderMax>
+</postLevel>
