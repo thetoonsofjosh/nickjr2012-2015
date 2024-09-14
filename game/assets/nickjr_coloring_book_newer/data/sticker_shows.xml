@@ -5,19 +5,20 @@
 			iconHandle="backgrounds/shows/dora_icon.jpg"
 			show="dora"
 	/>
-
-	<show displayName="Peppa Pig"
-			handle="PP"
-			iconHandle="backgrounds/shows/PP_icon.jpg"
-			show="PP"
+    
+	<show displayName="Paw Patrol"
+			handle="pawp" 
+			iconHandle="backgrounds/shows/pawp_icon.jpg"
+			show="pawp"
 	/>
 
-	<!--
 	<show displayName="Julius Jr."
             handle="JJ"
             iconHandle="backgrounds/shows/JJ_icon.jpg"
             show="JJ"
-    />    
+    />
+    
+    
     
     <show displayName="Dora and Friends"
             handle="dahf"
@@ -30,7 +31,6 @@
 			iconHandle="backgrounds/shows/prab_icon.jpg"
 			show="prab"
 	/>
-	-->
 	
 	<show displayName="Diego"
 			handle="dieg" 
