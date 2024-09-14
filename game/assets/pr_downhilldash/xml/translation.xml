@@ -1,0 +1,18 @@
+<data>
+	
+	<localize>
+		<!-- intro -->
+		<loading_txt><![CDATA[!LOADING...]]></loading_txt>
+		<!-- Logo text is baked into an image 
+		<logo_top_line><![CDATA[FRUIT AND VEGGIE]]></logo_top_line>
+		<logo_bottom_line><![CDATA[Downhill Dash!]]></logo_bottom_line>
+		-->
+		<btn_skip><![CDATA[SKIP]]></btn_skip>
+		<btn_play><![CDATA[PLAY]]></btn_play>
+		
+		<!-- payoff -->
+		<btn_play_again><![CDATA[PLAY AGAIN]]></btn_play_again>
+		<btn_print><![CDATA[PRINT]]></btn_print>
+	</localize>
+	
+</data>

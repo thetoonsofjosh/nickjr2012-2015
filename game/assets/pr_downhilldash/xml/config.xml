@@ -1,0 +1,389 @@
+<data>
+	<gameSettings>		
+		
+		<!-- whether to use regular tracking calls. This is only checked if Phantom tracking is disabled -->
+		<useTracking><![CDATA[true]]></useTracking>
+		
+		<enablePrintable>true</enablePrintable> <!-- true or false, determines print button visibility -->
+		
+		<keyCaptureFixPath>swfs/keyCaptureFix.swf</keyCaptureFixPath>
+		
+		 <!-- Debugging tool. Set to true to clear LSO "hasPlayedBefore", so skip buttons won't be shown to returning players -->		
+		<resetLSO>false</resetLSO> <!-- should be false on live -->
+		
+	</gameSettings>
+	
+	<backgroundData>
+		<sprite id="border" 	width="194"  height="80"  	frames="1"   animName="" hitWidth="" hitHeight="" />
+		<sprite id="overlay" 	width="167"  height="55" 	frames="1"   animName="" hitWidth="" hitHeight="" />
+		<sprite id="mainTile" 	width="756"  height="324"  	frames="1"   animName="" hitWidth="" hitHeight="" />
+		<sprite id="trees" 		width="410"  height="413"  	frames="1"   animName="" hitWidth="" hitHeight="" />
+		<sprite id="terrain" 	width="375"  height="66"  	frames="9"   animName="" hitWidth="" hitHeight="" />
+	</backgroundData>
+	
+	<obstacleData>
+		<sprite id="obstacle" 	width="112"  height="79"  frames="1"   animName="" hitWidth="" hitHeight="" />
+		<sprite id="special" 	width="136"  height="140" frames="30"  animName="" hitWidth="" hitHeight="" />
+	</obstacleData>
+	
+	<shapeData>
+		<sprite id="ramp" 		width="176" height="62" frames="1" animName="" hitWidth="" hitHeight="" xOffset="0" />
+		<sprite id="berry"	 	width="61"  height="55" frames="1" animName="" hitWidth="" hitHeight="" xOffset="0" />
+		<sprite id="carrot" 	width="61"  height="55" frames="1" animName="" hitWidth="" hitHeight="" xOffset="0" />
+		<sprite id="radish" 	width="61"  height="55" frames="1" animName="" hitWidth="" hitHeight="" xOffset="0" />		
+	</shapeData>
+	
+	<playerData>
+		<sprite id="level1"		width="154"  height="133"  frames="90"   animName="" hitWidth="" hitHeight="" />
+		<sprite id="level2"		width="154"  height="133"  frames="118"  animName="" hitWidth="" hitHeight="" />
+		<sprite id="level3"		width="154"  height="133"  frames="118"  animName="" hitWidth="" hitHeight="" />
+	</playerData>
+	
+	<!-- 
+	Determines whether the skip button can be displayed. It will stay invisible until sufficient items have been loaded
+	for the next level
+	-->
+	<loaderOrderByLevel>
+		<level id="0"  minimumRequired="1" />
+		<level id="1"  minimumRequired="3" />
+		<level id="2"  minimumRequired="5" />
+		<level id="3"  minimumRequired="7" />
+	</loaderOrderByLevel>
+	
+	<!-- Language attribute not used (yet?) -->
+	<fontBank path="swfs/embeddedFonts.swf" language="english" />
+	<localization path="xml/translation.xml" language="english" />
+	
+	<assets minimumRequiredToPlay="1">
+		<asset loadOrder="0"	type="swf"	id="content"		filename="swfs/peter_rabbit_game_1_content.swf" domain="shared" />
+		<asset loadOrder="0"	type="swf"	id="transition"		filename="swfs/peter_rabbit_transition.swf" domain="shared" />
+		<asset loadOrder="0"	type="mp3"	id="splash_1"		filename="audio/splash_1.mp3"			domain="shared" />
+		<asset loadOrder="0"	type="mp3"	id="splash_2"		filename="audio/splash_2.mp3"			domain="shared" />
+		<asset loadOrder="0"	type="mp3"	id="btn_play"		filename="audio/play.mp3"				domain="shared" />
+		<asset loadOrder="0"	type="mp3"	id="btn_skip"		filename="audio/skip.mp3"				domain="shared" />
+		<asset loadOrder="0"	type="swf"	id="cutscene_1"		filename="swfs/cutscene_1.swf" 			domain="shared" />
+	
+		<asset loadOrder="1"	type="swf"	id="level1"			filename="swfs/peter_rabbit_flashdev.swf" 	domain="shared" />
+	
+		<asset loadOrder="0"	type="mp3"	id="intro_1"		filename="audio/intro_1.mp3"				domain="shared" />
+		<asset loadOrder="0"	type="mp3"	id="intro_2"		filename="audio/intro_2.mp3"				domain="shared" />
+		<asset loadOrder="0"	type="mp3"	id="intro_3"		filename="audio/intro_3.mp3"				domain="shared" />
+		<asset loadOrder="0"	type="mp3"	id="intro_4"		filename="audio/intro_4.mp3"				domain="shared" />
+		<asset loadOrder="0"	type="mp3"	id="intro_5"		filename="audio/intro_5.mp3"				domain="shared" />
+		<asset loadOrder="0"	type="mp3"	id="intro_6"		filename="audio/intro_6.mp3"				domain="shared" />
+		<asset loadOrder="0"	type="mp3"	id="intro_7"		filename="audio/intro_7.mp3"				domain="shared" />
+		<asset loadOrder="1"	type="mp3"	id="intro_8"		filename="audio/intro_8.mp3"				domain="shared" />
+		<asset loadOrder="1"	type="mp3"	id="intro_9"		filename="audio/intro_9.mp3"				domain="shared" />
+		<asset loadOrder="1"	type="mp3"	id="intro_10"		filename="audio/intro_10.mp3"				domain="shared" />
+		<asset loadOrder="1"	type="mp3"	id="intro_11"		filename="audio/intro_11.mp3"				domain="shared" />
+		<asset loadOrder="1"	type="mp3"	id="intro_12"		filename="audio/intro_12.mp3"				domain="shared" />
+		<asset loadOrder="1"	type="mp3"	id="intro_13"		filename="audio/intro_13.mp3"				domain="shared" />
+		
+		<asset loadOrder="1"	type="mp3"	id="howto_1"		filename="audio/howto_1.mp3"				domain="shared" />
+		<asset loadOrder="1"	type="mp3"	id="howto_2"		filename="audio/howto_2.mp3"				domain="shared" />
+		<asset loadOrder="1"	type="mp3"	id="howto_1b"		filename="audio/howto_1b.mp3"				domain="shared" />
+		
+		<asset loadOrder="4"	type="mp3"	id="end_1"			filename="audio/end_1.mp3"				domain="shared" />
+		<asset loadOrder="4"	type="mp3"	id="end_2"			filename="audio/end_2.mp3"				domain="shared" />
+		<asset loadOrder="4"	type="mp3"	id="end_3"			filename="audio/end_3.mp3"				domain="shared" />
+		<asset loadOrder="4"	type="mp3"	id="end_4"			filename="audio/end_4.mp3"				domain="shared" />
+		<asset loadOrder="4"	type="mp3"	id="end_5"			filename="audio/end_5.mp3"				domain="shared" />
+		
+		<asset loadOrder="4"	type="mp3"	id="print_play_1"	filename="audio/print_play_1.mp3"		domain="shared" />
+		<asset loadOrder="4"	type="mp3"	id="print_play_2"	filename="audio/print_play_2.mp3"		domain="shared" />
+		
+		<!-- Level 1 VO -->
+		<asset loadOrder="1"	type="mp3"	id="completed_level_1"			filename="audio/ingame_L1_end.mp3"	domain="shared" />
+		<asset loadOrder="1"	type="mp3"	id="start_level_1"				filename="audio/ingame_L1_goal.mp3"	domain="shared" />
+		<asset loadOrder="1"	type="mp3"	id="hit_bush_appears"			filename="audio/ingame_L1_bush_1stSeen.mp3"	domain="shared" />
+		<asset loadOrder="1"	type="mp3"	id="hit_fox_appears"			filename="audio/ingame_L1_tod_1stSeen.mp3"	domain="shared" />
+		<asset loadOrder="1"	type="mp3"	id="ramp_appears"				filename="audio/ingame_L1_ramp_1stSeen.mp3"	domain="shared" />
+		<asset loadOrder="1"	type="mp3"	id="ingame_kudos_level_1_1"		filename="audio/ingame_kudos_1.mp3"	domain="shared" />
+		<asset loadOrder="1"	type="mp3"	id="ingame_oops_level_1"		filename="audio/ingame_bump_obstacle_3.mp3"	domain="shared" />
+		<asset loadOrder="1"	type="mp3"	id="end_level_1_1"				filename="audio/break_L1_1.mp3"	domain="shared" />
+		<asset loadOrder="1"	type="mp3"	id="end_level_1_2"				filename="audio/break_L1_1b.mp3"	domain="shared" />
+		<asset loadOrder="1"	type="mp3"	id="end_level_1_3"				filename="audio/BR_L1_3.mp3"	domain="shared" />
+		<asset loadOrder="1"	type="mp3"	id="BR_L1_1"					filename="audio/break_L1_1.mp3"	domain="shared" />
+		<asset loadOrder="1"	type="mp3"	id="BR_L1_3"					filename="audio/break_L3_2_ALT_2.mp3"	domain="shared" />
+		<asset loadOrder="1"	type="mp3"	id="we_collected"				filename="audio/break_L3_2_ALT_3.mp3"	domain="shared" />
+		<asset loadOrder="1"	type="mp3"	id="break_L1_1b"				filename="audio/break_L1_1b.mp3"	domain="shared" />
+		<asset loadOrder="1"	type="mp3"	id="obstacle_timeout_level_1"	filename="audio/ingame_bump_obstacle_2a.mp3"	domain="shared" />
+		<asset loadOrder="1"	type="mp3"	id="ingame_bonus_level_1"		filename="audio/ingame_L1_bonus.mp3"	domain="shared" />
+		
+		<!-- Common VO -->
+		<asset loadOrder="1"	type="mp3"	id="ingame_all_kudos_1"			filename="audio/ingame_kudos_2.mp3"	domain="shared" />
+		<asset loadOrder="1"	type="mp3"	id="ingame_all_kudos_2"			filename="audio/ingame_kudos_3.mp3"	domain="shared" />
+		<asset loadOrder="1"	type="mp3"	id="ingame_all_kudos_3"			filename="audio/ingame_kudos_4.mp3"	domain="shared" />
+		<asset loadOrder="1"	type="mp3"	id="ingame_all_kudos_4"			filename="audio/ingame_kudos_5.mp3"	domain="shared" />
+		<asset loadOrder="1"	type="mp3"	id="ingame_all_obstacle_1"		filename="audio/ingame_bump_obstacle_1.mp3"	domain="shared" />
+		<asset loadOrder="1"	type="mp3"	id="ingame_all_obstacle_2"		filename="audio/ingame_bump_obstacle_2.mp3"	domain="shared" />
+		<asset loadOrder="1"	type="mp3"	id="ingame_all_obstacle_3"		filename="audio/ingame_bump_obstacle_4.mp3"	domain="shared" />
+		<asset loadOrder="1"	type="mp3"	id="ingame_all_obstacle_4"		filename="audio/ingame_bump_obstacle_5.mp3"	domain="shared" />
+		<asset loadOrder="1"	type="mp3"	id="ingame_special_obstacle_1"	filename="audio/ingame_bump_Mr_Tod_1.mp3"	domain="shared" />
+		<asset loadOrder="1"	type="mp3"	id="ingame_special_obstacle_2"	filename="audio/ingame_bump_MrTod_2.mp3"	domain="shared" />
+		<asset loadOrder="1"	type="mp3"	id="ingame_special_obstacle_3"	filename="audio/ingame_bump_Mr Tod_3.mp3"	domain="shared" />
+		<asset loadOrder="1"	type="mp3"	id="ingame_speedbonus_1"		filename="audio/ingame_jump_1.mp3"	domain="shared" />
+		<asset loadOrder="1"	type="mp3"	id="ingame_speedbonus_2"		filename="audio/ingame_jump_2.mp3"	domain="shared" />
+		<asset loadOrder="1"	type="mp3"	id="ingame_speedbonus_3"		filename="audio/ingame_jump_3.mp3"	domain="shared" />
+		<asset loadOrder="1"	type="mp3"	id="spacebar_timeout"			filename="audio/ingame_L2_spacebar_timeout.mp3"	domain="shared" />
+		
+		<asset loadOrder="1"	type="mp3"	id="ingame_bump_repeat"			filename="audio/ingame_3rd-bump_obstacle.mp3"	domain="shared" />
+	
+		
+		<!-- Level 2 VO -->
+		<asset loadOrder="2"	type="mp3"	id="completed_level_2"			filename="audio/ingame_L2_end.mp3"		domain="shared" />
+		<asset loadOrder="2"	type="mp3"	id="start_level_2"				filename="audio/ingame_L2_goalA.mp3"		domain="shared" />
+		<asset loadOrder="2"	type="mp3"	id="start_level_2a"				filename="audio/ingame_L2_goalB.mp3"	domain="shared" />
+		<asset loadOrder="2"	type="mp3"	id="hit_log_appears"			filename="audio/ingame_L2_log_1stSeen.mp3"	domain="shared" />
+		<asset loadOrder="2"	type="mp3"	id="ingame_oops_level_2"		filename="audio/ingame_bump_obstacle_6.mp3"	domain="shared" />
+		<asset loadOrder="2"	type="mp3"	id="ingame_kudos_level_2_1"		filename="audio/ingame_kudos_6.mp3"	domain="shared" />
+		<asset loadOrder="2"	type="mp3"	id="ingame_bonus_level_2"		filename="audio/ingame_L2_bonus.mp3"	domain="shared" />
+		<asset loadOrder="2"	type="mp3"	id="BR_L2_1"					filename="audio/break_L2_1.mp3"	domain="shared" />
+		<asset loadOrder="2"	type="mp3"	id="BR_L2_2"					filename="audio/break_L2_2.mp3"	domain="shared" />
+		<asset loadOrder="2"	type="mp3"	id="obstacle_timeout_level_2"	filename="audio/ingame_bump_obstacle_8.mp3"	domain="shared" />
+	
+		<asset loadOrder="2"	type="mp3"	id="end_level_2_1"				filename="audio/break_L2_1.mp3"	domain="shared" />
+		<asset loadOrder="2"	type="mp3"	id="end_level_2_2"				filename="audio/break_L2_2.mp3"	domain="shared" />
+		<asset loadOrder="2"	type="mp3"	id="end_level_2_3"				filename="audio/BR_L2_3.mp3"	domain="shared" />
+		
+		<!-- Level 3 VO -->
+		<asset loadOrder="3"	type="mp3"	id="completed_level_3"			filename="audio/ingame_L3_end.mp3"		domain="shared" />
+		<asset loadOrder="3"	type="mp3"	id="start_level_3"				filename="audio/ingame_L3_goal.mp3"	domain="shared" />
+		<asset loadOrder="3"	type="mp3"	id="start_level_3a"				filename="audio/ingame_L3_goal_2.mp3"	domain="shared" />
+		<asset loadOrder="3"	type="mp3"	id="hit_rock_appears"				filename="audio/ingame_L3_rock_1stSeen.mp3"	domain="shared" />
+		<asset loadOrder="3"	type="mp3"	id="ingame_oops_level_3b"		filename="audio/ingame_bump_obstacle_7.mp3"	domain="shared" />
+	<!--	<asset loadOrder="1"	type="mp3"	id="ingame_oops_level_3b"		filename="audio/ingame_bump_obstacle_7.mp3"	domain="shared" />
+	-->	<asset loadOrder="3"	type="mp3"	id="ingame_kudos_level_3"		filename="audio/ingame_kudos_8.mp3"	domain="shared" />
+		<asset loadOrder="3"	type="mp3"	id="ingame_bonus_level_3"		filename="audio/ingame_L3_bonus.mp3"	domain="shared" />
+	
+		
+		<asset loadOrder="4"	type="mp3"	id="end_level_3_1"				filename="audio/BR_L3_thats.mp3"	domain="shared" />
+		<asset loadOrder="4"	type="mp3"	id="end_level_3_2"				filename="audio/break_L3_2_ALT_50.mp3"	domain="shared" />
+		<asset loadOrder="4"	type="mp3"	id="end_level_3_3"				filename="audio/BR_L2_3.mp3"	domain="shared" />
+		
+		
+		<asset loadOrder="2"	type="mp3"	id="BR_L3_1"					filename="audio/break_L3_1.mp3"	domain="shared" />
+		<asset loadOrder="2"	type="mp3"	id="BR_L3_2"					filename="audio/break_L3_2.mp3"	domain="shared" />
+		
+		<asset loadOrder="2"	type="mp3"	id="BR_L3_No_1"					filename="audio/BR_L3_No_1.mp3"	domain="shared" />
+		<asset loadOrder="2"	type="mp3"	id="BR_L3_No_2"					filename="audio/BR_L3_No_2.mp3"	domain="shared" />
+		<asset loadOrder="2"	type="mp3"	id="BR_L3_No_3"					filename="audio/BR_L3_No_3.mp3"	domain="shared" />
+		<asset loadOrder="2"	type="mp3"	id="BR_L3_No_4"					filename="audio/BR_L3_No_4.mp3"	domain="shared" />
+		<asset loadOrder="2"	type="mp3"	id="BR_L3_No_5"					filename="audio/BR_L3_No_5.mp3"	domain="shared" />
+		<asset loadOrder="2"	type="mp3"	id="BR_L3_No_6"					filename="audio/BR_L3_No_6.mp3"	domain="shared" />
+		<asset loadOrder="2"	type="mp3"	id="BR_L3_No_7"					filename="audio/BR_L3_No_7.mp3"	domain="shared" />
+		<asset loadOrder="2"	type="mp3"	id="BR_L3_No_8"					filename="audio/BR_L3_No_8.mp3"	domain="shared" />
+		<asset loadOrder="2"	type="mp3"	id="BR_L3_No_9"					filename="audio/BR_L3_No_9.mp3"	domain="shared" />
+	
+		<asset loadOrder="2"	type="mp3"	id="BR_L3_No_10"				filename="audio/BR_L3_No_10.mp3"	domain="shared" />
+		<asset loadOrder="2"	type="mp3"	id="BR_L3_No_11"				filename="audio/BR_L3_No_11.mp3"	domain="shared" />
+		<asset loadOrder="2"	type="mp3"	id="BR_L3_No_12"				filename="audio/BR_L3_No_12.mp3"	domain="shared" />
+		<asset loadOrder="2"	type="mp3"	id="BR_L3_No_13"				filename="audio/BR_L3_No_13.mp3"	domain="shared" />
+		<asset loadOrder="2"	type="mp3"	id="BR_L3_No_14"				filename="audio/BR_L3_No_14.mp3"	domain="shared" />
+		<asset loadOrder="2"	type="mp3"	id="BR_L3_No_15"				filename="audio/BR_L3_No_15.mp3"	domain="shared" />
+		<asset loadOrder="2"	type="mp3"	id="BR_L3_No_16"				filename="audio/BR_L3_No_16.mp3"	domain="shared" />
+		<asset loadOrder="2"	type="mp3"	id="BR_L3_No_17"				filename="audio/BR_L3_No_17.mp3"	domain="shared" />
+		<asset loadOrder="2"	type="mp3"	id="BR_L3_No_18"				filename="audio/BR_L3_No_18.mp3"	domain="shared" />
+		<asset loadOrder="2"	type="mp3"	id="BR_L3_No_19"				filename="audio/BR_L3_No_19.mp3"	domain="shared" />
+		
+		<asset loadOrder="2"	type="mp3"	id="BR_L3_No_20"			filename="audio/BR_L3_No_lead_20.mp3"	domain="shared" />
+		<asset loadOrder="2"	type="mp3"	id="BR_L3_No_30"			filename="audio/BR_L3_No_lead_30.mp3"	domain="shared" />
+		<asset loadOrder="2"	type="mp3"	id="BR_L3_No_40"			filename="audio/BR_L3_No_lead_40.mp3"	domain="shared" />
+		<asset loadOrder="2"	type="mp3"	id="BR_L3_No_50"			filename="audio/BR_L3_No_lead_50.mp3"	domain="shared" />
+		<asset loadOrder="2"	type="mp3"	id="BR_L3_No_60"			filename="audio/BR_L3_No_lead_60.mp3"	domain="shared" />
+		<asset loadOrder="2"	type="mp3"	id="BR_L3_No_70"			filename="audio/BR_L3_No_lead_70.mp3"	domain="shared" />
+		<asset loadOrder="2"	type="mp3"	id="BR_L3_No_80"			filename="audio/BR_L3_No_lead_80.mp3"	domain="shared" />
+		<asset loadOrder="2"	type="mp3"	id="BR_L3_No_90"			filename="audio/BR_L3_No_lead_90.mp3"	domain="shared" />
+		<asset loadOrder="2"	type="mp3"	id="BR_L3_No_100"			filename="audio/BR_L3_No_lead_100.mp3"	domain="shared" />
+		<asset loadOrder="2"	type="mp3"	id="BR_L3_No_200"			filename="audio/BR_L3_No_lead_200.mp3"	domain="shared" />
+		
+		
+		<asset loadOrder="1"	type="mp3"	id="pickup_level_1"				filename="audio/BR_L3_sberry_single.mp3"	domain="shared" />
+		<asset loadOrder="1"	type="mp3"	id="pickup_level_2"				filename="audio/BR_L3_carrot_single.mp3"		domain="shared" />
+		<asset loadOrder="1"	type="mp3"	id="pickup_level_3"				filename="audio/BR_L3_radish_single.mp3"		domain="shared" />
+		<asset loadOrder="1"	type="mp3"	id="pickup_plural_level_1"		filename="audio/BR_L3_sberries.mp3"		domain="shared" />
+		<asset loadOrder="1"	type="mp3"	id="pickup_plural_level_2"		filename="audio/BR_L3_carrots.mp3"		domain="shared" />
+		<asset loadOrder="1"	type="mp3"	id="pickup_plural_level_3"		filename="audio/BR_L3_radishes.mp3"		domain="shared" />
+		<asset loadOrder="4"	type="mp3"	id="BR_L3_thats"				filename="audio/BR_L3_thats.mp3"		domain="shared" />
+		<asset loadOrder="4"	type="mp3"	id="BR_L3_altogether"			filename="audio/break_L3_2_ALT_50.mp3"	domain="shared" />
+		
+		
+		<asset loadOrder="4"	type="swf"	id="printable"					filename="swfs/printContainer.swf" 	domain="shared" />
+		<asset loadOrder="4"	type="img"	id="printable_image"			filename="img/peterRabbit1_printable.png" 	domain="shared" />
+		
+		<!-- Payoff Audio -->
+		<asset loadOrder="4"	type="mp3"	id="btn_play_again"				filename="audio/play_again.mp3"		domain="shared" />
+		<asset loadOrder="4"	type="mp3"	id="btn_print"					filename="audio/print.mp3"			domain="shared" />
+		<asset loadOrder="4"	type="swf"	id="cutscene_4"					filename="swfs/cutscene_2.swf" 		domain="shared" />
+		
+	</assets>
+	
+	<levelSettings>
+		
+		<basepatterns>			
+			<values level="all" 	xOffset="0" yOffset="80" />
+			<values level="1" 		xOffset="0" yOffset="0" />
+			<values level="2" 		xOffset="0" yOffset="0" />
+			<values level="3" 		xOffset="0" yOffset="0" />
+		</basepatterns>
+			
+		<!-- At least 2 patterns are required since the game will avoid repeating the same pattern in a row -->
+		<patterns1>	
+			<pattern level="1" id="0" spawnValue="300" extraSpacing="0" yMin="0" yMax="0" >
+				<obj type="points" xPos="40"  yPos="155" chance="100" />
+				<obj type="points" xPos="300"  yPos="90" chance="100" />
+				<obj type="points" xPos="1110"  yPos="185" chance="100" />
+				<obj type="fence" xPos="150"  yPos="45" chance="100" />
+				<obj type="fence" xPos="490"  yPos="150" chance="100" />
+				<obj type="fence" xPos="740"  yPos="50" chance="100" />
+				<obj type="fence" xPos="980"  yPos="120" chance="100" />
+			</pattern>
+			
+			<pattern level="1" id="1" spawnValue="300" extraSpacing="0" yMin="0" yMax="0" >
+				<obj type="points" xPos="60"  yPos="85" chance="100" />
+				<obj type="points" xPos="450"  yPos="25" chance="100" />
+				<obj type="points" xPos="960"  yPos="135" chance="100" />
+				<obj type="fence" xPos="740"  yPos="45" chance="100" />
+				<obj type="fence" xPos="270"  yPos="130" chance="100" />
+			</pattern>
+			
+			<pattern level="1" id="2" spawnValue="300" extraSpacing="0" yMin="0" yMax="0" >
+				<obj type="points" xPos="40"  yPos="125" chance="100" />
+				<obj type="points" xPos="430"  yPos="160" chance="100" />
+				<obj type="points" xPos="990"  yPos="180" chance="100" />
+				<obj type="fence" xPos="220"  yPos="55" chance="100" />
+				<obj type="fence" xPos="700"  yPos="125" chance="100" />
+			</pattern>
+			
+			<pattern level="1" id="3" spawnValue="300" extraSpacing="0" yMin="0" yMax="0" >
+				<obj type="fence" xPos="720"  yPos="15" chance="100" />
+				<obj type="points" xPos="50"  yPos="15" chance="100" />
+				<obj type="points" xPos="510"  yPos="180" chance="100" />
+				<obj type="points" xPos="990"  yPos="130" chance="100" />
+				<obj type="oilslick" xPos="250"  yPos="75" chance="100" />
+			</pattern>
+			
+			<pattern level="1" id="4" spawnValue="300" extraSpacing="0" yMin="0" yMax="0" >
+				<obj type="points" xPos="150"  yPos="170" chance="100" />
+				<obj type="points" xPos="530"  yPos="80" chance="100" />
+				<obj type="points" xPos="950"  yPos="115" chance="100" />
+				<obj type="fence" xPos="750"  yPos="150" chance="100" />
+				<obj type="fence" xPos="40"  yPos="80" chance="100" />
+				<obj type="fence" xPos="340"  yPos="40" chance="100" />
+			</pattern>
+			
+		</patterns1>
+		<patterns2>			
+			<pattern level="2" id="0" spawnValue="300" extraSpacing="0" yMin="0" yMax="0" >
+				<obj type="points" xPos="40"  yPos="155" chance="100" />
+				<obj type="points" xPos="390"  yPos="40" chance="100" />
+				<obj type="points" xPos="1110"  yPos="175" chance="100" />
+				<obj type="fence" xPos="210"  yPos="30" chance="100" />
+				<obj type="fence" xPos="570"  yPos="150" chance="100" />
+				<obj type="fence" xPos="740"  yPos="50" chance="100" />
+				<obj type="fence" xPos="980"  yPos="120" chance="100" />
+			</pattern>
+			
+			<pattern level="2" id="1" spawnValue="300" extraSpacing="0" yMin="0" yMax="0" >
+				<obj type="points" xPos="60"  yPos="85" chance="100" />
+				<obj type="points" xPos="420"  yPos="65" chance="100" />
+				<obj type="points" xPos="1070"  yPos="110" chance="100" />
+				<obj type="fence" xPos="660"  yPos="35" chance="100" />
+				<obj type="fence" xPos="230"  yPos="125" chance="100" />
+				<obj type="fence" xPos="850"  yPos="130" chance="100" />
+			</pattern>
+			
+			<pattern level="2" id="2" spawnValue="300" extraSpacing="0" yMin="0" yMax="0" >
+				<obj type="points" xPos="50"  yPos="150" chance="100" />
+				<obj type="points" xPos="470"  yPos="30" chance="100" />
+				<obj type="points" xPos="1010"  yPos="130" chance="100" />
+				<obj type="fence" xPos="220"  yPos="55" chance="100" />
+				<obj type="fence" xPos="740"  yPos="85" chance="100" />
+			</pattern>
+			
+			<pattern level="2" id="3" spawnValue="300" extraSpacing="0" yMin="0" yMax="0" >
+				<obj type="fence" xPos="790"  yPos="15" chance="100" />
+				<obj type="points" xPos="50"  yPos="135" chance="100" />
+				<obj type="points" xPos="590"  yPos="70" chance="100" />
+				<obj type="points" xPos="990"  yPos="170" chance="100" />
+				<obj type="oilslick" xPos="240"  yPos="55" chance="100" />
+				<obj type="fence" xPos="450"  yPos="135" chance="100" />
+			</pattern>
+			
+			<pattern level="2" id="4" spawnValue="300" extraSpacing="0" yMin="0" yMax="0" >
+				<obj type="points" xPos="190"  yPos="175" chance="100" />
+				<obj type="points" xPos="560"  yPos="80" chance="100" />
+				<obj type="points" xPos="950"  yPos="115" chance="100" />
+				<obj type="fence" xPos="750"  yPos="150" chance="100" />
+				<obj type="fence" xPos="40"  yPos="80" chance="100" />
+				<obj type="fence" xPos="340"  yPos="40" chance="100" />
+			</pattern>
+			
+			<pattern level="2" id="5" spawnValue="300" extraSpacing="0" yMin="0" yMax="0" >
+				<obj type="points" xPos="60"  yPos="65" chance="100" />
+				<obj type="points" xPos="410"  yPos="175" chance="100" />
+				<obj type="points" xPos="800"  yPos="25" chance="100" />
+				<obj type="fence" xPos="1000"  yPos="110" chance="100" />
+				<obj type="fence" xPos="580"  yPos="90" chance="100" />
+				<obj type="fence" xPos="220"  yPos="135" chance="100" />
+			</pattern>
+		</patterns2>
+		
+		<patterns3>	
+			<pattern level="3" id="0" spawnValue="300" extraSpacing="0" yMin="0" yMax="0" >
+				<obj type="points" xPos="40"  yPos="155" chance="100" />
+				<obj type="points" xPos="280"  yPos="85" chance="100" />
+				<obj type="points" xPos="1090"  yPos="175" chance="100" />
+				<obj type="fence" xPos="140"  yPos="55" chance="100" />
+				<obj type="fence" xPos="400"  yPos="145" chance="100" />
+				<obj type="fence" xPos="650"  yPos="15" chance="100" />
+				<obj type="fence" xPos="920"  yPos="105" chance="100" />
+			</pattern>
+			
+			<pattern level="3" id="1" spawnValue="300" extraSpacing="0" yMin="0" yMax="0" >
+				<obj type="points" xPos="60"  yPos="85" chance="100" />
+				<obj type="points" xPos="450"  yPos="25" chance="100" />
+				<obj type="points" xPos="960"  yPos="135" chance="100" />
+				<obj type="fence" xPos="740"  yPos="45" chance="100" />
+				<obj type="fence" xPos="270"  yPos="130" chance="100" />
+			</pattern>
+			
+			<pattern level="3" id="2" spawnValue="300" extraSpacing="0" yMin="0" yMax="0" >
+				<obj type="points" xPos="40"  yPos="125" chance="100" />
+				<obj type="points" xPos="420"  yPos="155" chance="100" />
+				<obj type="points" xPos="1010"  yPos="130" chance="100" />
+				<obj type="fence" xPos="790"  yPos="140" chance="100" />
+				<obj type="fence" xPos="210"  yPos="55" chance="100" />
+				<obj type="fence" xPos="590"  yPos="40" chance="100" />
+			</pattern>
+			
+			<pattern level="3" id="3" spawnValue="300" extraSpacing="0" yMin="0" yMax="0" >
+				<obj type="fence" xPos="560"  yPos="15" chance="100" />
+				<obj type="points" xPos="50"  yPos="15" chance="100" />
+				<obj type="points" xPos="380"  yPos="95" chance="100" />
+				<obj type="points" xPos="1000"  yPos="175" chance="100" />
+				<obj type="fence" xPos="760"  yPos="135" chance="100" />
+				<obj type="fence" xPos="190"  yPos="135" chance="100" />
+			</pattern>
+			
+			<pattern level="3" id="4" spawnValue="300" extraSpacing="0" yMin="0" yMax="0" >
+				<obj type="points" xPos="170"  yPos="160" chance="100" />
+				<obj type="points" xPos="500"  yPos="125" chance="100" />
+				<obj type="points" xPos="730"  yPos="75" chance="100" />
+				<obj type="fence" xPos="1090"  yPos="10" chance="100" />
+				<obj type="fence" xPos="900"  yPos="125" chance="100" />
+				<obj type="fence" xPos="40"  yPos="80" chance="100" />
+				<obj type="fence" xPos="340"  yPos="40" chance="100" />
+			</pattern>
+			
+			<pattern level="3" id="5" spawnValue="300" extraSpacing="0" yMin="0" yMax="0" >
+				<obj type="points" xPos="60"  yPos="115" chance="100" />
+				<obj type="points" xPos="500"  yPos="170" chance="100" />
+				<obj type="points" xPos="1040"  yPos="35" chance="100" />
+				<obj type="fence" xPos="760"  yPos="120" chance="100" />
+				<obj type="fence" xPos="270"  yPos="75" chance="100" />
+			</pattern>
+		</patterns3>
+	</levelSettings>
+	
+</data>
