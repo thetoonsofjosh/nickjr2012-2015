@@ -1,3 +1,4 @@
+
 <backgrounds>
 
 	<!-- dora -->
@@ -30,6 +31,45 @@
 			iconHandle="backgrounds/bw/dora_world/thumb.jpg"
 			imageHandle="backgrounds/bw/dora_world/printable.swf"
 			show="dora"
+	/>
+    
+     
+	<!-- pawp -->
+	<background displayName="pawp_01"
+			handle="pawp_01" 
+			iconHandle="backgrounds/bw/pawp_01/thumb.jpg"
+			imageHandle="backgrounds/bw/pawp_01/printable.swf"
+			show="pawp"
+	/>
+	<background displayName="pawp_02"
+			handle="pawp_02" 
+			iconHandle="backgrounds/bw/pawp_02/thumb.jpg"
+			imageHandle="backgrounds/bw/pawp_02/printable.swf"
+			show="pawp"
+	/>
+	<background displayName="pawp_03"
+			handle="pawp_03" 
+			iconHandle="backgrounds/bw/pawp_03/thumb.jpg"
+			imageHandle="backgrounds/bw/pawp_03/printable.swf"
+			show="pawp"
+	/>
+	<background displayName="pawp_04"
+			handle="pawp_04" 
+			iconHandle="backgrounds/bw/pawp_04/thumb.jpg"
+			imageHandle="backgrounds/bw/pawp_04/printable.swf"
+			show="pawp"
+	/>
+	<background displayName="pawp_05"
+			handle="pawp_05" 
+			iconHandle="backgrounds/bw/pawp_05/thumb.jpg"
+			imageHandle="backgrounds/bw/pawp_05/printable.swf"
+			show="pawp"
+	/>
+	<background displayName="pawp_06"
+			handle="pawp_06"
+			iconHandle="backgrounds/bw/pawp_06/thumb.jpg"
+			imageHandle="backgrounds/bw/pawp_06/printable.swf"
+			show="pawp"
 	/>
 
 	<!-- PP -->
@@ -65,7 +105,6 @@
 	/>
 
 	<!-- Julius Jr. -->
-	<!--
     <background displayName="JJ_01"
             handle="JJ_01"
             iconHandle="backgrounds/bw/JJ_01/thumb.jpg"
@@ -114,9 +153,10 @@
             imageHandle="backgrounds/bw/JJ_07/printable.swf"
             show="JJ"
             />
+            
+    
     
     <!-- dora and friends -->
-	<!--
 	<background displayName="dahf_01"
             handle="dahf_01"
             iconHandle="backgrounds/bw/dahf_01/thumb.jpg"
@@ -151,7 +191,6 @@
 
 
 	<!-- prab -->
-	<!--
 	<background displayName="prab_01"
 			handle="prab_01" 
 			iconHandle="backgrounds/bw/prab_01/thumb.jpg"
