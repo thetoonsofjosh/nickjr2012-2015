@@ -362,7 +362,7 @@ return { host:host, live:live};
 			
 			function preloadComplete(){KIDS.games.player.launchGame();}
 
-			if ('Video Ad' != 'Video Ad'){
+			if ('Edu Slate' != 'Video Ad'){
 				launchGame = KIDS.games.player.launchGame;
 				$(document).ready(function(){ kids.game.preloader.kidsFormatGameTile(); });			
 			}else{
@@ -386,76 +386,23 @@ return { host:host, live:live};
 					
 			}
 			
-			$(document).bind("ready", function(){if ('Video Ad' == 'No Ad'){ launchGame(); }});
+			$(document).bind("ready", function(){if ('Edu Slate' == 'No Ad'){ launchGame(); }});
 			$(document).ready(function(){ kids.game.cookie.saveRecentlyPlayedGame('diegos-dino-flyer-rescue'); });				
-		</script><div style="width:755px;height:338px;" class="Video Ad" id="game-outer"><div id="ad-bg"><div id="ad-bg-inner">
+		</script><div style="width:755px;height:338px;" class="Edu Slate" id="game-outer"><div id="ad-bg"><div id="ad-bg-inner">
 <!-- SWFOBJECT: ad-bg-inner -->
 <script type="text/javascript">
 /* <![CDATA[ */
-$(document).ready(function() { doRegisterSwf('ad-bg-inner','https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/KidsContainer.swf','ad-bg-inner','9.0.124.0','320px','740px',{configPath:"https://thetoonsofjosh.github.io/nickjr2012-2015/common/data/kids/get-kids-preloader.jhtml?fsd%3D/dynaboss%26urlAlias%3Ddiegos-dino-flyer-rescue"},'false','false','https://thetoonsofjosh.github.io/nickjr2012-2015/dynamo/javascript/swfobject/expressinstall.swf','https://thetoonsofjosh.github.io/nickjr2012-2015/common/detect/get_flash.jhtml',{scale:"noscale",bgcolor:"#FFFFFF",allowFullScreen:"true",base:".",wmode:"transparent",salign:"TL",allowScriptAccess:"always",swliveconnect:"false"},{name:"ad-bg-inner", id:"ad-bg-inner"}); });
+$(document).ready(function() { doRegisterSwf('ad-bg-inner','https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/KidsContainer.swf','ad-bg-inner','9.0.124.0','320px','740px',{configPath:"https://thetoonsofjosh.github.io/nickjr2012-2015/common/data/kids/games/diego-dino-flyer-edu-slate.jhtml"},'false','false','https://thetoonsofjosh.github.io/nickjr2012-2015/dynamo/javascript/swfobject/expressinstall.swf','https://thetoonsofjosh.github.io/nickjr2012-2015/common/detect/get_flash.jhtml',{scale:"noscale",bgcolor:"#FFFFFF",allowFullScreen:"true",base:".",wmode:"transparent",salign:"TL",allowScriptAccess:"always",swliveconnect:"false"},{name:"ad-bg-inner", id:"ad-bg-inner"}); });
 /* ]]> */
 </script>
-</div></div><div id="ad-content"><div id="game-ad-inner"></div></div><div id="game-game"><div id="game-inner"></div></div><script type="text/javascript">
-				/*  */	
-					kids.game.preloader.clearAdContent();
-					$("#game-outer").css("visibility","visible");
-										
-					com.mtvnet.games.GameSettings.Ad.gamePerAd = 0;
-					com.mtvnet.games.GameSettings.Ad.timeDisplayEnabled = true;
-		
-					com.mtvnet.games.GameSettings.Ad.disableAds = false;
-					com.mtvnet.games.GameSettings.Ad.Quantcast.enabled = false;
-					com.mtvnet.games.GameSettings.Ad.DoubleClick.keyValues = "ga=diegos-dino-flyer-rescue,genre=NA,site=NickJrPlayTime__Games";
-					com.mtvnet.games.GameSettings.Ad.FreeWheel.enabled = true;
-					com.mtvnet.games.GameSettings.Ad.DoubleClick.enabled = false;
-					com.mtvnet.games.GameSettings.Ad.width = "492"; //640 is default
-					com.mtvnet.games.GameSettings.Ad.height = "320"; //480 is default
-
-		
-					com.mtvnet.games.GameSettings.Ad.FreeWheel.networkId = 82125;
-					com.mtvnet.games.GameSettings.Ad.FreeWheel.siteSection = "NickJrPlayTime__Games";
-					com.mtvnet.games.GameSettings.Ad.FreeWheel.assetId =  "mgid:cms:item:nickjr.com:89510";
-							
-						//com.mtvnet.games.GameSettings.Reporting.GoogleAnalytics.enabled = true;
-						//com.mtvnet.games.GameSettings.Reporting.GoogleAnalytics.account = "UA-1922428-3";
-						
-						var htmlEmbedTag = "<object name=\"gameSwf\" id=\"gameSwf\" height=\"320\" width=\"492\" type=\"application/x-shockwave-flash\" data=\"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dieg_dinoflyer/loader.swf\">";
-						htmlEmbedTag += "<param name=\"allowfullscreen\" value=\"true\"/>";
-						htmlEmbedTag += "<param name=\"allowscriptaccess\" value=\"always\"/>";
-						htmlEmbedTag += "<param name=\"wmode\" value=\"opaque\"/>";
-						htmlEmbedTag += "<param name=\"base\" value=\".\"/>";
-						htmlEmbedTag += "<param name=\"flashvars\" value=\"gameName=diegos-dino-flyer-rescue&amp;gameURI=diegos-dino-flyer-rescue\"/>";
-						htmlEmbedTag += "<param name=\"movie\" value=\"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dieg_dinoflyer/loader.swf\" />";
-						htmlEmbedTag += "</object>";
-		
-						com.mtvnet.games.GameSettings.Game.gameEmbedTag = htmlEmbedTag;
-						com.mtvnet.games.GameSettings.Game.height = "320";
-						com.mtvnet.games.GameSettings.Game.width = "492";
-						com.mtvnet.games.GameSettings.Game.param = {
-								menu:'false',
-								scale:'noborder', 
-								base:'.', 
-								wmode:'opaque',
-								salign:'TL',
-								allowfullscreen:'false',
-								allowscriptaccess:'always',
-								swliveconnect:'true'
-						};
-						com.mtvnet.games.GameSettings.Game.metadata.gameURL = "https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dieg_dinoflyer/loader.swf?gameName=diegos-dino-flyer-rescue&gameURI=diegos-dino-flyer-rescue";
-						com.mtvnet.games.GameSettings.Game.metadata.gameTitle = "diegos-dino-flyer-rescue";
-						com.mtvnet.games.GameSettings.Game.metadata.gameId = "89510";
-		
-						//com.mtvnet.games.GameSettings.Game.doPrecache = data.enablePrecaching;
-					
-						com.mtvnet.games.GameSettings.Game.metadata.gameGenre = "NA";
-						com.mtvnet.games.GameSettings.Game.metadata.gameType = "NA";
-						com.mtvnet.games.GameSettings.Game.metadata.gameName = "diegos-dino-flyer-rescue";
-						com.mtvnet.games.GameSettings.Game.metadata.type = "network";
-					
-						com.mtvnet.games.GameLoader.init(document.getElementById("game-inner"));
-						KIDS.games.player.launchGame();
-					/*  */
-				</script></div>
+</div></div><div id="ad-content"><div id="game-ad-inner"></div></div><div id="game-game"><div style="width:492px;height:320px;" id="game-inner">
+<!-- SWFOBJECT: kidsGame -->
+<script type="text/javascript">
+/* <![CDATA[ */
+$(document).ready(function() { doRegisterSwf('kidsGame','https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dieg_dinoflyer/loader.swf','game-inner','9.0.28','320px','492px',{gameName:"diegos-dino-flyer-rescue",gameURI:"diegos-dino-flyer-rescue"},'true','false','https://thetoonsofjosh.github.io/nickjr2012-2015/dynamo/javascript/swfobject/expressinstall.swf','/common/detect/get_flash.jhtml',{menu:"false",scale:"noborder",base:".",wmode:"opaque",salign:"TL",allowScriptAccess:"always",swliveconnect:"true"},{name:"kidsGame", id:"kidsGame"}); });
+/* ]]> */
+</script>
+</div></div></div>
 				</div>	
 			</div></div><script type="text/javascript">
 					/*  */
@@ -467,7 +414,7 @@ $(document).ready(function() { doRegisterSwf('ad-bg-inner','https://thetoonsofjo
 									$('#contentWrapper').html("<div id='expressInstallWrapper' style='width:970px;height:355px;text-align:center;'><div id='expressInstall'></div></div>");
 									doRegisterSwf('expressInstall','https://thetoonsofjosh.github.io/nickjr2012-2015/dynamo/javascript/swfobject/expressinstall.swf','expressInstall','7','355px','970px',{},'false','false','','',{scale:"none",bgcolor:"#FFFFFF",base:".",wmode:"transparent",salign:"",allowScriptAccess:"always",swliveconnect:"false",menu:"false"});
 								}else{
-									var altFlashImage = "<div id='altFlashImage' style='width:438px;height:257px;'><a href='http://web.archive.org/web/20140626131114/http://get.adobe.com/flashplayer/' target='blank'><img  width='438' height='257' border='0' src='/dynaboss/images/kids/games/get_flash_message.gif'></a></div>";
+									var altFlashImage = "<div id='altFlashImage' style='width:438px;height:257px;'><a href='http://web.archive.org/web/20120501052059/http://get.adobe.com/flashplayer/' target='blank'><img  width='438' height='257' border='0' src='/dynaboss/images/kids/games/get_flash_message.gif'></a></div>";
 									$('#contentWrapper').html("<div id='flashAltContent' style='width:970px;height:355px;text-align:center;padding:0px;'>"+altFlashImage+"</div>");
 									kids.game.preloader.kidsFormatCenter("#flashAltContent","#altFlashImage");
 								}
