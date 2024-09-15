@@ -1,0 +1,36 @@
+{	
+"config":{
+"buttons":[
+{
+"localConnectionId":"ShowLogo",
+"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/showlogos/GoDiegoGo.swf", 
+"position":{"x":"298","y":"17"}	
+}
+],
+"preloader":{
+"eduslate":{
+"slate":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/loaders/edu-slate.swf", 
+"title":"Diego's Dino Flyer Rescue", 
+"audio":"/dynaboss", 
+"displayTime":"8",
+"icons":[
+
+{
+"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/finder/game/assets/badges/large/discover.png", 
+"title":"DISCOVER with us"	
+}
+
+,
+{
+"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/finder/game/assets/badges/large/share-care.png", 
+"title":"SHARE and CARE with us"	
+}
+
+
+
+
+]	
+}
+}
+}
+}	
