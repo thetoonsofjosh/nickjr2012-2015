@@ -337,7 +337,7 @@ return { host:host, live:live};
 				</script><div id="kidsSeoText"><a href="https://thetoonsofjosh.github.io/nickjr2012-2015/kids/">home</a><a href="https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/">games</a><a href="https://thetoonsofjosh.github.io/nickjr2012-2015/kids-videos/">videos</a><a href="https://thetoonsofjosh.github.io/nickjr2012-2015/art-games/">create</a><a href="/nickjrboost.com">boost</a></div></div></div></div><div style="background: url(https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/promos/kids-bg-texture.png);" id="contentWrapper"><script>var PLAYTIME_LARGE_GAME = false, PLAYTIME_GAME_WIDTH = parseInt("600"), PLAYTIME_GAME_HEIGHT = parseInt("340");</script><link href="https://thetoonsofjosh.github.io/nickjr2012-2015/styles/kids/playtime-video.css" type="text/css" rel="stylesheet"/><div class="line game"><div class="unit"><div style="width:207px;height:340px;" class="kidsspaceholder"><div id="kidsPromoWrapper"><script type="text/javascript">
 			/*  */
 				$(document).ready(function(){ 
-					doRegisterSwf('kidsPromoContainer','https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/KidsContainer.swf','kidsPromoWrapper','9.0.28','340px','207px',{fLCIdent:fLCIdent, dynSchemeDomain:"", defaultDomain:"", configPath:'https://thetoonsofjosh.github.io/nickjr2012-2015/common/data/kids/games/blues-clues-game-page-3.jhtml', mrssGen:''},'false','false','https://thetoonsofjosh.github.io/nickjr2012-2015/dynamo/javascript/swfobject/expressinstall.swf','https://thetoonsofjosh.github.io/nickjr2012-2015/common/detect/get_flash.jhtml',{scale:"noscale",bgcolor:"#FFFFFF",base:".",wmode:"transparent",salign:"TL",allowScriptAccess:"always",swliveconnect:"false",menu:"false"},{name:"kidsPromoContainer", id:"kidsPromoContainer"});});
+					doRegisterSwf('kidsPromoContainer','https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/KidsContainer.swf','kidsPromoWrapper','9.0.28','340px','207px',{fLCIdent:fLCIdent, dynSchemeDomain:"", defaultDomain:"", configPath:'https://thetoonsofjosh.github.io/nickjr2012-2015/common/data/kids/games/blues-clues-game-page-2.jhtml', mrssGen:''},'false','false','https://thetoonsofjosh.github.io/nickjr2012-2015/dynamo/javascript/swfobject/expressinstall.swf','https://thetoonsofjosh.github.io/nickjr2012-2015/common/detect/get_flash.jhtml',{scale:"noscale",bgcolor:"#FFFFFF",base:".",wmode:"transparent",salign:"TL",allowScriptAccess:"always",swliveconnect:"false",menu:"false"},{name:"kidsPromoContainer", id:"kidsPromoContainer"});});
 			/*  */
 			</script><span class="seo">Imagine you had a puppy. What would he look like? Click on options for his ears, eyes, nose, mouth, and color.</span></div></div></div>
 						<div class="unit">
@@ -353,23 +353,58 @@ return { host:host, live:live};
 					}
 					KIDS.games.player.launchGame = launchGameFlash;
 				/*  */
-				</script><script type="text/javascript">
-			launchGame = KIDS.games.player.launchGame;
+				</script><script type="text/javascript">						
 			
+			function clearStandaloneAd(){
+				
+			}
+		
 			
 			function preloadComplete(){KIDS.games.player.launchGame();}
 
-			$(document).ready(function(){ kids.game.preloader.kidsFormatGameTile(); });
-			$(document).ready(function(){ kids.game.cookie.saveRecentlyPlayedGame('blues-puppy-maker'); });	
-							
-		</script><div style="width:755px;height:338px;" id="game-outer"><div id="ad-bg"><div id="ad-bg-inner"></div></div><div id="ad-content"><div id="game-ad-inner"></div></div><div id="game-game"><div style="width:565px;height:320px;" id="game-inner">
+			if ('Edu Slate' != 'Video Ad'){
+				launchGame = KIDS.games.player.launchGame;
+				$(document).ready(function(){ kids.game.preloader.kidsFormatGameTile(); });			
+			}else{
+				//$(document).ready(function(){ setTimeout("kids.game.preloader.kidsFormatGameTile();", 1000); });				
+			
+				
+				$(document).ready(function(){ 
+					
+					var game = $("#game-outer").css("position","relative");						
+					
+					var parentWidth = game.parent().width() / 2;
+					var parentHeight = game.parent().height() / 2;
+					
+					var leftAdjustment = Math.round(parentWidth - (600 / 2));
+					var topAdjustment = Math.round(parentHeight - (340 / 2));
+					
+					game.css('left', leftAdjustment + 'px');
+					game.css('top', topAdjustment + 'px');
+				
+				});
+					
+			}
+			
+			$(document).bind("ready", function(){if ('Edu Slate' == 'No Ad'){ launchGame(); }});
+			$(document).ready(function(){ kids.game.cookie.saveRecentlyPlayedGame('blues-puppy-maker'); });				
+		</script><div style="width:755px;height:340px;" class="Edu Slate" id="game-outer"><div id="ad-bg"><div id="ad-bg-inner">
+<!-- SWFOBJECT: ad-bg-inner -->
+<script type="text/javascript">
+/* <![CDATA[ */
+$(document).ready(function() { doRegisterSwf('ad-bg-inner','https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/KidsContainer.swf','ad-bg-inner','9.0.124.0','320px','740px',{configPath:"https://thetoonsofjosh.github.io/nickjr2012-2015/common/data/kids/games/blues-puppy-maker-edu-slate.jhtml"},'false','false','https://thetoonsofjosh.github.io/nickjr2012-2015/dynamo/javascript/swfobject/expressinstall.swf','https://thetoonsofjosh.github.io/nickjr2012-2015/common/detect/get_flash.jhtml',{scale:"noscale",bgcolor:"#FFFFFF",allowFullScreen:"true",base:".",wmode:"transparent",salign:"TL",allowScriptAccess:"always",swliveconnect:"false"},{name:"ad-bg-inner", id:"ad-bg-inner"}); });
+/* ]]> */
+</script>
+</div></div><div id="ad-content"><div id="game-ad-inner"></div></div><div id="game-game"><div style="width:600px;height:340px;" id="game-inner">
 <!-- SWFOBJECT: kidsGame -->
 <script type="text/javascript">
 /* <![CDATA[ */
-$(document).ready(function() { doRegisterSwf('kidsGame','https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/blue_puppymaker/game.swf','game-inner','9.0.28','320px','565px',{gameName:"blues-puppy-maker",gameURI:"blues-puppy-maker"},'true','false','https://thetoonsofjosh.github.io/nickjr2012-2015/dynamo/javascript/swfobject/expressinstall.swf','https://thetoonsofjosh.github.io/nickjr2012-2015/common/detect/get_flash.jhtml',{menu:"false",scale:"noorder",base:".",wmode:"opaque",salign:"TL",allowScriptAccess:"always",swliveconnect:"true"},{name:"kidsGame", id:"kidsGame"}); });
+$(document).ready(function() { doRegisterSwf('kidsGame','https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/blue_puppymaker/game.swf','game-inner','9.0.28','340px','600px',{gameName:"blues-puppy-maker",gameURI:"blues-puppy-maker"},'true','false','https://thetoonsofjosh.github.io/nickjr2012-2015/dynamo/javascript/swfobject/expressinstall.swf','/common/detect/get_flash.jhtml',{menu:"false",scale:"noborder",base:".",wmode:"opaque",salign:"TL",allowScriptAccess:"always",swliveconnect:"true"},{name:"kidsGame", id:"kidsGame"}); });
 /* ]]> */
 </script>
-</div></div></div></div></div></div><script type="text/javascript">
+</div></div></div>
+				</div>	
+			</div></div><script type="text/javascript">
 					/*  */
 						$(document).ready(function(){
 							var hasCurrentVersion = swfobject.hasFlashPlayerVersion("10");
@@ -377,9 +412,9 @@ $(document).ready(function() { doRegisterSwf('kidsGame','https://thetoonsofjosh.
 							if(!hasCurrentVersion){
 								if(canUseExpressInstall){
 									$('#contentWrapper').html("<div id='expressInstallWrapper' style='width:970px;height:355px;text-align:center;'><div id='expressInstall'></div></div>");
-									doRegisterSwf('expressInstall','https://thetoonsofjosh.github.io/nickjr2012-2015/dynamo/javascript/swfobject/expressinstall.swf','expressInstall','7','355px','970px',{},'false','false','','',{scale:"none",bgcolor:"#FFFFFF",base:".",wmode:"transparent",salign:"",allowScriptAccess:"always",swliveconnect:"false",menu:"false"});
+									doRegisterSwf('expressInstall','http://web.archive.org/web/20141214163107/http://www.nickjr.com/dynamo/javascript/swfobject/expressinstall.swf','expressInstall','7','355px','970px',{},'false','false','','',{scale:"none",bgcolor:"#FFFFFF",base:".",wmode:"transparent",salign:"",allowScriptAccess:"always",swliveconnect:"false",menu:"false"});
 								}else{
-									var altFlashImage = "<div id='altFlashImage' style='width:438px;height:257px;'><a href='http://web.archive.org/web/20100617033052/http://get.adobe.com/flashplayer/' target='blank'><img  width='438' height='257' border='0' src='https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/images/kids/games/get_flash_message.gif'></a></div>";
+									var altFlashImage = "<div id='altFlashImage' style='width:438px;height:257px;'><a href='http://web.archive.org/web/20141214163107/http://get.adobe.com/flashplayer/' target='blank'><img  width='438' height='257' border='0' src='/dynaboss/images/kids/games/get_flash_message.gif'></a></div>";
 									$('#contentWrapper').html("<div id='flashAltContent' style='width:970px;height:355px;text-align:center;padding:0px;'>"+altFlashImage+"</div>");
 									kids.game.preloader.kidsFormatCenter("#flashAltContent","#altFlashImage");
 								}
