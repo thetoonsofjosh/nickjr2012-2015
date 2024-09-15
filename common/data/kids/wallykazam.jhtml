@@ -7,7 +7,7 @@
 },
 "animation":{
 "loader":{"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/loaders/general-loader.swf"},
-"urlAlias":"kids-dora-and-friends",
+"urlAlias":"kids-wallykazam",
 "path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/main-content/wally-animated-overlay-2-3.swf",
 "classId":"LandingPageAnimation"
 },
@@ -45,7 +45,7 @@
 "title":"PLAY: Wallykazam! Word Hunt", 
 "thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/wally_magic_word_hunt/GamesFinder/wally_magic_word_hunt-promo-2-thumb.jpg",
 "promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/wally_magic_word_hunt/GamesFinder/wally_magic_word_hunt-screenshot1.jpg",
-"link":"/kids-games/wally-magic-word-hunt.html", 
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/wally-magic-word-hunt.html", 
 "datePosted":"Wed Aug 22 00:00:00 EDT 2012", 
 "numViews":"35867"
 }
@@ -64,7 +64,7 @@
 
 "position":{"x":"754","y":"68"},
 
-"allLink":"/kids-videos/wallykazam-kids-videos.html",
+"allLink":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-videos/wallykazam-kids-videos.html",
 "items":[
 
 {
@@ -75,7 +75,7 @@
 "thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/assets/videoplayer/kids/videos/wall/108-day-in-dark/108-day-in-dark.jpg",
 "promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss",
 
-"link":"/kids-videos/wallykazam-kids-videos.html", 
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-videos/wallykazam-kids-videos.html", 
 "datePosted":"2009-09-21 16:31:21.0", 
 "numViews":"0"
 
