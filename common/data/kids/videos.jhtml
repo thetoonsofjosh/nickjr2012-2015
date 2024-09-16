@@ -97,6 +97,22 @@
 ,
 
 {
+"urlAlias":"mia-and-me-kids-videos",	
+"featured":"",	
+
+"title":"Mia and Me", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/assets/videoplayer/kids/playlist/miaa/kids-promo.jpg",
+"promoImage":"/dynaboss",
+
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-videos/mia-and-me-kids-videos.html", 
+"datePosted":"2014-05-03 17:16:30.0", 
+"numViews":"0"
+
+}
+
+,
+
+{
 "urlAlias":"team-umizoomi-kids-videos",	
 "featured":"",	
 
@@ -106,22 +122,6 @@
 
 "link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-videos/team-umizoomi-kids-videos.html", 
 "datePosted":"2010-01-27 17:16:30.0", 
-"numViews":"0"
-
-}
-
-,
-
-{
-"urlAlias":"mia-and-me-kids-videos",	
-"featured":"",	
-
-"title":"Mia and Me", 
-"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/assets/videoplayer/kids/playlist/miaa/kids-promo.jpg",
-"promoImage":"/dynaboss",
-
-"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-videos/mia-and-me-kids-videos.html", 
-"datePosted":"2014-04-15 17:16:30.0", 
 "numViews":"0"
 
 }
@@ -346,22 +346,6 @@
 
 "link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-videos/go-diego-go-kids-videos.html", 
 "datePosted":"2009-09-21 13:11:54.0", 
-"numViews":"0"
-
-}
-
-,
-
-{
-"urlAlias":"wow-wow-wubbzy-kids-videos",	
-"featured":"",	
-
-"title":"Wow! Wow! Wubbzy!", 
-"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/assets/videoplayer/kids/playlist/wubb/kids-promo.jpg",
-"promoImage":"/dynaboss",
-
-"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-videos/wow-wow-wubbzy-kids-videos.html", 
-"datePosted":"2009-09-18 14:13:26.0", 
 "numViews":"0"
 
 }
