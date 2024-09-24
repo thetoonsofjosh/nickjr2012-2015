@@ -97,22 +97,6 @@
 ,
 
 {
-"urlAlias":"mia-and-me-kids-videos",	
-"featured":"",	
-
-"title":"Mia and Me", 
-"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/assets/videoplayer/kids/playlist/miaa/kids-promo.jpg",
-"promoImage":"/dynaboss",
-
-"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-videos/mia-and-me-kids-videos.html", 
-"datePosted":"2014-05-03 17:16:30.0", 
-"numViews":"0"
-
-}
-
-,
-
-{
 "urlAlias":"team-umizoomi-kids-videos",	
 "featured":"",	
 
@@ -129,15 +113,15 @@
 ,
 
 {
-"urlAlias":"wallykazam-kids-videos",	
+"urlAlias":"mia-and-me-kids-videos",	
 "featured":"",	
 
-"title":"Wallykazam!", 
-"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/assets/videoplayer/kids/playlist/wall/kids-promo.jpg",
+"title":"Mia and Me", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/assets/videoplayer/kids/playlist/miaa/kids-promo.jpg",
 "promoImage":"/dynaboss",
 
-"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-videos/wallykazam-kids-videos.html", 
-"datePosted":"2014-02-21 17:16:30.0", 
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-videos/mia-and-me-kids-videos.html", 
+"datePosted":"2014-05-03 17:16:30.0", 
 "numViews":"0"
 
 }
@@ -153,7 +137,23 @@
 "promoImage":"/dynaboss",
 
 "link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-videos/fresh-beat-band-kids-videos.html", 
-"datePosted":"2009-09-21 13:18:16.0", 
+"datePosted":"2009-09-21 17:16:30.0", 
+"numViews":"0"
+
+}
+
+,
+
+{
+"urlAlias":"wallykazam-kids-videos",	
+"featured":"",	
+
+"title":"Wallykazam!", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/assets/videoplayer/kids/playlist/wall/kids-promo.jpg",
+"promoImage":"/dynaboss",
+
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-videos/wallykazam-kids-videos.html", 
+"datePosted":"2014-02-03 13:18:16.0", 
 "numViews":"0"
 
 }
@@ -169,7 +169,7 @@
 "promoImage":"/dynaboss",
 
 "link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-videos/kids-julius-jr-videos.html", 
-"datePosted":"2014-02-21 17:16:30.0", 
+"datePosted":"2013-09-2 17:16:30.0", 
 "numViews":"0"
 
 }
