@@ -1,0 +1,1002 @@
+<rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:mediaad="http://blip.tv/mediaad"
+version="2.0">
+<channel>
+<title>Yo Gabba Gabba! Videos</title>
+<link>https://thetoonsofjosh.github.io/nickjr2012-2015/kids/</link>
+<description>nickjr.com video mrss</description>
+<image>
+<title>nickjr.com</title>
+<link>https://thetoonsofjosh.github.io/nickjr2012-2015/</link>
+<url>https://thetoonsofjosh.github.io/nickjr2012-2015/common/assets/navbar/nickjrLogo/nickjr_logo1.swf</url>
+<height>200</height>
+<width>200</width>
+</image>
+<item>
+<title>Love</title>
+<link>http://www.nickjr.com/video/index.jhtml?videoid=102893</link>
+<guid isPermaLink="false">mgid:cms:item:nickjr.com:102893</guid>
+<description><![CDATA[The Gabba gang learns that it's okay to love different things like flowers, birds, animals and each other.]]></description>
+<image width="" height=""/>
+<media:group>
+<media:content type="text/xml" isDefault="true" duration="342"
+url="https://thetoonsofjosh.github.io/nickjr2012-2015/dynamo/video/data/mrssGenygglove.xml">
+<mediaad:content url="http://ad.doubleclick.net/pfadx/nickjr.playtime.nol/yoga/p/cv/kids/pac{pac}/YoGabbaGabbaVideos;hub=kids;franchise=yoga;clip=Love;mode=playlist;playlist=YoGabbaGabbaVideos;loc=default;mtype=video;pform=network;!category=yoga;!category=playlist;!category=default;!category=Love;psp=0;asc={asc};ssc={ssc};psc={psc};pac={pac};sac={sac};rsc={rsc};rac={rac};gac={gac};!category=previousMetadatafranchise;demo={demo};tile={tile};dcmt=text/xml;u=hub-kids|franchise-yoga|clip-Love|mode-playlist|playlist-YoGabbaGabbaVideos|loc-default|mtype-video|pform-network|!category-yoga|!category-playlist|!category-default|!category-Love|psp-0|asc-{asc}|ssc-{ssc}|psc-{psc}|pac-{pac}|sac-{sac}|rsc-{rsc}|rac-{rac}|gac-{gac}|!category-previousMetadatafranchise|demo-{demo}|tile-{tile}|dcmt-text/xml;sz=640x480;ord={ord}"/>
+</media:content>
+<media:title>Love</media:title>
+<media:description><![CDATA[The Gabba gang learns that it's okay to love different things like flowers, birds, animals and each other.]]></media:description>
+<media:thumbnail width="145" height="111"
+url="http://www.nickjr.com/assets/videoplayer/kids/videos/yoga/119-love/119-love-thumb.jpg"/>
+<media:player url="http://media.mtvnservices.com/mgid:cms:item:nickjr.com:102893"/>
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:category scheme="urn:mtvn:content_type" label="Playtime Clip">Playtime Clip</media:category>
+<media:category scheme="urn:mtvn:franchise" label="yoga">yoga</media:category>
+<media:category scheme="urn:mtvn:playlist_title" label="Yo Gabba Gabba! Videos">yo_gabba_gabba__videos</media:category>
+<media:category scheme="urn:mtvn:playlist_uri" label="mgid:cms:playlist:nickjr.com:100993">mgid:cms:playlist:nickjr.com:100993</media:category>
+<media:category scheme="urn:mtvn:reportable">true</media:category>
+<media:category scheme="urn:mtvn:affect_counters">true</media:category>
+<media:category scheme="urn:mtvn:display:source">Yo Gabba Gabba!</media:category>
+<media:category scheme="urn:mtvn:display:source_link">http://www.nickjr/com/shows/</media:category>
+<media:category scheme="urn:mtvn:display:date">Wed Feb 17 00:00:00 EST 2010</media:category>
+<media:category scheme="urn:mtvn:display:seo"><![CDATA[
+<a href='http://www.nickjr.com/'>NickJr.</a>,<a href='http://www.nickjr.com/shows/'>NickJr. Kids Shows</a>,<a href='http://www.nickjr.com/games-activities/'>Preschool Games and Activities</a>,<a href='http://www.nickjr.com/video/index.jhtml'>NickJr. Video</a>
+]]></media:category>
+</media:group>
+</item>
+<item>
+<title>Weather</title>
+<link>http://www.nickjr.com/video/index.jhtml?videoid=117740</link>
+<guid isPermaLink="false">mgid:cms:item:nickjr.com:117740</guid>
+<description><![CDATA[Rain gives fresh water to the plants, animals, and flowers! Join Todee and Muno as they sing about the rain.]]></description>
+<image width="" height=""/>
+<media:group>
+<media:content type="text/xml" isDefault="true" duration="189"
+url="https://thetoonsofjosh.github.io/nickjr2012-2015/dynamo/video/data/mrssGenyggweather.xml">
+<mediaad:content url="http://ad.doubleclick.net/pfadx/nickjr.playtime.nol/yoga/p/cv/kids/pac{pac}/YoGabbaGabbaVideos;hub=kids;franchise=yoga;clip=Weather;mode=playlist;playlist=YoGabbaGabbaVideos;loc=default;mtype=video;pform=network;!category=yoga;!category=playlist;!category=default;!category=Weather;psp=0;asc={asc};ssc={ssc};psc={psc};pac={pac};sac={sac};rsc={rsc};rac={rac};gac={gac};!category=previousMetadatafranchise;demo={demo};tile={tile};dcmt=text/xml;u=hub-kids|franchise-yoga|clip-Weather|mode-playlist|playlist-YoGabbaGabbaVideos|loc-default|mtype-video|pform-network|!category-yoga|!category-playlist|!category-default|!category-Weather|psp-0|asc-{asc}|ssc-{ssc}|psc-{psc}|pac-{pac}|sac-{sac}|rsc-{rsc}|rac-{rac}|gac-{gac}|!category-previousMetadatafranchise|demo-{demo}|tile-{tile}|dcmt-text/xml;sz=640x480;ord={ord}"/>
+</media:content>
+<media:title>Weather</media:title>
+<media:description><![CDATA[Rain gives fresh water to the plants, animals, and flowers! Join Todee and Muno as they sing about the rain.]]></media:description>
+<media:thumbnail width="145" height="111"
+url="http://www.nickjr.com/assets/videoplayer/kids/videos/yoga/207-weather/207-weather-thumb.jpg"/>
+<media:player url="http://media.mtvnservices.com/mgid:cms:item:nickjr.com:117740"/>
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:text role="captions" lang="en" label="English (CC)" type="text/xml"
+src="http://a6.akadl.mtvnservices.com/5291/mtvnorigin/gsp.alias/mediabus/nickjr.com/2013/01/31/04/29/398060/81843_3461036_398060_20130131162846362.dfxp.xml"/>
+<media:category scheme="urn:mtvn:content_type" label="Playtime Clip">Playtime Clip</media:category>
+<media:category scheme="urn:mtvn:franchise" label="yoga">yoga</media:category>
+<media:category scheme="urn:mtvn:playlist_title" label="Yo Gabba Gabba! Videos">yo_gabba_gabba__videos</media:category>
+<media:category scheme="urn:mtvn:playlist_uri" label="mgid:cms:playlist:nickjr.com:100993">mgid:cms:playlist:nickjr.com:100993</media:category>
+<media:category scheme="urn:mtvn:reportable">true</media:category>
+<media:category scheme="urn:mtvn:affect_counters">true</media:category>
+<media:category scheme="urn:mtvn:display:source">Yo Gabba Gabba!</media:category>
+<media:category scheme="urn:mtvn:display:source_link">http://www.nickjr/com/shows/</media:category>
+<media:category scheme="urn:mtvn:display:date">Thu Jan 31 00:00:00 EST 2013</media:category>
+<media:category scheme="urn:mtvn:display:seo"><![CDATA[
+<a href='http://www.nickjr.com/'>NickJr.</a>,<a href='http://www.nickjr.com/shows/'>NickJr. Kids Shows</a>,<a href='http://www.nickjr.com/games-activities/'>Preschool Games and Activities</a>,<a href='http://www.nickjr.com/video/index.jhtml'>NickJr. Video</a>
+]]></media:category>
+</media:group>
+</item>
+<item>
+<title>A Very Awesome Christmas</title>
+<link>http://www.nickjr.com/video/index.jhtml?videoid=114277</link>
+<guid isPermaLink="false">mgid:cms:item:nickjr.com:114277</guid>
+<description><![CDATA[The Gabba gang is so ready for Christmas with a tree, lights, and a fire in the fireplace, warming the night.]]></description>
+<image width="" height=""/>
+<media:group>
+<media:content type="text/xml" isDefault="true" duration="157"
+url="https://thetoonsofjosh.github.io/nickjr2012-2015/dynamo/video/data/mrssGenyggveryawesomexmas.xml">
+<mediaad:content url="http://ad.doubleclick.net/pfadx/nickjr.playtime.nol/yoga/p/cv/kids/pac{pac}/YoGabbaGabbaVideos;hub=kids;franchise=yoga;clip=AVeryAwesomeChristmas;mode=playlist;playlist=YoGabbaGabbaVideos;loc=default;mtype=video;pform=network;!category=yoga;!category=playlist;!category=default;!category=AVeryAwesomeChristma;psp=0;asc={asc};ssc={ssc};psc={psc};pac={pac};sac={sac};rsc={rsc};rac={rac};gac={gac};!category=previousMetadatafranchise;demo={demo};tile={tile};dcmt=text/xml;u=hub-kids|franchise-yoga|clip-AVeryAwesomeChristmas|mode-playlist|playlist-YoGabbaGabbaVideos|loc-default|mtype-video|pform-network|!category-yoga|!category-playlist|!category-default|!category-AVeryAwesomeChristma|psp-0|asc-{asc}|ssc-{ssc}|psc-{psc}|pac-{pac}|sac-{sac}|rsc-{rsc}|rac-{rac}|gac-{gac}|!category-previousMetadatafranchise|demo-{demo}|tile-{tile}|dcmt-text/xml;sz=640x480;ord={ord}"/>
+</media:content>
+<media:title>A Very Awesome Christmas</media:title>
+<media:description><![CDATA[The Gabba gang is so ready for Christmas with a tree, lights, and a fire in the fireplace, warming the night.]]></media:description>
+<media:thumbnail width="145" height="111"
+url="http://www.nickjr.com/assets/videoplayer/kids/videos/yoga/403-awesome-christmas/403-awesome-christmas-thumb.jpg"/>
+<media:player url="http://media.mtvnservices.com/mgid:cms:item:nickjr.com:114277"/>
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:category scheme="urn:mtvn:content_type" label="Playtime Clip">Playtime Clip</media:category>
+<media:category scheme="urn:mtvn:franchise" label="yoga">yoga</media:category>
+<media:category scheme="urn:mtvn:playlist_title" label="Yo Gabba Gabba! Videos">yo_gabba_gabba__videos</media:category>
+<media:category scheme="urn:mtvn:playlist_uri" label="mgid:cms:playlist:nickjr.com:100993">mgid:cms:playlist:nickjr.com:100993</media:category>
+<media:category scheme="urn:mtvn:reportable">true</media:category>
+<media:category scheme="urn:mtvn:affect_counters">true</media:category>
+<media:category scheme="urn:mtvn:display:source">Yo Gabba Gabba!</media:category>
+<media:category scheme="urn:mtvn:display:source_link">http://www.nickjr/com/shows/</media:category>
+<media:category scheme="urn:mtvn:display:date">Mon Dec 19 00:00:00 EST 2011</media:category>
+<media:category scheme="urn:mtvn:display:seo"><![CDATA[
+<a href='http://www.nickjr.com/'>NickJr.</a>,<a href='http://www.nickjr.com/shows/'>NickJr. Kids Shows</a>,<a href='http://www.nickjr.com/games-activities/'>Preschool Games and Activities</a>,<a href='http://www.nickjr.com/video/index.jhtml'>NickJr. Video</a>
+]]></media:category>
+</media:group>
+</item>
+<item>
+<title>Christmas Time</title>
+<link>http://www.nickjr.com/video/index.jhtml?videoid=111207</link>
+<guid isPermaLink="false">mgid:cms:item:nickjr.com:111207</guid>
+<description><![CDATA['Tis the season for the Gabba gang to get ready for Christmas.]]></description>
+<image width="" height=""/>
+<media:group>
+<media:content type="text/xml" isDefault="true" duration="241"
+url="https://thetoonsofjosh.github.io/nickjr2012-2015/dynamo/video/data/mrssGenyggxmastime.xml">
+<mediaad:content url="http://ad.doubleclick.net/pfadx/nickjr.playtime.nol/yoga/p/cv/kids/pac{pac}/YoGabbaGabbaVideos;hub=kids;franchise=yoga;clip=ChristmasTime;mode=playlist;playlist=YoGabbaGabbaVideos;loc=default;mtype=video;pform=network;!category=yoga;!category=playlist;!category=default;!category=ChristmasTime;psp=0;asc={asc};ssc={ssc};psc={psc};pac={pac};sac={sac};rsc={rsc};rac={rac};gac={gac};!category=previousMetadatafranchise;demo={demo};tile={tile};dcmt=text/xml;u=hub-kids|franchise-yoga|clip-ChristmasTime|mode-playlist|playlist-YoGabbaGabbaVideos|loc-default|mtype-video|pform-network|!category-yoga|!category-playlist|!category-default|!category-ChristmasTime|psp-0|asc-{asc}|ssc-{ssc}|psc-{psc}|pac-{pac}|sac-{sac}|rsc-{rsc}|rac-{rac}|gac-{gac}|!category-previousMetadatafranchise|demo-{demo}|tile-{tile}|dcmt-text/xml;sz=640x480;ord={ord}"/>
+</media:content>
+<media:title>Christmas Time</media:title>
+<media:description><![CDATA['Tis the season for the Gabba gang to get ready for Christmas.]]></media:description>
+<media:thumbnail width="145" height="111"
+url="http://www.nickjr.com/assets/videoplayer/kids/videos/yoga/114-christmas/114-christmas-thumb.jpg"/>
+<media:player url="http://media.mtvnservices.com/mgid:cms:item:nickjr.com:111207"/>
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:category scheme="urn:mtvn:content_type" label="Playtime Clip">Playtime Clip</media:category>
+<media:category scheme="urn:mtvn:franchise" label="yoga">yoga</media:category>
+<media:category scheme="urn:mtvn:playlist_title" label="Yo Gabba Gabba! Videos">yo_gabba_gabba__videos</media:category>
+<media:category scheme="urn:mtvn:playlist_uri" label="mgid:cms:playlist:nickjr.com:100993">mgid:cms:playlist:nickjr.com:100993</media:category>
+<media:category scheme="urn:mtvn:reportable">true</media:category>
+<media:category scheme="urn:mtvn:affect_counters">true</media:category>
+<media:category scheme="urn:mtvn:display:source">Yo Gabba Gabba!</media:category>
+<media:category scheme="urn:mtvn:display:source_link">http://www.nickjr/com/shows/</media:category>
+<media:category scheme="urn:mtvn:display:date">Fri Nov 26 00:00:00 EST 2010</media:category>
+<media:category scheme="urn:mtvn:display:seo"><![CDATA[
+<a href='http://www.nickjr.com/'>NickJr.</a>,<a href='http://www.nickjr.com/shows/'>NickJr. Kids Shows</a>,<a href='http://www.nickjr.com/games-activities/'>Preschool Games and Activities</a>,<a href='http://www.nickjr.com/video/index.jhtml'>NickJr. Video</a>
+]]></media:category>
+</media:group>
+</item>
+<item>
+<title>The Leaves Are Falling</title>
+<link>http://www.nickjr.com/video/index.jhtml?videoid=110844</link>
+<guid isPermaLink="false">mgid:cms:item:nickjr.com:110844</guid>
+<description><![CDATA[Check it out--Brobee wants to tell you all about FALL!]]></description>
+<image width="" height=""/>
+<media:group>
+<media:content type="text/xml" isDefault="true" duration="143"
+url="https://thetoonsofjosh.github.io/nickjr2012-2015/dynamo/video/data/mrssGenyggtheleavesarefalling.xml">
+<mediaad:content url="http://ad.doubleclick.net/pfadx/nickjr.playtime.nol/yoga/p/cv/kids/pac{pac}/YoGabbaGabbaVideos;hub=kids;franchise=yoga;clip=TheLeavesAreFalling;mode=playlist;playlist=YoGabbaGabbaVideos;loc=default;mtype=video;pform=network;!category=yoga;!category=playlist;!category=default;!category=TheLeavesAreFalling;psp=0;asc={asc};ssc={ssc};psc={psc};pac={pac};sac={sac};rsc={rsc};rac={rac};gac={gac};!category=previousMetadatafranchise;demo={demo};tile={tile};dcmt=text/xml;u=hub-kids|franchise-yoga|clip-TheLeavesAreFalling|mode-playlist|playlist-YoGabbaGabbaVideos|loc-default|mtype-video|pform-network|!category-yoga|!category-playlist|!category-default|!category-TheLeavesAreFalling|psp-0|asc-{asc}|ssc-{ssc}|psc-{psc}|pac-{pac}|sac-{sac}|rsc-{rsc}|rac-{rac}|gac-{gac}|!category-previousMetadatafranchise|demo-{demo}|tile-{tile}|dcmt-text/xml;sz=640x480;ord={ord}"/>
+</media:content>
+<media:title>The Leaves Are Falling</media:title>
+<media:description><![CDATA[Check it out--Brobee wants to tell you all about FALL!]]></media:description>
+<media:thumbnail width="145" height="111"
+url="http://www.nickjr.com/assets/videoplayer/kids/videos/yoga/110-leaves/110-leaves-thumb.jpg"/>
+<media:player url="http://media.mtvnservices.com/mgid:cms:item:nickjr.com:110844"/>
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:category scheme="urn:mtvn:content_type" label="Playtime Clip">Playtime Clip</media:category>
+<media:category scheme="urn:mtvn:franchise" label="yoga">yoga</media:category>
+<media:category scheme="urn:mtvn:playlist_title" label="Yo Gabba Gabba! Videos">yo_gabba_gabba__videos</media:category>
+<media:category scheme="urn:mtvn:playlist_uri" label="mgid:cms:playlist:nickjr.com:100993">mgid:cms:playlist:nickjr.com:100993</media:category>
+<media:category scheme="urn:mtvn:reportable">true</media:category>
+<media:category scheme="urn:mtvn:affect_counters">true</media:category>
+<media:category scheme="urn:mtvn:display:source">Yo Gabba Gabba!</media:category>
+<media:category scheme="urn:mtvn:display:source_link">http://www.nickjr/com/shows/</media:category>
+<media:category scheme="urn:mtvn:display:date">Tue May 11 00:00:00 EDT 2010</media:category>
+<media:category scheme="urn:mtvn:display:seo"><![CDATA[
+<a href='http://www.nickjr.com/'>NickJr.</a>,<a href='http://www.nickjr.com/shows/'>NickJr. Kids Shows</a>,<a href='http://www.nickjr.com/games-activities/'>Preschool Games and Activities</a>,<a href='http://www.nickjr.com/video/index.jhtml'>NickJr. Video</a>
+]]></media:category>
+</media:group>
+</item>
+<item>
+<title>Gooble</title>
+<link>http://www.nickjr.com/video/index.jhtml?videoid=116914</link>
+<guid isPermaLink="false">mgid:cms:item:nickjr.com:116914</guid>
+<description><![CDATA[Gooble the ghost is feeling very lonely, so his friends are throwing him a spooky surprise party at his house!]]></description>
+<image width="" height=""/>
+<media:group>
+<media:content type="text/xml" isDefault="true" duration="221"
+url="https://thetoonsofjosh.github.io/nickjr2012-2015/dynamo/video/data/mrssGenygggooble.xml">
+<mediaad:content url="http://ad.doubleclick.net/pfadx/nickjr.playtime.nol/yoga/p/cv/kids/pac{pac}/YoGabbaGabbaVideos;hub=kids;franchise=yoga;clip=Gooble;mode=playlist;playlist=YoGabbaGabbaVideos;loc=default;mtype=video;pform=network;!category=yoga;!category=playlist;!category=default;!category=Gooble;psp=0;asc={asc};ssc={ssc};psc={psc};pac={pac};sac={sac};rsc={rsc};rac={rac};gac={gac};!category=previousMetadatafranchise;demo={demo};tile={tile};dcmt=text/xml;u=hub-kids|franchise-yoga|clip-Gooble|mode-playlist|playlist-YoGabbaGabbaVideos|loc-default|mtype-video|pform-network|!category-yoga|!category-playlist|!category-default|!category-Gooble|psp-0|asc-{asc}|ssc-{ssc}|psc-{psc}|pac-{pac}|sac-{sac}|rsc-{rsc}|rac-{rac}|gac-{gac}|!category-previousMetadatafranchise|demo-{demo}|tile-{tile}|dcmt-text/xml;sz=640x480;ord={ord}"/>
+</media:content>
+<media:title>Gooble</media:title>
+<media:description><![CDATA[Gooble the ghost is feeling very lonely, so his friends are throwing him a spooky surprise party at his house!]]></media:description>
+<media:thumbnail width="145" height="111"
+url="http://www.nickjr.com/assets/videoplayer/kids/videos/yoga/401-gooble/401-gooble-thumb.jpg"/>
+<media:player url="http://media.mtvnservices.com/mgid:cms:item:nickjr.com:116914"/>
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:text role="captions" lang="en" label="English (CC)" type="text/xml"
+src="http://a2.akadl.mtvnservices.com/5291/mtvnorigin/gsp.alias/mediabus/nickjr.com/2012/10/19/01/41/357287/_77611_4008827_357287_20121019134100966.dfxp.xml"/>
+<media:category scheme="urn:mtvn:content_type" label="Playtime Clip">Playtime Clip</media:category>
+<media:category scheme="urn:mtvn:franchise" label="yoga">yoga</media:category>
+<media:category scheme="urn:mtvn:playlist_title" label="Yo Gabba Gabba! Videos">yo_gabba_gabba__videos</media:category>
+<media:category scheme="urn:mtvn:playlist_uri" label="mgid:cms:playlist:nickjr.com:100993">mgid:cms:playlist:nickjr.com:100993</media:category>
+<media:category scheme="urn:mtvn:reportable">true</media:category>
+<media:category scheme="urn:mtvn:affect_counters">true</media:category>
+<media:category scheme="urn:mtvn:display:source">Yo Gabba Gabba!</media:category>
+<media:category scheme="urn:mtvn:display:source_link">http://www.nickjr/com/shows/</media:category>
+<media:category scheme="urn:mtvn:display:date">Fri Oct 19 00:00:00 EDT 2012</media:category>
+<media:category scheme="urn:mtvn:display:seo"><![CDATA[
+<a href='http://www.nickjr.com/'>NickJr.</a>,<a href='http://www.nickjr.com/shows/'>NickJr. Kids Shows</a>,<a href='http://www.nickjr.com/games-activities/'>Preschool Games and Activities</a>,<a href='http://www.nickjr.com/video/index.jhtml'>NickJr. Video</a>
+]]></media:category>
+</media:group>
+</item>
+<item>
+<title>Halloween</title>
+<link>http://www.nickjr.com/video/index.jhtml?videoid=87469</link>
+<guid isPermaLink="false">mgid:cms:item:nickjr.com:87469</guid>
+<description><![CDATA[Gabba gang is all dressed up for Halloween rsc};rac={rac};gac={gac};!category=previousMetadatafranchise;demo={demo};tile={tile};dcmt=text/xml;u=hub-kids|franchise-yoga|clip-Games|mode-playlist|playlist-YoGabbaGabbaVideos|loc-default|mtype-video|pform-network|!category-yoga|!category-playlist|!category-default|!category-Games|psp-0|asc-{asc}|ssc-{ssc}|psc-{psc}|pac-{pac}|sac-{sac}|rsc-{rsc}|rac-{rac}|gac-{gac}|!category-previousMetadatafranchise|demo-{demo}|tile-{tile}|dcmt-text/xml;sz=640x480;ord={ord}"/>
+</media:content>
+<media:title>Games</media:title>
+<media:description><![CDATA[Let's play a game! DJ Lance says, "Enjoy this video!"]]></media:description>
+<media:thumbnail width="145" height="111"
+url="http://www.nickjr.com/assets/videoplayer/kids/videos/yoga/203-games/203-games-thumb.jpg"/>
+<media:player url="http://media.mtvnservices.com/mgid:cms:item:nickjr.com:115952"/>
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:category scheme="urn:mtvn:content_type" label="Playtime Clip">Playtime Clip</media:category>
+<media:category scheme="urn:mtvn:franchise" label="yoga">yoga</media:category>
+<media:category scheme="urn:mtvn:playlist_title" label="Yo Gabba Gabba! Videos">yo_gabba_gabba__videos</media:category>
+<media:category scheme="urn:mtvn:playlist_uri" label="mgid:cms:playlist:nickjr.com:100993">mgid:cms:playlist:nickjr.com:100993</media:category>
+<media:category scheme="urn:mtvn:reportable">true</media:category>
+<media:category scheme="urn:mtvn:affect_counters">true</media:category>
+<media:category scheme="urn:mtvn:display:source">Yo Gabba Gabba!</media:category>
+<media:category scheme="urn:mtvn:display:source_link">http://www.nickjr/com/shows/</media:category>
+<media:category scheme="urn:mtvn:display:date">Mon Jun 25 00:00:00 EDT 2012</media:category>
+<media:category scheme="urn:mtvn:display:seo"><![CDATA[
+<a href='http://www.nickjr.com/'>NickJr.</a>,<a href='http://www.nickjr.com/shows/'>NickJr. Kids Shows</a>,<a href='http://www.nickjr.com/games-activities/'>Preschool Games and Activities</a>,<a href='http://www.nickjr.com/video/index.jhtml'>NickJr. Video</a>
+]]></media:category>
+</media:group>
+</item>
+<item>
+<title>Differences</title>
+<link>http://www.nickjr.com/video/index.jhtml?videoid=115954</link>
+<guid isPermaLink="false">mgid:cms:item:nickjr.com:115954</guid>
+<description><![CDATA[Razzle dazzle! Muno has glasses now. Glasses can help us see much better!]]></description>
+<image width="" height=""/>
+<media:group>
+<media:content type="text/xml" isDefault="true" duration="175"
+url="https://thetoonsofjosh.github.io/nickjr2012-2015/dynamo/video/data/mrssGenyggdifferences.xml">
+<mediaad:content url="http://ad.doubleclick.net/pfadx/nickjr.playtime.nol/yoga/p/cv/kids/pac{pac}/YoGabbaGabbaVideos;hub=kids;franchise=yoga;clip=Differences;mode=playlist;playlist=YoGabbaGabbaVideos;loc=default;mtype=video;pform=network;!category=yoga;!category=playlist;!category=default;!category=Differences;psp=0;asc={asc};ssc={ssc};psc={psc};pac={pac};sac={sac};rsc={rsc};rac={rac};gac={gac};!category=previousMetadatafranchise;demo={demo};tile={tile};dcmt=text/xml;u=hub-kids|franchise-yoga|clip-Differences|mode-playlist|playlist-YoGabbaGabbaVideos|loc-default|mtype-video|pform-network|!category-yoga|!category-playlist|!category-default|!category-Differences|psp-0|asc-{asc}|ssc-{ssc}|psc-{psc}|pac-{pac}|sac-{sac}|rsc-{rsc}|rac-{rac}|gac-{gac}|!category-previousMetadatafranchise|demo-{demo}|tile-{tile}|dcmt-text/xml;sz=640x480;ord={ord}"/>
+</media:content>
+<media:title>Differences</media:title>
+<media:description><![CDATA[Razzle dazzle! Muno has glasses now. Glasses can help us see much better!]]></media:description>
+<media:thumbnail width="145" height="111"
+url="http://www.nickjr.com/assets/videoplayer/kids/videos/yoga/209-glasses/209-glasses-thumb.jpg"/>
+<media:player url="http://media.mtvnservices.com/mgid:cms:item:nickjr.com:115954"/>
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:text role="captions" lang="en" label="English (CC)" type="text/xml"
+src="http://a5.akadl.mtvnservices.com/5291/mtvnorigin/gsp.alias/mediabus/nickjr.com/2012/06/25/06/24/290976/_74667_2493423_290976_20120625182351460.dfxp.xml"/>
+<media:category scheme="urn:mtvn:content_type" label="Playtime Clip">Playtime Clip</media:category>
+<media:category scheme="urn:mtvn:franchise" label="yoga">yoga</media:category>
+<media:category scheme="urn:mtvn:playlist_title" label="Yo Gabba Gabba! Videos">yo_gabba_gabba__videos</media:category>
+<media:category scheme="urn:mtvn:playlist_uri" label="mgid:cms:playlist:nickjr.com:100993">mgid:cms:playlist:nickjr.com:100993</media:category>
+<media:category scheme="urn:mtvn:reportable">true</media:category>
+<media:category scheme="urn:mtvn:affect_counters">true</media:category>
+<media:category scheme="urn:mtvn:display:source">null</media:category>
+<media:category scheme="urn:mtvn:display:source_link">http://www.nickjr/com/shows/</media:category>
+<media:category scheme="urn:mtvn:display:date">Mon Jun 25 00:00:00 EDT 2012</media:category>
+<media:category scheme="urn:mtvn:display:seo"><![CDATA[
+<a href='http://www.nickjr.com/'>NickJr.</a>,<a href='http://www.nickjr.com/shows/'>NickJr. Kids Shows</a>,<a href='http://www.nickjr.com/games-activities/'>Preschool Games and Activities</a>,<a href='http://www.nickjr.com/video/index.jhtml'>NickJr. Video</a>
+]]></media:category>
+</media:group>
+</item>
+<item>
+<title>New Friends</title>
+<link>http://www.nickjr.com/video/index.jhtml?videoid=115950</link>
+<guid isPermaLink="false">mgid:cms:item:nickjr.com:115950</guid>
+<description><![CDATA[Our new friend Jack is lost! Can we help him get back home?]]></description>
+<image width="" height=""/>
+<media:group>
+<media:content type="text/xml" isDefault="true" duration="165"
+url="https://thetoonsofjosh.github.io/nickjr2012-2015/dynamo/video/data/mrssGenyggnewfriends.xml">
+<mediaad:content url="http://ad.doubleclick.net/pfadx/nickjr.playtime.nol/yoga/p/cv/kids/pac{pac}/YoGabbaGabbaVideos;hub=kids;franchise=yoga;clip=NewFriends;mode=playlist;playlist=YoGabbaGabbaVideos;loc=default;mtype=video;pform=network;!category=yoga;!category=playlist;!category=default;!category=NewFriends;psp=0;asc={asc};ssc={ssc};psc={psc};pac={pac};sac={sac};rsc={rsc};rac={rac};gac={gac};!category=previousMetadatafranchise;demo={demo};tile={tile};dcmt=text/xml;u=hub-kids|franchise-yoga|clip-NewFriends|mode-playlist|playlist-YoGabbaGabbaVideos|loc-default|mtype-video|pform-network|!category-yoga|!category-playlist|!category-default|!category-NewFriends|psp-0|asc-{asc}|ssc-{ssc}|psc-{psc}|pac-{pac}|sac-{sac}|rsc-{rsc}|rac-{rac}|gac-{gac}|!category-previousMetadatafranchise|demo-{demo}|tile-{tile}|dcmt-text/xml;sz=640x480;ord={ord}"/>
+</media:content>
+<media:title>New Friends</media:title>
+<media:description><![CDATA[Our new friend Jack is lost! Can we help him get back home?]]></media:description>
+<media:thumbnail width="145" height="111"
+url="http://www.nickjr.com/assets/videoplayer/kids/videos/promo/n13258-lost/n13258-lost-thumb.jpg"/>
+<media:player url="http://media.mtvnservices.com/mgid:cms:item:nickjr.com:115950"/>
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:text role="captions" lang="en" label="English (CC)" type="text/xml"
+src="http://a3.akadl.mtvnservices.com/5291/mtvnorigin/gsp.alias/mediabus/nickjr.com/2012/06/25/06/24/290979/_74667_2513506_290979_20120625182351460.dfxp.xml"/>
+<media:category scheme="urn:mtvn:content_type" label="Playtime Clip">Playtime Clip</media:category>
+<media:category scheme="urn:mtvn:franchise" label="yoga">yoga</media:category>
+<media:category scheme="urn:mtvn:playlist_title" label="Yo Gabba Gabba! Videos">yo_gabba_gabba__videos</media:category>
+<media:category scheme="urn:mtvn:playlist_uri" label="mgid:cms:playlist:nickjr.com:100993">mgid:cms:playlist:nickjr.com:100993</media:category>
+<media:category scheme="urn:mtvn:reportable">true</media:category>
+<media:category scheme="urn:mtvn:affect_counters">true</media:category>
+<media:category scheme="urn:mtvn:display:source">null</media:category>
+<media:category scheme="urn:mtvn:display:source_link">http://www.nickjr/com/shows/</media:category>
+<media:category scheme="urn:mtvn:display:date">Mon Jun 25 00:00:00 EDT 2012</media:category>
+<media:category scheme="urn:mtvn:display:seo"><![CDATA[
+<a href='http://www.nickjr.com/'>NickJr.</a>,<a href='http://www.nickjr.com/shows/'>NickJr. Kids Shows</a>,<a href='http://www.nickjr.com/games-activities/'>Preschool Games and Activities</a>,<a href='http://www.nickjr.com/video/index.jhtml'>NickJr. Video</a>
+]]></media:category>
+</media:group>
+</item>
+<item>
+<title>Flying</title>
+<link>http://www.nickjr.com/video/index.jhtml?videoid=115871</link>
+<guid isPermaLink="false">mgid:cms:item:nickjr.com:115871</guid>
+<description><![CDATA[Broby's on a flying adventure! Help Broby fix his new friend Sparkles' hot air balloon!]]></description>
+<image width="" height=""/>
+<media:group>
+<media:content type="text/xml" isDefault="true" duration="213"
+url="https://thetoonsofjosh.github.io/nickjr2012-2015/dynamo/video/data/mrssGenyggflying.xml">
+<mediaad:content url="http://ad.doubleclick.net/pfadx/nickjr.playtime.nol/yoga/p/cv/kids/pac{pac}/YoGabbaGabbaVideos;hub=kids;franchise=yoga;clip=Flying;mode=playlist;playlist=YoGabbaGabbaVideos;loc=default;mtype=video;pform=network;!category=yoga;!category=playlist;!category=default;!category=Flying;psp=0;asc={asc};ssc={ssc};psc={psc};pac={pac};sac={sac};rsc={rsc};rac={rac};gac={gac};!category=previousMetadatafranchise;demo={demo};tile={tile};dcmt=text/xml;u=hub-kids|franchise-yoga|clip-Flying|mode-playlist|playlist-YoGabbaGabbaVideos|loc-default|mtype-video|pform-network|!category-yoga|!category-playlist|!category-default|!category-Flying|psp-0|asc-{asc}|ssc-{ssc}|psc-{psc}|pac-{pac}|sac-{sac}|rsc-{rsc}|rac-{rac}|gac-{gac}|!category-previousMetadatafranchise|demo-{demo}|tile-{tile}|dcmt-text/xml;sz=640x480;ord={ord}"/>
+</media:content>
+<media:title>Flying</media:title>
+<media:description><![CDATA[Broby's on a flying adventure! Help Broby fix his new friend Sparkles' hot air balloon!]]></media:description>
+<media:thumbnail width="145" height="111"
+url="http://www.nickjr.com/assets/videoplayer/kids/videos/yoga/305-flying/305-flying-thumb.jpg"/>
+<media:player url="http://media.mtvnservices.com/mgid:cms:item:nickjr.com:115871"/>
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:category scheme="urn:mtvn:content_type" label="Playtime Clip">Playtime Clip</media:category>
+<media:category scheme="urn:mtvn:franchise" label="yoga">yoga</media:category>
+<media:category scheme="urn:mtvn:playlist_title" label="Yo Gabba Gabba! Videos">yo_gabba_gabba__videos</media:category>
+<media:category scheme="urn:mtvn:playlist_uri" label="mgid:cms:playlist:nickjr.com:100993">mgid:cms:playlist:nickjr.com:100993</media:category>
+<media:category scheme="urn:mtvn:reportable">true</media:category>
+<media:category scheme="urn:mtvn:affect_counters">true</media:category>
+<media:category scheme="urn:mtvn:display:source">null</media:category>
+<media:category scheme="urn:mtvn:display:source_link">http://www.nickjr/com/shows/</media:category>
+<media:category scheme="urn:mtvn:display:date">Thu Jun 14 00:00:00 EDT 2012</media:category>
+<media:category scheme="urn:mtvn:display:seo"><![CDATA[
+<a href='http://www.nickjr.com/'>NickJr.</a>,<a href='http://www.nickjr.com/shows/'>NickJr. Kids Shows</a>,<a href='http://www.nickjr.com/games-activities/'>Preschool Games and Activities</a>,<a href='http://www.nickjr.com/video/index.jhtml'>NickJr. Video</a>
+]]></media:category>
+</media:group>
+</item>
+<item>
+<title>Teeth</title>
+<link>http://www.nickjr.com/video/index.jhtml?videoid=115857</link>
+<guid isPermaLink="false">mgid:cms:item:nickjr.com:115857</guid>
+<description><![CDATA[Muno wants a visit from the tooth-fairy]]></description>
+<image width="" height=""/>
+<media:group>
+<media:content type="text/xml" isDefault="true" duration="221"
+url="https://thetoonsofjosh.github.io/nickjr2012-2015/dynamo/video/data/mrssGenyggteeth.xml">
+<mediaad:content url="http://ad.doubleclick.net/pfadx/nickjr.playtime.nol/yoga/p/cv/kids/pac{pac}/YoGabbaGabbaVideos;hub=kids;franchise=yoga;clip=Teeth;mode=playlist;playlist=YoGabbaGabbaVideos;loc=default;mtype=video;pform=network;!category=yoga;!category=playlist;!category=default;!category=Teeth;psp=0;asc={asc};ssc={ssc};psc={psc};pac={pac};sac={sac};rsc={rsc};rac={rac};gac={gac};!category=previousMetadatafranchise;demo={demo};tile={tile};dcmt=text/xml;u=hub-kids|franchise-yoga|clip-Teeth|mode-playlist|playlist-YoGabbaGabbaVideos|loc-default|mtype-video|pform-network|!category-yoga|!category-playlist|!category-default|!category-Teeth|psp-0|asc-{asc}|ssc-{ssc}|psc-{psc}|pac-{pac}|sac-{sac}|rsc-{rsc}|rac-{rac}|gac-{gac}|!category-previousMetadatafranchise|demo-{demo}|tile-{tile}|dcmt-text/xml;sz=640x480;ord={ord}"/>
+</media:content>
+<media:title>Teeth</media:title>
+<media:description><![CDATA[Muno wants a visit from the tooth-fairy]]></media:description>
+<media:thumbnail width="145" height="111"
+url="http://www.nickjr.com/assets/videoplayer/kids/videos/yoga/201-teeth/201-teeth-thumb.jpg"/>
+<media:player url="http://media.mtvnservices.com/mgid:cms:item:nickjr.com:115857"/>
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:text role="captions" lang="en" label="English (CC)" type="text/xml"
+src="http://a6.akadl.mtvnservices.com/5291/mtvnorigin/gsp.alias/mediabus/nickjr.com/2012/06/15/10/57/286959/_74353_2493410_286959_20120615105253158.dfxp.xml"/>
+<media:category scheme="urn:mtvn:content_type" label="Playtime Clip">Playtime Clip</media:category>
+<media:category scheme="urn:mtvn:franchise" label="yoga">yoga</media:category>
+<media:category scheme="urn:mtvn:playlist_title" label="Yo Gabba Gabba! Videos">yo_gabba_gabba__videos</media:category>
+<media:category scheme="urn:mtvn:playlist_uri" label="mgid:cms:playlist:nickjr.com:100993">mgid:cms:playlist:nickjr.com:100993</media:category>
+<media:category scheme="urn:mtvn:reportable">true</media:category>
+<media:category scheme="urn:mtvn:affect_counters">true</media:category>
+<media:category scheme="urn:mtvn:display:source">null</media:category>
+<media:category scheme="urn:mtvn:display:source_link">http://www.nickjr/com/shows/</media:category>
+<media:category scheme="urn:mtvn:display:date">Fri Jun 15 00:00:00 EDT 2012</media:category>
+<media:category scheme="urn:mtvn:display:seo"><![CDATA[
+<a href='http://www.nickjr.com/'>NickJr.</a>,<a href='http://www.nickjr.com/shows/'>NickJr. Kids Shows</a>,<a href='http://www.nickjr.com/games-activities/'>Preschool Games and Activities</a>,<a href='http://www.nickjr.com/video/index.jhtml'>NickJr. Video</a>
+]]></media:category>
+</media:group>
+</item>
+<item>
+<title>Clubhouse</title>
+<link>http://www.nickjr.com/video/index.jhtml?videoid=115585</link>
+<guid isPermaLink="false">mgid:cms:item:nickjr.com:115585</guid>
+<description><![CDATA[Join the Gabba gang in the clubhouse!]]></description>
+<image width="" height=""/>
+<media:group>
+<media:content type="text/xml" isDefault="true" duration="199"
+url="https://thetoonsofjosh.github.io/nickjr2012-2015/dynamo/video/data/mrssGenyggclubhouse.xml">
+<mediaad:content url="http://ad.doubleclick.net/pfadx/nickjr.playtime.nol/yoga/p/cv/kids/pac{pac}/YoGabbaGabbaVideos;hub=kids;franchise=yoga;clip=Clubhouse;mode=playlist;playlist=YoGabbaGabbaVideos;loc=default;mtype=video;pform=network;!category=yoga;!category=playlist;!category=default;!category=Clubhouse;psp=0;asc={asc};ssc={ssc};psc={psc};pac={pac};sac={sac};rsc={rsc};rac={rac};gac={gac};!category=previousMetadatafranchise;demo={demo};tile={tile};dcmt=text/xml;u=hub-kids|franchise-yoga|clip-Clubhouse|mode-playlist|playlist-YoGabbaGabbaVideos|loc-default|mtype-video|pform-network|!category-yoga|!category-playlist|!category-default|!category-Clubhouse|psp-0|asc-{asc}|ssc-{ssc}|psc-{psc}|pac-{pac}|sac-{sac}|rsc-{rsc}|rac-{rac}|gac-{gac}|!category-previousMetadatafranchise|demo-{demo}|tile-{tile}|dcmt-text/xml;sz=640x480;ord={ord}"/>
+</media:content>
+<media:title>Clubhouse</media:title>
+<media:description><![CDATA[Join the Gabba gang in the clubhouse!]]></media:description>
+<media:thumbnail width="145" height="111"
+url="http://www.nickjr.com/assets/videoplayer/kids/videos/yoga/clubhouse/rsz_yggclubhouse.jpg"/>
+<media:player url="http://media.mtvnservices.com/mgid:cms:item:nickjr.com:115585"/>
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:category scheme="urn:mtvn:content_type" label="NickJr Clip">NickJr Clip</media:category>
+<media:category scheme="urn:mtvn:franchise" label="yoga">yoga</media:category>
+<media:category scheme="urn:mtvn:playlist_title" label="Yo Gabba Gabba! Videos">yo_gabba_gabba__videos</media:category>
+<media:category scheme="urn:mtvn:playlist_uri" label="mgid:cms:playlist:nickjr.com:100993">mgid:cms:playlist:nickjr.com:100993</media:category>
+<media:category scheme="urn:mtvn:reportable">true</media:category>
+<media:category scheme="urn:mtvn:affect_counters">true</media:category>
+<media:category scheme="urn:mtvn:display:source">Yo Gabba Gabba!</media:category>
+<media:category scheme="urn:mtvn:display:source_link">http://www.nickjr/com/shows/</media:category>
+<media:category scheme="urn:mtvn:display:date">Thu Mar 04 00:00:00 EST 2010</media:category>
+<media:category scheme="urn:mtvn:display:seo"><![CDATA[
+<a href='http://www.nickjr.com/'>NickJr.</a>,<a href='http://www.nickjr.com/shows/'>NickJr. Kids Shows</a>,<a href='http://www.nickjr.com/games-activities/'>Preschool Games and Activities</a>,<a href='http://www.nickjr.com/video/index.jhtml'>NickJr. Video</a>
+]]></media:category>
+</media:group>
+</item>
+<item>
+<title>Baby</title>
+<link>http://www.nickjr.com/video/index.jhtml?videoid=103990</link>
+<guid isPermaLink="false">mgid:cms:item:nickjr.com:103990</guid>
+<description><![CDATA[Lance shows videos of when the Gabba friends were babies. Brobee helps feed Muno's baby brother, and we get to meet Plex's niece Plexee.]]></description>
+<image width="" height=""/>
+<media:group>
+<media:content type="text/xml" isDefault="true" duration="300"
+url="https://thetoonsofjosh.github.io/nickjr2012-2015/dynamo/video/data/mrssGenyggbaby.xml">
+<mediaad:content url="http://ad.doubleclick.net/pfadx/nickjr.playtime.nol/yoga/p/cv/kids/pac{pac}/YoGabbaGabbaVideos;hub=kids;franchise=yoga;clip=Baby;mode=playlist;playlist=YoGabbaGabbaVideos;loc=default;mtype=video;pform=network;!category=yoga;!category=playlist;!category=default;!category=Baby;psp=0;asc={asc};ssc={ssc};psc={psc};pac={pac};sac={sac};rsc={rsc};rac={rac};gac={gac};!category=previousMetadatafranchise;demo={demo};tile={tile};dcmt=text/xml;u=hub-kids|franchise-yoga|clip-Baby|mode-playlist|playlist-YoGabbaGabbaVideos|loc-default|mtype-video|pform-network|!category-yoga|!category-playlist|!category-default|!category-Baby|psp-0|asc-{asc}|ssc-{ssc}|psc-{psc}|pac-{pac}|sac-{sac}|rsc-{rsc}|rac-{rac}|gac-{gac}|!category-previousMetadatafranchise|demo-{demo}|tile-{tile}|dcmt-text/xml;sz=640x480;ord={ord}"/>
+</media:content>
+<media:title>Baby</media:title>
+<media:description><![CDATA[Lance shows videos of when the Gabba friends were babies. Brobee helps feed Muno's baby brother, and we get to meet Plex's niece Plexee.]]></media:description>
+<media:thumbnail width="145" height="111"
+url="http://www.nickjr.com/assets/videoplayer/kids/videos/yoga/312-baby/312-baby-thumb.jpg"/>
+<media:player url="http://media.mtvnservices.com/mgid:cms:item:nickjr.com:103990"/>
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:category scheme="urn:mtvn:content_type" label="Playtime Clip">Playtime Clip</media:category>
+<media:category scheme="urn:mtvn:franchise" label="yoga">yoga</media:category>
+<media:category scheme="urn:mtvn:playlist_title" label="Yo Gabba Gabba! Videos">yo_gabba_gabba__videos</media:category>
+<media:category scheme="urn:mtvn:playlist_uri" label="mgid:cms:playlist:nickjr.com:100993">mgid:cms:playlist:nickjr.com:100993</media:category>
+<media:category scheme="urn:mtvn:reportable">true</media:category>
+<media:category scheme="urn:mtvn:affect_counters">true</media:category>
+<media:category scheme="urn:mtvn:display:source">Yo Gabba Gabba!</media:category>
+<media:category scheme="urn:mtvn:display:source_link">http://www.nickjr/com/shows/</media:category>
+<media:category scheme="urn:mtvn:display:date">Mon May 03 00:00:00 EDT 2010</media:category>
+<media:category scheme="urn:mtvn:display:seo"><![CDATA[
+<a href='http://www.nickjr.com/'>NickJr.</a>,<a href='http://www.nickjr.com/shows/'>NickJr. Kids Shows</a>,<a href='http://www.nickjr.com/games-activities/'>Preschool Games and Activities</a>,<a href='http://www.nickjr.com/video/index.jhtml'>NickJr. Video</a>
+]]></media:category>
+</media:group>
+</item>
+<item>
+<title>Bugs</title>
+<link>http://www.nickjr.com/video/index.jhtml?videoid=103218</link>
+<guid isPermaLink="false">mgid:cms:item:nickjr.com:103218</guid>
+<description><![CDATA[Muno takes us on a bug tour of Gabbaland! Plex shrinks the characters down to follow the Oskie bugs to their underground world where we meet the Queen Oskie Bug and watch eggs hatch.]]></description>
+<image width="" height=""/>
+<media:group>
+<media:content type="text/xml" isDefault="true" duration="94"
+url="https://thetoonsofjosh.github.io/nickjr2012-2015/dynamo/video/data/mrssGenyggbugs.xml">
+<mediaad:content url="http://ad.doubleclick.net/pfadx/nickjr.playtime.nol/yoga/p/cv/kids/pac{pac}/YoGabbaGabbaVideos;hub=kids;franchise=yoga;clip=Bugs;mode=playlist;playlist=YoGabbaGabbaVideos;loc=default;mtype=video;pform=network;!category=yoga;!category=playlist;!category=default;!category=Bugs;psp=0;asc={asc};ssc={ssc};psc={psc};pac={pac};sac={sac};rsc={rsc};rac={rac};gac={gac};!category=previousMetadatafranchise;demo={demo};tile={tile};dcmt=text/xml;u=hub-kids|franchise-yoga|clip-Bugs|mode-playlist|playlist-YoGabbaGabbaVideos|loc-default|mtype-video|pform-network|!category-yoga|!category-playlist|!category-default|!category-Bugs|psp-0|asc-{asc}|ssc-{ssc}|psc-{psc}|pac-{pac}|sac-{sac}|rsc-{rsc}|rac-{rac}|gac-{gac}|!category-previousMetadatafranchise|demo-{demo}|tile-{tile}|dcmt-text/xml;sz=640x480;ord={ord}"/>
+</media:content>
+<media:title>Bugs</media:title>
+<media:description><![CDATA[Muno takes us on a bug tour of Gabbaland! Plex shrinks the characters down to follow the Oskie bugs to their underground world where we meet the Queen Oskie Bug and watch eggs hatch.]]></media:description>
+<media:thumbnail width="145" height="111"
+url="http://www.nickjr.com/assets/videoplayer/kids/videos/yoga/313-bugs/313-bugs-thumb.jpg"/>
+<media:player url="http://media.mtvnservices.com/mgid:cms:item:nickjr.com:103218"/>
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:category scheme="urn:mtvn:content_type" label="Playtime Clip">Playtime Clip</media:category>
+<media:category scheme="urn:mtvn:franchise" label="yoga">yoga</media:category>
+<media:category scheme="urn:mtvn:playlist_title" label="Yo Gabba Gabba! Videos">yo_gabba_gabba__videos</media:category>
+<media:category scheme="urn:mtvn:playlist_uri" label="mgid:cms:playlist:nickjr.com:100993">mgid:cms:playlist:nickjr.com:100993</media:category>
+<media:category scheme="urn:mtvn:reportable">true</media:category>
+<media:category scheme="urn:mtvn:affect_counters">true</media:category>
+<media:category scheme="urn:mtvn:display:source">null</media:category>
+<media:category scheme="urn:mtvn:display:source_link">http://www.nickjr/com/shows/</media:category>
+<media:category scheme="urn:mtvn:display:date">Mon Mar 01 00:00:00 EST 2010</media:category>
+<media:category scheme="urn:mtvn:display:seo"><![CDATA[
+<a href='http://www.nickjr.com/'>NickJr.</a>,<a href='http://www.nickjr.com/shows/'>NickJr. Kids Shows</a>,<a href='http://www.nickjr.com/games-activities/'>Preschool Games and Activities</a>,<a href='http://www.nickjr.com/video/index.jhtml'>NickJr. Video</a>
+]]></media:category>
+</media:group>
+</item>
+<item>
+<title>Time to Go Outdoors</title>
+<link>http://www.nickjr.com/video/index.jhtml?videoid=111888</link>
+<guid isPermaLink="false">mgid:cms:item:nickjr.com:111888</guid>
+<description><![CDATA[The indie band Hot Hot Heat sings about the glories and the wonders of the great outdoors. Time to go outside, everyone!]]></description>
+<image width="" height=""/>
+<media:group>
+<media:content type="text/xml" isDefault="true" duration="109"
+url="https://thetoonsofjosh.github.io/nickjr2012-2015/dynamo/video/data/mrssGenyggoutdoors.xml">
+<mediaad:content url="http://ad.doubleclick.net/pfadx/nickjr.playtime.nol/yoga/p/cv/kids/pac{pac}/YoGabbaGabbaVideos;hub=kids;franchise=yoga;clip=TimetoGoOutdoors;mode=playlist;playlist=YoGabbaGabbaVideos;loc=default;mtype=video;pform=network;!category=yoga;!category=playlist;!category=default;!category=TimetoGoOutdoors;psp=0;asc={asc};ssc={ssc};psc={psc};pac={pac};sac={sac};rsc={rsc};rac={rac};gac={gac};!category=previousMetadatafranchise;demo={demo};tile={tile};dcmt=text/xml;u=hub-kids|franchise-yoga|clip-TimetoGoOutdoors|mode-playlist|playlist-YoGabbaGabbaVideos|loc-default|mtype-video|pform-network|!category-yoga|!category-playlist|!category-default|!category-TimetoGoOutdoors|psp-0|asc-{asc}|ssc-{ssc}|psc-{psc}|pac-{pac}|sac-{sac}|rsc-{rsc}|rac-{rac}|gac-{gac}|!category-previousMetadatafranchise|demo-{demo}|tile-{tile}|dcmt-text/xml;sz=640x480;ord={ord}"/>
+</media:content>
+<media:title>Time to Go Outdoors</media:title>
+<media:description><![CDATA[The indie band Hot Hot Heat sings about the glories and the wonders of the great outdoors. Time to go outside, everyone!]]></media:description>
+<media:thumbnail width="145" height="111"
+url="http://www.nickjr.com/assets/videoplayer/kids/videos/yoga/205-outdoors/205-outdoors-thumb.jpg"/>
+<media:player url="http://media.mtvnservices.com/mgid:cms:item:nickjr.com:111888"/>
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:category scheme="urn:mtvn:content_type" label="Playtime Clip">Playtime Clip</media:category>
+<media:category scheme="urn:mtvn:franchise" label="yoga">yoga</media:category>
+<media:category scheme="urn:mtvn:playlist_title" label="Yo Gabba Gabba! Videos">yo_gabba_gabba__videos</media:category>
+<media:category scheme="urn:mtvn:playlist_uri" label="mgid:cms:playlist:nickjr.com:100993">mgid:cms:playlist:nickjr.com:100993</media:category>
+<media:category scheme="urn:mtvn:reportable">true</media:category>
+<media:category scheme="urn:mtvn:affect_counters">true</media:category>
+<media:category scheme="urn:mtvn:display:source">Yo Gabba Gabba!</media:category>
+<media:category scheme="urn:mtvn:display:source_link">http://www.nickjr/com/shows/</media:category>
+<media:category scheme="urn:mtvn:display:date">Tue Mar 15 00:00:00 EDT 2011</media:category>
+<media:category scheme="urn:mtvn:display:seo"><![CDATA[
+<a href='http://www.nickjr.com/'>NickJr.</a>,<a href='http://www.nickjr.com/shows/'>NickJr. Kids Shows</a>,<a href='http://www.nickjr.com/games-activities/'>Preschool Games and Activities</a>,<a href='http://www.nickjr.com/video/index.jhtml'>NickJr. Video</a>
+]]></media:category>
+</media:group>
+</item>
+<item>
+<title>Nature</title>
+<link>http://www.nickjr.com/video/index.jhtml?videoid=111804</link>
+<guid isPermaLink="false">mgid:cms:item:nickjr.com:111804</guid>
+<description><![CDATA[It's a Yo Gabba Gabba campout! The Gabba gang tells stories, makes s'mores and sings songs in front of a toasty camp fire.]]></description>
+<image width="" height=""/>
+<media:group>
+<media:content type="text/xml" isDefault="true" duration="205"
+url="https://thetoonsofjosh.github.io/nickjr2012-2015/dynamo/video/data/mrssGenyggnature.xml">
+<mediaad:content url="http://ad.doubleclick.net/pfadx/nickjr.playtime.nol/yoga/p/cv/kids/pac{pac}/YoGabbaGabbaVideos;hub=kids;franchise=yoga;clip=Nature;mode=playlist;playlist=YoGabbaGabbaVideos;loc=default;mtype=video;pform=network;!category=yoga;!category=playlist;!category=default;!category=Nature;psp=0;asc={asc};ssc={ssc};psc={psc};pac={pac};sac={sac};rsc={rsc};rac={rac};gac={gac};!category=previousMetadatafranchise;demo={demo};tile={tile};dcmt=text/xml;u=hub-kids|franchise-yoga|clip-Nature|mode-playlist|playlist-YoGabbaGabbaVideos|loc-default|mtype-video|pform-network|!category-yoga|!category-playlist|!category-default|!category-Nature|psp-0|asc-{asc}|ssc-{ssc}|psc-{psc}|pac-{pac}|sac-{sac}|rsc-{rsc}|rac-{rac}|gac-{gac}|!category-previousMetadatafranchise|demo-{demo}|tile-{tile}|dcmt-text/xml;sz=640x480;ord={ord}"/>
+</media:content>
+<media:title>Nature</media:title>
+<media:description><![CDATA[It's a Yo Gabba Gabba campout! The Gabba gang tells stories, makes s'mores and sings songs in front of a toasty camp fire.]]></media:description>
+<media:thumbnail width="145" height="111"
+url="http://www.nickjr.com/assets/videoplayer/kids/videos/yoga/303-nature/303-nature-thumb.jpg"/>
+<media:player url="http://media.mtvnservices.com/mgid:cms:item:nickjr.com:111804"/>
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:category scheme="urn:mtvn:content_type" label="Playtime Clip">Playtime Clip</media:category>
+<media:category scheme="urn:mtvn:franchise" label="yoga">yoga</media:category>
+<media:category scheme="urn:mtvn:playlist_title" label="Yo Gabba Gabba! Videos">yo_gabba_gabba__videos</media:category>
+<media:category scheme="urn:mtvn:playlist_uri" label="mgid:cms:playlist:nickjr.com:100993">mgid:cms:playlist:nickjr.com:100993</media:category>
+<media:category scheme="urn:mtvn:reportable">true</media:category>
+<media:category scheme="urn:mtvn:affect_counters">true</media:category>
+<media:category scheme="urn:mtvn:display:source">Yo Gabba Gabba!</media:category>
+<media:category scheme="urn:mtvn:display:source_link">http://www.nickjr/com/shows/</media:category>
+<media:category scheme="urn:mtvn:display:date">Mon Jan 31 00:00:00 EST 2011</media:category>
+<media:category scheme="urn:mtvn:display:seo"><![CDATA[
+<a href='http://www.nickjr.com/'>NickJr.</a>,<a href='http://www.nickjr.com/shows/'>NickJr. Kids Shows</a>,<a href='http://www.nickjr.com/games-activities/'>Preschool Games and Activities</a>,<a href='http://www.nickjr.com/video/index.jhtml'>NickJr. Video</a>
+]]></media:category>
+</media:group>
+</item>
+<item>
+<title>Circus</title>
+<link>http://www.nickjr.com/video/index.jhtml?videoid=103217</link>
+<guid isPermaLink="false">mgid:cms:item:nickjr.com:103217</guid>
+<description><![CDATA[The characters help Al the Ringmaster make a circus in Gabbaland! Brobee learns to be a clown, and everyone gets to perform.]]></description>
+<image width="" height=""/>
+<media:group>
+<media:content type="text/xml" isDefault="true" duration="178"
+url="https://thetoonsofjosh.github.io/nickjr2012-2015/dynamo/video/data/mrssGenyggcircus.xml">
+<mediaad:content url="http://ad.doubleclick.net/pfadx/nickjr.playtime.nol/yoga/p/cv/kids/pac{pac}/YoGabbaGabbaVideos;hub=kids;franchise=yoga;clip=Circus;mode=playlist;playlist=YoGabbaGabbaVideos;loc=default;mtype=video;pform=network;!category=yoga;!category=playlist;!category=default;!category=Circus;psp=0;asc={asc};ssc={ssc};psc={psc};pac={pac};sac={sac};rsc={rsc};rac={rac};gac={gac};!category=previousMetadatafranchise;demo={demo};tile={tile};dcmt=text/xml;u=hub-kids|franchise-yoga|clip-Circus|mode-playlist|playlist-YoGabbaGabbaVideos|loc-default|mtype-video|pform-network|!category-yoga|!category-playlist|!category-default|!category-Circus|psp-0|asc-{asc}|ssc-{ssc}|psc-{psc}|pac-{pac}|sac-{sac}|rsc-{rsc}|rac-{rac}|gac-{gac}|!category-previousMetadatafranchise|demo-{demo}|tile-{tile}|dcmt-text/xml;sz=640x480;ord={ord}"/>
+</media:content>
+<media:title>Circus</media:title>
+<media:description><![CDATA[The characters help Al the Ringmaster make a circus in Gabbaland! Brobee learns to be a clown, and everyone gets to perform.]]></media:description>
+<media:thumbnail width="145" height="111"
+url="http://www.nickjr.com/assets/videoplayer/kids/videos/yoga/307-circus/307-circus-thumb.jpg"/>
+<media:player url="http://media.mtvnservices.com/mgid:cms:item:nickjr.com:103217"/>
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:category scheme="urn:mtvn:content_type" label="Playtime Clip">Playtime Clip</media:category>
+<media:category scheme="urn:mtvn:franchise" label="yoga">yoga</media:category>
+<media:category scheme="urn:mtvn:playlist_title" label="Yo Gabba Gabba! Videos">yo_gabba_gabba__videos</media:category>
+<media:category scheme="urn:mtvn:playlist_uri" label="mgid:cms:playlist:nickjr.com:100993">mgid:cms:playlist:nickjr.com:100993</media:category>
+<media:category scheme="urn:mtvn:reportable">true</media:category>
+<media:category scheme="urn:mtvn:affect_counters">true</media:category>
+<media:category scheme="urn:mtvn:display:source">Yo Gabba Gabba!</media:category>
+<media:category scheme="urn:mtvn:display:source_link">http://www.nickjr/com/shows/</media:category>
+<media:category scheme="urn:mtvn:display:date">Mon Apr 11 00:00:00 EDT 2011</media:category>
+<media:category scheme="urn:mtvn:display:seo"><![CDATA[
+<a href='http://www.nickjr.com/'>NickJr.</a>,<a href='http://www.nickjr.com/shows/'>NickJr. Kids Shows</a>,<a href='http://www.nickjr.com/games-activities/'>Preschool Games and Activities</a>,<a href='http://www.nickjr.com/video/index.jhtml'>NickJr. Video</a>
+]]></media:category>
+</media:group>
+</item>
+<item>
+<title>Treasure</title>
+<link>http://www.nickjr.com/video/index.jhtml?videoid=115150</link>
+<guid isPermaLink="false">mgid:cms:item:nickjr.com:115150</guid>
+<description><![CDATA[Lance shows videos of when the Gabba friends were babies. Brobee helps feed Muno's baby brother, and we get to meet Plex's niece Plexee.]]></description>
+<image width="" height=""/>
+<media:group>
+<media:content type="text/xml" isDefault="true" duration="179"
+url="https://thetoonsofjosh.github.io/nickjr2012-2015/dynamo/video/data/mrssGenyggtreasure.xml">
+<mediaad:content url="http://ad.doubleclick.net/pfadx/nickjr.playtime.nol/yoga/p/cv/kids/pac{pac}/YoGabbaGabbaVideos;hub=kids;franchise=yoga;clip=Treasure;mode=playlist;playlist=YoGabbaGabbaVideos;loc=default;mtype=video;pform=network;!category=yoga;!category=playlist;!category=default;!category=Treasure;psp=0;asc={asc};ssc={ssc};psc={psc};pac={pac};sac={sac};rsc={rsc};rac={rac};gac={gac};!category=previousMetadatafranchise;demo={demo};tile={tile};dcmt=text/xml;u=hub-kids|franchise-yoga|clip-Treasure|mode-playlist|playlist-YoGabbaGabbaVideos|loc-default|mtype-video|pform-network|!category-yoga|!category-playlist|!category-default|!category-Treasure|psp-0|asc-{asc}|ssc-{ssc}|psc-{psc}|pac-{pac}|sac-{sac}|rsc-{rsc}|rac-{rac}|gac-{gac}|!category-previousMetadatafranchise|demo-{demo}|tile-{tile}|dcmt-text/xml;sz=640x480;ord={ord}"/>
+</media:content>
+<media:title>Treasure</media:title>
+<media:description><![CDATA[Lance shows videos of when the Gabba friends were babies. Brobee helps feed Muno's baby brother, and we get to meet Plex's niece Plexee.]]></media:description>
+<media:thumbnail width="145" height="111"
+url="http://www.nickjr.com/assets/videoplayer/kids/videos/yoga/310-12-ygg-baby-treasure/310-ygg-treasure-thumb.jpg"/>
+<media:player url="http://media.mtvnservices.com/mgid:cms:item:nickjr.com:115150"/>
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:category scheme="urn:mtvn:content_type" label="Playtime Clip">Playtime Clip</media:category>
+<media:category scheme="urn:mtvn:franchise" label="yoga">yoga</media:category>
+<media:category scheme="urn:mtvn:playlist_title" label="Yo Gabba Gabba! Videos">yo_gabba_gabba__videos</media:category>
+<media:category scheme="urn:mtvn:playlist_uri" label="mgid:cms:playlist:nickjr.com:100993">mgid:cms:playlist:nickjr.com:100993</media:category>
+<media:category scheme="urn:mtvn:reportable">true</media:category>
+<media:category scheme="urn:mtvn:affect_counters">true</media:category>
+<media:category scheme="urn:mtvn:display:source">Yo Gabba Gabba!</media:category>
+<media:category scheme="urn:mtvn:display:source_link">http://www.nickjr/com/shows/</media:category>
+<media:category scheme="urn:mtvn:display:date">Tue Mar 19 00:00:00 EST 1912</media:category>
+<media:category scheme="urn:mtvn:display:seo"><![CDATA[
+<a href='http://www.nickjr.com/'>NickJr.</a>,<a href='http://www.nickjr.com/shows/'>NickJr. Kids Shows</a>,<a href='http://www.nickjr.com/games-activities/'>Preschool Games and Activities</a>,<a href='http://www.nickjr.com/video/index.jhtml'>NickJr. Video</a>
+]]></media:category>
+</media:group>
+</item>
+<item>
+<title>Space</title>
+<link>http://www.nickjr.com/video/index.jhtml?videoid=111858</link>
+<guid isPermaLink="false">mgid:cms:item:nickjr.com:111858</guid>
+<description><![CDATA[The Yo Gabba Gabba! gang hops into their rocket and blasts off for a space adventure!]]></description>
+<image width="" height=""/>
+<media:group>
+<media:content type="text/xml" isDefault="true" duration="139"
+url="https://thetoonsofjosh.github.io/nickjr2012-2015/dynamo/video/data/mrssGenyggspace.xml">
+<mediaad:content url="http://ad.doubleclick.net/pfadx/nickjr.playtime.nol/yoga/p/cv/kids/pac{pac}/YoGabbaGabbaVideos;hub=kids;franchise=yoga;clip=Space;mode=playlist;playlist=YoGabbaGabbaVideos;loc=default;mtype=video;pform=network;!category=yoga;!category=playlist;!category=default;!category=Space;psp=0;asc={asc};ssc={ssc};psc={psc};pac={pac};sac={sac};rsc={rsc};rac={rac};gac={gac};!category=previousMetadatafranchise;demo={demo};tile={tile};dcmt=text/xml;u=hub-kids|franchise-yoga|clip-Space|mode-playlist|playlist-YoGabbaGabbaVideos|loc-default|mtype-video|pform-network|!category-yoga|!category-playlist|!category-default|!category-Space|psp-0|asc-{asc}|ssc-{ssc}|psc-{psc}|pac-{pac}|sac-{sac}|rsc-{rsc}|rac-{rac}|gac-{gac}|!category-previousMetadatafranchise|demo-{demo}|tile-{tile}|dcmt-text/xml;sz=640x480;ord={ord}"/>
+</media:content>
+<media:title>Space</media:title>
+<media:description><![CDATA[The Yo Gabba Gabba! gang hops into their rocket and blasts off for a space adventure!]]></media:description>
+<media:thumbnail width="145" height="111"
+url="http://www.nickjr.com/assets/videoplayer/kids/videos/yoga/206-space/206-space-thumb.jpg"/>
+<media:player url="http://media.mtvnservices.com/mgid:cms:item:nickjr.com:111858"/>
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:category scheme="urn:mtvn:content_type" label="Playtime Clip">Playtime Clip</media:category>
+<media:category scheme="urn:mtvn:franchise" label="yoga">yoga</media:category>
+<media:category scheme="urn:mtvn:playlist_title" label="Yo Gabba Gabba! Videos">yo_gabba_gabba__videos</media:category>
+<media:category scheme="urn:mtvn:playlist_uri" label="mgid:cms:playlist:nickjr.com:100993">mgid:cms:playlist:nickjr.com:100993</media:category>
+<media:category scheme="urn:mtvn:reportable">true</media:category>
+<media:category scheme="urn:mtvn:affect_counters">true</media:category>
+<media:category scheme="urn:mtvn:display:source">Yo Gabba Gabba!</media:category>
+<media:category scheme="urn:mtvn:display:source_link">http://www.nickjr/com/shows/</media:category>
+<media:category scheme="urn:mtvn:display:date">Thu Feb 03 00:00:00 EST 2011</media:category>
+<media:category scheme="urn:mtvn:display:seo"><![CDATA[
+<a href='http://www.nickjr.com/'>NickJr.</a>,<a href='http://www.nickjr.com/shows/'>NickJr. Kids Shows</a>,<a href='http://www.nickjr.com/games-activities/'>Preschool Games and Activities</a>,<a href='http://www.nickjr.com/video/index.jhtml'>NickJr. Video</a>
+]]></media:category>
+</media:group>
+</item>
+<item>
+<title>Doctor</title>
+<link>http://www.nickjr.com/video/index.jhtml?videoid=103219</link>
+<guid isPermaLink="false">mgid:cms:item:nickjr.com:103219</guid>
+<description><![CDATA[Watch the "Doctor" episode clip of Yo Gabba Gabba on nickjr.com. Tootie has a cold and the doctor is here to maker her feel better!]]></description>
+<image width="" height=""/>
+<media:group>
+<media:content type="text/xml" isDefault="true" duration="322"
+url="https://thetoonsofjosh.github.io/nickjr2012-2015/dynamo/video/data/mrssGenyggdoctor.xml">
+<mediaad:content url="http://ad.doubleclick.net/pfadx/nickjr.playtime.nol/yoga/p/cv/kids/pac{pac}/YoGabbaGabbaVideos;hub=kids;franchise=yoga;clip=Doctor;mode=playlist;playlist=YoGabbaGabbaVideos;loc=default;mtype=video;pform=network;!category=yoga;!category=playlist;!category=default;!category=Doctor;psp=0;asc={asc};ssc={ssc};psc={psc};pac={pac};sac={sac};rsc={rsc};rac={rac};gac={gac};!category=previousMetadatafranchise;demo={demo};tile={tile};dcmt=text/xml;u=hub-kids|franchise-yoga|clip-Doctor|mode-playlist|playlist-YoGabbaGabbaVideos|loc-default|mtype-video|pform-network|!category-yoga|!category-playlist|!category-default|!category-Doctor|psp-0|asc-{asc}|ssc-{ssc}|psc-{psc}|pac-{pac}|sac-{sac}|rsc-{rsc}|rac-{rac}|gac-{gac}|!category-previousMetadatafranchise|demo-{demo}|tile-{tile}|dcmt-text/xml;sz=640x480;ord={ord}"/>
+</media:content>
+<media:title>Doctor</media:title>
+<media:description><![CDATA[Watch the "Doctor" episode clip of Yo Gabba Gabba on nickjr.com. Tootie has a cold and the doctor is here to maker her feel better!]]></media:description>
+<media:thumbnail width="145" height="111"
+url="http://www.nickjr.com/assets/videoplayer/kids/videos/yoga/304-doctor/304-doctor-thumb.jpg"/>
+<media:player url="http://media.mtvnservices.com/mgid:cms:item:nickjr.com:103219"/>
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:category scheme="urn:mtvn:content_type" label="Playtime Clip">Playtime Clip</media:category>
+<media:category scheme="urn:mtvn:franchise" label="yoga">yoga</media:category>
+<media:category scheme="urn:mtvn:playlist_title" label="Yo Gabba Gabba! Videos">yo_gabba_gabba__videos</media:category>
+<media:category scheme="urn:mtvn:playlist_uri" label="mgid:cms:playlist:nickjr.com:100993">mgid:cms:playlist:nickjr.com:100993</media:category>
+<media:category scheme="urn:mtvn:reportable">true</media:category>
+<media:category scheme="urn:mtvn:affect_counters">true</media:category>
+<media:category scheme="urn:mtvn:display:source">Yo Gabba Gabba!</media:category>
+<media:category scheme="urn:mtvn:display:source_link">http://www.nickjr/com/shows/</media:category>
+<media:category scheme="urn:mtvn:display:date">Mon Mar 01 00:00:00 EST 2010</media:category>
+<media:category scheme="urn:mtvn:display:seo"><![CDATA[
+<a href='http://www.nickjr.com/'>NickJr.</a>,<a href='http://www.nickjr.com/shows/'>NickJr. Kids Shows</a>,<a href='http://www.nickjr.com/games-activities/'>Preschool Games and Activities</a>,<a href='http://www.nickjr.com/video/index.jhtml'>NickJr. Video</a>
+]]></media:category>
+</media:group>
+</item>
+<item>
+<title>The Mini-Spinny Dance</title>
+<link>http://www.nickjr.com/video/index.jhtml?videoid=112296</link>
+<guid isPermaLink="false">mgid:cms:item:nickjr.com:112296</guid>
+<description><![CDATA[Put on your dancing shoes because Sean Kingston shows you how he does the Mini-Spinny dance.]]></description>
+<image width="" height=""/>
+<media:group>
+<media:content type="text/xml" isDefault="true" duration="93"
+url="https://thetoonsofjosh.github.io/nickjr2012-2015/dynamo/video/data/mrssGenyggminispinny.xml">
+<mediaad:content url="http://ad.doubleclick.net/pfadx/nickjr.playtime.nol/yoga/p/cv/kids/pac{pac}/YoGabbaGabbaVideos;hub=kids;franchise=yoga;clip=TheMiniSpinnyDance;mode=playlist;playlist=YoGabbaGabbaVideos;loc=default;mtype=video;pform=network;!category=yoga;!category=playlist;!category=default;!category=TheMiniSpinnyDance;psp=0;asc={asc};ssc={ssc};psc={psc};pac={pac};sac={sac};rsc={rsc};rac={rac};gac={gac};!category=previousMetadatafranchise;demo={demo};tile={tile};dcmt=text/xml;u=hub-kids|franchise-yoga|clip-TheMiniSpinnyDance|mode-playlist|playlist-YoGabbaGabbaVideos|loc-default|mtype-video|pform-network|!category-yoga|!category-playlist|!category-default|!category-TheMiniSpinnyDance|psp-0|asc-{asc}|ssc-{ssc}|psc-{psc}|pac-{pac}|sac-{sac}|rsc-{rsc}|rac-{rac}|gac-{gac}|!category-previousMetadatafranchise|demo-{demo}|tile-{tile}|dcmt-text/xml;sz=640x480;ord={ord}"/>
+</media:content>
+<media:title>The Mini-Spinny Dance</media:title>
+<media:description><![CDATA[Put on your dancing shoes because Sean Kingston shows you how he does the Mini-Spinny dance.]]></media:description>
+<media:thumbnail width="145" height="111"
+url="http://www.nickjr.com/assets/videoplayer/kids/videos/yoga/117-dance/117-dance-thumb.jpg"/>
+<media:player url="http://media.mtvnservices.com/mgid:cms:item:nickjr.com:112296"/>
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:category scheme="urn:mtvn:content_type" label="Playtime Clip">Playtime Clip</media:category>
+<media:category scheme="urn:mtvn:franchise" label="yoga">yoga</media:category>
+<media:category scheme="urn:mtvn:playlist_title" label="Yo Gabba Gabba! Videos">yo_gabba_gabba__videos</media:category>
+<media:category scheme="urn:mtvn:playlist_uri" label="mgid:cms:playlist:nickjr.com:100993">mgid:cms:playlist:nickjr.com:100993</media:category>
+<media:category scheme="urn:mtvn:reportable">true</media:category>
+<media:category scheme="urn:mtvn:affect_counters">true</media:category>
+<media:category scheme="urn:mtvn:display:source">Yo Gabba Gabba!</media:category>
+<media:category scheme="urn:mtvn:display:source_link">http://www.nickjr/com/shows/</media:category>
+<media:category scheme="urn:mtvn:display:date">Wed Mar 30 00:00:00 EDT 2011</media:category>
+<media:category scheme="urn:mtvn:display:seo"><![CDATA[
+<a href='http://www.nickjr.com/'>NickJr.</a>,<a href='http://www.nickjr.com/shows/'>NickJr. Kids Shows</a>,<a href='http://www.nickjr.com/games-activities/'>Preschool Games and Activities</a>,<a href='http://www.nickjr.com/video/index.jhtml'>NickJr. Video</a>
+]]></media:category>
+</media:group>
+</item>
+<item>
+<title>Mystery</title>
+<link>http://www.nickjr.com/video/index.jhtml?videoid=113762</link>
+<guid isPermaLink="false">mgid:cms:item:nickjr.com:113762</guid>
+<description><![CDATA[Plex explains the many reasons why you shouldn't be scared of the dark.]]></description>
+<image width="" height=""/>
+<media:group>
+<media:content type="text/xml" isDefault="true" duration="218"
+url="https://thetoonsofjosh.github.io/nickjr2012-2015/dynamo/video/data/mrssGenyggmystery.xml">
+<mediaad:content url="http://ad.doubleclick.net/pfadx/nickjr.playtime.nol/yoga/p/cv/kids/pac{pac}/YoGabbaGabbaVideos;hub=kids;franchise=yoga;clip=Mystery;mode=playlist;playlist=YoGabbaGabbaVideos;loc=default;mtype=video;pform=network;!category=yoga;!category=playlist;!category=default;!category=Mystery;psp=0;asc={asc};ssc={ssc};psc={psc};pac={pac};sac={sac};rsc={rsc};rac={rac};gac={gac};!category=previousMetadatafranchise;demo={demo};tile={tile};dcmt=text/xml;u=hub-kids|franchise-yoga|clip-Mystery|mode-playlist|playlist-YoGabbaGabbaVideos|loc-default|mtype-video|pform-network|!category-yoga|!category-playlist|!category-default|!category-Mystery|psp-0|asc-{asc}|ssc-{ssc}|psc-{psc}|pac-{pac}|sac-{sac}|rsc-{rsc}|rac-{rac}|gac-{gac}|!category-previousMetadatafranchise|demo-{demo}|tile-{tile}|dcmt-text/xml;sz=640x480;ord={ord}"/>
+</media:content>
+<media:title>Mystery</media:title>
+<media:description><![CDATA[Plex explains the many reasons why you shouldn't be scared of the dark.]]></media:description>
+<media:thumbnail width="145" height="111"
+url="http://www.nickjr.com/assets/videoplayer/kids/videos/yoga/213-mystery/213-mystery-thumb.jpg"/>
+<media:player url="http://media.mtvnservices.com/mgid:cms:item:nickjr.com:113762"/>
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:category scheme="urn:mtvn:content_type" label="Playtime Clip">Playtime Clip</media:category>
+<media:category scheme="urn:mtvn:franchise" label="yoga">yoga</media:category>
+<media:category scheme="urn:mtvn:playlist_title" label="Yo Gabba Gabba! Videos">yo_gabba_gabba__videos</media:category>
+<media:category scheme="urn:mtvn:playlist_uri" label="mgid:cms:playlist:nickjr.com:100993">mgid:cms:playlist:nickjr.com:100993</media:category>
+<media:category scheme="urn:mtvn:reportable">true</media:category>
+<media:category scheme="urn:mtvn:affect_counters">true</media:category>
+<media:category scheme="urn:mtvn:display:source">Yo Gabba Gabba!</media:category>
+<media:category scheme="urn:mtvn:display:source_link">http://www.nickjr/com/shows/</media:category>
+<media:category scheme="urn:mtvn:display:date">Wed Oct 05 00:00:00 EDT 2011</media:category>
+<media:category scheme="urn:mtvn:display:seo"><![CDATA[
+<a href='http://www.nickjr.com/'>NickJr.</a>,<a href='http://www.nickjr.com/shows/'>NickJr. Kids Shows</a>,<a href='http://www.nickjr.com/games-activities/'>Preschool Games and Activities</a>,<a href='http://www.nickjr.com/video/index.jhtml'>NickJr. Video</a>
+]]></media:category>
+</media:group>
+</item>
+<item>
+<title>Art</title>
+<link>http://www.nickjr.com/video/index.jhtml?videoid=101587</link>
+<guid isPermaLink="false">mgid:cms:item:nickjr.com:101587</guid>
+<description><![CDATA[Art is everywhere according to MGMT and the Gabba gang!]]></description>
+<image width="" height=""/>
+<media:group>
+<media:content type="text/xml" isDefault="true" duration="102"
+url="https://thetoonsofjosh.github.io/nickjr2012-2015/dynamo/video/data/mrssGenyggart.xml">
+<mediaad:content url="http://ad.doubleclick.net/pfadx/nickjr.playtime.nol/yoga/p/cv/kids/pac{pac}/YoGabbaGabbaVideos;hub=kids;franchise=yoga;clip=Art;mode=playlist;playlist=YoGabbaGabbaVideos;loc=default;mtype=video;pform=network;!category=yoga;!category=playlist;!category=default;!category=Art;psp=0;asc={asc};ssc={ssc};psc={psc};pac={pac};sac={sac};rsc={rsc};rac={rac};gac={gac};!category=previousMetadatafranchise;demo={demo};tile={tile};dcmt=text/xml;u=hub-kids|franchise-yoga|clip-Art|mode-playlist|playlist-YoGabbaGabbaVideos|loc-default|mtype-video|pform-network|!category-yoga|!category-playlist|!category-default|!category-Art|psp-0|asc-{asc}|ssc-{ssc}|psc-{psc}|pac-{pac}|sac-{sac}|rsc-{rsc}|rac-{rac}|gac-{gac}|!category-previousMetadatafranchise|demo-{demo}|tile-{tile}|dcmt-text/xml;sz=640x480;ord={ord}"/>
+</media:content>
+<media:title>Art</media:title>
+<media:description><![CDATA[Art is everywhere according to MGMT and the Gabba gang!]]></media:description>
+<media:thumbnail width="145" height="111"
+url="http://www.nickjr.com/assets/videoplayer/kids/videos/yoga/218-art/218-art-thumb.jpg"/>
+<media:player url="http://media.mtvnservices.com/mgid:cms:item:nickjr.com:101587"/>
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:category scheme="urn:mtvn:content_type" label="Playtime Clip">Playtime Clip</media:category>
+<media:category scheme="urn:mtvn:franchise" label="yoga">yoga</media:category>
+<media:category scheme="urn:mtvn:playlist_title" label="Yo Gabba Gabba! Videos">yo_gabba_gabba__videos</media:category>
+<media:category scheme="urn:mtvn:playlist_uri" label="mgid:cms:playlist:nickjr.com:100993">mgid:cms:playlist:nickjr.com:100993</media:category>
+<media:category scheme="urn:mtvn:reportable">true</media:category>
+<media:category scheme="urn:mtvn:affect_counters">true</media:category>
+<media:category scheme="urn:mtvn:display:source">Yo Gabba Gabba!</media:category>
+<media:category scheme="urn:mtvn:display:source_link">http://www.nickjr/com/shows/</media:category>
+<media:category scheme="urn:mtvn:display:date">Tue May 11 00:00:00 EDT 2010</media:category>
+<media:category scheme="urn:mtvn:display:seo"><![CDATA[
+<a href='http://www.nickjr.com/'>NickJr.</a>,<a href='http://www.nickjr.com/shows/'>NickJr. Kids Shows</a>,<a href='http://www.nickjr.com/games-activities/'>Preschool Games and Activities</a>,<a href='http://www.nickjr.com/video/index.jhtml'>NickJr. Video</a>
+]]></media:category>
+</media:group>
+</item>
+<item>
+<title>First Day of School</title>
+<link>http://www.nickjr.com/video/index.jhtml?videoid=104660</link>
+<guid isPermaLink="false">mgid:cms:item:nickjr.com:104660</guid>
+<description><![CDATA[Toodee and Brobee are a little nervous about their first day of school.]]></description>
+<image width="" height=""/>
+<media:group>
+<media:content type="text/xml" isDefault="true" duration="697"
+url="https://thetoonsofjosh.github.io/nickjr2012-2015/dynamo/video/data/mrssGenyggfirstdayofschool.xml">
+<mediaad:content url="http://ad.doubleclick.net/pfadx/nickjr.playtime.nol/yoga/p/cv/kids/pac{pac}/YoGabbaGabbaVideos;hub=kids;franchise=yoga;clip=FirstDayofSchool;mode=playlist;playlist=YoGabbaGabbaVideos;loc=default;mtype=video;pform=network;!category=yoga;!category=playlist;!category=default;!category=FirstDayofSchool;psp=0;asc={asc};ssc={ssc};psc={psc};pac={pac};sac={sac};rsc={rsc};rac={rac};gac={gac};!category=previousMetadatafranchise;demo={demo};tile={tile};dcmt=text/xml;u=hub-kids|franchise-yoga|clip-FirstDayofSchool|mode-playlist|playlist-YoGabbaGabbaVideos|loc-default|mtype-video|pform-network|!category-yoga|!category-playlist|!category-default|!category-FirstDayofSchool|psp-0|asc-{asc}|ssc-{ssc}|psc-{psc}|pac-{pac}|sac-{sac}|rsc-{rsc}|rac-{rac}|gac-{gac}|!category-previousMetadatafranchise|demo-{demo}|tile-{tile}|dcmt-text/xml;sz=640x480;ord={ord}"/>
+</media:content>
+<media:title>First Day of School</media:title>
+<media:description><![CDATA[Toodee and Brobee are a little nervous about their first day of school.]]></media:description>
+<media:thumbnail width="145" height="111"
+url="http://www.nickjr.com/assets/videoplayer/kids/videos/yoga/301-school/301-school-thumb.jpg"/>
+<media:player url="http://media.mtvnservices.com/mgid:cms:item:nickjr.com:104660"/>
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:category scheme="urn:mtvn:content_type" label="Playtime Clip">Playtime Clip</media:category>
+<media:category scheme="urn:mtvn:franchise" label="yoga">yoga</media:category>
+<media:category scheme="urn:mtvn:playlist_title" label="Yo Gabba Gabba! Videos">yo_gabba_gabba__videos</media:category>
+<media:category scheme="urn:mtvn:playlist_uri" label="mgid:cms:playlist:nickjr.com:100993">mgid:cms:playlist:nickjr.com:100993</media:category>
+<media:category scheme="urn:mtvn:reportable">true</media:category>
+<media:category scheme="urn:mtvn:affect_counters">true</media:category>
+<media:category scheme="urn:mtvn:display:source">Yo Gabba Gabba!</media:category>
+<media:category scheme="urn:mtvn:display:source_link">http://www.nickjr/com/shows/</media:category>
+<media:category scheme="urn:mtvn:display:date">Fri Jul 02 00:00:00 EDT 2010</media:category>
+<media:category scheme="urn:mtvn:display:seo"><![CDATA[
+<a href='http://www.nickjr.com/'>NickJr.</a>,<a href='http://www.nickjr.com/shows/'>NickJr. Kids Shows</a>,<a href='http://www.nickjr.com/games-activities/'>Preschool Games and Activities</a>,<a href='http://www.nickjr.com/video/index.jhtml'>NickJr. Video</a>
+]]></media:category>
+</media:group>
+</item>
+<item>
+<title>Get The Sillies Out</title>
+<link>http://www.nickjr.com/video/index.jhtml?videoid=113120</link>
+<guid isPermaLink="false">mgid:cms:item:nickjr.com:113120</guid>
+<description><![CDATA[Can't sit still? rn:mtvn:franchise" label="yoga">yoga</media:category>
+<media:category scheme="urn:mtvn:playlist_title" label="Yo Gabba Gabba! Videos">yo_gabba_gabba__videos</media:category>
+<media:category scheme="urn:mtvn:playlist_uri" label="mgid:cms:playlist:nickjr.com:100993">mgid:cms:playlist:nickjr.com:100993</media:category>
+<media:category scheme="urn:mtvn:reportable">true</media:category>
+<media:category scheme="urn:mtvn:affect_counters">true</media:category>
+<media:category scheme="urn:mtvn:display:source">Yo Gabba Gabba!</media:category>
+<media:category scheme="urn:mtvn:display:source_link">http://www.nickjr/com/shows/</media:category>
+<media:category scheme="urn:mtvn:display:date">Mon Jan 31 00:00:00 EST 2011</media:category>
+<media:category scheme="urn:mtvn:display:seo"><![CDATA[
+<a href='http://www.nickjr.com/'>NickJr.</a>,<a href='http://www.nickjr.com/shows/'>NickJr. Kids Shows</a>,<a href='http://www.nickjr.com/games-activities/'>Preschool Games and Activities</a>,<a href='http://www.nickjr.com/video/index.jhtml'>NickJr. Video</a>
+]]></media:category>
+</media:group>
+</item>
+<item>
+<title>Happy</title>
+<link>http://www.nickjr.com/video/index.jhtml?videoid=109782</link>
+<guid isPermaLink="false">mgid:cms:item:nickjr.com:109782</guid>
+<description><![CDATA[Come sing the "Happy Song" with your friends from Yo Gabba Gabba!]]></description>
+<image width="" height=""/>
+<media:group>
+<media:content type="text/xml" isDefault="true" duration="134"
+url="https://thetoonsofjosh.github.io/nickjr2012-2015/dynamo/video/data/mrssGenygghappy.xml">
+<mediaad:content url="http://ad.doubleclick.net/pfadx/nickjr.playtime.nol/yoga/p/cv/kids/pac{pac}/YoGabbaGabbaVideos;hub=kids;franchise=yoga;clip=Happy;mode=playlist;playlist=YoGabbaGabbaVideos;loc=default;mtype=video;pform=network;!category=yoga;!category=playlist;!category=default;!category=Happy;psp=0;asc={asc};ssc={ssc};psc={psc};pac={pac};sac={sac};rsc={rsc};rac={rac};gac={gac};!category=previousMetadatafranchise;demo={demo};tile={tile};dcmt=text/xml;u=hub-kids|franchise-yoga|clip-Happy|mode-playlist|playlist-YoGabbaGabbaVideos|loc-default|mtype-video|pform-network|!category-yoga|!category-playlist|!category-default|!category-Happy|psp-0|asc-{asc}|ssc-{ssc}|psc-{psc}|pac-{pac}|sac-{sac}|rsc-{rsc}|rac-{rac}|gac-{gac}|!category-previousMetadatafranchise|demo-{demo}|tile-{tile}|dcmt-text/xml;sz=640x480;ord={ord}"/>
+</media:content>
+<media:title>Happy</media:title>
+<media:description><![CDATA[Come sing the "Happy Song" with your friends from Yo Gabba Gabba!]]></media:description>
+<media:thumbnail width="145" height="111"
+url="http://www.nickjr.com/assets/videoplayer/kids/videos/yoga/106-happy/106-happy-thumb.jpg"/>
+<media:player url="http://media.mtvnservices.com/mgid:cms:item:nickjr.com:109782"/>
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:category scheme="urn:mtvn:content_type" label="Playtime Clip">Playtime Clip</media:category>
+<media:category scheme="urn:mtvn:franchise" label="yoga">yoga</media:category>
+<media:category scheme="urn:mtvn:playlist_title" label="Yo Gabba Gabba! Videos">yo_gabba_gabba__videos</media:category>
+<media:category scheme="urn:mtvn:playlist_uri" label="mgid:cms:playlist:nickjr.com:100993">mgid:cms:playlist:nickjr.com:100993</media:category>
+<media:category scheme="urn:mtvn:reportable">true</media:category>
+<media:category scheme="urn:mtvn:affect_counters">true</media:category>
+<media:category scheme="urn:mtvn:display:source">Yo Gabba Gabba!</media:category>
+<media:category scheme="urn:mtvn:display:source_link">http://www.nickjr/com/shows/</media:category>
+<media:category scheme="urn:mtvn:display:date">Thu Jul 15 00:00:00 EDT 2010</media:category>
+<media:category scheme="urn:mtvn:display:seo"><![CDATA[
+<a href='http://www.nickjr.com/'>NickJr.</a>,<a href='http://www.nickjr.com/shows/'>NickJr. Kids Shows</a>,<a href='http://www.nickjr.com/games-activities/'>Preschool Games and Activities</a>,<a href='http://www.nickjr.com/video/index.jhtml'>NickJr. Video</a>
+]]></media:category>
+</media:group>
+</item>
+<item>
+<title>Superhero</title>
+<link>http://www.nickjr.com/video/index.jhtml?videoid=103221</link>
+<guid isPermaLink="false">mgid:cms:item:nickjr.com:103221</guid>
+<description><![CDATA[Grab your mask and cape and meet the "superhero" Gabba gang!]]></description>
+<image width="" height=""/>
+<media:group>
+<media:content type="text/xml" isDefault="true" duration="152"
+url="https://thetoonsofjosh.github.io/nickjr2012-2015/dynamo/video/data/mrssGenyggsuperhero.xml">
+<mediaad:content url="http://ad.doubleclick.net/pfadx/nickjr.playtime.nol/yoga/p/cv/kids/pac{pac}/YoGabbaGabbaVideos;hub=kids;franchise=yoga;clip=Superhero;mode=playlist;playlist=YoGabbaGabbaVideos;loc=default;mtype=video;pform=network;!category=yoga;!category=playlist;!category=default;!category=Superhero;psp=0;asc={asc};ssc={ssc};psc={psc};pac={pac};sac={sac};rsc={rsc};rac={rac};gac={gac};!category=previousMetadatafranchise;demo={demo};tile={tile};dcmt=text/xml;u=hub-kids|franchise-yoga|clip-Superhero|mode-playlist|playlist-YoGabbaGabbaVideos|loc-default|mtype-video|pform-network|!category-yoga|!category-playlist|!category-default|!category-Superhero|psp-0|asc-{asc}|ssc-{ssc}|psc-{psc}|pac-{pac}|sac-{sac}|rsc-{rsc}|rac-{rac}|gac-{gac}|!category-previousMetadatafranchise|demo-{demo}|tile-{tile}|dcmt-text/xml;sz=640x480;ord={ord}"/>
+</media:content>
+<media:title>Superhero</media:title>
+<media:description><![CDATA[Grab your mask and cape and meet the "superhero" Gabba gang!]]></media:description>
+<media:thumbnail width="145" height="111"
+url="http://www.nickjr.com/assets/videoplayer/kids/videos/yoga/306-superhero/306-superhero-thumb.jpg"/>
+<media:player url="http://media.mtvnservices.com/mgid:cms:item:nickjr.com:103221"/>
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:category scheme="urn:mtvn:content_type" label="Playtime Clip">Playtime Clip</media:category>
+<media:category scheme="urn:mtvn:franchise" label="yoga">yoga</media:category>
+<media:category scheme="urn:mtvn:playlist_title" label="Yo Gabba Gabba! Videos">yo_gabba_gabba__videos</media:category>
+<media:category scheme="urn:mtvn:playlist_uri" label="mgid:cms:playlist:nickjr.com:100993">mgid:cms:playlist:nickjr.com:100993</media:category>
+<media:category scheme="urn:mtvn:reportable">true</media:category>
+<media:category scheme="urn:mtvn:affect_counters">true</media:category>
+<media:category scheme="urn:mtvn:display:source">Yo Gabba Gabba!</media:category>
+<media:category scheme="urn:mtvn:display:source_link">http://www.nickjr/com/shows/</media:category>
+<media:category scheme="urn:mtvn:display:date">Tue Mar 30 00:00:00 EDT 2010</media:category>
+<media:category scheme="urn:mtvn:display:seo"><![CDATA[
+<a href='http://www.nickjr.com/'>NickJr.</a>,<a href='http://www.nickjr.com/shows/'>NickJr. Kids Shows</a>,<a href='http://www.nickjr.com/games-activities/'>Preschool Games and Activities</a>,<a href='http://www.nickjr.com/video/index.jhtml'>NickJr. Video</a>
+]]></media:category>
+</media:group>
+</item>
+<item>
+<title>Adventure</title>
+<link>http://www.nickjr.com/video/index.jhtml?videoid=111803</link>
+<guid isPermaLink="false">mgid:cms:item:nickjr.com:111803</guid>
+<description><![CDATA[Grab your belt, hat and rope and follow the Yo Gabba Gabba gang on a jungle adventure!]]></description>
+<image width="" height=""/>
+<media:group>
+<media:content type="text/xml" isDefault="true" duration="144"
+url="https://thetoonsofjosh.github.io/nickjr2012-2015/dynamo/video/data/mrssGenyggadventure.xml">
+<mediaad:content url="http://ad.doubleclick.net/pfadx/nickjr.playtime.nol/yoga/p/cv/kids/pac{pac}/YoGabbaGabbaVideos;hub=kids;franchise=yoga;clip=Adventure;mode=playlist;playlist=YoGabbaGabbaVideos;loc=default;mtype=video;pform=network;!category=yoga;!category=playlist;!category=default;!category=Adventure;psp=0;asc={asc};ssc={ssc};psc={psc};pac={pac};sac={sac};rsc={rsc};rac={rac};gac={gac};!category=previousMetadatafranchise;demo={demo};tile={tile};dcmt=text/xml;u=hub-kids|franchise-yoga|clip-Adventure|mode-playlist|playlist-YoGabbaGabbaVideos|loc-default|mtype-video|pform-network|!category-yoga|!category-playlist|!category-default|!category-Adventure|psp-0|asc-{asc}|ssc-{ssc}|psc-{psc}|pac-{pac}|sac-{sac}|rsc-{rsc}|rac-{rac}|gac-{gac}|!category-previousMetadatafranchise|demo-{demo}|tile-{tile}|dcmt-text/xml;sz=640x480;ord={ord}"/>
+</media:content>
+<media:title>Adventure</media:title>
+<media:description><![CDATA[Grab your belt, hat and rope and follow the Yo Gabba Gabba gang on a jungle adventure!]]></media:description>
+<media:thumbnail width="145" height="111"
+url="http://www.nickjr.com/assets/videoplayer/kids/videos/yoga/302-adventure/302-adventure-thumb.jpg"/>
+<media:player url="http://media.mtvnservices.com/mgid:cms:item:nickjr.com:111803"/>
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:category scheme="urn:mtvn:content_type" label="Playtime Clip">Playtime Clip</media:category>
+<media:category scheme="urn:mtvn:franchise" label="yoga">yoga</media:category>
+<media:category scheme="urn:mtvn:playlist_title" label="Yo Gabba Gabba! Videos">yo_gabba_gabba__videos</media:category>
+<media:category scheme="urn:mtvn:playlist_uri" label="mgid:cms:playlist:nickjr.com:100993">mgid:cms:playlist:nickjr.com:100993</media:category>
+<media:category scheme="urn:mtvn:reportable">true</media:category>
+<media:category scheme="urn:mtvn:affect_counters">true</media:category>
+<media:category scheme="urn:mtvn:display:source">Yo Gabba Gabba!</media:category>
+<media:category scheme="urn:mtvn:display:source_link">http://www.nickjr/com/shows/</media:category>
+<media:category scheme="urn:mtvn:display:date">Mon Jan 31 00:00:00 EST 2011</media:category>
+<media:category scheme="urn:mtvn:display:seo"><![CDATA[
+<a href='http://www.nickjr.com/'>NickJr.</a>,<a href='http://www.nickjr.com/shows/'>NickJr. Kids Shows</a>,<a href='http://www.nickjr.com/games-activities/'>Preschool Games and Activities</a>,<a href='http://www.nickjr.com/video/index.jhtml'>NickJr. Video</a>
+]]></media:category>
+</media:group>
+</item>
+<item>
+<title>All My Friends Are Insects</title>
+<link>http://www.nickjr.com/video/index.jhtml?videoid=110538</link>
+<guid isPermaLink="false">mgid:cms:item:nickjr.com:110538</guid>
+<description><![CDATA[Join Yo Gabba Gabba! and sing about your love of bugs!]]></description>
+<image width="" height=""/>
+<media:group>
+<media:content type="text/xml" isDefault="true" duration="94"
+url="https://thetoonsofjosh.github.io/nickjr2012-2015/dynamo/video/data/mrssGenygginsects.xml">
+<mediaad:content url="http://ad.doubleclick.net/pfadx/nickjr.playtime.nol/yoga/p/cv/kids/pac{pac}/YoGabbaGabbaVideos;hub=kids;franchise=yoga;clip=AllMyFriendsAreInsects;mode=playlist;playlist=YoGabbaGabbaVideos;loc=default;mtype=video;pform=network;!category=yoga;!category=playlist;!category=default;!category=AllMyFriendsAreInsec;psp=0;asc={asc};ssc={ssc};psc={psc};pac={pac};sac={sac};rsc={rsc};rac={rac};gac={gac};!category=previousMetadatafranchise;demo={demo};tile={tile};dcmt=text/xml;u=hub-kids|franchise-yoga|clip-AllMyFriendsAreInsects|mode-playlist|playlist-YoGabbaGabbaVideos|loc-default|mtype-video|pform-network|!category-yoga|!category-playlist|!category-default|!category-AllMyFriendsAreInsec|psp-0|asc-{asc}|ssc-{ssc}|psc-{psc}|pac-{pac}|sac-{sac}|rsc-{rsc}|rac-{rac}|gac-{gac}|!category-previousMetadatafranchise|demo-{demo}|tile-{tile}|dcmt-text/xml;sz=640x480;ord={ord}"/>
+</media:content>
+<media:title>All My Friends Are Insects</media:title>
+<media:description><![CDATA[Join Yo Gabba Gabba! and sing about your love of bugs!]]></media:description>
+<media:thumbnail width="145" height="111"
+url="http://www.nickjr.com/assets/videoplayer/kids/videos/yoga/313-bugs/313-bugs-thumb.jpg"/>
+<media:player url="http://media.mtvnservices.com/mgid:cms:item:nickjr.com:110538"/>
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:category scheme="urn:mtvn:content_type" label="Playtime Clip">Playtime Clip</media:category>
+<media:category scheme="urn:mtvn:franchise" label="yoga">yoga</media:category>
+<media:category scheme="urn:mtvn:playlist_title" label="Yo Gabba Gabba! Videos">yo_gabba_gabba__videos</media:category>
+<media:category scheme="urn:mtvn:playlist_uri" label="mgid:cms:playlist:nickjr.com:100993">mgid:cms:playlist:nickjr.com:100993</media:category>
+<media:category scheme="urn:mtvn:reportable">true</media:category>
+<media:category scheme="urn:mtvn:affect_counters">true</media:category>
+<media:category scheme="urn:mtvn:display:source">Yo Gabba Gabba!</media:category>
+<media:category scheme="urn:mtvn:display:source_link">http://www.nickjr/com/shows/</media:category>
+<media:category scheme="urn:mtvn:display:date">Mon Mar 01 00:00:00 EST 2010</media:category>
+<media:category scheme="urn:mtvn:display:seo"><![CDATA[
+<a href='http://www.nickjr.com/'>NickJr.</a>,<a href='http://www.nickjr.com/shows/'>NickJr. Kids Shows</a>,<a href='http://www.nickjr.com/games-activities/'>Preschool Games and Activities</a>,<a href='http://www.nickjr.com/video/index.jhtml'>NickJr. Video</a>
+]]></media:category>
+</media:group>
+</item>
+<item>
+<title>Bananas, Rice, Apple Sauce, Toast</title>
+<link>http://www.nickjr.com/video/index.jhtml?videoid=111995</link>
+<guid isPermaLink="false">mgid:cms:item:nickjr.com:111995</guid>
+<description><![CDATA[What should you eat when you don't feel well? Try bananas, rice, apple sauce or toast. Of Montreal performs "Bananas, Rice, Apple Sauce, Toast" on Yo Gabba Gabba!]]></description>
+<image width="" height=""/>
+<media:group>
+<media:content type="text/xml" isDefault="true" duration="125"
+url="https://thetoonsofjosh.github.io/nickjr2012-2015/dynamo/video/data/mrssGenyggbananasriceapplesaucetoast.xml">
+<mediaad:content url="http://ad.doubleclick.net/pfadx/nickjr.playtime.nol/yoga/p/cv/kids/pac{pac}/BananasRiceAppleSauceToa;hub=kids;franchise=yoga;clip=BananasRiceAppleSauceToast;mode=playlist;playlist=YoGabbaGabbaVideos;loc=default;mtype=video;pform=network;!category=yoga;!category=playlist;!category=default;!category=BananasRiceAppleSauc;psp=0;asc={asc};ssc={ssc};psc={psc};pac={pac};sac={sac};rsc={rsc};rac={rac};gac={gac};!category=previousMetadatafranchise;demo={demo};tile={tile};dcmt=text/xml;u=hub-kids|franchise-yoga|clip-BananasRiceAppleSauceToast|mode-playlist|playlist-YoGabbaGabbaVideos|loc-default|mtype-video|pform-network|!category-yoga|!category-playlist|!category-default|!category-BananasRiceAppleSauc|psp-0|asc-{asc}|ssc-{ssc}|psc-{psc}|pac-{pac}|sac-{sac}|rsc-{rsc}|rac-{rac}|gac-{gac}|!category-previousMetadatafranchise|demo-{demo}|tile-{tile}|dcmt-text/xml;sz=640x480;ord={ord}"/>
+</media:content>
+<media:title>Bananas, Rice, Apple Sauce, Toast</media:title>
+<media:description><![CDATA[What should you eat when you don't feel well? Try bananas, rice, apple sauce or toast. Of Montreal performs "Bananas, Rice, Apple Sauce, Toast" on Yo Gabba Gabba!]]></media:description>
+<media:thumbnail width="145" height="111"
+url="http://www.nickjr.com/assets/videoplayer/kids/videos/yoga/304-toast/304-toast-thumb.jpg"/>
+<media:player url="http://media.mtvnservices.com/mgid:cms:item:nickjr.com:111995"/>
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:category scheme="urn:mtvn:content_type" label="Playtime Clip">Playtime Clip</media:category>
+<media:category scheme="urn:mtvn:franchise" label="yoga">yoga</media:category>
+<media:category scheme="urn:mtvn:playlist_title" label="Yo Gabba Gabba! Videos">yo_gabba_gabba__videos</media:category>
+<media:category scheme="urn:mtvn:playlist_uri" label="mgid:cms:playlist:nickjr.com:100993">mgid:cms:playlist:nickjr.com:100993</media:category>
+<media:category scheme="urn:mtvn:reportable">true</media:category>
+<media:category scheme="urn:mtvn:affect_counters">true</media:category>
+<media:category scheme="urn:mtvn:display:source">Yo Gabba Gabba!</media:category>
+<media:category scheme="urn:mtvn:display:source_link">http://www.nickjr/com/shows/</media:category>
+<media:category scheme="urn:mtvn:display:date">Thu Feb 24 00:00:00 EST 2011</media:category>
+<media:category scheme="urn:mtvn:display:seo"><![CDATA[
+<a href='http://www.nickjr.com/'>NickJr.</a>,<a href='http://www.nickjr.com/shows/'>NickJr. Kids Shows</a>,<a href='http://www.nickjr.com/games-activities/'>Preschool Games and Activities</a>,<a href='http://www.nickjr.com/video/index.jhtml'>NickJr. Video</a>
+]]></media:category>
+</media:group>
+</item>
+<item>
+<title>Band</title>
+<link>http://www.nickjr.com/video/index.jhtml?videoid=101589</link>
+<guid isPermaLink="false">mgid:cms:item:nickjr.com:101589</guid>
+<description><![CDATA[The Yo Gabba Gabba gang loves to rock! Together they learn what to do to make their own music.]]></description>
+<image width="" height=""/>
+<media:group>
+<media:content type="text/xml" isDefault="true" duration="119"
+url="https://thetoonsofjosh.github.io/nickjr2012-2015/dynamo/video/data/mrssGenyggband.xml">
+<mediaad:content url="http://ad.doubleclick.net/pfadx/nickjr.playtime.nol/yoga/p/cv/kids/pac{pac}/YoGabbaGabbaVideos;hub=kids;franchise=yoga;clip=Band;mode=playlist;playlist=YoGabbaGabbaVideos;loc=default;mtype=video;pform=network;!category=yoga;!category=playlist;!category=default;!category=Band;psp=0;asc={asc};ssc={ssc};psc={psc};pac={pac};sac={sac};rsc={rsc};rac={rac};gac={gac};!category=previousMetadatafranchise;demo={demo};tile={tile};dcmt=text/xml;u=hub-kids|franchise-yoga|clip-Band|mode-playlist|playlist-YoGabbaGabbaVideos|loc-default|mtype-video|pform-network|!category-yoga|!category-playlist|!category-default|!category-Band|psp-0|asc-{asc}|ssc-{ssc}|psc-{psc}|pac-{pac}|sac-{sac}|rsc-{rsc}|rac-{rac}|gac-{gac}|!category-previousMetadatafranchise|demo-{demo}|tile-{tile}|dcmt-text/xml;sz=640x480;ord={ord}"/>
+</media:content>
+<media:title>Band</media:title>
+<media:description><![CDATA[The Yo Gabba Gabba gang loves to rock! Together they learn what to do to make their own music.]]></media:description>
+<media:thumbnail width="145" height="111"
+url="http://www.nickjr.com/assets/videoplayer/kids/videos/yoga/211-band/211-band-thumb.jpg"/>
+<media:player url="http://media.mtvnservices.com/mgid:cms:item:nickjr.com:101589"/>
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:category scheme="urn:mtvn:content_type" label="Playtime Clip">Playtime Clip</media:category>
+<media:category scheme="urn:mtvn:franchise" label="yoga">yoga</media:category>
+<media:category scheme="urn:mtvn:playlist_title" label="Yo Gabba Gabba! Videos">yo_gabba_gabba__videos</media:category>
+<media:category scheme="urn:mtvn:playlist_uri" label="mgid:cms:playlist:nickjr.com:100993">mgid:cms:playlist:nickjr.com:100993</media:category>
+<media:category scheme="urn:mtvn:reportable">true</media:category>
+<media:category scheme="urn:mtvn:affect_counters">true</media:category>
+<media:category scheme="urn:mtvn:display:source">Yo Gabba Gabba!</media:category>
+<media:category scheme="urn:mtvn:display:source_link">http://www.nickjr/com/shows/</media:category>
+<media:category scheme="urn:mtvn:display:date">Tue May 11 00:00:00 EDT 2010</media:category>
+<media:category scheme="urn:mtvn:display:seo"><![CDATA[
+<a href='http://www.nickjr.com/'>NickJr.</a>,<a href='http://www.nickjr.com/shows/'>NickJr. Kids Shows</a>,<a href='http://www.nickjr.com/games-activities/'>Preschool Games and Activities</a>,<a href='http://www.nickjr.com/video/index.jhtml'>NickJr. Video</a>
+]]></media:category>
+</media:group>
+</item>
+<item>
+<title>Big</title>
+<link>http://www.nickjr.com/video/index.jhtml?videoid=111805</link>
+<guid isPermaLink="false">mgid:cms:item:nickjr.com:111805</guid>
+<description><![CDATA[Brobee's got something big on his mind. He wishes he were BIG!]]></description>
+<image width="" height=""/>
+<media:group>
+<media:content type="text/xml" isDefault="true" duration="189"
+url="https://thetoonsofjosh.github.io/nickjr2012-2015/dynamo/video/data/mrssGenyggbig.xml">
+<mediaad:content url="http://ad.doubleclick.net/pfadx/nickjr.playtime.nol/yoga/p/cv/kids/pac{pac}/YoGabbaGabbaVideos;hub=kids;franchise=yoga;clip=Big;mode=playlist;playlist=YoGabbaGabbaVideos;loc=default;mtype=video;pform=network;!category=yoga;!category=playlist;!category=default;!category=Big;psp=0;asc={asc};ssc={ssc};psc={psc};pac={pac};sac={sac};rsc={rsc};rac={rac};gac={gac};!category=previousMetadatafranchise;demo={demo};tile={tile};dcmt=text/xml;u=hub-kids|franchise-yoga|clip-Big|mode-playlist|playlist-YoGabbaGabbaVideos|loc-default|mtype-video|pform-network|!category-yoga|!category-playlist|!category-default|!category-Big|psp-0|asc-{asc}|ssc-{ssc}|psc-{psc}|pac-{pac}|sac-{sac}|rsc-{rsc}|rac-{rac}|gac-{gac}|!category-previousMetadatafranchise|demo-{demo}|tile-{tile}|dcmt-text/xml;sz=640x480;ord={ord}"/>
+</media:content>
+<media:title>Big</media:title>
+<media:description><![CDATA[Brobee's got something big on his mind. He wishes he were BIG!]]></media:description>
+<media:thumbnail width="145" height="111"
+url="http://www.nickjr.com/assets/videoplayer/kids/videos/yoga/212-big/212-big-thumb.jpg"/>
+<media:player url="http://media.mtvnservices.com/mgid:cms:item:nickjr.com:111805"/>
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:category scheme="urn:mtvn:content_type" label="Playtime Clip">Playtime Clip</media:category>
+<media:category scheme="urn:mtvn:franchise" label="yoga">yoga</media:category>
+<media:category scheme="urn:mtvn:playlist_title" label="Yo Gabba Gabba! Videos">yo_gabba_gabba__videos</media:category>
+<media:category scheme="urn:mtvn:playlist_uri" label="mgid:cms:playlist:nickjr.com:100993">mgid:cms:playlist:nickjr.com:100993</media:category>
+<media:category scheme="urn:mtvn:reportable">true</media:category>
+<media:category scheme="urn:mtvn:affect_counters">true</media:category>
+<media:category scheme="urn:mtvn:display:source">Yo Gabba Gabba!</media:category>
+<media:category scheme="urn:mtvn:display:source_link">http://www.nickjr/com/shows/</media:category>
+<media:category scheme="urn:mtvn:display:date">Mon Jan 31 00:00:00 EST 2011</media:category>
+<media:category scheme="urn:mtvn:display:seo"><![CDATA[
+<a href='http://www.nickjr.com/'>NickJr.</a>,<a href='http://www.nickjr.com/shows/'>NickJr. Kids Shows</a>,<a href='http://www.nickjr.com/games-activities/'>Preschool Games and Activities</a>,<a href='http://www.nickjr.com/video/index.jhtml'>NickJr. Video</a>
+]]></media:category>
+</media:group>
+</item>
+</channel>
+</rss>
+
+<!-- Date: Fri Mar 08 14:45:42 EST 2013 -->
+
+<!-- http://dextr.mtvnservices.com/lite/7f/5d/fc/b0/873b/d8e8/d7e3883f/1b3ec7e2/lite.xml -->
