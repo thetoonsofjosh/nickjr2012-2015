@@ -1,0 +1,253 @@
+{
+"config":{
+"promoSounds":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/promos/global-promo-sounds.swf",
+"promos":[
+{
+"loader":{
+"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/loaders/asset-loader.swf",
+
+"position":{"x":"235","y":"150"}
+
+},
+"classId":"VideoListPromo",
+"localConnectionId":"VideoListPromo",
+"urlAlias":"yo-gabba-gabba-kids-videos",
+"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/promos/listing/moreVideos.swf",
+"position":{"x":"0","y":"0"},
+"items":[
+
+{
+"urlAlias":"yo-gabba-gabba-love",	
+"title":"Love", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/assets/videoplayer/kids/videos/yoga/119-love/119-love-thumb.jpg",
+"typeString":"Playtime Clip",
+"link":"javascript:playVideo(0)", 
+"id":""
+}
+
+,
+
+{
+"urlAlias":"yo-gabba-gabba-weather",	
+"title":"Weather", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/assets/videoplayer/kids/videos/yoga/207-weather/207-weather-thumb.jpg",
+"typeString":"Playtime Clip",
+"link":"javascript:playVideo(1)", 
+"id":"116954"
+}
+
+,
+
+{
+"urlAlias":"yo-gabba-gabba-a-very-awesom-christmas",	
+"title":"A Very Awesome Christmas", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/assets/videoplayer/kids/videos/yoga/403-awesome-christmas/403-awesome-christmas-thumb.jpg",
+"typeString":"clip",
+"link":"javascript:playVideo(2)", 
+"id":"114056"
+}
+
+,
+
+{
+"urlAlias":"yo-gabba-gabba-christmas-time",	
+"title":"Christmas Time", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/assets/videoplayer/kids/videos/yoga/114-christmas/114-christmas-thumb.jpg",
+"typeString":"Playtime Clip",
+"link":"javascript:playVideo(3)", 
+"id":"98268"
+}
+
+,
+
+{
+"urlAlias":"yo-gabba-gabba-the-leaves-are-falling",	
+"title":"The Leaves Are Falling", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/assets/videoplayer/kids/videos/yoga/110-leaves/110-leaves-thumb.jpg",
+"typeString":"Playtime Clip",
+"link":"javascript:playVideo(4)", 
+"id":"116062"
+}
+
+,
+
+{
+"urlAlias":"yo-gabba-gabba-gooble",	
+"title":"Gooble", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/assets/videoplayer/kids/videos/yoga/401-gooble/401-gooble-thumb.jpg",
+"typeString":"Playtime Clip",
+"link":"javascript:playVideo(5)", 
+"id":"116052"
+}
+
+,
+
+{
+"urlAlias":"yo-gabba-gabba-games",	
+"title":"Games", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/assets/videoplayer/kids/videos/yoga/203-games/203-games-thumb.jpg",
+"typeString":"Playtime Clip",
+"link":"javascript:playVideo(6)", 
+"id":"116051"
+}
+
+,
+
+{
+"urlAlias":"yo-gabba-gabba-differences",	
+"title":"Differences", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/assets/videoplayer/kids/videos/yoga/209-glasses/209-glasses-thumb.jpg",
+"typeString":"Playtime Clip",
+"link":"javascript:playVideo(7)", 
+"id":"115735"
+}
+
+,
+
+{
+"urlAlias":"yo-gabba-gabba-new-friends",	
+"title":"New Friends", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/assets/videoplayer/kids/videos/promo/n13258-lost/n13258-lost-thumb.jpg",
+"typeString":"Playtime Clip",
+"link":"javascript:playVideo(8)", 
+"id":"115737"
+}
+
+,
+
+{
+"urlAlias":"yo-gabba-gabbba-flying",	
+"title":"Flying", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/assets/videoplayer/kids/videos/yoga/305-flying/305-flying-thumb.jpg",
+"typeString":"Playtime Clip",
+"link":"javascript:playVideo(9)", 
+"id":"115197"
+}
+
+,
+
+{
+"urlAlias":"yo-gabba-gabba-teeth",	
+"title":"Teeth", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/assets/videoplayer/kids/videos/yoga/201-teeth/201-teeth-thumb.jpg",
+"typeString":"Playtime Clip",
+"link":"javascript:playVideo(10)", 
+"id":"114446"
+}
+
+,
+
+{
+"urlAlias":"yo-gabba-gabba-clubhouse",	
+"title":"Clubhouse", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/assets/videoplayer/kids/videos/yoga/clubhouse/rsz_yggclubhouse.jpg",
+"typeString":"Playtime Clip",
+"link":"javascript:playVideo(11)", 
+"id":"115193"
+}
+
+,
+
+{
+"urlAlias":"yo-gabba-gabba-baby",	
+"title":"Baby", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/videoplayer/kids/videos/yoga/312-baby/312-baby-thumb.jpg",
+"typeString":"clip",
+"link":"javascript:playVideo(12)", 
+"id":"114095"
+}
+
+,
+
+{
+"urlAlias":"yo-gabba-gabba-bugs",	
+"title":"Bugs", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/assets/videoplayer/kids/videos/yoga/313-bugs/313-bugs-thumb.jpg",
+"typeString":"clip",
+"link":"javascript:playVideo(13)", 
+"id":"114055"
+}
+
+,
+
+{
+"urlAlias":"yo-gabba-gabba-outdoors",	
+"title":"Time to Go Outdoors", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/assets/videoplayer/kids/videos/yoga/205-outdoors/205-outdoors-thumb.jpg",
+"typeString":"Playtime Clip",
+"link":"javascript:playVideo(14)", 
+"id":"98914"
+}
+
+,
+
+{
+"urlAlias":"yo-gabba-gabba-nature",	
+"title":"Nature", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/assets/videoplayer/kids/videos/yoga/303-nature/303-nature-thumb.jpg",
+"typeString":"Playtime Clip",
+"link":"javascript:playVideo(15)", 
+"id":"113219"
+}
+
+,
+
+{
+"urlAlias":"yo-gabba-gabba-circus",	
+"title":"Circus", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/assets/videoplayer/kids/videos/yoga/307-circus/307-circus-thumb.jpg",
+"typeString":"Playtime Clip",
+"link":"javascript:playVideo(16)", 
+"id":"86869"
+}
+
+,
+
+{
+"urlAlias":"yo-gabba-gabba-treasure",	
+"title":"Treasure", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/assets/videoplayer/kids/videos/yoga/310-12-ygg-baby-treasure/310-ygg-treasure-thumb.jpg",
+"typeString":"Playtime Clip",
+"link":"javascript:playVideo(17)", 
+"id":"112809"
+}
+
+,
+
+{
+"urlAlias":"yo-gabba-gabba-space",	
+"title":"Space", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/assets/videoplayer/kids/videos/yoga/206-space/206-space-thumb.jpg",
+"typeString":"Playtime Clip",
+"link":"javascript:playVideo(18)", 
+"id":"103672"
+}
+
+,
+
+{
+"urlAlias":"yo-gabba-gabba-doctor",	
+"title":"Doctor", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/assets/videoplayer/kids/videos/yoga/304-doctor/304-doctor-thumb.jpg",
+"typeString":"Playtime Clip",
+"link":"javascript:playVideo(19)", 
+"id":"103673"
+}
+
+,
+
+{
+"urlAlias":"yo-gabba-gabba-mini-spinny-dance",	
+"title":"The Mini-Spinny Dance", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/assets/videoplayer/kids/videos/yoga/117-dance/117-dance-thumb.jpg",
+"typeString":"Playtime Clip",
+"link":"javascript:playVideo(20)", 
+"id":"103671"
+}
+
+]
+}
+]
+}
+}
+
