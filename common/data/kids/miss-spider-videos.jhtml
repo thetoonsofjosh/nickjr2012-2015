@@ -1,0 +1,44 @@
+{
+"config":{
+"promoSounds":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/promos/global-promo-sounds.swf",
+"promos":[
+{
+"loader":{
+"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/loaders/asset-loader.swf",
+
+"position":{"x":"235","y":"150"}
+
+},
+"classId":"VideoListPromo",
+"localConnectionId":"VideoListPromo",
+"urlAlias":"miss-spider-kids-videos",
+"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/promos/listing/moreVideos.swf",
+"position":{"x":"0","y":"0"},
+"items":[
+
+{
+"urlAlias":"fresh-beat-concert-here-we-go",	
+"title":"A Little Bug Music", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/assets/videoplayer/kids/videos/miss/115-bug/115-bug-thumb.jpg",
+"typeString":"Playtime Clip",
+"link":"javascript:playVideo(0)", 
+"id":"118200"
+}
+
+,
+
+{
+"urlAlias":"fresh-beat-concert-here-we-go",	
+"title":"Stalking the Beanstalk", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/assets/videoplayer/kids/videos/miss/105-bean/105-bean-thumb.jpg?width=206&height=128",
+"typeString":"Playtime Clip",
+"link":"javascript:playVideo(1)",  
+"id":"113479"
+}
+
+]
+}
+]
+}
+}
+
