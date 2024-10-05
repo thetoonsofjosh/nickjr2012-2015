@@ -1,0 +1,83 @@
+<configuration xmlns:esi="http://www.akamai.com">
+<fluxAccountDomain>https://web.archive.org/web/20100712072611/http://community.nickjr.com/</fluxAccountDomain>
+<formFactorID>2:2.4:0.7:0.9:2.14:1.1:1.22:0.3:0.6:-1</formFactorID>
+<mshr>true</mshr>
+<player>
+<feed>
+"https://thetoonsofjosh.github.io/nickjr2012-2015/dynamo/video/data/mrssGen-missspider.jhtml?type=network&loc=default&hub=kids&mode=playlist&dartSite=nickjr.playtime.nol&mgid=mgid%3Acms%3Aitem%3Anickjr.com%3A100982&demo=null&block=true
+</feed>
+<config>
+<playerSettings>
+<clickableVideoEnabled>false</clickableVideoEnabled>
+<qos>
+<convivaEnabledContent>true</convivaEnabledContent>
+<convivaEnabledAd>true</convivaEnabledAd>
+<convivaPrecision>true</convivaPrecision>
+<AMAEnabledAds>true</AMAEnabledAds>
+<AMAEnabledContent>false</AMAEnabledContent>
+</qos>
+<defaultLanguage/>
+<hideScrubberThumbnail>false</hideScrubberThumbnail>
+<enableDynamicThumbnails>true</enableDynamicThumbnails>
+</playerSettings>
+<adSettings>
+<freeWheel enabled="true"/>
+<adServer>freewheel</adServer><adExpression>
+  <term type="literal" value="false"/>
+</adExpression>
+<freewheelSiteSectionPathParsing>false</freewheelSiteSectionPathParsing>
+<useActualDuration>false</useActualDuration>
+<amazonEnabled>false</amazonEnabled>
+</adSettings>
+<reportSettings>
+<demdex enabled="false">
+<videoEndCall enabled="false"/>
+</demdex>
+<playerInfo>
+<viralPlayerName>nickjrplayer</viralPlayerName>
+<partnerPlayerName>nickjrpartner</partnerPlayerName>
+<networkPlayerName>Home</networkPlayerName>
+</playerInfo>
+<videoReporter visitorNamespace="false" enabled="true">
+<mediaTracking heartbeatsDisabled="true" enabled="true"/>
+<omnitureTrackingServer/>
+<partnerAccount>viaviralkids</partnerAccount>
+<networkAccount>vianickjr</networkAccount>
+<viralAccount>viaviralkids</viralAccount>
+<devAccount>devvianickjr</devAccount>
+<charSet>ISO-8859-1</charSet>
+<customFields>
+<item name="prop18" value="playlist"/> 
+<item name="eVar35" value="playlist"/>
+<item name="prop27" value="{eventType}"/>
+<item name="eVar17" value="{eventType}"/>
+<item name="prop13" value="{videoTitle}"/>
+<item name="prop21" value="{mediaCategory} + : + + {videoTitle}"/>
+<item name="prop22" value="{franchise} + : + +{playlistType}"/>
+<item name="eVar11" value="{mediaCategory} + : + + {videoTitle}"/>
+<item name="eVar12" value="{franchise} + : + +{playlistType}"/>
+<item name="prop24" value="{franchise} + : + + {videoTitle}"/><item name="eVar24" value="{franchise} + : + + {videoTitle}"/></customFields>
+</videoReporter>
+<comScore enabled="true">
+<adTracking enabled="true"/>
+<primaryId>6059069</primaryId>
+<locationId/>
+</comScore>
+<nielsenReporter enabled="true" dprEnabled="true">
+<applicationId>PFC85B0BF-9FD2-D21A-E040-070AAC315924</applicationId>
+<sfCode>us</sfCode>
+<clientId>us-300231</clientId>
+<videoCensusId>c03</videoCensusId>
+</nielsenReporter>
+</reportSettings>
+</config>
+</player>
+<relatedFeed>
+https://web.archive.org/web/20211115060922/http://niagara.cc.com/related_videos/episode/431668?callback=endslate
+</relatedFeed>
+<brightcove_version/>
+<brightcove_mediagenRootURL/>
+<freewheelAppendSIDSuffix>false</freewheelAppendSIDSuffix>
+<freewheelSharedMGIDEnabled>false</freewheelSharedMGIDEnabled>
+<!--publish_time:2016-03-23T04:09:33.050-04:00-->
+</configuration>
