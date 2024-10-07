@@ -1,0 +1,89 @@
+
+<rss xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:mediaad="http://blip.tv/mediaad"
+xmlns:my="http://xslt-developer.epam.com"
+xmlns:media="http://search.yahoo.com/mrss/"
+version="2.0">
+<channel>
+<title>Jack's Big Music Show Videos</title>
+<link>http://www.nickjr.com</link>
+<description>nickjr.com video mrss</description>
+<image>
+<title>nickjr.com</title>
+<link>https://thetoonsofjosh.github.io/nickjr2012-2015/</link>
+<url>https://thetoonsofjosh.github.io/nickjr2012-2015/common/assets/navbar/nickjrLogo/nickjr_logo1.swf</url>
+<height>200</height>
+<width>200</width>
+</image>
+<item>
+<title>Nuttin But Stringz</title>
+<link>http://www.nickjr.com/video/index.jhtml?videoid=97103.html</link>
+<guid isPermaLink="false">mgid:cms:item:nickjr.com:97103</guid>
+<description><![CDATA[Rock out with Nuttin' But Stringz and their pals on Jack's Big Music Show!]]></description>
+<image width="" height=""/>
+<media:group>
+<media:content type="text/xml" isDefault="true" duration="194"
+url="https://thetoonsofjosh.github.io/nickjr2012-2015/dynamo/video/data/jack1.xml">
+<mediaad:content url="http://ad.doubleclick.net/pfadx/nickjr.playtime.nol/jack/p/cv/kids/pac{pac}/JacksBigMusicShowVideos;hub=kids;franchise=jack;clip=NuttinButStringz;mode=playlist;playlist=JacksBigMusicShowVideos;loc=default;mtype=video;pform=network;!category=jack;!category=playlist;!category=default;!category=NuttinButStringz;psp=0;asc={asc};ssc={ssc};psc={psc};pac={pac};sac={sac};rsc={rsc};rac={rac};gac={gac};!category=previousMetadatafranchise;demo={demo};tile={tile};dcmt=text/xml;u=hub-kids|franchise-jack|clip-NuttinButStringz|mode-playlist|playlist-JacksBigMusicShowVideos|loc-default|mtype-video|pform-network|!category-jack|!category-playlist|!category-default|!category-NuttinButStringz|psp-0|asc-{asc}|ssc-{ssc}|psc-{psc}|pac-{pac}|sac-{sac}|rsc-{rsc}|rac-{rac}|gac-{gac}|!category-previousMetadatafranchise|demo-{demo}|tile-{tile}|dcmt-text/xml;sz=640x480;ord={ord}"/>
+</media:content>
+<media:title>Nuttin But Stringz</media:title>
+<media:description><![CDATA[Rock out with Nuttin' But Stringz and their pals on Jack's Big Music Show!]]></media:description>
+<media:thumbnail width="145" height="111"
+url="http://www.nickjr.com/assets/videoplayer/kids/videos/jack/203-stringz/203-stringz-thumb.jpg"/>
+<media:player url="http://media.mtvnservices.com/mgid:cms:item:nickjr.com:97103"/>
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:category scheme="urn:mtvn:content_type" label="Playtime Clip">Playtime Clip</media:category>
+<media:category scheme="urn:mtvn:franchise" label="jack">jack</media:category>
+<media:category scheme="urn:mtvn:playlist_title" label="Jack's Big Music Show Videos">jack_s_big_music_show_videos</media:category>
+<media:category scheme="urn:mtvn:playlist_uri" label="mgid:cms:playlist:nickjr.com:101002">mgid:cms:playlist:nickjr.com:101002</media:category>
+<media:category scheme="urn:mtvn:reportable">true</media:category>
+<media:category scheme="urn:mtvn:affect_counters">true</media:category>
+<media:category scheme="urn:mtvn:display:source">Jack's Big Music Show</media:category>
+<media:category scheme="urn:mtvn:display:source_link">http://www.nickjr/com/shows/</media:category>
+<media:category scheme="urn:mtvn:display:date">Fri Feb 12 00:00:00 EST 2010</media:category>
+<media:category scheme="urn:mtvn:display:seo"><![CDATA[
+<a href='http://www.nickjr.com/'>NickJr.</a>,<a href='http://www.nickjr.com/shows/'>NickJr. Kids Shows</a>,<a href='http://www.nickjr.com/games-activities/'>Preschool Games and Activities</a>,<a href='http://www.nickjr.com/video/index.jhtml'>NickJr. Video</a>
+]]></media:category>
+</media:group>
+</item>
+<item>
+<title>Kelly Green</title>
+<link>http://www.nickjr.com/video/index.jhtml?videoid=112167.html</link>
+<guid isPermaLink="false">mgid:cms:item:nickjr.com:112167</guid>
+<description><![CDATA[Singing sensation Rebecca Jordan shares an Irish ditty with Jack and friends all about the prettiest color they’ve ever seen: kelly green.]]></description>
+<image width="" height=""/>
+<media:group>
+<media:content type="text/xml" isDefault="true" duration="195"
+url="https://thetoonsofjosh.github.io/nickjr2012-2015/dynamo/video/data/jack2.xml">
+<mediaad:content url="http://ad.doubleclick.net/pfadx/nickjr.playtime.nol/jack/p/cv/kids/pac{pac}/JacksBigMusicShowVideos;hub=kids;franchise=jack;clip=KellyGreen;mode=playlist;playlist=JacksBigMusicShowVideos;loc=default;mtype=video;pform=network;!category=jack;!category=playlist;!category=default;!category=KellyGreen;psp=0;asc={asc};ssc={ssc};psc={psc};pac={pac};sac={sac};rsc={rsc};rac={rac};gac={gac};!category=previousMetadatafranchise;demo={demo};tile={tile};dcmt=text/xml;u=hub-kids|franchise-jack|clip-KellyGreen|mode-playlist|playlist-JacksBigMusicShowVideos|loc-default|mtype-video|pform-network|!category-jack|!category-playlist|!category-default|!category-KellyGreen|psp-0|asc-{asc}|ssc-{ssc}|psc-{psc}|pac-{pac}|sac-{sac}|rsc-{rsc}|rac-{rac}|gac-{gac}|!category-previousMetadatafranchise|demo-{demo}|tile-{tile}|dcmt-text/xml;sz=640x480;ord={ord}"/>
+</media:content>
+<media:title>Kelly Green</media:title>
+<media:description><![CDATA[Singing sensation Rebecca Jordan shares an Irish ditty with Jack and friends all about the prettiest color they696</guid>
+<description><![CDATA[Jack and Mary find a baby bird--a baby BONGO bird. This little fellow can beat the bongos with his beak!]]></description>
+<image width="" height=""/>
+<media:group>
+<media:content type="text/xml" isDefault="true" duration="113"
+url="https://thetoonsofjosh.github.io/nickjr2012-2015/dynamo/video/data/jack3.xml">
+<mediaad:content url="http://ad.doubleclick.net/pfadx/nickjr.playtime.nol/jack/p/cv/kids/pac{pac}/JacksBigMusicShowVideos;hub=kids;franchise=jack;clip=TheBongoBird;mode=playlist;playlist=JacksBigMusicShowVideos;loc=default;mtype=video;pform=network;!category=jack;!category=playlist;!category=default;!category=TheBongoBird;psp=0;asc={asc};ssc={ssc};psc={psc};pac={pac};sac={sac};rsc={rsc};rac={rac};gac={gac};!category=previousMetadatafranchise;demo={demo};tile={tile};dcmt=text/xml;u=hub-kids|franchise-jack|clip-TheBongoBird|mode-playlist|playlist-JacksBigMusicShowVideos|loc-default|mtype-video|pform-network|!category-jack|!category-playlist|!category-default|!category-TheBongoBird|psp-0|asc-{asc}|ssc-{ssc}|psc-{psc}|pac-{pac}|sac-{sac}|rsc-{rsc}|rac-{rac}|gac-{gac}|!category-previousMetadatafranchise|demo-{demo}|tile-{tile}|dcmt-text/xml;sz=640x480;ord={ord}"/>
+</media:content>
+<media:title>The Bongo Bird</media:title>
+<media:description><![CDATA[Jack and Mary find a baby bird--a baby BONGO bird. This little fellow can beat the bongos with his beak!]]></media:description>
+<media:thumbnail width="145" height="111"
+url="http://www.nickjr.com/assets/videoplayer/kids/videos/jack/104-bird/104-bird-thumb.jpg"/>
+<media:player url="http://media.mtvnservices.com/mgid:cms:item:nickjr.com:101696"/>
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:category scheme="urn:mtvn:content_type" label="Playtime Clip">Playtime Clip</media:category>
+<media:category scheme="urn:mtvn:franchise" label="jack">jack</media:category>
+<media:category scheme="urn:mtvn:playlist_title" label="Jack's Big Music Show Videos">jack_s_big_music_show_videos</media:category>
+<media:category scheme="urn:mtvn:playlist_uri" label="mgid:cms:playlist:nickjr.com:101002">mgid:cms:playlist:nickjr.com:101002</media:category>
+<media:category scheme="urn:mtvn:reportable">true</media:category>
+<media:category scheme="urn:mtvn:affect_counters">true</media:category>
+<media:category scheme="urn:mtvn:display:source">Jack's Big Music Show</media:category>
+<media:category scheme="urn:mtvn:display:source_link">http://www.nickjr/com/shows/</media:category>
+<media:category scheme="urn:mtvn:display:date">Fri Feb 12 00:00:00 EST 2010</media:category>
+<media:category scheme="urn:mtvn:display:seo"><![CDATA[
+<a href='http://www.nickjr.com/'>NickJr.</a>,<a href='http://www.nickjr.com/shows/'>NickJr. Kids Shows</a>,<a href='http://www.nickjr.com/games-activities/'>Preschool Games and Activities</a>,<a href='http://www.nickjr.com/video/index.jhtml'>NickJr. Video</a>
+]]></media:category>
+</media:group>
+</item>
+</channel>
+</rss>
