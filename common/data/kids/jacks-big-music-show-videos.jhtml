@@ -1,0 +1,66 @@
+{
+"config":{
+"promoSounds":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/promos/global-promo-sounds.swf",
+"promos":[
+{
+"loader":{
+"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/loaders/asset-loader.swf",
+
+"position":{"x":"235","y":"150"}
+
+},
+"classId":"VideoListPromo",
+"localConnectionId":"VideoListPromo",
+"urlAlias":"jacks-big-music-show-kids-videos",
+"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/promos/listing/moreVideos.swf",
+"position":{"x":"0","y":"0"},
+"items":[
+
+{
+"urlAlias":"jack-nuttin-but-stringz",	
+"title":"Nuttin But Stringz", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/assets/videoplayer/kids/videos/jack/203-stringz/203-stringz-thumb.jpg",
+"typeString":"Playtime Clip",
+"link":"javascript:playVideo(0)", 
+"id":"97103"
+}
+
+,
+
+{
+"urlAlias":"jacks-kelly-green",	
+"title":"Kelly Green", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/assets/videoplayer/kids/videos/jack/213-sing/213-sing-thumb.jpg",
+"typeString":"Playtime Clip",
+"link":"javascript:playVideo(1)", 
+"id":"112167"
+}
+
+,
+
+{
+"urlAlias":"jack-no-good-reason-to-party",	
+"title":"No Good Reason Party", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/assets/videoplayer/kids/videos/jack/201-nogood/201-nogood-thumb.jpg",
+"typeString":"Playtime Clip",
+"link":"javascript:playVideo(2)", 
+"id":"87119"
+}
+
+,
+
+{
+"urlAlias":"jack-bongo-bird",	
+"title":"The Bongo Bird", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/assets/videoplayer/kids/videos/jack/104-bird/104-bird-thumb.jpg",
+"typeString":"Playtime Clip",
+"link":"javascript:playVideo(3)", 
+"id":"101696"
+}
+
+]
+}
+]
+}
+}
+
