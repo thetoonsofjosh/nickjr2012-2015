@@ -165,8 +165,8 @@ var controller = new MTVNPlayerController('playtime-player','onPlayerLoaded');
 
 }
 /*
-     FILE ARCHIVED ON 12:03:50 Oct 21, 2014 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 15:12:59 Sep 28, 2024.
+     FILE ARCHIVED ON 02:29:59 Apr 30, 2014 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 04:10:08 Mar 05, 2023.
      JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
 
      ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
@@ -174,13 +174,13 @@ var controller = new MTVNPlayerController('playtime-player','onPlayerLoaded');
 */
 /*
 playback timings (ms):
-  captures_list: 0.591
-  exclusion.robots: 0.02
-  exclusion.robots.policy: 0.009
-  esindex: 0.012
-  cdx.remote: 30.165
-  LoadShardBlock: 33.513 (3)
-  PetaboxLoader3.datanode: 85.528 (5)
-  load_resource: 261.202 (2)
-  PetaboxLoader3.resolve: 145.639 (2)
+  captures_list: 1071.932
+  exclusion.robots: 0.065
+  exclusion.robots.policy: 0.057
+  cdx.remote: 0.05
+  esindex: 0.006
+  LoadShardBlock: 358.942 (3)
+  PetaboxLoader3.datanode: 374.367 (4)
+  load_resource: 59.589
+  PetaboxLoader3.resolve: 27.323
 */
