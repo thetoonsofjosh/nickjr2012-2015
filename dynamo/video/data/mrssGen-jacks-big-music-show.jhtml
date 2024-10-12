@@ -1,4 +1,6 @@
-<rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:mediaad="http://blip.tv/mediaad"
+<rss xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:mediaad="http://blip.tv/mediaad"
+xmlns:my="http://xslt-developer.epam.com"
+xmlns:media="http://search.yahoo.com/mrss/"
 version="2.0">
 <channel>
 <title>Jack's Big Music Show Videos</title>
@@ -6,130 +8,77 @@ version="2.0">
 <description>nickjr.com video mrss</description>
 <image>
 <title>nickjr.com</title>
-<link>http://www.nickjr.com</link>
-<url>http://www.nickjr.com/common/assets/navbar/nickjrLogo/nickjr_logo1.swf</url>
+<link>https://thetoonsofjosh.github.io/nickjr2012-2015/</link>
+<url>https://thetoonsofjosh.github.io/nickjr2012-2015/common/assets/navbar/nickjrLogo/nickjr_logo1.swf</url>
 <height>200</height>
 <width>200</width>
 </image>
 <item>
 <title>Nuttin But Stringz</title>
-<link>http://www.nickjr.com/video/index.jhtml?videoid=87480</link>
-<guid isPermaLink="false">mgid:cms:item:nickjr.com:87480</guid>
+<link>http://www.nickjr.com/video/index.jhtml?videoid=97103.html</link>
+<guid isPermaLink="false">mgid:cms:item:nickjr.com:97103</guid>
 <description><![CDATA[Rock out with Nuttin' But Stringz and their pals on Jack's Big Music Show!]]></description>
 <image width="" height=""/>
 <media:group>
 <media:content type="text/xml" isDefault="true" duration="194"
 url="https://thetoonsofjosh.github.io/nickjr2012-2015/dynamo/video/data/jack1.xml">
+<mediaad:content url="http://ad.doubleclick.net/pfadx/nickjr.playtime.nol/jack/p/cv/kids/pac{pac}/JacksBigMusicShowVideos;hub=kids;franchise=jack;clip=NuttinButStringz;mode=playlist;playlist=JacksBigMusicShowVideos;loc=default;mtype=video;pform=network;!category=jack;!category=playlist;!category=default;!category=NuttinButStringz;psp=0;asc={asc};ssc={ssc};psc={psc};pac={pac};sac={sac};rsc={rsc};rac={rac};gac={gac};!category=previousMetadatafranchise;demo={demo};tile={tile};dcmt=text/xml;u=hub-kids|franchise-jack|clip-NuttinButStringz|mode-playlist|playlist-JacksBigMusicShowVideos|loc-default|mtype-video|pform-network|!category-jack|!category-playlist|!category-default|!category-NuttinButStringz|psp-0|asc-{asc}|ssc-{ssc}|psc-{psc}|pac-{pac}|sac-{sac}|rsc-{rsc}|rac-{rac}|gac-{gac}|!category-previousMetadatafranchise|demo-{demo}|tile-{tile}|dcmt-text/xml;sz=640x480;ord={ord}"/>
 </media:content>
-<media:title>Kelly Green</media:title>
-<media:description><![CDATA[Singing sensation Rebecca Jordan shares an Irish ditty with Jack and friends all about the prettiest color they’ve ever seen: kelly green.]]></media:description>
+<media:title>Nuttin But Stringz</media:title>
+<media:description><![CDATA[Rock out with Nuttin' But Stringz and their pals on Jack's Big Music Show!]]></media:description>
 <media:thumbnail width="145" height="111"
-url="http://nickjr.com/assets/videoplayer/kids/videos/toot/itsmine/itsmine-thumb.jpg"/>
-<media:player url="http://media.mtvnservices.com/mgid:cms:item:nickjr.com:116954"/>
+url="http://www.nickjr.com/assets/videoplayer/kids/videos/jack/203-stringz/203-stringz-thumb.jpg"/>
+<media:player url="http://media.mtvnservices.com/mgid:cms:item:nickjr.com:97103"/>
 <media:rating scheme="urn:simple">nonadult</media:rating>
 <media:category scheme="urn:mtvn:content_type" label="Playtime Clip">Playtime Clip</media:category>
-<media:category scheme="urn:mtvn:franchise" label="blue">jack</media:category>
-<media:category scheme="urn:mtvn:playlist_title" label="Jack's Big Music Show Videos">blue_s_clues_videos</media:category>
-<media:category scheme="urn:mtvn:playlist_uri" label="mgid:cms:item:nickjr.com:100982">mgid:cms:item:nickjr.com:100982</media:category>
+<media:category scheme="urn:mtvn:franchise" label="jack">jack</media:category>
+<media:category scheme="urn:mtvn:playlist_title" label="Jack's Big Music Show Videos">jack_s_big_music_show_videos</media:category>
+<media:category scheme="urn:mtvn:playlist_uri" label="mgid:cms:playlist:nickjr.com:100982">mgid:cms:playlist:nickjr.com:100982</media:category>
 <media:category scheme="urn:mtvn:reportable">true</media:category>
 <media:category scheme="urn:mtvn:affect_counters">true</media:category>
-<media:category scheme="urn:mtvn:display:source">Blue's Clues</media:category>
+<media:category scheme="urn:mtvn:display:source">Jack's Big Music Show</media:category>
 <media:category scheme="urn:mtvn:display:source_link">http://www.nickjr/com/shows/</media:category>
-<media:category scheme="urn:mtvn:display:date">Mon Oct 31 00:00:00 EDT 2011</media:category>
+<media:category scheme="urn:mtvn:display:date">Fri Feb 12 00:00:00 EST 2010</media:category>
 <media:category scheme="urn:mtvn:display:seo"><![CDATA[
 <a href='http://www.nickjr.com/'>NickJr.</a>,<a href='http://www.nickjr.com/shows/'>NickJr. Kids Shows</a>,<a href='http://www.nickjr.com/games-activities/'>Preschool Games and Activities</a>,<a href='http://www.nickjr.com/video/index.jhtml'>NickJr. Video</a>
 ]]></media:category>
 </media:group>
 </item>
 <item>
-<title>The Bongo Bird</title>
-<link>http://www.nickjr.com/video/index.jhtml?videoid=116954</link>
-<guid isPermaLink="false">mgid:cms:item:nickjr.com:116954</guid>
+<title>Kelly Green</title>
+<link>http://www.nickjr.com/video/index.jhtml?videoid=112167.html</link>
+<guid isPermaLink="false">mgid:cms:item:nickjr.com:112167</guid>
+<description><![CDATA[Singing sensation Rebecca Jordan shares an Irish ditty with Jack and friends all about the prettiest color they’ve ever seen: kelly green.]]></description>
+<image width="" height=""/>
+<media:group>
+<media:content type="text/xml" isDefault="true" duration="195"
+url="https://thetoonsofjosh.github.io/nickjr2012-2015/dynamo/video/data/jack2.xml">
+<mediaad:content url="http://ad.doubleclick.net/pfadx/nickjr.playtime.nol/jack/p/cv/kids/pac{pac}/JacksBigMusicShowVideos;hub=kids;franchise=jack;clip=KellyGreen;mode=playlist;playlist=JacksBigMusicShowVideos;loc=default;mtype=video;pform=network;!category=jack;!category=playlist;!category=default;!category=KellyGreen;psp=0;asc={asc};ssc={ssc};psc={psc};pac={pac};sac={sac};rsc={rsc};rac={rac};gac={gac};!category=previousMetadatafranchise;demo={demo};tile={tile};dcmt=text/xml;u=hub-kids|franchise-jack|clip-KellyGreen|mode-playlist|playlist-JacksBigMusicShowVideos|loc-default|mtype-video|pform-network|!category-jack|!category-playlist|!category-default|!category-KellyGreen|psp-0|asc-{asc}|ssc-{ssc}|psc-{psc}|pac-{pac}|sac-{sac}|rsc-{rsc}|rac-{rac}|gac-{gac}|!category-previousMetadatafranchise|demo-{demo}|tile-{tile}|dcmt-text/xml;sz=640x480;ord={ord}"/>
+</media:content>
+<media:title>Kelly Green</media:title>
+<media:description><![CDATA[Singing sensation Rebecca Jordan shares an Irish ditty with Jack and friends all about the prettiest color they696</guid>
 <description><![CDATA[Jack and Mary find a baby bird--a baby BONGO bird. This little fellow can beat the bongos with his beak!]]></description>
 <image width="" height=""/>
 <media:group>
 <media:content type="text/xml" isDefault="true" duration="113"
-url="https://thetoonsofjosh.github.io/nickjr2012-2015/dynamo/video/data/jack2.xml">
+url="https://thetoonsofjosh.github.io/nickjr2012-2015/dynamo/video/data/jack3.xml">
+<mediaad:content url="http://ad.doubleclick.net/pfadx/nickjr.playtime.nol/jack/p/cv/kids/pac{pac}/JacksBigMusicShowVideos;hub=kids;franchise=jack;clip=TheBongoBird;mode=playlist;playlist=JacksBigMusicShowVideos;loc=default;mtype=video;pform=network;!category=jack;!category=playlist;!category=default;!category=TheBongoBird;psp=0;asc={asc};ssc={ssc};psc={psc};pac={pac};sac={sac};rsc={rsc};rac={rac};gac={gac};!category=previousMetadatafranchise;demo={demo};tile={tile};dcmt=text/xml;u=hub-kids|franchise-jack|clip-TheBongoBird|mode-playlist|playlist-JacksBigMusicShowVideos|loc-default|mtype-video|pform-network|!category-jack|!category-playlist|!category-default|!category-TheBongoBird|psp-0|asc-{asc}|ssc-{ssc}|psc-{psc}|pac-{pac}|sac-{sac}|rsc-{rsc}|rac-{rac}|gac-{gac}|!category-previousMetadatafranchise|demo-{demo}|tile-{tile}|dcmt-text/xml;sz=640x480;ord={ord}"/>
 </media:content>
-<media:title>Too Excited to Eat</media:title>
-<media:description><![CDATA[Do you remember your dreams? Steve and Blue do!]]></media:description>
+<media:title>The Bongo Bird</media:title>
+<media:description><![CDATA[Jack and Mary find a baby bird--a baby BONGO bird. This little fellow can beat the bongos with his beak!]]></media:description>
 <media:thumbnail width="145" height="111"
-url="http://nickjr.com/assets/videoplayer/kids/videos/toot/swing/swing-thumb.jpg"/>
-<media:player url="http://media.mtvnservices.com/mgid:cms:item:nickjr.com:116954"/>
+url="http://www.nickjr.com/assets/videoplayer/kids/videos/jack/104-bird/104-bird-thumb.jpg"/>
+<media:player url="http://media.mtvnservices.com/mgid:cms:item:nickjr.com:101696"/>
 <media:rating scheme="urn:simple">nonadult</media:rating>
-<media:text role="captions" lang="en" label="English (CC)" type="text/xml"
-src="http://a2.akadl.mtvnservices.com/5291/mtvnorigin/gsp.alias/mediabus/nickjr.com/2012/10/25/03/05/360830/_77728_3103129_360830_20121025150544720.dfxp.xml"/>
 <media:category scheme="urn:mtvn:content_type" label="Playtime Clip">Playtime Clip</media:category>
-<media:category scheme="urn:mtvn:franchise" label="blue">blue</media:category>
-<media:category scheme="urn:mtvn:playlist_title" label="Blue's Clues Videos">blue_s_clues_videos</media:category>
-<media:category scheme="urn:mtvn:playlist_uri" label="mgid:cms:item:nickjr.com:100982">mgid:cms:item:nickjr.com:100982</media:category>
+<media:category scheme="urn:mtvn:franchise" label="jack">jack</media:category>
+<media:category scheme="urn:mtvn:playlist_title" label="Jack's Big Music Show Videos">jack_s_big_music_show_videos</media:category>
+<media:category scheme="urn:mtvn:playlist_uri" label="mgid:cms:playlist:nickjr.com:100982">mgid:cms:playlist:nickjr.com:100982</media:category>
 <media:category scheme="urn:mtvn:reportable">true</media:category>
 <media:category scheme="urn:mtvn:affect_counters">true</media:category>
-<media:category scheme="urn:mtvn:display:source">Blue's Clues</media:category>
+<media:category scheme="urn:mtvn:display:source">Jack's Big Music Show</media:category>
 <media:category scheme="urn:mtvn:display:source_link">http://www.nickjr/com/shows/</media:category>
-<media:category scheme="urn:mtvn:display:date">Thu Oct 25 00:00:00 EDT 2012</media:category>
-<media:category scheme="urn:mtvn:display:seo"><![CDATA[
-<a href='http://www.nickjr.com/'>NickJr.</a>,<a href='http://www.nickjr.com/shows/'>NickJr. Kids Shows</a>,<a href='http://www.nickjr.com/games-activities/'>Preschool Games and Activities</a>,<a href='http://www.nickjr.com/video/index.jhtml'>NickJr. Video</a>
-]]></media:category>
-</media:group>
-</item>
-<item>
-<title>Being Green</title>
-<link>http://www.nickjr.com/video/index.jhtml?videoid=114056</link>
-<guid isPermaLink="false">mgid:cms:item:nickjr.com:114056</guid>
-<description><![CDATA[Sing a little ditty that's out of this world and learn all about the planets with Blue!]]></description>
-<image width="" height=""/>
-<media:group>
-<media:content type="text/xml" isDefault="true" duration="218"
-url="/nickjr20122015/dynamo/video/data/tootpuddle3.xml">
-<mediaad:content url="http://ad.doubleclick.net/pfadx/nickjr.playtime.nol/blue/p/cv/kids/pac{pac}/BluesCluesVideos;hub=kids;franchise=blue;clip=ThePlanetsSong;mode=playlist;playlist=BluesCluesVideos;loc=default;mtype=video;pform=network;!category=blue;!category=playlist;!category=default;!category=ThePlanetsSong;psp=0;asc={asc};ssc={ssc};psc={psc};pac={pac};sac={sac};rsc={rsc};rac={rac};gac={gac};!category=previousMetadatafranchise;demo={demo};tile={tile};dcmt=text/xml;u=hub-kids|franchise-blue|clip-ThePlanetsSong|mode-playlist|playlist-BluesCluesVideos|loc-default|mtype-video|pform-network|!category-blue|!category-playlist|!category-default|!category-ThePlanetsSong|psp-0|asc-{asc}|ssc-{ssc}|psc-{psc}|pac-{pac}|sac-{sac}|rsc-{rsc}|rac-{rac}|gac-{gac}|!category-previousMetadatafranchise|demo-{demo}|tile-{tile}|dcmt-text/xml;sz=640x480;ord={ord}"/>
-</media:content>
-<media:title>Being Green</media:title>
-<media:description><![CDATA[Sing a little ditty that's out of this world and learn all about the planets with Blue!]]></media:description>
-<media:thumbnail width="145" height="111"
-url="http://www.nickjr.com/assets/videoplayer/kids/videos/toot/beinggreen/beinggreen-thumb.jpg"/>
-<media:player url="http://media.mtvnservices.com/mgid:cms:item:nickjr.com:114056"/>
-<media:rating scheme="urn:simple">nonadult</media:rating>
-<media:category scheme="urn:mtvn:content_type" label="clip">clip</media:category>
-<media:category scheme="urn:mtvn:franchise" label="blue">blue</media:category>
-<media:category scheme="urn:mtvn:playlist_title" label="Blue's Clues Videos">blue_s_clues_videos</media:category>
-<media:category scheme="urn:mtvn:playlist_uri" label="mgid:cms:item:nickjr.com:100982">mgid:cms:item:nickjr.com:100982</media:category>
-<media:category scheme="urn:mtvn:reportable">true</media:category>
-<media:category scheme="urn:mtvn:affect_counters">true</media:category>
-<media:category scheme="urn:mtvn:display:source">Blue's Clues</media:category>
-<media:category scheme="urn:mtvn:display:source_link">http://www.nickjr/com/shows/</media:category>
-<media:category scheme="urn:mtvn:display:date">Wed Nov 09 00:00:00 EST 2011</media:category>
-<media:category scheme="urn:mtvn:display:seo"><![CDATA[
-<a href='http://www.nickjr.com/'>NickJr.</a>,<a href='http://www.nickjr.com/shows/'>NickJr. Kids Shows</a>,<a href='http://www.nickjr.com/games-activities/'>Preschool Games and Activities</a>,<a href='http://www.nickjr.com/video/index.jhtml'>NickJr. Video</a>
-]]></media:category>
-</media:group>
-</item>
-<item>
-<title>The Grand Jete</title>
-<link>http://www.nickjr.com/video/index.jhtml?videoid=114056</link>
-<guid isPermaLink="false">mgid:cms:item:nickjr.com:114057</guid>
-<description><![CDATA[Sing a little ditty that's out of this world and learn all about the planets with Blue!]]></description>
-<image width="" height=""/>
-<media:group>
-<media:content type="text/xml" isDefault="true" duration="218"
-url="/nickjr20122015/dynamo/video/data/tootpuddle4.xml">
-<mediaad:content url="http://ad.doubleclick.net/pfadx/nickjr.playtime.nol/blue/p/cv/kids/pac{pac}/BluesCluesVideos;hub=kids;franchise=blue;clip=ThePlanetsSong;mode=playlist;playlist=BluesCluesVideos;loc=default;mtype=video;pform=network;!category=blue;!category=playlist;!category=default;!category=ThePlanetsSong;psp=0;asc={asc};ssc={ssc};psc={psc};pac={pac};sac={sac};rsc={rsc};rac={rac};gac={gac};!category=previousMetadatafranchise;demo={demo};tile={tile};dcmt=text/xml;u=hub-kids|franchise-blue|clip-ThePlanetsSong|mode-playlist|playlist-BluesCluesVideos|loc-default|mtype-video|pform-network|!category-blue|!category-playlist|!category-default|!category-ThePlanetsSong|psp-0|asc-{asc}|ssc-{ssc}|psc-{psc}|pac-{pac}|sac-{sac}|rsc-{rsc}|rac-{rac}|gac-{gac}|!category-previousMetadatafranchise|demo-{demo}|tile-{tile}|dcmt-text/xml;sz=640x480;ord={ord}"/>
-</media:content>
-<media:title>The Grand Jete</media:title>
-<media:description><![CDATA[Sing a little ditty that's out of this world and learn all about the planets with Blue!]]></media:description>
-<media:thumbnail width="145" height="111"
-url="http://www.nickjr.com/assets/videoplayer/kids/videos/toot/grandjete/grandjete-thumb.jpg"/>
-<media:player url="http://media.mtvnservices.com/mgid:cms:item:nickjr.com:114056"/>
-<media:rating scheme="urn:simple">nonadult</media:rating>
-<media:category scheme="urn:mtvn:content_type" label="clip">clip</media:category>
-<media:category scheme="urn:mtvn:franchise" label="blue">blue</media:category>
-<media:category scheme="urn:mtvn:playlist_title" label="Blue's Clues Videos">blue_s_clues_videos</media:category>
-<media:category scheme="urn:mtvn:playlist_uri" label="mgid:cms:item:nickjr.com:100982">mgid:cms:item:nickjr.com:100982</media:category>
-<media:category scheme="urn:mtvn:reportable">true</media:category>
-<media:category scheme="urn:mtvn:affect_counters">true</media:category>
-<media:category scheme="urn:mtvn:display:source">Blue's Clues</media:category>
-<media:category scheme="urn:mtvn:display:source_link">http://www.nickjr/com/shows/</media:category>
-<media:category scheme="urn:mtvn:display:date">Wed Nov 09 00:00:00 EST 2011</media:category>
+<media:category scheme="urn:mtvn:display:date">Fri Feb 12 00:00:00 EST 2010</media:category>
 <media:category scheme="urn:mtvn:display:seo"><![CDATA[
 <a href='http://www.nickjr.com/'>NickJr.</a>,<a href='http://www.nickjr.com/shows/'>NickJr. Kids Shows</a>,<a href='http://www.nickjr.com/games-activities/'>Preschool Games and Activities</a>,<a href='http://www.nickjr.com/video/index.jhtml'>NickJr. Video</a>
 ]]></media:category>
@@ -137,8 +86,3 @@ url="http://www.nickjr.com/assets/videoplayer/kids/videos/toot/grandjete/grandje
 </item>
 </channel>
 </rss>
-
-<!-- Date: Thu May 30 19:10:43 EDT 2013 -->
-
-<!-- http://dextr.mtvnservices.com/lite/dc/67/9e/34/254f/5fc1/1b5f01db/00723841/lite.xml -->
-
