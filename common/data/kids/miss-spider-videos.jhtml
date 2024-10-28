@@ -1,4 +1,4 @@
-{
+
 "config":{
 "promoSounds":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/promos/global-promo-sounds.swf",
 "promos":[
@@ -11,7 +11,7 @@
 },
 "classId":"VideoListPromo",
 "localConnectionId":"VideoListPromo",
-"urlAlias":"miss-spider-kids-videos",
+"urlAlias":"fresh-beat-band-kids-videos",
 "path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/promos/listing/moreVideos.swf",
 "position":{"x":"0","y":"0"},
 "items":[
@@ -19,7 +19,7 @@
 {
 "urlAlias":"fresh-beat-concert-here-we-go",	
 "title":"A Little Bug Music", 
-"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/assets/videoplayer/kids/videos/miss/115-bug/115-bug-thumb.jpg",
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/assets/videoplayer/kids/videos/miss/115-bug/115-bug-thumb.jpg?width=206&height=128",
 "typeString":"Playtime Clip",
 "link":"javascript:playVideo(0)", 
 "id":"118200"
@@ -32,7 +32,271 @@
 "title":"Stalking the Beanstalk", 
 "thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/assets/videoplayer/kids/videos/miss/105-bean/105-bean-thumb.jpg?width=206&height=128",
 "typeString":"Playtime Clip",
-"link":"javascript:playVideo(1)",  
+"link":"javascript:playVideo(1)", 
+"id":"118200"
+}
+
+,
+
+{
+"urlAlias":"fresh-beat-band-green",	
+"title":"Keeping It Green", 
+"thumbnail":"/nickjr20122015/dynaboss/assets/videoplayer/kids/videos/fresh/319-keeping-it-green/319-fbb-green-thumb.jpg?width=206&height=128",
+"typeString":"Playtime Clip",
+"link":"javascript:playVideo(2)", 
+"id":"115389"
+}
+
+,
+
+{
+"urlAlias":"fresh-beat-band-concert-bananas",	
+"title":"Go Bananas", 
+"thumbnail":"/nickjr20122015/dynaboss/assets/videoplayer/kids/videos/fresh/concert-special-go-bananas/go-bananas-thumb.jpg?width=206&height=128",
+"typeString":"Playtime Clip",
+"link":"javascript:playVideo(3)", 
+"id":"118199"
+}
+
+,
+
+{
+"urlAlias":"fresh-beat-band-live-in-concert",	
+"title":"Fresh Beat Concert", 
+"thumbnail":"/nickjr20122015/dynaboss/assets/videoplayer/kids/videos/fresh/fbb-live-concert/fbb-concert-thumb.jpg?width=206&height=128",
+"typeString":"Playtime Clip",
+"link":"javascript:playVideo(4)", 
+"id":"118172"
+}
+
+,
+
+{
+"urlAlias":"fresh-beat-chimps-in-charge",	
+"title":"Chimps in Charge", 
+"thumbnail":"/nickjr20122015/dynaboss/assets/videoplayer/kids/videos/fresh/308-chimps/308-chimps-thumb.jpg?width=206&height=128",
+"typeString":"Playtime Clip",
+"link":"javascript:playVideo(5)", 
+"id":"113867"
+}
+
+,
+
+{
+"urlAlias":"fresh-beat-laughing-dance-master",	
+"title":"Laughing Dance Master", 
+"thumbnail":"/nickjr20122015/dynaboss/assets/videoplayer/kids/videos/fresh/315-laughing/315-laughing-thumb.jpg?width=206&height=128",
+"typeString":"Playtime Clip",
+"link":"javascript:playVideo(6)", 
+"id":"118066"
+}
+
+,
+
+{
+"urlAlias":"fresh-beat-band-hoop-dreams",	
+"title":"Hoop Dreams", 
+"thumbnail":"/nickjr20122015/dynaboss/assets/videoplayer/kids/videos/fresh/310-hoop/310-hoop-thumb.jpg?width=206&height=128",
+"typeString":"Playtime Clip",
+"link":"javascript:playVideo(7)", 
+"id":"116327"
+}
+
+,
+
+{
+"urlAlias":"fresh-beat-fresh-bots",	
+"title":"The Fresh Bots", 
+"thumbnail":"/nickjr20122015/dynaboss/assets/videoplayer/kids/videos/fresh/307-bots/307-bots-thumb.jpg?width=206&height=128",
+"typeString":"Playtime Clip",
+"link":"javascript:playVideo(8)", 
+"id":"113528"
+}
+
+,
+
+{
+"urlAlias":"yo-fresh-beats-go-gabba-gabba",	
+"title":"Fresh Beats &amp; Gabba", 
+"thumbnail":"/nickjr20122015/dynaboss/assets/videoplayer/kids/videos/fresh/yo-gabba-go-fresh-beats/yo-fresh-beats-go-gabba-thumb.jpg?width=206&height=128",
+"typeString":"Playtime Clip",
+"link":"javascript:playVideo(9)", 
+"id":"115717"
+}
+
+,
+
+{
+"urlAlias":"fresh-beat-band-dance-a-thon",	
+"title":"Dance-a-thon", 
+"thumbnail":"/nickjr20122015/dynaboss/assets/videoplayer/kids/videos/fresh/320-dance/320-dance-thumb.jpg?width=206&height=128",
+"typeString":"Playtime Clip",
+"link":"javascript:playVideo(10)", 
+"id":"116816"
+}
+
+,
+
+{
+"urlAlias":"fresh-beat-veloci-rap-star",	
+"title":"Veloci-Rap Star", 
+"thumbnail":"/nickjr20122015/dynaboss/assets/videoplayer/kids/videos/fresh/314-rapstar/314-rapstar-thumb.jpg?width=206&height=128",
+"typeString":"Playtime Clip",
+"link":"javascript:playVideo(11)", 
+"id":"113556"
+}
+
+,
+
+{
+"urlAlias":"fresh-beat-rock-star",	
+"title":"Rock Star", 
+"thumbnail":"/nickjr20122015/dynaboss/assets/videoplayer/kids/videos/fresh/306-rockstar/306-rockstar-2-thumb.jpg?width=206&height=128",
+"typeString":"Playtime Clip",
+"link":"javascript:playVideo(12)", 
+"id":"113479"
+}
+
+,
+
+{
+"urlAlias":"fresh-beat-band-dance-a-thon",	
+"title":"Dance-a-thon", 
+"thumbnail":"/nickjr20122015/dynaboss/assets/videoplayer/kids/videos/fresh/320-dance/320-dance-thumb.jpg?width=206&height=128",
+"typeString":"Playtime Clip",
+"link":"javascript:playVideo(13)", 
+"id":"116816"
+}
+
+,
+
+{
+"urlAlias":"fresh-beat-wizard-of-song",	
+"title":"The Wizard of Song", 
+"thumbnail":"/nickjr20122015/dynaboss/assets/videoplayer/kids/videos/fresh/316-wizard/wizard-of-song.jpg?width=206&height=128",
+"typeString":"Playtime Clip",
+"link":"javascript:playVideo(14)", 
+"id":"114530"
+}
+
+,
+
+{
+"urlAlias":"fresh-beat-royal-wedding",	
+"title":"Royal Wedding", 
+"thumbnail":"/nickjr20122015/dynaboss/assets/videoplayer/kids/videos/fresh/318-wedding/royal-wedding.jpg?width=206&height=128",
+"typeString":"NickJr Clip",
+"link":"javascript:playVideo(15)", 
+"id":"114669"
+}
+
+,
+
+{
+"urlAlias":"fresh-beat-bollywood",	
+"title":"Bollywood Beats", 
+"thumbnail":"/nickjr20122015/dynaboss/assets/videoplayer/kids/videos/fresh/311-bollywood/311-bollywood-thumb.jpg?width=206&height=128",
+"typeString":"Playtime Clip",
+"link":"javascript:playVideo(16)", 
+"id":"114086"
+}
+
+,
+
+{
+"urlAlias":"fresh-beat-dance-floor-superhero",	
+"title":"Dance Floor", 
+"thumbnail":"/nickjr20122015/dynaboss/assets/videoplayer/kids/videos/fresh/303-dance/303-dance-thumb.jpg?width=206&height=128",
+"typeString":"Playtime Clip",
+"link":"javascript:playVideo(17)", 
+"id":"113527"
+}
+
+,
+
+{
+"urlAlias":"fresh-beat-band-we-got-the-beat",	
+"title":"We Got the Beat", 
+"thumbnail":"/nickjr20122015/dynaboss/assets/videoplayer/kids/videos/fresh/we-got-the-beat-music-video/we-got-the-beat-thumb.jpg?width=206&height=128",
+"typeString":"NickJr Clip",
+"link":"javascript:playVideo(18)", 
+"id":"116673"
+}
+
+,
+
+{
+"urlAlias":"fresh-beat-giant-pizza",	
+"title":"Giant Pizza", 
+"thumbnail":"/nickjr20122015/dynaboss/assets/videoplayer/kids/videos/fresh/302-pizza/301-graduation-thumb.jpg?width=206&height=128",
+"typeString":"Playtime Clip",
+"link":"javascript:playVideo(19)", 
+"id":"112812"
+}
+
+,
+
+{
+"urlAlias":"fresh-beat-rock-star-video",	
+"title":"Just Like a Rockstar", 
+"thumbnail":"/nickjr20122015/dynaboss/assets/videoplayer/kids/videos/fresh/nhd14481-rockstar/nhd14481-rockstar-thumb.jpg?width=206&height=128",
+"typeString":"Playtime Clip",
+"link":"javascript:playVideo(20)", 
+"id":"114176"
+}
+
+,
+
+{
+"urlAlias":"fresh-beat-band-cool-pool-party",	
+"title":"Cool Pool Party", 
+"thumbnail":"/nickjr20122015/dynaboss/assets/videoplayer/kids/videos/fresh/304-pool/304-pool-thumb.jpg?width=206&height=128",
+"typeString":"Playtime Clip",
+"link":"javascript:playVideo(21)", 
+"id":"114147"
+}
+
+,
+
+{
+"urlAlias":"fresh-beat-graduation-day",	
+"title":"Graduation Day", 
+"thumbnail":"/nickjr20122015/dynaboss/assets/videoplayer/kids/videos/fresh/301-graduation/301-graduation-thumb.jpg?width=206&height=128",
+"typeString":"Playtime Clip",
+"link":"javascript:playVideo(22)", 
+"id":"112811"
+}
+
+,
+
+{
+"urlAlias":"reach-for-the-sky",	
+"title":"Reach for the Sky", 
+"thumbnail":"/nickjr20122015/dynaboss/assets/videoplayer/kids/videos/fresh/reach-for-the-sky/sky-thumb.jpg?width=206&height=128",
+"typeString":"clip",
+"link":"javascript:playVideo(23)", 
+"id":"115398"
+}
+
+,
+
+{
+"urlAlias":"fresh-beat-friend-like-you-music",	
+"title":"Friend Like You!", 
+"thumbnail":"/nickjr20122015/dynaboss/assets/videoplayer/kids/videos/promo/nhd13831-friend/nhd13831-friend-thumb.jpg?width=206&height=128",
+"typeString":"clip",
+"link":"javascript:playVideo(24)", 
+"id":"113129"
+}
+
+,
+
+{
+"urlAlias":"fresh-beat-rock-star",	
+"title":"Rock Star", 
+"thumbnail":"/nickjr20122015/dynaboss/assets/videoplayer/kids/videos/fresh/306-rockstar/306-rockstar-2-thumb.jpg?width=206&height=128",
+"typeString":"Playtime Clip",
+"link":"javascript:playVideo(25)", 
 "id":"113479"
 }
 
