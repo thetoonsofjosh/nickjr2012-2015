@@ -1,0 +1,209 @@
+<rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:mediaad="http://blip.tv/mediaad"
+version="2.0">
+<channel>
+<title>Miss Spider's Sunny Patch Friends Videos</title>
+<link>http://www.nickjr.com</link>
+<description>nickjr.com video mrss</description>
+<image>
+<title>nickjr.com</title>
+<link>http://www.nickjr.com</link>
+<url>http://www.nickjr.com/common/assets/navbar/nickjrLogo/nickjr_logo1.swf</url>
+<height>200</height>
+<width>200</width>
+</image>
+<item>
+<title>A Little Bug Music</title>
+<link>http://www.nickjr.com/video/index.jhtml?videoid=87480</link>
+<guid isPermaLink="false">mgid:cms:item:nickjr.com:87480</guid>
+<description><![CDATA[Steve, Blue and all their friends are very thankful this Thanksgiving.]]></description>
+<image width="" height=""/>
+<media:group>
+<media:content type="text/xml" isDefault="true" duration="39"
+url="https://thetoonsofjosh.github.io/nickjr2012-2015/dynamo/video/data/missspider1.xml">
+</media:content>
+<media:title>A Little Bug Music</media:title>
+<media:description><![CDATA[Steve, Blue and all their friends are very thankful this Thanksgiving.]]></media:description>
+<media:thumbnail width="145" height="111"
+url="http://nickjr.com/assets/videoplayer/kids/videos/miss/115-bug/115-bug-thumb.jpg"/>
+<media:player url="http://media.mtvnservices.com/mgid:cms:item:nickjr.com:116954"/>
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:category scheme="urn:mtvn:content_type" label="Playtime Clip">Playtime Clip</media:category>
+<media:category scheme="urn:mtvn:franchise" label="blue">blue</media:category>
+<media:category scheme="urn:mtvn:playlist_title" label="Blue's Clues Videos">blue_s_clues_videos</media:category>
+<media:category scheme="urn:mtvn:playlist_uri" label="mgid:cms:item:nickjr.com:100982">mgid:cms:item:nickjr.com:100982</media:category>
+<media:category scheme="urn:mtvn:reportable">true</media:category>
+<media:category scheme="urn:mtvn:affect_counters">true</media:category>
+<media:category scheme="urn:mtvn:display:source">Blue's Clues</media:category>
+<media:category scheme="urn:mtvn:display:source_link">http://www.nickjr/com/shows/</media:category>
+<media:category scheme="urn:mtvn:display:date">Mon Oct 31 00:00:00 EDT 2011</media:category>
+<media:category scheme="urn:mtvn:display:seo"><![CDATA[
+<a href='http://www.nickjr.com/'>NickJr.</a>,<a href='http://www.nickjr.com/shows/'>NickJr. Kids Shows</a>,<a href='http://www.nickjr.com/games-activities/'>Preschool Games and Activities</a>,<a href='http://www.nickjr.com/video/index.jhtml'>NickJr. Video</a>
+]]></media:category>
+</media:group>
+</item>
+<item>
+<title>Stalking the Beanstalk</title>
+<link>http://www.nickjr.com/video/index.jhtml?videoid=116954</link>
+<guid isPermaLink="false">mgid:cms:item:nickjr.com:116954</guid>
+<description><![CDATA[Do you remember your dreams? Steve and Blue do!]]></description>
+<image width="" height=""/>
+<media:group>
+<media:content type="text/xml" isDefault="true" duration="181"
+url="https://thetoonsofjosh.github.io/nickjr2012-2015/dynamo/video/data/missspider2.xml">
+</media:content>
+<media:title>What Was Blue's Dream About?</media:title>
+<media:description><![CDATA[Do you remember your dreams? Steve and Blue do!]]></media:description>
+<media:thumbnail width="145" height="111"
+url="http://www.nickjr.com/assets/videoplayer/kids/videos/miss/105-bean/105-bean-thumb.jpg"/>
+<media:player url="http://media.mtvnservices.com/mgid:cms:item:nickjr.com:116954"/>
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:text role="captions" lang="en" label="English (CC)" type="text/xml"
+src="http://a2.akadl.mtvnservices.com/5291/mtvnorigin/gsp.alias/mediabus/nickjr.com/2012/10/25/03/05/360830/_77728_3103129_360830_20121025150544720.dfxp.xml"/>
+<media:category scheme="urn:mtvn:content_type" label="Playtime Clip">Playtime Clip</media:category>
+<media:category scheme="urn:mtvn:franchise" label="blue">blue</media:category>
+<media:category scheme="urn:mtvn:playlist_title" label="Blue's Clues Videos">blue_s_clues_videos</media:category>
+<media:category scheme="urn:mtvn:playlist_uri" label="mgid:cms:item:nickjr.com:100982">mgid:cms:item:nickjr.com:100982</media:category>
+<media:category scheme="urn:mtvn:reportable">true</media:category>
+<media:category scheme="urn:mtvn:affect_counters">true</media:category>
+<media:category scheme="urn:mtvn:display:source">Blue's Clues</media:category>
+<media:category scheme="urn:mtvn:display:source_link">http://www.nickjr/com/shows/</media:category>
+<media:category scheme="urn:mtvn:display:date">Thu Oct 25 00:00:00 EDT 2012</media:category>
+<media:category scheme="urn:mtvn:display:seo"><![CDATA[
+<a href='http://www.nickjr.com/'>NickJr.</a>,<a href='http://www.nickjr.com/shows/'>NickJr. Kids Shows</a>,<a href='http://www.nickjr.com/games-activities/'>Preschool Games and Activities</a>,<a href='http://www.nickjr.com/video/index.jhtml'>NickJr. Video</a>
+]]></media:category>
+</media:group>
+</item>
+<item>
+<title>A Little Slow</title>
+<link>http://www.nickjr.com/video/index.jhtml?videoid=114056</link>
+<guid isPermaLink="false">mgid:cms:item:nickjr.com:114056</guid>
+<description><![CDATA[Sing a little ditty that's out of this world and learn all about the planets with Blue!]]></description>
+<image width="" height=""/>
+<media:group>
+<media:content type="text/xml" isDefault="true" duration="218"
+url="https://thetoonsofjosh.github.io/nickjr2012-2015/dynamo/video/data/missspider3.xml">
+<mediaad:content url="http://ad.doubleclick.net/pfadx/nickjr.playtime.nol/blue/p/cv/kids/pac{pac}/BluesCluesVideos;hub=kids;franchise=blue;clip=ThePlanetsSong;mode=playlist;playlist=BluesCluesVideos;loc=default;mtype=video;pform=network;!category=blue;!category=playlist;!category=default;!category=ThePlanetsSong;psp=0;asc={asc};ssc={ssc};psc={psc};pac={pac};sac={sac};rsc={rsc};rac={rac};gac={gac};!category=previousMetadatafranchise;demo={demo};tile={tile};dcmt=text/xml;u=hub-kids|franchise-blue|clip-ThePlanetsSong|mode-playlist|playlist-BluesCluesVideos|loc-default|mtype-video|pform-network|!category-blue|!category-playlist|!category-default|!category-ThePlanetsSong|psp-0|asc-{asc}|ssc-{ssc}|psc-{psc}|pac-{pac}|sac-{sac}|rsc-{rsc}|rac-{rac}|gac-{gac}|!category-previousMetadatafranchise|demo-{demo}|tile-{tile}|dcmt-text/xml;sz=640x480;ord={ord}"/>
+</media:content>
+<media:title>A Little Slow</media:title>
+<media:description><![CDATA[Sing a little ditty that's out of this world and learn all about the planets with Blue!]]></media:description>
+<media:thumbnail width="145" height="111"
+url="http://www.nickjr.com/assets/videoplayer/kids/videos/miss/105-slow/105-slow-thumb.jpg"/>
+<media:player url="http://media.mtvnservices.com/mgid:cms:item:nickjr.com:114056"/>
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:category scheme="urn:mtvn:content_type" label="clip">clip</media:category>
+<media:category scheme="urn:mtvn:franchise" label="blue">blue</media:category>
+<media:category scheme="urn:mtvn:playlist_title" label="Blue's Clues Videos">blue_s_clues_videos</media:category>
+<media:category scheme="urn:mtvn:playlist_uri" label="mgid:cms:item:nickjr.com:100982">mgid:cms:item:nickjr.com:100982</media:category>
+<media:category scheme="urn:mtvn:reportable">true</media:category>
+<media:category scheme="urn:mtvn:affect_counters">true</media:category>
+<media:category scheme="urn:mtvn:display:source">Blue's Clues</media:category>
+<media:category scheme="urn:mtvn:display:source_link">http://www.nickjr/com/shows/</media:category>
+<media:category scheme="urn:mtvn:display:date">Wed Nov 09 00:00:00 EST 2011</media:category>
+<media:category scheme="urn:mtvn:display:seo"><![CDATA[
+<a href='http://www.nickjr.com/'>NickJr.</a>,<a href='http://www.nickjr.com/shows/'>NickJr. Kids Shows</a>,<a href='http://www.nickjr.com/games-activities/'>Preschool Games and Activities</a>,<a href='http://www.nickjr.com/video/index.jhtml'>NickJr. Video</a>
+]]></media:category>
+</media:group>
+</item>
+<item>
+<title>Star Fell Song</title>
+<link>http://www.nickjr.com/video/index.jhtml?videoid=98268</link>
+<guid isPermaLink="false">mgid:cms:item:nickjr.com:98268</guid>
+<description><![CDATA[Come join Steve and learn how to swim with your friends from Blue's Clues!]]></description>
+<image width="" height=""/>
+<media:group>
+<media:content type="text/xml" isDefault="true" duration="61"
+url="https://thetoonsofjosh.github.io/nickjr2012-2015/dynamo/video/data/missspider4.xml">
+<mediaad:content url="http://ad.doubleclick.net/pfadx/nickjr.playtime.nol/blue/p/cv/kids/pac{pac}/BluesCluesVideos;hub=kids;franchise=blue;clip=Swimming;mode=playlist;playlist=BluesCluesVideos;loc=default;mtype=video;pform=network;!category=blue;!category=playlist;!category=default;!category=Swimming;psp=0;asc={asc};ssc={ssc};psc={psc};pac={pac};sac={sac};rsc={rsc};rac={rac};gac={gac};!category=previousMetadatafranchise;demo={demo};tile={tile};dcmt=text/xml;u=hub-kids|franchise-blue|clip-Swimming|mode-playlist|playlist-BluesCluesVideos|loc-default|mtype-video|pform-network|!category-blue|!category-playlist|!category-default|!category-Swimming|psp-0|asc-{asc}|ssc-{ssc}|psc-{psc}|pac-{pac}|sac-{sac}|rsc-{rsc}|rac-{rac}|gac-{gac}|!category-previousMetadatafranchise|demo-{demo}|tile-{tile}|dcmt-text/xml;sz=640x480;ord={ord}"/>
+</media:content>
+<media:title>Star Fell Song</media:title>
+<media:description><![CDATA[Come join Steve and learn how to swim with your friends from Blue's Clues!]]></media:description>
+<media:thumbnail width="145" height="111"
+url="http://www.nickjr.com/assets/videoplayer/kids/videos/miss/6-star/6-star-thumb.jpg"/>
+<media:player url="http://media.mtvnservices.com/mgid:cms:item:nickjr.com:98268"/>
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:category scheme="urn:mtvn:content_type" label="Playtime Clip">Playtime Clip</media:category>
+<media:category scheme="urn:mtvn:franchise" label="blue">blue</media:category>
+<media:category scheme="urn:mtvn:playlist_title" label="Blue's Clues Videos">blue_s_clues_videos</media:category>
+<media:category scheme="urn:mtvn:playlist_uri" label="mgid:cms:item:nickjr.com:100982">mgid:cms:item:nickjr.com:100982</media:category>
+<media:category scheme="urn:mtvn:reportable">true</media:category>
+<media:category scheme="urn:mtvn:affect_counters">true</media:category>
+<media:category scheme="urn:mtvn:display:source">Blue's Clues</media:category>
+<media:category scheme="urn:mtvn:display:source_link">http://www.nickjr/com/shows/</media:category>
+<media:category scheme="urn:mtvn:display:date">Wed May 05 00:00:00 EDT 2010</media:category>
+<media:category scheme="urn:mtvn:display:seo"><![CDATA[
+<a href='http://www.nickjr.com/'>NickJr.</a>,<a href='http://www.nickjr.com/shows/'>NickJr. Kids Shows</a>,<a href='http://www.nickjr.com/games-activities/'>Preschool Games and Activities</a>,<a href='http://www.nickjr.com/video/index.jhtml'>NickJr. Video</a>
+]]></media:category>
+</media:group>
+</item>
+<item>
+<title>Moon Music</title>
+<link>http://www.nickjr.com/video/index.jhtml?videoid=116062</link>
+<guid isPermaLink="false">mgid:cms:item:nickjr.com:116062</guid>
+<description><![CDATA[Tweeeet! Get active with Blue and his buddies on the soccer field.]]></description>
+<image width="" height=""/>
+<media:group>
+<media:content type="text/xml" isDefault="true" duration="229"
+url="https://thetoonsofjosh.github.io/nickjr2012-2015/dynamo/video/data/missspider6.xml">
+<mediaad:content url="http://ad.doubleclick.net/pfadx/nickjr.playtime.nol/blue/p/cv/kids/pac{pac}/BluesCluesVideos;hub=kids;franchise=blue;clip=SoccerPractice;mode=playlist;playlist=BluesCluesVideos;loc=default;mtype=video;pform=network;!category=blue;!category=playlist;!category=default;!category=SoccerPractice;psp=0;asc={asc};ssc={ssc};psc={psc};pac={pac};sac={sac};rsc={rsc};rac={rac};gac={gac};!category=previousMetadatafranchise;demo={demo};tile={tile};dcmt=text/xml;u=hub-kids|franchise-blue|clip-SoccerPractice|mode-playlist|playlist-BluesCluesVideos|loc-default|mtype-video|pform-network|!category-blue|!category-playlist|!category-default|!category-SoccerPractice|psp-0|asc-{asc}|ssc-{ssc}|psc-{psc}|pac-{pac}|sac-{sac}|rsc-{rsc}|rac-{rac}|gac-{gac}|!category-previousMetadatafranchise|demo-{demo}|tile-{tile}|dcmt-text/xml;sz=640x480;ord={ord}"/>
+</media:content>
+<media:title>Moon Music</media:title>
+<media:description><![CDATA[Tweeeet! Get active with Blue and his buddies on the soccer field.]]></media:description>
+<media:thumbnail width="145" height="111"
+url="http://www.nickjr.com/assets/videoplayer/kids/videos/miss/210-sun/210-sun-thumb.jpg"/>
+<media:player url="http://media.mtvnservices.com/mgid:cms:item:nickjr.com:116062"/>
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:text role="captions" lang="en" label="English (CC)" type="text/xml"
+src="http://a10.akadl.mtvnservices.com/5291/mtvnorigin/gsp.alias/mediabus/nickjr.com/2012/07/12/10/41/297837/_73998_2721498_297837_20120712104115825.dfxp.xml"/>
+<media:category scheme="urn:mtvn:content_type" label="Playtime Clip">Playtime Clip</media:category>
+<media:category scheme="urn:mtvn:franchise" label="blue">blue</media:category>
+<media:category scheme="urn:mtvn:playlist_title" label="Blue's Clues Videos">blue_s_clues_videos</media:category>
+<media:category scheme="urn:mtvn:playlist_uri" label="mgid:cms:item:nickjr.com:100982">mgid:cms:item:nickjr.com:100982</media:category>
+<media:category scheme="urn:mtvn:reportable">true</media:category>
+<media:category scheme="urn:mtvn:affect_counters">true</media:category>
+<media:category scheme="urn:mtvn:display:source">Blue's Clues</media:category>
+<media:category scheme="urn:mtvn:display:source_link">http://www.nickjr/com/shows/</media:category>
+<media:category scheme="urn:mtvn:display:date">Thu Jul 12 00:00:00 EDT 2012</media:category>
+<media:category scheme="urn:mtvn:display:seo"><![CDATA[
+<a href='http://www.nickjr.com/'>NickJr.</a>,<a href='http://www.nickjr.com/shows/'>NickJr. Kids Shows</a>,<a href='http://www.nickjr.com/games-activities/'>Preschool Games and Activities</a>,<a href='http://www.nickjr.com/video/index.jhtml'>NickJr. Video</a>
+]]></media:category>
+</media:group>
+</item>
+<item>
+<title>Night and Day</title>
+<link>http://www.nickjr.com/video/index.jhtml?videoid=116052</link>
+<guid isPermaLink="false">mgid:cms:item:nickjr.com:116052</guid>
+<description><![CDATA[Blue and Joe are making a list of their friends' favorite snacks. Which snacks will each person choose?]]></description>
+<image width="" height=""/>
+<media:group>
+<media:content type="text/xml" isDefault="true" duration="200"
+url="https://thetoonsofjosh.github.io/nickjr2012-2015/dynamo/video/data/missspider5.xml">
+<mediaad:content url="http://ad.doubleclick.net/pfadx/nickjr.playtime.nol/blue/p/cv/kids/pac{pac}/BluesCluesVideos;hub=kids;franchise=blue;clip=TheSnackChart;mode=playlist;playlist=BluesCluesVideos;loc=default;mtype=video;pform=network;!category=blue;!category=playlist;!category=default;!category=TheSnackChart;psp=0;asc={asc};ssc={ssc};psc={psc};pac={pac};sac={sac};rsc={rsc};rac={rac};gac={gac};!category=previousMetadatafranchise;demo={demo};tile={tile};dcmt=text/xml;u=hub-kids|franchise-blue|clip-TheSnackChart|mode-playlist|playlist-BluesCluesVideos|loc-default|mtype-video|pform-network|!category-blue|!category-playlist|!category-default|!category-TheSnackChart|psp-0|asc-{asc}|ssc-{ssc}|psc-{psc}|pac-{pac}|sac-{sac}|rsc-{rsc}|rac-{rac}|gac-{gac}|!category-previousMetadatafranchise|demo-{demo}|tile-{tile}|dcmt-text/xml;sz=640x480;ord={ord}"/>
+</media:content>
+<media:title>Night and Day</media:title>
+<media:description><![CDATA[Blue and Joe are making a list of their friends' favorite snacks. Which snacks will each person choose?]]></media:description>
+<media:thumbnail width="145" height="111"
+url="http://www.nickjr.com/assets/videoplayer/kids/videos/miss/220-night/220-night-thumb.jpg"/>
+<media:player url="http://media.mtvnservices.com/mgid:cms:item:nickjr.com:116052"/>
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:text role="captions" lang="en" label="English (CC)" type="text/xml"
+src="http://a5.akadl.mtvnservices.com/5291/mtvnorigin/gsp.alias/mediabus/nickjr.com/2012/07/10/03/20/297123/_74669_3104728_297123_20120710151930481.dfxp.xml"/>
+<media:category scheme="urn:mtvn:content_type" label="Playtime Clip">Playtime Clip</media:category>
+<media:category scheme="urn:mtvn:franchise" label="blue">blue</media:category>
+<media:category scheme="urn:mtvn:playlist_title" label="Blue's Clues Videos">blue_s_clues_videos</media:category>
+<media:category scheme="urn:mtvn:playlist_uri" label="mgid:cms:item:nickjr.com:100982">mgid:cms:item:nickjr.com:100982</media:category>
+<media:category scheme="urn:mtvn:reportable">true</media:category>
+<media:category scheme="urn:mtvn:affect_counters">true</media:category>
+<media:category scheme="urn:mtvn:display:source">Blue's Clues</media:category>
+<media:category scheme="urn:mtvn:display:source_link">http://www.nickjr/com/shows/</media:category>
+<media:category scheme="urn:mtvn:display:date">Tue Jul 10 00:00:00 EDT 2012</media:category>
+<media:category scheme="urn:mtvn:display:seo"><![CDATA[
+<a href='http://www.nickjr.com/'>NickJr.</a>,<a href='http://www.nickjr.com/shows/'>NickJr. Kids Shows</a>,<a href='http://www.nickjr.com/games-activities/'>Preschool Games and Activities</a>,<a href='http://www.nickjr.com/video/index.jhtml'>NickJr. Video</a>
+]]></media:category>
+</media:group>
+</item>
+</channel>
+</rss>
+
+<!-- Date: Thu May 30 19:10:43 EDT 2013 -->
+
+<!-- http://dextr.mtvnservices.com/lite/dc/67/9e/34/254f/5fc1/1b5f01db/00723841/lite.xml -->
