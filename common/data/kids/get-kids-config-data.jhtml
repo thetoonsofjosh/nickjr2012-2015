@@ -20,7 +20,7 @@
 "promoSounds":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/promos/global-promo-sounds.swf",
 "promos":[
 {
-"loader":{"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/loaders/asset-loader.swf","position":{"x":"140","y":"60"}},
+"loader":{"path":"/dynaboss/flash/kids/loaders/asset-loader.swf","position":{"x":"140","y":"60"}},
 "classId":"SinglePromo",
 "localConnectionId":"MainPromo",
 "urlAlias":"kids-homepage",
@@ -33,7 +33,7 @@
 "featured":"true",	
 "title":"Nick Jr. Party Racers Game", 
 "thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/njr_party_racers/GamesFinder/njr_party_racers-thumb.jpg",
-"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015//game/assets/njr_party_racers/GamesFinder/njr_party_racers-kids-game-promo.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/njr_party_racers/GamesFinder/njr_party_racers-kids-game-promo.jpg",
 "link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/nickjr-party-racers.html", 
 "datePosted":"Wed Sep 10 00:00:00 EDT 2014", 
 "numViews":"0"
@@ -42,37 +42,12 @@
 ]
 },
 {
-"loader":{"path":"/dynaboss/flash/kids/loaders/asset-loader.swf","position":{"x":"140","y":"60"}},
+"loader":{"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/loaders/asset-loader.swf","position":{"x":"140","y":"60"}},
 "classId":"SinglePromo",
 "localConnectionId":"miniPromo1",
 "urlAlias":"kids-homepage",
-"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/promos/mini/miniVideoPromo.swf",
-"position":{"x":"576","y":"227"},
-"items":[
-
-{
-"urlAlias":"njr-silly-shorts-kids-videos",	
-"featured":"false",	
-
-"title":"Silly Shorts", 
-"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/assets/videoplayer/parents/videos/pawp/hungry-rubble/hungry-rubble-vidPreview.jpg",
-"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/assets/videoplayer/kids/playlist/promo/pawp/hungry-rubble/hungry-rubble-kids-promo.jpg",
-
-"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-videos/njr-silly-shorts-kids-videos.html", 
-"datePosted":"2014-07-09 10:23:00.0", 
-"numViews":"0"
-
-}
-
-]
-},
-{
-"loader":{"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/loaders/asset-loader.swf","position":{"x":"140","y":"60"}},
-"classId":"SinglePromo",
-"localConnectionId":"miniPromo2",
-"urlAlias":"kids-homepage",
 "path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/promos/mini/miniGamePromo.swf",
-"position":{"x":"698","y":"227"},
+"position":{"x":"576","y":"227"},
 "items":[
 
 {
@@ -89,12 +64,12 @@
 ]
 },
 {
-"loader":{"path":"/dynaboss/flash/kids/loaders/asset-loader.swf","position":{"x":"140","y":"60"}},
+"loader":{"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/loaders/asset-loader.swf","position":{"x":"140","y":"60"}},
 "classId":"SinglePromo",
-"localConnectionId":"miniPromo3",
+"localConnectionId":"miniPromo2",
 "urlAlias":"kids-homepage",
 "path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/promos/mini/miniVideoPromo.swf",
-"position":{"x":"821","y":"227"},
+"position":{"x":"698","y":"227"},
 "items":[
 
 {
@@ -109,6 +84,28 @@
 "datePosted":"2014-09-11 10:28:20.0", 
 "numViews":"0"
 
+}
+
+]
+},
+{
+"loader":{"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/loaders/asset-loader.swf","position":{"x":"140","y":"60"}},
+"classId":"SinglePromo",
+"localConnectionId":"miniPromo3",
+"urlAlias":"kids-homepage",
+"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/promos/mini/miniGamePromo.swf",
+"position":{"x":"821","y":"227"},
+"items":[
+
+{
+"urlAlias":"umi-cops",	
+"featured":"false",	
+"title":"The Stinky Dozen", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/umiz_umicops/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/umiz_umicops/GamesFinder/umi_cops-kids-game-promo-new.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/umi-cops.html", 
+"datePosted":"Wed Jun 11 00:00:00 EDT 2014", 
+"numViews":"251041"
 }
 
 ]
