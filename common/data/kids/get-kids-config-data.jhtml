@@ -29,14 +29,14 @@
 "items":[
 
 {
-"urlAlias":"bubble-guppies-halloween-party",	
+"urlAlias":"nickjr-party-racers",	
 "featured":"true",	
-"title":"Bubble Guppies Halloween Game", 
-"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/bubb_halloweenparty/GamesFinder/thumbnail.jpg",
-"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/bubb_halloweenparty/GamesFinder/kids-game-promo.jpg",
-"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/bubble-guppies-halloween-party.html", 
-"datePosted":"Mon Sep 30 00:00:00 EDT 2013", 
-"numViews":"108661"
+"title":"Nick Jr. Party Racers Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/njr_party_racers/GamesFinder/njr_party_racers-thumb.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015//game/assets/njr_party_racers/GamesFinder/njr_party_racers-kids-game-promo.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/nickjr-party-racers.html", 
+"datePosted":"Wed Sep 10 00:00:00 EDT 2014", 
+"numViews":"0"
 }
 
 ]
@@ -46,19 +46,22 @@
 "classId":"SinglePromo",
 "localConnectionId":"miniPromo1",
 "urlAlias":"kids-homepage",
-"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/promos/mini/miniGamePromo.swf",
+"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/promos/mini/miniVideoPromo.swf",
 "position":{"x":"576","y":"227"},
 "items":[
 
 {
-"urlAlias":"paw-pups-save-the-farm",	
+"urlAlias":"njr-silly-shorts-kids-videos",	
 "featured":"false",	
-"title":"Pups Save the Farm Game", 
-"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/paw_pups_save_the_farm/GamesFinder/paw_pups_save_the_farm-thumb.jpg",
-"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/paw_pups_save_the_farm/GamesFinder/paw_pups_save_the_farm-screenshot1.jpg",
-"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/paw-pups-save-the-farm.html", 
-"datePosted":"Thu Oct 16 00:00:00 EDT 2014", 
+
+"title":"Silly Shorts", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/assets/videoplayer/parents/videos/pawp/hungry-rubble/hungry-rubble-vidPreview.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/assets/videoplayer/kids/playlist/promo/pawp/hungry-rubble/hungry-rubble-kids-promo.jpg",
+
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-videos/njr-silly-shorts-kids-videos.html", 
+"datePosted":"2014-07-09 10:23:00.0", 
 "numViews":"0"
+
 }
 
 ]
@@ -68,22 +71,19 @@
 "classId":"SinglePromo",
 "localConnectionId":"miniPromo2",
 "urlAlias":"kids-homepage",
-"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/promos/mini/miniVideoPromo.swf",
+"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/promos/mini/miniGamePromo.swf",
 "position":{"x":"698","y":"227"},
 "items":[
 
 {
-"urlAlias":"halloween-kids-videos",	
+"urlAlias":"nick-jr-sticker-pictures",	
 "featured":"false",	
-
-"title":"Halloween", 
-"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/assets/videoplayer/parents/videos/promo/boo-halloween-stunt-2/boo-halloween-stunt-2-vidPreview.jpg",
-"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/assets/videoplayer/kids/playlist/promo/promo/boo-halloween-stunt-2/boo-halloween-stunt-2-kids-promo.jpg",
-
-"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-videos/halloween-kids-videos.html", 
-"datePosted":"2011-08-25 15:32:12.0", 
-"numViews":"0"
-
+"title":"Nick Jr. Sticker Pictures Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/nickjr_sticker_pictures/GamesFinder/paw-patrol-creativity-center-2-thumb.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/nickjr_sticker_pictures/GamesFinder/paw-patrol-creativity-center-2-kids-game-promo.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/nick-jr-sticker-pictures.html", 
+"datePosted":"Wed Jun 19 00:00:00 EDT 2013", 
+"numViews":"122959"
 }
 
 ]
@@ -93,19 +93,22 @@
 "classId":"SinglePromo",
 "localConnectionId":"miniPromo3",
 "urlAlias":"kids-homepage",
-"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/promos/mini/miniGamePromo.swf",
+"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/promos/mini/miniVideoPromo.swf",
 "position":{"x":"821","y":"227"},
 "items":[
 
 {
-"urlAlias":"backyardigans-halloween-dressup",	
+"urlAlias":"bubb-guppies-episode-stunt-2014",	
 "featured":"false",	
-"title":"Trick-or-Treat Dress-Up Game", 
-"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/back_halloween/GamesFinder/thumbnail.jpg",
-"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/back_halloween/kids-game-promo.jpg",
-"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/backyardigans-halloween-dressup.html", 
-"datePosted":"Wed Oct 16 00:00:00 EDT 2013", 
-"numViews":"35565"
+
+"title":"Bubble Guppies Episodes", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/assets/videoplayer/parents/videos/bubb/bubble-guppies-episode-stunt-2014/bubble-guppies-episode-stunt-2014-vidPreview-2.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/assets/videoplayer/kids/playlist/promo/bubb/bubble-guppies-episode-stunt/kids-promo-2.jpg",
+
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-videos/bubb-guppies-episode-stunt-2014.html", 
+"datePosted":"2014-09-11 10:28:20.0", 
+"numViews":"0"
+
 }
 
 ]
@@ -113,4 +116,3 @@
 ]
 }
 }
-
