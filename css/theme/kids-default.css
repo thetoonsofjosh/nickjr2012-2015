@@ -17,12 +17,12 @@
 .secondary .categories .selected a{background-position:0 0;}
 
 
-body, .footer .ftrCarousel {background-color: #ed760e;}
+body, .footer .ftrCarousel {background-color: #ffe747;}
 body {background-image:none;}
 
-body#gs .bgBottom div.bgCenter {background: transparent url('https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/images/themes/seas/nickjr-fall-skin/nickjr-fall-skin-kids.jpg') no-repeat top center;}
+body#gs .bgBottom div.bgCenter {background: transparent url('https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/images/themes/orig/nickjr-app/nickjr-app-kids-skin-2014-2.jpg') no-repeat top center;}
 
-.footer .ftrCarousel {background: #ed760e;} 
+.footer .ftrCarousel {background: #ffe747;} 
 
 .footer .siteLinks h4 {background: #ffdd00;}
 
@@ -36,4 +36,4 @@ body#gs .footer .about {background: #ffdd00;}
 
 .footer .copyright {background: #ffdd00;}
 
-.wrapper, #contentContainer, #cap, .wrapper2 {background-color: #ed760e} 
+.wrapper, #contentContainer, #cap, .wrapper2 {background-color: #ffe747} 
