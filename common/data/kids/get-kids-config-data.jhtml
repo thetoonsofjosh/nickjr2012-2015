@@ -29,13 +29,13 @@
 "items":[
 
 {
-"urlAlias":"nickjr-party-racers",	
+"urlAlias":"nickjr-holiday-party",	
 "featured":"true",	
-"title":"Nick Jr. Party Racers Game", 
-"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/njr_party_racers/GamesFinder/njr_party_racers-thumb.jpg",
-"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/njr_party_racers/GamesFinder/njr_party_racers-kids-game-promo.jpg",
-"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/nickjr-party-racers.html", 
-"datePosted":"Wed Sep 10 00:00:00 EDT 2014", 
+"title":"Nick Jr. Holiday Party", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/njr_holiday_party/GamesFinder/njr_holiday_party-thumb.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/njr_holiday_party/GamesFinder/njr_holiday_party-kids-game-promo.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/nickjr-holiday-party.html", 
+"datePosted":"Wed Nov 26 00:00:00 EDT 2014", 
 "numViews":"0"
 }
 
@@ -51,12 +51,12 @@
 "items":[
 
 {
-"urlAlias":"nick-jr-sticker-pictures",	
+"urlAlias":"dora-ice-skating-game",	
 "featured":"false",	
-"title":"Nick Jr. Sticker Pictures Game", 
-"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/nickjr_sticker_pictures/GamesFinder/paw-patrol-creativity-center-2-thumb.jpg",
-"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/nickjr_sticker_pictures/GamesFinder/paw-patrol-creativity-center-2-kids-game-promo.jpg",
-"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/nick-jr-sticker-pictures.html", 
+"title":"Dora's Ice Skating Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dora_iceskating/GamesFinder/dora_iceskating-thumb.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/dora_iceskating/GamesFinder/dora_iceskating-02.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/dora-ice-skating-game.html", 
 "datePosted":"Wed Jun 19 00:00:00 EDT 2013", 
 "numViews":"122959"
 }
@@ -73,15 +73,15 @@
 "items":[
 
 {
-"urlAlias":"bubb-guppies-episode-stunt-2014",	
+"urlAlias":"holiday-party-kids-videos",	
 "featured":"false",	
 
-"title":"Bubble Guppies Episodes", 
-"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/assets/videoplayer/parents/videos/bubb/bubble-guppies-episode-stunt-2014/bubble-guppies-episode-stunt-2014-vidPreview-2.jpg",
-"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/assets/videoplayer/kids/playlist/promo/bubb/bubble-guppies-episode-stunt/kids-promo-2.jpg",
+"title":"Holiday Videos", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/assets/videoplayer/kids/videos/promo/holiday-party-stunt-12-14/holiday-party-stunt-12-14-thumb.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/assets/videoplayer/kids/playlist/promo/promo/holiday-party-stunt-12-14/holiday-party-stunt-12-14-kids-promo.jpg",
 
-"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-videos/bubb-guppies-episode-stunt-2014.html", 
-"datePosted":"2014-09-11 10:28:20.0", 
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-videos/holiday-party-kids-videos.html", 
+"datePosted":"2012-11-09 12:25:19.0", 
 "numViews":"0"
 
 }
@@ -98,12 +98,12 @@
 "items":[
 
 {
-"urlAlias":"umi-cops",	
+"urlAlias":"lalaloopsy-friendship-parade",	
 "featured":"false",	
-"title":"The Stinky Dozen", 
-"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/umiz_umicops/GamesFinder/thumbnail.jpg",
-"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/umiz_umicops/GamesFinder/umi_cops-kids-game-promo-new.jpg",
-"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/umi-cops.html", 
+"title":"Lalaloopsy Friendship Parade", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/lala_friendship_parade/GamesFinder/lala_friendship_parade-thumb.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/lala_friendship_parade/GamesFinder/lala_friendship_parade-kids-game-promo-new.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/lalaloopsy-friendship-parade.html", 
 "datePosted":"Wed Jun 11 00:00:00 EDT 2014", 
 "numViews":"251041"
 }
