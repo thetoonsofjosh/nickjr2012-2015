@@ -17,7 +17,7 @@ body {
 
 /*Temp fix for NICKTM-3520 read notes there*/
 .fluxWidget .authentication .closeButton{
-	background: transparent url(http://static2.fluxstatic.com/-/Clients/Common/Img/signupoverlay_close_btn.png) no-repeat 0% 0%;
+	background: transparent url(http://web.archive.org/web/20140808024233im_/http://static2.fluxstatic.com/-/Clients/Common/Img/signupoverlay_close_btn.png) no-repeat 0% 0%;
 	cursor: pointer;
 	display: block;
 	height: 13px;
@@ -37,7 +37,7 @@ body {
 /* repaint -- break-up and move to appropriate css files */
 
 h2.catHeader {
-	background: transparent url(/assets/repaint/title-dots.png) repeat-x;
+	background: transparent url(/web/20140808024233im_/http://www.nickjr.com/assets/repaint/title-dots.png) repeat-x;
 	font: 500 14px 'omnes-pro', sans-serif;
 	margin-bottom: 6px;
 	padding: 5px 0 9px;
@@ -52,7 +52,7 @@ h2.catHeader {
 /* ****************** BACKGROUNDS ***************** */
 
 body#gs .bgCenter, body.wideAlternate .bgCenter  {
-  background: url("/assets/repaint/outcrop.jpg") no-repeat scroll 50% 150px transparent;
+  background: url("/web/20140808024233im_/http://www.nickjr.com/assets/repaint/outcrop.jpg") no-repeat scroll 50% 150px transparent;
   padding-bottom: 20px;
 }
 
@@ -74,9 +74,9 @@ body {
   box-shadow: 10px 10px #aaa; */
 }
 
-#body-top {background: url(https://thetoonsofjosh.github.io/nickjr2012-2015/assets/repaint/top-white.jpg) no-repeat; height: 24px; width: 1014px;}
-#body-middle {background: url(https://thetoonsofjosh.github.io/nickjr2012-2015/assets/repaint/mid-white.jpg) repeat-y; padding: 0 25px 0 10px; width: 979px;}
-#body-bottom {background: url(https://thetoonsofjosh.github.io/nickjr2012-2015/assets/repaint/bottom-white.png) no-repeat; height: 35px; width: 1014px;}
+#body-top {background: url(/web/20140808024233im_/http://www.nickjr.com/assets/repaint/top-white.jpg) no-repeat; height: 24px; width: 1014px;}
+#body-middle {background: url(/web/20140808024233im_/http://www.nickjr.com/assets/repaint/mid-white.jpg) repeat-y; padding: 0 25px 0 10px; width: 979px;}
+#body-bottom {background: url(/web/20140808024233im_/http://www.nickjr.com/assets/repaint/bottom-white.png) no-repeat; height: 35px; width: 1014px;}
 
 #body-middle div.solid {
 	margin: 0 auto 10px; }
@@ -511,3 +511,24 @@ body.wideAlternate .wrapper2 .header {
 .copyright #copyYear, .copyright #copyrightMark {
 	font-size:10px;
 }
+
+/*
+     FILE ARCHIVED ON 02:42:33 Aug 08, 2014 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 17:42:57 Jan 06, 2025.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.522
+  exclusion.robots: 0.017
+  exclusion.robots.policy: 0.007
+  esindex: 0.009
+  cdx.remote: 20.533
+  LoadShardBlock: 410.958 (6)
+  PetaboxLoader3.datanode: 380.786 (7)
+  load_resource: 163.362
+  PetaboxLoader3.resolve: 141.791
+*/
