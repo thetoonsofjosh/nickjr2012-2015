@@ -1,28 +1,28 @@
-.secondary .categories a{display:block;background:transparent url() no-repeat 0 -138px;height:69px;}
+.secondary .categories a{display:block;background:transparent url(/web/20141005012611im_/http://www.nickjr.com/css/theme/kids-halloween-theme-2014.html) no-repeat 0 -138px;height:69px;}
 
 #navFamily{
-	background-image:url(/dynaboss/images/themes/neighborhood-2011/images/family.png);
+	background-image:url(/web/20141005012611im_/http://www.nickjr.com/dynaboss/images/themes/neighborhood-2011/images/family.png);
 	width:106px;}
 #navShows{
-	background-image:url(/dynaboss/images/themes/neighborhood-2011/images/shows.png);
+	background-image:url(/web/20141005012611im_/http://www.nickjr.com/dynaboss/images/themes/neighborhood-2011/images/shows.png);
 	width:106px;}
 #navKids{
-	background-image:url(/dynaboss/images/themes/neighborhood-2011/images/kids.png);
+	background-image:url(/web/20141005012611im_/http://www.nickjr.com/dynaboss/images/themes/neighborhood-2011/images/kids.png);
 	width:106px;}
 #navBoost{
-	background-image:url(/dynaboss/images/themes/neighborhood-2011/images/boost.png);
+	background-image:url(/web/20141005012611im_/http://www.nickjr.com/dynaboss/images/themes/neighborhood-2011/images/boost.png);
 	width:106px;}
 
 .secondary .categories a:hover{background-position:0 -69px;}
 .secondary .categories .selected a{background-position:0 0;}
 
 
-body, .footer .ftrCarousel {background-color: #f8ff00;}
+body, .footer .ftrCarousel {background-color: #3f781c;}
 body {background-image:none;}
 
-body#gs .bgBottom div.bgCenter {background: transparent url('https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/images/themes/seas/nickjr-summer-skin/nickjr-summer-skin-kids.jpg') no-repeat top center;}
+body#gs .bgBottom div.bgCenter {background: transparent url('https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/images/themes/halloween-skin-2014/halloween-skin-2014-kids.jpg') no-repeat top center;}
 
-.footer .ftrCarousel {background: #fc8b08;} 
+.footer .ftrCarousel {background: #3f781c;} 
 
 .footer .siteLinks h4 {background: #ffdd00;}
 
@@ -36,4 +36,26 @@ body#gs .footer .about {background: #ffdd00;}
 
 .footer .copyright {background: #ffdd00;}
 
-.wrapper, #contentContainer, #cap, .wrapper2 {background-color: #f8ff00} 
+.wrapper, #contentContainer, #cap, .wrapper2 {background-color: #3f781c} 
+
+
+/*
+     FILE ARCHIVED ON 01:26:11 Oct 05, 2014 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 19:49:29 Sep 30, 2024.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.836
+  exclusion.robots: 0.03
+  exclusion.robots.policy: 0.014
+  esindex: 0.014
+  cdx.remote: 7.073
+  LoadShardBlock: 201.82 (3)
+  PetaboxLoader3.datanode: 76.881 (4)
+  PetaboxLoader3.resolve: 404.773 (2)
+  load_resource: 309.471
+*/
