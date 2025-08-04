@@ -3,7 +3,7 @@
   <video>
     <item origination_date="03-09-2017 17:24:25">
       <rendition cdn="akamai" method="fms" duration="367" width="384" height="216" type="video/mp4" bitrate="450">
-        <src>https://thetoonsofjosh.github.io/nickjr2012-2015/dynamo/video/clips/jacknuttinbutstringz.mp4</src>
+        <src>'https://thetoonsofjosh.github.io/nickjr2012-2015/dynamo/video/clips/jacknuttinbutstringz.mp4</src>
       </rendition>
       <transcript kind="captions" srclang="en" label="English">
         <typographic format="cea-608" src="http://a2.akadl.mtvnservices.com/9950/mtvnorigin/gsp.comedystor/com/dailyshow/TDS/season_16/episode_057/ds_16057_01.SCC"/>
@@ -16,4 +16,5 @@
       </beacons>
     </item>
   </video>
+
 </package>
